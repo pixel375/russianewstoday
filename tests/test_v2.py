@@ -68,6 +68,16 @@ class HourlyTests(TestCase):
         self.assertEqual(positions, [0, 1, 2])
         self.assertEqual(len(msgs), 3)
 
+    def test_empty_push_payload_uses_commit_diff_fallback(self):
+        from unittest.mock import Mock
+        with TemporaryDirectory() as tmp:
+            event = Path(tmp) / "event.json"
+            event.write_text(json.dumps({"commits": []}))
+            with patch("src.publish_v2.subprocess.run",
+                       return_value=Mock(stdout="outbox/hourly/2026-11-16T22.json\\n")):
+                self.assertEqual(str(path_from_github_event(event)),
+                                 "outbox/hourly/2026-11-16T22.json")
+
     def test_push_event_selects_file(self):
         with TemporaryDirectory() as tmp:
             event = Path(tmp) / "event.json"
