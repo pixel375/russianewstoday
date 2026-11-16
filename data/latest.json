@@ -1,0 +1,543 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-11-16",
+  "generated_at_utc": "2026-11-16T15:35:03.974862+00:00",
+  "window_start_utc": "2026-11-15T15:35:03.974862+00:00",
+  "window_end_utc": "2026-11-16T15:35:03.974862+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 4,
+      "raw_count": 73
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 3,
+      "raw_count": 40
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 2,
+      "raw_count": 21
+    }
+  ],
+  "stats": {
+    "raw_posts": 134,
+    "relevant_posts": 58,
+    "deduplicated_posts": 56,
+    "candidate_posts": 56
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19656",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19656",
+      "published_at": "2026-11-16T14:21:45+00:00",
+      "text": "JUST IN: 🇺🇸 🇷🇺 🇺🇦 US says it is working on a peace deal acceptable to both Russia and Ukraine. @BRICSNews",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198315",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198315",
+      "published_at": "2026-11-16T14:11:36+00:00",
+      "text": "🇷🇺 🇨🇳 Putin will visit Shenzhen, China on November 18-19, where he will participate in the APEC summit, according to Ushakov. Vladimir Putin and Xi Jinping will hold Russian-Chinese talks on November 18, Kremlin Aide Yury Ushakov said. They will be held in a working breakfast format to discuss foreign policy issues, including Ukraine. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "bricsnews/19655",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19655",
+      "published_at": "2026-11-16T14:03:32+00:00",
+      "text": "JUST IN: 🇺🇸 🇷🇺 President Trump and Russian President Putin to discuss Ukraine during talks in China. @BRICSNews",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198312",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198312",
+      "published_at": "2026-11-16T13:26:58+00:00",
+      "text": "🇺🇦 🇷🇺 Ukrainian sources have published satellite images of the Crimean Bridge after last night's attack. The images appear to show at least two kamikaze drone hits on the road section of the bridge. Another strike seems to have bent the bridge's arch. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198311",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198311",
+      "published_at": "2026-11-16T13:24:01+00:00",
+      "text": "🇷🇺 🇺🇳 \"The UN system has Ukraine fatigue\": Russia set to win top posts at UN telecoms agency Russia is expected to win two senior posts at the International Telecommunication Union (ITU), the UN agency that sets global rules on radio frequencies and digital technology. The ITU's 194 member states are holding elections today in Doha, Qatar. \"Their election would demonstrate that Russia is back in the multilateral system. The UN system has Ukraine fatigue,\" a Western diplomat told Reuters. Another UN diplomat said Moscow's chances are high, because a number of countries are restoring trade and security ties with Russia and don't want to openly oppose it at the UN. Russia is competing for a seat on the Radio Regulations Board, which settles disputes over signal interference, and a seat on the ITU Council, which shapes the agency's budget and strategy. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198308",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198308",
+      "published_at": "2026-11-16T12:47:17+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Ukrainian opposition channel: Zelensky furious after failed attack on the Crimean Bridge The Ukrainian opposition Telegram channel Legitimniy, citing its own source, reports that Zelensky is unhappy that today's attack on the Crimean Bridge failed. According to the channel, the operation was prepared together with European military institutions, which helped with intelligence, planning and execution. More than 1,300 drones were reportedly launched, including both regular and jet-powered ones. Unmanned naval boats were also used, with the job of delivering FPV drones to the bridge and knocking out air defense systems, radars and electronic warfare equipment. The channel claims the operation cost Ukraine more than $150 million. It also says the AFU will soon try again, because for Zelensky a strike on the Crimean Bridge is as valuable for PR as a strike on the Kremlin. The source also claims that a meeting was held in the Kremlin after the attack. According to the channel, Moscow decided to respond with massive strikes on many Ukrainian bridges, and it warned residents of Kiev",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198307",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198307",
+      "published_at": "2026-11-16T12:42:52+00:00",
+      "text": "🇩🇪 Berlin to the rest of Europe: pay up for Kiev German Foreign Minister Johann Wadephul, from one of the most unpopular governments in Europe, wants Ukraine's next \"hard winter of war\" paid for by everyone. Ahead of talks with EU counterparts, he said Ukraine needs more money for energy and air defense, and that the burden must be shared \"fairly,\" because supporting Kiev \"must not be left to just a few member states.\" 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198306",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198306",
+      "published_at": "2026-11-16T12:30:17+00:00",
+      "text": "🇧🇬 Cargo ship sinks off Bulgaria's Black Sea coast The Somali-flagged cargo ship BETUL 8 has sunk in Bulgaria's exclusive economic zone in the Black Sea. Its crew sent a distress call at 9:15 a.m. on Monday from about 40 nautical miles southeast of Cape Kaliakra, reporting that the vessel was sinking. The 1988-built ship was carrying about 3,000 tons of Ukrainian wheat from the Romanian Danube port of Tulcea to Egypt. Four ships from NATO's Black Sea mine countermeasures group were sent to the scene: two Bulgarian, one Romanian and one Turkish. All 12 crew members, all of them Turkish, were rescued. Bulgarian media say the ship went down after an explosion. Investigators are looking into whether it was caused by a sea mine or a drone attack. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198305",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198305",
+      "published_at": "2026-11-16T12:26:31+00:00",
+      "text": "📝 Another 45 billion in debt 📝 Financing gaps for so-called Ukraine are growing faster than European budgets manage to close them. On Wednesday, the European Commission will propose a new loan to Ukraine for 45 billion euros backed by the EU's general budget. This is on top of the already agreed 90 billion euro loan. According to the European Commission's estimates, Ukraine will lack around 70 billion euros in 2027. Two-thirds of that, or 45 billion, the EU plans to cover with a loan using the same scheme as last year. The remaining 25 billion should come from other partners. Interest and loan servicing will again fall on the EU budget. Notably, the calculations were based on this: the European Commission counted Ukraine's previous needs using an IMF preliminary forecast in which the war ended in 2026. The new loan requires unanimity from all 27 countries. Hungary, Slovakia, Czechia, and Bulgaria stated they will not participate. The first three already secured exemption from guarantees on the 90 billion euro loan last year. Friedrich Merz threatened in a letter to European Council P",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198304",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198304",
+      "published_at": "2026-11-16T12:22:27+00:00",
+      "text": "🇷🇺 ✈️ 💥 🇺🇦 Russian strikes on AFU positions: four FAB-500 bombs hit a temporary base of the AFU's 128th Separate Mountain Assault Brigade in Zarechnoye (Dimitrovo), and a rocket strike destroys an AFU drone launch site in the area of Russia's West group of forces. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198302",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198302",
+      "published_at": "2026-11-16T12:17:41+00:00",
+      "text": "🇫🇷 🇺🇦 ⚔️ 🇷🇺 French troops have been secretly operating in Ukraine since summer 2026, RFI reveals French troops have been deployed in Ukraine for months under a secret operation called \"Volia,\" led by a French general. That's according to an investigation by Radio France Internationale (RFI), France's state-owned international broadcaster. According to RFI's sources, the mission is described as a \"light and modular\" structure that uses \"small numbers of personnel for short missions.\" Officially, French Army soldiers train AFU non-commissioned officers who will go on to lead combat squads, and they maintain weapons France has sent to Kiev. A source told AFP that the report is accurate. RFI says the French training mission in Poland, called Gerfaut, is being used as cover. Soldiers heading to Ukraine are reportedly told to say they're going to Poland. Paris has never confirmed that French troops are on Ukrainian soil. All officially just mechanics and instructors, of course. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98140",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98140",
+      "published_at": "2026-11-16T12:15:45+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Destruction of railway infrastructure using Geran-4 Seeker drones: • 00:01 – Two locomotives near the settlement of Serbka, Odessa Oblast. • 00:20 – One locomotive near the settlement of Matviivka, Zaporozhye Oblast. • 00:28 – One locomotive in the city of Dnipropetrovsk. @IntelSlava",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198299",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198299",
+      "published_at": "2026-11-16T11:52:53+00:00",
+      "text": "🇵🇱 🇺🇦 Poland deports two Ukrainians who threatened passers-by and praised the Kraków terror attack Polish police have deported two Ukrainian citizens, aged 18 and 19, after an incident in Wrocław. They stood on a balcony on Walońska Street, shouted at people below that they were terrorists and had a bomb, and pretended to shoot at them with a replica gun. According to police, the pair also publicly praised the recent terror attack in Kraków. In that attack, a gunman killed six people and wounded 15 others in the city's historic Main Market Square on November 7. Police detained the two men on Friday, November 13. After they were charged, both were deported to Ukraine the same day. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98136",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98136",
+      "published_at": "2026-11-16T11:45:00+00:00",
+      "text": "🇷🇺 🇺🇦 🇺🇸 ⚡️ — Ukraine has been receiving warnings for several days about Russia's preparations for a new attack on the energy sector and critical infrastructure, according to Spokeperson of the Air Force, Ignat. Initially, it was reported that the information came specifically from U.S. intelligence. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98135",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98135",
+      "published_at": "2026-11-16T11:44:24+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Has anyone considered the number of drones shot down since the start of the special military operation? The Russian Ministry of Defense has calculated and announced the figure: 290,000. I don't know what methodology was used for the calculation. It could be different. Also, it's unclear whether these figures only include those reported in the daily summary, or whether those shot down by electronic warfare systems are also included. In short, let's just take it at face value, but it's a significant number. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198297",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198297",
+      "published_at": "2026-11-16T11:32:28+00:00",
+      "text": "🇪🇺 🇮🇪 BREAKING: The EU sanctions Irish journalist Chay Bowes The European Union has added our friend, the Irish journalist and RT International correspondent Chay Bowes, to its sanctions list. He is one of 30 individuals and two entities listed today under the EU's sanctions regimes on \"foreign information manipulation and interference\" (FIMI) and cyber activities linked to Russia. The Fascist EU is now sanctioning one of its own citizens, a journalist, for his reporting. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198295",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198295",
+      "published_at": "2026-11-16T10:59:11+00:00",
+      "text": "🇫🇮 🇪🇺 Stubb dreams of the EU becoming a military superpower alongside Ukraine, capable of standing up to Russia without American assistance. Apparently, the plan is to replace American military power with Brussels bureaucracy, Ukrainian manpower and a few strongly worded statements from Ursula. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "bricsnews/19654",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19654",
+      "published_at": "2026-11-16T10:51:55+00:00",
+      "text": "JUST IN: 🇺🇦 🇷🇺 Ukraine launches largest drone attack on Russia since the war began. @BRICSNews",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98133",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98133",
+      "published_at": "2026-11-16T10:35:55+00:00",
+      "text": "🇫🇷 French military personnel have reportedly been operating within Ukraine for several months under a highly confidential mission designated “Volia,” providing training and technical support to Ukrainian forces, according to an investigation by RFI. The mission reportedly entails the maintenance of French-supplied weaponry, including Caesar howitzers and Mirage 2000 aircraft. Small teams of French military personnel are alleged to enter Ukraine via Poland under the existing Gerfaut mission. RFI notes that the French government has not officially confirmed this deployment. Furthermore, the French Parliament was reportedly not informed, raising inquiries regarding constitutional requirements for overseas military operations. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198292",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198292",
+      "published_at": "2026-11-16T10:16:14+00:00",
+      "text": "🇪🇪 The brave Estonian government is preparing an evacuation plan in the event of a war with Russia. According to Politico, local authorities plan to govern the country from Luxembourg. They will do this online. “Imagine French General Charles de Gaulle, who during World War II lived in exile in London and governed the ‘Free France’ government by logging into the system via the cloud. Estonian authorities are preparing for exactly this scenario, developing a new strategy to increase resilience to emergencies that will allow them to fully manage the government’s digital services from abroad if its territory is occupied by a foreign enemy. Estonia already has a backup of its data in its ‘digital embassy’ in Luxembourg — essentially, it is a copy of the entire country, including everything from citizen registries to land registries and the legal code.” 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198291",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198291",
+      "published_at": "2026-11-16T09:36:41+00:00",
+      "text": "🇺🇦 In Dnepropetrovsk, one of Ukraine’s large oil extraction plants, associated with the production of “Oleyna” oil, came under attack, local media report 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198289",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198289",
+      "published_at": "2026-11-16T09:35:34+00:00",
+      "text": "🇪🇺 🇩🇪 Europeans are getting agitated. The Chairman of the Munich Security Conference, Wolfgang Ischinger, demands the return of Crimea to Ukraine. ‘Since Putin is now talking about returning to the situation that existed before the NATO summit in Madrid in 1997, then this return to the previous status quo should, of course, quite naturally include the return of Crimea to Ukraine and the withdrawal of the Russian army from eastern Ukraine. Right? 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198287",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198287",
+      "published_at": "2026-11-16T08:57:15+00:00",
+      "text": "🇺🇦 🎮 Azov wants you to die for Ukraine, but at least they’re advertising it with GTA VI! Apparently, joining Azov is just like joining a video game, find a team, overcome challenges and gain new experiences. There’s just one small difference, in GTA you can switch off the console, reload your save or respawn when things go wrong. In real life, there is no restart button, no cheat code and no second life once you get hit by a Russian Drone…. Rockstar gives you GTA VI. Azov gives you Game Over. 💀 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198284",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198284",
+      "published_at": "2026-11-16T08:40:03+00:00",
+      "text": "🇮🇹 🇺🇦 Far-right leader Roberto Vannacci is demanding an end to military aid for Ukraine in exchange for backing Giorgia Meloni’s government ahead of Italy’s 2027 election. His National Future party is polling at around 7%, potentially complicating Meloni’s path to a parliamentary majority. Vannacci also demands the deportation of around 2.4 million migrants and an end to Italy’s support for the EU Green Deal. He says he does not want a government position but intends to influence policy from outside the cabinet say Politico 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198283",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198283",
+      "published_at": "2026-11-16T08:38:18+00:00",
+      "text": "🇪🇺 Kaka Kallas will attempt to influence negotiations with the Russian Federation, despite EU leaders’ refusal to allow her participation. According to the head of the European diplomatic service, she has experts who have previously worked with Russia and are familiar with the negotiations. This will allow the focus to be maintained on the negotiation process, Kallas noted. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198281",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198281",
+      "published_at": "2026-11-16T08:33:45+00:00",
+      "text": "🇺🇦 After Russian strikes, the Preobrazhensky bridge in Zaporozhye has been completely closed This was reported by representatives of the regional authorities. Earlier, the Russian Armed Forces struck facilities in the city with guided aerial bombs. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198280",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198280",
+      "published_at": "2026-11-16T08:31:42+00:00",
+      "text": "🇺🇦 DTEK facilities in Odessa Oblast have been attacked by Russian Forces leaving more than 52,200 consumers without electricity, the company reports. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198279",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198279",
+      "published_at": "2026-11-16T08:30:36+00:00",
+      "text": "🇺🇦 Kiev has been suffering major traffic congestion since early this morning, with long queues of cars building up on routes connecting the left and right banks of the Dnieper. The worst congestion has been reported near the South Bridge. Meanwhile, in Zaporozhye, the Preobrazhensky Bridge has once again been closed to traffic, with authorities yet to provide a clear explanation. Drivers are being redirected via the DneproGES dam and the Cable-Stayed Bridge, where vehicles weighing more than 3.5 tonnes are already prohibited. The disruption in Kiev follows damage to infrastructure caused by Russian strikes. The South Bridge is operating with restrictions, while the North Bridge has been subject to further limitations since 15 November, allowing only buses and trolleybuses to travel from the left bank to the right bank. Private cars are being redirected to other crossings, while trucks must use the Podolsky Bridge. The ageing Paton Bridge is also struggling to cope with the additional traffic, operating under a reversible traffic system because of its deteriorating condition. In Zapor",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198276",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198276",
+      "published_at": "2026-11-16T08:19:49+00:00",
+      "text": "🇪🇺 🇪🇪 EU’s kaka Kallas: The Russians are saying that they are waiting and that the Europeans have not offered them anything. This is exactly the playbook they always use. Suddenly, it becomes our responsibility to offer them something, even though they started the war. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198274",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198274",
+      "published_at": "2026-11-16T07:51:38+00:00",
+      "text": "🇪🇪 Estonia is getting increasingly frustrated that some EU countries aren’t quite as enthusiastic about sanctioning Russia as Tallinn would like. Foreign Minister Margus Tsahkna has complained to Politico about “powerful and influential forces” blocking new sanctions, although he conveniently forgot to mention who these mysterious forces actually are. Apparently, some European countries are even considering restoring relations with Moscow. Meanwhile, Brussels is preparing yet another sanctions package targeting up to 145 individuals and companies, including Russian banks and alleged shadow fleet operators. After years of sanctions, European politicians are increasingly questioning whether the strategy is working. Some are even beginning to notice that Europe is taking quite a bit of economic collateral damage itself. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198273",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198273",
+      "published_at": "2026-11-16T07:48:59+00:00",
+      "text": "🇺🇦 A Photo of the massive traffic jam at the Northern Bridge in Kiev 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198272",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198272",
+      "published_at": "2026-11-16T07:38:16+00:00",
+      "text": "🇷🇺 🎾 🇺🇦 Russian Mirra Andreeva defeated Ukrainian Elina Svitolina in the WTA Finals final with a score of 7:5, 6:3. The 19-year-old Andreeva became the first Russian woman in 22 years to win this tournament in the singles category. The last one was Maria Sharapova in 2004. Andreeva went through the entire tournament without losing a single set and will now become the world number two. After the final, Svitolina did not shake hands with the Andreeva and refused a joint photo. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198270",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198270",
+      "published_at": "2026-11-16T07:17:35+00:00",
+      "text": "🇷🇺 🇺🇦 Air defense systems shot down 1,336 Ukrainian drones over Russian regions overnight says the Russian Ministry of Defense 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198268",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198268",
+      "published_at": "2026-11-16T07:14:00+00:00",
+      "text": "🇺🇦 The Ukrainian Armed Forces attacked a passenger bus in the Zaporozhye region; the driver and two passengers have been taken to hospital. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198267",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198267",
+      "published_at": "2026-11-16T07:10:21+00:00",
+      "text": "🇷🇺 The Ukrainian Armed Forces struck the Crimean Bridge, and traffic has been temporarily suspended until midday, according to the head of Crimea Sergei Aksyonov. 🔴 @DDGeopolitics",
+      "related_urls": [
+        "https://t.me/DDGeopolitics/198263"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198266",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198266",
+      "published_at": "2026-11-16T07:07:44+00:00",
+      "text": "🇬🇧 🇺🇦 British Defense Minister Strating stated that Zelensky does not need to give up territory because the United Kingdom will help him wage war against Russia. ‘It is extremely important that any negotiations, any proposed peace agreement, are first and foremost acceptable to Ukraine, and we will support the Ukrainians to the end by all possible means. I do not believe at all that Putin is in a position to make demands on the rest of Europe regarding our defense policy. Especially considering that, while continuing to claim that he does not want a war with Europe, he gave Ukraine exactly the same assurances before unleashing the current war in Europe. So please forgive us if we do not take Putin’s statements at face value.’ 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198265",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198265",
+      "published_at": "2026-11-16T06:30:11+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation continued to launch strikes by unmanned aerial vehicles against port and railway infrastructure facilities as well as vessels engaged in providing support to the Armed Forces of Ukraine. 💥 As a result of the strikes, the following targets were hit: ▫️ a dry cargo ship at sea delivering military and dual-use cargo for the Armed Forces of Ukraine to the port of Chernomorsk; ▫️ a railway locomotive near the Zaporozhye railway station employed to transport goods intended for being supplied to the Armed Forces of Ukraine. 🔹 Russian Defence Ministry",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198264",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198264",
+      "published_at": "2026-11-16T06:24:06+00:00",
+      "text": "🇺🇦 Big fire in Vyshgorod near Kiev 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98131",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98131",
+      "published_at": "2026-11-16T05:51:17+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — Western satellites have recorded the destruction of five oil storage tanks at the port of Ust-Luga following an attack by Ukrainian drones on November 11th. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98129",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98129",
+      "published_at": "2026-11-16T03:40:57+00:00",
+      "text": "🇺🇦 ❌ 🇷🇺 — A Ukrainian drone struck an oil depot in Azov, Rostov Oblast. @IntelSlava",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98128",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98128",
+      "published_at": "2026-11-16T03:33:02+00:00",
+      "text": "🇺🇸 ⚡️ — NATO will cancel the 2027 Albania summit due to internal disagreements over Ukraine, Iran and expenditures according to the Associated Press. @IntelSlava",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98125",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98125",
+      "published_at": "2026-11-16T00:56:55+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — According to internal Ukrainian statistics, Ukraine has lost at least 630 locomotives to date, including 400 in 2026 alone. @IntelSlava",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98119",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98119",
+      "published_at": "2026-11-15T21:32:42+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — Ukraine's President Zelensky: “As of today, we have disabled more than 55% of Russia’s oil refining capacity. This is our justified response to Russia’s refusal to de-escalate and its strikes on our energy infrastructure.”",
+      "related_urls": [
+        "https://t.me/intelslava/98118"
+      ]
+    },
+    {
+      "id": "intelslava/98116",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98116",
+      "published_at": "2026-11-15T21:27:31+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡ To date, we have disabled more than 55% of Russia's oil refining capacity — Zelensky. @IntelSlava",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198259",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198259",
+      "published_at": "2026-11-15T21:18:53+00:00",
+      "text": "🇮🇪 🇺🇦 The Irish soy boy is making noises again, trying to scare middle aged Brits and Scandinavians with a Ukrainian flag in their bio. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98112",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98112",
+      "published_at": "2026-11-15T21:04:56+00:00",
+      "text": "🇪🇪 🇷🇺 Estonian Security Service: “On November 14 at 3:06 a.m., an attempt was made to attack the premises of the defense industry company Threod Systems, which produces drones, with the aim of causing an explosion and setting the building on fire. We quickly detained the suspects. We warn against even the thought of such job offers from Russia. The consequences are serious!“",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98111",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98111",
+      "published_at": "2026-11-15T21:03:09+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — The Ukrainian Army mined Rylsk in the Kursk region. With the help of drops from UAVs, the city center has been mined. There are already casualties. A 46-year-old woman has a mine-blast injury, a severed left foot, a head injury, and acoustic trauma. A 51-year-old man has a severed right foot, a damaged left leg, head injuries, and acoustic trauma. @IntelSlava",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198256",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198256",
+      "published_at": "2026-11-15T20:57:42+00:00",
+      "text": "🇺🇦 UAV strike in Zaporozhye 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198255",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198255",
+      "published_at": "2026-11-15T19:25:26+00:00",
+      "text": "🇺🇦 Multi-kilometer traffic jams have started again in Kiev . 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198253",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198253",
+      "published_at": "2026-11-15T19:01:41+00:00",
+      "text": "🇨🇿 🇪🇺 One of the largest anti-government demonstrations since the 1989 Velvet Revolution took place in Prague. According to organizers’ estimates, 350,000 to 450,000 people participated. Participants protested against the Babiš government’s plans to switch public television and radio to budget financing, reducing it by 15%. They declared the danger of increased political control over the media. They also demanded the resignation of Parliament Speaker Tomio Okamura and the removal of his party from the leadership of the Ministry of Defense (recall that Okamura is against aid to Ukraine). Babiš stated that he does not intend to abandon the reform. The protest ended without disorder. A new protest is scheduled for December 2. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198248",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198248",
+      "published_at": "2026-11-15T17:57:27+00:00",
+      "text": "🇺🇦 Ukraine prepares for a possible mass influx of migrants The Ukrainian Cabinet of Ministers has established a special Coordination Headquarters to deal with a potential large-scale arrival of migrants or displaced people. Under Resolution No. 1395, the Interior Minister will personally head the operation, coordinating border guards, police, the National Guard, the Security Service and several other government agencies. Temporary accommodation centres will be established in eight regions, providing registration, medical assistance, psychological support and security. Interestingly, private businesses will also be expected to contribute transport, food and medicines. The operation is expected to be financed through businesses, international funds and EU support. The preparations suggest Kiev wants an emergency response system ready should a large influx of people occur. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198247",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198247",
+      "published_at": "2026-11-15T17:30:16+00:00",
+      "text": "🇺🇦 In the Kiev region, a Volkswagen dealership, “Porsche West,” was damaged as a result of a nighttime attack by the Russian Federation, according to the company’s press service. The auto center has temporarily suspended operations due to the damage. No employees were injured. The company is currently addressing the aftermath of the strike and preparing to resume operations. It should be noted that this is not the first strike on auto dealers today. In Odessa, there was a strike on a Mercedes-Benz showroom. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198246",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198246",
+      "published_at": "2026-11-15T16:41:10+00:00",
+      "text": "🇺🇦 The Mercedes-Benz dealership in Odessa was also destroyed by a “Geran” strike. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198245",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198245",
+      "published_at": "2026-11-15T16:16:09+00:00",
+      "text": "🇷🇺 🇺🇦 A logistics center in Zaporozhye has been struck, which was being used by the Ukrainian Armed Forces to store military cargo and dual-use goods reports the Russian Ministry of Defense 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198244",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198244",
+      "published_at": "2026-11-15T16:15:55+00:00",
+      "text": "Fwd from @ 📝 Musk in the crosshairs 📝 Democrats prepare investigations against SpaceX After winning the midterm elections in the US, Democrats gained a majority in the Senate and starting January 2027 will be able to use new oversight powers. One of the main targets will be Elon Musk : lawmakers intend to subpoena him and audit SpaceX government contracts. The main reason for the investigation — restrictions on Starlink and Starshield systems operations in so-called Ukraine. Senators Jeanne Shaheen and Chris Coons , the future chair of the Committee on Foreign Relations, have already demanded that Musk preserve all correspondence since September 1, including contacts with the White House and Pentagon. The businessman and SpaceX continue to deny involvement in the outages, citing the fact that the rules for operating the military network are determined by American leadership. However, the Senate believes that a private company gained too much control over critical infrastructure. Democrats also plan to investigate Musk's activities heading the DOGE government efficiency department . 🖍",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198243",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198243",
+      "published_at": "2026-11-15T16:14:15+00:00",
+      "text": "🇷🇺 🇮🇱 🏒 Israel to host exhibition hockey match featuring Russian State Duma deputy Vyacheslav Fetisov Israel is reportedly planning an exhibition hockey match against Russia to mark the 35th anniversary of the restoration of diplomatic relations between the two countries. Among the expected participants is legendary Russian hockey player and State Duma deputy Vyacheslav Fetisov, who is under international sanctions. The Ukrainian embassy has already lodged a protest with Israeli Culture and Sport Minister Miki Zohar, arguing that the event undermines Western efforts to isolate Russia and could be used for political propaganda. 🔴 @DDGeopolitics",
+      "related_urls": []
+    }
+  ]
+}
