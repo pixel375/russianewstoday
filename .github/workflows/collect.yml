@@ -1,15 +1,17 @@
-name: Collect Telegram news
+name: Collect Telegram news (hourly)
 
 on:
   schedule:
-    # 15:30 UTC = 09:30 CST / 10:30 CDT (Winnipeg).
-    - cron: '30 15 * * *'
+    # Five minutes past every UTC hour. Each run collects the previous
+    # completed UTC hour, not a rolling window with overlapping posts.
+    - cron: '5 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'src/collect.py'
-      - 'src/publish.py'
+      - 'src/hourly.py'
+      - 'src/publish_v2.py'
       - 'tests/**'
       - 'config/**'
       - 'requirements.txt'
@@ -19,7 +21,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-telegram-collection
+  group: hourly-telegram-collection
   cancel-in-progress: false
 
 jobs:
@@ -37,16 +39,18 @@ jobs:
         run: python -m pip install -r requirements.txt
       - name: Run unit tests
         run: python -m unittest discover -s tests -v
-      - name: Crawl the full last 24 hours
-        run: python -m src.collect
-      - name: Commit source snapshot
+      - name: Collect previous complete hour
+        run: python -m src.hourly
+      - name: Commit hourly snapshot and archive
         run: |
           git config user.name "russianewstoday-collector"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/latest.json
+          git add data/hourly/
           if git diff --cached --quiet; then
-            echo "Snapshot unchanged"
+            echo "No new completed hour to commit"
           else
-            git commit -m "data: update 24-hour Telegram collection"
+            git commit -m "data: collect last completed Telegram hour"
+            git fetch origin main
+            git rebase origin/main
             git push origin HEAD:main
           fi
