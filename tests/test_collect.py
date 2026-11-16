@@ -35,7 +35,7 @@ class CollectionTests(unittest.TestCase):
              "published_at": "2026-11-16T12:01:00+00:00", "text": msg, "related_urls": []}
         entries = dedupe([a, b])
         self.assertEqual(len(entries), 1)
-        self.assertIn("https://t.me/DDGeopolitics/2", entries[0]["related_urls"])
+        self.assertEqual(set([entries[0]["url"], *entries[0]["related_urls"]]), {"https://t.me/DDGeopolitics/2", "https://t.me/intelslava/1"})
 
     def test_crawl_pages_until_cutoff(self):
         now = datetime(2026, 11, 16, 16, tzinfo=timezone.utc)
