@@ -1,0 +1,59 @@
+name: Publish Telegram digest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'outbox/*.json'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Digest date YYYY-MM-DD; blank uses latest snapshot date'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: telegram-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    # Additional safety gate; intentionally OFF until end-to-end verification.
+    if: vars.ENABLE_PUBLISH == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+      DIGEST_DATE: ${{ inputs.date }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Validate and publish Telegram messages
+        shell: bash
+        run: |
+          if [ -n "$DIGEST_DATE" ]; then
+            python -m src.publish --date "$DIGEST_DATE"
+          else
+            python -m src.publish
+          fi
+      - name: Save posting receipt
+        run: |
+          git config user.name "russianewstoday-publisher"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add published/
+          if git diff --cached --quiet; then
+            echo "No new receipt"
+          else
+            git commit -m "data: record Telegram publishing receipt"
+            git push origin HEAD:main
+          fi
