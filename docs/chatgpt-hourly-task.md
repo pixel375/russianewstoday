@@ -1,0 +1,44 @@
+# ChatGPT hourly summarization task
+
+Read pixel375/russianewstoday/data/hourly/latest.json from main.
+
+The snapshot must cover the most recently completed UTC hour exactly:
+hour_id is YYYY-MM-DDTHH (UTC start); window_end_utc is the start of the
+current UTC hour; generated_at_utc must be no more than 45 minutes old.
+If missing or stale, stop without writing.
+
+If there are no important new war events, SKIP the hour. Never pad.
+Select 1–5 distinct significant developments. Headline should be short
+and informative, and summary 1–3 sentences with somewhat more detail
+than the former daily digest.
+
+Do not include the original channel names, original Telegram post links,
+or phrases such as "DD Geopolitics reports" in PUBLIC copy. When events
+are disputed, retain words such as reportedly, may, appears or unverified.
+Never convert a channel allegation into a confirmed fact. Avoid repeating
+the same news from prior hours unless there is a substantive development;
+review today's and yesterday's published/hourly_index files when practical.
+
+In INTERNAL JSON only, source_urls must contain 1–4 EXACT post URLs
+from the hourly source snapshot (posts.url or posts.related_urls). The
+publisher validates them but does not display them.
+
+Check outbox/hourly/<hour_id>.json and published/hourly/<hour_id>.json
+for duplicates before writing. Commit ONLY a new file at
+outbox/hourly/<hour_id>.json on main with this format:
+
+{
+  "type": "hourly",
+  "hour_id": "2026-11-16T14",
+  "snapshot_generated_at_utc": "<exact generated_at_utc from the snapshot>",
+  "items": [
+    {
+      "title": "Short descriptive headline",
+      "summary": "One to three neutral sentences with no source-channel attribution.",
+      "source_urls": ["https://t.me/actualsource/12345"]
+    }
+  ]
+}
+
+Do not post to Telegram directly. If the GitHub write isn't possible,
+report the blocker rather than claiming to have published.
