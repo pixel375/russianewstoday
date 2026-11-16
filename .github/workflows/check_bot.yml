@@ -1,0 +1,29 @@
+name: Verify Telegram bot (read-only)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/check_bot.py'
+      - '.github/workflows/check_bot.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install requirements
+        run: python -m pip install -r requirements.txt
+      - name: Verify token, channel, and posting permission
+        run: python -m src.check_bot
