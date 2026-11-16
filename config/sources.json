@@ -1,11 +1,20 @@
 {
   "sources": [
-    {"handle": "DDGeopolitics", "name": "DD Geopolitics"},
-    {"handle": "intelslava", "name": "Intel Slava"},
-    {"handle": "bricsnews", "name": "BRICS News"}
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics"
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava"
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News"
+    }
   ],
   "timezone": "America/Winnipeg",
   "max_pages_per_source": 40,
   "max_candidates": 150,
-  "hours_back": 24
+  "hours_back": 1
 }
