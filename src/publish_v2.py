@@ -17,6 +17,7 @@ import time
 from zoneinfo import ZoneInfo
 
 import requests
+import subprocess
 
 from .collect import ROOT
 
@@ -184,6 +185,18 @@ def path_from_github_event(event: Path) -> Path:
         for name in commit.get("added", []) + commit.get("modified", []):
             if HOUR_PATH.fullmatch(name) or DAY_PATH.fullmatch(name):
                 candidates.add(name)
+    if not candidates:
+        # Some GitHub-created commits arrive with no file list in the push
+        # payload. Inspect the checked-out commit as a reliable fallback.
+        # actions/checkout uses fetch-depth: 2 to include its parent.
+        result = subprocess.run(
+            ["git", "diff-tree", "--no-commit-id", "--name-only", "-r", "HEAD"],
+            capture_output=True, text=True, check=True,
+        )
+        candidates.update(
+            name for name in result.stdout.splitlines()
+            if HOUR_PATH.fullmatch(name) or DAY_PATH.fullmatch(name)
+        )
     if len(candidates) != 1:
         raise ValueError(f"Push must change exactly one supported outbox JSON (found {len(candidates)})")
     return safe_outbox(next(iter(candidates)))
