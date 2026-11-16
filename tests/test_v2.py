@@ -74,7 +74,7 @@ class HourlyTests(TestCase):
             event = Path(tmp) / "event.json"
             event.write_text(json.dumps({"commits": []}))
             with patch("src.publish_v2.subprocess.run",
-                       return_value=Mock(stdout="outbox/hourly/2026-11-16T22.json\\n")):
+                       return_value=Mock(stdout="outbox/hourly/2026-11-16T22.json\n")):
                 self.assertEqual(str(path_from_github_event(event)),
                                  "outbox/hourly/2026-11-16T22.json")
 
