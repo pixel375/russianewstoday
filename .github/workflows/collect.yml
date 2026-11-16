@@ -2,9 +2,10 @@ name: Collect Telegram news (hourly)
 
 on:
   schedule:
-    # Five minutes past every UTC hour. Each run collects the previous
-    # completed UTC hour, not a rolling window with overlapping posts.
-    - cron: '5 * * * *'
+    # Off-peak primary and retry slots. GitHub can delay/drop cron events.
+    # Both runs collect the last fully completed UTC hour.
+    - cron: '9 * * * *'
+    - cron: '14 * * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -16,6 +17,7 @@ on:
       - 'config/**'
       - 'requirements.txt'
       - '.github/workflows/collect.yml'
+      - 'triggers/hourly.json'
 
 permissions:
   contents: write
