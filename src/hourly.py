@@ -63,6 +63,10 @@ def write_snapshot(result: dict, root: Path = ROOT) -> tuple[Path, Path]:
         prior = json.loads(archive.read_text(encoding="utf-8"))
         if prior.get("hour_id") == result["hour_id"]:
             LOG.info("Existing archive for hour %s; keeping prior snapshot", result["hour_id"])
+            # A rerun can repair a missing/stale latest pointer without
+            # rewriting the immutable per-hour archive.
+            if not latest.exists() or json.loads(latest.read_text(encoding="utf-8")).get("hour_id") != result["hour_id"]:
+                latest.write_text(archive.read_text(encoding="utf-8"), encoding="utf-8")
             return latest, archive
         raise RuntimeError("Hour archive collision")
     archive.write_text(content, encoding="utf-8")
