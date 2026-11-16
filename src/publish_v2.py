@@ -69,7 +69,7 @@ def validate_hourly(path: Path, root: Path, now: datetime) -> tuple[dict, dict]:
         raise ValueError("Hourly type/hour ID mismatch")
     if snapshot.get("hour_id") != hour_id or digest.get("snapshot_generated_at_utc") != snapshot.get("generated_at_utc"):
         raise ValueError("Hourly digest must reference the exact archived snapshot")
-    if not 0 <= (now - utc(snapshot["generated_at_utc"])).total_seconds() < 48 * 3600:
+    if not 0 <= (now - utc(snapshot["generated_at_utc"])).total_seconds() < 2 * 3600:
         raise ValueError("Hourly source archive is stale or from the future")
     if utc(snapshot["window_end_utc"]) - utc(snapshot["window_start_utc"]) != timedelta(hours=1):
         raise ValueError("Source snapshot is not an exact one-hour window")
@@ -103,6 +103,8 @@ def validate_daily(path: Path, root: Path, now: datetime) -> tuple[dict, dict]:
     index = read_json(root / "published/hourly_index" / (date + ".json"))
     if digest.get("type") != "daily" or digest.get("date") != date or index.get("date") != date:
         raise ValueError("Daily digest/index date or type mismatch")
+    if (root / "published" / (date + ".json")).exists():
+        raise ValueError("Legacy daily digest was already published for this date")
     # Daily indices describe a completed Winnipeg calendar day, including DST.
     local_now = now.astimezone(LOCAL_TZ).date()
     daily_date = datetime.strptime(date, "%Y-%m-%d").date()
