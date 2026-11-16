@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-16T18",
-  "generated_at_utc": "2026-11-16T19:52:06.370780+00:00",
-  "window_start_utc": "2026-11-16T18:00:00+00:00",
-  "window_end_utc": "2026-11-16T19:00:00+00:00",
+  "hour_id": "2026-11-16T22",
+  "generated_at_utc": "2026-11-16T23:21:40.877548+00:00",
+  "window_start_utc": "2026-11-16T22:00:00+00:00",
+  "window_end_utc": "2026-11-16T23:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 10
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 4
     },
     {
       "handle": "bricsnews",
@@ -25,20 +25,78 @@
     }
   ],
   "stats": {
-    "raw_posts": 5,
-    "relevant_posts": 1,
-    "deduplicated_posts": 1,
-    "candidate_posts": 1
+    "raw_posts": 14,
+    "relevant_posts": 9,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198347",
+      "id": "DDGeopolitics/198381",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198347",
-      "published_at": "2026-11-16T18:46:26+00:00",
-      "text": "🇪🇺 🇷🇺 Kaka Khallas suggests EU spy agencies steal Russian military records to push through visa ban on SMO veterans EU foreign policy embarrassment Kaka Khallas has floated the idea of European intelligence services pulling the personal data of Russian SMO participants from Russian state databases. She spoke at a press conference after the EU foreign ministers' meeting in Brussels on Monday. The goal is to make the planned EU entry ban on Russian veterans workable. Brussels wants the ban in its 22nd sanctions package, but several member states oppose it. They question how it could be enforced legally and in practice. Kallas had an answer for the doubters: \"Russia is a very bureaucratic country. They keep records of all the people who took part in this war. So I think getting this data is fairly easy, given that everything is digital now… We all have very good intelligence specialists.\" In other words, the EU's top diplomat is publicly suggesting that member states break into another country's government systems to build a blacklist of its citizens. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198381",
+      "published_at": "2026-11-16T22:38:25+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Ukrainian sources are claiming strikes on the Crimean Bridge, but so far there is no confirmation. 🔴 @DDGeopolitics",
+      "related_urls": [
+        "https://t.me/DDGeopolitics/198380"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198378",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198378",
+      "published_at": "2026-11-16T22:28:13+00:00",
+      "text": "🇷🇺 🛸 🇺🇦 A swarm of drones is approaching Kiev following ballistic missile strikes. 🔴 @DDGeopolitics",
       "related_urls": []
+    },
+    {
+      "id": "intelslava/98172",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98172",
+      "published_at": "2026-11-16T22:26:52+00:00",
+      "text": "🇷🇺 ⚡️ — Russian Foreign Minister Sergey Lavrov delivered a series of sharp remarks on Europe, Germany, and the U.S. administration: Dismissing current European leaders, Lavrov said he doesn't know \"which of the current leaders could be a sane interlocutor.\" Recalling a conversation with Finnish President Alexander Stubb in New York, Lavrov recounted Stubb's warning that they are \"going down the wrong road.\" Lavrov's response: \"Listen, if you have such feelings, then do something serious. Don't just declare that Ukraine will die for us, but we will thereby defend our values.\" On Germany closing the Russian consulate in Bonn and the Russian House in Berlin over alleged drone activity, Lavrov pushed back: \"No one proved that it was a Russian drone. Aren't you taking rather long to investigate Nord Stream, where you found not something unexploded, but where you were simply blown up, spat in the face, and you wiped it off, and you have been investigating for four years?\" Regarding the Trump administration, Lavrov noted they are \"normal people in the sense that they talk to everyone, with ",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198377",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198377",
+      "published_at": "2026-11-16T22:25:22+00:00",
+      "text": "🇷🇺 💥 🇺🇦 Kiev is now facing water and heating outages after the strikes. Klitschko says critical infrastructure was damaged and parts of the city are affected. Strikes have also been reported in Kharkov, Khmelnitsky and Zaporozhye. In Zaporozhye, a critical…",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198376",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198376",
+      "published_at": "2026-11-16T22:22:23+00:00",
+      "text": "🇷🇺 💥 🇺🇦 Kiev Mayor Vitali Klitschko reports strikes on the Northern and Southern bridges, two of the city's main crossings over the Dnepr. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198375",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198375",
+      "published_at": "2026-11-16T22:17:54+00:00",
+      "text": "🇷🇺 💥 🇺🇦 When you instantly regret celebrating the Crimean Bridge getting hit... Kiev this evening! 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198374",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198374",
+      "published_at": "2026-11-16T22:15:51+00:00",
+      "text": "🇷🇺 💥 🇺🇦 Back to our scheduled program... Kiev bridges are having a rough night. Ballistic missile strikes reported! 🔴 @DDGeopolitics",
+      "related_urls": [
+        "https://t.me/DDGeopolitics/198373"
+      ]
     }
   ]
 }
