@@ -5,7 +5,14 @@ Read pixel375/russianewstoday/data/hourly/latest.json from main.
 The snapshot must cover the most recently completed UTC hour exactly:
 hour_id is YYYY-MM-DDTHH (UTC start); window_end_utc is the start of the
 current UTC hour; generated_at_utc must be no more than 45 minutes old.
-If missing or stale, stop without writing.
+If missing or stale, first use the GitHub tools to request ONE recovery
+collection: check triggers/hourly.json, and create/update it on main with
+{"hour_id":"<required previous UTC hour>","requested_at_utc":"<current UTC ISO time>","reason":"stale_snapshot_recovery"}
+only if that exact hour has not already been requested. That monitored
+file triggers the collection workflow on push. Check the resulting GitHub
+Actions collector run and reread the latest snapshot. If the run has
+not completed or the snapshot still fails the hour/freshness checks,
+STOP without creating an outbox file. Do not reuse stale news.
 
 If there are no important new war events, SKIP the hour. Never pad.
 Select 1–5 distinct significant developments. Headline should be short

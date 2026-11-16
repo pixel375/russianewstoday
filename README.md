@@ -22,8 +22,9 @@ an unverified event has been independently confirmed.
 
 ## Architecture
 
-1. GitHub Actions runs at 05 minutes past each UTC hour on a standard
-   ubuntu-latest runner. It collects public Telegram pages from
+1. GitHub Actions is scheduled at 09 and 14 minutes past each UTC
+   hour on standard ubuntu-latest runners, using the second slot as
+   a retry if GitHub drops the first schedule. It collects public Telegram pages from
    DD Geopolitics, Intel Slava and BRICS News, paginating until the
    entire previous UTC hour is covered.
 2. It stores immutable collection archives at
@@ -31,6 +32,9 @@ an unverified event has been independently confirmed.
 3. ChatGPT hourly task runs at minute 25 in America/Winnipeg time,
    reviews the latest hour and creates 1–5 concise items at
    outbox/hourly/YYYY-MM-DDTHH.json. If none are worthwhile, skip.
+   If the scheduled collector has not produced a fresh snapshot,
+   ChatGPT requests a collector retry via triggers/hourly.json
+   and rechecks the snapshot before publishing.
    [Hourly task details](docs/chatgpt-hourly-task.md).
 4. On any new hourly outbox push, GitHub Actions validates every
    INTERNAL original source URL against the exact source snapshot.
