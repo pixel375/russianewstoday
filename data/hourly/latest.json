@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-16T18",
+  "generated_at_utc": "2026-11-16T19:52:06.370780+00:00",
+  "window_start_utc": "2026-11-16T18:00:00+00:00",
+  "window_end_utc": "2026-11-16T19:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "stats": {
+    "raw_posts": 5,
+    "relevant_posts": 1,
+    "deduplicated_posts": 1,
+    "candidate_posts": 1
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198347",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198347",
+      "published_at": "2026-11-16T18:46:26+00:00",
+      "text": "🇪🇺 🇷🇺 Kaka Khallas suggests EU spy agencies steal Russian military records to push through visa ban on SMO veterans EU foreign policy embarrassment Kaka Khallas has floated the idea of European intelligence services pulling the personal data of Russian SMO participants from Russian state databases. She spoke at a press conference after the EU foreign ministers' meeting in Brussels on Monday. The goal is to make the planned EU entry ban on Russian veterans workable. Brussels wants the ban in its 22nd sanctions package, but several member states oppose it. They question how it could be enforced legally and in practice. Kallas had an answer for the doubters: \"Russia is a very bureaucratic country. They keep records of all the people who took part in this war. So I think getting this data is fairly easy, given that everything is digital now… We all have very good intelligence specialists.\" In other words, the EU's top diplomat is publicly suggesting that member states break into another country's government systems to build a blacklist of its citizens. 🔴 @DDGeopolitics",
+      "related_urls": []
+    }
+  ]
+}
