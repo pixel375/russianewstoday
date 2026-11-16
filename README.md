@@ -3,8 +3,7 @@
 A no-paid-API daily Telegram digest pipeline for
 [@russianewstodayofficial](https://t.me/russianewstodayofficial).
 
-**Status: collector and publishing code installed; live posting intentionally
-disabled until the ChatGPT/GitHub handoff is verified.**
+**Status: public publishing enabled. Incoming ChatGPT digest commits are validated before they can be posted. The first unattended ChatGPT-to-GitHub write has not yet been verified.**
 
 ## Architecture
 
@@ -32,7 +31,6 @@ In **Settings → Secrets and variables → Actions**:
 |---|---|---|
 | Secret | TELEGRAM_BOT_TOKEN | BotFather token, never commit it |
 | Variable | TELEGRAM_CHAT_ID | @russianewstodayofficial |
-| Variable | ENABLE_PUBLISH | **Not set / false** initially; set to true only after a safe test |
 
 No OpenAI API key, Cloudflare subscription, paid inference, or Telegram
 user login is required.
@@ -43,7 +41,7 @@ Collection runs every day at **15:30 UTC** (09:30 winter / 10:30 summer
 in Winnipeg) and on source-code pushes or manual dispatch.
 Recommended ChatGPT scheduled task time: **11:30 AM America/Winnipeg**.
 After ChatGPT commits the outbox file, publishing runs on the push
-event *only if* ENABLE_PUBLISH=true. Publication time is not guaranteed
+event after validation succeeds. No ENABLE_PUBLISH variable is needed. Publication time is not guaranteed
 exactly at noon because GitHub schedules and ChatGPT tasks can be delayed.
 
 ### Local usage
@@ -55,7 +53,7 @@ exactly at noon because GitHub schedules and ChatGPT tasks can be delayed.
 
 The collector requires internet access. --dry-run requires a matching
 outbox digest. Live publishing also needs TELEGRAM_BOT_TOKEN and
-TELEGRAM_CHAT_ID in the environment. Never run it live until ready.
+TELEGRAM_CHAT_ID in the environment. Public posting is enabled for validated outbox commits. Run dry-run when manually preparing a new digest.
 
 ### Important limits
 
@@ -80,6 +78,7 @@ TELEGRAM_CHAT_ID in the environment. Never run it live until ready.
 - [x] Telegram HTML split rendering and source URL validation
 - [x] GitHub Actions collection and guarded publishing workflows
 - [x] Unit tests
-- [ ] Verify real production collection run
+- [x] Verify real production collection run
 - [ ] Verify scheduled ChatGPT read/write of latest.json to outbox
-- [ ] Test output format in dry-run and authorize live publication
+- [x] Enable public posting after validation (authorized by channel owner)
+- [ ] Observe first successful digest validation and public post
