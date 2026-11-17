@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-17T07",
-  "generated_at_utc": "2026-11-17T08:33:06.020939+00:00",
-  "window_start_utc": "2026-11-17T07:00:00+00:00",
-  "window_end_utc": "2026-11-17T08:00:00+00:00",
+  "hour_id": "2026-11-17T08",
+  "generated_at_utc": "2026-11-17T09:26:07.766354+00:00",
+  "window_start_utc": "2026-11-17T08:00:00+00:00",
+  "window_end_utc": "2026-11-17T09:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "intelslava",
@@ -21,35 +21,35 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     }
   ],
   "stats": {
-    "raw_posts": 3,
+    "raw_posts": 4,
     "relevant_posts": 1,
     "deduplicated_posts": 1,
     "candidate_posts": 1
   },
   "posts": [
     {
-      "id": "AussieCossack/53347",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53347",
-      "published_at": "2026-11-17T07:16:06+00:00",
-      "text": "❗️ The FSB has thwarted a series of large-scale terrorist attacks planned by the Ukrainian Intelligence Directorate (HUR) and the Security Service of Ukraine (SBU) in southern Russia, using drones. The security service identified the preparations for the series of attacks by Kiev at the beginning of 2026 and has been monitoring the enemy's actions. @AussieCossack",
+      "id": "DDGeopolitics/198407",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198407",
+      "published_at": "2026-11-17T08:01:52+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation carried out a massive strike with ground- and air-based high-precision weapons, unmanned aerial vehicles against enterprises of the Ukrainian military defence industry, power facilities, transport and port infrastructure, as well as vessels used in the interests of the AFU. As a result of the strike, the following targets were hit: 📍 in Kiev: ▪️ the industrial enterprise (Techno-Links LLC) manufacturing and carrying out large-unit assembly of attack unmanned aerial vehicles from foreign components of long- and medium-range attack drones, including An-196 Lyuty UAVs; ▪️ the industrial enterprise (Ukrplastic Plant), which produces long- and medium-range attack UAV components; ▪️ the Yuzhny road bridge used for the transit of military goods by road and rail; ▪️ the Severny road bridge used for the transport of weapons, military and special hardware of the AFU; 📍 in the city of Zaporozhye: ▪️ aircraft engine plants (Motor-Sich, Ivchenko-Progress) , which develop and manufacture FP-9 operational-tactical missiles, FP-5 Flamingo cru",
       "related_urls": []
     }
   ]
