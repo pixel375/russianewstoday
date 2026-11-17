@@ -9,9 +9,10 @@ import argparse
 from datetime import datetime, timedelta, timezone
 import json
 import logging
+import math
 from pathlib import Path
 
-from .collect import make_session, crawl_source, relevant, dedupe, pick_candidates, ROOT
+from .collect import make_session, crawl_source, relevant, dedupe, pick_candidates, annotate_possible_translations, ROOT
 
 LOG = logging.getLogger("russianewstoday.hourly")
 
@@ -24,17 +25,30 @@ def collect_hour(config: dict, now: datetime | None = None, session=None) -> dic
     session = session or make_session()
     all_posts: list[dict] = []
     stats: list[dict] = []
+    failed = []
     for source in config["sources"]:
-        posts, stat = crawl_source(
-            session, source["handle"], source["name"],
-            start, end, int(config.get("max_pages_per_source", 40)),
-        )
+        try:
+            posts, stat = crawl_source(
+                session, source["handle"], source["name"],
+                start, end, int(config.get("max_pages_per_source", 40)),
+            )
+        except Exception as exc:
+            # More sources must not let one unavailable public preview shut
+            # down the entire hourly channel. Mark the gap explicitly.
+            LOG.warning("Source %s unavailable: %s", source["handle"], exc)
+            failed.append({"handle": source["handle"], "reason": str(exc)[:180]})
+            continue
         all_posts.extend(posts)
         stats.append(stat)
         LOG.info("%s: %d posts from %d pages", stat["handle"], stat["raw_count"], stat["pages"])
+    min_sources = int(config.get("min_success_sources", 1))
+    if len(stats) < min_sources:
+        raise RuntimeError(f"Only {len(stats)}/{len(config['sources'])} sources complete; "
+                           f"need at least {min_sources}; refusing incomplete collection")
     filtered = [p for p in all_posts if relevant(p["text"])]
     unique = dedupe(filtered)
-    candidates = pick_candidates(unique, int(config.get("max_candidates", 150)))
+    candidates = annotate_possible_translations(
+        pick_candidates(unique, int(config.get("max_candidates", 150))))
     return {
         "schema_version": 2,
         "hour_id": hour_id,
@@ -42,6 +56,8 @@ def collect_hour(config: dict, now: datetime | None = None, session=None) -> dic
         "window_start_utc": start.isoformat(),
         "window_end_utc": end.isoformat(),
         "sources": stats,
+        "source_failures": failed,
+        "coverage_complete": not failed,
         "stats": {
             "raw_posts": len(all_posts),
             "relevant_posts": len(filtered),
