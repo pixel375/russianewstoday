@@ -1,0 +1,74 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T04",
+  "generated_at_utc": "2026-11-17T05:25:08.899992+00:00",
+  "window_start_utc": "2026-11-17T04:00:00+00:00",
+  "window_end_utc": "2026-11-17T05:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "stats": {
+    "raw_posts": 7,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
+  },
+  "posts": [
+    {
+      "id": "intelslava/98180",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98180",
+      "published_at": "2026-11-17T04:28:17+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — Ukrainian forces have once again attacked the Crimean Bridge. Traffic on the bridge has been stopped. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198400",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198400",
+      "published_at": "2026-11-17T04:28:12+00:00",
+      "text": "🇺🇦 Traffic on the Northern and Southern bridges in Kiev has been completely shut down following Russian strikes. Public transportation has been rerouted through the Podolsky bridge and the Darnitsky bridge. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98177",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98177",
+      "published_at": "2026-11-17T04:27:18+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — A ballistic missile strike hit the Northern Bridge in Kiev . There are also reports of strikes on the Southern Bridge . @Intelslava",
+      "related_urls": []
+    }
+  ]
+}
