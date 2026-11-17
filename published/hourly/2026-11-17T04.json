@@ -1,0 +1,27 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    39
+  ],
+  "published_at_utc": "2026-11-17T05:25:49.837064+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-17T04",
+  "items": [
+    {
+      "item_id": "2026-11-17T04:1",
+      "title": "Kyiv bridge closures reported following overnight strikes",
+      "summary": "Traffic on Kyiv's Northern and Southern bridges was reportedly suspended after Russian strikes, with public transport diverted via the Podilskyi and Darnytskyi bridges. A ballistic missile strike on the Northern Bridge has also been alleged, but the precise damage and duration of the closures remain unverified.",
+      "post_url": "https://t.me/russianewstodayofficial/39",
+      "category": "other",
+      "hour_id": "2026-11-17T04"
+    },
+    {
+      "item_id": "2026-11-17T04:2",
+      "title": "Crimean Bridge traffic reportedly halted after another Ukrainian attack",
+      "summary": "Ukrainian forces reportedly launched another attack on the Crimean Bridge, prompting a suspension of traffic across the crossing. The type of attack, any physical damage and the length of the closure have not been independently confirmed.",
+      "post_url": "https://t.me/russianewstodayofficial/39",
+      "category": "other",
+      "hour_id": "2026-11-17T04"
+    }
+  ]
+}
