@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-17T16",
-  "generated_at_utc": "2026-11-17T17:27:12.978124+00:00",
-  "window_start_utc": "2026-11-17T16:00:00+00:00",
-  "window_end_utc": "2026-11-17T17:00:00+00:00",
+  "hour_id": "2026-11-17T17",
+  "generated_at_utc": "2026-11-17T18:25:37.633151+00:00",
+  "window_start_utc": "2026-11-17T17:00:00+00:00",
+  "window_end_utc": "2026-11-17T18:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,37 +15,37 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 3
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 10
     },
     {
       "handle": "rian_ru",
@@ -57,19 +57,19 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
@@ -87,149 +87,52 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 23,
-    "relevant_posts": 14,
-    "deduplicated_posts": 14,
-    "candidate_posts": 14
+    "raw_posts": 32,
+    "relevant_posts": 13,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
   },
   "posts": [
     {
-      "id": "voenkorKotenok/77890",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/77890",
-      "published_at": "2026-11-17T16:55:59+00:00",
-      "text": "Париж готовится. Французы сливают в СМИ информацию о военном присутствии на Украине Радио RFI опубликовало материал, в котором признаёт факт нахождения контингента ВС Франции на Украине и его участия в боевых действиях на стороне киевского режима. В статье от 16 ноября 2026 г. сообщается, что французские военнослужащие активно действуют на Украине, как минимум, с лета 2026 г. в рамках миссии «Volia». Её задачи включают обучение украинских военнослужащих и техническое обслуживание переданного Францией вооружения. Наличие французских военных в зоне боевых действий — секрет Полишинеля. Помимо инструкторов и советников, это технические специалисты и расчёты/операторы военной техники французского производства, переданной ВСУ. По крайней мере, в начальный период эксплуатации её обслуживают и применяют французы. Часть из них легендировалась под наёмников и сотрудников оборонных фирм. Военные на время командировки якобы увольняются из ВС и выступают в гражданском статусе. После возвращения они получают повышение и жалованье за время нахождения на Украине с множеством бонусов. Срок нахождения на Украине засчитывается в стаж военной службы как время пребывания в боевых условиях. Если, конечно, посчастливилось вернуться. Нахождение французов, как и других иностранцев, в составе киевских вооружённых формирований для России не секрет. Они являются приоритетной целью наших войск, и за ними идёт настоящая охота. 17 января 2024 г. МО РФ сообщило, что в харьковской гостинице ракетным ударом уничтожено 60 французских военнослужащих. Париж ожидаемо отверг эти данные, назвав их дезинформацией. Но теперь Франция решила, пусть и неофициально, но признать факт нахождения своих военных на Украине. Если бы речь не шла о целенаправленном сливе информации, маловероятно, что французское СМИ стало бы публиковать такой материал. Происходит это на фоне усилий ЕС влезть в переговорный процесс и попытаться провести в нём свою линию. Именно для этого Париж решил «легализовать» явочным порядком нахождение своих военных на Украине. Дескать, это — свершившийся факт, который Москва вынуждена признать, если хочет заключить мирный договор. Поскольку официального признания всё же нет, французские власти сохраняют возможность от всего отказаться, если что-то пойдёт не так. Но возможность сохранить Украину в качестве плацдарма против России является для Запада сверхценностью, ради которой они готовы пойти на рискованные сценарии. Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "id": "intelslava/98203",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98203",
+      "published_at": "2026-11-17T17:44:59+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russia has struck four Ukrainian power substations, a railway locomotive near Kryvyi Rih, and a cargo vessel bound for Odesa carrying military supplies. According to Russia’s Defence Ministry, the targeted substations included three 330 kV facilities in the Rivne and Dnipropetrovsk regions and a 110 kV facility in Chernivtsi. Moscow states the energy infrastructure supplied Ukrainian defence industry facilities and military logistics centres. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kharkiv",
-        "kyiv",
-        "missile",
+        "energy",
         "moscow",
-        "negotiation",
-        "strike"
+        "odesa"
       ],
-      "possible_duplicate_urls": [
-        "https://t.me/MFARussia/33415",
-        "https://t.me/DDGeopolitics/198463",
-        "https://t.me/rian_ru/349940"
-      ]
-    },
-    {
-      "id": "mod_russia_en/30656",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30656",
-      "published_at": "2026-11-17T16:45:31+00:00",
-      "text": "'The most important thing is that all the guys are alive' 📍 Dnepropetrovsk direction ➡️ A mobile medical group of the 341st Separate Medical Battalion of the Tsentr Group of Forces operates close to the front line. It is a high-tech field hub where wounded servicemen are provided with qualified medical care. 📌 A key advantage of this location is the ability to comply with the rule of the 'golden hour'. This is time of high importance after the wound, when doctors' actions are most effective. 💬 Battalion commander Alfir Talipov emphasises that it is the cohesion and precise work of the medics on the front line that makes it possible to rescue the servicemen: 'At the following stages, medical equipment is improved, and manpower is developed. The experience is great. Sometimes, wounded patients arrive and don't need anything redone because everything was properly handled at the previous stage. We take care, give food and water, stabilise, and send'. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233722",
+      "id": "rybar_in_english/35831",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35831",
+      "published_at": "2026-11-17T17:41:21+00:00",
+      "text": "📝 The \"Populist\" Factor 📝 How strikes on the Ukrainian economy (unexpectedly) hit the EU In discussing the \"war of cities\" strategy in the context of strikes on Kyiv bridges, we mentioned that the sentiments of political opponents play a notable role in the desire of EU bureaucrats to funnel money into so-called Ukraine. Let's examine this in more detail. While the scale of the EU's industrial and energy crisis is sometimes exaggerated, the problems there are quite tangible. One indicator is the rise in popularity of parties that the EU labels \"populists\" and \"far-right.\" Relatively recently, they were written off as marginals, but now these political forces in Germany, France, and other countries have become a threat to the position of EU bureaucrats in elections. And practically all of them have criticism of financing so-called Ukraine in their rhetoric. 📌 And as a result of the \"war of cities,\" the costs of maintaining Ukraine's bottomless pit only grow while yielding zero returns. As a result, the \"AfD\" or \"National Front\" gain even more arguments to pressure their opponents and steal votes from them out of their own political interests. The fear of losing elections is far more powerful for EU bureaucrats than it might seem. Once they face the threat of completely losing ground to the AfD or Le Pen due to irrecoverable loans to so-called Ukraine, their position regarding Russia will begin to change. ❗️ How can this be accelerated? By increasing the costs of maintaining so-called Ukraine, when more and more money is required. This is achieved precisely through the \"war of cities\" strategy of destroying the enemy's economic potential. Judging by the fact that Europeans have already changed their tune and remembered the need for negotiations, the approach is already bearing fruit and working. Moreover, it works better than attempts to storm Slavyansk with small groups. #EU #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233727",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233722",
-      "published_at": "2026-11-17T16:42:01+00:00",
-      "text": "До 13 января заключили под стражу москвичку, устроившую подрыв машины Сергея Заворотного, передает корреспондент Zvezdanews из зала суда. Свое лицо она прятала под капюшоном. По версии следствия, 21-летнюю девушку обманули мошенники, убедив, что через оформленные на нее иностранные счета финансируют ВСУ. Под предлогом блокировки счетов ее втянули в выполнение заданий кураторов. В Дмитровском районе Подмосковья она забрала из тайника взрывчатку, которое сообщники выдали за GPS-трекер. 10 ноября девушка прикрепила его к днищу автомобиля Заворотного, а 13 ноября устройство дистанционно привели в действие. Подозреваемая признала вину. @zvezdanews",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198465",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198465",
-      "published_at": "2026-11-17T16:35:57+00:00",
-      "text": "🇺🇦 Huge traffic jams are building up on Kiev's right bank. The Northern and Southern bridges, two of the city's main crossings over the Dnepr, are still closed after last night's strikes, so drivers can't get across to the left bank. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "MFARussia/33415",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33415",
-      "published_at": "2026-11-17T16:31:38+00:00",
-      "text": "⚡️ Russian Embassy in France’s response to a question from RIA Novosti on the presence of French military personnel in Ukraine (November 17, 2026) ❓ Question: According to media reports , French military personnel have been secretly deployed in Ukraine for several months, training Ukrainian soldiers and maintaining equipment. How does Russia assess these actions by France in support of the Kiev regime? ✍🏻 Answer: The information published by French media confirms what the French authorities have long tried to conceal and timidly denied. ❗️ By sending Ukraine not only weapons used to strike Russian cities and civilian facilities, but also its own military personnel, France has de facto become embroiled in the armed conflict on the side of the criminal Kiev regime . Russia has long and repeatedly warned that the presence of foreign contingents in Ukraine is unacceptable and that they would become legitimate targets for our Armed Forces . This marks another escalation by France , a NATO member, which undermines efforts to achieve a peaceful settlement of the Ukraine conflict and risks a direct clash between nuclear powers . 👉 Against this backdrop, France’s attempts to secure a seat at the negotiating table appear utterly cynical .",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "negotiation",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/voenkorKotenok/77890"
-      ]
-    },
-    {
-      "id": "DDGeopolitics/198464",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198464",
-      "published_at": "2026-11-17T16:26:20+00:00",
-      "text": "🇫🇷 🇺🇦 ⚔️ 🇷🇺 French troops have been secretly operating in Ukraine since summer 2026, RFI reveals French troops have been deployed in Ukraine for months under a secret operation called \"Volia,\" led by a French general. That's according to an investigation by…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198463",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198463",
-      "published_at": "2026-11-17T16:23:45+00:00",
-      "text": "🇺🇸 🇺🇦 Elbridge Colby, the US Under Secretary of Defense for Policy, told a gathering of Ukraine's backers at NATO headquarters in Brussels on Tuesday that Kiev's long-range strikes on Russia aren't working: \"While the public conversation focuses on the spectacle of deep strikes designed to incur pain on the Russian population, our assessment is that such strikes have not been effective in driving an end to the war, nor do they contribute to blunting Russia's advances on the front line. Moreover, such strikes, especially those that target civilian infrastructure such as Wildberries, have actually probably hardened the Russian public's resolve and the Kremlin's own willingness to escalate. Moreover, it is important to note that the balance of advantage in deep strikes may well favor Moscow.\" 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "moscow",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/voenkorKotenok/77890",
-        "https://t.me/rian_ru/349940"
-      ]
-    },
-    {
-      "id": "dva_majors/102169",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102169",
-      "published_at": "2026-11-17T16:22:34+00:00",
-      "text": "🇪🇺 🚩 ⚔️ 🇷🇺 Очередной признак прямого участия стран НАТО в ударе по Крымскому мосту Тупая Зеленая 🐽 мразота то ли по своей глупости, то ли специально ( ⚡️ для вовлечения натовских пособников ), хвастаясь журналистам об ударе по мосту заявил, что среди прочих, в атаке задействовались дроны «Рута». ✨ «Рута» или RUTA Block 1/2, это дрон-ракета или упрощённая версия крылатой ракеты дальностью 300 и 700 км . Их производит нидерландская компания 🇳🇱 Destinus , а также с недавнего времени в 🇩🇪 Германии – на совместном предприятии (завод в Унтерлюссе) 🇩🇪 Rheinmetall и 🇳🇱 Destinus – Rheinmetall Destinus Strike Systems. RUTA официально поставляют на Украину , а их применение по территории России выявлено западными аналитиками в июле 2026 года. ✨ ⭐️ Безнаказанность западных стран породила вседозволенность . Какой-нибудь потерявший управление дрон или ракета, могли бы спокойно ударить по местам производства этих и других средств поражения в Европе . А смысл опасаться вовлечения НАТО в конфликт ( ⁉️ ), если альянс уже участвует напрямую , при этом оставаясь в безопасности пока уничтожается наша экономика и население . Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "drone",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406189",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406189",
-      "published_at": "2026-11-17T16:19:01+00:00",
-      "text": "Франция подтвердила присутствие своих военных на Украине. Однако они якобы не участвуют в боевых действиях на стороне Киева, заявила министр-делегат при министерстве ВС Алис Рюфо. Она утверждает, что их численность \"весьма ограничена\". Кроме того, Париж уже…",
+      "url": "https://t.me/boris_rozhin/233727",
+      "published_at": "2026-11-17T17:41:01+00:00",
+      "text": "Дезертир ВСУ взорвал гранату в Киевской области — погибли четыре человека В Киевской области мужчина, самовольно оставивший воинскую часть, взорвал гранату во время конфликта. Погибли четыре человека, в том числе его мать и 17-летняя девушка, сообщает местная прокуратура. 44-летний военнослужащий ушёл в самоволку. Его девушка пришла к нему за своими вещами вместе со своей матерью. Между ними произошёл конфликт, в ходе которого мужчина бросил гранату. @anna_news",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -238,80 +141,140 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/349940",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/349940",
-      "published_at": "2026-11-17T16:15:42+00:00",
-      "text": "Главные новости дня: 🔹 Российские войска нанесли массированный удар по объектам, связанным с ВСУ. 🔹 ФСБ предотвратила масштабные теракты в России, на которые Киев потратил не менее 2,5 млн долларов. 🔹 ВСУ повторно атаковали Крымский мост. Сейчас движение поездов открыто по одному направлению. 🔹 ПВО России второй день подряд обновляет рекорд по сбитым украинским беспилотникам. 🔹 Губернатор Кемеровской области сообщил о крушении самолета. 🔹 Сайт Международной федерации хоккея взломали - на нем оставили послание по поводу российских спортсменов. 🔹 Президент Монголии объявил об отставке. 🔹 Мошенники \"заразили\" сайты Zoom, IKEA и многих других зарубежных компаний, чтобы взламывать айфоны и красть криптовалюту. 🔹 Девочку весом всего 330 граммов выходили врачи в Москве. 🔹 Нильского крокодила поймали в одном из каналов Ташкента. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "voenkorKotenok/77892",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77892",
+      "published_at": "2026-11-17T17:35:29+00:00",
+      "text": "В ЕС забронировали боевые действия с Россией на украинском ТВД уже в 2008 году. Война в году 2027-м там воспринимается, как само собой разумеющееся. Кто бы сомневался — европейцы намерены сокрушить Россию. После удара по Крымскому мосту в «гейских саунах» старухи-процентщицы — эйфория и приток энергии. Наркотическому упырю рассыпаются в благодарности и аплодируют за то, что может больно кусать дряхлеющего русского медведя и не получать по заслугам в ответ. И что характерно — в Европе говорят, что этого мало «для обуздания Путина и его агрессии». К чему я? Собственно, с кем и чем воюем, давно понятно, как не вызывает сомнений в их искренности намерений. Нас делают уничтожить и будут встречать эти действия бурными и продолжительными овациями. Можно, конечно, внушать какими м себе, что скоро всё закончится и гейропейцы и прочие датчане, падкие до торговли, снова ринутся покорять российский рынок. Уж не знаю, кто и куда ринется, но сначала они просто хотят нас убить, потому что мы …есть. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "crimea",
-        "kyiv",
-        "moscow",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/voenkorKotenok/77890",
-        "https://t.me/DDGeopolitics/198463"
-      ]
-    },
-    {
-      "id": "DDGeopolitics/198462",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198462",
-      "published_at": "2026-11-17T16:08:06+00:00",
-      "text": "🇷🇺 ⚔️ 🇺🇦 Russian Defence Ministry reports strikes across Ukraine According to the Russian Defence Ministry, its forces have hit: ➡️ a cargo ship carrying military supplies to the port of Odessa ➡️ a locomotive used to move military cargo near Krivoy Rog railway station ➡️ four electrical substations in Rovno, Grabov, Kamenskoye and Chernovtsy 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa",
+        "energy",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "MFARussia/33414",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33414",
-      "published_at": "2026-11-17T16:03:23+00:00",
-      "text": "⚡️ Russian Foreign Ministry Spokeswoman Maria Zakharova's statement on developments in the Middle East (November 17, 2026) We note with regret another surge in tensions in the Persian Gulf , where the opposing sides have exchanged further strikes in recent days. Hits were recorded on Iran’s Qeshm Island and on the territory of Bahrain . Such attacks constitute a blatant violation of the sovereignty and security of states in the region and, to our deep regret, cause casualties and material damage. ❗️ Russia once again calls on all parties to the current confrontation , above all the US, which initiated it , to cease hostilities immediately. We consider attacks on civilians and any civilian facilities, including strikes on the territory of the Arab states of the Persian Gulf, utterly unacceptable . Russia consistently advocates resolving differences in this strategically important region at the negotiating table, taking into account the interests of every coastal state without exception. 🤝 W e stand ready to provide the necessary assistance towards this goal , including on the basis of the proposals set out in Russia’s Concept of Collective Security in the Persian Gulf Region , updated in May.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233719",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233719",
-      "published_at": "2026-11-17T16:01:02+00:00",
-      "text": "Не будет топлива по морю новый удар БЭК в Черном море Осень 2026 года болгарские моряки и спасатели будут вспоминать с дергающимся глазом: в ночь на 17 ноября спустя несколько часов после атаки на сухогруз затонуло еще одно судно. И впервые им стал газовоз . Это следовавшее под флагом Либерии судно GAS HUSKY , которое шло из Египта в направлении портов на Дунае (ситуация до боли знакомая). Ранее танкеры и другие подобные суда атаковали только беспилотными летательными аппаратами, но безэкипажными катерами в этом районе – никогда. Обвинений, как и в предыдущих случаях никто не выдвигает. Но атака на перевозчика пропана еще больше повысит градус эскалации в западной части Черного моря. Учитывая, что на т.н.Украине переориентировали судоходство на Дунай , это еще больше повысит расходы на страховку и фрахт, не говоря уже о растущем нежелании судовладельцев идти в украинские порты. А это очень удачно ложится в проводимую российским руководством кампанию по истощению украинского режима. Если продолжить в том же ключе, то с движением на т.н.Украину по морю станет совсем худо. @rybar",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30655",
+      "id": "mod_russia_en/30657",
       "channel": "mod_russia_en",
       "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30655",
-      "published_at": "2026-11-17T16:00:47+00:00",
-      "text": "❗️ Today, during the day, the Armed Forces of the Russian Federation carried out strikes using unmanned aerial vehicles against facilities of the port and railway infrastructure, as well as against vessels used to support of the AFU. As a result of the strike, the following targets were hit : ▪️ a dry cargo ship at sea, carrying military cargo to the port of Odessa; ▪️ a railway locomotive in the area of the Krivoy Rog railway station, used for transporting cargo used for the AFU. ▪️ In addition, three PS‑330 power substations were damaged in the cities of Rovno and Grabov in Rovno region, Kamenskoye in Dnepropetrovsk region, as well as one PS‑110 power substation in the city of Chernovtsy in Chernovtsy region. These substations ensure the distribution of electricity for the operation of enterprises of the Ukraine’s defence industry and logistics centres used in the interests of the Armed Forces of Ukraine. 🔹 Russian Defence Ministry",
+      "url": "https://t.me/mod_russia_en/30657",
+      "published_at": "2026-11-17T17:32:30+00:00",
+      "text": "First-hand details on assault 💬 The platoon leader with the call sign 'Italyanets' told how the enemy's positions are being wiped out near Slavyansk. ➡️ According to the serviceman, the enemy avoids direct small arms contact, which is why Russian assault detachments often covertly approach him in the rear. ▫️ He also stressed that the Ukrainian military command is deploying troops to the front lines effectively on a one-way mission, with no rotation or evacuation. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406196",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406196",
+      "published_at": "2026-11-17T17:30:07+00:00",
+      "text": "Средства ПВО за день сбили 51 украинский беспилотник над регионами РФ, сообщили в Минобороны.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198471",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198471",
+      "published_at": "2026-11-17T17:19:15+00:00",
+      "text": "🇷🇺 🇷🇸 🇪🇺 Russian intelligence: Brussels wants to split Serbia's winning Student List Russia's Foreign Intelligence Service (SVR) says European intelligence officers in Belgrade have been told to split the Student List, the movement that won Serbia's parliamentary election last month. According to the SVR, European Commission President Ursula von der Leyen is unhappy that the Student List is determined to fight for Kosovo and refuses to cut ties with Moscow by joining anti-Russian sanctions. \"The leadership of the European Union is concerned by the lack of willingness of the Student List, the winner of the elections, to blindly follow directives and instructions from Brussels,\" the statement says. \"There is no doubt that, in the case of Serbia, European attempts to impose its own will will face resistance from the steadfast and wise Serbian people,\" the SVR added. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "odesa",
+        "moscow",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33416",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33416",
+      "published_at": "2026-11-17T17:15:04+00:00",
+      "text": "🎙 Russian Foreign Ministry Spokeswoman Maria Zakharova’s answer to a question from RT France regarding media reports on the presence of French military personnel in Ukraine (November 17, 2026) ❓ Question: RFI has published an article on the direct involvement of French military personnel in technical support and training activities in Ukraine. It notes that their deployment bypassed the law and parliament. What measures does the Russian MFA intend to take in light of these revelations? 💬 Maria Zakharova: RFI’s report on the presence of French military personnel in Ukraine as part of “Operation Volya” came as neither a surprise nor a revelation to us . Paris’s direct involvement in the Ukraine conflict has long been an open secret. We have repeatedly pointed to the presence of Western military experts, instructors and mercenaries in Ukraine, including from France. In October 2025, Russia’s Foreign Intelligence Service also reported on French plans to deploy a military contingent to Ukraine. President Emmanuel Macron himself has repeatedly spoken of the possibility, or even the necessity, of such a move. As is known, large-scale Coalition 2.0 exercises are currently taking place in Poland to prepare for the deployment of multinational forces to Ukraine under the “coalition of the willing” , with French personnel forming their core. This confirms that Paris and the other coalition capitals are quite serious about their intentions. Given the scale of the assistance Paris provides to the AFU, including deliveries of technologically sophisticated weapons and the establishment of production facilities in Ukraine, it would be naive to assume that French military specialists are not involved on the ground . ☝️ We have no doubt that the extent of France’s direct or indirect involvement in hostilities will eventually become public knowledge. If RFI’s report that the French parliament was not informed of military personnel taking part in an overseas operation is accurate, this would be further evidence of the French authorities’ disregard for the views of their own citizens . Far from everyone in France supports the current leadership’s militarist course. Many understand that it does nothing to strengthen national security and creates unprecedented risks of a direct confrontation with Russia. Indeed, French officials have long openly acknowledged that this is precisely what they are preparing for. While France is reeling from yet another wave of protests , its authorities continue to act as though Ukraine were their overriding priority. Instead of addressing pressing social and economic problems, Paris is becoming ever more deeply embroiled in the Ukraine conflict , sparing no expense and seemingly prepared to risk the lives of its own military personnel. As for measures on our part, these will be taken by the Defence Ministry and the General Staff of the Armed Forces of the Russian Federation , rather than the Foreign Ministry . As President Vladimir Putin has stated , foreign troops , if deployed to Ukraine, will become legitimate targets for the Russian military. 👉 We hope Paris understands this.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53356",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53356",
+      "published_at": "2026-11-17T17:14:08+00:00",
+      "text": "❗️ We support Ukraine in these actions – the UK Minister of Defence on the attack on the Crimean Bridge. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198469",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198469",
+      "published_at": "2026-11-17T17:11:51+00:00",
+      "text": "🇷🇺 💥 🇺🇦 A Russian jet-powered Geran-5 drone has reportedly hit Ukrtelecom's information technology and technical support centre in Vinnitsa. Ukrtelecom is Ukraine's largest landline and internet provider. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35830",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35830",
+      "published_at": "2026-11-17T17:09:13+00:00",
+      "text": "• 📝 More to come 📝 During a walk across the Northern Bridge in Kyiv from Bandera Avenue to Shukhevych Avenue and back, Kyiv residents will have something to think about under the autumn, and then winter Dnieper wind. And it's far from certain that they will rejoice at the damage to the Crimean Bridge . Although they failed to bring down the bridge, the damage is serious. But a miss is a miss — we told about the results of the attack on the Northern Bridge on our channel in MAX . 📍 High resolution infographic 📍 English version #UAV #Russia #Ukraine Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53355",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53355",
+      "published_at": "2026-11-17T17:07:24+00:00",
+      "text": "❗️ UK announces additional military support for Ukraine worth £240 million – Minister of Defence The support package also includes over 1,000 additional short-range air defense missiles, launch systems, and more than a dozen air defense radar stations, with deliveries expected to begin in December. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406193",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406193",
+      "published_at": "2026-11-17T17:06:01+00:00",
+      "text": "США поддерживают способность Украины наносить удары \"средней дальности\" вглубь России, заявил заместитель американского военного министра по политическим делам Элбридж Колби.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
         "strike"
       ],
       "possible_duplicate_urls": []
