@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T10",
+  "generated_at_utc": "2026-11-17T11:25:13.915666+00:00",
+  "window_start_utc": "2026-11-17T10:00:00+00:00",
+  "window_end_utc": "2026-11-17T11:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "stats": {
+    "raw_posts": 13,
+    "relevant_posts": 7,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198419",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198419",
+      "published_at": "2026-11-17T10:48:14+00:00",
+      "text": "🇺🇦 ❌ 💬 Power outages reported in several Ukrainian regions This includes the Dnepropetrovsk, Nikolaev, Odessa, Rovno, Sumy, Chernigov, and Chernovtsy regions. Due to significant damage to equipment, emergency power outages are in effect in the Kirovograd, Poltava, and Sumy regions. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98191",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98191",
+      "published_at": "2026-11-17T10:44:26+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — As a result of the strikes on the Crimean Bridge, one section and an arch of the bridge's roadway collapsed. As many experts claimed, bridges cannot be destroyed, and the sections can be restored in a couple of days. Right. Now the question is, how many Ukrainian bridges across the Dnipro will be destroyed by the end of the month? I think all of them. All our recent strikes on these bridges – they were just preliminary warnings, a hint of what we can do. Now, we'll tear them all down to hell. In my opinion. The enemy is fighting us with utmost seriousness. It's time for us to start as well. Strategic patience must end. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98190",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98190",
+      "published_at": "2026-11-17T10:43:05+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — Zelensky stated that in addition to the \"Flamingo\" missiles, cruise missiles \"Neptune\" and inexpensive Dutch RUTA missiles were also used to attack the Crimean Bridge . For a long time, the enemy has been targeting the Russian air defense system in Crimea and neighboring regions to create a corridor to the bridge, depleting the defensive capabilities of the Russian Armed Forces. We wrote about this back in March of this year. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198418",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198418",
+      "published_at": "2026-11-17T10:41:56+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Zelensky claims the Crimean Bridge strike, says weeks of preparation went into it Zelensky has officially claimed the attack on the Crimean Bridge and released video of the strikes. According to Zelensky, Ukrainian forces spent several weeks destroying air defence systems, radars, electronic warfare equipment and other targets along the route before the attack. He says Palyanytsia drones and Neptune missiles hit the road section of the bridge, while Ruta drones and FP-5 \"Flamingo\" missiles hit the railway section. \"Our military carried out a guided strike with the Flamingo, and the communication worked perfectly until the last seconds,\" he said. In other words, the missiles sent back a live video feed and operators steered them onto the target in real time. Over that distance, a link like that almost certainly runs through satellites. Zelensky didn't say whose, but the obvious candidates are Starlink or its military version, Starshield. Zelensky called the attack a response to Russian strikes on Ukrainian infrastructure, including bridges. As Ukrainian opposition channels pr",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98187",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98187",
+      "published_at": "2026-11-17T10:41:17+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — For the attack on the Crimean Bridge , a guided version of the FP-5 \"Flamingo\" missile was used. This is indicated by videos released by the opposing side. This significantly increased the missile's accuracy, and its warhead, weighing up to 1500 kg , was sufficient to inflict critical damage on the bridge. By the way, the missile was controlled throughout its flight path via Starlink (Starshield), so the recent coordinated complaints about its disconnection for Ukraine over the new territories of Russia were either a disinformation operation, or the opposing side quickly found a workaround. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98186",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98186",
+      "published_at": "2026-11-17T10:40:05+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — The arch of the Crimean Bridge and the span beneath it have collapsed, blocking navigation. The enemy needed just two consecutive attacks to destroy such a structure. The footage was published by Ukrainian channels. @Intelslava",
+      "related_urls": []
+    },
+    {
+      "id": "intelslava/98181",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98181",
+      "published_at": "2026-11-17T10:38:51+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — As we suspected, the cables of the Northern Bridge in Kiev are not broken (although there were attempts to damage them). The bridge deck itself has sustained significant damage. @Intelslava",
+      "related_urls": []
+    }
+  ]
+}
