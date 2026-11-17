@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-17T10",
-  "generated_at_utc": "2026-11-17T11:25:13.915666+00:00",
-  "window_start_utc": "2026-11-17T10:00:00+00:00",
-  "window_end_utc": "2026-11-17T11:00:00+00:00",
+  "hour_id": "2026-11-17T11",
+  "generated_at_utc": "2026-11-17T12:25:24.505809+00:00",
+  "window_start_utc": "2026-11-17T11:00:00+00:00",
+  "window_end_utc": "2026-11-17T12:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
-      "pages": 1,
-      "raw_count": 6
+      "pages": 2,
+      "raw_count": 10
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
@@ -37,73 +37,73 @@
     }
   ],
   "stats": {
-    "raw_posts": 13,
+    "raw_posts": 14,
     "relevant_posts": 7,
     "deduplicated_posts": 7,
     "candidate_posts": 7
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198419",
+      "id": "DDGeopolitics/198436",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198419",
-      "published_at": "2026-11-17T10:48:14+00:00",
-      "text": "🇺🇦 ❌ 💬 Power outages reported in several Ukrainian regions This includes the Dnepropetrovsk, Nikolaev, Odessa, Rovno, Sumy, Chernigov, and Chernovtsy regions. Due to significant damage to equipment, emergency power outages are in effect in the Kirovograd, Poltava, and Sumy regions. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198436",
+      "published_at": "2026-11-17T11:58:59+00:00",
+      "text": "🇷🇺 ✈️ 🇻🇳 The Russian bombers' route to Vietnam, explained This is the map Japan's Defence Ministry released of the flight it attributes to \"presumed Russian aircraft.\" The two Tu-95MS bombers came south from the Sea of Japan and went through the Tsushima Strait between South Korea and Japan. Tokyo says they briefly entered its airspace there, near Okinoshima island. They then flew down the East China Sea along Japan's southern island chain and passed through the gap between Japan's Yonaguni island and Taiwan, before turning toward the South China Sea and Vietnam. In a single flight, Russia's nuclear-capable bombers crossed every US-allied flashpoint in the region. The Korea Strait links Washington's two main Asian allies. Yonaguni and Taiwan are at the centre of any Taiwan war scenario, and Japan has been putting missiles and radars on the island for exactly that reason. The bombers then landed in Vietnam, a country Washington counts as a partner, showing that Moscow can reach the South China Sea without a base of its own. And the timing was hard to miss: the day before the Putin-Xi-",
       "related_urls": []
     },
     {
-      "id": "intelslava/98191",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98191",
-      "published_at": "2026-11-17T10:44:26+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — As a result of the strikes on the Crimean Bridge, one section and an arch of the bridge's roadway collapsed. As many experts claimed, bridges cannot be destroyed, and the sections can be restored in a couple of days. Right. Now the question is, how many Ukrainian bridges across the Dnipro will be destroyed by the end of the month? I think all of them. All our recent strikes on these bridges – they were just preliminary warnings, a hint of what we can do. Now, we'll tear them all down to hell. In my opinion. The enemy is fighting us with utmost seriousness. It's time for us to start as well. Strategic patience must end. @Intelslava",
-      "related_urls": []
-    },
-    {
-      "id": "intelslava/98190",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98190",
-      "published_at": "2026-11-17T10:43:05+00:00",
-      "text": "🇺🇦 🇷🇺 ⚡️ — Zelensky stated that in addition to the \"Flamingo\" missiles, cruise missiles \"Neptune\" and inexpensive Dutch RUTA missiles were also used to attack the Crimean Bridge . For a long time, the enemy has been targeting the Russian air defense system in Crimea and neighboring regions to create a corridor to the bridge, depleting the defensive capabilities of the Russian Armed Forces. We wrote about this back in March of this year. @Intelslava",
-      "related_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198418",
+      "id": "DDGeopolitics/198432",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198418",
-      "published_at": "2026-11-17T10:41:56+00:00",
-      "text": "🇷🇺 ⚔️ 🇺🇦 Zelensky claims the Crimean Bridge strike, says weeks of preparation went into it Zelensky has officially claimed the attack on the Crimean Bridge and released video of the strikes. According to Zelensky, Ukrainian forces spent several weeks destroying air defence systems, radars, electronic warfare equipment and other targets along the route before the attack. He says Palyanytsia drones and Neptune missiles hit the road section of the bridge, while Ruta drones and FP-5 \"Flamingo\" missiles hit the railway section. \"Our military carried out a guided strike with the Flamingo, and the communication worked perfectly until the last seconds,\" he said. In other words, the missiles sent back a live video feed and operators steered them onto the target in real time. Over that distance, a link like that almost certainly runs through satellites. Zelensky didn't say whose, but the obvious candidates are Starlink or its military version, Starshield. Zelensky called the attack a response to Russian strikes on Ukrainian infrastructure, including bridges. As Ukrainian opposition channels pr",
+      "url": "https://t.me/DDGeopolitics/198432",
+      "published_at": "2026-11-17T11:36:32+00:00",
+      "text": "🇺🇸 US to test-fire a Minuteman III ICBM on the day of the APEC summit The US Air Force will test-launch an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base in California overnight, between 11:01 pm on November 17 and 5:01 am on November 18, Pacific time. The launch window overlaps the opening day of the APEC summit in Shenzhen, where Putin, Xi and Trump are due to meet. The base insists the test, codenamed \"Glory Trip 257,\" is routine, \"was scheduled years ago, and is not in response to world events.\" 🔴 @DDGeopolitics",
       "related_urls": []
     },
     {
-      "id": "intelslava/98187",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98187",
-      "published_at": "2026-11-17T10:41:17+00:00",
-      "text": "🇺🇦 🇷🇺 ⚡️ — For the attack on the Crimean Bridge , a guided version of the FP-5 \"Flamingo\" missile was used. This is indicated by videos released by the opposing side. This significantly increased the missile's accuracy, and its warhead, weighing up to 1500 kg , was sufficient to inflict critical damage on the bridge. By the way, the missile was controlled throughout its flight path via Starlink (Starshield), so the recent coordinated complaints about its disconnection for Ukraine over the new territories of Russia were either a disinformation operation, or the opposing side quickly found a workaround. @Intelslava",
+      "id": "DDGeopolitics/198430",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198430",
+      "published_at": "2026-11-17T11:29:33+00:00",
+      "text": "🇷🇺 ✈️ 🇯🇵 🇰🇷 JUST IN! Japan says Russian planes entered its airspace, South Korea scrambles jets Japan's Defence Ministry says two suspected Russian military planes entered Japanese airspace near Okinoshima island in Fukuoka Prefecture early on Tuesday, and Tokyo…",
       "related_urls": []
     },
     {
-      "id": "intelslava/98186",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98186",
-      "published_at": "2026-11-17T10:40:05+00:00",
-      "text": "🇺🇦 🇷🇺 ⚡️ — The arch of the Crimean Bridge and the span beneath it have collapsed, blocking navigation. The enemy needed just two consecutive attacks to destroy such a structure. The footage was published by Ukrainian channels. @Intelslava",
+      "id": "DDGeopolitics/198425",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198425",
+      "published_at": "2026-11-17T11:12:26+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 What Ukrainian media channels are saying about the Crimean Bridge strike Ukrainian opposition channels call it the most destructive of the three successful attacks on the bridge, after October 2022 and July 2023. One of the arches and an entire span of the road section have collapsed. They put that down to the use of missiles alongside drones, and say the footage shows the missiles were guided in real time. They point to two theories circulating in Russian military channels: 🔸️ Starlink/Starshield. Kiev had complained that over the past week the US limited satellite terminals over Russian-held territory so they would stop working above 161 km/h, which blocks their use on missiles and drones. The theory goes that Washington knew about the plan to hit the bridge, and that Kiev then got the limit lifted through anti-compromise officials in the Trump administration. 🔸️ The British trace. The speed limit stayed in place, and the strike used modified British Storm Shadow missiles instead, guided by a British RC-135W Rivet Joint reconnaissance plane that had been flying near Crimea",
       "related_urls": []
     },
     {
-      "id": "intelslava/98181",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98181",
-      "published_at": "2026-11-17T10:38:51+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — As we suspected, the cables of the Northern Bridge in Kiev are not broken (although there were attempts to damage them). The bridge deck itself has sustained significant damage. @Intelslava",
+      "id": "DDGeopolitics/198424",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198424",
+      "published_at": "2026-11-17T11:09:14+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Russia's Investigative Committee has opened a terrorism case over the Armed Forces of Ukraine's attacks on the Crimean Bridge on the morning of November 16 and again overnight into November 17. 🔸️ Deputy Prime Minister Marat Khusnullin has briefed Putin on the situation. 🔸️ The Transport Ministry and Crimea's head, Sergey Aksyonov, are urging people not to travel towards the bridge. 🔸️ Oleg Kryuchkov, adviser to Crimea's head, says the bridge was barely used for supplies of food, goods and fuel, so the peninsula's supply chains are intact. 🔸️ Kherson region governor Vladimir Saldo says security will be stepped up on the land route to Crimea, and that the attacks haven't disrupted supplies to his region. 🔸️ Kremlin spokesman Dmitry Peskov says the bridge will be restored \"and will be even better than before.\" He didn't rule out that Kiev's latest attacks are tied to the upcoming Putin-Xi-Trump summit. 🔸️ Foreign Ministry spokeswoman Maria Zakharova says the world sees Ukraine's leadership as \"marginal outcasts\" and dealing with them is \"toxic.\" 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198421",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198421",
+      "published_at": "2026-11-17T11:02:43+00:00",
+      "text": "🇺🇦 🇺🇸 The Ministry of Infrastructure has announced that it is beginning preparations for a tunnel project under the Dnieper River in Kiev 🐻 Considering Ukraine's and US' reputation in the sphere of fast construction that's more of a money laundering operation 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "MFARussia/33404",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33404",
+      "published_at": "2026-11-17T11:01:24+00:00",
+      "text": "⚡️ Foreign Intelligence Service of the Russian Federation: Brussels concerned that Serbia may maintain its independent course The Press Bureau of the Foreign Intelligence Service of the Russian Federation ( #SVR ) reports that, according to information reaching the SVR, the EU leadership is concerned by the unwillingness of the Student List , which won Serbia’s recent parliamentary elections , to blindly follow instructions and directives from Brussels. Statements by Student List leaders that they are unwilling to integrate into a “united Europe” at the expense of national interests came as a cold shower for EU bureaucrats. ☝️ Particularly irritating to European Commission President Ursula von der Leyen’s office was the students’ determination to fight for Kosovo and defend the rights of their compatriots in Republika Srpska in Bosnia and Herzegovina , as well as their refusal to sever ties with Russia and join the Western sanctions imposed on it. Brussels and the leading European capitals are determined to bring Student List leaders into line . To this end, the “liberal Euro-totalit",
       "related_urls": []
     }
   ]

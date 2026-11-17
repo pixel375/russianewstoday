@@ -1,0 +1,110 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T11",
+  "generated_at_utc": "2026-11-17T12:25:24.505809+00:00",
+  "window_start_utc": "2026-11-17T11:00:00+00:00",
+  "window_end_utc": "2026-11-17T12:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 2,
+      "raw_count": 10
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "stats": {
+    "raw_posts": 14,
+    "relevant_posts": 7,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198436",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198436",
+      "published_at": "2026-11-17T11:58:59+00:00",
+      "text": "🇷🇺 ✈️ 🇻🇳 The Russian bombers' route to Vietnam, explained This is the map Japan's Defence Ministry released of the flight it attributes to \"presumed Russian aircraft.\" The two Tu-95MS bombers came south from the Sea of Japan and went through the Tsushima Strait between South Korea and Japan. Tokyo says they briefly entered its airspace there, near Okinoshima island. They then flew down the East China Sea along Japan's southern island chain and passed through the gap between Japan's Yonaguni island and Taiwan, before turning toward the South China Sea and Vietnam. In a single flight, Russia's nuclear-capable bombers crossed every US-allied flashpoint in the region. The Korea Strait links Washington's two main Asian allies. Yonaguni and Taiwan are at the centre of any Taiwan war scenario, and Japan has been putting missiles and radars on the island for exactly that reason. The bombers then landed in Vietnam, a country Washington counts as a partner, showing that Moscow can reach the South China Sea without a base of its own. And the timing was hard to miss: the day before the Putin-Xi-",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198432",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198432",
+      "published_at": "2026-11-17T11:36:32+00:00",
+      "text": "🇺🇸 US to test-fire a Minuteman III ICBM on the day of the APEC summit The US Air Force will test-launch an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base in California overnight, between 11:01 pm on November 17 and 5:01 am on November 18, Pacific time. The launch window overlaps the opening day of the APEC summit in Shenzhen, where Putin, Xi and Trump are due to meet. The base insists the test, codenamed \"Glory Trip 257,\" is routine, \"was scheduled years ago, and is not in response to world events.\" 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198430",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198430",
+      "published_at": "2026-11-17T11:29:33+00:00",
+      "text": "🇷🇺 ✈️ 🇯🇵 🇰🇷 JUST IN! Japan says Russian planes entered its airspace, South Korea scrambles jets Japan's Defence Ministry says two suspected Russian military planes entered Japanese airspace near Okinoshima island in Fukuoka Prefecture early on Tuesday, and Tokyo…",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198425",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198425",
+      "published_at": "2026-11-17T11:12:26+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 What Ukrainian media channels are saying about the Crimean Bridge strike Ukrainian opposition channels call it the most destructive of the three successful attacks on the bridge, after October 2022 and July 2023. One of the arches and an entire span of the road section have collapsed. They put that down to the use of missiles alongside drones, and say the footage shows the missiles were guided in real time. They point to two theories circulating in Russian military channels: 🔸️ Starlink/Starshield. Kiev had complained that over the past week the US limited satellite terminals over Russian-held territory so they would stop working above 161 km/h, which blocks their use on missiles and drones. The theory goes that Washington knew about the plan to hit the bridge, and that Kiev then got the limit lifted through anti-compromise officials in the Trump administration. 🔸️ The British trace. The speed limit stayed in place, and the strike used modified British Storm Shadow missiles instead, guided by a British RC-135W Rivet Joint reconnaissance plane that had been flying near Crimea",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198424",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198424",
+      "published_at": "2026-11-17T11:09:14+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Russia's Investigative Committee has opened a terrorism case over the Armed Forces of Ukraine's attacks on the Crimean Bridge on the morning of November 16 and again overnight into November 17. 🔸️ Deputy Prime Minister Marat Khusnullin has briefed Putin on the situation. 🔸️ The Transport Ministry and Crimea's head, Sergey Aksyonov, are urging people not to travel towards the bridge. 🔸️ Oleg Kryuchkov, adviser to Crimea's head, says the bridge was barely used for supplies of food, goods and fuel, so the peninsula's supply chains are intact. 🔸️ Kherson region governor Vladimir Saldo says security will be stepped up on the land route to Crimea, and that the attacks haven't disrupted supplies to his region. 🔸️ Kremlin spokesman Dmitry Peskov says the bridge will be restored \"and will be even better than before.\" He didn't rule out that Kiev's latest attacks are tied to the upcoming Putin-Xi-Trump summit. 🔸️ Foreign Ministry spokeswoman Maria Zakharova says the world sees Ukraine's leadership as \"marginal outcasts\" and dealing with them is \"toxic.\" 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198421",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198421",
+      "published_at": "2026-11-17T11:02:43+00:00",
+      "text": "🇺🇦 🇺🇸 The Ministry of Infrastructure has announced that it is beginning preparations for a tunnel project under the Dnieper River in Kiev 🐻 Considering Ukraine's and US' reputation in the sphere of fast construction that's more of a money laundering operation 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "MFARussia/33404",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33404",
+      "published_at": "2026-11-17T11:01:24+00:00",
+      "text": "⚡️ Foreign Intelligence Service of the Russian Federation: Brussels concerned that Serbia may maintain its independent course The Press Bureau of the Foreign Intelligence Service of the Russian Federation ( #SVR ) reports that, according to information reaching the SVR, the EU leadership is concerned by the unwillingness of the Student List , which won Serbia’s recent parliamentary elections , to blindly follow instructions and directives from Brussels. Statements by Student List leaders that they are unwilling to integrate into a “united Europe” at the expense of national interests came as a cold shower for EU bureaucrats. ☝️ Particularly irritating to European Commission President Ursula von der Leyen’s office was the students’ determination to fight for Kosovo and defend the rights of their compatriots in Republika Srpska in Bosnia and Herzegovina , as well as their refusal to sever ties with Russia and join the Western sanctions imposed on it. Brussels and the leading European capitals are determined to bring Student List leaders into line . To this end, the “liberal Euro-totalit",
+      "related_urls": []
+    }
+  ]
+}
