@@ -25,8 +25,9 @@ an unverified event has been independently confirmed.
 1. GitHub Actions is scheduled at 09 and 14 minutes past each UTC
    hour on standard ubuntu-latest runners, using the second slot as
    a retry if GitHub drops the first schedule. It collects public Telegram pages from
-   DD Geopolitics, Intel Slava and BRICS News, paginating until the
-   entire previous UTC hour is covered.
+   DD Geopolitics, Intel Slava, BRICS News, Aussie Cossack and the
+   Russian Ministry of Foreign Affairs, paginating until the entire
+   previous UTC hour is covered.
 2. It stores immutable collection archives at
    data/hourly/YYYY-MM-DDTHH.json and data/hourly/latest.json.
 3. ChatGPT hourly task runs at minute 25 in America/Winnipeg time,
