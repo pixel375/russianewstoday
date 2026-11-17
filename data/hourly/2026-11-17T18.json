@@ -1,0 +1,217 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T18",
+  "generated_at_utc": "2026-11-17T19:21:03.663856+00:00",
+  "window_start_utc": "2026-11-17T18:00:00+00:00",
+  "window_end_utc": "2026-11-17T19:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 4
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 29,
+    "relevant_posts": 9,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
+  },
+  "posts": [
+    {
+      "id": "MFARussia/33417",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33417",
+      "published_at": "2026-11-17T18:46:02+00:00",
+      "text": "🎙 🇷🇺 Statement by Permanent Representative of the Russian Federation to the International Organizations in Vienna Mikhail Ulyanov at the Seventh Session of the UN Conference on the Establishment of the Middle East Zone Free of Nuclear Weapons and Other Weapons of Mass Destruction 📍 New York, 16 November 2026 💬 We are compelled to note that, since our last meeting , the international security and nuclear non-proliferation landscape has not undergone any significant improvement . The escalation in the Middle East has not subsided. Following the unlawful and unprovoked US-Israeli aggression against Iran’s nuclear facilities, which were under IAEA safeguards , in June 2025, the United States and Israel embarked on a new and unprecedented escalation in February-April this year. The war is still ongoing and has affected a number of other countries in the region. Unfortunately, despite the efforts being made, a sustainable peaceful settlement has yet to be achieved. 👉 The threat of a resumption of armed hostilities remains. <…> ❌ The difficult situation prevailing today in the field of nuclear non-proliferation was also reflected in the fact that the Eleventh Review Conference of the Treaty on the Non-Proliferation of Nuclear Weapons (NPT), held here in New York this spring, concluded without the adoption of a final document. *** Now, more than ever, there is a pressing need for collective political and diplomatic efforts aimed at de-escalating tensions and maintaining dialogue across the entire range of issues related to regional security. 📄 A sufficient number of relevant initiatives are already on the table, covering either the entire Middle East or individual parts of the region. One such initiative is Russia’s Concept of Collective Security in the Persian Gulf Region , which was most recently updated in 2026. *** For seven years now, the UN Conference on the Establishment of a Middle East Zone Free of Nuclear Weapons and Other Weapons of Mass Destruction has been building on the substantial results achieved in its earlier work. In addition to the aforementioned consensus rule, we have a substantive political declaration; representatives of the IAEA and the OPCW Secretariats regularly participate in the forum’s proceedings; meetings of the intersessional Working Committee are held, and, more recently, have also been hosted by countries of the region; and the fifth session of the Conference, in 2024, was held in a review format for the first time. ☝️ All this provides a solid foundation for further progress . Read the full statement Watch the full meeting",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233731",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233731",
+      "published_at": "2026-11-17T18:41:01+00:00",
+      "text": "Анимированная схема ударов по территории Украины 07:30 16 ноября 2026 – 07:30 17 ноября 2026 года. Добавления выявленные в процессе создания схемы: 07:05 Запорожье— взрыв. Герань.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77897",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77897",
+      "published_at": "2026-11-17T18:36:11+00:00",
+      "text": "Молдавское Министерство обороны заявляет о семи дронах, которые были зафиксированы сегодня в небе над страной. Заявляется, что пять беспилотников упали вблизи различных населенных пунктов. Еще два пока не найдены — один исчез с радаров, двигаясь в направлении границы. Ранее была приостановлена работа как молдавских аэропортов, так и всех шести КПП на границе с Украиной. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233730",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233730",
+      "published_at": "2026-11-17T18:21:00+00:00",
+      "text": "Путин прибыл в Шэньчжэнь на саммит АТЭС. У президента в программе первая в истории трехсторонняя встреча лидеров России, Китая и США, а также ряд двусторонних переговоров. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/rian_ru/349947"
+      ],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77893",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77893",
+      "published_at": "2026-11-17T18:09:04+00:00",
+      "text": "Здания центрального аппарата Минюста Украины, Киевского межрегионального управления и Научно-исследовательского центра независимых судебных экспертиз министерства слегка повредились после ночных ударов по Киеву. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406203",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406203",
+      "published_at": "2026-11-17T18:04:59+00:00",
+      "text": "Главные новости к этому часу: ▪️ Путин прибыл в Шэньчжэнь, где встретится с Си Цзиньпином и Трампом, а также примет участие в саммите АТЭС. ▪️ ВС РФ ударили по электроподстанциям в Ровно, Грабове, Каменском и Черновцах. ▪️ Крушение самолета, предположительно, произошло в Кемеровской области, сообщил глава региона. ▪️ Недопуск российских фигуристов на соревнования в Финляндию — неонацизм в полный рост, заявила ТАСС Мария Захарова. ▪️ Мирошник сообщил ТАСС о гибели 64 россиян на неделе от ударов ВСУ. ▪️ Мария Захарова заявила , что размещенные на Украине иностранные войска станут целью ВС РФ. ▪️ ФХР считает недопустимым инцидент с сайтом IIHF. ▪️ ЕК прогнозирует выезд из ЕС 500 тыс. украинцев к 2028 году. ▪️ Дженсен Хуанг заявил о готовности вернуться на должность гендиректора Nvidia. ▪️ В Татарстане двух школьниц нашли мертвыми. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233729",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233729",
+      "published_at": "2026-11-17T18:01:01+00:00",
+      "text": "Тяжелый украинский гексакоптер для эвакуации раненых «Gurzuf Defence» - уничтожен Относительно недавно украинские формирования провели первую реальную эвакуацию раненого с фронта посредством тяжелого беспилотника. Однако после этого фактов успешного проведения подобной операции больше не было. И вот одна из причин почему: потому что своим пиаром они привлекли внимание к подобным дронам На ваших кадрах момент как оператор российского FPV-дрона обнаружил в лесном массиве как раз-таки этот самый эвакуационный дрон, который уже находился на земле. Ну и не надо рассказывать, что в итоге произошло с этим дроном, после того как его обнаружил наш оператор. Такие дроны громоздкие, из-за чего эвакуацию проводить очень сложно, потому что внимание к ним высокое. Но сам факт того, что подобных изделий у ВСУ больше, остается очевидным. И в России пока с альтернативами не густо, и в первую очередь это связано из-за проблем со связью. @arx_spn",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/349944",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/349944",
+      "published_at": "2026-11-17T18:00:12+00:00",
+      "text": "Спецоперация. Обстановка и главные события на 17 ноября : ◾️ Армия России освободила Заливное в Запорожской области, сообщили в Минобороны. ◾️ ВСУ за сутки потеряли 1065 военнослужащих. ◾️ Средства ПВО сбили 2256 украинских беспилотников, это новый рекорд за день. ◾️ Российские военные нанесли массированный удар по Украине, поражены Северный и Южный мосты в Киеве. ◾️ В Запорожье, Черкасской, Днепропетровской и Харьковской областях нанесли удары по заводам, задействованным в производстве ракет \"Фламинго\" и \"Нептун\", электроподстанции и ТЭЦ. ◾️ В Минобороны также сообщили об ударах по четырем электроподстанциям в Ровенской, Днепропетровской и Черновицкой областях, обеспечивающим предприятия ВПК Украины. ◾️ Песков заявил, что нет никаких сомнений в том, что Крымский мост будет восстановлен после атаки ВСУ. ◾️ ФСБ задержала четверых и ликвидировала двоих агентов украинских спецслужб на юге России - они намеревались дронами атаковать военные аэродромы и переоборудовали гидроциклы в безэкипажные катера для ударов по кораблям и судам в Каспийском море. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
