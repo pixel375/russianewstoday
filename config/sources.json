@@ -19,10 +19,43 @@
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs"
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)"
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS"
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti"
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English"
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors"
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo"
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad"
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok"
     }
   ],
   "timezone": "America/Winnipeg",
   "max_pages_per_source": 40,
   "max_candidates": 150,
-  "hours_back": 1
+  "hours_back": 1,
+  "min_success_sources": 9
 }
