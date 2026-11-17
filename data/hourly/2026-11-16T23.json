@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-16T23",
+  "generated_at_utc": "2026-11-17T00:27:35.999025+00:00",
+  "window_start_utc": "2026-11-16T23:00:00+00:00",
+  "window_end_utc": "2026-11-17T00:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "stats": {
+    "raw_posts": 6,
+    "relevant_posts": 2,
+    "deduplicated_posts": 2,
+    "candidate_posts": 2
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198386",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198386",
+      "published_at": "2026-11-16T23:56:37+00:00",
+      "text": "🇺🇦 IMF: Ukraine is short $50 billion for the next two years, even with the EU's €90 billion loan The International Monetary Fund estimates that Ukraine will be short $32–34 billion in 2027 and another $17 billion in 2028. That's on top of everything already pledged, including the EU's €90 billion loan, half of which is due to be paid out next year. So even after Europe's taxpayers hand over another €45 billion in 2027, Kiev will still need around $50 billion more. Ukraine's own representative at the IMF is already calling for the EU loan to be increased. The IMF blames the shortfall on \"the expected longer duration of the war.\" It is holding back the next $1.6 billion tranche of its own loan until Kiev's Western partners guarantee they will cover the gap. These figures cover only the state budget. Weapons are paid for separately. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198385",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198385",
+      "published_at": "2026-11-16T23:51:36+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 At least two hits landed on the Crimean Bridge's arch during the combined Ukrainian attack. The extent of the damage will be clearer in the morning. Videos posted by Ukrainians appear to show the roadway bent and twisted, but it's not yet known whether that came from this morning's attack or tonight's. The attacks were expected. The upcoming Putin-Xi-Trump meeting has Zelensky and his handlers desperate for a PR win, and the Crimean Bridge has been Zelensky's white whale since the start of the SMO. If the road section is out of service, life will get harder for civilians on the peninsula, but it won't affect the SMO in any significant way. The one it will most likely hurt is Ukraine. Zelensky seems to have given Russia the green light for systematic strikes on every bridge across the Dnepr, not just the ones in Kiev. Ukrainian opposition channels claim Western partners supplied the missiles and equipment for the attack on the Crimean Bridge weeks ago, and that Kiev will present them as domestically produced. Either way, Zelensky has his foot on the throttle, plunging an alre",
+      "related_urls": []
+    }
+  ]
+}
