@@ -1,0 +1,27 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    45
+  ],
+  "published_at_utc": "2026-11-17T13:25:32.394464+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-17T12",
+  "items": [
+    {
+      "item_id": "2026-11-17T12:1",
+      "title": "Hungary reportedly suspends rail services to Ukraine for two days",
+      "summary": "Rail traffic between Hungary and Ukraine is reportedly being suspended for November 17–18 after a drone landed about 300 metres from a station in Mukachevo. The incident reportedly prompted the evacuation of a Hungarian train crew; the drone's origin and whether anyone was injured remain unclear.",
+      "post_url": "https://t.me/russianewstodayofficial/45",
+      "category": "other",
+      "hour_id": "2026-11-17T12"
+    },
+    {
+      "item_id": "2026-11-17T12:2",
+      "title": "Kyiv sets up additional emergency heating centres amid energy disruptions",
+      "summary": "Local authorities in Kyiv are reportedly installing emergency heating centres in the Troieshchyna district as the city continues to face energy disruptions. Portable sanitation facilities are also planned, although the number of operational centres and their capacity have not been confirmed.",
+      "post_url": "https://t.me/russianewstodayofficial/45",
+      "category": "other",
+      "hour_id": "2026-11-17T12"
+    }
+  ]
+}
