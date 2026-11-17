@@ -1,0 +1,92 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T03",
+  "generated_at_utc": "2026-11-17T04:22:05.007764+00:00",
+  "window_start_utc": "2026-11-17T03:00:00+00:00",
+  "window_end_utc": "2026-11-17T04:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "stats": {
+    "raw_posts": 6,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198397",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198397",
+      "published_at": "2026-11-17T03:54:48+00:00",
+      "text": "🇺🇦 💥 Ukrainian channels report that Russia struck one of the bridges in Kiev with ballistic missiles, according to various sources. Meanwhile, the city administration announced damage to the above-ground infrastructure of the metro system on the \"green\" line, which passes through the Southern Bridge. 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198396",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198396",
+      "published_at": "2026-11-17T03:45:56+00:00",
+      "text": "🇺🇦 💥 Explosions reported in Kiev 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "AussieCossack/53344",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53344",
+      "published_at": "2026-11-17T03:45:05+00:00",
+      "text": "❗️ Despite pressure from Ukrainians in Australia, Penny Wong and the media we all know that secretly, deep down inside Albo dreams of meeting Putin at the upcoming APEC summit. @AussieCossack",
+      "related_urls": []
+    },
+    {
+      "id": "bricsnews/19670",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19670",
+      "published_at": "2026-11-17T03:41:39+00:00",
+      "text": "JUST IN: 🇺🇦 🇷🇺 Ukraine strikes Russia's Crimea Bridge in massive drone attack just days before talks with US President Trump. @BRICSNews",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198395",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198395",
+      "published_at": "2026-11-17T03:39:41+00:00",
+      "text": "🇺🇦 Reports say that several Iskanders are on the way to Kiev 🔴 @DDGeopolitics",
+      "related_urls": []
+    }
+  ]
+}
