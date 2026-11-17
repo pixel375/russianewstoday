@@ -1,0 +1,322 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T14",
+  "generated_at_utc": "2026-11-17T15:25:50.985883+00:00",
+  "window_start_utc": "2026-11-17T14:00:00+00:00",
+  "window_end_utc": "2026-11-17T15:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 30,
+    "relevant_posts": 15,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198452",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198452",
+      "published_at": "2026-11-17T14:56:26+00:00",
+      "text": "📝 No fuel by sea 📝 new USV strike in the Black Sea In the autumn of 2026, Bulgarian sailors and rescuers will remember with a twitching eye: on the night of November 17, a few hours after an attack on a dry cargo ship, another vessel sank. And for the first time it was a gas carrier . This was the GAS HUSKY , a Liberian-flagged vessel that was heading from Egypt toward Danube ports (a painfully familiar situation). Previously, tankers and other similar vessels were attacked only by unmanned aerial vehicles, but by unmanned boats in this area – never. 🖍 As in previous cases, no one is making accusations. But an attack on a propane carrier further raises the temperature of escalation in the western Black Sea. Given that so-called Ukraine has redirected shipping to the Danube , this will further increase insurance and freight costs, not to mention the growing reluctance of shipowners to go to Ukrainian ports. ❗️ And this fits very well with the campaign being conducted by Russian leadership to exhaust the Ukrainian regime. If we continue in the same vein, maritime traffic to so-called Ukraine will become very difficult. #Bulgaria #Ukraine #BlackSea ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406179",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406179",
+      "published_at": "2026-11-17T14:54:49+00:00",
+      "text": "👔 Джо Байден рассказал о безнаказанности олигархов на Украине . \"В стране царила коррупция, и эта гниль проникла в украинскую судебную систему, где богатые и влиятельные люди зачастую могли просто откупиться от ответственности. <...> Олигархи часто жили в собственной реальности, притесняя сограждан\", — слова из его мемуаров \"Обещай мне, Америка\" (есть в распоряжении ТАСС). ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198451",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198451",
+      "published_at": "2026-11-17T14:54:28+00:00",
+      "text": "🏁 ⚔️ 🇷🇺 NATO's eyes over the Black Sea before the Crimean Bridge strike ➡️ November 3: A British RAF RC-135W Rivet Joint, a NATO RQ-4D Phoenix drone and Italian aircraft flew simultaneous surveillance missions over the Black Sea. The US Army's ARTEMIS II spy jet spent nine hours over the southern Black Sea that week. ➡️ November 4 and 8: A US Navy P-8A Poseidon flew out of Varna, Bulgaria, toward the Black Sea. ➡️ November 7: ARTEMIS II was back over the southern Black Sea for the second time that week. ➡️ November 10: The NATO RQ-4D Phoenix drone reached the Black Sea from Sicily, taking an unusual route over the Balkans. ➡️ Until November 11: A French Navy Atlantique 2 patrol aircraft had been operating in the region since mid-October. ➡️ November 12: An Italian Air Force E.550 early-warning aircraft flew its third mission toward the Black Sea in a week, through areas of heavy GPS jamming. ➡️ November 14: ARTEMIS II took off from Constanța, Romania, heading southeast over the Black Sea. ➡️ November 16, the day of the first strike: A US Air Force RC-135U Combat Sent, which maps enemy radar and air defence systems, returned to the Black Sea after weeks of absence and flew orbits over the eastern basin. A NATO E-3A AWACS flew along the coast the same day. Russian channels also say a British RC-135W Rivet Joint was over the Black Sea that day. ➡️ Between the two strikes: A NATO E-3A AWACS flew over the Black Sea again, according to Russian channels. This is only what was visible on public trackers. These aircraft can switch their transponders off. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19681",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19681",
+      "published_at": "2026-11-17T14:50:36+00:00",
+      "text": "JUST IN: 🇷🇺 Russian Foreign Minister Lavrov says \"nothing good has ever come\" from NATO's involvement anywhere. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30654",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30654",
+      "published_at": "2026-11-17T14:45:26+00:00",
+      "text": "Hiding is not AFU strong suit 💥 The Vostok Group's attack UAV teams eliminated AFU manpower in Dnepropetrovsk region. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233708",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233708",
+      "published_at": "2026-11-17T14:41:02+00:00",
+      "text": "Противник заявил, что в Киеве в результате ночных ударов пострадало здание министерства юстиции Украины. Судя по публикуемым кадрам, прилетело куда-то рядом с министерством, которое обдало взрывной волной.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198450",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198450",
+      "published_at": "2026-11-17T14:40:52+00:00",
+      "text": "🇫🇮 Finnish President Gay Android Alexander Stubb says European leaders should talk directly to Putin, and that leaving negotiations with Russia to others has been \"irresponsible.\" \"We have outsourced European engagement with Russia for too long and I think that is irresponsible. Now that we have a framework, I think European leaders should engage directly with Putin with the same message,\" Stubb told the Financial Times. He says Europe faces two possible outcomes: a repeat of Yalta in 1945, which left Eastern Europe in the Soviet sphere, or of the 1975 Helsinki Accords, which eased East-West tensions. As for Washington, \"it is probably leaning more towards the Yalta camp, but in the future it may lean more towards the Helsinki camp.\" Stubb also admits Putin is \"ready for dialogue with Europe,\" that Europe is late to the table, and that \"there will be no agreement without Putin's consent. We have to be realistic.\" After four years of refusing to talk, sanctioning anyone who suggested it and calling for Russia's \"strategic defeat,\" Europe has discovered diplomacy... 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198449",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198449",
+      "published_at": "2026-11-17T14:37:32+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Ukrainian officer: the Crimean Bridge strike was timed to humiliate Putin before the summit Kiev hit the Crimean Bridge to embarrass Putin ahead of Thursday's summit with Trump and Xi, a Ukrainian officer involved in the operation told The Times. \"We planned it as a symbolic gesture before the meeting of Trump, Putin and Xi, to show that Putin is weak,\" the officer said. He claims the strike also proved Ukraine can carry out such operations without Starlink or Starshield, which Washington recently restricted. \"The Americans tried to paralyse our communications to prevent such operations, but this mission proved we can create our own channels to relay radio signals,\" he said. According to him, drones relayed the video signal to the missiles for the first time, letting them hit specific points on the bridge. He didn't say what system replaced Starlink. It's convenient: Washington is cleared of any role, and Kiev gets credit for a homemade breakthrough. So by Kiev's own admission, the target wasn't Russia's military logistics but a diplomatic summit, which says a lot about who in this war actually wants talks. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35827",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35827",
+      "published_at": "2026-11-17T14:26:50+00:00",
+      "text": "📝 Mission \"Volia\" 📝 A discovery that is four years old The French admitted to deploying their troops in so-called Ukraine, only four years late. Radio station RFI allegedly suddenly discovered that French military personnel operate in so-called Ukraine as part of a secret mission Volia (\"Will\"). French politicians call this an exposé of state lies. 🔻 What RFI reports ▪️ According to several sources at the radio station, the mission has operated in Ukraine since at least summer 2026. A French general leads it. The structure is described as \"light and modular\": small groups, short deployments. The total number of military personnel involved is not disclosed. ▪️ The official task is to train Ukrainian military personnel \"as close as possible to the combat zone\" and maintain the supplied equipment: Caesar self-propelled guns, Mirage fighters, and Scalp missiles. ▪️ The official Gerfaut mission in Poland serves as cover. It has operated since February 2023, including at the Wendzin training ground, as part of the European EUMAM mission, which was extended until November 2028. According to RFI, military personnel sent to Ukraine are told to say they are going to Poland. ▪️ According to RFI, the French Parliament was not notified of the mission, although Article 35 of the constitution requires informing it of any troop deployment abroad, even non-combat deployments. An AFP source confirmed \"rotation of instructors,\" including \"occasionally in Ukraine,\" but claimed that \"this is not a military operation.\" 📌 The only novelty here is the name. We reported on French military personnel in Ukraine back in April 2022 (!) : in particular, we reported that two platoons of the 13th Parachute Dragoon Regiment arrived there. They were transported by NATO aircraft through a third country, most likely through Poland. The \"through Poland\" scheme appeared long before Gerfaut. In June 2022 , we published a photo of a French military serviceman with Saint-Cyr insignia at a training ground in Rivne Region, where NATO instructors trained Ukrainian military personnel. In May 2025 , when France Inter reported on a \"new\" detachment of seven volunteers, we reminded about officers of the elite 11th Parachute Regiment on the front lines, specialists servicing Caesar and Mirage, personnel ensuring Scalp launches, and GIGN fighters who have been operating in Kyiv since March 2022. Now RFI describes almost the same thing: servicing Caesar, Mirage, and Scalp, training near the front line, entry through Poland. 🖍 Official assurances that \"this is not a military operation\" and \"no one is fighting\" change little. Specialists without whom Mirage fighters cannot take off and Scalp missiles cannot launch directly participate in the conflict , no matter what you call them.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77887",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77887",
+      "published_at": "2026-11-17T14:22:50+00:00",
+      "text": "Северный мост в Киеве удалось пробить, но он пока не рухнул. Очевидно требуются новые удары. Мэр Кличко сообщил объявил, что движение по Южному мосту в Киеве частично восстановлено. Пока пропускают транспорт с левого берега на правый с ограничением по массе и с увеличенным интервалом движения между транспортными средствами. С правого берега на левый движение не возобновляется в виду серьезных повреждений именно этой части моста. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233707",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233707",
+      "published_at": "2026-11-17T14:21:01+00:00",
+      "text": "Боевая работа операторов Центра \"Рубикон\" за 17 ноября 2026 года 00:05 - Донбасс 05:43 - Сумское направление 06:44 - Славянское направление 07:17 - Дистанционное минирование логистический маршрутов ВСУ 08:21 - Поражение пехоты ВСУ 09:30 - Боевая работа дневных расчетов FPV-ПВО по БПЛА ВСУ 12:27 - Боевая работа ночных расчетов FPV-ПВО по БПЛА ВСУ 12:57 - Боевая работа расчетов FPV-ПВО перехватчиками \"Молния-ПВО\" по БПЛА ВСУ 13:40 - Боевая работа расчетов FPV-ПВО по дальнобойным БПЛА ВСУ Опубликовано эпизодов : 476 - второй внутридневной результат!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406174",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406174",
+      "published_at": "2026-11-17T14:15:43+00:00",
+      "text": "❗️ Мирошник сообщил о гибели 64 жителей РФ на неделе от ударов ВСУ, среди них есть ребенок. Также 15 сотрудников Запорожской АЭС погибли с апреля от украинских атак, добавил он ТАСС. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/349932",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/349932",
+      "published_at": "2026-11-17T14:07:56+00:00",
+      "text": "Петицию против французских военных на Украине запустил кандидат в президенты Франции. Лидер партии \"Патриоты\" Флориан Филиппо потребовал прекратить любую военную и финансовую помощь Киеву, в том числе через Евросоюз. Поводом стало сообщение RFI, что французы уже несколько месяцев тайно обучают боевиков ВСУ и обслуживают технику. \"Безответственность и безумие со стороны Макрона! Парламентарии должны применить статью 35 Конституции и отменить эту скрытую от французов военную миссию!\" - написал Филиппо в соцсети X. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233706",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233706",
+      "published_at": "2026-11-17T14:05:15+00:00",
+      "text": "Сводка Министерства обороны Российской Федерации о ходе проведения специальной военной операции по состоянию на 17 ноября 2026 г. Группировка войск «Север»: Улучшили тактическое положение. В Харьковской области нанесено поражение живой силе и технике подразделений двух механизированных бригад и штурмового полка ВСУ в районах населенных пунктов Подсреднее, Новоселовка и Приколотное Харьковской области. В Сумской области поражены формирования двух мотопехотных, аэромобильной бригад ВСУ и бригады нацгвардии в районах населенных пунктов Николаевка, Битица и Краснополье Сумской области. – Противник потерял до 175 военнослужащих, боевую бронированную машину, 16 автомобилей, две станции радиоэлектронной борьбы и радиолокационную станцию контрбатарейной борьбы. Группировка войск «Запад»: Улучшили положение по переднему краю. Нанесли поражение живой силе и технике трех механизированных, штурмовой бригад ВСУ и бригады теробороны в районах населенных пунктов Моначиновка, Изюм, Новониколаевка и Петровка Харьковской области. – Потери ВСУ составили до 230 военнослужащих, боевая бронированная машина, 24 автомобиля и артиллерийское орудие. Группировка войск «Юг»: Заняли более выгодные рубежи и позиции. Нанесли поражение формированиям двух механизированных, аэромобильной, горно-штурмовой бригад и двух штурмовых полков ВСУ в районах населенных пунктов Красный Молочар, Дружковка и Николаевка Донецкой Народной Республики. – ВСУ потеряли свыше 180 военнослужащих, две боевые бронированные машины, 26 автомобилей и станцию радиоэлектронной борьбы. Группировка войск «Центр»: Продолжали ведение активных наступательных действий. Нанесли поражение живой силе и технике механизированной, штурмовой, воздушно-десантной, десантно-штурмовой бригад, двух штурмовых полков ВСУ, трех бригад нацгвардии и бригады спецназначения в районах населенных пунктов Новопавловка, Криворожье, Сергеевка, Новокриворожье, Софиевка, Святогоровка, Михайловка Донецкой Народной Республики и Новоподгородное Днепропетровской области. – Потери украинских вооруженных формирований составили до 340 военнослужащих, восемь боевых бронированных машин, восемь автомобилей, артиллерийское орудие и четыре станции радиоэлектронной борьбы. Группировка войск «Восток»: В результате решительных действий освободили населенный пункт Заливное Запорожской области. Нанесено поражение живой силе и технике двух штурмовых, двух десантно-штурмовых бригад и штурмового полка ВСУ в районах населенных пунктов Подгавриловка, Покровское, Русаково Днепропетровской области, Одаровка и Сергеевка Запорожской области. – ВСУ потеряли свыше 120 военнослужащих, боевую бронированную машину, восемь автомобилей, артиллерийское орудие и станцию радиоэлектронной борьбы. Группировка войск «Днепр»: Нанесли поражение формированиям горно-штурмовой бригады, штурмового полка ВСУ и бригады теробороны в районах населенных пунктов Димитрово, Камышеваха и Кирово Запорожской области. – Уничтожены до 20 военнослужащих, 20 автомобилей, артиллерийское орудие и станция радиоэлектронной борьбы. Оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией группировок войск Вооруженных Сил Российской Федерации нанесено поражение объектам энергетической, транспортной инфраструктуры, используемым в интересах ВСУ, местам производства и хранения беспилотных летательных аппаратов и наземных робототехнических комплексов, военным аэродромам, а также пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 152 районах.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "energy",
+        "kharkiv",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406172",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406172",
+      "published_at": "2026-11-17T14:00:50+00:00",
+      "text": "Главные новости к этому часу: ▪️ Повестка дня встречи лидеров РФ, США и Китая сформирована, сообщил Лавров. Главное из заявлений главы МИД — в материале ТАСС. ▪️ Песков не исключил в беседе с \"Вестями\", что последние атаки Киева связаны с саммитом РФ, Китая и США. ▪️ Железнодорожное движение по Крымскому мосту открыли . ▪️ Мария Захарова прокомментировала ТАСС атаки на Крымский мост перед саммитом АТЭС. ▪️ Лантратова сообщила, что надеется на организацию ежемесячных гуманитарных миссий в Алешки. ▪️ Трамп заявил, что готов к отдельной встрече с Путиным на саммите АТЭС. ▪️ Российских фигуристов не пустили в Финляндию на этап Гран-при, сообщил источник ТАСС. ▪️ Олимпийский чемпион по хоккею Юрий Ляпкин умер на 82-м году жизни. ▪️ В России наблюдаются проблемы с доступом в работе Google, Deepseek и Twitch. ▪️ Судмедэксперт Фриман считает , что смерть Эпштейна могла быть насильственной. ▪️ Депутат Боярский опроверг информацию о планах по блокировке Steam в РФ. ▪️ МВД РФ объявило в розыск журналистку Катерину Гордееву (признана иноагентом в РФ). ▪️ Экс-жена Сафонова может оспорить в суде утверждение алиментов в твердой сумме. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
