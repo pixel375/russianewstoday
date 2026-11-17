@@ -26,7 +26,11 @@ DAY_PATH = re.compile(r"^outbox/daily/(\d{4}-\d{2}-\d{2})\.json$")
 ORIGINAL_LINK = re.compile(r"^https://t\.me/[A-Za-z0-9_]+/\d+$")
 DESTINATION = "russianewstodayofficial"
 MAX_UNITS = 3300
-FORBIDDEN_ORIGINAL_NAMES = re.compile(r"\b(?:DD\s*Geopolitics|Intel\s*Slava|BRICS\s*News)\b", re.I)
+FORBIDDEN_ORIGINAL_NAMES = re.compile(
+    r"\b(?:DD\s*Geopolitics|Intel\s*Slava|BRICS\s*News|"
+    r"Aussie\s*Cossack|TASS|RIA\s*Novosti|Rybar(?:\s*in\s*English)?|"
+    r"Two\s*Majors|WarGonzo|Colonelcassad|Voenkor\s*Kotenok)\b", re.I)
+CYRILLIC = re.compile(r"[\u0400-\u052F]")
 LOCAL_TZ = ZoneInfo("America/Winnipeg")
 
 
@@ -51,12 +55,16 @@ def validate_text(item: dict, n: int, hourly: bool) -> None:
         raise ValueError(f"Item {n}: title must be 5–180 characters")
     if FORBIDDEN_ORIGINAL_NAMES.search(title):
         raise ValueError(f"Item {n}: do not mention original source channel in headline")
+    if CYRILLIC.search(title):
+        raise ValueError(f"Item {n}: write title in English, transliterating Russian names")
     if hourly:
         summary = item.get("summary")
         if not isinstance(summary, str) or not 16 <= len(summary) <= 800:
             raise ValueError(f"Item {n}: summary must be 16–800 characters")
         if FORBIDDEN_ORIGINAL_NAMES.search(summary):
             raise ValueError(f"Item {n}: do not mention original source channel in summary")
+        if CYRILLIC.search(summary):
+            raise ValueError(f"Item {n}: write summary in English, transliterating Russian names")
 
 
 def validate_hourly(path: Path, root: Path, now: datetime) -> tuple[dict, dict]:
