@@ -45,14 +45,72 @@ RUSSIA = re.compile(r"\brussia(?:n|ns)?\b|\bmoscow\b|\bkremlin\b|\bputin\b|\bр�
 NOISE = re.compile(r"\bcasino\b|\bsportsbook\b|\bgiveaway\b|\bpromo code\b", re.I)
 TOKEN = re.compile(r"[a-zа-яёіїєґ0-9]{3,}", re.I)
 
+# Broad contextual signals in both languages. These help retain war-adjacent
+# Ukraine stories (corruption, procurement, conscription, aid, sanctions, etc.).
+# They are DISCOVERY signals only, not assertions of truth or political valence.
+POLICY = re.compile(
+    r"\bcorrupt\w*|\bbrib\w*|\bembezzl\w*|\bfraud\w*|\bscandal\w*|"
+    r"\binvestigat\w*|\bprosecut\w*|\bresign\w*|\bprocure\w*|"
+    r"\bconscrip\w*|\bmobiliz\w*|\bdesert\w*|\beconom\w*|"
+    r"\bdebt\b|\bbudget\b|\belection\w*|\bparliament\b|"
+    r"\bpolitic\w*|\brefugee\w*|\benergy\b|\bpower grid\b|"
+    r"\bEU\b|\bNATO\b|\bpeace\b|\bdiplomac\w*|\bnegotiat\w*|"
+    r"\bmilitary aid\b|\bforeign aid\b|\bfinance\w*|\bsanction\w*|"
+    r"\bкоррупц\w*|\bвзятк\w*|\bхищен\w*|\bрастрат\w*|"
+    r"\bмошенн\w*|\bскандал\w*|\bрасследован\w*|\bобыск\w*|"
+    r"\bзадержан\w*|\bарест\w*|\bотставк\w*|\bзакупк\w*|"
+    r"\bмобилизац\w*|\bдезертир\w*|\bуклонист\w*|"
+    r"\bэкономик\w*|\bбюджет\w*|\bдолг\w*|\bвыбор\w*|"
+    r"\bпарламент\w*|\bрад\w*|\bпомощ\w*|\bэнергетик\w*|"
+    r"\bэлектроснабжен\w*|\bпереговор\w*|\bдипломат\w*|"
+    r"\bсанкц\w*|\bевросоюз\w*|\bнато\b",
+    re.I,
+)
+UKRAINE_EXT = re.compile(
+    r"\bукраїн\w*|\bкиїв\w*|\bзеленськ\w*|\bзеленск\w*|"
+    r"\bзеленск\w*|\bзеленськ\w*|\bзеленск\w*|\bвсу\b|"
+    r"\bзсу\b|\bкиев\w*|\bукраин\w*|\bukrain\w*|"
+    r"\bzelensk\w*|\bkyiv\b|\bkiev\b|\bukrainian\w*",
+    re.I,
+)
+
+# Non-destructive multilingual hints. Only human/LLM review can determine
+# that two translated stories truly describe the same incident.
+EVENT_PATTERNS = {
+    "kyiv": r"\bkyiv\b|\bkiev\b|\bкиев\w*|\bкиїв\w*",
+    "odesa": r"\bodesa\b|\bodessa\b|\bодесс\w*|\bодес\w*",
+    "kharkiv": r"\bkharkiv\b|\bkharkov\b|\bхарьков\w*|\bхарків\w*",
+    "zaporizhzhia": r"\bzaporizh\w*|\bzaporozh\w*|\bзапорож\w*|\bзапоріж\w*",
+    "donetsk": r"\bdonetsk\b|\bдонецк\w*|\bдонецьк\w*",
+    "kursk": r"\bkursk\b|\bкурск\w*",
+    "moscow": r"\bmoscow\b|\bмоскв\w*",
+    "crimea": r"\bcrimea\b|\bкрым\w*|\bкрим\w*",
+    "corruption": r"\bcorrupt\w*|\bbrib\w*|\bвзятк\w*|\bкоррупц\w*|\bкорупц\w*",
+    "procurement": r"\bprocure\w*|\bзакупк\w*|\bзакупівл\w*",
+    "drone": r"\bdrone\w*|\buav\b|\bбпла\b|\bбпілот\w*|\bдрон\w*",
+    "missile": r"\bmissile\w*|\bракет\w*",
+    "strike": r"\bstrike\w*|\battack\w*|\bудар\w*|\bатак\w*",
+    "sanctions": r"\bsanction\w*|\bсанкц\w*",
+    "negotiation": r"\bnegotiat\w*|\bpeace talk\w*|\bпереговор\w*",
+    "energy": r"\benergy\b|\bpower grid\b|\bэнерг\w*|\bелектро\w*",
+    "mobilization": r"\bmobiliz\w*|\bconscrip\w*|\bмобилизац\w*|\bмобілізац\w*",
+}
+EVENT_REGEX = {key: re.compile(expr, re.I) for key, expr in EVENT_PATTERNS.items()}
+LOCATION_SIGNALS = frozenset(("kyiv", "odesa", "kharkiv", "zaporizhzhia",
+                              "donetsk", "kursk", "moscow", "crimea"))
+
 
 def relevant(text: str) -> bool:
     if not text or len(text.strip()) < 28:
         return False
     if NOISE.search(text) and not UKRAINE.search(text):
         return False
-    return bool(UKRAINE.search(text) or (THEATER.search(text) and WAR.search(text)) or
-                (RUSSIA.search(text) and WAR.search(text)))
+    context = bool(UKRAINE.search(text) or UKRAINE_EXT.search(text))
+    war = bool(WAR.search(text))
+    related = bool(POLICY.search(text))
+    return bool((context and (war or related)) or
+                (THEATER.search(text) and (war or related)) or
+                (RUSSIA.search(text) and (war or related)))
 
 
 def make_session() -> requests.Session:
@@ -101,7 +159,8 @@ def parse_page(html: str, handle: str, name: str) -> list[dict]:
             "source": name,
             "url": "https://t.me/" + post_id,
             "published_at": dt.astimezone(timezone.utc).isoformat(),
-            "text": text[:1100],
+            "text": text[:4800],
+            "text_truncated": len(text) > 4800,
             "related_urls": [],
         })
     return found
@@ -143,7 +202,7 @@ def crawl_source(session: requests.Session, handle: str, name: str,
             time.sleep(0.6)
     if not reached_start:
         raise RuntimeError(
-            f"{handle}: {max_pages} pages did not reach 24-hour cutoff; "
+            f"{handle}: {max_pages} pages did not reach requested time cutoff; "
             "refusing an incomplete digest"
         )
     values = sorted(out.values(), key=lambda x: x["published_at"], reverse=True)
@@ -185,10 +244,38 @@ def dedupe(posts: list[dict]) -> list[dict]:
     return result
 
 
+def event_signals(text: str) -> list[str]:
+    """Language-agnostic event markers, for AI-assisted semantic deduping."""
+    return sorted(key for key, rx in EVENT_REGEX.items() if rx.search(text))
+
+
+def annotate_possible_translations(posts: list[dict]) -> list[dict]:
+    """Flag possible translated repeats; NEVER collapse on ambiguous clues."""
+    for post in posts:
+        post["event_signals"] = event_signals(post["text"])
+        post["possible_duplicate_urls"] = []
+    for i, a in enumerate(posts):
+        aset = set(a["event_signals"])
+        for b in posts[i + 1:]:
+            bset = set(b["event_signals"])
+            shared = aset & bset
+            if not (shared & LOCATION_SIGNALS) or len(shared) < 3:
+                continue
+            ta = datetime.fromisoformat(a["published_at"])
+            tb = datetime.fromisoformat(b["published_at"])
+            if abs((ta - tb).total_seconds()) > 45 * 60:
+                continue
+            a["possible_duplicate_urls"].append(b["url"])
+            b["possible_duplicate_urls"].append(a["url"])
+    return posts
+
+
 def quality_score(p: dict) -> float:
     s = p["text"]
-    return (3 * bool(UKRAINE.search(s)) + 2 * bool(THEATER.search(s)) +
-            2 * bool(WAR.search(s)) + min(len(s) / 250, 2))
+    context = bool(UKRAINE.search(s) or UKRAINE_EXT.search(s))
+    return (3 * context + 2 * bool(THEATER.search(s)) +
+            2 * bool(WAR.search(s)) + 2 * bool(POLICY.search(s)) +
+            min(len(s) / 350, 2))
 
 
 def pick_candidates(posts: list[dict], limit: int) -> list[dict]:
@@ -216,7 +303,8 @@ def collect(config: dict, now: datetime | None = None,
         raise RuntimeError("No recent posts were collected from any source")
     filtered = [p for p in all_posts if relevant(p["text"])]
     unique = dedupe(filtered)
-    selected = pick_candidates(unique, int(config.get("max_candidates", 150)))
+    selected = annotate_possible_translations(
+        pick_candidates(unique, int(config.get("max_candidates", 150))))
     if not selected:
         raise RuntimeError("No war-related candidate posts; declining to overwrite last snapshot")
     return {
