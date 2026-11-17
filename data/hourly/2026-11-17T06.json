@@ -1,0 +1,83 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T06",
+  "generated_at_utc": "2026-11-17T07:29:28.953561+00:00",
+  "window_start_utc": "2026-11-17T06:00:00+00:00",
+  "window_end_utc": "2026-11-17T07:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "stats": {
+    "raw_posts": 6,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
+  },
+  "posts": [
+    {
+      "id": "MFARussia/33395",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33395",
+      "published_at": "2026-11-17T06:59:55+00:00",
+      "text": "#MartyrsForTruth Yulia Kuznetsova 1990–2024 Journalist. She began working as a correspondent for Narodnaya Gazeta (People's Newspaper) in 2008. In 2022, she became Deputy Editor-in-Chief, and a year later took over as Editor-in-Chief. ▪️ Killed two years ago, on November 17, 2024, in a Ukrainian drone attack on Russia's Kursk Region. Posthumously awarded the Order of Courage. #NoStatuteOfLimitations #KievRegimeCrimes",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198406",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198406",
+      "published_at": "2026-11-17T06:58:42+00:00",
+      "text": "🇺🇦 Klitschko is on the Northern Bridge in Kiev saying that they are assessing the damage 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "AussieCossack/53346",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53346",
+      "published_at": "2026-11-17T06:53:32+00:00",
+      "text": "❗️ Kaja Kallas has challenged Ursula von der Leyen over her exclusion from negotiations with Russia, arguing that it undermines the EU's principles. Despite being excluded, Kallas says she will try to influence the negotiations through experts who have previously worked with Russia. @AussieCossack",
+      "related_urls": []
+    },
+    {
+      "id": "AussieCossack/53345",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53345",
+      "published_at": "2026-11-17T06:46:35+00:00",
+      "text": "❗️ Ukraine's losing Ukraine,” Trump told reporters at the White House on Monday morning The US president Donald Trump claimed Russian president Vladimir Putin is backing down a little bit in the war on Ukraine, adding he could have been much tougher in Ukraine.…",
+      "related_urls": []
+    }
+  ]
+}
