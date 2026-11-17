@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-17T11",
-  "generated_at_utc": "2026-11-17T12:25:24.505809+00:00",
-  "window_start_utc": "2026-11-17T11:00:00+00:00",
-  "window_end_utc": "2026-11-17T12:00:00+00:00",
+  "hour_id": "2026-11-17T12",
+  "generated_at_utc": "2026-11-17T13:24:45.648233+00:00",
+  "window_start_utc": "2026-11-17T12:00:00+00:00",
+  "window_end_utc": "2026-11-17T13:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
-      "pages": 2,
-      "raw_count": 10
+      "pages": 1,
+      "raw_count": 5
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -37,73 +37,55 @@
     }
   ],
   "stats": {
-    "raw_posts": 14,
-    "relevant_posts": 7,
-    "deduplicated_posts": 7,
-    "candidate_posts": 7
+    "raw_posts": 10,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198436",
+      "id": "DDGeopolitics/198445",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198436",
-      "published_at": "2026-11-17T11:58:59+00:00",
-      "text": "🇷🇺 ✈️ 🇻🇳 The Russian bombers' route to Vietnam, explained This is the map Japan's Defence Ministry released of the flight it attributes to \"presumed Russian aircraft.\" The two Tu-95MS bombers came south from the Sea of Japan and went through the Tsushima Strait between South Korea and Japan. Tokyo says they briefly entered its airspace there, near Okinoshima island. They then flew down the East China Sea along Japan's southern island chain and passed through the gap between Japan's Yonaguni island and Taiwan, before turning toward the South China Sea and Vietnam. In a single flight, Russia's nuclear-capable bombers crossed every US-allied flashpoint in the region. The Korea Strait links Washington's two main Asian allies. Yonaguni and Taiwan are at the centre of any Taiwan war scenario, and Japan has been putting missiles and radars on the island for exactly that reason. The bombers then landed in Vietnam, a country Washington counts as a partner, showing that Moscow can reach the South China Sea without a base of its own. And the timing was hard to miss: the day before the Putin-Xi-",
+      "url": "https://t.me/DDGeopolitics/198445",
+      "published_at": "2026-11-17T12:57:01+00:00",
+      "text": "🇺🇦 Heating points and portable toilets: The Ukrainian dream! While Kiev continues to struggle with its energy situation, local authorities are busy setting up new heating centres. Footage has emerged showing the latest installations in the Troieshchyna district, with promises of portable toilets being added too. 🔴 @DDGeopolitics",
       "related_urls": []
     },
     {
-      "id": "DDGeopolitics/198432",
+      "id": "DDGeopolitics/198443",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198432",
-      "published_at": "2026-11-17T11:36:32+00:00",
-      "text": "🇺🇸 US to test-fire a Minuteman III ICBM on the day of the APEC summit The US Air Force will test-launch an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base in California overnight, between 11:01 pm on November 17 and 5:01 am on November 18, Pacific time. The launch window overlaps the opening day of the APEC summit in Shenzhen, where Putin, Xi and Trump are due to meet. The base insists the test, codenamed \"Glory Trip 257,\" is routine, \"was scheduled years ago, and is not in response to world events.\" 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198443",
+      "published_at": "2026-11-17T12:51:23+00:00",
+      "text": "🇭🇺 🇺🇦 Hungary is closing rail traffic with Ukraine for two days. “Today and tomorrow, due to a drone landing 300 meters from the station in Mukachevo, which resulted in the evacuation of the Hungarian train crew arriving from Hungary.” This was reported by the country’s Prime Minister Magyar. 🔴 @DDGeopolitics",
       "related_urls": []
     },
     {
-      "id": "DDGeopolitics/198430",
+      "id": "DDGeopolitics/198441",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198430",
-      "published_at": "2026-11-17T11:29:33+00:00",
-      "text": "🇷🇺 ✈️ 🇯🇵 🇰🇷 JUST IN! Japan says Russian planes entered its airspace, South Korea scrambles jets Japan's Defence Ministry says two suspected Russian military planes entered Japanese airspace near Okinoshima island in Fukuoka Prefecture early on Tuesday, and Tokyo…",
+      "url": "https://t.me/DDGeopolitics/198441",
+      "published_at": "2026-11-17T12:32:59+00:00",
+      "text": "🇪🇺 Europeans \"brace for anything\" ahead of the Trump-Putin-Xi summit European officials fear bad news for Ukraine when Trump meets Putin and Xi at APEC in Shenzhen, Axios reports. \"We know that every time President Trump talks to or sees Putin, it translates into bad news for Ukraine and for Europe. We brace for anything,\" one European diplomat told the outlet. Trump's stated goal for the summit is to start talks on nuclear disarmament, but he has said Iran and Ukraine will come up too. US and Chinese officials insist the war in Ukraine isn't on the agenda. European officials and Western diplomats worry Trump could \"go off script\" and take positions on Ukraine or Taiwan that undermine their interests or appear to side with their main adversaries. They also say US officials have been trying to play down the summit and lower expectations. 🔴 @DDGeopolitics",
       "related_urls": []
     },
     {
-      "id": "DDGeopolitics/198425",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198425",
-      "published_at": "2026-11-17T11:12:26+00:00",
-      "text": "🇷🇺 ⚔️ 🇺🇦 What Ukrainian media channels are saying about the Crimean Bridge strike Ukrainian opposition channels call it the most destructive of the three successful attacks on the bridge, after October 2022 and July 2023. One of the arches and an entire span of the road section have collapsed. They put that down to the use of missiles alongside drones, and say the footage shows the missiles were guided in real time. They point to two theories circulating in Russian military channels: 🔸️ Starlink/Starshield. Kiev had complained that over the past week the US limited satellite terminals over Russian-held territory so they would stop working above 161 km/h, which blocks their use on missiles and drones. The theory goes that Washington knew about the plan to hit the bridge, and that Kiev then got the limit lifted through anti-compromise officials in the Trump administration. 🔸️ The British trace. The speed limit stayed in place, and the strike used modified British Storm Shadow missiles instead, guided by a British RC-135W Rivet Joint reconnaissance plane that had been flying near Crimea",
+      "id": "bricsnews/19677",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19677",
+      "published_at": "2026-11-17T12:24:21+00:00",
+      "text": "JUST IN: 🇪🇺 🇺🇦 European Commission expects war in Ukraine and sanctions against Russia to continue until the end of 2028. @BRICSNews",
       "related_urls": []
     },
     {
-      "id": "DDGeopolitics/198424",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198424",
-      "published_at": "2026-11-17T11:09:14+00:00",
-      "text": "🇷🇺 ⚔️ 🇺🇦 Russia's Investigative Committee has opened a terrorism case over the Armed Forces of Ukraine's attacks on the Crimean Bridge on the morning of November 16 and again overnight into November 17. 🔸️ Deputy Prime Minister Marat Khusnullin has briefed Putin on the situation. 🔸️ The Transport Ministry and Crimea's head, Sergey Aksyonov, are urging people not to travel towards the bridge. 🔸️ Oleg Kryuchkov, adviser to Crimea's head, says the bridge was barely used for supplies of food, goods and fuel, so the peninsula's supply chains are intact. 🔸️ Kherson region governor Vladimir Saldo says security will be stepped up on the land route to Crimea, and that the attacks haven't disrupted supplies to his region. 🔸️ Kremlin spokesman Dmitry Peskov says the bridge will be restored \"and will be even better than before.\" He didn't rule out that Kiev's latest attacks are tied to the upcoming Putin-Xi-Trump summit. 🔸️ Foreign Ministry spokeswoman Maria Zakharova says the world sees Ukraine's leadership as \"marginal outcasts\" and dealing with them is \"toxic.\" 🔴 @DDGeopolitics",
-      "related_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198421",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198421",
-      "published_at": "2026-11-17T11:02:43+00:00",
-      "text": "🇺🇦 🇺🇸 The Ministry of Infrastructure has announced that it is beginning preparations for a tunnel project under the Dnieper River in Kiev 🐻 Considering Ukraine's and US' reputation in the sphere of fast construction that's more of a money laundering operation 🔴 @DDGeopolitics",
-      "related_urls": []
-    },
-    {
-      "id": "MFARussia/33404",
+      "id": "MFARussia/33405",
       "channel": "MFARussia",
       "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33404",
-      "published_at": "2026-11-17T11:01:24+00:00",
-      "text": "⚡️ Foreign Intelligence Service of the Russian Federation: Brussels concerned that Serbia may maintain its independent course The Press Bureau of the Foreign Intelligence Service of the Russian Federation ( #SVR ) reports that, according to information reaching the SVR, the EU leadership is concerned by the unwillingness of the Student List , which won Serbia’s recent parliamentary elections , to blindly follow instructions and directives from Brussels. Statements by Student List leaders that they are unwilling to integrate into a “united Europe” at the expense of national interests came as a cold shower for EU bureaucrats. ☝️ Particularly irritating to European Commission President Ursula von der Leyen’s office was the students’ determination to fight for Kosovo and defend the rights of their compatriots in Republika Srpska in Bosnia and Herzegovina , as well as their refusal to sever ties with Russia and join the Western sanctions imposed on it. Brussels and the leading European capitals are determined to bring Student List leaders into line . To this end, the “liberal Euro-totalit",
+      "url": "https://t.me/MFARussia/33405",
+      "published_at": "2026-11-17T12:00:06+00:00",
+      "text": "🎙 Remarks by Russia's Foreign Minister Sergey Lavrov at the 21st East Asia Summit (Manila, November 17, 2026) 💬 Sergey Lavrov: The Russia-ASEAN Summit held in Kazan in June 2026 gave a substantial boost to deepening our strategic partnership across the full range of areas set out in the Plan of Action for 2026-2030 . #ASEAN ’s foremost achievement is the creation of a regional architecture underpinned by clear legal agreements. Consistent adherence to these agreements has ensured the Association’s success as one of the key centres of the emerging #MultipolarWorld . Today, stability in the Asia-Pacific region largely depends on whether we can preserve the robust ecosystem of ASEAN-centred security and cooperation mechanisms at a time when certain ASEAN partners are imposing archaic bloc-based models on the region – “exclusive clubs”, “trios” and “quads” . ❗️ Under the banner of indivisible security across the Euro-Atlantic and Indo-Pacific regions, NATO’s military capabilities are being actively drawn into this region. Plans to establish an Indo-Pacific Treaty Organisation have been a",
       "related_urls": []
     }
   ]
