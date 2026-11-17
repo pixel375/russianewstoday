@@ -1,5 +1,6 @@
 {
-  "hour_id": "2026-11-17T00",
-  "requested_at_utc": "2026-11-17T01:26:22.665Z",
-  "reason": "stale_snapshot_recovery"
+  "hour_id": "2026-11-17T03",
+  "requested_at_utc": "2026-11-17T04:21:54.060Z",
+  "reason": "hourly_automation_recovery",
+  "attempt": 1
 }
