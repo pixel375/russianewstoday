@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T01",
+  "generated_at_utc": "2026-11-17T02:22:27.413016+00:00",
+  "window_start_utc": "2026-11-17T01:00:00+00:00",
+  "window_end_utc": "2026-11-17T02:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "stats": {
+    "raw_posts": 4,
+    "relevant_posts": 2,
+    "deduplicated_posts": 2,
+    "candidate_posts": 2
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198390",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198390",
+      "published_at": "2026-11-17T01:58:58+00:00",
+      "text": "🇪🇺 🇷🇺 Kaka Khallas suggests EU spy agencies steal Russian military records to push through visa ban on SMO veterans EU foreign policy embarrassment Kaka Khallas has floated the idea of European intelligence services pulling the personal data of Russian SMO…",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198389",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198389",
+      "published_at": "2026-11-17T01:53:04+00:00",
+      "text": "🇷🇺 ✈️ 🇯🇵 🇰🇷 JUST IN! Japan says Russian planes entered its airspace, South Korea scrambles jets Japan's Defence Ministry says two suspected Russian military planes entered Japanese airspace near Okinoshima island in Fukuoka Prefecture early on Tuesday, and Tokyo scrambled fighter jets in response. South Korea also scrambled fighters after several Russian military aircraft briefly entered its air defence identification zone over the Sea of Japan. Seoul admits its airspace was not violated. The zone extends far beyond South Korea's territory, Seoul declared it unilaterally, and Russia doesn't recognise it. 🔴 @DDGeopolitics",
+      "related_urls": []
+    }
+  ]
+}
