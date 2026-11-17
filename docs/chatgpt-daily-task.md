@@ -12,7 +12,12 @@ If there is no index or zero items, SKIP the daily digest. Choose the
 10–20 most significant distinct events from that day's published
 hourly items; choose fewer if there isn't enough substantive material.
 Prioritize major battlefield and civilian developments, diplomacy,
-military equipment and international policy actions.
+military equipment, international policy actions, and consequential
+war-adjacent events such as Ukrainian corruption, procurement,
+government accountability, conscription, sanctions and aid.
+Russian-language original sources are supported; the hourly publisher
+already stores English titles. Keep daily posts in English. Do not
+exaggerate or rewrite neutral facts into partisan conclusions.
 
 Do not add original Telegram source names, original-source links,
 unverified events, or "X reports / X claims" phrases. Do not invent

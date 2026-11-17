@@ -19,15 +19,33 @@ finished, causing an avoidable missed hourly brief. Only if the job
 fails or the snapshot still cannot be verified after recovery should
 you STOP without creating an outbox file. Do not reuse stale news.
 
-If there are no important new war events, SKIP the hour. Never pad.
+Include consequential news about the Russia–Ukraine war AND clearly
+war-adjacent developments: Ukrainian government accountability and
+corruption investigations, procurement, conscription, financial
+difficulties, sanctions, military aid, energy infrastructure, and
+Russian or Ukrainian diplomacy. An unrelated Russian domestic news item
+is still out of scope. Avoid irrelevant negativity or opinion pieces.
+If there are no meaningful developments, SKIP the hour. Never pad.
 Select 1–5 distinct significant developments. Headline should be short
 and informative, and summary 1–3 sentences with somewhat more detail
 than the former daily digest.
 
+Sources may be in Russian, Ukrainian or English. Understand the original
+language and write ALL public headlines and summaries in clear ENGLISH,
+transliterating names and places appropriately; never paste Cyrillic
+original-source text into public items. Longer source captions may be
+truncated (check text_truncated). Use posts[].event_signals and
+posts[].possible_duplicate_urls as OPTIONAL translation/repost clues:
+they are not proof that two posts are the same event. Compare meaning
+and context to deduplicate across languages and across earlier hours.
+Read snapshot.source_failures / coverage_complete when present; do not
+pretend missing sources were checked.
+
 Do not include the original channel names, original Telegram post links,
 or phrases such as "DD Geopolitics reports" in PUBLIC copy. When events
 are disputed, retain words such as reportedly, may, appears or unverified.
-Never convert a channel allegation into a confirmed fact. Avoid repeating
+Do not distort neutral developments to favor a side, omit crucial
+qualifications, or convert a channel allegation into a confirmed fact. Avoid repeating
 the same news from prior hours unless there is a substantive development;
 review today's and yesterday's published/hourly_index files when practical.
 

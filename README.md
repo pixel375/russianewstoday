@@ -7,27 +7,43 @@ A no-paid-API Russia–Ukraine war news digest for
 
 **Hourly Brief:** 1–5 distinct important developments from the last
 completed UTC hour, each with a headline and 1–3 explanatory sentences.
-Skip the hour if there is insufficient substantive news.
+The scope includes relevant Ukrainian political, corruption,
+procurement, energy, financial, sanctions and conscription news that
+materially connects to the conflict. Skip the hour if there is
+insufficient substantive news.
 
 **Daily Brief:** 10–20 important distinct headlines for the completed
 Winnipeg calendar day, published shortly after local midnight the next
 day. Each clickable headline points to an earlier hourly message in
 our own Telegram channel. Fewer than 10 is fine if the day is quiet.
 
+Both public formats are written in English, including when collected
+posts are Russian-language. Longer source posts are preserved up to
+4,800 characters. The collector supplies cross-language duplicate
+hints for editorial comparison but never merges ambiguous translated
+stories based on hints alone.
+
 Neither public format prints original Telegram source links or source
 channel names. Avoid phrases such as "DD Geopolitics reports". Where
 events are disputed or unverified, continue to use appropriate wording
 such as "reportedly", "may", "appears" or "alleged", without suggesting
-an unverified event has been independently confirmed.
+an unverified event has been independently confirmed. Criticism or
+allegations involving Ukraine may be covered when consequential and
+relevant, but neutral developments must not be misrepresented as
+confirming a partisan narrative.
 
 ## Architecture
 
 1. GitHub Actions is scheduled at 09 and 14 minutes past each UTC
    hour on standard ubuntu-latest runners, using the second slot as
-   a retry if GitHub drops the first schedule. It collects public Telegram pages from
-   DD Geopolitics, Intel Slava, BRICS News, Aussie Cossack and the
-   Russian Ministry of Foreign Affairs, paginating until the entire
-   previous UTC hour is covered.
+   a retry if GitHub drops the first schedule. It collects public
+   Telegram pages from 13 monitored channels (listed in
+   config/sources.json), including Russian-language TASS, RIA Novosti,
+   Two Majors, WarGonzo, Colonelcassad and Voenkor Kotenok, as well
+   as English-language defence and military-commentary sources.
+   Russian and English posts are preserved for ChatGPT summarization.
+   The collector must successfully cover at least nine feeds per hour;
+   source failures are recorded explicitly in the snapshot.
 2. It stores immutable collection archives at
    data/hourly/YYYY-MM-DDTHH.json and data/hourly/latest.json.
 3. ChatGPT hourly task runs at minute 25 in America/Winnipeg time,
