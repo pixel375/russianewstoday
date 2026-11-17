@@ -86,7 +86,7 @@ EVENT_PATTERNS = {
     "moscow": r"\bmoscow\b|\bмоскв\w*",
     "crimea": r"\bcrimea\b|\bкрым\w*|\bкрим\w*",
     "corruption": r"\bcorrupt\w*|\bbrib\w*|\bвзятк\w*|\bкоррупц\w*|\bкорупц\w*",
-    "procurement": r"\bprocure\w*|\bзакупк\w*|\bзакупівл\w*",
+    "procurement": r"\bprocure\w*|\bзакуп\w*|\bзакупівл\w*",
     "drone": r"\bdrone\w*|\buav\b|\bбпла\b|\bбпілот\w*|\bдрон\w*",
     "missile": r"\bmissile\w*|\bракет\w*",
     "strike": r"\bstrike\w*|\battack\w*|\bудар\w*|\bатак\w*",
