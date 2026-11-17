@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T00",
+  "generated_at_utc": "2026-11-17T01:26:35.226756+00:00",
+  "window_start_utc": "2026-11-17T00:00:00+00:00",
+  "window_end_utc": "2026-11-17T01:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "stats": {
+    "raw_posts": 1,
+    "relevant_posts": 1,
+    "deduplicated_posts": 1,
+    "candidate_posts": 1
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198387",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198387",
+      "published_at": "2026-11-17T00:01:51+00:00",
+      "text": "🇺🇦 Ukraine's parliament speaker: we need remote voting in case Russia destroys the parliament building Ruslan Stefanchuk, speaker of Ukraine's parliament, says Ukraine needs a voting system that lets MPs vote from anywhere, so parliament can keep working even if Russian strikes destroy its building. \"No one can rule out the possibility that Russia might one day destroy the parliament building itself,\" Stefanchuk said at a briefing in Brussels with European Parliament President Roberta Metsola. He said he had already discussed the idea with Metsola and other European speakers. He also said shelters have already been equipped so MPs can go down during air raid alerts and keep working. 🔴 @DDGeopolitics",
+      "related_urls": []
+    }
+  ]
+}
