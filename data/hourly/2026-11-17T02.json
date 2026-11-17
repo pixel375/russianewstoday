@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T02",
+  "generated_at_utc": "2026-11-17T03:07:38.131228+00:00",
+  "window_start_utc": "2026-11-17T02:00:00+00:00",
+  "window_end_utc": "2026-11-17T03:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "stats": {
+    "raw_posts": 6,
+    "relevant_posts": 1,
+    "deduplicated_posts": 1,
+    "candidate_posts": 1
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198391",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198391",
+      "published_at": "2026-11-17T02:12:38+00:00",
+      "text": "🇺🇦 \"We are preparing a review of the work of the existing coalitions supporting Ukraine – which ones are truly fulfilling their tasks and which remain empty shells.\" - The Narcoführer Imagine running a whole country purely on handouts, and then lashing out at countries who kept you alive. 🔴 @DDGeopolitics",
+      "related_urls": []
+    }
+  ]
+}
