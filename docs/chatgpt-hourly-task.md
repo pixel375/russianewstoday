@@ -10,9 +10,14 @@ collection: check triggers/hourly.json, and create/update it on main with
 {"hour_id":"<required previous UTC hour>","requested_at_utc":"<current UTC ISO time>","reason":"stale_snapshot_recovery"}
 only if that exact hour has not already been requested. That monitored
 file triggers the collection workflow on push. Check the resulting GitHub
-Actions collector run and reread the latest snapshot. If the run has
-not completed or the snapshot still fails the hour/freshness checks,
-STOP without creating an outbox file. Do not reuse stale news.
+Actions collector run, waiting until it COMPLETES, and reread the latest
+snapshot. The collector normally needs 5–20 seconds after triggering.
+IMPORTANT: do not stop after only 1–3 rapid polls; continue checking
+the actual job state and refreshed snapshot for up to roughly 60 seconds.
+A previous ChatGPT task stopped only 2 seconds before the collector
+finished, causing an avoidable missed hourly brief. Only if the job
+fails or the snapshot still cannot be verified after recovery should
+you STOP without creating an outbox file. Do not reuse stale news.
 
 If there are no important new war events, SKIP the hour. Never pad.
 Select 1–5 distinct significant developments. Headline should be short
