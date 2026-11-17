@@ -1,51 +1,51 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-17T19",
-  "generated_at_utc": "2026-11-17T20:26:01.445726+00:00",
-  "window_start_utc": "2026-11-17T19:00:00+00:00",
-  "window_end_utc": "2026-11-17T20:00:00+00:00",
+  "hour_id": "2026-11-17T20",
+  "generated_at_utc": "2026-11-17T21:28:37.360360+00:00",
+  "window_start_utc": "2026-11-17T20:00:00+00:00",
+  "window_end_utc": "2026-11-17T21:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
@@ -75,107 +75,62 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 5
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 24,
-    "relevant_posts": 6,
-    "deduplicated_posts": 6,
-    "candidate_posts": 6
+    "raw_posts": 20,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
   },
   "posts": [
     {
-      "id": "dva_majors/102176",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102176",
-      "published_at": "2026-11-17T19:51:20+00:00",
-      "text": "✨ Сбор на Запорожский фронт ✨ 405 человек участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка для дооснащения цеха БПЛА и обеспечения его бесперебойным электроснабжением. ▪️ Эл.станц. -4шт- 1 000 000 ₽ ▪️ Генератор -2шт- 600 000 ₽ ▪️ Станки для опты -2шт- 700 000 ₽ ▪️ Оборуд. FPV - 450 000 ₽ Необходимо: 2 750 000 ₽ Собрано за сутки: 168 945 ₽ Собрано всего: 1 523 730 ₽ Осталось собрать: 1 226 270 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "id": "boris_rozhin/233750",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233750",
+      "published_at": "2026-11-17T20:30:22+00:00",
+      "text": "Официальный представитель МИД России Мария Захарова @MariaVladimirovnaZakharova Опубликованная французской радиостанцией RFI информация о присутствии французских военнослужащих на Украине в рамках операции «Воля» не стала для нас неожиданностью или какой-то сенсацией. Прямая вовлечённость Парижа в украинский конфликт — это уже давно секрет Полишинеля . Мы неоднократно указывали на нахождение на территории Украины западных военных экспертов, инструкторов, наёмников, в том числе и из Франции. В октябре 2025 года о французских планах дислокации воинского контингента на Украине сообщали и в СВР России. Да и сам президент Э. Макрон неоднократно заявлял о возможности или даже о необходимости такого шага. В настоящее время, как известно, проводятся масштабные учения «Коалиция 2.0» в Польше по подготовке к развёртыванию в рамках так называемой коалиции желающих многонациональных сил на Украине, основу которых как раз составляют французы. Это подтверждает , что в Париже и других столицах «коалиции» настроены вполне серьёзно. Принимая во внимание тот объём помощи, которую Париж оказывает ВСУ, включая поставки технологически сложных вооружений и локализацию производства на Украине, наивно было бы полагать, что французские военные специалисты не участвуют в процессах «на земле». Не сомневаемся, что со временем информация о масштабе прямой или косвенной вовлечённости французов в военные действия станет известна широкой общественности. Если верен тот факт, что, согласно данным RFI, парламент Франции не был уведомлен об участии военнослужащих в операции за рубежом, то речь идёт об очередном свидетельстве пренебрежения французскими властями мнением собственных граждан. Ведь далеко не все во Франции согласны с милитаристским курсом действующего руководства страны, понимая, что он не только не способствует обеспечению национальной безопасности, но и создаёт беспрецедентные риски прямого противостояния с Россией. Хотя французские официальные лица уже давно в открытую говорят, что именно к этому они и готовятся. В то время как Францию буквально лихорадит от захлестнувшей её очередной волны протестного движения, власти страны продолжают делать вид, что их главный приоритет — Украина. Вместо того чтобы решать насущные социально-экономические проблемы, Париж всё глубже погружается в украинский конфликт, на который не жалеет средств и, похоже, готов рискнуть жизнями своих военнослужащих. Что же касается мер с нашей стороны, то их будут принимать не в Министерстве иностранных дел, а в Министерстве обороны и Генштабе Вооружённых сил Российской Федерации. Как заявил президент России В.В. Путин, иностранные войска на Украине — в случае их размещения — станут законной целью для российских военных. Надеемся, что в Париже это осознают. 🟩 Специально для RT. Подписаться: ТГ | MAX",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "drone",
-        "zaporizhzhia"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98206",
+      "id": "intelslava/98209",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98206",
-      "published_at": "2026-11-17T19:31:17+00:00",
-      "text": "🇷🇺 ⚡️ — A Russian military An-12 transport aircraft has crashed in the Kemerovo region (Kuzbass), resulting in the fatalities of all 19 individuals on board, including the crew. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102174",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102174",
-      "published_at": "2026-11-17T19:17:45+00:00",
-      "text": "Житель Украины! Помоги сделать \"Герань\" лучше! Покажи последние эксклюзивные кадры прилета \"Гераней\" нам в бот, промышленность поймёт, как еще лучше обходить ПВО ВСУ. ❗️ Все анонимно и конфиденциально, не для публикаций! При отправке укажи: Населённый пункт: Что повреждено: Последствия: ➡️ Отправляйте кадры сюда: @dvamajorsbot",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102173",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102173",
-      "published_at": "2026-11-17T19:06:01+00:00",
-      "text": "Дружковское направление Гвардейцы 33-го мотострелкового полка делятся очередными кадрами своей боевой работы. В ходе ведения воздушной разведки операторы БПЛА выявили и уничтожили тяжёлые беспилотники противника R-18. Также в подборке показано уничтожение НРТК ВСУ. Два майора ✨ Два майора в МАХ",
+      "url": "https://t.me/intelslava/98209",
+      "published_at": "2026-11-17T20:23:37+00:00",
+      "text": "✈️ 🇺🇸 🇵🇭 Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies The visit marks Trump’s first travel abroad since his party suffered deep losses in midterm elections. The White House and stock market alike have been rattled by the departure of Jensen Huang from Nvidia last week after admitting to an affair with an alleged Chinese government agent. Beijing has said it was not involved. President Donald Trump arrived in the Philippines on Tuesday, where he met with regional partners, sought to formalize a trade deal and get a break from a series of setbacks at home, ranging from a major disruption to the U.S. aviation industry to a scandal that has shaken the global AI industry. Manila, the Philippine capital, is Trump’s first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin, and, according to Trump, potentially for a meeting with North Korea’s leader Kim Jong Un. The president was also asked about a CNN report that Iran was putting together plans to attack Washington with a dirty bomb or chemical weapons. “Well, if there is, they will pay a price the likes of which no country has ever paid before,” Trump said, adding, “I hope it’s not. But we take it very seriously because they happen to be crazy.” https://apnews.com/article/trump-asia-manila-asean-xi-putin-c94386cd092482d94dca38fc8b8d51a7",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone"
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "mod_russia_en/30659",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30659",
-      "published_at": "2026-11-17T19:05:11+00:00",
-      "text": "📆 Top News Today 💥 Goals in the rear: the Armed Forces of the Russian Federation carried out a massive strike with ground- and air-based high-precision weapons, unmanned aerial vehicles against enterprises of the Ukrainian military defence industry, power facilities, transport and port infrastructure, as well as vessels used in the interests of the AFU. 🚩 Another step forward: units of the Vostok Group of Forces liberated the settlement of Zalivnoye in Zaporozhye region. 🎯 They sting right on target: drone pilots leave no chance to the enemy in Krasny Liman direction. ⚙️ From airfields to recreational centres: Deputy Defence Minister of the Russian Federation Lieutenant General Pavel Fradkov inspected the development of the infrastructure of Russian military bases in the Republic of Kyrgyzstan and the Republic of Tajikistan. #TopNews 🔹 Russian Defence Ministry",
+      "id": "dva_majors/102177",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102177",
+      "published_at": "2026-11-17T20:04:01+00:00",
+      "text": "Херсонское направление Фронтовики подписали ударный БПЛА и отправили его в сторону противника в качестве своеобразного привета от наших читателей. Так бойцы решили поблагодарить неравнодушных граждан за постоянную поддержку и тёплые слова. ⭐️ Ссылка на сбор для этих бойцов: https://t.me/dva_majors/102138 Два майора ✨ Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198477",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198477",
-      "published_at": "2026-11-17T19:03:44+00:00",
-      "text": "🇺🇦 Zelensky hands Europe a new shopping list Speaking by video to the Ramstein meeting of Kiev's Western backers at NATO headquarters in Brussels, The Narcoführer asked for: ➡️ Another €8 billion this year to plug the hole in Ukraine's military budget, plus more money for drone production. ➡️ 40 more F-16s. Many of the F-16s Ukraine already has are stuck in repairs and maintenance instead of flying. ➡️ Europe's Mirages. He says Europe has plenty of them and Ukrainian pilots could fly them right away, while the promised Rafales need lengthy training first. ➡️ Patriot and IRIS-T interceptors straight from Europe's own stockpiles. He insists this would be \"not a donation\" but a swap: Europe gives up its missiles now and gets the newer ones Kiev has on order once they're built. In other words, Europe empties its own air defences today and waits in the same long queue it's already stuck in. ➡️ Missiles to \"balance\" Russia. He claims North Korea is sending Russia dozens of ballistic missiles a month, so Europe should supply Kiev the same way Moscow gets them from its \"buddies\". 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kyiv",
-        "missile",
-        "moscow"
+        "strike"
       ],
       "possible_duplicate_urls": []
     }
