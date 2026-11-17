@@ -1,0 +1,92 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-17T09",
+  "generated_at_utc": "2026-11-17T10:29:16.438447+00:00",
+  "window_start_utc": "2026-11-17T09:00:00+00:00",
+  "window_end_utc": "2026-11-17T10:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "stats": {
+    "raw_posts": 9,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "AussieCossack/53348",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53348",
+      "published_at": "2026-11-17T09:38:49+00:00",
+      "text": "❗️ Zelensky: Russia is receiving more ballistic missiles from North Korea – dozens of missiles per month. And this is a grave threat not only to Ukraine. North Korea is honing its weapons by having its ballistic missiles used in this war. If Russia has an ally that supplies it with ballistic missiles, then Ukraine also needs clear parity so that we can respond to the Russian threat on equal terms. @AussieCossack",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198411",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198411",
+      "published_at": "2026-11-17T09:23:35+00:00",
+      "text": "🇺🇦 Kiev metro this morning 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "MFARussia/33397",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33397",
+      "published_at": "2026-11-17T09:03:02+00:00",
+      "text": "⚡ Comment by the Permanent Mission of Russia to the EU Regarding a Further Expansion of Anti-Russian Sanctions by the EU Council on 16 November 2026 The European Union has completely lost all sense of proportion in its anti-Russian sanctions frenzy. Brussels continues to produce unilateral restrictive measures targeting Russian and foreign journalists, television presenters, business representatives, figures from the financial and energy sectors, making up baseless accusations against them. This has now gone so far that EU foreign policy chief Kaja Kallas has essentially proposed using intelligence capabilities of EU Member States to unlawfully obtain the personal data of Russian military personnel in order to impose planned discriminatory measures against them. ☝️ It would be interesting to understand to what extent such statements are consistent with the legislation of the European Union, which at every opportunity portrays itself as an alleged champion of the rule of law and the protection of personal data . As it is well known, Regulation (EU) 2018/1725 establishes requirements o",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198410",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198410",
+      "published_at": "2026-11-17T09:02:35+00:00",
+      "text": "🇺🇦 Kiev's Northern Bridge 🔴 @DDGeopolitics",
+      "related_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198409",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198409",
+      "published_at": "2026-11-17T09:01:20+00:00",
+      "text": "🇷🇺 💬 Ukraine's accession to NATO is absolutely unacceptable – Russian Deputy Foreign Minister Ryabkov. There is no discussion about the participation of Europeans in the negotiations – Ryabkov. 🔴 @DDGeopolitics",
+      "related_urls": []
+    }
+  ]
+}
