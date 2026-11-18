@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T02",
-  "generated_at_utc": "2026-11-18T03:20:41.338173+00:00",
-  "window_start_utc": "2026-11-18T02:00:00+00:00",
-  "window_end_utc": "2026-11-18T03:00:00+00:00",
+  "hour_id": "2026-11-18T03",
+  "generated_at_utc": "2026-11-18T04:24:18.101857+00:00",
+  "window_start_utc": "2026-11-18T03:00:00+00:00",
+  "window_end_utc": "2026-11-18T04:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
@@ -44,14 +44,14 @@
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 1,
-      "raw_count": 7
+      "pages": 2,
+      "raw_count": 17
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 8
     },
     {
       "handle": "rybar_in_english",
@@ -87,48 +87,91 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 12,
-    "relevant_posts": 3,
-    "deduplicated_posts": 3,
-    "candidate_posts": 3
+    "raw_posts": 31,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
   },
   "posts": [
     {
-      "id": "tass_agency/406238",
+      "id": "DDGeopolitics/198500",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198500",
+      "published_at": "2026-11-18T03:56:23+00:00",
+      "text": "🇷🇺 💬 Key statements by Putin at the APEC Business Summit: ➡️ The Asia-Pacific region has become the center of the global economy, and a major industrial and technological hub for the planet. ➡️ Asian countries have made a giant leap forward, transforming from a \"global factory\" into engines of innovation. ➡️ Instead of adapting to new opportunities, former hegemons are trying to restrain the development of those countries that are currently demonstrating progress. ➡️ Russia has successfully weathered the sanctions. ➡️ Russia is at the forefront of digital transformation, and its language models are among the best in the world. ➡️ The standard of living in EU countries is declining, which is humiliating for the Eurozone. ➡️ Russia is ready to share technologies with its partners in the Asia-Pacific region and to help strengthen their technological sovereignty. ➡️ Only by ensuring sovereignty can one preserve one's identity and agency on the world stage. ➡️ He stated that he expects significant benefits from a trilateral meeting with Xi Jinping and Trump. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/349976",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/349976",
+      "published_at": "2026-11-18T03:45:26+00:00",
+      "text": "Главные заявления Путина на Деловом саммите АТЭС: ▪️ Азиатско-Тихоокеанский регион стал центром глобальной экономики, промышленным и технологическим хабом планеты. ▪️ Страны Азии совершили гигантский прыжок вперед, превратившись из \"мировой фабрики\" в локомотивы инноваций. ▪️ Вместо адаптации к новым возможностям бывшие гегемоны стремятся сдержать развитие тех стран, кто сегодня демонстрирует прогресс. ▪️ Россия достойно прошла через испытание санкциями. ▪️ Россия находится в авангарде цифровой трансформации, ее языковые модели в числе лучших в мире. ▪️ Уровень жизни в странах ЕС снижается унизительно для еврозоны. ▪️ Россия готова делиться с партнерами по АТР технологиями, содействовать укреплению их технологического суверенитета. ▪️ Только обеспечив суверенитет, можно сохранить самобытность и субъектность на мировой арене. ▪️ Заявил, что ожидает большую пользу от трехсторонней встречи с Си Цзиньпином и Трампом. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406258",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/406238",
-      "published_at": "2026-11-18T02:10:05+00:00",
-      "text": "Индонезия депортировала россиянина, обвиняемого в мошенничестве на 5,7 млн рублей на договорах на поставку строительной арматуры. Об этом ТАСС сообщила официальный представитель МВД Ирина Волк.",
+      "url": "https://t.me/tass_agency/406258",
+      "published_at": "2026-11-18T03:40:49+00:00",
+      "text": "Россия прочно входит в число крупнейших экономик мира, отметил Путин в обращении к Деловому совету АТЭС. #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/406237",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406237",
-      "published_at": "2026-11-18T02:05:09+00:00",
-      "text": "Мошенники выманивают деньги у россиян под видом розыгрышей от блогеров в мессенджере. Это следует из материалов МВД, с которыми ознакомился ТАСС. Аферисты создают в мессенджере каналы, которые якобы объединяют различных блогеров. В них они публикуют условия розыгрышей. Потенциальной жертве, которая хочет принять участие в розыгрыше, предлагают в качестве одного из условий, внести залог. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "id": "rian_ru/349971",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/349971",
+      "published_at": "2026-11-18T03:29:29+00:00",
+      "text": "Россия стала мировым рекордсменом по числу введенных против страны санкций, заявил Путин. Страна достойно прошла через это испытание, подчеркнул президент. Глава государства добавил, что санкции все еще имеют сдерживающий эффект, но сокрушить экономику конкурентов они уже не способны. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198497",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198497",
+      "published_at": "2026-11-18T03:16:54+00:00",
+      "text": "🇷🇺 🇨🇳 The Russian Direct Investment Fund (RDIF) and the Chinese investment company Yunze Capital have agreed on a long-term strategic investment partnership to develop industrial cooperation between Russia and China, according to Kirill Dmitriev. With the participation of partners from the Asia-Pacific Economic Cooperation (APEC), RDIF has already implemented more than 60 projects with a total value of over 900 billion rubles, he added. Dmitriev noted that the focus is on advanced materials, industrial automation, aerospace, marine, and deep-sea technologies. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233763",
+      "id": "boris_rozhin/233764",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233763",
-      "published_at": "2026-11-18T02:02:48+00:00",
-      "text": "Захоронение ВСУ в Харьковской области Разведывательным БпЛА Северян была вскрыта группа боевиков противника, зашедших в полуразрушенное здание в н.п. Митрофановка и укрывшихся в погребе. В их сторону оперативно направился \"курьер\" с ТМ-62. Подарок новым жильцам был доставлен точно в срок, а их восторг от распаковки нам помог лицезреть оператор разведывательного БпЛА группировки \"Север\". Трек: Duno - cette créature avait ses raisons @natoptishh",
+      "url": "https://t.me/boris_rozhin/233764",
+      "published_at": "2026-11-18T03:04:26+00:00",
+      "text": "1. Результативные удары по живой силе ВСУ на Запорожском фронте. Работают операторы БПЛА 1461 полка 36 армии группировки войск \"Восток\". 2. Зона ответственности 36 армии группировки войск \"Восток\" В рамках поддержки наступательных действий в Запорожской области операторы БПЛА нанесли удары сбросами по живой силе ВСУ. @voin_dv",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "kharkiv"
+        "strike",
+        "zaporizhzhia"
       ],
       "possible_duplicate_urls": []
     }
