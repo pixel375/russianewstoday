@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T16",
+  "generated_at_utc": "2026-11-18T17:26:46.458737+00:00",
+  "window_start_utc": "2026-11-18T16:00:00+00:00",
+  "window_end_utc": "2026-11-18T17:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 27,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
+  },
+  "posts": [
+    {
+      "id": "mod_russia_en/30671",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30671",
+      "published_at": "2026-11-18T16:40:10+00:00",
+      "text": "🔥 Out of the blue The Sever Group's Giatsint-B gun crew of the 6th Guards Combined Arms Army shelled the AFU UAV control posts, combat hardware and personnel. 📍 Kharkov region 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35852",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35852",
+      "published_at": "2026-11-18T16:39:55+00:00",
+      "text": "Fwd from @ 📝 One photo — two pictures 📝 How to correctly read the positioning of APEC leaders in a group photo The so-called \"family\" photo of APEC leaders in Shenzhen caused quite a stir, but not in the way expected. While American publication Bloomberg writes that Putin looked strong and took center stage, some Russian outlets, on the contrary, claim that Xi Jinping supposedly \"showed Putin his place\" and he was \"pushed aside.\" 🔻 What Bloomberg writes ▪️ Putin appeared in an APEC family photo for the first time in nine years and stood in the center, next to Xi Jinping and Donald Trump. The agency calls this a \"powerful response\" to Western attempts to isolate the Russian leader. ▪️ Trump stood to the right of Xi, and Putin stood to the left, next to the wife of the Chinese leader Peng Liyuan. ▪️ Before the photo session, Putin himself approached Trump, they shook hands and exchanged a few words. This is the first personal meeting of the leaders since Alaska in August 2025. 🖍 To understand what's happening in the video, you need to consider two things. ▪️ First — diplomatic tradition in China : guests are received by a married couple, and by default the hosts are perceived as one unit. Xi Jinping and Peng Liyuan are the center, and guests stand on either side of them. Therefore, Putin standing next to Xi's wife is not \"further away,\" but next to the hosts. The arrangement stems from this. ▪️ Second — protocol. Trump was announced in advance as the guest of honor: this is a reciprocal visit following Xi's trip to the USA in September, and the meeting was conceived from the start as trilateral. Putin is guest number two here precisely by protocol, and this in no way diminishes his status. 🚩 This is the same logic we wrote about this morning. Xi met Trump at the airport personally on the basis of reciprocity: in September the American president himself met him at Andrews Air Force Base. Putin was greeted at the plane by Cai Qi, a member of the Standing Committee of the Politburo, and this is the highest possible level of representation in Chinese leadership. More telling is how Trump himself behaved. He tried to invite Putin to sit next to him, clearly not understanding how the protocol works. 📌 Therefore, arguing about who \"pushed aside\" whom is pointless. The \"family photo\" is not a ranking of leaders, but a reflection of protocol: hosts in the center, guests on either side in a predetermined order. What matters is that after ten years of attempts to isolate Russia, its president stands in the front row next to the leaders of China and the USA, and in a few hours all three countries will sit down at one table for the first time.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33447",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33447",
+      "published_at": "2026-11-18T16:33:37+00:00",
+      "text": "📚 Urdu Translation of Zakhar Prilepin’s \"Militia Romance\" Presented at the Russian Embassy in Pakistan On November 17, the Embassy of Russia in Pakistan hosted the presentation of the Urdu translation of \"Militia Romance\", a collection of short stories by renowned Russian writer Zakhar Prilepin. 🤝 The event was attended by Ambassador Albert P. Khorev ; Federal Minister of National Heritage and Culture Aurangzeb Khan Khichi ; MNA and Parliamentary Secretary Farah Naz Akbar ; Director General of the National Language Promotion Department Dr. Muhammad Saleem Mazhar , as well as Ambassadors of friendly countries and representatives of Pakistan’s intellectual community. 🎥 In a video address to the participants, the author, Zakhar Prilepin , expressed his gratitude to the Russian Embassy and Pakistani colleagues for their assistance in translating and publishing the book in Urdu. 💬 In his opening remarks, Ambassador Albert P. Khorev spoke about Zakhar Prilepin’s life and literary career. He emphasized the importance of the book for understanding the root causes of the conflict in Ukraine , the history of the struggle of the people of Donbass and their determination to preserve their historical, cultural and spiritual identity. Addressing the Ukraine crisis, the Ambassador drew attention to the extensive Western military and financial support to Kiev, which contributes to prolonging the conflict. He also highlighted the Western disinformation campaign aimed at demonizing Russia through the manipulation of humanitarian and cultural issues. ❗️ Ambassador Khorev reaffirmed Russia’s commitment to a political and diplomatic settlement of the crisis: “We are not fighting for territory. We are fighting to protect our borders and to establish a stable European security architecture based on the principles of equal and indivisible security.” 🙏 In conclusion, the Ambassador thanked the translator, Dr. Najam Sahar Butt, for his initiative and outstanding professionalism, which made it possible to preserve the philosophical depth of the original work. 🤝 Federal Minister of National Heritage and Culture Aurangzeb Khan Khichi highlighted the strength of Russia-Pakistan diplomatic, trade and economic ties and emphasized the considerable potential for expanding bilateral cooperation in culture, science and education. #RussiaPakistan",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35851",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35851",
+      "published_at": "2026-11-18T16:06:04+00:00",
+      "text": "• 📝 Problems in the north 📝 In the Sumy direction a threatening situation is developing. Over recent weeks Ukrainian formations have noticeably stepped up their activity , attempting to dislodge Russian units from the Khoten—Mohrytsya line and push them back from a large forest massif. The enemy's objective is clear. It is from here that Russian units have been threatening Sumy with FPV drone strikes. Now this will be somewhat more difficult, although other fire strike means will continue to operate as before, even if the enemy manages to realize its plans. Activity is evidenced by the appearance of craters from airstrikes in the area of settlements Vladimyrivka , Aleksiyivka , Varachyno , Belovody and Yunakivka . While in some cases this is the work of Russian aerospace forces, in others, apparently, these are the consequences of strikes by Ukrainian aviation, which is supporting enemy operations. ❗️ The AFU is not conducting large-scale offensive operations yet. As on other sectors of the front, Ukrainian formations are operating in small groups, which do not consolidate positions but rather infiltrate through sparse forest strips. 📌 It would be rash to assume there is no threat. As such groups accumulate, the enemy may attempt to develop a tactical offensive, including re-entering Russian territory—into the Sudzha or Korenevo districts . If you have updates on the situation, or would like us to highlight the successes of your unit, you can always write to us via the feedback bot @rybar_feedback_bot 📍 High resolution map 📍 English version 📍 Online maps available by subscription at map.rybar.ru #Russia #Sumy #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

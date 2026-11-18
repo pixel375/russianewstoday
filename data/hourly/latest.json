@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T15",
-  "generated_at_utc": "2026-11-18T16:21:46.769877+00:00",
-  "window_start_utc": "2026-11-18T15:00:00+00:00",
-  "window_end_utc": "2026-11-18T16:00:00+00:00",
+  "hour_id": "2026-11-18T16",
+  "generated_at_utc": "2026-11-18T17:26:46.458737+00:00",
+  "window_start_utc": "2026-11-18T16:00:00+00:00",
+  "window_end_utc": "2026-11-18T17:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -33,292 +33,130 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 2,
-      "raw_count": 20
+      "pages": 1,
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 5
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "nab_ukraine",
       "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "sap_gov_ua",
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 44,
-    "relevant_posts": 17,
-    "deduplicated_posts": 15,
-    "candidate_posts": 15
+    "raw_posts": 27,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
   },
   "posts": [
     {
-      "id": "boris_rozhin/233843",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233843",
-      "published_at": "2026-11-18T15:55:10+00:00",
-      "text": "Полноформатные переговоры Путина с Трампом 19 ноября не планируются, сообщил Песков. На саммит РФ — США — КНР отводится час. Лидерам пока не удалось побеседовать, на саммите АТЭС они поприветствовали друг друга. UPD: Двусторонняя встреча Путина и Трампа планируется завтра после пленарного заседания саммита АТЭС, сообщил Ушаков. Он добавил, что Путин и Си Цзиньпин обсудили наиболее острые вопросы международной и региональной повестки, включая переговоры по Украине в Абу-Даби. Во встрече Путина и Трампа примут участие по несколько человек от России и США. Уже согласованы участники делегаций , которые будут присутствовать на завтрашней трехсторонней встрече Путина, Трампа и Си Цзиньпина.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350022",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350022",
-      "published_at": "2026-11-18T15:52:07+00:00",
-      "text": "Москва настроена развивать многоплановые связи с Бангкоком, заявил Путин. Президент встретился с премьером Таиланда Чанвиракуном. Российский лидер отметил хорошие показатели торговли двух стран и потенциал кооперации в энергетике и АПК. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98243",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98243",
-      "published_at": "2026-11-18T15:50:09+00:00",
-      "text": "🇪🇺 🇺🇦 🇷🇺 ⚡️ — The European Commission stated that Russia is expected to deploy 20 million drones in Ukraine in 2027. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30669",
+      "id": "mod_russia_en/30671",
       "channel": "mod_russia_en",
       "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30669",
-      "published_at": "2026-11-18T15:41:43+00:00",
-      "text": "❗️ The Armed Forces of the Russian Federation continue delivering strikes by unmanned aerial vehicles against ships used in the interests of the AFU. 💥 Today, as a result of a strike, a dry cargo ship delivering military-purpose cargo to the port of Odessa was hit at sea. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350021",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350021",
-      "published_at": "2026-11-18T15:35:35+00:00",
-      "text": "❗️ Полноформатные переговоры Путина и Трампа завтра не планируются, сообщил Песков. Что еще сказал пресс-секретарь президента: 🔹 Лидеры России и США не проводили предметного разговора на торжественном приеме в среду. 🔹 На встречу Путина, Си Цзиньпина и Трампа в четверг отводится час. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/rian_ru/350020"
-      ],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233841",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233841",
-      "published_at": "2026-11-18T15:35:05+00:00",
-      "text": "В Европейской комиссии заявили, что в 2027 году Россия применит на Украине 20 000 000 дронов. Разумеется с учетом обычных FPV-дронов. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98242",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98242",
-      "published_at": "2026-11-18T15:31:55+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — A Geran-4 drone strikes a hangar housing a partially dismantled An-124 Ruslan transport aircraft at Hostomel Airport near Kiev. @IntelSlava",
+      "url": "https://t.me/mod_russia_en/30671",
+      "published_at": "2026-11-18T16:40:10+00:00",
+      "text": "🔥 Out of the blue The Sever Group's Giatsint-B gun crew of the 6th Guards Combined Arms Army shelled the AFU UAV control posts, combat hardware and personnel. 📍 Kharkov region 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "kyiv",
-        "strike"
+        "kharkiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "nab_ukraine/4291",
-      "channel": "nab_ukraine",
-      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
-      "url": "https://t.me/nab_ukraine/4291",
-      "published_at": "2026-11-18T15:30:02+00:00",
-      "text": "​​ ⚖️ ВАКС оголосив вирок колишньому Голові Державного агентства лісових ресурсів України та його дружині 18 листопада 2026 року ВАКС оголосив вирок колишньому голові Державного агентства лісових ресурсів України та його дружині. Їх обвинувачували у вимаганні та одержанні неправомірної вигоди в розмірі 3,7 млн доларів США та 10,8 млн євро, що за курсом НБУ на момент скоєння злочину становило 141,3 млн грн. Вироком суду ексголову Державного агентства лісових ресурсів України визнано винуватим за ч. 4 ст. 368, ч. 3 ст. 209 КК України. Йому призначено покарання у вигляді 12 років позбавлення волі з позбавленням права обіймати посади в органах державної влади строком на 3 роки, з конфіскацією всього належного майна. Його дружину засуджено за ч. 5 ст. 27, ч. 4 ст. 368, ч. 3 ст. 209 КК України до 10 років позбавлення волі з позбавленням права обіймати певні посади строком на 3 роки та конфіскацією майна. До набрання вироком законної сили суд залишив без змін запобіжні заходи у вигляді тримання під вартою, застосовані до вказаних осіб. Також суд застосував спецконфіскацію до 1,2 млн євро та 1,4 млн дол. США, які розміщені на банківських рахунках у Швейцарській Конфедерації, а також до будинку, що оформлений на третю особу. Вирок суду набирає законної сили через тридцять днів із дня проголошення, якщо його не буде оскаржено в апеляційному порядку. Зауважимо, що особи переховуються від правосуддя. Судовий розгляд щодо них здійснювався у спеціальному судовому провадженні «in absentia».",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/sap_gov_ua/4535"
-      ],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "nab_ukraine/4290",
-      "channel": "nab_ukraine",
-      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
-      "url": "https://t.me/nab_ukraine/4290",
-      "published_at": "2026-11-18T15:30:02+00:00",
-      "text": "👩‍⚖️ 👩‍⚖️ 👩‍⚖️ 12 і 10 років позбавлення волі: ВАКС ухвалив вирок колишньому Голові Державного агентства лісових ресурсів України та його дружині 👨‍⚖️ Їх визнали винними у вимаганні та одержанні неправомірної вигоди в розмірі 3,7 млн доларів США та 10,8 млн євро . Докладніше #вирок",
+      "id": "rybar_in_english/35852",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35852",
+      "published_at": "2026-11-18T16:39:55+00:00",
+      "text": "Fwd from @ 📝 One photo — two pictures 📝 How to correctly read the positioning of APEC leaders in a group photo The so-called \"family\" photo of APEC leaders in Shenzhen caused quite a stir, but not in the way expected. While American publication Bloomberg writes that Putin looked strong and took center stage, some Russian outlets, on the contrary, claim that Xi Jinping supposedly \"showed Putin his place\" and he was \"pushed aside.\" 🔻 What Bloomberg writes ▪️ Putin appeared in an APEC family photo for the first time in nine years and stood in the center, next to Xi Jinping and Donald Trump. The agency calls this a \"powerful response\" to Western attempts to isolate the Russian leader. ▪️ Trump stood to the right of Xi, and Putin stood to the left, next to the wife of the Chinese leader Peng Liyuan. ▪️ Before the photo session, Putin himself approached Trump, they shook hands and exchanged a few words. This is the first personal meeting of the leaders since Alaska in August 2025. 🖍 To understand what's happening in the video, you need to consider two things. ▪️ First — diplomatic tradition in China : guests are received by a married couple, and by default the hosts are perceived as one unit. Xi Jinping and Peng Liyuan are the center, and guests stand on either side of them. Therefore, Putin standing next to Xi's wife is not \"further away,\" but next to the hosts. The arrangement stems from this. ▪️ Second — protocol. Trump was announced in advance as the guest of honor: this is a reciprocal visit following Xi's trip to the USA in September, and the meeting was conceived from the start as trilateral. Putin is guest number two here precisely by protocol, and this in no way diminishes his status. 🚩 This is the same logic we wrote about this morning. Xi met Trump at the airport personally on the basis of reciprocity: in September the American president himself met him at Andrews Air Force Base. Putin was greeted at the plane by Cai Qi, a member of the Standing Committee of the Politburo, and this is the highest possible level of representation in Chinese leadership. More telling is how Trump himself behaved. He tried to invite Putin to sit next to him, clearly not understanding how the protocol works. 📌 Therefore, arguing about who \"pushed aside\" whom is pointless. The \"family photo\" is not a ranking of leaders, but a reflection of protocol: hosts in the center, guests on either side in a predetermined order. What matters is that after ten years of attempts to isolate Russia, its president stands in the front row next to the leaders of China and the USA, and in a few hours all three countries will sit down at one table for the first time.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/77919",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/77919",
-      "published_at": "2026-11-18T15:28:14+00:00",
-      "text": "В Киеве несколько взрывов. Точно не \"баллистика\". Ее противник ожидает ближе к ночи. Бандеровские каналы уже вторые сутки \"вангуют\" массированный ракетный удар по киевским мостам. Ждем. Подпишись в MAX @voenkorKotenok",
+      "id": "MFARussia/33447",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33447",
+      "published_at": "2026-11-18T16:33:37+00:00",
+      "text": "📚 Urdu Translation of Zakhar Prilepin’s \"Militia Romance\" Presented at the Russian Embassy in Pakistan On November 17, the Embassy of Russia in Pakistan hosted the presentation of the Urdu translation of \"Militia Romance\", a collection of short stories by renowned Russian writer Zakhar Prilepin. 🤝 The event was attended by Ambassador Albert P. Khorev ; Federal Minister of National Heritage and Culture Aurangzeb Khan Khichi ; MNA and Parliamentary Secretary Farah Naz Akbar ; Director General of the National Language Promotion Department Dr. Muhammad Saleem Mazhar , as well as Ambassadors of friendly countries and representatives of Pakistan’s intellectual community. 🎥 In a video address to the participants, the author, Zakhar Prilepin , expressed his gratitude to the Russian Embassy and Pakistani colleagues for their assistance in translating and publishing the book in Urdu. 💬 In his opening remarks, Ambassador Albert P. Khorev spoke about Zakhar Prilepin’s life and literary career. He emphasized the importance of the book for understanding the root causes of the conflict in Ukraine , the history of the struggle of the people of Donbass and their determination to preserve their historical, cultural and spiritual identity. Addressing the Ukraine crisis, the Ambassador drew attention to the extensive Western military and financial support to Kiev, which contributes to prolonging the conflict. He also highlighted the Western disinformation campaign aimed at demonizing Russia through the manipulation of humanitarian and cultural issues. ❗️ Ambassador Khorev reaffirmed Russia’s commitment to a political and diplomatic settlement of the crisis: “We are not fighting for territory. We are fighting to protect our borders and to establish a stable European security architecture based on the principles of equal and indivisible security.” 🙏 In conclusion, the Ambassador thanked the translator, Dr. Najam Sahar Butt, for his initiative and outstanding professionalism, which made it possible to preserve the philosophical depth of the original work. 🤝 Federal Minister of National Heritage and Culture Aurangzeb Khan Khichi highlighted the strength of Russia-Pakistan diplomatic, trade and economic ties and emphasized the considerable potential for expanding bilateral cooperation in culture, science and education. #RussiaPakistan",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "missile",
-        "strike"
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "wargonzo/38478",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38478",
-      "published_at": "2026-11-18T15:27:28+00:00",
-      "text": "Семь человек погибли в ЛНР из-за ударов ВСУ Сегодня украинские неонацисты атаковали автомобиль и микроавтобус на дорогах Старобельского и Новоайдарского муниципальных округов в ЛНР. Водители погибли. Ещё несколько ударов противник нанёс в Новопсковском округе по грузовикам, погибли двое мужчин, сообщает глава республики. В районе села Светлое ВСУ ударили по трактору во время полевых работ. Погиб 22-летний парень. В Беловодском округе под огонь неонацистов попал грузовик дорожной службы – погиб работник, ещё один получил ранения. В Троицком вражеский БПЛА атаковал женщин, которые шли по улице – 62-летняя жительница погибла, ещё двое получили ранения. @wargonzo",
+      "id": "rybar_in_english/35851",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35851",
+      "published_at": "2026-11-18T16:06:04+00:00",
+      "text": "• 📝 Problems in the north 📝 In the Sumy direction a threatening situation is developing. Over recent weeks Ukrainian formations have noticeably stepped up their activity , attempting to dislodge Russian units from the Khoten—Mohrytsya line and push them back from a large forest massif. The enemy's objective is clear. It is from here that Russian units have been threatening Sumy with FPV drone strikes. Now this will be somewhat more difficult, although other fire strike means will continue to operate as before, even if the enemy manages to realize its plans. Activity is evidenced by the appearance of craters from airstrikes in the area of settlements Vladimyrivka , Aleksiyivka , Varachyno , Belovody and Yunakivka . While in some cases this is the work of Russian aerospace forces, in others, apparently, these are the consequences of strikes by Ukrainian aviation, which is supporting enemy operations. ❗️ The AFU is not conducting large-scale offensive operations yet. As on other sectors of the front, Ukrainian formations are operating in small groups, which do not consolidate positions but rather infiltrate through sparse forest strips. 📌 It would be rash to assume there is no threat. As such groups accumulate, the enemy may attempt to develop a tactical offensive, including re-entering Russian territory—into the Sudzha or Korenevo districts . If you have updates on the situation, or would like us to highlight the successes of your unit, you can always write to us via the feedback bot @rybar_feedback_bot 📍 High resolution map 📍 English version 📍 Online maps available by subscription at map.rybar.ru #Russia #Sumy #Ukraine ✉️ MAX 💸 Support us Original msg",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233840",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233840",
-      "published_at": "2026-11-18T15:25:08+00:00",
-      "text": "Вооруженные Силы Российской Федерации продолжают нанесение ударов беспилотными летательными аппаратами по морским судам , задействованным в интересах ВСУ. Сегодня днем в результате удара поражено морское судно типа «сухогруз» на переходе морем, доставлявшее в порт Одесса грузы военного назначения.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406402",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406402",
-      "published_at": "2026-11-18T15:24:01+00:00",
-      "text": "Путин на саммите АТЭС дал решительный отпор попыткам изоляции России , пишет Bloomberg. На церемонии совместного фотографирования Путин занял центральное место рядом с Си Цзиньпином и Трампом. Это демонстрирует единство мировых лидеров и сохранение дипломатического статуса России на международной арене. #АТЭС2026 ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406401",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406401",
-      "published_at": "2026-11-18T15:17:02+00:00",
-      "text": "❗️ Днем в результате удара ВС РФ поражен на переходе морем сухогруз, доставлявший в порт Одесса грузы военного назначения, сообщает МО.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233839",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233839",
-      "published_at": "2026-11-18T15:15:07+00:00",
-      "text": "Противник заявил, что начал строительство переправ через Днепр в Киеве, которые планирует построить к весне. Торопятся в связи с ожиданиями дальнейших ударов по мостам. Когда с мостами разберутся, надо будет заниматься переправами, но их выводить из строя будет куда как легче. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
