@@ -25,10 +25,26 @@ corruption investigations, procurement, conscription, financial
 difficulties, sanctions, military aid, energy infrastructure, and
 Russian or Ukrainian diplomacy. An unrelated Russian domestic news item
 is still out of scope. Avoid irrelevant negativity or opinion pieces.
-If there are no meaningful developments, SKIP the hour. Never pad.
-Select 1–5 distinct significant developments. Headline should be short
-and informative, and summary 1–3 sentences with somewhat more detail
-than the former daily digest.
+**Low-friction publication rule:** a single recent post from a monitored
+source is sufficient evidence that a CLAIM OR REPORT WAS MADE. It is not
+proof the claimed event occurred, but independent verification,
+official confirmation, a second source, and cross-source corroboration
+are NOT prerequisites to including an otherwise relevant story.
+Select 1–5 distinct topical, timely, informative developments with a
+clear Russia–Ukraine or war-adjacent connection. If at least one
+substantive, nonduplicate event or notable statement exists, publish it.
+Do NOT skip merely because it is a preliminary, single-source report
+or a political/diplomatic development rather than a battlefield event.
+Do not pad; skip only if all posts are irrelevant, content-free,
+obvious spam, already covered without a meaningful update, or lack
+enough specifics to convey an intelligible report. Do not publish an
+allegation known to be false or contradicted by strong available
+evidence without explaining the dispute.
+Choose clear short headlines and 1–3 informative sentences per item.
+Prioritize reporting on Russian government/military positions and
+substantive criticisms of Ukrainian governance, corruption, procurement
+and wartime policies when on-topic. Never falsify or slant the underlying
+facts, and avoid irrelevant personal attacks.
 
 Sources may be in Russian, Ukrainian or English. Understand the original
 language and write ALL public headlines and summaries in clear ENGLISH,
@@ -41,13 +57,22 @@ and context to deduplicate across languages and across earlier hours.
 Read snapshot.source_failures / coverage_complete when present; do not
 pretend missing sources were checked.
 
-Do not include the original channel names, original Telegram post links,
-or phrases such as "DD Geopolitics reports" in PUBLIC copy. When events
-are disputed, retain words such as reportedly, may, appears or unverified.
-Do not distort neutral developments to favor a side, omit crucial
-qualifications, or convert a channel allegation into a confirmed fact. Avoid repeating
-the same news from prior hours unless there is a substantive development;
-review today's and yesterday's published/hourly_index files when practical.
+Do not include the original Telegram CHANNEL names, their links,
+or phrases like "DD Geopolitics reports" in PUBLIC copy. Public
+summaries should be concise, clear news prose, not verification reports.
+Do NOT repeatedly write "unverified", "cannot independently verify",
+"unconfirmed", "the claim has not been verified", or long disclaimers.
+For contested facts, use the MINIMUM necessary natural qualification:
+"reportedly", "according to the Russian Defence Ministry", "officials
+said", "alleged", or similarly concise wording when appropriate.
+A claim of a strike, change of control, casualties, corruption or
+wrongdoing must not be stated as conclusively established solely
+because a monitored channel posted it. If its uncertainty is material,
+keep that distinction explicit but brief; do not invent confirmation.
+No source-channel links in public copy; provenance stays in INTERNAL
+source_urls. Avoid repeating the same story from previous hours
+unless there is a substantive development. Review today's and
+yesterday's published/hourly_index files when practical.
 
 In INTERNAL JSON only, source_urls must contain 1–4 EXACT post URLs
 from the hourly source snapshot (posts.url or posts.related_urls). The

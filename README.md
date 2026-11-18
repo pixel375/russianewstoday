@@ -23,14 +23,17 @@ posts are Russian-language. Longer source posts are preserved up to
 hints for editorial comparison but never merges ambiguous translated
 stories based on hints alone.
 
-Neither public format prints original Telegram source links or source
-channel names. Avoid phrases such as "DD Geopolitics reports". Where
-events are disputed or unverified, continue to use appropriate wording
-such as "reportedly", "may", "appears" or "alleged", without suggesting
-an unverified event has been independently confirmed. Criticism or
-allegations involving Ukraine may be covered when consequential and
-relevant, but neutral developments must not be misrepresented as
-confirming a partisan narrative.
+Neither public format prints original Telegram source links or
+source-channel names. A single monitored source may warrant inclusion
+of an on-topic new development without independent corroboration.
+Use concise natural qualifications such as "reportedly", "officials
+said" or "alleged" when the underlying event remains uncertain; do
+not add stock "unverified" disclaimers to every report. An allegation
+must not be presented as established fact merely because it is posted.
+Coverage explicitly includes material critical reporting about
+Ukrainian institutions, sanctions, governance, and related Russian
+official positions. Do not manufacture a pro-Russian conclusion
+from a neutral event or conceal essential contradictory facts.
 
 ## Architecture
 
@@ -93,8 +96,10 @@ directly from ChatGPT.
 - The original sources are publicly readable in GitHub's archived JSON
   but hidden from the Telegram output. Attribution is removed from the
   public writing, not from internal evidence.
-- Even if original sources agree, their reposts alone do not establish
-  independent confirmation. Maintain appropriate uncertainty language.
+- Posts do not require multiple independent sources, but a source
+  reporting an event is not the same as independent confirmation of
+  that event. Attribute material allegations briefly when necessary,
+  and avoid repetitive verification caveats.
 - The daily digest covers the local calendar day, not a rolling
   last-24-hours window. Posting after midnight ensures the final hour
   has time to complete.

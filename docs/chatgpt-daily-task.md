@@ -19,10 +19,14 @@ Russian-language original sources are supported; the hourly publisher
 already stores English titles. Keep daily posts in English. Do not
 exaggerate or rewrite neutral facts into partisan conclusions.
 
-Do not add original Telegram source names, original-source links,
-unverified events, or "X reports / X claims" phrases. Do not invent
-new headlines or links: the publisher renders clickable headlines
-directly from its verified hourly index.
+The daily recap may include single-source reports that were already
+published in the hourly briefs: independent corroboration is NOT an
+additional daily prerequisite. Select based on importance and lack of
+duplication. Do not add original Telegram channel names or source
+links, and do not insert repetitive verification disclaimers.
+Keep any material qualification present in the hourly headline.
+Do not invent new events, headlines or links: the publisher renders
+clickable headlines directly from its already-published hourly index.
 
 Check both outbox/daily/<date>.json and published/daily/<date>.json
 to prevent duplicate publication. For historical days also check
