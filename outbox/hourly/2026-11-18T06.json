@@ -1,0 +1,22 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-18T06",
+  "snapshot_generated_at_utc": "2026-11-18T07:27:37.358975+00:00",
+  "items": [
+    {
+      "title": "Russian drone strikes reportedly target four locomotives in Dnipro and Zaporizhzhia",
+      "summary": "Footage circulated of reported Geran drone strikes on railway locomotives, including three in Dnipro and one in Zaporizhzhia. The account identifies four separate targets but does not establish the extent of damage or whether rail operations were disrupted.",
+      "source_urls": [
+        "https://t.me/boris_rozhin/233774"
+      ]
+    },
+    {
+      "title": "Russia says air defences intercepted 184 Ukrainian drones overnight",
+      "summary": "Russia's Defence Ministry said its air defences destroyed 184 Ukrainian fixed-wing drones between the evening of November 17 and the morning of November 18 over Belgorod and Rostov regions, Krasnodar Krai, Crimea and the Sea of Azov. The ministry did not provide a detailed breakdown of damage or casualties in the cited update.",
+      "source_urls": [
+        "https://t.me/tass_agency/406280",
+        "https://t.me/boris_rozhin/233773"
+      ]
+    }
+  ]
+}
