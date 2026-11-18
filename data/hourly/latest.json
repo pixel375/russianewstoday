@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T04",
-  "generated_at_utc": "2026-11-18T05:28:16.931521+00:00",
-  "window_start_utc": "2026-11-18T04:00:00+00:00",
-  "window_end_utc": "2026-11-18T05:00:00+00:00",
+  "hour_id": "2026-11-18T05",
+  "generated_at_utc": "2026-11-18T06:23:32.441624+00:00",
+  "window_start_utc": "2026-11-18T05:00:00+00:00",
+  "window_end_utc": "2026-11-18T06:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "intelslava",
@@ -21,13 +21,13 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 12
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
@@ -63,19 +63,19 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
@@ -87,23 +87,22 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 24,
-    "relevant_posts": 9,
+    "raw_posts": 14,
+    "relevant_posts": 7,
     "deduplicated_posts": 6,
     "candidate_posts": 6
   },
   "posts": [
     {
-      "id": "tass_agency/406270",
+      "id": "tass_agency/406277",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/406270",
-      "published_at": "2026-11-18T04:51:04+00:00",
-      "text": "▶️ Путин и Си Цзиньпин на полях саммита АТЭС проводят российско-китайские переговоры. Присоединяйтесь к нашей трансляции . Видео: Раптли/ТАСС #АТЭС2026",
+      "url": "https://t.me/tass_agency/406277",
+      "published_at": "2026-11-18T05:44:47+00:00",
+      "text": "❗️ Путин и Си Цзиньпин продолжают российско-китайские переговоры в формате рабочего завтрака, передает корреспондент ТАСС. Видео: Kremlin. ru #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [
-        "https://t.me/tass_agency/406266",
-        "https://t.me/tass_agency/406265"
+        "https://t.me/tass_agency/406276"
       ],
       "event_signals": [
         "negotiation"
@@ -111,73 +110,74 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "bricsnews/19693",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19693",
-      "published_at": "2026-11-18T04:41:28+00:00",
-      "text": "JUST IN: 🇷🇺 Russian President Putin says countries that once dominated the global economy are now trying to stop rising economies from growing. @BRICSNews",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "bricsnews/19691",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19691",
-      "published_at": "2026-11-18T04:18:28+00:00",
-      "text": "JUST IN: 🇷🇺 Russian President Putin says sanctions are no longer powerful enough to destroy countries' economies. @BRICSNews",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "sanctions"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53363",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53363",
-      "published_at": "2026-11-18T04:11:32+00:00",
-      "text": "❗️ Putin and Xi Jinping have begun Russian-Chinese negotiations on the sidelines of the APEC summit. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406263",
+      "id": "tass_agency/406275",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/406263",
-      "published_at": "2026-11-18T04:08:49+00:00",
-      "text": "⚡️ Путин и Си Цзиньпин на полях саммита АТЭС начали российско-китайские переговоры, передает корреспондент ТАСС.",
+      "url": "https://t.me/tass_agency/406275",
+      "published_at": "2026-11-18T05:35:45+00:00",
+      "text": "▶️ Путин назвал Си Цзиньпина другом и отметил, что искренне рад встрече с ним. Об этом он заявил, начиная российско-китайские переговоры на полях саммита АТЭС. Видео: Раптли/ТАСС #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
-      "related_urls": [
-        "https://t.me/tass_agency/406261"
-      ],
+      "related_urls": [],
       "event_signals": [
         "negotiation"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233766",
+      "id": "boris_rozhin/233768",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233766",
-      "published_at": "2026-11-18T04:01:21+00:00",
-      "text": "Друзья, мы вместе с Игорем Гомольским , Владимиром Разиным и Народным фронтом продолжаем наш совместный сбор средств для подразделения специального назначения, которое действует на Донецком направлении! Парни ежедневно прикладывают все усилия для достижения нашей общей Победы. Чтобы им облегчить выполнение боевых задач, парням необходимы специализированное техническое оборудование, средства БПЛА и комплектующие к ним. Помочь бойцам можно через сайт Народного фронта .",
+      "url": "https://t.me/boris_rozhin/233768",
+      "published_at": "2026-11-18T05:35:01+00:00",
+      "text": "Сегодня ночью Вооруженными Силами Российской Федерации продолжено нанесение ударов беспилотными летательными аппаратами по объектам портовой инфраструктуры, а также морским судам, задействованным в интересах обеспечения ВСУ. В результате удара поражены : - в порту Измаил объекты инфраструктуры , используемой для разгрузки и хранения военных грузов, предназначенных для обеспечения ВСУ; - морское судно типа «сухогруз» на переходе морем, доставлявшее в порт Южный грузы двойного назначения для ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38459",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38459",
+      "published_at": "2026-11-18T05:08:01+00:00",
+      "text": "⚡️ Фронтовая сводка на утро 18.11.26 ⚡️ Запорожский фронт Продолжаются бои в районе Каменского, Плавней, а также на рубеже Степногорск – Лукьяновское. В районе Орехова ВС РФ расширяют зону контроля на западном охвате города, идут бои в районе Новоданиловки. (Рис. 1.1) На Гуляйпольском направлении МО РФ сообщило об освобождении населённого пункта Заливное, расположенного на участке Терсянка – Воскресенка. (Рис. 1.2) Донецкий фронт На Добропольском направлении продолжаются сражения за Серегеевку. ВС РФ продвигаются в районе Белозёрского. (Рис. 2.1) На Константиновском направлении идут бои в районе Николайполья. Есть продвижение на участке между Майским и Николаевкой. На Краснолиманском направлении сообщается о столкновениях вблизи Заречного. На Северском направлении продолжаются сражения на участке Диброва – Озёрное – Ямполь, а также западнее Рай-Александровки. (Рис. 2.2) Харьковский фронт На Купянском направлении об изменениях в ЛБС не сообщается. (Рис. 3.1) На Волчанском направлении ВС РФ продвигаются к Бугаевке. Продолжаются сражения в Казачьей Лопани, а также в районе Высокой Яруги. (Рис. 3.2; Рис. 3.3) Сумской фронт Идут бои на рубеже Хотень – Груновка. В Шосткинском районе ВС РФ продвигаются в районе Коренька. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "donetsk",
-        "drone"
+        "kharkiv",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233767",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233767",
+      "published_at": "2026-11-18T05:05:16+00:00",
+      "text": "Будет ли гуманитарная акция в Константиновке? Репортаж Военкора Кулько Киев продолжает утверждать, что в городе, в отличие от Алешек, якобы некого спасать. Причина такого цинизма очевидна: в Алешках линия фронта с 2022 года идёт по Днепру, и карты там не подрисуешь. А вот потерю Константиновки Зеленский не признаёт до сих пор. Мы были свидетелями, как ещё полгода назад, после разгрома гарнизона ВСУ, украинское командование бросило остатки подразделений - лишь бы заявлять, что их люди всё ещё находятся в городе, даже если речь о единичных забытых бойцах. Позже туда в один конец отправили ещё несколько батальонов ради «флаговтыков», но медийная кампания провалилась. Наш контроль над городом подтверждён - ещё летом 4-я бригада (ныне 84-я дивизия) подняла десятки триколоров во всех районах Константиновки. Американцам предложено впервые убедиться в этом на земле.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406273",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406273",
+      "published_at": "2026-11-18T05:02:37+00:00",
+      "text": "Главные новости к этому часу: ▪️ Путин и Си Цзиньпин начали российско-китайские переговоры. ▪️ Путин поделился ожиданиями от встречи с Си Цзиньпином и Трампом. ▪️ Дмитриев сообщил о реализации 60 проектов РФПИ при участии партнером из АТЭС. ▪️ В Кузбассе при крушении Ан-12 погибли 19 человек. ▪️ Хуанг согласился дать показания в Сенате Конгресса США, сообщила газета Politico. ▪️ Агентство нацбезопасности США подтвердило данные о сбое в его сети. ▪️ Bloomberg назвало причину сбоев в работе сервисов Apple. ▪️ Спикером Кнессета стал оппозиционный политик Матан Кахана. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
       ],
       "possible_duplicate_urls": []
     }
