@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T04",
+  "generated_at_utc": "2026-11-18T05:28:16.931521+00:00",
+  "window_start_utc": "2026-11-18T04:00:00+00:00",
+  "window_end_utc": "2026-11-18T05:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 12
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 24,
+    "relevant_posts": 9,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "tass_agency/406270",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406270",
+      "published_at": "2026-11-18T04:51:04+00:00",
+      "text": "▶️ Путин и Си Цзиньпин на полях саммита АТЭС проводят российско-китайские переговоры. Присоединяйтесь к нашей трансляции . Видео: Раптли/ТАСС #АТЭС2026",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/406266",
+        "https://t.me/tass_agency/406265"
+      ],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19693",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19693",
+      "published_at": "2026-11-18T04:41:28+00:00",
+      "text": "JUST IN: 🇷🇺 Russian President Putin says countries that once dominated the global economy are now trying to stop rising economies from growing. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19691",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19691",
+      "published_at": "2026-11-18T04:18:28+00:00",
+      "text": "JUST IN: 🇷🇺 Russian President Putin says sanctions are no longer powerful enough to destroy countries' economies. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53363",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53363",
+      "published_at": "2026-11-18T04:11:32+00:00",
+      "text": "❗️ Putin and Xi Jinping have begun Russian-Chinese negotiations on the sidelines of the APEC summit. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406263",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406263",
+      "published_at": "2026-11-18T04:08:49+00:00",
+      "text": "⚡️ Путин и Си Цзиньпин на полях саммита АТЭС начали российско-китайские переговоры, передает корреспондент ТАСС.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/406261"
+      ],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233766",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233766",
+      "published_at": "2026-11-18T04:01:21+00:00",
+      "text": "Друзья, мы вместе с Игорем Гомольским , Владимиром Разиным и Народным фронтом продолжаем наш совместный сбор средств для подразделения специального назначения, которое действует на Донецком направлении! Парни ежедневно прикладывают все усилия для достижения нашей общей Победы. Чтобы им облегчить выполнение боевых задач, парням необходимы специализированное техническое оборудование, средства БПЛА и комплектующие к ним. Помочь бойцам можно через сайт Народного фронта .",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
