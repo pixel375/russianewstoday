@@ -1,0 +1,29 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-18T14",
+  "snapshot_generated_at_utc": "2026-11-18T15:19:21.702291+00:00",
+  "items": [
+    {
+      "title": "SAPO reports five suspects in alleged draft-evasion smuggling scheme",
+      "summary": "SAPO and NABU say they notified five people of suspicion, including two serving Ukrainian border guards and a former official, over an alleged scheme to move draft-age men into Europe through Transnistria. Investigators say customers paid $5,000 each, including $1,500 allegedly passed to border guards; the agencies say an earlier investigation was closed before the case was reopened.",
+      "source_urls": [
+        "https://t.me/sap_gov_ua/4534",
+        "https://t.me/nab_ukraine/4289"
+      ]
+    },
+    {
+      "title": "Russian airstrikes reportedly target Ukrainian positions in Sumy and Kharkiv",
+      "summary": "Footage circulated of reported Russian airstrikes using four OFAB-250-270 bombs against a Ukrainian territorial-defence deployment site near Korenek in Sumy region and a FAB-3000 bomb against a crossing near Oskil in Kharkiv region. The extent of damage was not specified.",
+      "source_urls": [
+        "https://t.me/intelslava/98240"
+      ]
+    },
+    {
+      "title": "Russian Defence Ministry describes ground-robot operations in Dnipropetrovsk sector",
+      "summary": "Russia's Defence Ministry said remotely operated ground vehicles from its 39th Guards Engineering Regiment are transporting supplies and clearing routes in the Dnipropetrovsk direction. The ministry said the vehicles can traverse rough terrain and assist with minefield clearance.",
+      "source_urls": [
+        "https://t.me/mod_russia_en/30668"
+      ]
+    }
+  ]
+}
