@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    69
+  ],
+  "published_at_utc": "2026-11-18T19:23:34.624346+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T18",
+  "items": [
+    {
+      "item_id": "2026-11-18T18:1",
+      "title": "EU diplomats reportedly question Kaja Kallas's role in Ukraine peace talks",
+      "summary": "EU leaders reportedly left foreign policy chief Kaja Kallas off Europe's Ukraine negotiating team amid disagreements over her approach to Russia. Diplomats have criticized her independent initiatives, while Italy's Giorgia Meloni reportedly questioned her suitability for high-level negotiations.",
+      "post_url": "https://t.me/russianewstodayofficial/69",
+      "category": "other",
+      "hour_id": "2026-11-18T18",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T18:2",
+      "title": "Lviv retailer reportedly limits sunflower oil purchases after strikes",
+      "summary": "A retailer in Lviv reportedly limited purchases of Ridnokrai sunflower oil to two bottles per transaction as shoppers stocked up following Russian strikes on Ukrainian oil-producing facilities. Ukraine's agriculture minister said a nationwide shortage was not expected.",
+      "post_url": "https://t.me/russianewstodayofficial/69",
+      "category": "other",
+      "hour_id": "2026-11-18T18",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
