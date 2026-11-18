@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T12",
+  "generated_at_utc": "2026-11-18T13:28:32.888266+00:00",
+  "window_start_utc": "2026-11-18T12:00:00+00:00",
+  "window_end_utc": "2026-11-18T13:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 12
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 36,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "mod_russia_en/30666",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30666",
+      "published_at": "2026-11-18T12:54:56+00:00",
+      "text": "Falcon shows its claws 🦅 🎯 A Sokol-V2 ( Falcon ) interceptor UAV team of the Tsentr Group of Forces engages enemy drones in Dnepropetrovsk direction. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102207",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102207",
+      "published_at": "2026-11-18T12:37:05+00:00",
+      "text": "Запорожье 🐽 Результат вчерашних ударов по зданию на территории завода Мотор Сич. 47.8209535, 35.1927991 Два майора ✨ Диван",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77917",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77917",
+      "published_at": "2026-11-18T12:36:45+00:00",
+      "text": "🔤 🔤 🔤 🔤 🔤 🔤 🔤 🔤 💬 «Россия — это мой дом. Надеюсь, это останется навсегда», — говорит герой 3-й серии проекта МВД России «Мой новый дом – Россия» Вячеслав Шнайдер. 👨‍👩‍👧‍👦 Уроженец Казахстана в 13 лет вместе с родителями переехал в Германию. Там он прожил больше 30 лет: получил гражданство, образование, построил собственный бизнес и создал семью. А в 2022 году вместе с женой и двумя детьми приехал жить в Россию. 📍 Сейчас Шнайдеры уже получили вид на жительство в России, купили дом в Самаре. Вячеслав продолжает развивать собственное дело. Дети тоже рады переезду: сын готовится к поступлению в институт, дочь занимается конным спортом. По словам членов семьи, здесь они наконец-то чувствуют себя по-настоящему счастливыми. 📄 Упрощенный переезд иностранцев в Российскую Федерацию сегодня возможен благодаря Указу Президента Российской Федерации от 19 августа 2024 г. № 702 «Об оказании гуманитарной поддержки лицам, разделяющим традиционные российские духовно-нравственные ценности». ➡️ Подать заявление на переезд в Россию иностранец может практически в любой точке мира! ⭐️ Еще больше информации для иностранных граждан, желающих переехать в нашу страну, – на сайте Миграционной службы МВД России. #МойНовыйДомРоссия 💙 ВКонтакте 💬 ТГ-канал 📲 @ivolk в MAX ⭐ Дзен",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30665",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30665",
+      "published_at": "2026-11-18T12:09:20+00:00",
+      "text": "Turnkey destruction of positions 💥 FPV drone operators of the Yuzhnaya Group of Forces destroyed two enemy UAV control posts. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198544",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198544",
+      "published_at": "2026-11-18T12:09:11+00:00",
+      "text": "🇷🇺 🛸 💥 🇺🇦 Geran drone strikes Gostomel hangar holding an An-124 Ruslan Footage shows a Geran drone striking the former An-225 Mriya hangar at Gostomel airfield near Kiev, where an An-124 Ruslan heavy transport plane was parked. This Ruslan never managed to leave Ukraine in February 2022. When the SMO began, it was under maintenance and partly taken apart, so it couldn't be flown out. It has spent more than four years being prepared to fly again. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
