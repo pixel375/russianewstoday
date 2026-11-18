@@ -1,0 +1,69 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    66
+  ],
+  "published_at_utc": "2026-11-18T16:22:46.639727+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T15",
+  "items": [
+    {
+      "item_id": "2026-11-18T15:1",
+      "title": "Ukrainian anti-corruption court sentences former forestry chief and wife",
+      "summary": "NABU says Ukraine's High Anti-Corruption Court sentenced a former head of the State Forest Resources Agency to 12 years in prison and his wife to 10 years in a bribery and money-laundering case. Both were tried in absentia, and the judgment can be appealed before it takes effect.",
+      "post_url": "https://t.me/russianewstodayofficial/66",
+      "category": "other",
+      "hour_id": "2026-11-18T15",
+      "source_handles": [
+        "nab_ukraine"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T15:2",
+      "title": "Russia says drone strike hit cargo ship bound for Odesa",
+      "summary": "Russia's Defence Ministry said its drones struck a dry-cargo vessel at sea that it described as transporting military supplies to Odesa. The ministry did not identify the ship or provide a damage assessment.",
+      "post_url": "https://t.me/russianewstodayofficial/66",
+      "category": "other",
+      "hour_id": "2026-11-18T15",
+      "source_handles": [
+        "mod_russia_en"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T15:3",
+      "title": "Luhansk authorities report seven deaths in Ukrainian drone attacks",
+      "summary": "Authorities in Russian-controlled Luhansk reportedly said seven people were killed in attacks on vehicles and civilians across several districts, including Starobilsk, Novoaidar and Troitske. The account also described injuries to several other residents.",
+      "post_url": "https://t.me/russianewstodayofficial/66",
+      "category": "other",
+      "hour_id": "2026-11-18T15",
+      "source_handles": [
+        "wargonzo"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T15:4",
+      "title": "Russian officials outline Putin-Trump meeting plans at APEC summit",
+      "summary": "Kremlin spokesman Dmitry Peskov said no full-scale Putin-Trump negotiations were planned for November 19, while presidential aide Yuri Ushakov subsequently said a bilateral meeting would take place after the summit's plenary session. Officials also described a planned hour-long meeting involving Putin, Trump and Xi Jinping.",
+      "post_url": "https://t.me/russianewstodayofficial/66",
+      "category": "other",
+      "hour_id": "2026-11-18T15",
+      "source_handles": [
+        "boris_rozhin",
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T15:5",
+      "title": "European Commission reportedly forecasts 20 million Russian drones in 2027",
+      "summary": "The European Commission reportedly estimated that Russia could deploy 20 million drones in Ukraine during 2027, a figure understood to include small FPV systems. The reported projection is an estimate, not a confirmed production or deployment total.",
+      "post_url": "https://t.me/russianewstodayofficial/66",
+      "category": "other",
+      "hour_id": "2026-11-18T15",
+      "source_handles": [
+        "boris_rozhin",
+        "intelslava"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
