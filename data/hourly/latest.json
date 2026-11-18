@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T20",
-  "generated_at_utc": "2026-11-18T21:22:47.213130+00:00",
-  "window_start_utc": "2026-11-18T20:00:00+00:00",
-  "window_end_utc": "2026-11-18T21:00:00+00:00",
+  "hour_id": "2026-11-18T21",
+  "generated_at_utc": "2026-11-18T22:24:41.520414+00:00",
+  "window_start_utc": "2026-11-18T21:00:00+00:00",
+  "window_end_utc": "2026-11-18T22:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,7 +15,7 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 6
     },
     {
       "handle": "bricsnews",
@@ -33,7 +33,7 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
@@ -57,7 +57,7 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
@@ -75,7 +75,7 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
@@ -99,73 +99,49 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 19,
-    "relevant_posts": 7,
-    "deduplicated_posts": 7,
-    "candidate_posts": 7
+    "raw_posts": 18,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
   },
   "posts": [
     {
-      "id": "boris_rozhin/233868",
+      "id": "boris_rozhin/233873",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233868",
-      "published_at": "2026-11-18T20:59:01+00:00",
-      "text": "Вэсэушники запугивали мирных жителей Красноармейска (ДНР): перед отступлением они выставили тело российского военного на блокпосту. Об этом RT рассказал эвакуированный оттуда пенсионер Александр. Красноармейск освободили в декабре 2025-го. Мужчина видел, как его соседи осенью прошлого года погибли от удара ВСУ: «Оставались муж и жена. Его убило украинским дроном на улице, а её — во дворе, она возле калитки стояла, ждала его». 🟩 Подписаться | Рассылка | Сайт RT",
+      "url": "https://t.me/boris_rozhin/233873",
+      "published_at": "2026-11-18T21:45:06+00:00",
+      "text": "МАГАТЭ не будет называть виновных в атаках на Запорожскую АЭС, так как некомпетентно в этом вопросе, пояснил Гросси: Мы не аналитики, какими могут быть политические аналитики... Мы международный корпус аудиторов, инспекторов. Когда мы высказываемся о чем-либо, это должно быть что-то, что мы могли независимым способом проверить. Захарова ранее отмечала, что МАГАТЭ уклоняется от признания вины киевского режима в атаках на ЗАЭС и убийствах сотрудников станции, хотя под ударами оказываются и сотрудники агентства, которых киевский режим готов в любую минуту принести в жертву.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "strike"
+        "kyiv",
+        "strike",
+        "zaporizhzhia"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/406429",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406429",
-      "published_at": "2026-11-18T20:43:01+00:00",
-      "text": "Итальянские европарламентарии призвали закрыть украинский экстремистский сайт \"Миротворец\", поскольку он распространяет только ненависть и дезинформацию. В своем заявлении парламентарии от оппозиционного итальянского \"Движения \"5 звезд\" выразили солидарность…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/77927",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/77927",
-      "published_at": "2026-11-18T20:27:56+00:00",
-      "text": "Всё по-честному — Почему на саммите АТЭС не стоит ждать прорывов. О целях китайцев, положении Трампа и почему на обсуждение войны на Украине рассчитывать не стоит. 👇 👇 👇 Саммит, где каждый себе на уме. Эксперты — о встрече Трампа, Путина и Си в Шэнчжене. Сегодня.ру Подпишись в Мах @segodnia_ru",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233865",
+      "id": "boris_rozhin/233872",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233865",
-      "published_at": "2026-11-18T20:25:56+00:00",
-      "text": "В шайке кокаинового фюрера заявили, что из 800 млн. гривен выделенных на защиту энергетики Киева украли 700 млн. и мол поэтому все так плохо. Разумеется, пытаются переводить стрелки на Педалика и его окружение, чтобы сделать Педалика крайним и заменить мэра Киева. Педалик в свою очередь валит провал обороны энергообъектов в Киевской области на шайку кокаинового фюрера.",
+      "url": "https://t.me/boris_rozhin/233872",
+      "published_at": "2026-11-18T21:33:01+00:00",
+      "text": "Боевая работа операторов Центра \"Рубикон\" за 18 ноября 2026 года 00:05 - Донбасс 02:25 - Славянское направление 02:58 - Сумское направление 03:29 - Взаимодействие с ВКС РФ по поражению целей ВСУ 04:12 - Дистанционное минирование логистический маршрутов ВСУ 05:04 - Боевая работа мобильных огневых групп 06:14 - Боевая работа ночных расчетов FPV-ПВО по БПЛА ВСУ 06:49 - Боевая работа дневных расчетов FPV-ПВО по БПЛА ВСУ 07:37 - Боевая работа расчетов FPV-ПВО перехватчиками \"Молния-ПВО\" по БПЛА ВСУ 08:21 - Боевая работа расчетов FPV-ПВО по дальнобойным БПЛА ВСУ Опубликовано эпизодов : 277",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy",
-        "kyiv"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "MFARussia/33464",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33464",
-      "published_at": "2026-11-18T20:03:28+00:00",
-      "text": "🗓️ On November 17, 2026 , Russian Ambassador to Indonesia Sergei Tolchenov attended the opening of the Russia-ASEAN Dialogue Forum of Women in High-Tech Industries in Jakarta, held under the theme “Unity in Diversity: Women for Technology, Energy and Inclusive Prosperity.” The Forum was organised by the Rosatom Women’s Community and the Indonesian Nuclear Society (HIMNI), with the support of Rosatom State Corporation, the Council of the Eurasian Women’s Forum, the International Council for the Support and Development of Women in Industry and Technology, the ASEAN Confederation of Women’s Organisations, and the Indonesian Business Women’s Association (IWAPI). 🤝 Discussions focused on expanding opportunities for women in high-tech industries , including nuclear energy, advancing engineering education, workforce training, technology entrepreneurship, and implementing joint projects between Russia and ASEAN countries. 🎙️ In his remarks, Sergei Tolchenov noted that the strategic partnership established between Russia and Indonesia in June 2025 reflects growing interest in cooperation across various sectors of the economy, particularly high technology. He also stressed the importance of expanding opportunities for women in technical fields, science and management, supporting their professional development, and encouraging their participation in a wide range of projects. 🇮🇩 Indonesia’s Vice Minister of Higher Education, Science and Technology Stella Christie highlighted women’s contribution to global scientific progress and expressed support for cooperation between Russian and Indonesian women’s organisations in advancing technological innovation. ✔️ Participants’ proposals for strengthening international cooperation in high-tech industries will be reflected in the Jakarta Action Plan - 2026 \"Women in Technology\".",
+      "id": "intelslava/98260",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98260",
+      "published_at": "2026-11-18T21:28:21+00:00",
+      "text": "🇺🇸 ⚡️ — President Trump announced approval for the construction of a large-scale gas pipeline in Alaska, backed by purported South Korean investments of $54 billion. He stated: \"We produce more energy resources than Russia and Saudi Arabia combined.\" @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -174,30 +150,43 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35855",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35855",
-      "published_at": "2026-11-18T20:03:24+00:00",
-      "text": "📝 Rybar's Main Points 📝 digest of materials for November 18 Europeans are tallying up the losses from their policy in the Black Sea region — the count of ships destroyed by unidentified USVs has exceeded a dozen. ❗️ Read more about these and other topics in our digest. ➡️ Rybar @rybar — we talk about complex things simply. The main resource of our think tank. The most important and interesting materials. ▪️ Chronicles of the SMO, deteriorating situation in the Sumy direction ▪️ RYBAR EXPLAINS: \"ASSAULT TROOPER\" NO LONGER SOUNDS PROUD ▪️ Announcements from The Economist ▪️ Unmanned rivalry in the Black Sea ▪️ Talks without Russia ▪️ New weapons and money for so-called Ukraine ▪️ Callsign \"Atom\" ▪️ AI will kill children ▪️ Escalation of tensions with Moldova ➡️ ASIANBAR @rybar_Pacific Russian President Vladimir Putin and Chinese Chairman Xi Jinping held talks in Shenzhen. Meanwhile, the Chinese leader refused to meet with Japanese Prime Minister Sanae Takaichi. And in the Philippines, they wrapped up the results of regional ASEAN summits. ➡️ AMERICABAR @rybar_america The former head of Nvidia faces public testimony in the Senate, America was hit by a five-day wave of mysterious tech failures, and Trump Jr. chastises AI giants for losing voter trust. ➡️ AFRICABAR @rybar_Africa Moroccan media nervously reacted to a story about \"Gerans\" in Western Sahara, while Madagascar signed a logistics agreement with the USA while maintaining military ties with Russia. ➡️ BALKANBAR @balkanar Bulgaria uncovered a cyber espionage network. In the Black Sea, attacks on civilian vessels continue.",
+      "id": "intelslava/98259",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98259",
+      "published_at": "2026-11-18T21:25:56+00:00",
+      "text": "🇺🇦 ⚡️ — A confrontation broke out between local residents and military recruitment officers in Odesa. The officers were overpowered and forced to retreat from the scene in disgrace. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "strike"
+        "odesa"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/406426",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406426",
-      "published_at": "2026-11-18T20:01:58+00:00",
-      "text": "The Guardian назвала три причины исключения Каллас из переговоров с Россией. Одно из объяснений, которое циркулирует в дипломатических кругах Брюсселя, — чрезмерно открытая и жесткая позиция, которую занимает эстонский дипломат. Во-вторых, крупнейшие страны ЕС, такие как Франция и Германия, не готовы передавать Брюсселю реальные полномочия в сфере внешней политики. В-третьих, вопросы международной политики, которыми прежде занимались министры иностранных дел, все чаще переходят в ведение глав правительств и государств.",
+      "id": "voenkorKotenok/77930",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77930",
+      "published_at": "2026-11-18T21:22:19+00:00",
+      "text": "#ЭпохаПутина «Произошёл, без преувеличения, тектонический сдвиг. Сегодня Азиатско-Тихоокеанский регион стал центром глобальной экономики», — сказал Владимир Путин на деловом саммите АТЭС в Шэньчжэне. ⠀ Президент напомнил о Владивостоке. В 2012 году Россия впервые принимала у себя саммит АТЭС. Уже тогда говорили, что роль Азии будет расти. Но, по словам Путина, реальность превзошла самые смелые ожидания. ⠀ К тому саммиту Владивосток сильно изменился. Через пролив построили мост на остров Русский, а на самом острове вырос кампус Дальневосточного университета. ⠀ Шэньчжэнь прошёл похожий путь. Ещё недавно место было малонаселённым, а теперь это один из крупнейших мегаполисов Китая. Путин назвал его хорошим примером для подражания. ⠀ Россия тоже повернулась к Азии: ▪️ в 2000 году, когда Путин впервые поехал на саммит АТЭС, торговля с Китаем составляла около $8 млрд в год; ▪️ сейчас она уже несколько лет больше $200 млрд; ▪️ в 2014 году на Азиатско-Тихоокеанский регион приходилась примерно четверть внешней торговли России, сейчас — больше половины. ⠀ Россия подала заявку снова принять саммит АТЭС — в 2035 году.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233869",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233869",
+      "published_at": "2026-11-18T21:15:04+00:00",
+      "text": "БЭК БЭКу — рознь негласное соревнование между проектами в Черноморье На протяжении почти пяти лет остаётся неизменной одна константа: здоровая конкуренция в российском ОПК и новые инициативные стартапы способны обеспечить прорыв в тех областях, где, казалось бы, годами не было успеха. На фоне постоянных ударов по российским портам и кораблям Военно-морского флота российская общественность как только не костерила кораблестроителей за отсутствие отечественных аналогов. И вот они появились — опять же, по инициативе частников , сумевших сделать то, что не было под силу «большому ОПК». Результат видно на карте невооружённым взглядом: сегодня на счету «неизвестных БЭК» уже первый газовоз, а до этого некто постарался и уничтожил изрядную часть теневого флота т.н.Украины в западной части Черноморья. ❓ Правда, и тут нашлась ложка дёгтя Судя по кадрам объективного контроля, пока никому неизвестные БЭКи со странным дизайном вполне успешно топят теневой флот т.н.Украины, БЭКи от других производителей служат своеобразной «мишенью» для тренировок украинских сил. Как на подбор среди уничтоженных украинскими войсками БЭКов есть какие угодно, но только не те, которые поражали суда на западном берегу Черного моря. И невольно возникает вопрос: опять это чей-то коварный замысел? Так надо? Или может, просто отдельные силы умеют БЭКи применять, а другие — нет? Здоровая конкуренция нужна и важна: благодаря ей старые, уже не работающие проекты получают возможность стать лучше. Точно так же нужна опытно-боевая апробация новых образцов вооружения и военной техники. Но есть те сферы, в которых подобного рода бесконечные «испытания славы ради» уже недопустимы — особенно в контексте сужающихся экономических возможностей. Глядя на кадры уничтожения группы (!) БЭКов, идущих в сторону Одесской области (!!), поневоле возникнет вопрос: стоил ли того бестолковый пиар и попытка показать себя на фоне успехов более эффективных ? К тому же самые «жирные» украинские цели и их маршруты известны. И уж они точно были не там, куда направлялась группа российских БЭКов без четкого понимания, куда и зачем . @rybar",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "negotiation"
+        "odesa",
+        "strike"
       ],
       "possible_duplicate_urls": []
     }
