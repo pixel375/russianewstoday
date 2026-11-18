@@ -153,6 +153,8 @@ def split_entries(header: str, continuation: str, entries: list[str]) -> tuple[l
         current += entry
     messages.append(current)
     count = len(messages)
+    if count == 1:
+        return messages, indexes
     return [s + "\n<i>Part " + str(i + 1) + "/" + str(count) + "</i>"
             for i, s in enumerate(messages)], indexes
 

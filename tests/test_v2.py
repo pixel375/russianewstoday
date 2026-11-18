@@ -52,6 +52,8 @@ class HourlyTests(TestCase):
             messages, parts = render_hourly(actual, source)
             self.assertEqual(parts, [0])
             self.assertIn("Diplomatic discussion expected", messages[0])
+            self.assertNotIn("Part 1/1", messages[0])
+            self.assertNotIn("<i>Part", messages[0])
             self.assertNotIn("DDGeopolitics", messages[0])
             self.assertNotIn("https://t.me/", messages[0])
             self.assertTrue(all(units(m) < MAX_UNITS + 100 for m in messages))
@@ -67,6 +69,9 @@ class HourlyTests(TestCase):
         msgs, positions = split_entries("Header\n", "More\n", ["hi\n" * 700] * 3)
         self.assertEqual(positions, [0, 1, 2])
         self.assertEqual(len(msgs), 3)
+        self.assertTrue(msgs[0].endswith("<i>Part 1/3</i>"))
+        self.assertTrue(msgs[1].endswith("<i>Part 2/3</i>"))
+        self.assertTrue(msgs[2].endswith("<i>Part 3/3</i>"))
 
     def test_empty_push_payload_uses_commit_diff_fallback(self):
         from unittest.mock import Mock
@@ -108,6 +113,8 @@ class DailyTests(TestCase):
             digest, index = validate_daily(path, root, datetime(2026, 11, 17, 7, tzinfo=timezone.utc))
             rendered, _ = render_daily(digest, index)
             self.assertIn("https://t.me/russianewstodayofficial/777", rendered[0])
+            self.assertNotIn("Part 1/1", rendered[0])
+            self.assertNotIn("<i>Part", rendered[0])
             self.assertNotIn("DDGeopolitics", rendered[0])
             self.assertNotIn("source 1", rendered[0])
 
