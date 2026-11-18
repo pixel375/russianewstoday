@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    63
+  ],
+  "published_at_utc": "2026-11-18T13:29:18.866302+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T12",
+  "items": [
+    {
+      "item_id": "2026-11-18T12:1",
+      "title": "Geran drone reportedly strikes hangar housing An-124 at Hostomel airfield",
+      "summary": "Footage reportedly shows a Russian Geran drone striking a hangar at Hostomel airfield near Kyiv where an An-124 Ruslan heavy transport aircraft was parked. The aircraft had reportedly remained in Ukraine since 2022 after maintenance left it unable to depart; the extent of any damage is unclear.",
+      "post_url": "https://t.me/russianewstodayofficial/63",
+      "category": "other",
+      "hour_id": "2026-11-18T12"
+    },
+    {
+      "item_id": "2026-11-18T12:2",
+      "title": "New images reportedly show damage at Motor Sich plant in Zaporizhzhia",
+      "summary": "Images circulated showing the reported aftermath of strikes on a building within the Motor Sich factory grounds in Zaporizhzhia on November 17. The account identified a location at the industrial complex but did not specify the building's function or the extent of damage.",
+      "post_url": "https://t.me/russianewstodayofficial/63",
+      "category": "other",
+      "hour_id": "2026-11-18T12"
+    },
+    {
+      "item_id": "2026-11-18T12:3",
+      "title": "Russian military says FPV drones destroyed two Ukrainian UAV control posts",
+      "summary": "Russia's Defence Ministry said FPV drone operators from its Southern Group of Forces destroyed two Ukrainian drone-control positions. The brief announcement did not identify the exact locations or provide further operational details.",
+      "post_url": "https://t.me/russianewstodayofficial/63",
+      "category": "other",
+      "hour_id": "2026-11-18T12"
+    }
+  ]
+}
