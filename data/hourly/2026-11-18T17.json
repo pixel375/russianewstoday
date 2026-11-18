@@ -1,0 +1,249 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T17",
+  "generated_at_utc": "2026-11-18T18:05:57.573604+00:00",
+  "window_start_utc": "2026-11-18T17:00:00+00:00",
+  "window_end_utc": "2026-11-18T18:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 20,
+    "relevant_posts": 10,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
+  },
+  "posts": [
+    {
+      "id": "tass_agency/406423",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406423",
+      "published_at": "2026-11-18T17:59:58+00:00",
+      "text": "Главные новости к этому часу: ▪ Путин и Трамп проведут встречу после пленарного заседания саммита АТЭС, сообщил Ушаков. Главное из заявлений помощника президента РФ. ▪ Владимир Путин встретился с премьер-министром Таиланда. ▪ ВС РФ поразили сухогруз с имуществом для ВСУ. ▪ Песков рассказал о продолжительности саммита РФ, США и КНР. ▪ Путин на саммите АТЭС дал отпор попыткам изоляции России, пишет Bloomberg. ▪ Деловой саммит АТЭС поддержал создание зоны свободной торговли в АТР. ▪ В Поморье завели дело из-за убийства женщины, ошибочно признанной мертвой. ▪ Заместителю руководителя Росмолодежи Денису Аширову предъявлено обвинение в мошенничестве, сообщили ТАСС правоохранители. ▪ Вирус африканской чумы свиней обнаружили в продукции в ТЦ Ростова-на-Дону, сообщают власти. ▪ Роскосмос показал со спутников Москву под первым снегом. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53383",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53383",
+      "published_at": "2026-11-18T17:55:00+00:00",
+      "text": "❗️ House Republicans are threatening to remove Ukraine-related measures from a major defence bill in an effort to pressure Democrats into abandoning proposals aimed at strengthening congressional oversight of Donald Trump and Defence Secretary Pete Hegseth. The provisions at risk include intelligence sharing with Ukraine, military assistance and sanctions against Russia: NBC News @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30672",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30672",
+      "published_at": "2026-11-18T17:54:37+00:00",
+      "text": "🔥 Vehicles down, crews out : the Sever Group's drone operators of the 56th Guards Air Assault Regiment hit hostile targets in Sumy region. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98251",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98251",
+      "published_at": "2026-11-18T17:45:32+00:00",
+      "text": "🇵🇱 🇷🇺 ⚡️ — The Polish press reports that Polish intelligence agencies allegedly prevented a Russian provocation staged under the Ukrainian flag near the borders of the Kaliningrad region. The publication states that the sabotage operation near the border with Kaliningrad was planned to be carried out \"under a false flag,\" with the intention of later blaming Ukraine. According to the report, the Russian plan allegedly involved individuals posing as \"Ukrainian saboteurs\" illegally crossing the Polish-Russian border and entering the Kaliningrad region. It is claimed that simultaneously, a staged attack on a facility within Russia was planned, with the aim of escalating political tensions. According to the newspaper, the goal was to pressure Poland to stop providing assistance to Ukraine. There are no other details available: it is unclear whether anyone was arrested, how the provocation was prevented, or any other relevant information. Tusk only briefly mentioned a certain provocation. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350025",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350025",
+      "published_at": "2026-11-18T17:20:41+00:00",
+      "text": "МАГАТЭ не будет называть виновных в атаках на Запорожскую АЭС, так как некомпетентно в этом вопросе, пояснил Гросси: Мы не аналитики, какими могут быть политические аналитики... Мы международный корпус аудиторов, инспекторов. Когда мы высказываемся о чем-либо, это должно быть что-то, что мы могли независимым способом проверить. Захарова ранее отмечала, что МАГАТЭ уклоняется от признания вины киевского режима в атаках на ЗАЭС и убийствах сотрудников станции, хотя под ударами оказываются и сотрудники агентства, которых Киев готов в любую минуту принести в жертву. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406421",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406421",
+      "published_at": "2026-11-18T17:19:08+00:00",
+      "text": "🚨 Средства ПВО за день сбили 51 украинский БПЛА над Краснодарским краем и Азовским морем, сообщает МО РФ. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35854",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35854",
+      "published_at": "2026-11-18T17:18:44+00:00",
+      "text": "📝 Credit by Allocation 📝 The European Commission wants to force dissenters to pay for so-called Ukraine and on November 18 will present a new loan of €45 billion. The main condition, according to statements by EU Commissioner Valdis Dombrovskis, is the participation of all 27 countries. The problem is that at least four countries don't want to pay. 🔻 What's being proposed ▪️ The new loan comes on top of the already approved €90 billion for 2026–2027. According to EU estimates, Kyiv will face an additional deficit of around €70 billion in 2027. The EU wants to cover two-thirds itself, with the rest to come from the United Kingdom, Norway, Canada and other allies. ▪️ The scheme is the same as last time. The European Commission borrows money on the markets on behalf of the EU, with the common budget serving as collateral. According to Euronews , member states will pay the interest on this debt annually. ▪️ Ukraine will repay the principal only if it receives military reparations. According to Politico , the draft stipulates: if Russia refuses to pay, the EU \"reserves the right\" to repay the loan using frozen Russian assets. 🖍 Hungary, Slovakia, Czechia and Bulgaria oppose it. A year ago, Hungary, Slovakia and Czechia were allowed not to participate in the €90 billion loan: under the agreement's terms, budget guarantees did not increase their obligations. Now the European Commission wants all 27 to pay, not just 24 countries. 🚩 And they're pressuring dissenters with quite specific tools. Merz threatened to block the EU's seven-year budget after 2027 if all don't participate in the new loan. This is painful for dissenters: all four countries receive more from the EU budget than they contribute, thanks to agricultural subsidies and regional funds. Fico called this blackmail. It's telling that Germany itself still opposes common borrowing as a principle, but makes an exception for Ukraine. 📌 In the EU, under the guise of \"solidarity,\" they're shifting debt onto everyone that will probably never be repaid. The interest meanwhile falls on member state budgets. Dissenters are offered a choice: participate in the debt pyramid or go without European funds. The decision is to be discussed at the summit on November 26–27, and whether Slovakia, Czechia, Hungary and Bulgaria give in will determine not only the loan, but also how much longer the principle of unanimity will work in the EU. #EU #Ukraine #economy ✉️ MAX 💸 Support us",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198559",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198559",
+      "published_at": "2026-11-18T17:15:16+00:00",
+      "text": "🇬🇧 Prince Harry tells Telegraph he is ready to serve in the British military again if needed, warning that the threat from Russia means “we should all be nervous.” Harry, who served 10 years in the Army and flew Apache helicopters in Afghanistan, also plans to launch a global project next year to help veterans find work. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19702",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19702",
+      "published_at": "2026-11-18T17:14:40+00:00",
+      "text": "JUST IN: 🇬🇧 🇷🇺 Prince Harry says he would rejoin the UK military to fight Russia. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198558",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198558",
+      "published_at": "2026-11-18T17:14:17+00:00",
+      "text": "🇺🇦 The Aftermath of a Russian strike on a energy facility in Odessa. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

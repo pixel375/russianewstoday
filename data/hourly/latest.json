@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T16",
-  "generated_at_utc": "2026-11-18T17:26:46.458737+00:00",
-  "window_start_utc": "2026-11-18T16:00:00+00:00",
-  "window_end_utc": "2026-11-18T17:00:00+00:00",
+  "hour_id": "2026-11-18T17",
+  "generated_at_utc": "2026-11-18T18:05:57.573604+00:00",
+  "window_start_utc": "2026-11-18T17:00:00+00:00",
+  "window_end_utc": "2026-11-18T18:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
@@ -21,61 +21,61 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 3
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 4
     },
     {
       "handle": "voenkorKotenok",
@@ -99,46 +99,105 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 27,
-    "relevant_posts": 4,
-    "deduplicated_posts": 4,
-    "candidate_posts": 4
+    "raw_posts": 20,
+    "relevant_posts": 10,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
   },
   "posts": [
     {
-      "id": "mod_russia_en/30671",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30671",
-      "published_at": "2026-11-18T16:40:10+00:00",
-      "text": "🔥 Out of the blue The Sever Group's Giatsint-B gun crew of the 6th Guards Combined Arms Army shelled the AFU UAV control posts, combat hardware and personnel. 📍 Kharkov region 🔹 Russian Defence Ministry",
+      "id": "tass_agency/406423",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406423",
+      "published_at": "2026-11-18T17:59:58+00:00",
+      "text": "Главные новости к этому часу: ▪ Путин и Трамп проведут встречу после пленарного заседания саммита АТЭС, сообщил Ушаков. Главное из заявлений помощника президента РФ. ▪ Владимир Путин встретился с премьер-министром Таиланда. ▪ ВС РФ поразили сухогруз с имуществом для ВСУ. ▪ Песков рассказал о продолжительности саммита РФ, США и КНР. ▪ Путин на саммите АТЭС дал отпор попыткам изоляции России, пишет Bloomberg. ▪ Деловой саммит АТЭС поддержал создание зоны свободной торговли в АТР. ▪ В Поморье завели дело из-за убийства женщины, ошибочно признанной мертвой. ▪ Заместителю руководителя Росмолодежи Денису Аширову предъявлено обвинение в мошенничестве, сообщили ТАСС правоохранители. ▪ Вирус африканской чумы свиней обнаружили в продукции в ТЦ Ростова-на-Дону, сообщают власти. ▪ Роскосмос показал со спутников Москву под первым снегом. ✔ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "kharkiv"
+        "moscow"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35852",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35852",
-      "published_at": "2026-11-18T16:39:55+00:00",
-      "text": "Fwd from @ 📝 One photo — two pictures 📝 How to correctly read the positioning of APEC leaders in a group photo The so-called \"family\" photo of APEC leaders in Shenzhen caused quite a stir, but not in the way expected. While American publication Bloomberg writes that Putin looked strong and took center stage, some Russian outlets, on the contrary, claim that Xi Jinping supposedly \"showed Putin his place\" and he was \"pushed aside.\" 🔻 What Bloomberg writes ▪️ Putin appeared in an APEC family photo for the first time in nine years and stood in the center, next to Xi Jinping and Donald Trump. The agency calls this a \"powerful response\" to Western attempts to isolate the Russian leader. ▪️ Trump stood to the right of Xi, and Putin stood to the left, next to the wife of the Chinese leader Peng Liyuan. ▪️ Before the photo session, Putin himself approached Trump, they shook hands and exchanged a few words. This is the first personal meeting of the leaders since Alaska in August 2025. 🖍 To understand what's happening in the video, you need to consider two things. ▪️ First — diplomatic tradition in China : guests are received by a married couple, and by default the hosts are perceived as one unit. Xi Jinping and Peng Liyuan are the center, and guests stand on either side of them. Therefore, Putin standing next to Xi's wife is not \"further away,\" but next to the hosts. The arrangement stems from this. ▪️ Second — protocol. Trump was announced in advance as the guest of honor: this is a reciprocal visit following Xi's trip to the USA in September, and the meeting was conceived from the start as trilateral. Putin is guest number two here precisely by protocol, and this in no way diminishes his status. 🚩 This is the same logic we wrote about this morning. Xi met Trump at the airport personally on the basis of reciprocity: in September the American president himself met him at Andrews Air Force Base. Putin was greeted at the plane by Cai Qi, a member of the Standing Committee of the Politburo, and this is the highest possible level of representation in Chinese leadership. More telling is how Trump himself behaved. He tried to invite Putin to sit next to him, clearly not understanding how the protocol works. 📌 Therefore, arguing about who \"pushed aside\" whom is pointless. The \"family photo\" is not a ranking of leaders, but a reflection of protocol: hosts in the center, guests on either side in a predetermined order. What matters is that after ten years of attempts to isolate Russia, its president stands in the front row next to the leaders of China and the USA, and in a few hours all three countries will sit down at one table for the first time.",
+      "id": "AussieCossack/53383",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53383",
+      "published_at": "2026-11-18T17:55:00+00:00",
+      "text": "❗️ House Republicans are threatening to remove Ukraine-related measures from a major defence bill in an effort to pressure Democrats into abandoning proposals aimed at strengthening congressional oversight of Donald Trump and Defence Secretary Pete Hegseth. The provisions at risk include intelligence sharing with Ukraine, military assistance and sanctions against Russia: NBC News @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "sanctions"
+      ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "MFARussia/33447",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33447",
-      "published_at": "2026-11-18T16:33:37+00:00",
-      "text": "📚 Urdu Translation of Zakhar Prilepin’s \"Militia Romance\" Presented at the Russian Embassy in Pakistan On November 17, the Embassy of Russia in Pakistan hosted the presentation of the Urdu translation of \"Militia Romance\", a collection of short stories by renowned Russian writer Zakhar Prilepin. 🤝 The event was attended by Ambassador Albert P. Khorev ; Federal Minister of National Heritage and Culture Aurangzeb Khan Khichi ; MNA and Parliamentary Secretary Farah Naz Akbar ; Director General of the National Language Promotion Department Dr. Muhammad Saleem Mazhar , as well as Ambassadors of friendly countries and representatives of Pakistan’s intellectual community. 🎥 In a video address to the participants, the author, Zakhar Prilepin , expressed his gratitude to the Russian Embassy and Pakistani colleagues for their assistance in translating and publishing the book in Urdu. 💬 In his opening remarks, Ambassador Albert P. Khorev spoke about Zakhar Prilepin’s life and literary career. He emphasized the importance of the book for understanding the root causes of the conflict in Ukraine , the history of the struggle of the people of Donbass and their determination to preserve their historical, cultural and spiritual identity. Addressing the Ukraine crisis, the Ambassador drew attention to the extensive Western military and financial support to Kiev, which contributes to prolonging the conflict. He also highlighted the Western disinformation campaign aimed at demonizing Russia through the manipulation of humanitarian and cultural issues. ❗️ Ambassador Khorev reaffirmed Russia’s commitment to a political and diplomatic settlement of the crisis: “We are not fighting for territory. We are fighting to protect our borders and to establish a stable European security architecture based on the principles of equal and indivisible security.” 🙏 In conclusion, the Ambassador thanked the translator, Dr. Najam Sahar Butt, for his initiative and outstanding professionalism, which made it possible to preserve the philosophical depth of the original work. 🤝 Federal Minister of National Heritage and Culture Aurangzeb Khan Khichi highlighted the strength of Russia-Pakistan diplomatic, trade and economic ties and emphasized the considerable potential for expanding bilateral cooperation in culture, science and education. #RussiaPakistan",
+      "id": "mod_russia_en/30672",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30672",
+      "published_at": "2026-11-18T17:54:37+00:00",
+      "text": "🔥 Vehicles down, crews out : the Sever Group's drone operators of the 56th Guards Air Assault Regiment hit hostile targets in Sumy region. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98251",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98251",
+      "published_at": "2026-11-18T17:45:32+00:00",
+      "text": "🇵🇱 🇷🇺 ⚡️ — The Polish press reports that Polish intelligence agencies allegedly prevented a Russian provocation staged under the Ukrainian flag near the borders of the Kaliningrad region. The publication states that the sabotage operation near the border with Kaliningrad was planned to be carried out \"under a false flag,\" with the intention of later blaming Ukraine. According to the report, the Russian plan allegedly involved individuals posing as \"Ukrainian saboteurs\" illegally crossing the Polish-Russian border and entering the Kaliningrad region. It is claimed that simultaneously, a staged attack on a facility within Russia was planned, with the aim of escalating political tensions. According to the newspaper, the goal was to pressure Poland to stop providing assistance to Ukraine. There are no other details available: it is unclear whether anyone was arrested, how the provocation was prevented, or any other relevant information. Tusk only briefly mentioned a certain provocation. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350025",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350025",
+      "published_at": "2026-11-18T17:20:41+00:00",
+      "text": "МАГАТЭ не будет называть виновных в атаках на Запорожскую АЭС, так как некомпетентно в этом вопросе, пояснил Гросси: Мы не аналитики, какими могут быть политические аналитики... Мы международный корпус аудиторов, инспекторов. Когда мы высказываемся о чем-либо, это должно быть что-то, что мы могли независимым способом проверить. Захарова ранее отмечала, что МАГАТЭ уклоняется от признания вины киевского режима в атаках на ЗАЭС и убийствах сотрудников станции, хотя под ударами оказываются и сотрудники агентства, которых Киев готов в любую минуту принести в жертву. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406421",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406421",
+      "published_at": "2026-11-18T17:19:08+00:00",
+      "text": "🚨 Средства ПВО за день сбили 51 украинский БПЛА над Краснодарским краем и Азовским морем, сообщает МО РФ. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35854",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35854",
+      "published_at": "2026-11-18T17:18:44+00:00",
+      "text": "📝 Credit by Allocation 📝 The European Commission wants to force dissenters to pay for so-called Ukraine and on November 18 will present a new loan of €45 billion. The main condition, according to statements by EU Commissioner Valdis Dombrovskis, is the participation of all 27 countries. The problem is that at least four countries don't want to pay. 🔻 What's being proposed ▪️ The new loan comes on top of the already approved €90 billion for 2026–2027. According to EU estimates, Kyiv will face an additional deficit of around €70 billion in 2027. The EU wants to cover two-thirds itself, with the rest to come from the United Kingdom, Norway, Canada and other allies. ▪️ The scheme is the same as last time. The European Commission borrows money on the markets on behalf of the EU, with the common budget serving as collateral. According to Euronews , member states will pay the interest on this debt annually. ▪️ Ukraine will repay the principal only if it receives military reparations. According to Politico , the draft stipulates: if Russia refuses to pay, the EU \"reserves the right\" to repay the loan using frozen Russian assets. 🖍 Hungary, Slovakia, Czechia and Bulgaria oppose it. A year ago, Hungary, Slovakia and Czechia were allowed not to participate in the €90 billion loan: under the agreement's terms, budget guarantees did not increase their obligations. Now the European Commission wants all 27 to pay, not just 24 countries. 🚩 And they're pressuring dissenters with quite specific tools. Merz threatened to block the EU's seven-year budget after 2027 if all don't participate in the new loan. This is painful for dissenters: all four countries receive more from the EU budget than they contribute, thanks to agricultural subsidies and regional funds. Fico called this blackmail. It's telling that Germany itself still opposes common borrowing as a principle, but makes an exception for Ukraine. 📌 In the EU, under the guise of \"solidarity,\" they're shifting debt onto everyone that will probably never be repaid. The interest meanwhile falls on member state budgets. Dissenters are offered a choice: participate in the debt pyramid or go without European funds. The decision is to be discussed at the summit on November 26–27, and whether Slovakia, Czechia, Hungary and Bulgaria give in will determine not only the loan, but also how much longer the principle of unanimity will work in the EU. #EU #Ukraine #economy ✉️ MAX 💸 Support us",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -147,16 +206,41 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35851",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35851",
-      "published_at": "2026-11-18T16:06:04+00:00",
-      "text": "• 📝 Problems in the north 📝 In the Sumy direction a threatening situation is developing. Over recent weeks Ukrainian formations have noticeably stepped up their activity , attempting to dislodge Russian units from the Khoten—Mohrytsya line and push them back from a large forest massif. The enemy's objective is clear. It is from here that Russian units have been threatening Sumy with FPV drone strikes. Now this will be somewhat more difficult, although other fire strike means will continue to operate as before, even if the enemy manages to realize its plans. Activity is evidenced by the appearance of craters from airstrikes in the area of settlements Vladimyrivka , Aleksiyivka , Varachyno , Belovody and Yunakivka . While in some cases this is the work of Russian aerospace forces, in others, apparently, these are the consequences of strikes by Ukrainian aviation, which is supporting enemy operations. ❗️ The AFU is not conducting large-scale offensive operations yet. As on other sectors of the front, Ukrainian formations are operating in small groups, which do not consolidate positions but rather infiltrate through sparse forest strips. 📌 It would be rash to assume there is no threat. As such groups accumulate, the enemy may attempt to develop a tactical offensive, including re-entering Russian territory—into the Sudzha or Korenevo districts . If you have updates on the situation, or would like us to highlight the successes of your unit, you can always write to us via the feedback bot @rybar_feedback_bot 📍 High resolution map 📍 English version 📍 Online maps available by subscription at map.rybar.ru #Russia #Sumy #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "id": "DDGeopolitics/198559",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198559",
+      "published_at": "2026-11-18T17:15:16+00:00",
+      "text": "🇬🇧 Prince Harry tells Telegraph he is ready to serve in the British military again if needed, warning that the threat from Russia means “we should all be nervous.” Harry, who served 10 years in the Army and flew Apache helicopters in Afghanistan, also plans to launch a global project next year to help veterans find work. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19702",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19702",
+      "published_at": "2026-11-18T17:14:40+00:00",
+      "text": "JUST IN: 🇬🇧 🇷🇺 Prince Harry says he would rejoin the UK military to fight Russia. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198558",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198558",
+      "published_at": "2026-11-18T17:14:17+00:00",
+      "text": "🇺🇦 The Aftermath of a Russian strike on a energy facility in Odessa. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
+        "energy",
+        "odesa",
         "strike"
       ],
       "possible_duplicate_urls": []
