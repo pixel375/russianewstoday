@@ -1,0 +1,182 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T22",
+  "generated_at_utc": "2026-11-18T23:27:14.857583+00:00",
+  "window_start_utc": "2026-11-18T22:00:00+00:00",
+  "window_end_utc": "2026-11-18T23:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 15,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "rian_ru/350036",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350036",
+      "published_at": "2026-11-18T22:54:25+00:00",
+      "text": "Замглавы Пентагона не стал слушать доклад украинского министра обороны, пишет Telegraph. Элбридж Колби демонстративно покинул совещание по Украине, не дождавшись секретного доклада о ходе боевых действий, который должен был представить Хмара. По данным издания, главный стратег Пентагона ушел со встречи с европейскими союзниками после того, как раскритиковал Киев за нанесение ударов вглубь российской территории. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98268",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98268",
+      "published_at": "2026-11-18T22:43:25+00:00",
+      "text": "🇺🇦 ❌ 🇷🇺 — Sergey Aksyonov, head of the Republic of Crimea, announced another Ukrainian attack on the Crimean Bridge, prompting the suspension of rail traffic. Authorities are currently assessing the damage. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406439",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406439",
+      "published_at": "2026-11-18T22:37:36+00:00",
+      "text": "❗️ ВСУ в третий раз за неделю атаковали Крымский мост, сообщил Аксенов.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406438",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406438",
+      "published_at": "2026-11-18T22:37:01+00:00",
+      "text": "The Guardian назвала три причины исключения Каллас из переговоров с Россией. Одно из объяснений, которое циркулирует в дипломатических кругах Брюсселя, — чрезмерно открытая и жесткая позиция, которую занимает эстонский дипломат. Во-вторых, крупнейшие страны…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233874",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233874",
+      "published_at": "2026-11-18T22:03:01+00:00",
+      "text": "ICEYE усилит возможности радиолокационной разведки с помощью новой модификации Gen5 Финская компания ICEYE представила спутниковую платформу пятого поколения (Gen5), оснащённую радиолокатором с синтезированной апертурой (SAR), демонстрирующим ещё более высокие показатели для коммерческого сегмента дистанционного зондирования Земли. При работе с полосой сигнала 1,8 тыс. МГц заявленное пространственное разрешение на местности достигает 11 см, при использовании полосы 1,2 тыс. МГц показатель составляет до 16 см. Важной особенностью аппарата является всепогодность функционирования, обеспечивающая ведение разведки в ночных условиях и через плотный облачный покров. Архитектура Gen5 предполагает существенную оптимизацию эксплуатационных циклов: время съёмки за один виток увеличено вдвое по сравнению с предыдущими поколениями спутников, а минимальный интервал между последовательными участками съёмки сокращён более чем на 30%. Бортовое вычислительное ядро, базирующееся на специализированном ИИ-процессоре, позволяет осуществлять первичную обработку и дешифровку данных непосредственно на орбите, минимизируя задержки при передаче целеуказания. Эта система уже активно используется для решения задач оперативной разведки, обеспечивая высокую точность обнаружения и идентификации радиоконтрастных и радиоизлучающих объектов в интересах ВСУ перед нанесением ударов и после. Обновление программного обеспечения будет происходить перманентно, что позволит постепенно наращивать возможности предварительного анализа снимков с задействованием ИИ. Высокая детализация изображения в сочетании с сокращённым временем отклика делает платформу Gen5 одним из наиболее эффективных средств космической разведки противника, способным вскрывать перемещения техники, фортификационные изменения и маскировку бронетехники, НРТК и средств ПВО и т.д. @Warhronika",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
