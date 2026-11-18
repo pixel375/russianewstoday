@@ -1,27 +1,27 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-17T22",
-  "generated_at_utc": "2026-11-17T23:21:52.099308+00:00",
-  "window_start_utc": "2026-11-17T22:00:00+00:00",
-  "window_end_utc": "2026-11-17T23:00:00+00:00",
+  "hour_id": "2026-11-17T23",
+  "generated_at_utc": "2026-11-18T00:23:38.813159+00:00",
+  "window_start_utc": "2026-11-17T23:00:00+00:00",
+  "window_end_utc": "2026-11-18T00:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 9
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 3
     },
     {
       "handle": "AussieCossack",
@@ -45,19 +45,19 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 3
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
@@ -87,37 +87,38 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 12,
+    "raw_posts": 22,
     "relevant_posts": 2,
     "deduplicated_posts": 2,
     "candidate_posts": 2
   },
   "posts": [
     {
-      "id": "rian_ru/349957",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/349957",
-      "published_at": "2026-11-17T22:19:25+00:00",
-      "text": "Путин в среду начнет рабочую программу на саммите АТЭС в Китае, где у российского лидера запланированы переговоры с председателем КНР Си Цзиньпином. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "tass_agency/406226",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406226",
+      "published_at": "2026-11-17T23:34:04+00:00",
+      "text": "Россияне за несколько дней потеряли 914 тыс. рублей из-за мошенников перед выходом игры GTA VI 19 ноября, сообщили ТАСС в ИБ-компании F6. ✔ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233756",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233756",
-      "published_at": "2026-11-17T22:11:01+00:00",
-      "text": "Донбасс Совместная боевая работа «Рубикона» и ВКС по вскрытию и уничтожению пунктов управления БпЛА ВСУ. Работает «Рубикон»",
+      "id": "DDGeopolitics/198487",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198487",
+      "published_at": "2026-11-17T23:15:08+00:00",
+      "text": "🇳🇱 🇺🇦 ⚔️ 🇷🇺 Dutch arms maker brags its missiles brought down part of the Crimean Bridge Destinus, a Netherlands-based missile and drone maker, says its RUTA cruise missiles hit the Crimean Bridge two days in a row. The company is \"proud to support the Ukrainian defence forces\". This is the first time it has publicly claimed a single strike. The people behind it: ➡️ Founder and CEO Mikhail Kokorich, a Siberian-born former Russian businessman who renounced his citizenship and sits on an anti-war émigré committee. ➡️ Co-founder and president Oleksandr Danyliuk, Ukraine's finance minister from 2016 to 2018. The Dutch state pays for it. The Netherlands is funding around 700 RUTA missiles for Kiev, built on Dutch soil. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone"
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
       ],
       "possible_duplicate_urls": []
     }
