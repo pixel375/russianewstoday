@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    67
+  ],
+  "published_at_utc": "2026-11-18T17:27:44.314843+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T16",
+  "items": [
+    {
+      "item_id": "2026-11-18T16:1",
+      "title": "Russian military analysis reports increased Ukrainian activity near Sumy",
+      "summary": "A Russian battlefield assessment says Ukrainian small-unit activity has intensified along the Khoten-Mohrytsya line north of Sumy, with troops reportedly infiltrating forested areas rather than mounting a large offensive. It warns that a buildup could threaten Russian positions and potentially lead to operations toward the border.",
+      "post_url": "https://t.me/russianewstodayofficial/67",
+      "category": "other",
+      "hour_id": "2026-11-18T16",
+      "source_handles": [
+        "rybar_in_english"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T16:2",
+      "title": "Russia says artillery struck Ukrainian drone-control posts in Kharkiv region",
+      "summary": "Russia's Defence Ministry said a Giatsint-B artillery crew from its Sever Group shelled Ukrainian drone-control positions, equipment and personnel in Kharkiv region. The announcement did not specify the exact location or provide a damage assessment.",
+      "post_url": "https://t.me/russianewstodayofficial/67",
+      "category": "other",
+      "hour_id": "2026-11-18T16",
+      "source_handles": [
+        "mod_russia_en"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
