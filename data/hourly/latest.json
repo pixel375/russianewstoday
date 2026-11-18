@@ -1,27 +1,27 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T13",
-  "generated_at_utc": "2026-11-18T14:22:19.218103+00:00",
-  "window_start_utc": "2026-11-18T13:00:00+00:00",
-  "window_end_utc": "2026-11-18T14:00:00+00:00",
+  "hour_id": "2026-11-18T14",
+  "generated_at_utc": "2026-11-18T15:19:21.702291+00:00",
+  "window_start_utc": "2026-11-18T14:00:00+00:00",
+  "window_end_utc": "2026-11-18T15:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 2
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
@@ -33,7 +33,7 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 9
+      "raw_count": 7
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
@@ -74,12 +74,24 @@
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
-      "pages": 2,
-      "raw_count": 5
+      "pages": 1,
+      "raw_count": 6
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
       "raw_count": 1
     }
@@ -87,239 +99,135 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 30,
-    "relevant_posts": 17,
-    "deduplicated_posts": 17,
-    "candidate_posts": 17
+    "raw_posts": 27,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
   },
   "posts": [
     {
-      "id": "MFARussia/33446",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33446",
-      "published_at": "2026-11-18T13:59:59+00:00",
-      "text": "🎙️ Comment by the Embassy of the Russian Federation in Norway to RIA Novosti (13 November 2026) ❓ The Norwegian Government has announced that it will deny entry to Russian and Belarusian athletes seeking to take part in sporting competitions. The measures are due to take effect shortly. Could the Embassy comment on this decision? What are the Norwegian authorities seeking to prevent by barring Russian athletes from competitions for which they have already been cleared to compete? How will Russia respond to these measures? 💬 Response : Oslo’s decision constitutes a violation of the fundamental principles of international sport and is a flagrant example of discrimination on the basis of nationality. The entrenched Russophobia within Norway’s political establishment is leading the country to adopt measures that are not only politically and economically short-sighted, but also damaging to the international sporting movement . This decision calls into question not only Norway’s reputation, but also its capacity to serve as a reliable host for major international sporting events. Furthermore, the competitive integrity of global sport is clearly being compromised. Among the events affected are the FIS Cross-Country World Cup rounds in Trondheim (4–6 December), Holmenkollen (13–14 March) and Drammen (16 March), as well as the opening round of the FIS Ski Jumping World Cup season in Lillehammer (20–22 November). This decision devalues the titles at stake, diminishes the competitive appeal of the events and deprives fans of the opportunity to see top-tier athletes in action. Read the full comment",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53375",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53375",
-      "published_at": "2026-11-18T13:59:47+00:00",
-      "text": "❗️ Lifting restrictions on the deployment of nuclear weapons in Lithuania, Poland, and other European countries will provoke a reaction from Moscow. This will be a reason for the forces of strategic deterrence to take appropriate response measures, stated Zhandanova, head of the Russian delegation in Vienna. @AussieCossack",
+      "id": "tass_agency/406394",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406394",
+      "published_at": "2026-11-18T14:57:01+00:00",
+      "text": "Республиканцы хотят урезать помощь Киеву в оборонном бюджете США , передает телеканал NBC. Уточняется, что инициатива призвана заставить демократов выбирать между продолжением помощи Украине и отказом от расширения полномочий по расследованию деятельности администрации Трампа.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow"
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233820",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233820",
-      "published_at": "2026-11-18T13:45:10+00:00",
-      "text": "В Одессе прилеты. Сообщают что один из них пришелся по объекту энергетики, так же с мест сообщают о прилете по административному зданию",
+      "id": "sap_gov_ua/4534",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4534",
+      "published_at": "2026-11-18T14:50:02+00:00",
+      "text": "Схема переправлення ухилянтів через Придністров’я: САП та НАБУ повідомили про підозру колишньому та чинним посадовцям Державної прикордонної служби За процесуального керівництва прокурора САП детективи НАБУ за оперативного супроводу військової контррозвідки СБУ викрили організовану групу, яка причетна до незаконного переправлення військовозобов’язаних чоловіків через Придністров’я до країн Європи. Серед підозрюваних: - колишній посадовець Державної прикордонної служби України; - 2 чинні посадовці Державної прикордонної служби України; - 2 цивільні особи. Їхні дії кваліфіковано за ч. 2 ст. 332, ч. 3 ст. 332 та ч. 4 ст. 368 КК України. У межах досудового розслідування встановлено, що у травні – серпні 2022 року особи налагодили канал незаконного переправлення чоловіків призовного віку до країн Європи через ділянку кордону України з Придністров’ям. Зацікавлених осіб підшукували через телеграм-канали та переправляли поза офіційними пунктами пропуску без проставлення відповідних відміток у паспортах. Вартість такої «послуги» становила 5 тис. дол. США, які чоловіки сплачували вже після перетину кордону на території Придністров’я. Надалі частину цих коштів – по 1,5 тис. дол. США з особи – передавали безпосередньо прикордонникам. Загальна сума неправомірної вигоди, переданої організатору, становить близько 50 тис. доларів США. Зазначимо, що в листопаді 2022 року викритим особам вже повідомляли про підозру за ч. 3 ст. 332 КК України. Тоді провадження передали за підслідністю до територіального управління ДБР. Однак упродовж майже року слідство так і не провело необхідних експертиз та не направило міжнародних запитів, через що прокурор Одеської спеціалізованої прокуратури у сфері оборони Південного регіону закрив справу на підставі п. 3 ч. 1 ст. 284 КПК України. З огляду на суспільний резонанс злочину, що стосується національної безпеки, та неефективність попереднього розслідування за ініціативою САП постанову про закриття справи скасували, а матеріали передали до НАБУ. Деталі: https://youtu.be/6UlrjcYG1OM . 📌 Відповідно до ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy",
+        "crimea",
         "odesa"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35848",
+      "id": "nab_ukraine/4289",
+      "channel": "nab_ukraine",
+      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "url": "https://t.me/nab_ukraine/4289",
+      "published_at": "2026-11-18T14:50:01+00:00",
+      "text": "👤 👤 👤 👤 Незаконне переправлення чоловіків через кордон: 5 підозрюваних 👥 НАБУ та САП спільно з військовою контррозвідкою СБУ викрили одного колишнього та двох чинних посадовців Державної прикордонної служби України, а також двох цивільних осіб, причетних до організації незаконного перетину кордону військовозобов’язаними громадянами України. Упродовж травня–серпня 2022 року посадовці ДПСУ у змові з громадянами невизнаної Придністровської Молдавської Республіки (які також є громадянами рф і пов’язані з правоохоронними органами так званої ПМР) та іншими особами налагодили схему незаконного переправлення чоловіків призовного віку до країн Європи на ділянці державного кордону України з Придністров’ям. Вивезення людей здійснювали поза офіційними пунктами пропуску, без відповідних відміток у паспорті. Вартість цієї «послуги» становила 5000 дол. США , а охочих нею скористатися шукали через відповідні телеграм-канали. «Клієнти» розраховувалися після виїзду з України, на території Придністров’я. Після цього частину коштів — 1500 дол. США з особи — передавали безпосередньо співробітникам ДПСУ. Загальна сума неправомірної вигоди, переданої організатору, — близько 50 тис. дол. США . Докладніше Деталі вчинення злочину – у відео #підозра",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35849",
       "channel": "rybar_in_english",
       "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35848",
-      "published_at": "2026-11-18T13:35:21+00:00",
-      "text": "Fwd from @ 📝 Road of Death 📝 why homemade mines cannot be defeated in Mali Mine warfare has shifted from Syria to Africa. In Mali, several IEDs on a key highway can paralyze garrison supplies — a sector in the center of the country has long been called the \"road of death.\" Militants don't need to control territory to dictate terms. Malian military personnel learn to recognize threats, prepare sappers, and African Corps fighters share experience and deploy mobile electronic warfare systems against radio-controlled explosives. But without systematic demining and comprehensive measures, this is not enough. How Mali's army and Russian military personnel counter the mine threat — watch our new video. 📍 @rybar_tactical 💸 Support us Original msg",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233819",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233819",
-      "published_at": "2026-11-18T13:35:06+00:00",
-      "text": "Сотрудники ФСБ задержали по подозрению в госизмене двух жителей Хабаровского края, собиравших для военной разведки Украины данные о промышленных предприятиях и военнослужащих, принимающих участие в СВО. По версии ФСБ, один из фигурантов связался с представителями украинского ГУР. В марте он через доставку получил пульт дистанционного управления дроном и прошёл онлайн-обучение по работе с БПЛА для дальнейшего совершения диверсий на объектах промышленного комплекса и критической инфраструктуры Хабаровского края. \"Для выполнения задания он привлёк своего родственника, имеющего по месту работы доступ к сведениям о военнослужащих, проходивших службу в зоне СВО. Полученную информацию злоумышленник передал представителю иностранной разведки с целью нанесения ущерба безопасности ВС РФ\", — добавили в ФСБ. Возбуждено уголовное дело. Фигуранты арестованы.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102209",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102209",
-      "published_at": "2026-11-18T13:35:05+00:00",
-      "text": "🇵🇱 🥷 Польша «блещет» мастерством дезинформации Польская газета Rzeczpospolita сообщила о пресечении диверсий (со слов естественно «анонимных источников» в польских силовых структурах), которые якобы российские спецслужбы готовили на польской стороне с расчётом на большое число жертв. Сценарий мог включать также инсценировку атаки на объект в самой России . Вину собирались возложить на Украину , чтобы добиться прекращения помощи Киеву. ✨ Естественно ни одного доказательства не представили . Пресечь «диверсии» удалось благодаря упреждающим мерам: со 2 ноября польская пограничная стража усилила участок границы с Калининградской областью в связи с выявлением на российской приграничной стороне «людей с фонарями» ( ⁉️ ). ✨ ⭐️ У пшеков совсем мозги потекли . Хреново для классической операции по дезинформации , но для пустоголовых пшеков сойдёт . Теперь населению будут криво объяснять почему необходимо сократить социальные расходы государства и закрыть пункты пропуска на границе с Россией . Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406385",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406385",
-      "published_at": "2026-11-18T13:33:01+00:00",
-      "text": "▶️ Суд в Москве арестовал обвиняемую в покушении на журналиста Сергея Заворотного, передает корреспондент ТАСС. Видео: ГСУ СК России по Москве/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30667",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30667",
-      "published_at": "2026-11-18T13:28:42+00:00",
-      "text": "Tuned into the AFU's frequency and wiped out ten strongholds ▫️ Assaultmen of the 80th Guards Tank Regiment (Tsentr Group of Forces), while advancing in Dnepropetrovsk direction, seized an enemy radio station and used it to expose and eliminate more than ten AFU strongholds. ▶️ Assault section commander Andrei Moroz shared the details of the combat work. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406384",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406384",
-      "published_at": "2026-11-18T13:28:02+00:00",
-      "text": "В США по ордеру РФ задержали россиянина Алексея Сергеева , объявленного в международный розыск за мошенничество в особо крупном размере. Информация о нем появилась в базе Иммиграционной и таможенной службы США. Ранее о задержании в Штатах экс-депутата Саратовской областной думы сообщал Telegram-канал Shot . Фото: Соцсети погранслужбы Майами ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198551",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198551",
-      "published_at": "2026-11-18T13:21:44+00:00",
-      "text": "🇷🇺 Russia has started work at the site where the road section of the Crimean Bridge collapsed after Tuesday's Ukrainian strike. Russian opposition outlet Verstka reports this, citing ship-tracking data from Vesselfinder. At least 10 vessels are now working at the site. They include tugs, a work boat, a passenger vessel, a dredger and an oil spill response ship. Vesselfinder data suggests there is still enough room in the fairway for vessels with a shallow draft to pass after the arch fell. The tugs have been moving around on both sides of the bridge in recent hours. The vessels are likely clearing bridge debris from the fairway. The road arch fell straight into the Kerch-Yenikale Canal, which is the only deep-water route for large ships between the Black Sea and the Sea of Azov. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406383",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406383",
-      "published_at": "2026-11-18T13:21:01+00:00",
-      "text": "Оплата услуг бюджетных учреждений цифровыми рублями будет доступна в 2027 году, сообщили в ЦБ. Там добавили, что осенью следующего года Банк России также проведет тестирование офлайн-платежей в цифровых рублях без доступа в интернет.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350015",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350015",
-      "published_at": "2026-11-18T13:18:19+00:00",
-      "text": "Европа стремительно поменяла отношение к переговорам с Россией, отметил депутат Европарламента Тьерри Мариани. Он напомнил, что последние три года там утверждали, что переговоры с Москвой равносильны предательству. \"Сегодня те же самые люди в Брюсселе бегают в поисках места за столом переговоров. И с удивлением обнаруживают, что их там никто не ждет\", - сказал он РИА Новости. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow",
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198549",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198549",
-      "published_at": "2026-11-18T13:10:28+00:00",
-      "text": "🇷🇺 ✈️ 🇹🇷 Bomb threat on Russian flight to Turkey turns out false An Azimut Airlines Superjet-100 flying from Mineralnye Vody to Antalya landed in Turkey after someone reported a bomb on board. The threat came in this afternoon, claiming an explosive device had been planted on the plane. Turkish security forces and ground staff searched the aircraft as soon as it landed and found nothing suspicious, Russian outlet SHOT reports. 65 passengers were on board. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98238",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98238",
-      "published_at": "2026-11-18T13:10:13+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Two men from Russia's Khabarovsk Krai have been detained by the Federal Security Service (FSB) on suspicion of treason. They allegedly collected information on industrial enterprises and military personnel participating in Russia's Special Military Operation (SMO) for Ukrainian intelligence. The detainees face sentences of up to life imprisonment. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38473",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38473",
-      "published_at": "2026-11-18T13:07:01+00:00",
-      "text": "Бомбардировочный эскорт Путина: российские Ту-95 добрались до Вьетнама Российские стратегические ракетоносцы Ту-95МС устроили небольшую воздушную экскурсию по Восточной Азии. По дороге во Вьетнам они потревожили сразу несколько региональных столиц: прошли через зоны ПВО Южной Кореи и Тайваня, а по данным японской стороны, ненадолго вошли и в воздушное пространство Японии. Токио поднял истребители, остальные участники маршрута тоже не остались без работы. В итоге два Ту-95МС в сопровождении транспортных Ил-76 благополучно приземлились в Дананге. Получился своеобразный бомбардировочный эскорт Владимира Путина, который в эти дни находится в азиатском регионе. На фоне его визита российская дальняя авиация напомнила соседям о своих возможностях и способности действовать на больших расстояниях. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "missile"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98237",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98237",
-      "published_at": "2026-11-18T13:05:17+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — The 50th Separate Unmanned Systems Brigade “Varyag” conducted strikes against Ukrainian energy infrastructure, logistics facilities, and a UAV storage site using Geran-4 drones. Strike footage: 0:08 – Logistics center 0:21 – Combined heat and power plant (CHP) 0:34 – UAV storage facility @IntelSlava",
+      "url": "https://t.me/rybar_in_english/35849",
+      "published_at": "2026-11-18T14:33:52+00:00",
+      "text": "📝 Drones as a pretext 📝 for escalating Russian-Moldovan relations Whenever an unidentified drone appears in Moldova's airspace, the republic's authorities instantly provoke a diplomatic scandal with Russia. Yesterday in Chișinău they reported that seven unmanned aircraft entered the republic's airspace. The authorities claimed that one of them flew over Chișinău, after which the country's airspace was temporarily closed. Today, the Foreign Ministry handed a protest note to Russian Ambassador Oleg Ozerov, and President Maia Sandu immediately called the UAV \"Russian\" and promised to push for new anti-Russian sanctions. However, Ozerov rejected the version of Russian involvement. According to him, the Russian side can never obtain from Moldovan authorities data on UAV routes and examination results. The ambassador again proposed creating a joint investigation commission for such incidents, but at the same time acknowledged that relations between the countries \"are balancing on the brink of rupture.\" 📌 Expecting cooperation from Moldova's authorities on security matters is already pointless. All such drone incidents show that Chișinău only uses them to build its own political capital in the eyes of the EU, justifying its demands for military support. ❗️ The Moldovan leadership, on the contrary, provokes a deepening of security problems by enabling active transit of weapons for the AFU and announcing plans to establish its own UAV production for so-called Ukraine. And Ukrainian intelligence in Chișinău is allowed to feel at home. #Moldova #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "energy",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53376",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53376",
+      "published_at": "2026-11-18T14:33:40+00:00",
+      "text": "❗️ In one of the Ukrainian villages, the police, together with employees of the Territorial Recruitment Center, forcibly mobilized a young man. Fortunately, local residents rescued the young man, and even filmed the process, later publishing it online. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102210",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102210",
+      "published_at": "2026-11-18T14:31:03+00:00",
+      "text": "📝 БЭК БЭКу — рознь 📝 негласное соревнование между проектами в Черноморье На протяжении почти пяти лет остаётся неизменной одна константа: здоровая конкуренция в российском ОПК и новые инициативные стартапы способны обеспечить прорыв в тех областях, где, казалось бы, годами не было успеха. На фоне постоянных ударов по российским портам и кораблям Военно-морского флота российская общественность как только не костерила кораблестроителей за отсутствие отечественных аналогов. ❗️ И вот они появились — опять же, по инициативе частников , сумевших сделать то, что не было под силу «большому ОПК». Результат видно на карте невооружённым взглядом: сегодня на счету «неизвестных БЭК» уже первый газовоз, а до этого некто постарался и уничтожил изрядную часть теневого флота т.н.Украины в западной части Черноморья. ❓ Правда, и тут нашлась ложка дёгтя Судя по кадрам объективного контроля, пока никому неизвестные БЭКи со странным дизайном вполне успешно топят теневой флот т.н.Украины, БЭКи от других производителей служат своеобразной «мишенью» для тренировок украинских сил. Как на подбор среди уничтоженных украинскими войсками БЭКов есть какие угодно, но только не те, которые поражали суда на западном берегу Черного моря. И невольно возникает вопрос: опять это чей-то коварный замысел? Так надо? Или может, просто отдельные силы умеют БЭКи применять, а другие — нет? 📌 Здоровая конкуренция нужна и важна: благодаря ей старые, уже не работающие проекты получают возможность стать лучше. Точно так же нужна опытно-боевая апробация новых образцов вооружения и военной техники. Но есть те сферы, в которых подобного рода бесконечные «испытания славы ради» уже недопустимы — особенно в контексте сужающихся экономических возможностей. Глядя на кадры уничтожения группы (!) БЭКов, идущих в сторону Одесской области (!!), поневоле возникнет вопрос: стоил ли того бестолковый пиар и попытка показать себя на фоне успехов более эффективных ? К тому же самые «жирные» украинские цели и их маршруты известны. И уж они точно были не там, куда направлялась группа российских БЭКов без четкого понимания, куда и зачем . Карта в высоком разрешении English Version #БЭК #Россия #флот ✉ MAX 💸 Поддержать нас",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233808",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233808",
-      "published_at": "2026-11-18T13:04:33+00:00",
-      "text": "⚔️ Дальний полет и расчет на массовость: что известно о российской ракете «Филин» ⭐️ «Оружие настоящего и будущего» – онлайн-энциклопедия Донецкого агентства новостей и военно-политического эксперта, автора канала Colonelcassad Бориса Рожина. Рассказываем о вооружениях, меняющих ситуацию на полях сражений в нашем неспокойном мире. ⭐️ Компактная ракета, способная преодолевать до 1200 километров и нести боевую часть массой до 100 килограммов, — так эксперты описывают «Филин». Интерес к новой разработке связан прежде всего с перспективой сравнительно недорогого производства. Если такие изделия удастся выпускать большими партиями, значение будут иметь не только характеристики отдельной ракеты, но и возможность регулярно пополнять арсенал. ⭐️ Все, что известно о проекте, собрали в наших карточках ⬆️ , а другие подробности можно узнать из текста , который подготовил военный консультант ⚡️ Алексей Кузьмин . ⭐ Не пропустите предыдущие выпуски нашей энциклопедии. Их можно найти по тегу #Оружие_с_Борисом_Рожиным ⚡ Подпишись на нас в MAX",
+      "id": "DDGeopolitics/198553",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198553",
+      "published_at": "2026-11-18T14:30:53+00:00",
+      "text": "🇷🇺 Putin brought the nuclear briefcase to the summit in China Putin's military aide confirmed to Russian reporters that the \"nuclear briefcase\" travelled with the president to the summit in China. Asked whether the case he was carrying was the real one, he answered: \"The real one.\" 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30668",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30668",
+      "published_at": "2026-11-18T14:28:54+00:00",
+      "text": "Robots on the job ▫️ The Tsentr Group's UGV operators of the 39th Guards Engineering Regiment deliver cargo and clear movement routes in Dnepropetrovsk direction. 🎮 The servicemen control the platforms remotely , never exposing themselves to attack. The iron helpers confidently traverse broken, roadless terrain and break through enemy minefields. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "donetsk",
-        "missile"
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98240",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98240",
+      "published_at": "2026-11-18T14:02:58+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Compilation of footage showing Russian Aerospace Forces (VKS) operations • Four OFAB-250-270 aerial bombs strike a temporary deployment point of the 101st Territorial Defense Brigade in the vicinity of Korenek, Sumy Oblast. • One FAB-3000 aerial bomb strikes a Ukrainian Armed Forces (AFU) crossing near Oskil, Kharkov Oblast. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "strike"
       ],
       "possible_duplicate_urls": []
     }
