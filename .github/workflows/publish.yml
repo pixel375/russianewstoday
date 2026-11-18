@@ -65,11 +65,17 @@ jobs:
       - name: Publish to Telegram
         shell: bash
         run: |
+          # Resolve the triggering outbox file BEFORE refreshing main.
+          # The live published hourly index must include receipts from
+          # previous jobs when enforcing the cross-hour NABU/SAPO cap.
           if [ -n "$OUTBOX_PATH" ]; then
-            python -m src.publish_v2 --path "$OUTBOX_PATH"
+            publish_path="$OUTBOX_PATH"
           else
-            python -m src.publish_v2 --event "$GITHUB_EVENT_PATH"
+            publish_path="$(python -c 'from pathlib import Path; import os; from src.publish_v2 import path_from_github_event; print(path_from_github_event(Path(os.environ["GITHUB_EVENT_PATH"])))')"
           fi
+          git fetch origin main
+          git reset --hard origin/main
+          python -m src.publish_v2 --path "$publish_path"
       - name: Record message IDs and hourly index
         run: |
           git config user.name "russianewstoday-publisher"
