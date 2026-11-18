@@ -32,6 +32,10 @@ FORBIDDEN_ORIGINAL_NAMES = re.compile(
     r"Two\s*Majors|WarGonzo|Colonelcassad|Voenkor\s*Kotenok)\b", re.I)
 CYRILLIC = re.compile(r"[\u0400-\u052F]")
 LOCAL_TZ = ZoneInfo("America/Winnipeg")
+# Maximum combined number of NABU/SAPO items per Winnipeg news day.
+ANTI_CORRUPTION_HANDLES = frozenset(("nab_ukraine", "sap_gov_ua"))
+ANTI_CORRUPTION_DAILY_MAX = 2
+
 
 
 def units(text: str) -> int:
@@ -233,6 +237,43 @@ def send_messages(messages: list[str], token: str, chat_id: str) -> list[int]:
     return ids
 
 
+def item_source_handles(item: dict) -> list[str]:
+    """Exact source handles from validator-approved, internal source URLs."""
+    return sorted({url.split("/")[3].casefold()
+                   for url in item.get("source_urls", [])
+                   if ORIGINAL_LINK.fullmatch(url)})
+
+
+def is_anticorruption_item(item: dict) -> bool:
+    return bool(set(item_source_handles(item)) & ANTI_CORRUPTION_HANDLES)
+
+
+def apply_anticorruption_daily_cap(root: Path, digest: dict,
+                                   snapshot: dict) -> tuple[dict, int]:
+    """Keep at most two official NABU/SAPO stories per Winnipeg news date.
+
+    The publication index persists across hourly workflows. Only genuinely
+    published entries count; one story citing both agencies counts as one.
+    Rejected overflow does not block unrelated war news in the same hour.
+    """
+    local_date = utc(snapshot["window_start_utc"]).astimezone(LOCAL_TZ).date().isoformat()
+    file = root / "published/hourly_index" / (local_date + ".json")
+    previous = read_json(file) if file.exists() else {"items": []}
+    used = sum(bool(set(entry.get("source_handles", [])) &
+                    ANTI_CORRUPTION_HANDLES) for entry in previous["items"])
+    remaining = max(0, ANTI_CORRUPTION_DAILY_MAX - used)
+    kept = []
+    skipped = 0
+    for item in digest["items"]:
+        if is_anticorruption_item(item):
+            if not remaining:
+                skipped += 1
+                continue
+            remaining -= 1
+        kept.append(item)
+    return {**digest, "items": kept}, skipped
+
+
 def update_hourly_index(root: Path, digest: dict, snapshot: dict,
                         item_parts: list[int], message_ids: list[int]) -> tuple[dict, dict]:
     hour_id = digest["hour_id"]
@@ -250,6 +291,7 @@ def update_hourly_index(root: Path, digest: dict, snapshot: dict,
             "post_url": f"https://t.me/{DESTINATION}/{message_id}",
             "category": item.get("category", "other"),
             "hour_id": hour_id,
+            "source_handles": item_source_handles(item),
         }
         receipts.append(entry)
         if not any(x["item_id"] == entry["item_id"] for x in all_items):
@@ -267,13 +309,30 @@ def publish(path: Path, root: Path, dry_run: bool = False,
     if receipt_path.exists():
         print("Already published:", receipt_path)
         return {"already_published": True}
+    skipped_by_quota = 0
     if kind == "hourly":
         digest, data = validate_hourly(path, root, now)
+        digest, skipped_by_quota = apply_anticorruption_daily_cap(root, digest, data)
+        if not digest["items"]:
+            # Mark an all-quota-capped hour as handled, without contacting
+            # Telegram and without inserting it into the published index.
+            if dry_run:
+                print(f"All {skipped_by_quota} NABU/SAPO stories exceed the daily cap; nothing to publish.")
+                return {"dry_run": True, "message_count": 0, "skipped_by_quota": skipped_by_quota}
+            receipt_path.parent.mkdir(parents=True, exist_ok=True)
+            receipt = {"type": "hourly", "hour_id": identifier,
+                       "status": "skipped_source_quota", "message_ids": [],
+                       "items": [], "skipped_by_quota": skipped_by_quota}
+            receipt_path.write_text(json.dumps(receipt, ensure_ascii=False, indent=2) + "\n",
+                                    encoding="utf-8")
+            print("No Telegram post: all official anti-corruption items exceeded the daily cap.")
+            return receipt
         messages, part_indexes = render_hourly(digest, data)
     else:
         digest, data = validate_daily(path, root, now)
         messages, part_indexes = render_daily(digest, data)
-    print(f"Validated {kind} digest {identifier}: {len(digest['items'])} points, {len(messages)} Telegram messages")
+    print(f"Validated {kind} digest {identifier}: {len(digest['items'])} points, {len(messages)} Telegram messages"
+          f"; NABU/SAPO quota-skipped={skipped_by_quota}")
     if dry_run:
         for i, msg in enumerate(messages, 1):
             print(f"\n--- Preview {i}/{len(messages)} ---\n{msg}")
@@ -292,6 +351,7 @@ def publish(path: Path, root: Path, dry_run: bool = False,
     if kind == "hourly":
         index, detail = update_hourly_index(root, digest, data, part_indexes, message_ids)
         receipt.update(detail)
+        receipt["skipped_by_quota"] = skipped_by_quota
         date = index["date"]
         index_path = root / "published/hourly_index" / (date + ".json")
         index_path.parent.mkdir(parents=True, exist_ok=True)
