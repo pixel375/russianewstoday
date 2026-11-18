@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T14",
-  "generated_at_utc": "2026-11-18T15:19:21.702291+00:00",
-  "window_start_utc": "2026-11-18T14:00:00+00:00",
-  "window_end_utc": "2026-11-18T15:00:00+00:00",
+  "hour_id": "2026-11-18T15",
+  "generated_at_utc": "2026-11-18T16:21:46.769877+00:00",
+  "window_start_utc": "2026-11-18T15:00:00+00:00",
+  "window_end_utc": "2026-11-18T16:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
@@ -44,8 +44,8 @@
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 1,
-      "raw_count": 7
+      "pages": 2,
+      "raw_count": 20
     },
     {
       "handle": "rian_ru",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
@@ -81,13 +81,13 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "nab_ukraine",
       "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "sap_gov_ua",
@@ -99,89 +99,62 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 27,
-    "relevant_posts": 9,
-    "deduplicated_posts": 9,
-    "candidate_posts": 9
+    "raw_posts": 44,
+    "relevant_posts": 17,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
   },
   "posts": [
     {
-      "id": "tass_agency/406394",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406394",
-      "published_at": "2026-11-18T14:57:01+00:00",
-      "text": "Республиканцы хотят урезать помощь Киеву в оборонном бюджете США , передает телеканал NBC. Уточняется, что инициатива призвана заставить демократов выбирать между продолжением помощи Украине и отказом от расширения полномочий по расследованию деятельности администрации Трампа.",
+      "id": "boris_rozhin/233843",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233843",
+      "published_at": "2026-11-18T15:55:10+00:00",
+      "text": "Полноформатные переговоры Путина с Трампом 19 ноября не планируются, сообщил Песков. На саммит РФ — США — КНР отводится час. Лидерам пока не удалось побеседовать, на саммите АТЭС они поприветствовали друг друга. UPD: Двусторонняя встреча Путина и Трампа планируется завтра после пленарного заседания саммита АТЭС, сообщил Ушаков. Он добавил, что Путин и Си Цзиньпин обсудили наиболее острые вопросы международной и региональной повестки, включая переговоры по Украине в Абу-Даби. Во встрече Путина и Трампа примут участие по несколько человек от России и США. Уже согласованы участники делегаций , которые будут присутствовать на завтрашней трехсторонней встрече Путина, Трампа и Си Цзиньпина.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv"
+        "negotiation"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "sap_gov_ua/4534",
-      "channel": "sap_gov_ua",
-      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
-      "url": "https://t.me/sap_gov_ua/4534",
-      "published_at": "2026-11-18T14:50:02+00:00",
-      "text": "Схема переправлення ухилянтів через Придністров’я: САП та НАБУ повідомили про підозру колишньому та чинним посадовцям Державної прикордонної служби За процесуального керівництва прокурора САП детективи НАБУ за оперативного супроводу військової контррозвідки СБУ викрили організовану групу, яка причетна до незаконного переправлення військовозобов’язаних чоловіків через Придністров’я до країн Європи. Серед підозрюваних: - колишній посадовець Державної прикордонної служби України; - 2 чинні посадовці Державної прикордонної служби України; - 2 цивільні особи. Їхні дії кваліфіковано за ч. 2 ст. 332, ч. 3 ст. 332 та ч. 4 ст. 368 КК України. У межах досудового розслідування встановлено, що у травні – серпні 2022 року особи налагодили канал незаконного переправлення чоловіків призовного віку до країн Європи через ділянку кордону України з Придністров’ям. Зацікавлених осіб підшукували через телеграм-канали та переправляли поза офіційними пунктами пропуску без проставлення відповідних відміток у паспортах. Вартість такої «послуги» становила 5 тис. дол. США, які чоловіки сплачували вже після перетину кордону на території Придністров’я. Надалі частину цих коштів – по 1,5 тис. дол. США з особи – передавали безпосередньо прикордонникам. Загальна сума неправомірної вигоди, переданої організатору, становить близько 50 тис. доларів США. Зазначимо, що в листопаді 2022 року викритим особам вже повідомляли про підозру за ч. 3 ст. 332 КК України. Тоді провадження передали за підслідністю до територіального управління ДБР. Однак упродовж майже року слідство так і не провело необхідних експертиз та не направило міжнародних запитів, через що прокурор Одеської спеціалізованої прокуратури у сфері оборони Південного регіону закрив справу на підставі п. 3 ч. 1 ст. 284 КПК України. З огляду на суспільний резонанс злочину, що стосується національної безпеки, та неефективність попереднього розслідування за ініціативою САП постанову про закриття справи скасували, а матеріали передали до НАБУ. Деталі: https://youtu.be/6UlrjcYG1OM . 📌 Відповідно до ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
+      "id": "rian_ru/350022",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350022",
+      "published_at": "2026-11-18T15:52:07+00:00",
+      "text": "Москва настроена развивать многоплановые связи с Бангкоком, заявил Путин. Президент встретился с премьером Таиланда Чанвиракуном. Российский лидер отметил хорошие показатели торговли двух стран и потенциал кооперации в энергетике и АПК. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "crimea",
-        "odesa"
+        "energy",
+        "moscow"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "nab_ukraine/4289",
-      "channel": "nab_ukraine",
-      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
-      "url": "https://t.me/nab_ukraine/4289",
-      "published_at": "2026-11-18T14:50:01+00:00",
-      "text": "👤 👤 👤 👤 Незаконне переправлення чоловіків через кордон: 5 підозрюваних 👥 НАБУ та САП спільно з військовою контррозвідкою СБУ викрили одного колишнього та двох чинних посадовців Державної прикордонної служби України, а також двох цивільних осіб, причетних до організації незаконного перетину кордону військовозобов’язаними громадянами України. Упродовж травня–серпня 2022 року посадовці ДПСУ у змові з громадянами невизнаної Придністровської Молдавської Республіки (які також є громадянами рф і пов’язані з правоохоронними органами так званої ПМР) та іншими особами налагодили схему незаконного переправлення чоловіків призовного віку до країн Європи на ділянці державного кордону України з Придністров’ям. Вивезення людей здійснювали поза офіційними пунктами пропуску, без відповідних відміток у паспорті. Вартість цієї «послуги» становила 5000 дол. США , а охочих нею скористатися шукали через відповідні телеграм-канали. «Клієнти» розраховувалися після виїзду з України, на території Придністров’я. Після цього частину коштів — 1500 дол. США з особи — передавали безпосередньо співробітникам ДПСУ. Загальна сума неправомірної вигоди, переданої організатору, — близько 50 тис. дол. США . Докладніше Деталі вчинення злочину – у відео #підозра",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35849",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35849",
-      "published_at": "2026-11-18T14:33:52+00:00",
-      "text": "📝 Drones as a pretext 📝 for escalating Russian-Moldovan relations Whenever an unidentified drone appears in Moldova's airspace, the republic's authorities instantly provoke a diplomatic scandal with Russia. Yesterday in Chișinău they reported that seven unmanned aircraft entered the republic's airspace. The authorities claimed that one of them flew over Chișinău, after which the country's airspace was temporarily closed. Today, the Foreign Ministry handed a protest note to Russian Ambassador Oleg Ozerov, and President Maia Sandu immediately called the UAV \"Russian\" and promised to push for new anti-Russian sanctions. However, Ozerov rejected the version of Russian involvement. According to him, the Russian side can never obtain from Moldovan authorities data on UAV routes and examination results. The ambassador again proposed creating a joint investigation commission for such incidents, but at the same time acknowledged that relations between the countries \"are balancing on the brink of rupture.\" 📌 Expecting cooperation from Moldova's authorities on security matters is already pointless. All such drone incidents show that Chișinău only uses them to build its own political capital in the eyes of the EU, justifying its demands for military support. ❗️ The Moldovan leadership, on the contrary, provokes a deepening of security problems by enabling active transit of weapons for the AFU and announcing plans to establish its own UAV production for so-called Ukraine. And Ukrainian intelligence in Chișinău is allowed to feel at home. #Moldova #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "id": "intelslava/98243",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98243",
+      "published_at": "2026-11-18T15:50:09+00:00",
+      "text": "🇪🇺 🇺🇦 🇷🇺 ⚡️ — The European Commission stated that Russia is expected to deploy 20 million drones in Ukraine in 2027. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "sanctions"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "AussieCossack/53376",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53376",
-      "published_at": "2026-11-18T14:33:40+00:00",
-      "text": "❗️ In one of the Ukrainian villages, the police, together with employees of the Territorial Recruitment Center, forcibly mobilized a young man. Fortunately, local residents rescued the young man, and even filmed the process, later publishing it online. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "mobilization"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102210",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102210",
-      "published_at": "2026-11-18T14:31:03+00:00",
-      "text": "📝 БЭК БЭКу — рознь 📝 негласное соревнование между проектами в Черноморье На протяжении почти пяти лет остаётся неизменной одна константа: здоровая конкуренция в российском ОПК и новые инициативные стартапы способны обеспечить прорыв в тех областях, где, казалось бы, годами не было успеха. На фоне постоянных ударов по российским портам и кораблям Военно-морского флота российская общественность как только не костерила кораблестроителей за отсутствие отечественных аналогов. ❗️ И вот они появились — опять же, по инициативе частников , сумевших сделать то, что не было под силу «большому ОПК». Результат видно на карте невооружённым взглядом: сегодня на счету «неизвестных БЭК» уже первый газовоз, а до этого некто постарался и уничтожил изрядную часть теневого флота т.н.Украины в западной части Черноморья. ❓ Правда, и тут нашлась ложка дёгтя Судя по кадрам объективного контроля, пока никому неизвестные БЭКи со странным дизайном вполне успешно топят теневой флот т.н.Украины, БЭКи от других производителей служат своеобразной «мишенью» для тренировок украинских сил. Как на подбор среди уничтоженных украинскими войсками БЭКов есть какие угодно, но только не те, которые поражали суда на западном берегу Черного моря. И невольно возникает вопрос: опять это чей-то коварный замысел? Так надо? Или может, просто отдельные силы умеют БЭКи применять, а другие — нет? 📌 Здоровая конкуренция нужна и важна: благодаря ей старые, уже не работающие проекты получают возможность стать лучше. Точно так же нужна опытно-боевая апробация новых образцов вооружения и военной техники. Но есть те сферы, в которых подобного рода бесконечные «испытания славы ради» уже недопустимы — особенно в контексте сужающихся экономических возможностей. Глядя на кадры уничтожения группы (!) БЭКов, идущих в сторону Одесской области (!!), поневоле возникнет вопрос: стоил ли того бестолковый пиар и попытка показать себя на фоне успехов более эффективных ? К тому же самые «жирные» украинские цели и их маршруты известны. И уж они точно были не там, куда направлялась группа российских БЭКов без четкого понимания, куда и зачем . Карта в высоком разрешении English Version #БЭК #Россия #флот ✉ MAX 💸 Поддержать нас",
+      "id": "mod_russia_en/30669",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30669",
+      "published_at": "2026-11-18T15:41:43+00:00",
+      "text": "❗️ The Armed Forces of the Russian Federation continue delivering strikes by unmanned aerial vehicles against ships used in the interests of the AFU. 💥 Today, as a result of a strike, a dry cargo ship delivering military-purpose cargo to the port of Odessa was hit at sea. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -191,42 +164,161 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198553",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198553",
-      "published_at": "2026-11-18T14:30:53+00:00",
-      "text": "🇷🇺 Putin brought the nuclear briefcase to the summit in China Putin's military aide confirmed to Russian reporters that the \"nuclear briefcase\" travelled with the president to the summit in China. Asked whether the case he was carrying was the real one, he answered: \"The real one.\" 🔴 @DDGeopolitics",
+      "id": "rian_ru/350021",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350021",
+      "published_at": "2026-11-18T15:35:35+00:00",
+      "text": "❗️ Полноформатные переговоры Путина и Трампа завтра не планируются, сообщил Песков. Что еще сказал пресс-секретарь президента: 🔹 Лидеры России и США не проводили предметного разговора на торжественном приеме в среду. 🔹 На встречу Путина, Си Цзиньпина и Трампа в четверг отводится час. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/rian_ru/350020"
+      ],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233841",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233841",
+      "published_at": "2026-11-18T15:35:05+00:00",
+      "text": "В Европейской комиссии заявили, что в 2027 году Россия применит на Украине 20 000 000 дронов. Разумеется с учетом обычных FPV-дронов. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98242",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98242",
+      "published_at": "2026-11-18T15:31:55+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — A Geran-4 drone strikes a hangar housing a partially dismantled An-124 Ruslan transport aircraft at Hostomel Airport near Kiev. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "nab_ukraine/4291",
+      "channel": "nab_ukraine",
+      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "url": "https://t.me/nab_ukraine/4291",
+      "published_at": "2026-11-18T15:30:02+00:00",
+      "text": "​​ ⚖️ ВАКС оголосив вирок колишньому Голові Державного агентства лісових ресурсів України та його дружині 18 листопада 2026 року ВАКС оголосив вирок колишньому голові Державного агентства лісових ресурсів України та його дружині. Їх обвинувачували у вимаганні та одержанні неправомірної вигоди в розмірі 3,7 млн доларів США та 10,8 млн євро, що за курсом НБУ на момент скоєння злочину становило 141,3 млн грн. Вироком суду ексголову Державного агентства лісових ресурсів України визнано винуватим за ч. 4 ст. 368, ч. 3 ст. 209 КК України. Йому призначено покарання у вигляді 12 років позбавлення волі з позбавленням права обіймати посади в органах державної влади строком на 3 роки, з конфіскацією всього належного майна. Його дружину засуджено за ч. 5 ст. 27, ч. 4 ст. 368, ч. 3 ст. 209 КК України до 10 років позбавлення волі з позбавленням права обіймати певні посади строком на 3 роки та конфіскацією майна. До набрання вироком законної сили суд залишив без змін запобіжні заходи у вигляді тримання під вартою, застосовані до вказаних осіб. Також суд застосував спецконфіскацію до 1,2 млн євро та 1,4 млн дол. США, які розміщені на банківських рахунках у Швейцарській Конфедерації, а також до будинку, що оформлений на третю особу. Вирок суду набирає законної сили через тридцять днів із дня проголошення, якщо його не буде оскаржено в апеляційному порядку. Зауважимо, що особи переховуються від правосуддя. Судовий розгляд щодо них здійснювався у спеціальному судовому провадженні «in absentia».",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/sap_gov_ua/4535"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "nab_ukraine/4290",
+      "channel": "nab_ukraine",
+      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "url": "https://t.me/nab_ukraine/4290",
+      "published_at": "2026-11-18T15:30:02+00:00",
+      "text": "👩‍⚖️ 👩‍⚖️ 👩‍⚖️ 12 і 10 років позбавлення волі: ВАКС ухвалив вирок колишньому Голові Державного агентства лісових ресурсів України та його дружині 👨‍⚖️ Їх визнали винними у вимаганні та одержанні неправомірної вигоди в розмірі 3,7 млн доларів США та 10,8 млн євро . Докладніше #вирок",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "mod_russia_en/30668",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30668",
-      "published_at": "2026-11-18T14:28:54+00:00",
-      "text": "Robots on the job ▫️ The Tsentr Group's UGV operators of the 39th Guards Engineering Regiment deliver cargo and clear movement routes in Dnepropetrovsk direction. 🎮 The servicemen control the platforms remotely , never exposing themselves to attack. The iron helpers confidently traverse broken, roadless terrain and break through enemy minefields. 🔹 Russian Defence Ministry",
+      "id": "voenkorKotenok/77919",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77919",
+      "published_at": "2026-11-18T15:28:14+00:00",
+      "text": "В Киеве несколько взрывов. Точно не \"баллистика\". Ее противник ожидает ближе к ночи. Бандеровские каналы уже вторые сутки \"вангуют\" массированный ракетный удар по киевским мостам. Ждем. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "kyiv",
+        "missile",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98240",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98240",
-      "published_at": "2026-11-18T14:02:58+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Compilation of footage showing Russian Aerospace Forces (VKS) operations • Four OFAB-250-270 aerial bombs strike a temporary deployment point of the 101st Territorial Defense Brigade in the vicinity of Korenek, Sumy Oblast. • One FAB-3000 aerial bomb strikes a Ukrainian Armed Forces (AFU) crossing near Oskil, Kharkov Oblast. @IntelSlava",
+      "id": "wargonzo/38478",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38478",
+      "published_at": "2026-11-18T15:27:28+00:00",
+      "text": "Семь человек погибли в ЛНР из-за ударов ВСУ Сегодня украинские неонацисты атаковали автомобиль и микроавтобус на дорогах Старобельского и Новоайдарского муниципальных округов в ЛНР. Водители погибли. Ещё несколько ударов противник нанёс в Новопсковском округе по грузовикам, погибли двое мужчин, сообщает глава республики. В районе села Светлое ВСУ ударили по трактору во время полевых работ. Погиб 22-летний парень. В Беловодском округе под огонь неонацистов попал грузовик дорожной службы – погиб работник, ещё один получил ранения. В Троицком вражеский БПЛА атаковал женщин, которые шли по улице – 62-летняя жительница погибла, ещё двое получили ранения. @wargonzo",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kharkiv",
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233840",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233840",
+      "published_at": "2026-11-18T15:25:08+00:00",
+      "text": "Вооруженные Силы Российской Федерации продолжают нанесение ударов беспилотными летательными аппаратами по морским судам , задействованным в интересах ВСУ. Сегодня днем в результате удара поражено морское судно типа «сухогруз» на переходе морем, доставлявшее в порт Одесса грузы военного назначения.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406402",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406402",
+      "published_at": "2026-11-18T15:24:01+00:00",
+      "text": "Путин на саммите АТЭС дал решительный отпор попыткам изоляции России , пишет Bloomberg. На церемонии совместного фотографирования Путин занял центральное место рядом с Си Цзиньпином и Трампом. Это демонстрирует единство мировых лидеров и сохранение дипломатического статуса России на международной арене. #АТЭС2026 ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406401",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406401",
+      "published_at": "2026-11-18T15:17:02+00:00",
+      "text": "❗️ Днем в результате удара ВС РФ поражен на переходе морем сухогруз, доставлявший в порт Одесса грузы военного назначения, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233839",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233839",
+      "published_at": "2026-11-18T15:15:07+00:00",
+      "text": "Противник заявил, что начал строительство переправ через Днепр в Киеве, которые планирует построить к весне. Торопятся в связи с ожиданиями дальнейших ударов по мостам. Когда с мостами разберутся, надо будет заниматься переправами, но их выводить из строя будет куда как легче. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
