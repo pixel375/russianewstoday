@@ -1,0 +1,282 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T08",
+  "generated_at_utc": "2026-11-18T09:25:37.016821+00:00",
+  "window_start_utc": "2026-11-18T08:00:00+00:00",
+  "window_end_utc": "2026-11-18T09:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 12
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 31,
+    "relevant_posts": 14,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
+  },
+  "posts": [
+    {
+      "id": "tass_agency/406312",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406312",
+      "published_at": "2026-11-18T08:59:58+00:00",
+      "text": "Главные новости к этому часу: ▪ Переговоры Путина и Си Цзиньпина продлились более двух часов, передает корреспондент ТАСС. ▪ ФСБ задержала двух жителей Хабаровского края по подозрению в госизмене. ▪ Уиткофф и Кушнер не примут участия во встрече лидеров РФ, США и КНР, сообщил Дмитриев. ▪ Никитин заявил о возможности России быстро восстановить Крымский мост. ▪ КНР оказала Путину самый торжественный прием среди всех иностранных лидеров, прибывших на саммит АТЭС, пишет SCMP. ▪ Мишустин утвердил кураторов национальных и федеральных проектов. Что известно о новых назначениях. ▪ Стубб опроверг статью Bild о предложении РФ к Финляндии выйти из НАТО. ▪ В Абу-Даби на аукционе выставили на торги более 100 вещей Майкла Джексона. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53365",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53365",
+      "published_at": "2026-11-18T08:59:32+00:00",
+      "text": "❗️ President Putin: The European Union is losing its industrial potential and its position in global competition. The problems of budget deficits are becoming increasingly acute, debt burdens are growing, and so is inflation. All of this places a heavy burden on European businesses and citizens, whose standard of living is steadily declining in a way that is humiliating for the eurozone. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406311",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406311",
+      "published_at": "2026-11-18T08:56:53+00:00",
+      "text": "Главное из нового брифинга Минобороны России: ▪️ Российские войска поразили за сутки места производства и хранения беспилотников ВСУ; ▪️ Суточные потери украинских подразделений в зоне СВО составили порядка 1 165 военнослужащих; ▪️ Средства ПВО РФ за день сбили 310 украинских беспилотных летательных аппаратов самолетного типа. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98234",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98234",
+      "published_at": "2026-11-18T08:55:37+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ – Russia struck Ukraine’s Izmail port infrastructure and a cargo ship bound for Pivdennyi (Yuzhny) port, carrying dual-use cargo for Ukrainian forces. The Russian Defence Ministry stated overnight drone strikes targeted facilities used to unload and store military supplies for Ukraine’s armed forces. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77912",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77912",
+      "published_at": "2026-11-18T08:47:49+00:00",
+      "text": "На строительстве защиты объектов энергетической инфраструктуры в Киевской области было украдено до 700 млн гривен из 800 млн, которые были на нее выделены. Об этом пишет нардеп Верховной рады Нагорняк. Говорит, что все деньги ушли подрядчикам, не имеющем ни малейшего отношения к возведению защитных сооружений. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233780",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233780",
+      "published_at": "2026-11-18T08:47:01+00:00",
+      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки Противник продолжает давить на правом фланге, сохраняя активность вдоль р. Мокрые Ялы и на направлениях действий наших штурмовых групп. В течение суток подразделения группировки сорвали 11 контратак. На освобожденной территории вскрыли и нанесли огневое поражение 15 группам просачивания противника. После освобождения н.п. Заливное наши подразделения продолжают наступательные действия, постепенно зачищая правый берег р. Верхняя Терса . На северном участке воины-забайкальцы нанесли серию ударов по выявленным целям в районах н.п. Ивановка, Гавриловка, Покровское, Коломийцы, Новоукраинка, Диброва и Терсянка. Уничтожена ББМ, 4 единицы авто-мото техники и живая сила противника. Западнее Зелёной Дибровы воины из Бурятии заняли новые опорные пункты в направлении Василевского и Барвиновки . Поражено 3 ПВД ВСУ, 3 НРТК, 1 автомобиль, 2 пункта управления БПЛА и живая сила противника. Западнее Никольского и Червоного Яра воины-приморцы уничтожили 3 пункта управления БПЛА, БТР, БМП, БРЭМ и живую силу противника. Потери противника за сутки: БМП, 2 БТР, 3 ББМ, БРЭМ, САУ, 12 единиц авто-мототехники и до двух рот живой силы. @voin_dv",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102189",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102189",
+      "published_at": "2026-11-18T08:44:17+00:00",
+      "text": "Враг тоже борется со съемками мест прилёта наших ракет и БПЛА. Вот такие материалы для соцсетей разработал совбез Украины 🔷 Украинские граждане , которые страдают от диктатуры хунты и хотят приблизить мир. Могут помочь нашим коллегам с канала Два майора https://t.me/dva_majors/102174 Тут можно передать ценные снимки и видео анонимно и безопасно Блокнот пропагандиста",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406306",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406306",
+      "published_at": "2026-11-18T08:37:18+00:00",
+      "text": "❕ СК РФ возбудил дело о теракте в связи с атакой ВСУ на Крымский мост.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198511",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198511",
+      "published_at": "2026-11-18T08:35:30+00:00",
+      "text": "📝 USV vs USV — a world of difference 📝 an undeclared competition between projects in the Black Sea For nearly five years, one constant remains unchanged: healthy competition in the Russian defense industry and new enterprising startups can deliver breakthroughs in areas where, it seemed, for years there had been no success. Amid constant strikes on Russian ports and Navy ships, the Russian public criticized shipbuilders in every way possible for the lack of domestic analogues. ❗️ And here they are — again, thanks to the initiative of private contractors , who managed to do what the \"big defense industry\" could not. The result is visible on the map with the naked eye: today the \"unknown USVs\" already have their first gas tanker on their account, and before that someone made an effort and destroyed a considerable part of the so-called Ukraine's shadow fleet in the western Black Sea. ❓ However, there's a fly in the ointment here too Judging by objective control footage, the so-far unknown USVs with strange design are quite successfully sinking the so-called Ukraine's shadow fleet, while USVs from other manufacturers serve as a sort of \"target\" for Ukrainian forces to train on. As if by design, among the USVs destroyed by Ukrainian forces there are all kinds, but not those that struck vessels on the western shore of the Black Sea. And inevitably the question arises: is this someone's cunning scheme again? Is it necessary? Or perhaps some forces simply know how to use USVs, while others don't? 📌 Healthy competition is needed and important: thanks to it, old, no longer working projects get a chance to improve. Likewise, combat testing of new weapons and military equipment samples is necessary. But there are areas where this kind of endless \"glory-seeking trials\" are already unacceptable — especially in the context of shrinking economic capabilities. Looking at footage of the destruction of a group (!) of USVs heading toward Odesa Region (!!), one can't help but wonder: was the pointless PR and attempt to show off against the backdrop of more effective operations worth it? Moreover, the fattest Ukrainian targets and their routes are known. And they certainly weren't where the group of Russian USVs was heading without a clear understanding of where and why . High-resolution map English Version #USV #Russia #Navy ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/rybar_in_english/35836"
+      ],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38468",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38468",
+      "published_at": "2026-11-18T08:21:01+00:00",
+      "text": "Греческий газовоз сгорел у берегов Болгарии: новая обыденность Чёрного моря В сети появились эффектные кадры пожара на затонувшем вчера у берегов Болгарии греческом газовозе GAS HUSKY под либерийским флагом. Судно перевозило 3400 тонн сжиженного углеводородного газа и следовало из египетской Александрии в румынский порт Мидия. Газовоз был атакован неустановленным видом вооружения. Весь филиппинский экипаж из 19 человек сумел эвакуироваться с помощью спасательного плота. На опубликованных кадрах можно различить четырех моряков, хотя на плоту могли разместиться и остальные члены команды. Все 19 человек спасены болгарскими военными. По данным болгарских властей, двое моряков получили лёгкие травмы. Сведений о погибших нет. За время СВО в Чёрном море зафиксировано 160 инцидентов с участием 172 торговых судов. По имеющимся данным, 12 судов затонули, 52 моряка погибли, ещё 35 числятся пропавшими без вести. Если в первые годы СВО основная опасность для торгового флота была сосредоточена в украинских портах и прилегающих акваториях, то теперь атаки распространились на западную часть Чёрного моря, затрагивая даже экономические зоны стран НАТО. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33426",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33426",
+      "published_at": "2026-11-18T08:20:01+00:00",
+      "text": "🎙 Opening remarks by President of Russia Vladimir Putin at talks with President of China Xi Jinping (Shenzhen, 18 November 2026) 💬 Vladimir Putin: We share a common goal – to ensure peace and prosperity in the Asia-Pacific . As you like to say, we will work back to back for the benefit of the peoples of Russia and China . We have had a number of productive meetings this year. We met in Beijing in May, then in Bishkek , and spoke again in New Delhi . We have kept up a good pace. 🤝 Our cooperation continues to grow on the foundations laid a quarter of a century ago when we signed the Treaty of Good-Neighbourliness and Friendly Cooperation . Relations are developing well , and I would like to take this opportunity to congratulate you on the success of the Fifth Plenary Session of the 20th Central Committee of the Communist Party of China . It has undoubtedly set the course for China’s development in the years ahead. 📈 For several years running, trade between our countries has stood well above $200 billion – a target we set ourselves only a short while ago. All indications are that we will exceed that figure again this year and see further strong growth in bilateral trade. I am also pleased with the substance of our dialogue on research and innovation . Transport links are improving, and ties between our peoples are growing stronger, helped, of course, by the visa-free travel arrangements introduced at your initiative. Since the visa-free regime was introduced, tourist numbers have risen by 43% . The thematic years our two countries hold together have proved their worth and are making a real difference . In May, you and I officially launched the 2026-2027 Russia-China Years of Education in Beijing. Here in Shenzhen is Shenzhen MSU-BIT University , which Moscow State University and the Beijing Institute of Technology established under an agreement we reached ten years ago. I understand we will have an opportunity to visit it today. A number of exciting cultural projects are also under way . Last week, for example, the Moscow Seasons festival opened here in Shenzhen , attracting considerable interest from local residents. I hope everyone enjoys it. 🇷🇺 🇨🇳 Russia and China continue to work together closely and constructively on foreign policy . In a difficult geopolitical environment, we are taking a constructive approach to building a fairer #MultipolarWorld order. We are very happy to be here among friends . Read in full #RussiaChina",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406301",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406301",
+      "published_at": "2026-11-18T08:09:01+00:00",
+      "text": "Стубб опроверг публикацию Bild о предложениях России в ходе встречи в Абу-Даби, среди которых якобы было условие о выходе Хельсинки из НАТО. Президент Финляндии призвал не воспринимать всерьез подобные публикации немецких СМИ, его слова приводит газета Ilta-Sanomat.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233777",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233777",
+      "published_at": "2026-11-18T08:03:01+00:00",
+      "text": "У берегов Болгарии дронами уничтожен газовоз связанный с поставками на Украину. О, це дило. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
