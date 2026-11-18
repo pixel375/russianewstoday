@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    60
+  ],
+  "published_at_utc": "2026-11-18T10:27:46.259486+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T09",
+  "items": [
+    {
+      "item_id": "2026-11-18T09:1",
+      "title": "US and European representatives set for Berlin talks on Ukraine security",
+      "summary": "US envoys Steve Witkoff and Jared Kushner are reportedly due to meet Ukrainian and European representatives in Berlin on November 19 to discuss security guarantees and Ukraine's post-war economic recovery. The planned meeting comes amid differences over ceasefire terms and Europe's role in negotiations.",
+      "post_url": "https://t.me/russianewstodayofficial/60",
+      "category": "other",
+      "hour_id": "2026-11-18T09"
+    },
+    {
+      "item_id": "2026-11-18T09:2",
+      "title": "Kremlin says Putin and Xi discussed Ukraine settlement in Shenzhen",
+      "summary": "Kremlin spokesman Dmitry Peskov said Vladimir Putin and Xi Jinping discussed efforts to settle the war in Ukraine during their talks in Shenzhen. Putin also mentioned his contacts with US envoys Steve Witkoff and Jared Kushner in Moscow; no new agreement was announced.",
+      "post_url": "https://t.me/russianewstodayofficial/60",
+      "category": "other",
+      "hour_id": "2026-11-18T09"
+    },
+    {
+      "item_id": "2026-11-18T09:3",
+      "title": "Russian ambassador disputes Moldova's protest over drone incursions",
+      "summary": "Russia's ambassador called Moldova's diplomatic protest over recent drone incursions unfounded, suggested Ukraine might be behind the incidents and proposed a joint investigation. His remarks follow Moldovan accounts of drones entering its airspace; responsibility for the incidents remains disputed.",
+      "post_url": "https://t.me/russianewstodayofficial/60",
+      "category": "other",
+      "hour_id": "2026-11-18T09"
+    }
+  ]
+}
