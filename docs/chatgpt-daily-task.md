@@ -8,6 +8,14 @@ from main, where YYYY-MM-DD is YESTERDAY in America/Winnipeg timezone.
 This index contains successfully published hourly items, including
 links into the channel's own Telegram messages.
 
+The same two-item DAILY news quota applies to the combined NABU
+and SAPO original sources, not to the daily recap's links to those
+already-published hourly items. The recap may link to those existing
+two items without counting them as fresh hourly publications.
+"NABU reports" and "SAPO reports" are allowed as attribution within
+the original English headlines. Do not add new or unverified events
+outside the published hourly index.
+
 If there is no index or zero items, SKIP the daily digest. Choose the
 10–20 most significant distinct events from that day's published
 hourly items; choose fewer if there isn't enough substantive material.

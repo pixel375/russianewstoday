@@ -46,6 +46,29 @@ substantive criticisms of Ukrainian governance, corruption, procurement
 and wartime policies when on-topic. Never falsify or slant the underlying
 facts, and avoid irrelevant personal attacks.
 
+**NABU/SAPO SPECIAL CASE (Ukraine anti-corruption):** The two channels
+@nab_ukraine and @sap_gov_ua use intentionally VERY LOOSE collection
+filters. Treat concrete NABU/SAPO reports of anti-corruption investigations,
+suspicions/notices, searches, indictments, prosecution decisions, court
+proceedings, judgments and major agency actions as within scope even if
+they make no explicit reference to the war. Do not exclude them just for
+being domestic Ukrainian corruption stories. Select at most TWO distinct
+NABU/SAPO-sourced items COMBINED per Winnipeg calendar NEWS DAY.
+Read published/hourly_index/YYYY-MM-DD.json for that local date and count
+entries whose source_handles include "nab_ukraine" or "sap_gov_ua".
+If at least two such items are already in the index, do not choose any
+more from these feeds that day. If only one, choose at most one more.
+The publisher ALSO independently enforces this quota at send time;
+if two new stories are proposed when only one slot remains, it will
+publish only the first and still publish unrelated stories.
+
+The exact public wording "NABU reports" or "SAPO reports" is ALLOWED
+for items actually originating from the matching channel. This is an
+exception to the general no-original-source-names rule. Always write
+public headlines and summaries in English, translate Ukrainian legal
+terms accurately, and distinguish suspicion, charges, prosecution,
+trial and conviction. Do not include source Telegram URLs in public copy.
+
 Sources may be in Russian, Ukrainian or English. Understand the original
 language and write ALL public headlines and summaries in clear ENGLISH,
 transliterating names and places appropriately; never paste Cyrillic

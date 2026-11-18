@@ -35,13 +35,31 @@ Ukrainian institutions, sanctions, governance, and related Russian
 official positions. Do not manufacture a pro-Russian conclusion
 from a neutral event or conceal essential contradictory facts.
 
+## NABU and SAPO anti-corruption updates
+
+- The collector watches [NABU](https://t.me/nab_ukraine) and
+  [SAPO](https://t.me/sap_gov_ua) with a relaxed, source-specific filter.
+  Substantive Ukrainian-language posts are eligible even without an explicit
+  reference to Russia, the war or a standard keyword.
+- The hourly publisher enforces a **combined maximum of 2 NABU/SAPO-source
+  news items per America/Winnipeg calendar news day**, counted from the
+  persistent published hourly index. A story citing both sources counts once.
+  Over-quota items are suppressed without blocking unrelated news.
+- **"NABU reports" and "SAPO reports" are explicitly permitted** in English
+  public copy when reporting on the corresponding agency's statements.
+  Do not claim an investigation or suspicion is a conviction. Original
+  Telegram source links remain internal only.
+- For a consistent quota across hourly workflow jobs, the publishing job
+  refreshes the latest main branch before reading the daily index.
+
 ## Architecture
 
 1. GitHub Actions is scheduled at 09 and 14 minutes past each UTC
    hour on standard ubuntu-latest runners, using the second slot as
    a retry if GitHub drops the first schedule. It collects public
-   Telegram pages from 13 monitored channels (listed in
-   config/sources.json), including Russian-language TASS, RIA Novosti,
+   Telegram pages from 15 monitored channels (listed in
+   config/sources.json), including the Ukrainian-language NABU and SAPO
+   anti-corruption feeds, Russian-language TASS, RIA Novosti,
    Two Majors, WarGonzo, Colonelcassad and Voenkor Kotenok, as well
    as English-language defence and military-commentary sources.
    Russian and English posts are preserved for ChatGPT summarization.
