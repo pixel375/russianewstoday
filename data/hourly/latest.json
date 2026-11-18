@@ -1,198 +1,241 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T06",
-  "generated_at_utc": "2026-11-18T07:27:37.358975+00:00",
-  "window_start_utc": "2026-11-18T06:00:00+00:00",
-  "window_end_utc": "2026-11-18T07:00:00+00:00",
+  "hour_id": "2026-11-18T07",
+  "generated_at_utc": "2026-11-18T08:27:33.824829+00:00",
+  "window_start_utc": "2026-11-18T07:00:00+00:00",
+  "window_end_utc": "2026-11-18T08:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 6
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 10
+      "raw_count": 8
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 2
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 27,
-    "relevant_posts": 8,
-    "deduplicated_posts": 7,
-    "candidate_posts": 7
+    "raw_posts": 26,
+    "relevant_posts": 10,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
   },
   "posts": [
     {
-      "id": "boris_rozhin/233774",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233774",
-      "published_at": "2026-11-18T06:59:01+00:00",
-      "text": "Подборка ударов по ж/д инфраструктуре с помощью БпЛА \"Герань\": 00:01 первый локомотив в г. Днепр; 00:19 второй локомотив в г. Днепр; 00:27 третий локомотив в н.п. Запорожье; 00:43 четвертый локомотив в г. Днепр.",
+      "id": "voenkorKotenok/77910",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77910",
+      "published_at": "2026-11-18T07:36:44+00:00",
+      "text": "Видео горящего газовоза GAS HUSKY. На борту — 3,4 тыс. тонн пропана. Судно, которое относят к украинскому газовому флоту и которое следовало под флагом Либерии, попало под удар четырех дронов примерно в 100 км от берегов Болгарии. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "strike",
-        "zaporizhzhia"
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233773",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233773",
-      "published_at": "2026-11-18T06:47:01+00:00",
-      "text": "В течение прошедшей ночи в период с 20.00 мск 17 ноября до 8.00 мск 18 ноября дежурными силами ПВО перехвачены и уничтожены 184 украинских беспилотных летательных аппарата самолетного типа над территориями Белгородской, Ростовской областей, Краснодарского края, Республики Крым и над акваторией Азовского моря.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198502",
+      "id": "DDGeopolitics/198508",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198502",
-      "published_at": "2026-11-18T06:33:21+00:00",
-      "text": "❗️ Last night, the Armed Forces of the Russian Federation continued delivering strikes by unmanned aerial vehicles against port infrastructure facilities, as well as ships used to support the AFU. As a result of the strike, the following targets were hit: ▪️ in the port of Izmail, port infrastructure facilities used for unloading and storing military cargo intended to support the AFU; ▪️ at sea, a dry cargo ship delivering dual-use cargo for the AFU to the port of Yuzhny. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/mod_russia_en/30660"
-      ],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233771",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233771",
-      "published_at": "2026-11-18T06:15:03+00:00",
-      "text": "Противник ожидает в ближайшие пару дней комбинированный ракетно-беспилотный удар по мостам через Днепр в Киеве. Но тут не надо быть гением предвидения, чтобы ожидать продолжения российской компании ударов по инфраструктуре, в том числе и по мостам. Особенно напрашиваются удары по Северному мосту, который уже получил существенные повреждения и там есть все основания полагать, что накапливающиеся после ударов повреждения вызовут накопительный эффект.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406280",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406280",
-      "published_at": "2026-11-18T06:09:01+00:00",
-      "text": "🚨 Силы ПВО РФ за ночь уничтожили 184 беспилотника над регионами России, сообщает МО.",
+      "url": "https://t.me/DDGeopolitics/198508",
+      "published_at": "2026-11-18T07:36:35+00:00",
+      "text": "🇷🇺 🏒 🇨🇿 The Czech Foreign Minister demanded that the EU prevent Russian female athletes from participating in the Junior World Hockey Championship in Ostrava. “It is unacceptable for the Russian anthem to be played here during a conflict in Europe,” Petr Macinka stated during a visit to Israel. He confirmed the Czech Republic’s refusal to issue visas to the athletes and called on EU countries to follow this example. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "AussieCossack/53364",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53364",
-      "published_at": "2026-11-18T06:07:23+00:00",
-      "text": "❗️ President Putin and Xi Jinping had a working breakfast after the negotiations. @AussieCossack",
+      "id": "DDGeopolitics/198506",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198506",
+      "published_at": "2026-11-18T07:34:13+00:00",
+      "text": "🇺🇦 Bussification in Ukraine has practically disappeared, and conflicts with the Territorial Recruitment Centers have subsided , — member of the Defense Committee Venislavsky According to him, men aged 50–60 are being mobilized less frequently than before, but they are not fully exempted from conscription. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "negotiation"
+        "mobilization"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98232",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98232",
-      "published_at": "2026-11-18T06:02:36+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — People are stuck in traffic jams in Kiev due to attacks by the Russian Armed Forces on bridges across the Dnipro River, while they are laughing about Crimea. @Intelslava",
+      "id": "MFARussia/33422",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33422",
+      "published_at": "2026-11-18T07:30:54+00:00",
+      "text": "🎙 Remarks by President of Russia Vladimir Putin at the APEC CEO Summit (Shenzhen, November 18, 2026) Ahead of the Session, the Russian President spoke briefly with Prime Minister of Malaysia Anwar Ibrahim. 💬 Vladimir Putin: The Asia-Pacific region has become the centre of the global economy and the world’s leading industrial and technological hub. It is home to major consumer markets , leading global companies and a dvanced centres of research and education . #APEC economies account for: • over 60% of global GDP; • 36% of the world’s population; • 50% of global trade in goods; • 35% of global trade in services; • over 60% of global foreign direct investment. The Asia-Pacific offers a clear example of how a fairer, more democratic world order based on equality is taking shape , as the old centralised hierarchy gives way to an extensive network of horizontal ties. *** ☝️ Experience has shown that the old instruments of economic domination and coercion have run their course and lost much of their power to intimidate. Yes, sanctions, tariffs and export restrictions can still slow growth, but they can no longer bring it to a halt , let alone crush a competitor’s economy. The failed attempts to isolate our own country, Russia, are a case in point . We have faced unprecedented sanctions pressure, with more punitive measures imposed on us than on any other country in the world. Yet thanks to our geographical position, the character of our peoples and the role we play in the global economy and in world affairs, we have come through all these trials with dignity . Let me stress that when economies are so closely linked, artificial barriers at any point in a value chain raise costs throughout the rest of the chain . This is precisely what we see in countries that actively impose sanctions on Russia or anyone else. 📉 The EU , for example, has been unable to adapt to the consequences of its own measures , including its decisions to give up access to our market and cut off the reliable supply of affordable Russian energy that underpinned its prosperity for decades. I ts industrial capacity is shrinking and it is losing ground to its competitors. Budget deficits have become a pressing concern, debt burdens are growing and inflation is rising. All this weighs heavily on European businesses and citizens . Living standards in Europe continue to fall – a humiliation for the eurozone . *** For Russia, the Asia-Pacific is a key region for trade and economic cooperation. In 2014, the region accounted for over a quarter of our foreign trade, and we set ourselves the long-term target of raising that share to 40%. Today, it already accounts for over half of Russia’s trade with the world – 53%. We propose that APEC step up its efforts to strengthen logistics links and transport networks to keep pace with the profound changes in the global economy and the substantial growth in the region’s export potential. Russia can offer a wide range of transit routes by land and sea. APEC offers ample scope for constructive dialogue at all levels , above all among the leaders of major economies. They can sit down together to exchange views , resolve differences between their countries on political, economic and security issues by seeking compromise and balancing interests, and work together to strengthen the foundations for sustainable development worldwide. 🇷🇺 🇨🇳 🇺🇸 That is why I see great potential in the upcoming trilateral meeting of the Leaders of Russia, China and the US , scheduled to take place on the sidelines of the APEC Summit. Read in full",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77909",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77909",
+      "published_at": "2026-11-18T07:28:15+00:00",
+      "text": "Этой ночью дежурные средства ПВО сбили 184 украинских БпЛА самолетного типа. Дроны перехвачены над Белгородской и Ростовской областями, а также над Краснодарским краем, Республикой Крым и акваторией Азовского моря. И численно, и географически это значительно меньшая интенсивность атак, чем в предыдущие дни, и в большинстве случаев это наблюдается перед новым массированным налетом, в т.ч. на столичный регион. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "crimea",
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198505",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198505",
+      "published_at": "2026-11-18T07:27:26+00:00",
+      "text": "🇺🇦 Lights out in several districts of Kiev after the strikes 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
         "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38467",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38467",
+      "published_at": "2026-11-18T07:25:57+00:00",
+      "text": "Восемь пострадавших и три пожара: последствия атаки ВСУ на Краснодарский край Минувшей ночью Краснодарский край и Республика Адыгея подверглись атаке противника. По сообщениям оперштаба, враг нанёс удары по жилым районам, в результате чего пострадали восемь человек. В Краснодарском крае обломки БПЛА упали на территории двух предприятий, вызвав возгорание. В поселке Энем (Республика Адыгея) дрон ВСУ ударил по пятиэтажке. Глава Мурат Кумпилов сообщил, что пострадали четыре человека. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102186",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102186",
+      "published_at": "2026-11-18T07:15:10+00:00",
+      "text": "После статьи Bild, теперь уже Bloomberg пишет, что Россия предлагает НАТО отказаться от размещения войск во всех странах, вступивших в альянс после 1997 года. В обмен Москва готова сократить свое военное присутствие в Калининградской области (???) и Беларуси. По данным агентства, американские представители обсуждают с Россией и Украиной новые правила для НАТО, размещение вооружений и войск в Европе в рамках соглашения о завершении войны. При этом США уже спрашивали Киев, готов ли он уступить России Донбасс в обмен на членство Украины в НАТО. При этом агентство пишет, что на саммите ЕС 13 ноября европейские лидеры отвергли возможность отвода войск НАТО из Восточной Европы. Некоторые лидеры Европы предложили вновь обсудить перспективы вступления Украины в НАТО. Несколько участников саммита также признали, что в будущем возможны изменения границ, если на это согласится Киев. БС в TG ✊ | БС в МАХ 🤫",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35834",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35834",
+      "published_at": "2026-11-18T07:14:33+00:00",
+      "text": "📝 A Ball with Instructions 📝 What The Economist \"predicted\" for 2027 What will globalists do next year? The Economist magazine answers in its annual cover puzzle The World Ahead 2027. It's customary to read it as a \"prophecy,\" but it's more accurate to consider it an agenda. 🔻 What's on the cover ▪️ An illustration in the form of a sphere in red, black and white colors was drawn by artist Cleon Peterson. It depicts world leaders, missiles and satellites, AI symbols, a falling stock market chart, money, the Spasskaya Tower, the Arc de Triomphe, tanks and tents with people. ▪️ The editorial board named ten major themes of the year. Among them are \"the post-Trump era,\" consequences of war with Iran, another temperature record, discontent with AI, right-wing populists in Europe, pressure on the bond market, threats to Taiwan, the \"Ozempic effect,\" cheap space launches and a Hollywood reboot. 🖍 The magazine, read by boards of directors, ministries and investment funds, shows the Western elite in advance what to think about and what to bet on in the near future. 🔻 Where the money will flow If you read the issue as an instruction for financial institutions, the bets are laid out quite clearly: ▪️ Debt . \"Something somewhere has to break\" — that's how the editorial board writes about wealthy countries living beyond their means. France is singled out separately: Le Pen's victory, in their assessment, will \"frighten the bond markets.\" In fact, this is a signal to shift out of French government debt. ▪️ AI . The magazine warns of a crash risk: AI companies are accumulating debt through \"complex and opaque deals.\" At the same time, the editorial board calls fears about job losses exaggerated. In other words, AI itself is not the enemy; the bubble around it is dangerous. ▪️ New directions : renewable energy (Trump, according to the magazine, \"inadvertently became its best salesman\"), longevity pharmaceuticals riding the \"Ozempic\" wave, and commercial space with Starship and data centers in orbit. ▪️ Raw materials : fertilizer shortages and threats to food security after the Iran war. 🚩 A separate story — Russia . It's not among the ten themes, but it is on the cover: the Spasskaya Tower, a damaged pipe, a tanker in chains on the Red Sea and a red rider next to the Kremlin (a metaphor for Putin). Russia in this picture is a force that sits in the saddle and influences energy, routes and the balance in Europe. It's no coincidence that a severed pipeline and a shackled tanker are depicted nearby: the world's energy map has been redrawn, and this is factored into any calculations.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102185",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102185",
+      "published_at": "2026-11-18T07:00:31+00:00",
+      "text": "✨ Сбор на Херсонское направление ✨ 449 человек участвовали в сборе за сутки Операторы ударных БПЛА обратились с просьбой помочь в приобретении транспорта, а также технического оборудования, необходимого для выполнения боевых задач на данном участке фронта. ▪️ Автомобиль - 600 000 ₽ ▪️ Оборуд. БПЛА - 300 000 ₽ Необходимо: 900 000 ₽ Собрано за сутки: 231 838 ₽ Осталось собрать: 668 162 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
         "strike"
       ],
       "possible_duplicate_urls": []
