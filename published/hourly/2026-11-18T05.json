@@ -1,0 +1,27 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    56
+  ],
+  "published_at_utc": "2026-11-18T06:27:03.012637+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T05",
+  "items": [
+    {
+      "item_id": "2026-11-18T05:1",
+      "title": "Russian drones reportedly strike Izmail port facilities and cargo vessel",
+      "summary": "Russian forces reportedly carried out overnight drone strikes on port infrastructure at Izmail used to unload and store military supplies. The same account alleges a dry-cargo vessel carrying dual-use goods toward the port of Pivdennyi was also hit at sea; details of the damage were not provided.",
+      "post_url": "https://t.me/russianewstodayofficial/56",
+      "category": "other",
+      "hour_id": "2026-11-18T05"
+    },
+    {
+      "item_id": "2026-11-18T05:2",
+      "title": "Russia claims capture of Zalivne amid fighting in Zaporizhzhia",
+      "summary": "Russia's Defence Ministry reportedly announced the capture of Zalivne on the Tersyanka–Voskresenka sector of the Zaporizhzhia front. Fighting was also reported near Orikhiv and Novodanylivka, with Russian forces said to be expanding their positions west of Orikhiv.",
+      "post_url": "https://t.me/russianewstodayofficial/56",
+      "category": "other",
+      "hour_id": "2026-11-18T05"
+    }
+  ]
+}
