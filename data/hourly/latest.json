@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T05",
-  "generated_at_utc": "2026-11-18T06:23:32.441624+00:00",
-  "window_start_utc": "2026-11-18T05:00:00+00:00",
-  "window_end_utc": "2026-11-18T06:00:00+00:00",
+  "hour_id": "2026-11-18T06",
+  "generated_at_utc": "2026-11-18T07:27:37.358975+00:00",
+  "window_start_utc": "2026-11-18T06:00:00+00:00",
+  "window_end_utc": "2026-11-18T07:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,7 +15,7 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
@@ -39,13 +39,13 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 10
     },
     {
       "handle": "rian_ru",
@@ -63,121 +63,137 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 4
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 5
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 14,
-    "relevant_posts": 7,
-    "deduplicated_posts": 6,
-    "candidate_posts": 6
+    "raw_posts": 27,
+    "relevant_posts": 8,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
   },
   "posts": [
     {
-      "id": "tass_agency/406277",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406277",
-      "published_at": "2026-11-18T05:44:47+00:00",
-      "text": "❗️ Путин и Си Цзиньпин продолжают российско-китайские переговоры в формате рабочего завтрака, передает корреспондент ТАСС. Видео: Kremlin. ru #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/tass_agency/406276"
-      ],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406275",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406275",
-      "published_at": "2026-11-18T05:35:45+00:00",
-      "text": "▶️ Путин назвал Си Цзиньпина другом и отметил, что искренне рад встрече с ним. Об этом он заявил, начиная российско-китайские переговоры на полях саммита АТЭС. Видео: Раптли/ТАСС #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233768",
+      "id": "boris_rozhin/233774",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233768",
-      "published_at": "2026-11-18T05:35:01+00:00",
-      "text": "Сегодня ночью Вооруженными Силами Российской Федерации продолжено нанесение ударов беспилотными летательными аппаратами по объектам портовой инфраструктуры, а также морским судам, задействованным в интересах обеспечения ВСУ. В результате удара поражены : - в порту Измаил объекты инфраструктуры , используемой для разгрузки и хранения военных грузов, предназначенных для обеспечения ВСУ; - морское судно типа «сухогруз» на переходе морем, доставлявшее в порт Южный грузы двойного назначения для ВСУ.",
+      "url": "https://t.me/boris_rozhin/233774",
+      "published_at": "2026-11-18T06:59:01+00:00",
+      "text": "Подборка ударов по ж/д инфраструктуре с помощью БпЛА \"Герань\": 00:01 первый локомотив в г. Днепр; 00:19 второй локомотив в г. Днепр; 00:27 третий локомотив в н.п. Запорожье; 00:43 четвертый локомотив в г. Днепр.",
       "text_truncated": false,
       "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233773",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233773",
+      "published_at": "2026-11-18T06:47:01+00:00",
+      "text": "В течение прошедшей ночи в период с 20.00 мск 17 ноября до 8.00 мск 18 ноября дежурными силами ПВО перехвачены и уничтожены 184 украинских беспилотных летательных аппарата самолетного типа над территориями Белгородской, Ростовской областей, Краснодарского края, Республики Крым и над акваторией Азовского моря.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198502",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198502",
+      "published_at": "2026-11-18T06:33:21+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation continued delivering strikes by unmanned aerial vehicles against port infrastructure facilities, as well as ships used to support the AFU. As a result of the strike, the following targets were hit: ▪️ in the port of Izmail, port infrastructure facilities used for unloading and storing military cargo intended to support the AFU; ▪️ at sea, a dry cargo ship delivering dual-use cargo for the AFU to the port of Yuzhny. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/mod_russia_en/30660"
+      ],
       "event_signals": [
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "wargonzo/38459",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38459",
-      "published_at": "2026-11-18T05:08:01+00:00",
-      "text": "⚡️ Фронтовая сводка на утро 18.11.26 ⚡️ Запорожский фронт Продолжаются бои в районе Каменского, Плавней, а также на рубеже Степногорск – Лукьяновское. В районе Орехова ВС РФ расширяют зону контроля на западном охвате города, идут бои в районе Новоданиловки. (Рис. 1.1) На Гуляйпольском направлении МО РФ сообщило об освобождении населённого пункта Заливное, расположенного на участке Терсянка – Воскресенка. (Рис. 1.2) Донецкий фронт На Добропольском направлении продолжаются сражения за Серегеевку. ВС РФ продвигаются в районе Белозёрского. (Рис. 2.1) На Константиновском направлении идут бои в районе Николайполья. Есть продвижение на участке между Майским и Николаевкой. На Краснолиманском направлении сообщается о столкновениях вблизи Заречного. На Северском направлении продолжаются сражения на участке Диброва – Озёрное – Ямполь, а также западнее Рай-Александровки. (Рис. 2.2) Харьковский фронт На Купянском направлении об изменениях в ЛБС не сообщается. (Рис. 3.1) На Волчанском направлении ВС РФ продвигаются к Бугаевке. Продолжаются сражения в Казачьей Лопани, а также в районе Высокой Яруги. (Рис. 3.2; Рис. 3.3) Сумской фронт Идут бои на рубеже Хотень – Груновка. В Шосткинском районе ВС РФ продвигаются в районе Коренька. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kharkiv",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233767",
+      "id": "boris_rozhin/233771",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233767",
-      "published_at": "2026-11-18T05:05:16+00:00",
-      "text": "Будет ли гуманитарная акция в Константиновке? Репортаж Военкора Кулько Киев продолжает утверждать, что в городе, в отличие от Алешек, якобы некого спасать. Причина такого цинизма очевидна: в Алешках линия фронта с 2022 года идёт по Днепру, и карты там не подрисуешь. А вот потерю Константиновки Зеленский не признаёт до сих пор. Мы были свидетелями, как ещё полгода назад, после разгрома гарнизона ВСУ, украинское командование бросило остатки подразделений - лишь бы заявлять, что их люди всё ещё находятся в городе, даже если речь о единичных забытых бойцах. Позже туда в один конец отправили ещё несколько батальонов ради «флаговтыков», но медийная кампания провалилась. Наш контроль над городом подтверждён - ещё летом 4-я бригада (ныне 84-я дивизия) подняла десятки триколоров во всех районах Константиновки. Американцам предложено впервые убедиться в этом на земле.",
+      "url": "https://t.me/boris_rozhin/233771",
+      "published_at": "2026-11-18T06:15:03+00:00",
+      "text": "Противник ожидает в ближайшие пару дней комбинированный ракетно-беспилотный удар по мостам через Днепр в Киеве. Но тут не надо быть гением предвидения, чтобы ожидать продолжения российской компании ударов по инфраструктуре, в том числе и по мостам. Особенно напрашиваются удары по Северному мосту, который уже получил существенные повреждения и там есть все основания полагать, что накапливающиеся после ударов повреждения вызовут накопительный эффект.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv"
+        "kyiv",
+        "missile",
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/406273",
+      "id": "tass_agency/406280",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/406273",
-      "published_at": "2026-11-18T05:02:37+00:00",
-      "text": "Главные новости к этому часу: ▪️ Путин и Си Цзиньпин начали российско-китайские переговоры. ▪️ Путин поделился ожиданиями от встречи с Си Цзиньпином и Трампом. ▪️ Дмитриев сообщил о реализации 60 проектов РФПИ при участии партнером из АТЭС. ▪️ В Кузбассе при крушении Ан-12 погибли 19 человек. ▪️ Хуанг согласился дать показания в Сенате Конгресса США, сообщила газета Politico. ▪️ Агентство нацбезопасности США подтвердило данные о сбое в его сети. ▪️ Bloomberg назвало причину сбоев в работе сервисов Apple. ▪️ Спикером Кнессета стал оппозиционный политик Матан Кахана. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "url": "https://t.me/tass_agency/406280",
+      "published_at": "2026-11-18T06:09:01+00:00",
+      "text": "🚨 Силы ПВО РФ за ночь уничтожили 184 беспилотника над регионами России, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53364",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53364",
+      "published_at": "2026-11-18T06:07:23+00:00",
+      "text": "❗️ President Putin and Xi Jinping had a working breakfast after the negotiations. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98232",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98232",
+      "published_at": "2026-11-18T06:02:36+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — People are stuck in traffic jams in Kiev due to attacks by the Russian Armed Forces on bridges across the Dnipro River, while they are laughing about Crimea. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "strike"
       ],
       "possible_duplicate_urls": []
     }

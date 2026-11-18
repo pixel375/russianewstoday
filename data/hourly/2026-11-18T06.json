@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T06",
+  "generated_at_utc": "2026-11-18T07:27:37.358975+00:00",
+  "window_start_utc": "2026-11-18T06:00:00+00:00",
+  "window_end_utc": "2026-11-18T07:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 10
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 27,
+    "relevant_posts": 8,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
+  },
+  "posts": [
+    {
+      "id": "boris_rozhin/233774",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233774",
+      "published_at": "2026-11-18T06:59:01+00:00",
+      "text": "Подборка ударов по ж/д инфраструктуре с помощью БпЛА \"Герань\": 00:01 первый локомотив в г. Днепр; 00:19 второй локомотив в г. Днепр; 00:27 третий локомотив в н.п. Запорожье; 00:43 четвертый локомотив в г. Днепр.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233773",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233773",
+      "published_at": "2026-11-18T06:47:01+00:00",
+      "text": "В течение прошедшей ночи в период с 20.00 мск 17 ноября до 8.00 мск 18 ноября дежурными силами ПВО перехвачены и уничтожены 184 украинских беспилотных летательных аппарата самолетного типа над территориями Белгородской, Ростовской областей, Краснодарского края, Республики Крым и над акваторией Азовского моря.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198502",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198502",
+      "published_at": "2026-11-18T06:33:21+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation continued delivering strikes by unmanned aerial vehicles against port infrastructure facilities, as well as ships used to support the AFU. As a result of the strike, the following targets were hit: ▪️ in the port of Izmail, port infrastructure facilities used for unloading and storing military cargo intended to support the AFU; ▪️ at sea, a dry cargo ship delivering dual-use cargo for the AFU to the port of Yuzhny. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/mod_russia_en/30660"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233771",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233771",
+      "published_at": "2026-11-18T06:15:03+00:00",
+      "text": "Противник ожидает в ближайшие пару дней комбинированный ракетно-беспилотный удар по мостам через Днепр в Киеве. Но тут не надо быть гением предвидения, чтобы ожидать продолжения российской компании ударов по инфраструктуре, в том числе и по мостам. Особенно напрашиваются удары по Северному мосту, который уже получил существенные повреждения и там есть все основания полагать, что накапливающиеся после ударов повреждения вызовут накопительный эффект.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406280",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406280",
+      "published_at": "2026-11-18T06:09:01+00:00",
+      "text": "🚨 Силы ПВО РФ за ночь уничтожили 184 беспилотника над регионами России, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53364",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53364",
+      "published_at": "2026-11-18T06:07:23+00:00",
+      "text": "❗️ President Putin and Xi Jinping had a working breakfast after the negotiations. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98232",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98232",
+      "published_at": "2026-11-18T06:02:36+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — People are stuck in traffic jams in Kiev due to attacks by the Russian Armed Forces on bridges across the Dnipro River, while they are laughing about Crimea. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
