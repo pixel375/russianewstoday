@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    75
+  ],
+  "published_at_utc": "2026-11-18T23:27:58.407449+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T22",
+  "items": [
+    {
+      "item_id": "2026-11-18T22:1",
+      "title": "Crimean Bridge rail traffic suspended after reported Ukrainian attack",
+      "summary": "Crimean leader Sergey Aksyonov said Ukrainian forces attacked the Crimean Bridge for a third time this week, prompting authorities to suspend rail traffic while assessing damage. The extent of damage and the duration of the suspension were not specified.",
+      "post_url": "https://t.me/russianewstodayofficial/75",
+      "category": "other",
+      "hour_id": "2026-11-18T22",
+      "source_handles": [
+        "intelslava",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T22:2",
+      "title": "Pentagon official reportedly leaves meeting before Ukrainian defence briefing",
+      "summary": "The Telegraph reportedly said US Under Secretary of Defense Elbridge Colby left a meeting with European allies before Ukrainian Defence Minister Khmara could deliver a classified battlefield briefing. The account says Colby had criticized Ukrainian strikes deep inside Russian territory.",
+      "post_url": "https://t.me/russianewstodayofficial/75",
+      "category": "other",
+      "hour_id": "2026-11-18T22",
+      "source_handles": [
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T22:3",
+      "title": "Finnish ICEYE unveils higher-resolution Gen5 radar satellite platform",
+      "summary": "ICEYE's new Gen5 synthetic-aperture radar platform reportedly offers imagery resolution as fine as 11 centimetres and improved imaging capacity, including in darkness and cloud cover. A Russian military analysis says ICEYE imagery is already used to support Ukrainian reconnaissance and strike assessments, making the upgrade relevant to battlefield intelligence.",
+      "post_url": "https://t.me/russianewstodayofficial/75",
+      "category": "other",
+      "hour_id": "2026-11-18T22",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
