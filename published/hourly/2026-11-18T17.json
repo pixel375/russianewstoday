@@ -1,0 +1,56 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    68
+  ],
+  "published_at_utc": "2026-11-18T18:23:38.095463+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T17",
+  "items": [
+    {
+      "item_id": "2026-11-18T17:1",
+      "title": "IAEA chief says agency cannot assign blame for attacks on Zaporizhzhia nuclear plant",
+      "summary": "IAEA Director General Rafael Grossi said the agency cannot identify who is responsible for attacks on the Zaporizhzhia nuclear power plant without independently verifiable evidence. Russia's Foreign Ministry has accused the agency of avoiding attributing responsibility to Ukraine.",
+      "post_url": "https://t.me/russianewstodayofficial/68",
+      "category": "other",
+      "hour_id": "2026-11-18T17",
+      "source_handles": [
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T17:2",
+      "title": "Polish report alleges foiled false-flag operation near Kaliningrad",
+      "summary": "Polish media reportedly alleged that intelligence services thwarted a plan to stage an incident near the Kaliningrad border using people posing as Ukrainian saboteurs, with the aim of blaming Ukraine and pressuring Poland over its support. The account offered no details of arrests or how the alleged operation was prevented.",
+      "post_url": "https://t.me/russianewstodayofficial/68",
+      "category": "other",
+      "hour_id": "2026-11-18T17",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T17:3",
+      "title": "Russia says air defences downed 51 Ukrainian drones over Krasnodar and Sea of Azov",
+      "summary": "Russia's Defence Ministry said its air defences intercepted 51 Ukrainian drones during the day over Krasnodar Krai and the Sea of Azov. The announcement did not specify damage or casualties.",
+      "post_url": "https://t.me/russianewstodayofficial/68",
+      "category": "other",
+      "hour_id": "2026-11-18T17",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T17:4",
+      "title": "Russian Defence Ministry reports drone strikes on vehicles in Sumy region",
+      "summary": "Russia's Defence Ministry said drone operators from its 56th Guards Air Assault Regiment struck Ukrainian vehicles and crews in Sumy region. The brief statement did not specify locations, losses or damage assessments.",
+      "post_url": "https://t.me/russianewstodayofficial/68",
+      "category": "other",
+      "hour_id": "2026-11-18T17",
+      "source_handles": [
+        "mod_russia_en"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
