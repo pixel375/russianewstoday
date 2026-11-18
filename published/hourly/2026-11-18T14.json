@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    65
+  ],
+  "published_at_utc": "2026-11-18T15:29:30.217925+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-18T14",
+  "items": [
+    {
+      "item_id": "2026-11-18T14:1",
+      "title": "SAPO reports five suspects in alleged draft-evasion smuggling scheme",
+      "summary": "SAPO and NABU say they notified five people of suspicion, including two serving Ukrainian border guards and a former official, over an alleged scheme to move draft-age men into Europe through Transnistria. Investigators say customers paid $5,000 each, including $1,500 allegedly passed to border guards; the agencies say an earlier investigation was closed before the case was reopened.",
+      "post_url": "https://t.me/russianewstodayofficial/65",
+      "category": "other",
+      "hour_id": "2026-11-18T14",
+      "source_handles": [
+        "nab_ukraine",
+        "sap_gov_ua"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T14:2",
+      "title": "Russian airstrikes reportedly target Ukrainian positions in Sumy and Kharkiv",
+      "summary": "Footage circulated of reported Russian airstrikes using four OFAB-250-270 bombs against a Ukrainian territorial-defence deployment site near Korenek in Sumy region and a FAB-3000 bomb against a crossing near Oskil in Kharkiv region. The extent of damage was not specified.",
+      "post_url": "https://t.me/russianewstodayofficial/65",
+      "category": "other",
+      "hour_id": "2026-11-18T14",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-18T14:3",
+      "title": "Russian Defence Ministry describes ground-robot operations in Dnipropetrovsk sector",
+      "summary": "Russia's Defence Ministry said remotely operated ground vehicles from its 39th Guards Engineering Regiment are transporting supplies and clearing routes in the Dnipropetrovsk direction. The ministry said the vehicles can traverse rough terrain and assist with minefield clearance.",
+      "post_url": "https://t.me/russianewstodayofficial/65",
+      "category": "other",
+      "hour_id": "2026-11-18T14",
+      "source_handles": [
+        "mod_russia_en"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
