@@ -1,0 +1,283 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T10",
+  "generated_at_utc": "2026-11-18T11:29:31.060481+00:00",
+  "window_start_utc": "2026-11-18T10:00:00+00:00",
+  "window_end_utc": "2026-11-18T11:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 2,
+      "raw_count": 13
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 2,
+      "raw_count": 19
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 51,
+    "relevant_posts": 13,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
+  },
+  "posts": [
+    {
+      "id": "tass_agency/406348",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406348",
+      "published_at": "2026-11-18T10:58:01+00:00",
+      "text": "ЕК не рискнет включать в 22-й пакет санкций запрет на морские перевозки российской нефти , опасаясь, что он вновь будет заблокирован странами ЕС, сообщает агентство Bloomberg. Такая ситуация случилась с 21-м пакетом, который Еврокомиссии пришлось сократить вдвое, изъяв из него нефтяной запрет, так же как все предложения по ограничениям на импорт российской рыбы. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30664",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30664",
+      "published_at": "2026-11-18T10:47:27+00:00",
+      "text": "🎖 🎖 by Russian Defence Ministry on progress of special military operation as of 18 November 2026 Part 2 ( 👉 see Part 1 ) ↗️ The Vostok Group of Forces continue to advance into the depths of the enemy's defence. Manpower and hardware of one mechanised brigade, two air assault brigades of the AFU, and two marine brigades have been hit close to Gavrilovka, Kirichkovo (Dnepropetrovsk region), Zheltaya Krucha, Novoivanovka, Novorozovka, and Odarovka (Zaporozhye region). ▪️ The AFU losses amounted to up to 200 troops, seven armoured fighting vehicles, one self-propelled artillery system, and nine motor vehicles. 📍 The Dnepr Group's units improved the situation along the front line. They inflicted losses on units of one mountain assault brigade of the AFU and one territorial defence brigade close to Dimitrovo, Zapasnoye, and Natalovka (Zaporozhye region). ▪️ Up to 20 servicemen, one armoured fighting vehicle, and 16 motor vehicles were neutralised. ✈️ Operational-tactical aviation, attack drones, missile troops, and artillery of the Russian Groups of Forces inflicted damage on power and transport infrastructure used in the interests of the AFU, production and storage areas of unmanned aerial vehicles and ground robotic systems, military airfields, temporary deployment areas of Ukrainian armed formations and foreign mercenaries in 143 areas. ▫️ Air defence systems shot down 310 fixed-wing unmanned aerial vehicles. 📊 In total, since the beginning of the special military operation, the enemy has lost: ▫️ 674 aircraft, ▫️ 284 helicopters, ▫️ 293,131 unmanned aerial vehicles, ▫️ 672 anti-aircraft missile systems, ▫️ 31,689 tanks and other armoured fighting vehicles, ▫️ 1,797 MLRS combat vehicles, ▫️ 36,954 field artillery guns and mortars, ▫️ 77,531 support military vehicles. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30663",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30663",
+      "published_at": "2026-11-18T10:47:27+00:00",
+      "text": "The Armed Forces of the Russian Federation continue the special military operation. 📍 The units of the Sever Group of Forces improved the tactical situation. In Kharkov region, strikes were delivered at manpower and hardware of four mechanised brigades and one assault regiment of the AFU close to Golubovka, Lebedevka, Muravskoye, Ploskoye, Podsredneye and Chuguyev (Kharkov region). 💥 In Sumy region, the Group's units inflicted losses on formations of two mechanised brigades, one airmobile brigade of the AFU, and three territorial defence brigades near Bititsa, Konotop, Korenek, Putivl, Tokari, Ulyanovka, and Yastrebinoye of Sumy region. ▪️ The enemy lost up to 225 troops, one self-propelled artillery system, 11 motor vehicles, and six counter-battery and electronic warfare stations. 📍 The Zapad Group of Forces improved the situation along the front line. Russian troops engaged manpower and hardware of three mechanised brigades of the AFU, one territorial defence brigade near Monachinovka, Peski-Radkovskiye, Proletarskoye (Kharkov region), and Raygorodok (Donetsk People's Republic). ▪️ The AFU losses amounted to more than 220 troops, three armoured fighting vehicles, four field artillery guns, including two self-propelled artillery systems, and 19 motor vehicles. 📍 The Yuzhnaya Group of Forces took more advantageous lines and positions. Russian troops hit three mechanised brigades, one airmobile brigade, one assault brigade of the AFU, one marine brigade, and one national guard brigade have been hit near Druzhkovka, Kramatorsk, Nikolayevka, Toretskoye, and Cherevkovka (Donetsk People's Republic). ▪️ The AFU losses amounted to up to 155 troops, one armoured fighting vehicle, three artillery guns, and 26 motor vehicles. ↗️ Units of the Tsentr Group of Forces continue to carry out intensive offensive operations. Strikes were delivered at manpower and hardware of two mechanised assault brigades, one assault regiment, one assault regiment of the AFU, one marine brigade, and three national guard brigades close to Zavido-Borzenka, Novoviktorovka, Novoiverskoye, Ocheretino (Donetsk People's Republic), Zoryanoye, and Fedorovskoye (Dnepropetrovsk region). ▪️ The AFU losses amounted to more than 345 troops, six armoured fighting vehicles, ten motor vehicles, six electronic warfare and electronic reconnaissance stations. 👉 See Part 2 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233794",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233794",
+      "published_at": "2026-11-18T10:47:01+00:00",
+      "text": "Внезапно признали : склады на Украине используются в (!) военных нуждах. Это подтвердил украинский замминистра финансов Александр Кава Вовану и Лексусу , думая, что общается с европейским бизнесменом. Ему также известно, что Россия никогда не использовала свои логистические центры в тех же целях — они расположены на расстоянии 500 и более км от фронта, так что это было бы бессмысленно. Задачей ударов по складам в РФ было исключительно нанесение урона гражданской инфраструктуре.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406345",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406345",
+      "published_at": "2026-11-18T10:46:29+00:00",
+      "text": "▶️ Российская делегация во главе с Путиным выехала на торжественный прием от имени Си Цзиньпина в честь лидеров экономик саммита АТЭС. Видео: ТАСС #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198522",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198522",
+      "published_at": "2026-11-18T10:38:14+00:00",
+      "text": "🇪🇺 🇺🇦 Reich Gauleitierin Ursula von der Leyen has proposed a new €45 billion package to fund Kiev in 2027. She says it would cover two-thirds of Ukraine's needs that year, and she expects the remaining €25 billion to come \"from partners\". Ukraine's needs for 2026 are already \"covered\", according to her. EU leaders will discuss the plan at an emergency summit on November 26–27. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198521",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198521",
+      "published_at": "2026-11-18T10:37:14+00:00",
+      "text": "🇷🇺 🇨🇳 🗣 Putin and Xi discuss Ukraine peace efforts at APEC Russian President Vladimir Putin brought up his Nov. 12 meeting in Moscow with US envoys Steve Witkoff and Jared Kushner during Wednesday’s talks with Chinese President Xi Jinping in Shenzhen, Kremlin spokesman Dmitry Peskov. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35843",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35843",
+      "published_at": "2026-11-18T10:32:59+00:00",
+      "text": "📝 Swedish-British contract 📝 to arm so-called Ukraine While individual EU countries express doubts about the possibility of continuing to finance so-called Ukraine , on the northern flank, as usual, they remain determined to continue arming the Kyiv regime. After all, they can make money from this. Yesterday in Sweden they announced an additional contribution of approximately $71 million to multilateral funds for military support to Ukrainian authorities. Priorities include air defense and \"long-range strike capabilities.\" Approximately $21 million from the package goes to the PURL initiative , through which allies finance American weapons for so-called Ukraine, designated as a priority. Sweden's contribution to this initiative has already reached approximately $572 million. A separate budget item is allocated to the Czech initiative to purchase ammunition for so-called Ukraine. A separate decision was an agreement between representatives of Sweden, so-called Ukraine, and the United Kingdom on supplies of ammunition, equipment, and spare parts for Swedish JAS 39 Gripen fighter jets . Earlier, the Swedes announced the transfer of 16 Gripen C/D as military aid and Ukraine's intention to purchase 20 Gripen E variants, which, however, will only appear in 2030. Meanwhile, British companies produce more than 30% of the components for each Gripen ❗️ The Swedes and British continue to invest in the military potential of so-called Ukraine, while not forgetting about their own profit. In Stockholm, contracts go to Saab , while the British receive orders for Gripen components. So the Swedish-British partnership is loading its defense industry with the Ukrainian market for years to come . And an end to the military conflict is not the most profitable outcome for them. #UnitedKingdom #Ukraine #Sweden ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102192",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102192",
+      "published_at": "2026-11-18T10:31:43+00:00",
+      "text": "🇩🇪 Глава МИД Германии Йоханн Вадефуль о предложении России создать новую архитектуру безопасности в Европе: «У нас нет потребности в формировании какого-то нового европейского порядка в сфере безопасности . Нам необходимо лишь соблюдение правил и принципов, которые были согласованы уже давно». 🇩🇪 Фрицы, как и другие враги 🇷🇺 России, прежде всего из числа европейских государств, не заинтересованы в заключении мира и реально хотят только стратегического поражения нашей страны , чтобы заполучить остатки экономических ресурсов. А получали бы зажравшиеся европейцы ежедневные прилёты по инфраструктуре и лично по тупым башкам таких провокаторов войны , как Вадефуль, были бы гораздо более вменяемые . Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406334",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406334",
+      "published_at": "2026-11-18T10:18:58+00:00",
+      "text": "Около 75% личного состава ВСУ сегодня составляют насильственно мобилизованные граждане. Об этом на пресс-конференции в ТАСС заявил посол по особым поручениям МИД Родион Мирошник. На Украине, по его словам, \"действует система издевательств, пыток и запугивания, в том числе в механизме насильственной мобилизации\". ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198518",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198518",
+      "published_at": "2026-11-18T10:16:23+00:00",
+      "text": "🇺🇸 🇷🇺 US Air Force test-fires unarmed Minuteman III ICBM The missile lifted off from Vandenberg Space Force Base in California at 11:01 p.m. Pacific time on Tuesday, Nov. 17. Air Force Global Strike Command said it had scheduled the test, dubbed Glory Trip 257, years in advance. This comes as Trump is meeting world leaders in China including a trilateral meeting with Putin's and Xi. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198517",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198517",
+      "published_at": "2026-11-18T10:13:22+00:00",
+      "text": "🇺🇸 🇺🇦 House Republicans move to strip Ukraine aid from the US defence budget Republicans in the US House of Representatives are pushing to remove several Ukraine-related provisions from the annual defence spending bill, the National Defense Authorization Act, NBC News reports, citing sources. The cuts would halt intelligence sharing and other military aid to Ukraine, and block new sanctions on Russia. House Speaker Mike Johnson and Foreign Affairs Committee Chairman Brian Mast are leading the push. The final text is expected to be agreed in the first week of December. According to NBC's sources, it's a bargaining tactic. After losing the midterms, Republicans are using Ukraine as leverage to make Democrats drop proposals that would strengthen Congress's oversight of Pentagon chief Pete Hegseth and Trump himself, and to head off investigations into Trump and his administration. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406331",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406331",
+      "published_at": "2026-11-18T10:05:02+00:00",
+      "text": "Экс-аналитик разведки Корпуса морской пехоты США Скотт Риттер заявил на пресс-конференции в ТАСС, что украинские дроны Hornet дважды атаковали его по дороге в Мариуполь этим летом. \"По дороге из Мелитополя в Мариуполь мы были вынуждены ехать в сопровождении мобильных огневых групп, так как дорога была под атакой дронов. Мы дважды были атакованы украинскими дронами Hornet, управляемыми с помощью Starlink\", — сказал он, подчеркнув, что оба беспилотника были успешно сбиты.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

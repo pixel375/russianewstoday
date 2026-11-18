@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T09",
-  "generated_at_utc": "2026-11-18T10:26:56.115226+00:00",
-  "window_start_utc": "2026-11-18T09:00:00+00:00",
-  "window_end_utc": "2026-11-18T10:00:00+00:00",
+  "hour_id": "2026-11-18T10",
+  "generated_at_utc": "2026-11-18T11:29:31.060481+00:00",
+  "window_start_utc": "2026-11-18T10:00:00+00:00",
+  "window_end_utc": "2026-11-18T11:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
-      "pages": 1,
-      "raw_count": 0
+      "pages": 2,
+      "raw_count": 13
     },
     {
       "handle": "intelslava",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
@@ -39,19 +39,19 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 2,
-      "raw_count": 17
+      "raw_count": 19
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
@@ -69,181 +69,213 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 5
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 39,
-    "relevant_posts": 10,
-    "deduplicated_posts": 10,
-    "candidate_posts": 10
+    "raw_posts": 51,
+    "relevant_posts": 13,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
   },
   "posts": [
     {
-      "id": "rybar_in_english/35840",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35840",
-      "published_at": "2026-11-18T09:45:38+00:00",
-      "text": "Fwd from @ 📝 Common Interests 📝 Leaders of Russia and China aligned their positions Before key international talks, partners need to discuss problematic issues in advance and understand how much their views coincide. Especially when the upcoming meeting could affect the overall balance of power in the world. President of Russia Vladimir Putin and Chairman of the PRC Xi Jinping held talks in Shenzhen as part of the 33rd APEC summit. The conversation took place at the state residence \"Cilin Shanzhuang\" . This is already the third personal contact between the leaders since the beginning of the year, not counting video calls. The meeting took place in a notably friendly tone . Putin noted that cooperation between the two countries is developing upward. The Chinese leader responded by saying that relations remain strong under any external circumstances. Both sides advocated for a multipolar world and a more just international order. Special attention was paid to the economy. The Russian president noted that trade turnover has exceeded $200 billion for several years and could set a record by the end of this year. He pointed to the development of cooperation in technology, science and transport, as well as a 43% increase in tourist flow thanks to mutual visa-free travel. 🖍 However, no new major agreements or initiatives were publicly announced. The main point of the talks was to confirm the already established course and coordination of actions between the two countries . 🚩 During the closed part in the format of a working breakfast, the heads of state exchanged views on international and regional issues , including the situation around so-called Ukraine and the situation on the Korean Peninsula. However, the details of the discussion of these topics are not disclosed. ❗️ The main intrigue now is the three-way conversation involving US President Donald Trump , which will take place tomorrow at the same \"Cilin Shanzhuang\" residence. At the same time, the leaders of Russia and China previously \"synchronized their watches\" and confirmed that bilateral relations will not be revised under external pressure. #China #Russia 🏮 @rybar_pacific — your ticket to Pacific chaos 💸 Support us Original msg",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102191",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102191",
-      "published_at": "2026-11-18T09:31:15+00:00",
-      "text": "✨ Крымская оборонительная операция: падение моста ✨ Удар по Крымскому мосту - безусловно, серьёзнейший репутационный ущерб для России. И отрицать это глупо. Приятного, радостного, фраз \"слабо бьёте\" вы от нас не дождетесь. Но и всепропальческих настроений тоже. Давайте попробуем, раз страсти почти улеглись, адекватно дать оценку складывающейся обстановки - основу для принятия верных решений . Без истерик и самоуспокоения, не уподобляясь противнику в качелях зрада/перемога Это - удар по символу , по одному из самых узнаваемых инфраструктурных объектов страны. И, разумеется, по простым людям, которым теперь приходится менять маршруты, стоять в очередях, искать способы добраться до Крыма и обратно. Но давайте отделять эмоции от военной составляющей. Напомним хронологию, как противник сам вынудил нас менять военную и гражданскую логистику , выстраивая новые маршруты и исключая мост из путей снабжения Армии и крымских субъектов страны: ▪️ 8 октября 2022 года. После первого подрыва моста было приостановлено движение грузового автотранспорта. ▪️ 11 декабря 2022 года. Минтранс установил ограничения на проезд грузовых автомобилей грузоподъёмностью свыше 1,5 тонны, включая «Газели». ▪️ 19 мая 2023 года. Вице-премьер Марат Хуснуллин прямо объяснил, почему грузовики не возвращают на мост: вопросы безопасности, наличие сухопутного коридора и паромной переправы. ▪️ 17 июля 2023 года . Повторная атака на мост, после которой его использование для военной логистики продолжило сокращаться. ❗️ К февралю–апрелю 2024 года спутниковый мониторинг стран НАТО уже не фиксировал на железнодорожной части составов с военной техникой. Основные грузовые потоки были переориентированы на альтернативные маршруты, в том числе через сухопутный коридор и трассу Р-280 «Новороссия». Поэтому утверждать, что вчерашним ударом противник внезапно перерезал главную артерию снабжения российской группировки, было бы как минимум преувеличением. Но и говорить, что ничего не произошло, нельзя, ведь противник работает и по альтернативным маршрутам: ▪️ 8 ноября повреждён Натальевский мост через Миус на 97-м километре Р-280 в Ростовской области. ▪️ 15 ноября нанесены удары по Мелентьевскому мосту на объездном направлении и по мостовому участку над железнодорожными путями на 64-м километре трассы. ▪️ 17 ноября вновь поражён участок дороги в районе моста через Миус. Просматривается замысел одновременно бить по мосту и создавать проблемы на путях его обхода, то есть речь идет о спланированной (явно британцами и пиндосами) и результативной информационно-боевой операции. И информационная составляющая - такой же элемент нанесения ущерба нашей стране вдолгую. Всё это произошло аккурат перед встречей Верховного с лидерами США и Китая в Шэньчжэне 19 ноября. И тем более важно подчеркнуть еще раз участие Запада в этом ударе. Применялись : 🇳🇱 Ruta и Da Vinci - разработки европейской компании Destinus с головным офисом в Нидерландах. 🇬🇧 / 🇺🇦 Ракеты «Нептун», «Паляница», FP-5 «Фламинго» 🇺🇸 RC-135U Combat Sent, американский самолёт радиоэлектронной разведки, чей полёт над Чёрным морем 16 ноября был зафиксирован накануне удара. 🇺🇸 Про Starlink фашиста Маска и писать не хочется даже, оскомину набило. Что дальше? Разбирательство . Кто, что и кому докладывал? Какие угрозы считались вероятными? Кто отвечал за организацию прикрытия? Где чья подпись? Почему противнику удалось провести многоэтапную операцию против объекта стратегического значения? По всей видимости, ответственным за защиту неба от ракет (а тут уж никак ни губернатора, ни барс, ни ведомства без тяжелых видов средств ПВО, не припишешь), пора готовить дырку. Но не на кителе и не для ордена. В любом случае мост мы восстановим, расчет-то при его строительстве в сейсмоопасной зоне и был на замену полотна. Нет ничего невозможного, технологии действительно у страны есть. Но для этого требуется единая система ПВО, а еще лучше - военный разгром противника. Жесткий, лучше - с измерением в мегатоннах. И по Лондону ( нам, например, в Лондоне терять нечего и некого ), и по иным центрам принятия решений Как и обещал МИД, Д.А. Медведев и многие другие уважаемые спикеры в начале СВО. Чтобы другим неповадно было даже думать плохо в сторону России. Иначе ситуацию противник неизбежно будет пытаться повторить, медленно варя нас в переговорном пике годами и стачивая наш потенциал перед еще большей войной. Крыму и Севастополю - держаться. Два майора Два майора в МАХ",
+      "id": "tass_agency/406348",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406348",
+      "published_at": "2026-11-18T10:58:01+00:00",
+      "text": "ЕК не рискнет включать в 22-й пакет санкций запрет на морские перевозки российской нефти , опасаясь, что он вновь будет заблокирован странами ЕС, сообщает агентство Bloomberg. Такая ситуация случилась с 21-м пакетом, который Еврокомиссии пришлось сократить вдвое, изъяв из него нефтяной запрет, так же как все предложения по ограничениям на импорт российской рыбы. ✔ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "crimea",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30664",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30664",
+      "published_at": "2026-11-18T10:47:27+00:00",
+      "text": "🎖 🎖 by Russian Defence Ministry on progress of special military operation as of 18 November 2026 Part 2 ( 👉 see Part 1 ) ↗️ The Vostok Group of Forces continue to advance into the depths of the enemy's defence. Manpower and hardware of one mechanised brigade, two air assault brigades of the AFU, and two marine brigades have been hit close to Gavrilovka, Kirichkovo (Dnepropetrovsk region), Zheltaya Krucha, Novoivanovka, Novorozovka, and Odarovka (Zaporozhye region). ▪️ The AFU losses amounted to up to 200 troops, seven armoured fighting vehicles, one self-propelled artillery system, and nine motor vehicles. 📍 The Dnepr Group's units improved the situation along the front line. They inflicted losses on units of one mountain assault brigade of the AFU and one territorial defence brigade close to Dimitrovo, Zapasnoye, and Natalovka (Zaporozhye region). ▪️ Up to 20 servicemen, one armoured fighting vehicle, and 16 motor vehicles were neutralised. ✈️ Operational-tactical aviation, attack drones, missile troops, and artillery of the Russian Groups of Forces inflicted damage on power and transport infrastructure used in the interests of the AFU, production and storage areas of unmanned aerial vehicles and ground robotic systems, military airfields, temporary deployment areas of Ukrainian armed formations and foreign mercenaries in 143 areas. ▫️ Air defence systems shot down 310 fixed-wing unmanned aerial vehicles. 📊 In total, since the beginning of the special military operation, the enemy has lost: ▫️ 674 aircraft, ▫️ 284 helicopters, ▫️ 293,131 unmanned aerial vehicles, ▫️ 672 anti-aircraft missile systems, ▫️ 31,689 tanks and other armoured fighting vehicles, ▫️ 1,797 MLRS combat vehicles, ▫️ 36,954 field artillery guns and mortars, ▫️ 77,531 support military vehicles. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
         "missile",
-        "negotiation",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30663",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30663",
+      "published_at": "2026-11-18T10:47:27+00:00",
+      "text": "The Armed Forces of the Russian Federation continue the special military operation. 📍 The units of the Sever Group of Forces improved the tactical situation. In Kharkov region, strikes were delivered at manpower and hardware of four mechanised brigades and one assault regiment of the AFU close to Golubovka, Lebedevka, Muravskoye, Ploskoye, Podsredneye and Chuguyev (Kharkov region). 💥 In Sumy region, the Group's units inflicted losses on formations of two mechanised brigades, one airmobile brigade of the AFU, and three territorial defence brigades near Bititsa, Konotop, Korenek, Putivl, Tokari, Ulyanovka, and Yastrebinoye of Sumy region. ▪️ The enemy lost up to 225 troops, one self-propelled artillery system, 11 motor vehicles, and six counter-battery and electronic warfare stations. 📍 The Zapad Group of Forces improved the situation along the front line. Russian troops engaged manpower and hardware of three mechanised brigades of the AFU, one territorial defence brigade near Monachinovka, Peski-Radkovskiye, Proletarskoye (Kharkov region), and Raygorodok (Donetsk People's Republic). ▪️ The AFU losses amounted to more than 220 troops, three armoured fighting vehicles, four field artillery guns, including two self-propelled artillery systems, and 19 motor vehicles. 📍 The Yuzhnaya Group of Forces took more advantageous lines and positions. Russian troops hit three mechanised brigades, one airmobile brigade, one assault brigade of the AFU, one marine brigade, and one national guard brigade have been hit near Druzhkovka, Kramatorsk, Nikolayevka, Toretskoye, and Cherevkovka (Donetsk People's Republic). ▪️ The AFU losses amounted to up to 155 troops, one armoured fighting vehicle, three artillery guns, and 26 motor vehicles. ↗️ Units of the Tsentr Group of Forces continue to carry out intensive offensive operations. Strikes were delivered at manpower and hardware of two mechanised assault brigades, one assault regiment, one assault regiment of the AFU, one marine brigade, and three national guard brigades close to Zavido-Borzenka, Novoviktorovka, Novoiverskoye, Ocheretino (Donetsk People's Republic), Zoryanoye, and Fedorovskoye (Dnepropetrovsk region). ▪️ The AFU losses amounted to more than 345 troops, six armoured fighting vehicles, ten motor vehicles, six electronic warfare and electronic reconnaissance stations. 👉 See Part 2 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35839",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35839",
-      "published_at": "2026-11-18T09:21:17+00:00",
-      "text": "📝 Berlin Round 📝 USA — EU — so-called Ukraine talks The EU will finally get a chance to prove itself in talks on so-called Ukraine . On the question of the need to negotiate with Russia , they are still going through stages from denial to acceptance. Despite the fact that Europeans continue to criticize the mediation of US authorities, the Americans plan to talk with them. According to Axios, on November 19 Steve Witkoff and Jared Kushner will meet in Berlin with Ukrainian and European representatives to discuss security guarantees and post-war economic recovery of so-called Ukraine. Media outlets call the meeting part of a parallel track: a week earlier, Witkoff and Kushner proposed to the Russian side to formulate its own concept of European security. However, the EU , despite the lack of a unified position and internal contradictions , still does not demonstrate readiness to negotiate. While the USA and Russia are already discussing the future security architecture, Europeans insist that a new system is not needed — the old one must be restored. The EU also demands a ceasefire first, while denying territorial concessions from so-called Ukraine. 🖍️ These demands make it clear that Brussels denies the realities on the ground , and plans by German authorities to bind all EU members with collective responsibility for military support to the Kyiv regime show that they intend to continue dragging out the Ukrainian burden. 📌 In Berlin, EU representatives will get a chance to move from criticizing American diplomacy to specifics, but it's not certain they will use it and not exacerbate contradictions with the USA. There's definitely no reason to have high hopes for the meeting, but it will show whether Euro-bureaucrats are capable of presenting a unified position. And it's possible that the talks will become another trigger for deepening contradictions between Europeans . #EU #Russia #USA #Ukraine ✉ MAX 💸 Support us Original msg",
+      "id": "boris_rozhin/233794",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233794",
+      "published_at": "2026-11-18T10:47:01+00:00",
+      "text": "Внезапно признали : склады на Украине используются в (!) военных нуждах. Это подтвердил украинский замминистра финансов Александр Кава Вовану и Лексусу , думая, что общается с европейским бизнесменом. Ему также известно, что Россия никогда не использовала свои логистические центры в тех же целях — они расположены на расстоянии 500 и более км от фронта, так что это было бы бессмысленно. Задачей ударов по складам в РФ было исключительно нанесение урона гражданской инфраструктуре.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "negotiation"
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233785",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233785",
-      "published_at": "2026-11-18T09:17:01+00:00",
-      "text": "Продолжение · 21:20 Днепропетровск — взрыв. Герань. · 21:30 Хмельник Винницкой области — взрыв. Герань. · 21:40 Днепропетровск — взрыв. Герань. · 21:40 Харьковская область — взрывы. УМПК. · 23:05 Днепропетровск — взрыв. Герань. · 23:20 Лозовая Харьковской области — взрыв. Герань. · 23:25 Староконстантинов Хмельницкой области — взрыв. Герань. 18 ноября 2026 года. · 00: 00 Тульчин Винницкой области — взрыв. Герань. · 00:10 Любар Житомирской области — взрыв. Герань. · 00:40 Гайсин Винницкой области — взрыв. Герань. · 02:05 Харьковская область — взрывы. УМПК. · 02:15 Донбасс — взрывы. УМПК. · 02:20 Харьковская область — взрывы. УМПК. · 02:25 Белая Церковь Киевской области — взрыв. Герань. · 02:30 Донбасс — взрывы. УМПК. · 02:30 Житомир — взрыв. Герань. · 03:15 Донбасс и Днепропетровская область — взрывы. УМПК. · 03:30–03:40 Харьковская область — взрывы. УМПК. · 04:05 Донбасс — взрывы. УМПК. · 04:20–04:35 Вилково Одесской области — взрыв. Герань. · 04:40 Донбасс — взрывы. УМПК. · 05:10 Харьковская область — взрывы. УМПК. · 05:45 Запорожская область — взрывы. УМПК. · 05:55 Киев — взрыв. Герань. · 05:55–06:15 Запорожская область — взрывы. УМПК. На видео удар Герани по зданию \"Укртелеком\" Виннице. @lost_armour",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv",
-        "kyiv",
-        "odesa",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/boris_rozhin/233783"
-      ]
-    },
-    {
-      "id": "tass_agency/406317",
+      "id": "tass_agency/406345",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/406317",
-      "published_at": "2026-11-18T09:16:58+00:00",
-      "text": "Главное препятствие на пути к заключению мирного соглашения — политический режим, установившийся на Украине, заявил Николай Азаров на пресс-конференции в ТАСС. Переговоры должны сосредоточиться на изменении режима и последующих политических изменениях, заявил бывший украинский премьер-министр. ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350003",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350003",
-      "published_at": "2026-11-18T09:16:16+00:00",
-      "text": "Всеобъемлющее стратегическое партнерство с Вьетнамом - один из приоритетов внешней политики России, заявил Путин. Президент проводит переговоры с лидером республики То Ламом. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233783",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233783",
-      "published_at": "2026-11-18T09:10:06+00:00",
-      "text": "Хроника ударов по территории Украины 17 ноября 2026 – 18ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Винницкой, Волынской, Закарпатской, Ивано-Франковской, Киевской, Львовской, Николаевской, Одесской, Полтавской, Ровенской, Хмельницкой, Черкасской и Черниговской областях (Герани). 17 ноября 2026 года. · 07:32 Запорожье — взрывы. Дань-Т. · 07:37 Кривой Рог — взрывы. Герани. · 07:45 Смела Черкасской области, Днепропетровск и Запорожье — взрывы Крылатые ракеты. · 07:47 Павлоград Днепропетровской области — взрыв Крылатая ракета. · 07:55 Запорожье — взрыв Крылатая. ракета. · 08:00 Кривой Рог — взрыв. Герань. · 08:05 Днепропетровск — взрыв. Герань. · 08:28 Казатин Винницкой области — взрыв. Герань. · 09:00 Ровно — взрыв. Герань. · 09:00 Киверцы Волынской области — взрыв. Герань. · 09:10 Коблево Николаевской области — взрыв. Герань. · 09:35 Окрестности Винницы — взрыв. Герань. · 09:40 Смела Черкасской области — взрывы Крылатые ракеты. · 10:00 Борисполь Киевской области и Синельниково — взрывы. Герани. · 10:20 Павлоград Днепропетровской области — взрыв. Герань. · 10:20 Сумы — взрыв. Герань. · 10:20 Львовская область — взрыв. Герань. · 10:35 Сумы и Ровно — взрывы. Герани. · 10:40 Винница — взрыв. Герань. · 10:40 Донбасс — взрывы. УМПК. · 10:45 Мукачево — взрыв. Герань. · 10:50 Ровно и Мукачево — взрывы. Герани. · 10:50 Донбасс и Днепропетровская область — взрывы. УМПК. · 11:00 Сумы, Староконстантинов Хмельницкой области — взрывы Герани. · 11:00 Запорожье — взрывы. Торнадо-С. · 11:15 Тернополь и Хмельницкий — взрывы. Герани. · 11:15 Запорожская и Днепропетровская области — взрывы. УМПК. · 11:20 Сумы — взрыв. Герань. · 11:55 Конотоп Сумской области — взрыв. Дань-Т. · 11:55 Запорожская область — взрывы. УМПК. · 11:57 Харьков — взрыв. Дань-Т. · 12:00 Конотоп и Подольск Одесской области — взрывы. Герани. · 12:15 Волынская область и Сумы — взрывы. Герани. · 12:30 Славута Хмельницкой области — взрыв. Герань. · 12:30 Змиев Харьковской области — взрыв. Герань. · 12:45 Кременчуг — взрывы. Дань-Т. · 12:45 Окрестности Ужгорода — взрыв. Герань. · 12:45 Окрестности Лубомля Волынской области — взрыв. Герань. · 13:05 Жашков Черкасской области — взрыв. Герань. · 13:43 Баштанка и Жашков Черкасской области — взрывы. Герани. · 13:45 Каменское и Николаев — взрывы. Герани. · 14:00 Сумы — взрыв. Герань. · 14:10 Прилуки Черниговской области — взрыв. Герань. · 14:45 Сумская область — взрывы. УМПК. · 14:45 Николаев и Балаклея Харьковской области — взрывы. Герани. · 15:10 Окрестности Николаева — взрыв. Герань. · 15:20 Лозовая Харьковской области — взрыв. Герань. · 15:25 Запорожье — взрыв. Герань. · 15:27 Хмельницкая область — взрыв. Герань. · 15:30 Окрестности Винницы — взрыв. Герань. · 15:45 Шпола Черкасской области — взрыв. Герань. · 15:55 Ермолинцы Хмельницкой области — взрыв. Герань. · 16:10 Запорожье — взрыв. Герань. · 16:27 Чугуев Харьковской области — взрыв. Герань. · 16:45 Тульчин и Томашполь Винницкой области — взрывы. Герани. · 16:45 Комаргород и Вапнярка Винницкой области — взрывы. Герани. · 16:50 Тульчин Винницкой области — взрыв. Герань. · 16:55 Окрестности Тульчина Винницкой области — взрыв. Герань. · 17:17 Винница — взрыв. Герань. · 18:00 Запорожье — взрыв. Герань. · 18:05 Днепропетровск и Бершадь Винницкой области — взрывы. Герани. · 18:57 Винница — взрыв. Герань. · 19:10 Каменское Днепропетровской области — взрыв. Герань. · 19:17 Днепропетровск — взрыв. Герань. · 19:20 Бровары Киевской области — взрыв. Герань. · 19:35 и 20:00 Ивано-Франковск — взрывы. Герани. · 19:55 Днепропетровск и Белая Церковь — взрывы. Герани. · 20:25 Сумская область — взрывы. УМПК. · 20:45 Николаев — взрыв. Герань. · 20:50 Днепропетровская область — взрывы. УМПК. · 20:55 Вышгород Киевской области — взрыв. Герань. На видео последствия ударов в Ровно и в Запорожье. @lost_armour",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv",
-        "kyiv",
-        "missile",
-        "odesa",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/boris_rozhin/233785"
-      ]
-    },
-    {
-      "id": "tass_agency/406314",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406314",
-      "published_at": "2026-11-18T09:06:58+00:00",
-      "text": "Посол РФ назвал безосновательным решение МИД Молдавии выразить протест в связи с пролетом беспилотников. За инцидентами с БПЛА может стоять Украина, отметил посол. Россия не заинтересована в обострении отношений с Молдавией и предлагает совместное расследование инцидентов с БПЛА.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233781",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233781",
-      "published_at": "2026-11-18T09:01:09+00:00",
-      "text": "‼️ НУЖНА ПОДМОГА БОЙЦАМ С ЧАСОВ ЯРСКОГО НАПРАВЛЕНИЯ! Продолжаем сбор для штурмового отряда 136-й бригады. Ребята обратились к Фонду \"Время выбрало нас\" и Телеграм-каналу «Colonelcassad» с просьбой помочь им приобрести дизельный генератор мощностью 8,5 кВт. Уже собрано 64 750 рублей. Не хватает ещё 63 270. ❗️ Друзья, просим откликнуться. Мы знаем это подразделение не первый год: без крайней необходимости парни не обращаются. Если вышли на связь — значит, генератор действительно им нужен позарез. Сейчас важна любая сумма. Давайте вместе дожмём этот сбор и как можно скорее отправим технику бойцам. Не можете помочь финансово — сделайте репост. Чем больше людей увидят это видео, тем быстрее закроем оставшуюся сумму. ❗️ Через СБП: 8-981-007-99-97 (Сбер, Тинькофф, ВТБ, Альфа, Озон — на имя Артур З.) Сбер: 5469 5500 1485 6287 Тинькофф: 2200 7009 1677 0588 ВТБ: 2200 2459 1723 8896 Альфа: 2200 1536 8844 3986 Озон: 2204 3204 9223 5025 Юрлица, подключайтесь к помощи! Звоните или пишите — обсудим варианты, реквизиты предоставим по запросу. Телефон для связи: 8-981-007-99-97 (+MAX). #ФондВремяВыбралоНас #Colonelcassad #ПомогаемФронту #СвоихНеБросаем #Россия #Отечество #Бой #Победа",
+      "url": "https://t.me/tass_agency/406345",
+      "published_at": "2026-11-18T10:46:29+00:00",
+      "text": "▶️ Российская делегация во главе с Путиным выехала на торжественный прием от имени Си Цзиньпина в честь лидеров экономик саммита АТЭС. Видео: ТАСС #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350000",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350000",
-      "published_at": "2026-11-18T09:00:14+00:00",
-      "text": "Путин и Си Цзиньпин обсудили тему украинского урегулирования на переговорах в Шэньчжэне, сообщил Песков РИА Новости. Президент России на встрече упоминал о контактах с Уиткоффом и Кушнером в Москве, добавил он. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "DDGeopolitics/198522",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198522",
+      "published_at": "2026-11-18T10:38:14+00:00",
+      "text": "🇪🇺 🇺🇦 Reich Gauleitierin Ursula von der Leyen has proposed a new €45 billion package to fund Kiev in 2027. She says it would cover two-thirds of Ukraine's needs that year, and she expects the remaining €25 billion to come \"from partners\". Ukraine's needs for 2026 are already \"covered\", according to her. EU leaders will discuss the plan at an emergency summit on November 26–27. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow",
-        "negotiation"
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198521",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198521",
+      "published_at": "2026-11-18T10:37:14+00:00",
+      "text": "🇷🇺 🇨🇳 🗣 Putin and Xi discuss Ukraine peace efforts at APEC Russian President Vladimir Putin brought up his Nov. 12 meeting in Moscow with US envoys Steve Witkoff and Jared Kushner during Wednesday’s talks with Chinese President Xi Jinping in Shenzhen, Kremlin spokesman Dmitry Peskov. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35843",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35843",
+      "published_at": "2026-11-18T10:32:59+00:00",
+      "text": "📝 Swedish-British contract 📝 to arm so-called Ukraine While individual EU countries express doubts about the possibility of continuing to finance so-called Ukraine , on the northern flank, as usual, they remain determined to continue arming the Kyiv regime. After all, they can make money from this. Yesterday in Sweden they announced an additional contribution of approximately $71 million to multilateral funds for military support to Ukrainian authorities. Priorities include air defense and \"long-range strike capabilities.\" Approximately $21 million from the package goes to the PURL initiative , through which allies finance American weapons for so-called Ukraine, designated as a priority. Sweden's contribution to this initiative has already reached approximately $572 million. A separate budget item is allocated to the Czech initiative to purchase ammunition for so-called Ukraine. A separate decision was an agreement between representatives of Sweden, so-called Ukraine, and the United Kingdom on supplies of ammunition, equipment, and spare parts for Swedish JAS 39 Gripen fighter jets . Earlier, the Swedes announced the transfer of 16 Gripen C/D as military aid and Ukraine's intention to purchase 20 Gripen E variants, which, however, will only appear in 2030. Meanwhile, British companies produce more than 30% of the components for each Gripen ❗️ The Swedes and British continue to invest in the military potential of so-called Ukraine, while not forgetting about their own profit. In Stockholm, contracts go to Saab , while the British receive orders for Gripen components. So the Swedish-British partnership is loading its defense industry with the Ukrainian market for years to come . And an end to the military conflict is not the most profitable outcome for them. #UnitedKingdom #Ukraine #Sweden ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102192",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102192",
+      "published_at": "2026-11-18T10:31:43+00:00",
+      "text": "🇩🇪 Глава МИД Германии Йоханн Вадефуль о предложении России создать новую архитектуру безопасности в Европе: «У нас нет потребности в формировании какого-то нового европейского порядка в сфере безопасности . Нам необходимо лишь соблюдение правил и принципов, которые были согласованы уже давно». 🇩🇪 Фрицы, как и другие враги 🇷🇺 России, прежде всего из числа европейских государств, не заинтересованы в заключении мира и реально хотят только стратегического поражения нашей страны , чтобы заполучить остатки экономических ресурсов. А получали бы зажравшиеся европейцы ежедневные прилёты по инфраструктуре и лично по тупым башкам таких провокаторов войны , как Вадефуль, были бы гораздо более вменяемые . Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406334",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406334",
+      "published_at": "2026-11-18T10:18:58+00:00",
+      "text": "Около 75% личного состава ВСУ сегодня составляют насильственно мобилизованные граждане. Об этом на пресс-конференции в ТАСС заявил посол по особым поручениям МИД Родион Мирошник. На Украине, по его словам, \"действует система издевательств, пыток и запугивания, в том числе в механизме насильственной мобилизации\". ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198518",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198518",
+      "published_at": "2026-11-18T10:16:23+00:00",
+      "text": "🇺🇸 🇷🇺 US Air Force test-fires unarmed Minuteman III ICBM The missile lifted off from Vandenberg Space Force Base in California at 11:01 p.m. Pacific time on Tuesday, Nov. 17. Air Force Global Strike Command said it had scheduled the test, dubbed Glory Trip 257, years in advance. This comes as Trump is meeting world leaders in China including a trilateral meeting with Putin's and Xi. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198517",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198517",
+      "published_at": "2026-11-18T10:13:22+00:00",
+      "text": "🇺🇸 🇺🇦 House Republicans move to strip Ukraine aid from the US defence budget Republicans in the US House of Representatives are pushing to remove several Ukraine-related provisions from the annual defence spending bill, the National Defense Authorization Act, NBC News reports, citing sources. The cuts would halt intelligence sharing and other military aid to Ukraine, and block new sanctions on Russia. House Speaker Mike Johnson and Foreign Affairs Committee Chairman Brian Mast are leading the push. The final text is expected to be agreed in the first week of December. According to NBC's sources, it's a bargaining tactic. After losing the midterms, Republicans are using Ukraine as leverage to make Democrats drop proposals that would strengthen Congress's oversight of Pentagon chief Pete Hegseth and Trump himself, and to head off investigations into Trump and his administration. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406331",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406331",
+      "published_at": "2026-11-18T10:05:02+00:00",
+      "text": "Экс-аналитик разведки Корпуса морской пехоты США Скотт Риттер заявил на пресс-конференции в ТАСС, что украинские дроны Hornet дважды атаковали его по дороге в Мариуполь этим летом. \"По дороге из Мелитополя в Мариуполь мы были вынуждены ехать в сопровождении мобильных огневых групп, так как дорога была под атакой дронов. Мы дважды были атакованы украинскими дронами Hornet, управляемыми с помощью Starlink\", — сказал он, подчеркнув, что оба беспилотника были успешно сбиты.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
       ],
       "possible_duplicate_urls": []
     }
