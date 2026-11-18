@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T19",
-  "generated_at_utc": "2026-11-18T20:23:33.466008+00:00",
-  "window_start_utc": "2026-11-18T19:00:00+00:00",
-  "window_end_utc": "2026-11-18T20:00:00+00:00",
+  "hour_id": "2026-11-18T20",
+  "generated_at_utc": "2026-11-18T21:22:47.213130+00:00",
+  "window_start_utc": "2026-11-18T20:00:00+00:00",
+  "window_end_utc": "2026-11-18T21:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,7 +15,7 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
@@ -39,13 +39,13 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
@@ -57,13 +57,13 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "WarGonzo",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 7
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "nab_ukraine",
@@ -99,34 +99,87 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 16,
-    "relevant_posts": 5,
-    "deduplicated_posts": 5,
-    "candidate_posts": 5
+    "raw_posts": 19,
+    "relevant_posts": 7,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
   },
   "posts": [
     {
-      "id": "dva_majors/102219",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102219",
-      "published_at": "2026-11-18T19:56:30+00:00",
-      "text": "✨ Сбор на Запорожский фронт ✨ 449 человек участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка для дооснащения цеха БПЛА и обеспечения его бесперебойным электроснабжением. ▪️ Эл.станц. -4шт- 1 000 000 ₽ ▪️ Генератор -2шт- 600 000 ₽ ▪️ Станки для опты -2шт- 700 000 ₽ ▪️ Оборуд. FPV - 450 000 ₽ Необходимо: 2 750 000 ₽ Собрано за сутки: 231 838 ₽ Собрано всего: 1 755 568 ₽ Осталось собрать: 994 432 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "id": "boris_rozhin/233868",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233868",
+      "published_at": "2026-11-18T20:59:01+00:00",
+      "text": "Вэсэушники запугивали мирных жителей Красноармейска (ДНР): перед отступлением они выставили тело российского военного на блокпосту. Об этом RT рассказал эвакуированный оттуда пенсионер Александр. Красноармейск освободили в декабре 2025-го. Мужчина видел, как его соседи осенью прошлого года погибли от удара ВСУ: «Оставались муж и жена. Его убило украинским дроном на улице, а её — во дворе, она возле калитки стояла, ждала его». 🟩 Подписаться | Рассылка | Сайт RT",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "zaporizhzhia"
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233861",
+      "id": "tass_agency/406429",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406429",
+      "published_at": "2026-11-18T20:43:01+00:00",
+      "text": "Итальянские европарламентарии призвали закрыть украинский экстремистский сайт \"Миротворец\", поскольку он распространяет только ненависть и дезинформацию. В своем заявлении парламентарии от оппозиционного итальянского \"Движения \"5 звезд\" выразили солидарность…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77927",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77927",
+      "published_at": "2026-11-18T20:27:56+00:00",
+      "text": "Всё по-честному — Почему на саммите АТЭС не стоит ждать прорывов. О целях китайцев, положении Трампа и почему на обсуждение войны на Украине рассчитывать не стоит. 👇 👇 👇 Саммит, где каждый себе на уме. Эксперты — о встрече Трампа, Путина и Си в Шэнчжене. Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233865",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233861",
-      "published_at": "2026-11-18T19:47:01+00:00",
-      "text": "Анимированная схема ударов по территории Украины 07:30 17 ноября 2026 – 07:30 18 ноября 2026 года.",
+      "url": "https://t.me/boris_rozhin/233865",
+      "published_at": "2026-11-18T20:25:56+00:00",
+      "text": "В шайке кокаинового фюрера заявили, что из 800 млн. гривен выделенных на защиту энергетики Киева украли 700 млн. и мол поэтому все так плохо. Разумеется, пытаются переводить стрелки на Педалика и его окружение, чтобы сделать Педалика крайним и заменить мэра Киева. Педалик в свою очередь валит провал обороны энергообъектов в Киевской области на шайку кокаинового фюрера.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33464",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33464",
+      "published_at": "2026-11-18T20:03:28+00:00",
+      "text": "🗓️ On November 17, 2026 , Russian Ambassador to Indonesia Sergei Tolchenov attended the opening of the Russia-ASEAN Dialogue Forum of Women in High-Tech Industries in Jakarta, held under the theme “Unity in Diversity: Women for Technology, Energy and Inclusive Prosperity.” The Forum was organised by the Rosatom Women’s Community and the Indonesian Nuclear Society (HIMNI), with the support of Rosatom State Corporation, the Council of the Eurasian Women’s Forum, the International Council for the Support and Development of Women in Industry and Technology, the ASEAN Confederation of Women’s Organisations, and the Indonesian Business Women’s Association (IWAPI). 🤝 Discussions focused on expanding opportunities for women in high-tech industries , including nuclear energy, advancing engineering education, workforce training, technology entrepreneurship, and implementing joint projects between Russia and ASEAN countries. 🎙️ In his remarks, Sergei Tolchenov noted that the strategic partnership established between Russia and Indonesia in June 2025 reflects growing interest in cooperation across various sectors of the economy, particularly high technology. He also stressed the importance of expanding opportunities for women in technical fields, science and management, supporting their professional development, and encouraging their participation in a wide range of projects. 🇮🇩 Indonesia’s Vice Minister of Higher Education, Science and Technology Stella Christie highlighted women’s contribution to global scientific progress and expressed support for cooperation between Russian and Indonesian women’s organisations in advancing technological innovation. ✔️ Participants’ proposals for strengthening international cooperation in high-tech industries will be reflected in the Jakarta Action Plan - 2026 \"Women in Technology\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35855",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35855",
+      "published_at": "2026-11-18T20:03:24+00:00",
+      "text": "📝 Rybar's Main Points 📝 digest of materials for November 18 Europeans are tallying up the losses from their policy in the Black Sea region — the count of ships destroyed by unidentified USVs has exceeded a dozen. ❗️ Read more about these and other topics in our digest. ➡️ Rybar @rybar — we talk about complex things simply. The main resource of our think tank. The most important and interesting materials. ▪️ Chronicles of the SMO, deteriorating situation in the Sumy direction ▪️ RYBAR EXPLAINS: \"ASSAULT TROOPER\" NO LONGER SOUNDS PROUD ▪️ Announcements from The Economist ▪️ Unmanned rivalry in the Black Sea ▪️ Talks without Russia ▪️ New weapons and money for so-called Ukraine ▪️ Callsign \"Atom\" ▪️ AI will kill children ▪️ Escalation of tensions with Moldova ➡️ ASIANBAR @rybar_Pacific Russian President Vladimir Putin and Chinese Chairman Xi Jinping held talks in Shenzhen. Meanwhile, the Chinese leader refused to meet with Japanese Prime Minister Sanae Takaichi. And in the Philippines, they wrapped up the results of regional ASEAN summits. ➡️ AMERICABAR @rybar_america The former head of Nvidia faces public testimony in the Senate, America was hit by a five-day wave of mysterious tech failures, and Trump Jr. chastises AI giants for losing voter trust. ➡️ AFRICABAR @rybar_Africa Moroccan media nervously reacted to a story about \"Gerans\" in Western Sahara, while Madagascar signed a logistics agreement with the USA while maintaining military ties with Russia. ➡️ BALKANBAR @balkanar Bulgaria uncovered a cyber espionage network. In the Black Sea, attacks on civilian vessels continue.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -135,41 +188,16 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98255",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98255",
-      "published_at": "2026-11-18T19:37:46+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Combat footage showing Russian Lancet loitering munition operators striking Ukrainian Armed Forces equipment. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98254",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98254",
-      "published_at": "2026-11-18T19:24:48+00:00",
-      "text": "🇷🇺 🇨🇳 ⚡️ — Russia and China are exploring opportunities for joint weapons development and production, according to Dmitry Shugaev, head of Russia's Federal Service for Military-Technical Cooperation (FSMTC). @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233858",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233858",
-      "published_at": "2026-11-18T19:03:01+00:00",
-      "text": "Свежий срез активности средств поражения на территории Украины. В этот раз упор был сделан на баллистические ракеты, а число реактивных дронов и поршневых БПЛА (в том числе приманок) было примерно одинаковым. Реактивные дроны как и прежде применяются главным образом по западной и центральной части Украины. @Warhronika",
+      "id": "tass_agency/406426",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406426",
+      "published_at": "2026-11-18T20:01:58+00:00",
+      "text": "The Guardian назвала три причины исключения Каллас из переговоров с Россией. Одно из объяснений, которое циркулирует в дипломатических кругах Брюсселя, — чрезмерно открытая и жесткая позиция, которую занимает эстонский дипломат. Во-вторых, крупнейшие страны ЕС, такие как Франция и Германия, не готовы передавать Брюсселю реальные полномочия в сфере внешней политики. В-третьих, вопросы международной политики, которыми прежде занимались министры иностранных дел, все чаще переходят в ведение глав правительств и государств.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "missile"
+        "negotiation"
       ],
       "possible_duplicate_urls": []
     }
