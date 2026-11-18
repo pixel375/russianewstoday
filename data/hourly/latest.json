@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-17T23",
-  "generated_at_utc": "2026-11-18T00:23:38.813159+00:00",
-  "window_start_utc": "2026-11-17T23:00:00+00:00",
-  "window_end_utc": "2026-11-18T00:00:00+00:00",
+  "hour_id": "2026-11-18T00",
+  "generated_at_utc": "2026-11-18T01:24:29.611461+00:00",
+  "window_start_utc": "2026-11-18T00:00:00+00:00",
+  "window_end_utc": "2026-11-18T01:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 9
+      "raw_count": 0
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -45,19 +45,19 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
@@ -87,38 +87,37 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 22,
+    "raw_posts": 6,
     "relevant_posts": 2,
     "deduplicated_posts": 2,
     "candidate_posts": 2
   },
   "posts": [
     {
-      "id": "tass_agency/406226",
+      "id": "tass_agency/406228",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/406226",
-      "published_at": "2026-11-17T23:34:04+00:00",
-      "text": "Россияне за несколько дней потеряли 914 тыс. рублей из-за мошенников перед выходом игры GTA VI 19 ноября, сообщили ТАСС в ИБ-компании F6. ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198487",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198487",
-      "published_at": "2026-11-17T23:15:08+00:00",
-      "text": "🇳🇱 🇺🇦 ⚔️ 🇷🇺 Dutch arms maker brags its missiles brought down part of the Crimean Bridge Destinus, a Netherlands-based missile and drone maker, says its RUTA cruise missiles hit the Crimean Bridge two days in a row. The company is \"proud to support the Ukrainian defence forces\". This is the first time it has publicly claimed a single strike. The people behind it: ➡️ Founder and CEO Mikhail Kokorich, a Siberian-born former Russian businessman who renounced his citizenship and sits on an anti-war émigré committee. ➡️ Co-founder and president Oleksandr Danyliuk, Ukraine's finance minister from 2016 to 2018. The Dutch state pays for it. The Netherlands is funding around 700 RUTA missiles for Kiev, built on Dutch soil. 🔴 @DDGeopolitics",
+      "url": "https://t.me/tass_agency/406228",
+      "published_at": "2026-11-18T00:13:04+00:00",
+      "text": "Отстранение Каллас от переговоров отражает борьбу за сферы влияния в ЕС. Помимо того, что ЕК под руководством фон дер Ляйен взяла на себя ведущую роль в вопросе Украины, она также перехватила управление отношениями между ЕС и Израилем, пишет Politico.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "kyiv",
-        "missile",
-        "strike"
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406227",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406227",
+      "published_at": "2026-11-18T00:03:04+00:00",
+      "text": "Франция подтвердила присутствие своих военных на Украине. Однако они якобы не участвуют в боевых действиях на стороне Киева, заявила министр-делегат при министерстве ВС Алис Рюфо. Она утверждает, что их численность \"весьма ограничена\". Кроме того, Париж уже…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     }
