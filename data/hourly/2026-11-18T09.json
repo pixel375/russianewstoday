@@ -1,0 +1,251 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-18T09",
+  "generated_at_utc": "2026-11-18T10:26:56.115226+00:00",
+  "window_start_utc": "2026-11-18T09:00:00+00:00",
+  "window_end_utc": "2026-11-18T10:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 2,
+      "raw_count": 17
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 39,
+    "relevant_posts": 10,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
+  },
+  "posts": [
+    {
+      "id": "rybar_in_english/35840",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35840",
+      "published_at": "2026-11-18T09:45:38+00:00",
+      "text": "Fwd from @ 📝 Common Interests 📝 Leaders of Russia and China aligned their positions Before key international talks, partners need to discuss problematic issues in advance and understand how much their views coincide. Especially when the upcoming meeting could affect the overall balance of power in the world. President of Russia Vladimir Putin and Chairman of the PRC Xi Jinping held talks in Shenzhen as part of the 33rd APEC summit. The conversation took place at the state residence \"Cilin Shanzhuang\" . This is already the third personal contact between the leaders since the beginning of the year, not counting video calls. The meeting took place in a notably friendly tone . Putin noted that cooperation between the two countries is developing upward. The Chinese leader responded by saying that relations remain strong under any external circumstances. Both sides advocated for a multipolar world and a more just international order. Special attention was paid to the economy. The Russian president noted that trade turnover has exceeded $200 billion for several years and could set a record by the end of this year. He pointed to the development of cooperation in technology, science and transport, as well as a 43% increase in tourist flow thanks to mutual visa-free travel. 🖍 However, no new major agreements or initiatives were publicly announced. The main point of the talks was to confirm the already established course and coordination of actions between the two countries . 🚩 During the closed part in the format of a working breakfast, the heads of state exchanged views on international and regional issues , including the situation around so-called Ukraine and the situation on the Korean Peninsula. However, the details of the discussion of these topics are not disclosed. ❗️ The main intrigue now is the three-way conversation involving US President Donald Trump , which will take place tomorrow at the same \"Cilin Shanzhuang\" residence. At the same time, the leaders of Russia and China previously \"synchronized their watches\" and confirmed that bilateral relations will not be revised under external pressure. #China #Russia 🏮 @rybar_pacific — your ticket to Pacific chaos 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102191",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102191",
+      "published_at": "2026-11-18T09:31:15+00:00",
+      "text": "✨ Крымская оборонительная операция: падение моста ✨ Удар по Крымскому мосту - безусловно, серьёзнейший репутационный ущерб для России. И отрицать это глупо. Приятного, радостного, фраз \"слабо бьёте\" вы от нас не дождетесь. Но и всепропальческих настроений тоже. Давайте попробуем, раз страсти почти улеглись, адекватно дать оценку складывающейся обстановки - основу для принятия верных решений . Без истерик и самоуспокоения, не уподобляясь противнику в качелях зрада/перемога Это - удар по символу , по одному из самых узнаваемых инфраструктурных объектов страны. И, разумеется, по простым людям, которым теперь приходится менять маршруты, стоять в очередях, искать способы добраться до Крыма и обратно. Но давайте отделять эмоции от военной составляющей. Напомним хронологию, как противник сам вынудил нас менять военную и гражданскую логистику , выстраивая новые маршруты и исключая мост из путей снабжения Армии и крымских субъектов страны: ▪️ 8 октября 2022 года. После первого подрыва моста было приостановлено движение грузового автотранспорта. ▪️ 11 декабря 2022 года. Минтранс установил ограничения на проезд грузовых автомобилей грузоподъёмностью свыше 1,5 тонны, включая «Газели». ▪️ 19 мая 2023 года. Вице-премьер Марат Хуснуллин прямо объяснил, почему грузовики не возвращают на мост: вопросы безопасности, наличие сухопутного коридора и паромной переправы. ▪️ 17 июля 2023 года . Повторная атака на мост, после которой его использование для военной логистики продолжило сокращаться. ❗️ К февралю–апрелю 2024 года спутниковый мониторинг стран НАТО уже не фиксировал на железнодорожной части составов с военной техникой. Основные грузовые потоки были переориентированы на альтернативные маршруты, в том числе через сухопутный коридор и трассу Р-280 «Новороссия». Поэтому утверждать, что вчерашним ударом противник внезапно перерезал главную артерию снабжения российской группировки, было бы как минимум преувеличением. Но и говорить, что ничего не произошло, нельзя, ведь противник работает и по альтернативным маршрутам: ▪️ 8 ноября повреждён Натальевский мост через Миус на 97-м километре Р-280 в Ростовской области. ▪️ 15 ноября нанесены удары по Мелентьевскому мосту на объездном направлении и по мостовому участку над железнодорожными путями на 64-м километре трассы. ▪️ 17 ноября вновь поражён участок дороги в районе моста через Миус. Просматривается замысел одновременно бить по мосту и создавать проблемы на путях его обхода, то есть речь идет о спланированной (явно британцами и пиндосами) и результативной информационно-боевой операции. И информационная составляющая - такой же элемент нанесения ущерба нашей стране вдолгую. Всё это произошло аккурат перед встречей Верховного с лидерами США и Китая в Шэньчжэне 19 ноября. И тем более важно подчеркнуть еще раз участие Запада в этом ударе. Применялись : 🇳🇱 Ruta и Da Vinci - разработки европейской компании Destinus с головным офисом в Нидерландах. 🇬🇧 / 🇺🇦 Ракеты «Нептун», «Паляница», FP-5 «Фламинго» 🇺🇸 RC-135U Combat Sent, американский самолёт радиоэлектронной разведки, чей полёт над Чёрным морем 16 ноября был зафиксирован накануне удара. 🇺🇸 Про Starlink фашиста Маска и писать не хочется даже, оскомину набило. Что дальше? Разбирательство . Кто, что и кому докладывал? Какие угрозы считались вероятными? Кто отвечал за организацию прикрытия? Где чья подпись? Почему противнику удалось провести многоэтапную операцию против объекта стратегического значения? По всей видимости, ответственным за защиту неба от ракет (а тут уж никак ни губернатора, ни барс, ни ведомства без тяжелых видов средств ПВО, не припишешь), пора готовить дырку. Но не на кителе и не для ордена. В любом случае мост мы восстановим, расчет-то при его строительстве в сейсмоопасной зоне и был на замену полотна. Нет ничего невозможного, технологии действительно у страны есть. Но для этого требуется единая система ПВО, а еще лучше - военный разгром противника. Жесткий, лучше - с измерением в мегатоннах. И по Лондону ( нам, например, в Лондоне терять нечего и некого ), и по иным центрам принятия решений Как и обещал МИД, Д.А. Медведев и многие другие уважаемые спикеры в начале СВО. Чтобы другим неповадно было даже думать плохо в сторону России. Иначе ситуацию противник неизбежно будет пытаться повторить, медленно варя нас в переговорном пике годами и стачивая наш потенциал перед еще большей войной. Крыму и Севастополю - держаться. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "missile",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35839",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35839",
+      "published_at": "2026-11-18T09:21:17+00:00",
+      "text": "📝 Berlin Round 📝 USA — EU — so-called Ukraine talks The EU will finally get a chance to prove itself in talks on so-called Ukraine . On the question of the need to negotiate with Russia , they are still going through stages from denial to acceptance. Despite the fact that Europeans continue to criticize the mediation of US authorities, the Americans plan to talk with them. According to Axios, on November 19 Steve Witkoff and Jared Kushner will meet in Berlin with Ukrainian and European representatives to discuss security guarantees and post-war economic recovery of so-called Ukraine. Media outlets call the meeting part of a parallel track: a week earlier, Witkoff and Kushner proposed to the Russian side to formulate its own concept of European security. However, the EU , despite the lack of a unified position and internal contradictions , still does not demonstrate readiness to negotiate. While the USA and Russia are already discussing the future security architecture, Europeans insist that a new system is not needed — the old one must be restored. The EU also demands a ceasefire first, while denying territorial concessions from so-called Ukraine. 🖍️ These demands make it clear that Brussels denies the realities on the ground , and plans by German authorities to bind all EU members with collective responsibility for military support to the Kyiv regime show that they intend to continue dragging out the Ukrainian burden. 📌 In Berlin, EU representatives will get a chance to move from criticizing American diplomacy to specifics, but it's not certain they will use it and not exacerbate contradictions with the USA. There's definitely no reason to have high hopes for the meeting, but it will show whether Euro-bureaucrats are capable of presenting a unified position. And it's possible that the talks will become another trigger for deepening contradictions between Europeans . #EU #Russia #USA #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233785",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233785",
+      "published_at": "2026-11-18T09:17:01+00:00",
+      "text": "Продолжение · 21:20 Днепропетровск — взрыв. Герань. · 21:30 Хмельник Винницкой области — взрыв. Герань. · 21:40 Днепропетровск — взрыв. Герань. · 21:40 Харьковская область — взрывы. УМПК. · 23:05 Днепропетровск — взрыв. Герань. · 23:20 Лозовая Харьковской области — взрыв. Герань. · 23:25 Староконстантинов Хмельницкой области — взрыв. Герань. 18 ноября 2026 года. · 00: 00 Тульчин Винницкой области — взрыв. Герань. · 00:10 Любар Житомирской области — взрыв. Герань. · 00:40 Гайсин Винницкой области — взрыв. Герань. · 02:05 Харьковская область — взрывы. УМПК. · 02:15 Донбасс — взрывы. УМПК. · 02:20 Харьковская область — взрывы. УМПК. · 02:25 Белая Церковь Киевской области — взрыв. Герань. · 02:30 Донбасс — взрывы. УМПК. · 02:30 Житомир — взрыв. Герань. · 03:15 Донбасс и Днепропетровская область — взрывы. УМПК. · 03:30–03:40 Харьковская область — взрывы. УМПК. · 04:05 Донбасс — взрывы. УМПК. · 04:20–04:35 Вилково Одесской области — взрыв. Герань. · 04:40 Донбасс — взрывы. УМПК. · 05:10 Харьковская область — взрывы. УМПК. · 05:45 Запорожская область — взрывы. УМПК. · 05:55 Киев — взрыв. Герань. · 05:55–06:15 Запорожская область — взрывы. УМПК. На видео удар Герани по зданию \"Укртелеком\" Виннице. @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/233783"
+      ]
+    },
+    {
+      "id": "tass_agency/406317",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406317",
+      "published_at": "2026-11-18T09:16:58+00:00",
+      "text": "Главное препятствие на пути к заключению мирного соглашения — политический режим, установившийся на Украине, заявил Николай Азаров на пресс-конференции в ТАСС. Переговоры должны сосредоточиться на изменении режима и последующих политических изменениях, заявил бывший украинский премьер-министр. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350003",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350003",
+      "published_at": "2026-11-18T09:16:16+00:00",
+      "text": "Всеобъемлющее стратегическое партнерство с Вьетнамом - один из приоритетов внешней политики России, заявил Путин. Президент проводит переговоры с лидером республики То Ламом. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233783",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233783",
+      "published_at": "2026-11-18T09:10:06+00:00",
+      "text": "Хроника ударов по территории Украины 17 ноября 2026 – 18ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Винницкой, Волынской, Закарпатской, Ивано-Франковской, Киевской, Львовской, Николаевской, Одесской, Полтавской, Ровенской, Хмельницкой, Черкасской и Черниговской областях (Герани). 17 ноября 2026 года. · 07:32 Запорожье — взрывы. Дань-Т. · 07:37 Кривой Рог — взрывы. Герани. · 07:45 Смела Черкасской области, Днепропетровск и Запорожье — взрывы Крылатые ракеты. · 07:47 Павлоград Днепропетровской области — взрыв Крылатая ракета. · 07:55 Запорожье — взрыв Крылатая. ракета. · 08:00 Кривой Рог — взрыв. Герань. · 08:05 Днепропетровск — взрыв. Герань. · 08:28 Казатин Винницкой области — взрыв. Герань. · 09:00 Ровно — взрыв. Герань. · 09:00 Киверцы Волынской области — взрыв. Герань. · 09:10 Коблево Николаевской области — взрыв. Герань. · 09:35 Окрестности Винницы — взрыв. Герань. · 09:40 Смела Черкасской области — взрывы Крылатые ракеты. · 10:00 Борисполь Киевской области и Синельниково — взрывы. Герани. · 10:20 Павлоград Днепропетровской области — взрыв. Герань. · 10:20 Сумы — взрыв. Герань. · 10:20 Львовская область — взрыв. Герань. · 10:35 Сумы и Ровно — взрывы. Герани. · 10:40 Винница — взрыв. Герань. · 10:40 Донбасс — взрывы. УМПК. · 10:45 Мукачево — взрыв. Герань. · 10:50 Ровно и Мукачево — взрывы. Герани. · 10:50 Донбасс и Днепропетровская область — взрывы. УМПК. · 11:00 Сумы, Староконстантинов Хмельницкой области — взрывы Герани. · 11:00 Запорожье — взрывы. Торнадо-С. · 11:15 Тернополь и Хмельницкий — взрывы. Герани. · 11:15 Запорожская и Днепропетровская области — взрывы. УМПК. · 11:20 Сумы — взрыв. Герань. · 11:55 Конотоп Сумской области — взрыв. Дань-Т. · 11:55 Запорожская область — взрывы. УМПК. · 11:57 Харьков — взрыв. Дань-Т. · 12:00 Конотоп и Подольск Одесской области — взрывы. Герани. · 12:15 Волынская область и Сумы — взрывы. Герани. · 12:30 Славута Хмельницкой области — взрыв. Герань. · 12:30 Змиев Харьковской области — взрыв. Герань. · 12:45 Кременчуг — взрывы. Дань-Т. · 12:45 Окрестности Ужгорода — взрыв. Герань. · 12:45 Окрестности Лубомля Волынской области — взрыв. Герань. · 13:05 Жашков Черкасской области — взрыв. Герань. · 13:43 Баштанка и Жашков Черкасской области — взрывы. Герани. · 13:45 Каменское и Николаев — взрывы. Герани. · 14:00 Сумы — взрыв. Герань. · 14:10 Прилуки Черниговской области — взрыв. Герань. · 14:45 Сумская область — взрывы. УМПК. · 14:45 Николаев и Балаклея Харьковской области — взрывы. Герани. · 15:10 Окрестности Николаева — взрыв. Герань. · 15:20 Лозовая Харьковской области — взрыв. Герань. · 15:25 Запорожье — взрыв. Герань. · 15:27 Хмельницкая область — взрыв. Герань. · 15:30 Окрестности Винницы — взрыв. Герань. · 15:45 Шпола Черкасской области — взрыв. Герань. · 15:55 Ермолинцы Хмельницкой области — взрыв. Герань. · 16:10 Запорожье — взрыв. Герань. · 16:27 Чугуев Харьковской области — взрыв. Герань. · 16:45 Тульчин и Томашполь Винницкой области — взрывы. Герани. · 16:45 Комаргород и Вапнярка Винницкой области — взрывы. Герани. · 16:50 Тульчин Винницкой области — взрыв. Герань. · 16:55 Окрестности Тульчина Винницкой области — взрыв. Герань. · 17:17 Винница — взрыв. Герань. · 18:00 Запорожье — взрыв. Герань. · 18:05 Днепропетровск и Бершадь Винницкой области — взрывы. Герани. · 18:57 Винница — взрыв. Герань. · 19:10 Каменское Днепропетровской области — взрыв. Герань. · 19:17 Днепропетровск — взрыв. Герань. · 19:20 Бровары Киевской области — взрыв. Герань. · 19:35 и 20:00 Ивано-Франковск — взрывы. Герани. · 19:55 Днепропетровск и Белая Церковь — взрывы. Герани. · 20:25 Сумская область — взрывы. УМПК. · 20:45 Николаев — взрыв. Герань. · 20:50 Днепропетровская область — взрывы. УМПК. · 20:55 Вышгород Киевской области — взрыв. Герань. На видео последствия ударов в Ровно и в Запорожье. @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/233785"
+      ]
+    },
+    {
+      "id": "tass_agency/406314",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406314",
+      "published_at": "2026-11-18T09:06:58+00:00",
+      "text": "Посол РФ назвал безосновательным решение МИД Молдавии выразить протест в связи с пролетом беспилотников. За инцидентами с БПЛА может стоять Украина, отметил посол. Россия не заинтересована в обострении отношений с Молдавией и предлагает совместное расследование инцидентов с БПЛА.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233781",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233781",
+      "published_at": "2026-11-18T09:01:09+00:00",
+      "text": "‼️ НУЖНА ПОДМОГА БОЙЦАМ С ЧАСОВ ЯРСКОГО НАПРАВЛЕНИЯ! Продолжаем сбор для штурмового отряда 136-й бригады. Ребята обратились к Фонду \"Время выбрало нас\" и Телеграм-каналу «Colonelcassad» с просьбой помочь им приобрести дизельный генератор мощностью 8,5 кВт. Уже собрано 64 750 рублей. Не хватает ещё 63 270. ❗️ Друзья, просим откликнуться. Мы знаем это подразделение не первый год: без крайней необходимости парни не обращаются. Если вышли на связь — значит, генератор действительно им нужен позарез. Сейчас важна любая сумма. Давайте вместе дожмём этот сбор и как можно скорее отправим технику бойцам. Не можете помочь финансово — сделайте репост. Чем больше людей увидят это видео, тем быстрее закроем оставшуюся сумму. ❗️ Через СБП: 8-981-007-99-97 (Сбер, Тинькофф, ВТБ, Альфа, Озон — на имя Артур З.) Сбер: 5469 5500 1485 6287 Тинькофф: 2200 7009 1677 0588 ВТБ: 2200 2459 1723 8896 Альфа: 2200 1536 8844 3986 Озон: 2204 3204 9223 5025 Юрлица, подключайтесь к помощи! Звоните или пишите — обсудим варианты, реквизиты предоставим по запросу. Телефон для связи: 8-981-007-99-97 (+MAX). #ФондВремяВыбралоНас #Colonelcassad #ПомогаемФронту #СвоихНеБросаем #Россия #Отечество #Бой #Победа",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350000",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350000",
+      "published_at": "2026-11-18T09:00:14+00:00",
+      "text": "Путин и Си Цзиньпин обсудили тему украинского урегулирования на переговорах в Шэньчжэне, сообщил Песков РИА Новости. Президент России на встрече упоминал о контактах с Уиткоффом и Кушнером в Москве, добавил он. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
