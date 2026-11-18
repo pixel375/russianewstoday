@@ -100,7 +100,15 @@ LOCATION_SIGNALS = frozenset(("kyiv", "odesa", "kharkiv", "zaporizhzhia",
                               "donetsk", "kursk", "moscow", "crimea"))
 
 
-def relevant(text: str) -> bool:
+ANTI_CORRUPTION_SOURCES = frozenset(("nab_ukraine", "sap_gov_ua"))
+
+
+def relevant(text: str, channel: str = "") -> bool:
+    # NABU/SAPO are dedicated Ukrainian anti-corruption feeds. Retain any
+    # substantive original news text for editorial review, even when it
+    # does not mention the war, Ukraine or a predefined keyword.
+    if channel.casefold() in ANTI_CORRUPTION_SOURCES:
+        return bool(text and len(text.strip()) >= 15 and not NOISE.search(text))
     if not text or len(text.strip()) < 28:
         return False
     if NOISE.search(text) and not UKRAINE.search(text):
@@ -273,7 +281,8 @@ def annotate_possible_translations(posts: list[dict]) -> list[dict]:
 def quality_score(p: dict) -> float:
     s = p["text"]
     context = bool(UKRAINE.search(s) or UKRAINE_EXT.search(s))
-    return (3 * context + 2 * bool(THEATER.search(s)) +
+    source_priority = 5 if p.get("channel", "").casefold() in ANTI_CORRUPTION_SOURCES else 0
+    return (source_priority + 3 * context + 2 * bool(THEATER.search(s)) +
             2 * bool(WAR.search(s)) + 2 * bool(POLICY.search(s)) +
             min(len(s) / 350, 2))
 
@@ -301,7 +310,7 @@ def collect(config: dict, now: datetime | None = None,
         all_posts.extend(posts)
     if not all_posts:
         raise RuntimeError("No recent posts were collected from any source")
-    filtered = [p for p in all_posts if relevant(p["text"])]
+    filtered = [p for p in all_posts if relevant(p["text"], p.get("channel", ""))]
     unique = dedupe(filtered)
     selected = annotate_possible_translations(
         pick_candidates(unique, int(config.get("max_candidates", 150))))

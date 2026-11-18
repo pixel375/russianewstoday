@@ -51,6 +51,18 @@
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok"
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "coverage": "ukraine_anticorruption",
+      "filter": "loose"
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "coverage": "ukraine_anticorruption",
+      "filter": "loose"
     }
   ],
   "timezone": "America/Winnipeg",

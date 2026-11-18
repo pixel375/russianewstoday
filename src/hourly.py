@@ -45,7 +45,7 @@ def collect_hour(config: dict, now: datetime | None = None, session=None) -> dic
     if len(stats) < min_sources:
         raise RuntimeError(f"Only {len(stats)}/{len(config['sources'])} sources complete; "
                            f"need at least {min_sources}; refusing incomplete collection")
-    filtered = [p for p in all_posts if relevant(p["text"])]
+    filtered = [p for p in all_posts if relevant(p["text"], p.get("channel", ""))]
     unique = dedupe(filtered)
     candidates = annotate_possible_translations(
         pick_candidates(unique, int(config.get("max_candidates", 150))))
