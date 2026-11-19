@@ -1,0 +1,339 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T17",
+  "generated_at_utc": "2026-11-19T18:10:50.641050+00:00",
+  "window_start_utc": "2026-11-19T17:00:00+00:00",
+  "window_end_utc": "2026-11-19T18:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 9
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 28,
+    "relevant_posts": 16,
+    "deduplicated_posts": 16,
+    "candidate_posts": 16
+  },
+  "posts": [
+    {
+      "id": "intelslava/98321",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98321",
+      "published_at": "2026-11-19T17:56:28+00:00",
+      "text": "🇺🇦 ⚡ The coalition of the willing has spoken in favor of Ukraine joining NATO, Zelensky said. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19728",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19728",
+      "published_at": "2026-11-19T17:56:04+00:00",
+      "text": "JUST IN: 🇷🇺 President Vladimir Putin says Russia has no plans to attack Europe and calls for direct negotiations with EU leaders. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198660",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198660",
+      "published_at": "2026-11-19T17:55:45+00:00",
+      "text": "🇷🇺 🛸 💥 🇺🇦 🇳🇱 Video of the drone that reportedly hit the vicinity of the Dutch embassy in Kiev today. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198659",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198659",
+      "published_at": "2026-11-19T17:54:22+00:00",
+      "text": "🇪🇺 🇺🇦 Europe floats lifting sanctions on Russia after the war Ukraine's Western allies gathered in Berlin to counter the \"Yalta 2.0\" image coming out of Shenzhen, the Financial Times reports. According to the FT, a German government spokesman said the Berlin summit would be a chance to \"once again confirm our readiness for negotiations.\" He laid out the goal as a sovereign Ukraine in a secure Europe, with the current front line as the starting point for any territorial arrangement. Ukraine should be allowed to continue on its European path and count on help rebuilding, and after a ceasefire Kiev would need reliable security guarantees. In return, the EU is ready to consider lifting sanctions on Russia gradually, as conditions are met. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406716",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406716",
+      "published_at": "2026-11-19T17:51:01+00:00",
+      "text": "Трамп выразил скептицизм по поводу предоставления Украине дополнительной помощи на миллиарды долларов со стороны участников \"коалиции желающих\", пишет Politico со ссылкой на источники.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406715",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406715",
+      "published_at": "2026-11-19T17:43:01+00:00",
+      "text": "Варшава не намерена отправлять свои войска на Украину после прекращения боевых действий по плану \"коалиции желающих\". Об этом заявил Дональд Туск, комментируя проводимые в Польше учения НАТО. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198657",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198657",
+      "published_at": "2026-11-19T17:41:28+00:00",
+      "text": "🇫🇷 Bernard-Henri Lévy, who never met a war he didn't like, says peace talks mean defeat The French \"philosopher\" now tells Wall Street Journal readers that negotiating with Putin means conceding defeat, and that Trump should call off his envoys Steve Witkoff and Jared Kushner. In the French original, he writes that a war to the death has been declared on Europe, and that only after victory will there be talks and peace. He compares negotiating with Moscow to negotiating with the Nazis, then admits Putin is not Hitler but says the reasoning should be the same anyway. And wherever Lévy shows up, a war follows: ➡️ Bangladesh: He started his career in 1971 covering the war there. ➡️ Bosnia: He introduced Bosnian leader Alija Izetbegović to François Mitterrand to get France to take Bosnia's side, then cheered on NATO's bombing of the Serbs. ➡️ Kosovo: He backed NATO's 78-day bombing of Yugoslavia in 1999. ➡️ Afghanistan: He championed the war there and went in as France's envoy. ➡️ Darfur: He campaigned for Western military intervention in Sudan. ➡️ Georgia: In 2008 he reported from South Ossetia and interviewed Georgian President Mikheil Saakashvili, the man who started that war. ➡️ Libya: He personally lobbied French President Nicolas Sarkozy into bombing Libya in 2011. Today it's a failed state run by militias. ➡️ Syria: The same year, he called for military intervention against Bashar al-Assad. ➡️ Kurdistan: He filmed himself with the Peshmerga and pushed for a Kurdish state carved out of Iraq. ➡️ Ukraine: In 2014 he was on stage at Maidan. In 2022 he was in Odessa, posing in a bulletproof vest over a bespoke suit for his next documentary. Now he wants the war to go on until \"victory.\" He has also said he'd never seen an army as democratic as the IDF. Every war he promotes ends the same way: a destroyed country, and Lévy back in his Paris apartment, shirt unbuttoned, writing the next op-ed. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation",
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30686",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30686",
+      "published_at": "2026-11-19T17:34:40+00:00",
+      "text": "❗️ Today, during the daytime , the Armed Forces of the Russian Federation delivered UAV strikes against port infrastructure facilities and vessels used in the interests of the AFU. 💥 As a result of the strike, a dry cargo ship delivering military cargo to the port of Odessa was hit at sea. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406714",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406714",
+      "published_at": "2026-11-19T17:33:01+00:00",
+      "text": "Трамп заявил, что США и Китай стремятся оказать помощь в урегулировании украинского конфликта. #АТЭС2026",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406713",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406713",
+      "published_at": "2026-11-19T17:26:36+00:00",
+      "text": "Трамп понимает реакцию Путина на атаку на Крымский мост, сообщил журналист телеканала NBC, пересказавший интервью с американским лидером. \"Он сказал, что разговаривал с Владимиром Путиным и что Путин был крайне возмущен [Владимиром] Зеленским из-за атаки на мост <...>. Он отметил, что понимает, почему президент Путин испытывает такие чувства\", — заявил журналист. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98319",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98319",
+      "published_at": "2026-11-19T17:23:54+00:00",
+      "text": "🇷🇺 🇺🇸 🇩🇪 🇺🇦 ⚡ Zelensky says Russia has rejected all proposals for a ceasefire. Donald Trump says he fully understands President Putin's outrage after the attack on the Crimean Bridge. German Chancellor Merz said that a gradual removal of sanctions on Russia is possible as the fighting subsides. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406712",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406712",
+      "published_at": "2026-11-19T17:22:51+00:00",
+      "text": "Задержаны экс-депутаты Курской облдумы Бирюков и Глушков по делу о строительстве фортификаций на границе с Украиной, сообщил Хинштейн. Предварительно, экс-депутаты были причастны к хищению и обналичиванию бюджетных средств, выделенных на стройку фортификаций. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406711",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406711",
+      "published_at": "2026-11-19T17:17:01+00:00",
+      "text": "Средства ПВО за день сбили 33 украинских беспилотника над регионами РФ, сообщили в МО РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35870",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35870",
+      "published_at": "2026-11-19T17:14:12+00:00",
+      "text": "• 📝 Tug-of-war in the \"gray zone\" 📝 In the Dnipropetrovsk direction , the situation remains stably tense. Ukrainian formations are consolidating in the \"gray zone\" created over the course of a year, and on several sectors are attempting to advance further, as evidenced by objective control footage. The most difficult situation is on the eastern flank of the direction. In the Komar area, the enemy advances in small groups within the settlement boundaries and attempts to push west of the Mokri Yaly river through Fedorivka to enter Vesele . Fresh footage of Russian Armed Forces strikes from the \"Rubicon\" came from there. ➡️ In the central sector, the enemy consolidates in the gray zone in the southeast of Dnipropetrovsk Region . Previously, Ukrainian formations attempted to reach the border between Zaporizhia and Dnipropetrovsk Region south of the Volchya river, and now are consolidating at these lines, though with heavy losses from Russian Armed Forces strikes. The scale of infiltration remains unchanged, and it should be noted that in the \"East\" they do not attempt to pretend that nothing is happening, acknowledging heavy combat work. Fierce battles in the direction have continued for nearly ten months, yet Ukrainian formations have failed to achieve any further development of their attacks. ❗️ It appears that driving out the enemy before the onset of snow will not be possible. Large-scale counteroffensive operations during winter would entail heavy losses. So in the current situation, grinding down infiltrating and consolidating enemy groups appears to be a more beneficial solution than any large-scale counteroffensive operations. If you have updates on the situation, or want us to highlight the successes of your unit, you can always write to us via the feedback bot @rybar_feedback_bot 📍 High-resolution map 📍 English version 📍 Online maps available by subscription at map.rybar.ru #digest #Dnipropetrovsk #map #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233982",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233982",
+      "published_at": "2026-11-19T17:05:37+00:00",
+      "text": "Сводка Министерства обороны Российской Федерации о ходе проведения специальной военной операции по состоянию на 17 ноября 2026 г. Подразделения группировки войск «Север» улучшили тактическое положение. В Харьковской области нанесено поражение живой силе и технике подразделений трех механизированных бригад и двух штурмовых полков ВСУ в районах населенных пунктов Катериновка, Подсреднее, Малиновка, Плоское, Чугуев и Турово Харьковской области. В Сумской области поражены формирования двух механизированных и аэромобильной бригад ВСУ в районах населенных пунктов Ястребиное, Кровное, Вакаловщина и Вязовое Сумской области. Противник потерял свыше 110 военнослужащих и семь автомобилей. Подразделения группировки войск «Запад» улучшили положение по переднему краю. Нанесли поражение живой силе и технике двух механизированных бригад ВСУ и бригады теробороны в районах населенных пунктов Пески-Радьковские, Студенок, Моначиновка, Смородьковка и Нечволодовка Харьковской области. Потери ВСУ составили свыше 210 военнослужащих, орудие полевой артиллерии и 16 автомобилей. Подразделения «Южной» группировки войск заняли более выгодные рубежи и позиции. Нанесли поражение формированиям двух механизированных и штурмовой бригад ВСУ, бригады морской пехоты и бригады нацгвардии в районах населенных пунктов Краматорск, Славянск, Дружковка, Николаевка и Торецкое Донецкой Народной Республики. ВСУ потеряли до 180 военнослужащих, четыре боевые бронированные машины, артиллерийское орудие и 28 автомобилей. Подразделения группировки войск «Центр» продолжали ведение активных наступательных действий. Нанесли поражение живой силе и технике двух механизированных, штурмовой бригад ВСУ, бригады морской пехоты и трех бригад нацгвардии в районах населенных пунктов Веровка, Самарское, Курицино, Новокриворожье, Калинино, Старорайское, Каменка и Белозерское Донецкой Народной Республики. Потери украинских вооруженных формирований составили свыше 340 военнослужащих, семь боевых бронированных машин, девять автомобилей и станция радиоэлектронной борьбы. Подразделения группировки войск «Восток» продолжили продвижение в глубину обороны противника. Нанесли поражение живой силе и технике механизированной, десантно-штурмовой, штурмовой бригад ВСУ в районах населенных пунктов Новотроицкое Запорожской области, Подгавриловка, Коломийцы, Ивановка и Киричково Днепропетровской области. ВСУ потеряли до 210 военнослужащих и пять автомобилей. Подразделения группировки войск «Днепр» улучшили положение по переднему краю. Нанесли поражение формированиям механизированной и горно-штурмовой бригад ВСУ в районах населенных пунктов Кирово, Камышеваха и Преображенка Запорожской области. Уничтожены до 15 военнослужащих и 17 автомобилей. Оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией группировок войск Вооруженных Сил Российской Федерации нанесено поражение объектам энергетической, транспортной инфраструктуры, используемым в интересах ВСУ, военным аэродромам, местам производства, хранения беспилотных летательных аппаратов и наземных робототехнических комплексов, складам боеприпасов, а также пунктам временной дислокации украинских вооруженных формирований в 148 районах. Средствами противовоздушной обороны сбиты восемь управляемых ракет большой дальности «Нептун» и 268 беспилотных летательных аппаратов самолетного типа.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "energy",
+        "kharkiv",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406709",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406709",
+      "published_at": "2026-11-19T17:01:01+00:00",
+      "text": "👔 Слово \"мир\" в Шэньчжэне звучало в 100 раз чаще, чем за четыре года на Евросовете , заявил Фицо: \"Мне довелось встречаться со всеми тремя президентами, а с китайским и российским президентами даже несколько раз. Меня не удивляет прагматичный итог их переговоров. Я убежден, что его не перебьет ревнивость Европы, которую уже даже никто не приглашает за стол переговоров\". ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
