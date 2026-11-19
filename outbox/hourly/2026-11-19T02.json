@@ -1,0 +1,21 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-19T02",
+  "snapshot_generated_at_utc": "2026-11-19T03:25:27.555597+00:00",
+  "items": [
+    {
+      "title": "Musk says Starlink refused Ukrainian requests for offensive military use",
+      "summary": "Elon Musk accused President Volodymyr Zelensky of misrepresenting requests to use commercial Starlink satellites for offensive military operations. Musk said such requests were declined, distinguishing commercial Starlink from the US government-controlled Starshield system.",
+      "source_urls": [
+        "https://t.me/AussieCossack/53384"
+      ]
+    },
+    {
+      "title": "Russian drone detachment claims strikes on Ukrainian UAV and vehicle",
+      "summary": "A Russian military-linked account says the Anvar detachment destroyed a Ukrainian Baba Yaga drone near Shevchenkove and struck a minivan near Buriakivka. The report did not specify casualties or provide a broader damage assessment.",
+      "source_urls": [
+        "https://t.me/boris_rozhin/233898"
+      ]
+    }
+  ]
+}
