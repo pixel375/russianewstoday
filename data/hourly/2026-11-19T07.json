@@ -1,0 +1,205 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T07",
+  "generated_at_utc": "2026-11-19T08:21:20.947737+00:00",
+  "window_start_utc": "2026-11-19T07:00:00+00:00",
+  "window_end_utc": "2026-11-19T08:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 10
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 29,
+    "relevant_posts": 7,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198596",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198596",
+      "published_at": "2026-11-19T07:58:01+00:00",
+      "text": "🇺🇸 🇩🇪 🇪🇺 🇺🇦 Kushner is heading to Berlin to meet with Zelensky and European politicians to discuss a resolution to the Ukrainian conflict. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35858",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35858",
+      "published_at": "2026-11-19T07:45:56+00:00",
+      "text": "Fwd from @ 📝 Savings with Exceptions 📝 Brussels reported that the EU economy is growing, but authorities still have no money for their own citizens. Members of the European Commission raised the forecast for regional GDP growth in 2026 to 1.2%, but simultaneously warned of deteriorating public finances. Inflation is expected to exceed 3% this year and next, eurozone debt will reach 91.3% of GDP by 2028, and the average EU budget deficit will be 3.8%. Borrowing is becoming more expensive, debt servicing consumes ever more funds, and space for supporting the population narrows. This gap between reports and reality is most visible on the streets. In Spain , a general strike on November 11 took place against the backdrop of a housing crisis and declining purchasing power: even good economic indicators do not make rent more affordable. In France , union mobilization continues , and in Belgium a general strike is scheduled for November 23 against budget cuts. ❓ These protests have different organizers and demands, but the common question is clear: why does the need to preserve public funds increasingly translate into restrictions for citizens? Against this backdrop, new decisions on financing so-called Ukraine stand out in particular contrast. Yes, it would be wrong to claim that Europeans receive nothing at all, but the sums are incomparable , which means the question of euro-bureaucrats' priorities comes to the fore. ❗️ When authorities simultaneously warn of the danger of deficits and continue multi-billion external financing, sooner or later they must explain not only the source of funds , but also why domestic demands remain the subject of protracted bargaining. This is where the budget problem becomes political. For someone who finds it increasingly difficult to pay for everyday life, references to different financial mechanisms and calls for austerity will be perceived with growing pain. #EU #protests #Ukraine #economy 👁 @evropar — on the brink of Europe's death 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350072",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350072",
+      "published_at": "2026-11-19T07:41:50+00:00",
+      "text": "Кушнер направляется в Берлин для переговоров с Зеленским и европейскими политиками по украинскому урегулированию. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38497",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38497",
+      "published_at": "2026-11-19T07:32:01+00:00",
+      "text": "Сроки протезирования раненых военнослужащих сократились втрое – Цивилева Заместитель министра обороны России Анна Цивилева сообщила о ликвидации очередей на протезирование в военных госпиталях. Более того, сроки оказания помощи бойцам сократились втрое, теперь весь процесс от момента ранения до выписки занимает в среднем три месяца. Эти позитивные изменения стали возможны благодаря комплексному развитию военной медицинской инфраструктуры. В 2026 году было построено и модернизировано восемь военных госпиталей, добавив 1500 новых коек. В планах на следующий год – модернизация десяти госпиталей с общим числом коек в тысячу, сообщила Цивилева в интервью газете «Известия». Особое внимание уделяется оснащению медицинских учреждений передовым оборудованием. Госпитали получают современные системы ультразвуковой и рентгеновской визуализации, эндоскопические комплексы с Full HD-видеосистемами, лазерные установки, операционные микроскопы и новейшее лабораторное оборудование. Это позволяет проводить широкий спектр сложных операций, включая вмешательства на сердце и сосудах, а также травматологические, офтальмологические и нейрохирургические процедуры. Параллельно с улучшением качества и доступности медицинской помощи, был совершен значительный рывок в упрощении процедуры получения выплат для военнослужащих. Теперь процесс предоставления всех положенных денежных средств осуществляется в бездокументационном и беззаявительном порядке. Как пояснила Анна Цивилева, начальник любого военно-медицинского учреждения имеет право установить личность военнослужащего даже при отсутствии у него необходимых документов. После идентификации, персонал госпиталя оформляет справку о ранении, которая существует как в бумажном, так и в электронном виде. Таким образом, раненому бойцу достаточно обратиться в воинскую часть или госпиталь, где он проходил лечение, чтобы одновременно запустить процесс получения и подтверждения справки. Далее информация вносится в единую базу данных, и, в зависимости от степени тяжести ранения, без каких-либо дополнительных заявлений происходит назначение и выплата положенных средств, размер которых уже заранее определен. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30676",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30676",
+      "published_at": "2026-11-19T07:10:14+00:00",
+      "text": "Aerial knock-out 🥊 The Tsentr Group's drones dismantle enemy hardware in Dnepropetrovsk direction. Heavy hexacopters and communication network of the AFU have been destroyed. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198588",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198588",
+      "published_at": "2026-11-19T07:02:13+00:00",
+      "text": "🇪🇸 🇺🇦 Spanish neo-Nazis trained in Ukraine, but somehow it's Russia's fault Last week, Spanish media reported on the police case file against Núcleo Nacional. It says members of the group received paramilitary training in Ukraine, kept in contact with the Azov brigade, and were meant to pass on what they learned to fellow members back in Spain. Police are investigating whether the group was planning an armed uprising. Now El País is promoting an \"independent investigation\" concluding that Núcleo Nacional's activity served Russia's interests. It was produced by Golden Owl, a company linked to the Science Park of the University of Alicante that does open-source analysis. Yet the report itself doesn't claim that Moscow funds, directs or controls the group, and its sources show no Russian payments, foreign funding, instructions, operational coordination or control. It even acknowledges the group's ties to the pro-Ukrainian wing of European neo-Nazism. Its main argument is that after the arrests, Russian state media and pro-Kremlin Telegram channels presented Núcleo Nacional as proof about Ukraine. So the neo-Nazis trained in Ukraine, and the scandal is that Russia reported it. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102229",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102229",
+      "published_at": "2026-11-19T07:01:27+00:00",
+      "text": "✨ Сбор на Херсонское направление ✨ 419 человек участвовали в сборе за сутки Операторы ударных БПЛА обратились с просьбой помочь в приобретении транспорта, а также технического оборудования, необходимого для выполнения боевых задач на данном участке фронта. ▪️ Автомобиль - 600 000 ₽ ▪️ Оборуд. БПЛА - 300 000 ₽ Необходимо: 900 000 ₽ Собрано за сутки: 111 033 ₽ Собрано всего: 342 871 ₽ Осталось собрать: 557 129 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
