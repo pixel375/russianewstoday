@@ -1,0 +1,205 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T18",
+  "generated_at_utc": "2026-11-19T19:30:15.935545+00:00",
+  "window_start_utc": "2026-11-19T18:00:00+00:00",
+  "window_end_utc": "2026-11-19T19:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 18,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19729",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19729",
+      "published_at": "2026-11-19T18:57:32+00:00",
+      "text": "JUST IN: 🇷🇺 🇺🇦 UK, France, Germany and Ukraine say Russian assets will remain frozen until Russia ends the war and pays Ukraine for damages. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233990",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233990",
+      "published_at": "2026-11-19T18:40:36+00:00",
+      "text": "Анимированная схема ударов по территории Украины 07:30 18 ноября 2026 – 07:30 19 ноября 2026 года. Добавления и изменения выявленные в процессе создания схемы: • 16:10 Комань Черниговской области – взрывы. Герани. • 00: 30 Белгород-Днестровский Одесской области — взрыв. Герань • 06:35-06:40 Затока Одесской области – взрывы. Герани",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233989",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233989",
+      "published_at": "2026-11-19T18:21:01+00:00",
+      "text": "Группировка ЦЕНТР громит технику и пехоту врага в боях севернее Доброполья и в Днепропетровской области Видео подборка за 19 ноября. На видео показаны фрагменты ликвидации боевиков ВСУ, их боевой техники, артиллерии, транспорта, позиций, тяжёлых дронов-бомбардировщиков и систем связи. @btr80",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198661",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198661",
+      "published_at": "2026-11-19T18:02:03+00:00",
+      "text": "🇺🇸 🇷🇺 Kushner claims Russia is \"satisfied\" with Article 5-style security guarantees for Ukraine White House special envoy Jared Kushner, Trump's son-in-law, says the US has convinced Moscow that any security deal for Ukraine will be built on the principles of NATO's Article 5, The Guardian reports. \"I know that in Russia this concept is viewed with a lot of skepticism and distrust, but that's exactly why it's important to restart dialogue between Europe and Russia,\" Kushner said. He added that from Washington's point of view, offering Article 5-like guarantees is a very important step and Trump is open to it, but it has to serve American interests and be part of a broader security package. Moscow has not confirmed that it agreed to anything of the kind. ℹ️ And a reminder: even NATO's real Article 5 doesn't oblige anyone to go to war. It only commits each member to take \"such action as it deems necessary,\" which could be anything from troops to a strongly worded statement. Now imagine how much an \"Article 5-style\" promise would be worth. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406718",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406718",
+      "published_at": "2026-11-19T18:01:01+00:00",
+      "text": "Главные новости к этому часу: ▪️ США в целом поддержали идею миссии в Константиновке, но от Киева — тишина, отметил Песков. ТАСС собрал ключевые заявления представителя Кремля. ▪️ Временная поверенная Финляндии вызвана в МИД РФ, сообщает российское дипведомство. ▪️ ВС РФ поразили шедшее в Одессу судно ВСУ. ▪️ Число пострадавших при атаке ВСУ на Курск выросло до 13. ▪️ Посольство РФ требует от Гааги разъяснений о возможном участии Destinus в ударах. ▪️ На \"12 баллов из 10\" оценил Трамп встречу с Путиным и Си Цзиньпином, сообщил корреспондент NBC Гутьеррес после разговора с президентом США. ▪️ Кнайсль заявила , что не планирует возвращаться на родину на фоне запуска процесса по лишению ее гражданства. ▪️ Мерц допустил отмену санкций против России. ▪️ ГП предупредила Wikimedia о возможности признания ее деятельности нежелательной. ▪️ Жителя Ставрополья осудили на 20 лет за надругательство над падчерицами. ▪️ Умер режиссер монтажа фильмов \"Бумер\" и \"Аритмия\" Иван Лебедев. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kursk",
+        "kyiv",
+        "odesa",
+        "sanctions",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rian_ru/350133"
+      ]
+    },
+    {
+      "id": "rian_ru/350133",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350133",
+      "published_at": "2026-11-19T18:01:01+00:00",
+      "text": "Спецоперация. Обстановка и главные события 19 ноября: ▪️ Путин рассказал, что обсуждал с Совбезом возможное частичное прекращение огня в зоне СВО, но после ударов киевского режима по Крымскому мосту Москва договариваться об этом не будет. ▪️ Российские войска ударили по трем электроподстанциям, сообщили в Минобороны. ▪️ Всего за сутки ВСУ потеряли 1065 военнослужащих и 268 беспилотников. ▪️ БПЛА ВСУ атаковали Курск, количество пострадавших выросло до 13, сообщил Хинштейн. ▪️ Бусаргин сообщил, что разрушения от атаки ВСУ зафиксированы в Красноармейском районе Саратовской области, трое погибли, двое пострадали. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kursk",
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/tass_agency/406718"
+      ]
+    }
+  ]
+}
