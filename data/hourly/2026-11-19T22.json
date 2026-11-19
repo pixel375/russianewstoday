@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T22",
+  "generated_at_utc": "2026-11-19T23:21:15.275685+00:00",
+  "window_start_utc": "2026-11-19T22:00:00+00:00",
+  "window_end_utc": "2026-11-19T23:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 17,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
+  },
+  "posts": [
+    {
+      "id": "voenkorKotenok/77983",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77983",
+      "published_at": "2026-11-19T22:40:00+00:00",
+      "text": "3D-модель перед ударом по мосту Противник воюет от пиара. Понятно, что даже при полном обрушении Крымского моста наличие сухопутного коридора, в конце концов, воли и финансовой «подушки безопасности» позволяют России даже без моста снабжать и поддерживать группировку ВС РФ. Понятно, что непросто жителям Крыма. Тем не менее, удар по мосту не является для России тем, что приводит её к поражению. Минус для противника — воюет не стратегией, а оперирует медийными опциями. Для нас минус в том, что противник умеет в специальные операции, накапливая на определённых участках силы и средства, имеет возможность проводить детальную доразведку объектов. Фишка в чём? Прежде чем нанести удар, противник построил 3D-модель в компьютере и с её помощью атаковал Крымский мост в онлайн-режиме. Фактически Flamingo использовалась как fpv — оператор как на симуляторе управлял ракетой вживую. Такие возможности у противника есть. Читать полностью — 👇 👇 👇 Если мир для них наша смерть… О мостах, концентрации и мощности залпа, ПВО и мире Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19733",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19733",
+      "published_at": "2026-11-19T22:06:25+00:00",
+      "text": "JUST IN: 🇺🇦 🇺🇸 President Zelensky says he wants US military bases in Ukraine. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406734",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406734",
+      "published_at": "2026-11-19T22:02:01+00:00",
+      "text": "34 россиянки задержаны в Анкаре за нарушение морали и общественной безопасности, сообщает посольство РФ. Девушек задержали 23 октября в ходе полицейских рейдов в ночных клубах. Сейчас они находятся в депортационном центре, с ними работает турецкий адвокат.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
