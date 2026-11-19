@@ -1,0 +1,257 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T15",
+  "generated_at_utc": "2026-11-19T16:23:42.573211+00:00",
+  "window_start_utc": "2026-11-19T15:00:00+00:00",
+  "window_end_utc": "2026-11-19T16:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 9
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 38,
+    "relevant_posts": 10,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
+  },
+  "posts": [
+    {
+      "id": "tass_agency/406703",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406703",
+      "published_at": "2026-11-19T15:59:04+00:00",
+      "text": "❕ В результате удара на переходе морем поражено морское судно, доставлявшее в порт Одесса грузы военного назначения, сообщает МО РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198643",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198643",
+      "published_at": "2026-11-19T15:58:28+00:00",
+      "text": "🇩🇪 Germany's foreign minister: your energy crisis has nothing to do with the war, and ending the war will fix it Johann Wadephul admits Germans can feel life getting more expensive and energy running short. His message to them: the two \"aren't directly connected.\" Then, in the same breath: once Russia loses, energy \"will get cheaper again.\" 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98310",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98310",
+      "published_at": "2026-11-19T15:53:23+00:00",
+      "text": "🇺🇦 ⚡ Drone debris fell on the territory of the Ukrainian Ministry of Foreign Affairs in Kiev. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98309",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98309",
+      "published_at": "2026-11-19T15:53:22+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡ This is what Ukrainian military experts have been talking about: Russian strike drones can sharply change their flight direction to make them harder to shoot down. The footage was recorded over Kiev. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30684",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30684",
+      "published_at": "2026-11-19T15:33:30+00:00",
+      "text": "Wiping out fortifications 💥 The Tsentr Group's artillery crews destroyed enemy strongholds in Dnepropetrovsk direction. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35868",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35868",
+      "published_at": "2026-11-19T15:33:08+00:00",
+      "text": "📝 War is more profitable 📝 than covering budget deficits Amid discussions in recent weeks about continuing to finance the bottomless pit under the guise of \"so-called Ukraine,\" solidarity was nonetheless demonstrated in Canada. But, as usual, with a number of caveats. Canadian Defense Minister David McGuinty announced an additional contribution of 45 million Canadian dollars — approximately $31.4 million — to the Czech initiative to purchase ammunition for the Kyiv regime. The funds will be directed toward extended-range ammunition and critical air defense equipment, including AIM-7, R-73 and R-27 missiles. Canada's total contribution to the initiative has exceeded $349 million. Ottawa is also allocating approximately $55.8 million for MX-15D sensor systems from Canadian company WESCAM — meaning these funds represent a direct contribution to Canada's defense industry and an opportunity to profit for the local manufacturer. Another $20.9 million goes to winter clothing and equipment, with the manufacturer unspecified. Canadians will also transfer up to 1.6 million 20mm rounds of ammunition from their own stockpiles to the Ukrainians. 📌 However, an important caveat: in Brussels, they were pushing Canadian authorities to allocate funds to cover the Kyiv regime's budget deficit of 70 billion euros next year. However, Ottawa previously made clear that they are not prepared for that. The Canadians decided not to publicly refuse this undertaking, but instead allocated a symbolic sum specifically for military support, while not forgetting their own manufacturers. ❗️ The Canadian initiative is more of a symbolic step within a broader campaign to mobilize allies . But it is extremely telling that even in Canada, where the most influential Ukrainian diaspora resides, they prefer to finance war rather than the hopeless state budget of the Kyiv regime. #EU #Canada #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406697",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406697",
+      "published_at": "2026-11-19T15:29:36+00:00",
+      "text": "🚨 Число пострадавших в результате атаки ВСУ на Курск выросло до 11, сообщил Хинштейн.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350126",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350126",
+      "published_at": "2026-11-19T15:28:15+00:00",
+      "text": "Девять человек пострадали при атаке на Курск украинских БПЛА. Из-за падения обломков дронов повреждены несколько зданий. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102256",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102256",
+      "published_at": "2026-11-19T15:14:21+00:00",
+      "text": "Над Киевом сбивают дроны Обломки падают, например, на МИД Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233972",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233972",
+      "published_at": "2026-11-19T15:01:21+00:00",
+      "text": "— Тогда в Ялте за столом со Сталиным сидели два представителя Запада, западной свободы и демократии. — После Второй мировой войны? — Именно, после окончания Второй мировой войны. Экспертов на немецком ТВ кроет из-за трёхсторонних переговоров российского, китайского и американского лидеров в Шэньчжэне. Настолько жёстко, что стираются из памяти базовые знания истории (в частности даты Ялтинской конференции и окончания Второй мировой). Из невошедшего: «Рузвельт победил Адольфа Гитлера». Сразу видно, знатоки альтернативной истории собрались. @kanzlerdaddy",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
