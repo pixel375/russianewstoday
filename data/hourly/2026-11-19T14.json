@@ -1,0 +1,304 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T14",
+  "generated_at_utc": "2026-11-19T15:28:11.226997+00:00",
+  "window_start_utc": "2026-11-19T14:00:00+00:00",
+  "window_end_utc": "2026-11-19T15:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 9
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 34,
+    "relevant_posts": 13,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198639",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198639",
+      "published_at": "2026-11-19T14:59:51+00:00",
+      "text": "🫂 Meanwhile in Berlin, the defenders of democracy have gathered. Zelensky, who cancelled the elections. Macron and Merz, with approval ratings lower than the temperature in a Kiev apartment this winter. And Britain's Andy Burnham, who moved into Downing Street without a single vote, because that's how British democracy works now. And Macron looks at Zelensky the way he hasn't looked at Brigitte in years... But hey, democracy, amirite? 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77972",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77972",
+      "published_at": "2026-11-19T14:45:36+00:00",
+      "text": "Ну как без шила в жопе? Простите, но Польша возмутилась, что про неё вообще забыли в повестке дня. Тут Францию, Германию и Великобританию пригласили на консультацию в Москву. А где же шляхта, пся крев? Премьер-министр Польши Туск швыряется угольками прямо из Варшавы, хочет попасть: \"Никто не намерен консультироваться с Россией по поводу того, каким должен быть европейский аспект этих переговоров\". Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77971",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77971",
+      "published_at": "2026-11-19T14:38:42+00:00",
+      "text": "Губернатор Брянской области Егор Ковальчук сообщил о трагедии — украинский дрон атаковал бабушку с 8-летним внуком на велосипеде. Женщина погибла на месте, ребенок ранен и госпитализирован. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406690",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406690",
+      "published_at": "2026-11-19T14:29:45+00:00",
+      "text": "🚨 Дрон ВСУ нанес удар по ехавшим на велосипеде бабушке и ее 8-летнему внуку в Брянской области. Женщина погибла на месте, ребенок ранен, сообщил губернатор Ковальчук.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35867",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35867",
+      "published_at": "2026-11-19T14:21:48+00:00",
+      "text": "📝 No breakthrough 📝 The meeting in Shenzhen has concluded, and Russian President Vladimir Putin shared his impressions from his talks with Donald Trump and Xi Jinping . According to the head of state, the Chinese side managed to create an appropriate atmosphere for open exchange of views on global security issues. 🔻 What else the President stated: ▪️ Politicians in Kyiv and the EU will come to understand that it is better to agree to compromises than to face realities later; ▪️ The International Criminal Court exceeds its authority and makes legally incorrect decisions; ▪️ The President would like to see a continuation following the Russia-China-USA summit; ▪️ The UN needs to adapt to today's realities; ▪️ Russian authorities' demands on European security have not been formulated in detail, but all of them are legitimate ; ▪️ Without a change of political elites in some European countries, it will be impossible to fully restore relations with the EU; ▪️ Residents of Donbas in full accordance with Article 1 of the UN Charter declared independence from so-called Ukraine; ▪️ The Crimean Bridge is exclusively a civilian facility; it has long not been used for transporting oil and ammunition; ▪️ After strikes on the Crimean Bridge, there will be no ceasefire with Kyiv authorities; ▪️ The West's illegitimate sanctions pushed Russia to develop relations with APEC economies; ▪️ This year, trade turnover between Russia and China could reach 280 billion dollars . On the SMO issue, everything was as expected from the start, and Vladimir Putin once again noted that the summit served as a platform for exchanging views on the future of international security, however, each of the world powers will solve its own problems independently . ❗️ Therefore, the main way to achieve peace is to continue strikes on the economic potential of Kyiv authorities as part of the \"war of cities.\" And all the more interesting are the President's words regarding the fact that strikes on Ukrainian territory will intensify in the near future. #digest #China #Russia #USA #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "sanctions",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/233967"
+      ]
+    },
+    {
+      "id": "boris_rozhin/233968",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233968",
+      "published_at": "2026-11-19T14:21:00+00:00",
+      "text": "Боевая работа операторов Центра \"Рубикон\" за 19 ноября 2026 года 00:05 - Донбасс 02:07 - Славянское направление 02:42 - Сумское направление 03:14 - Поражение пехоты ВСУ 03:59 - Дистанционное минирование логистический маршрутов ВСУ 04:44 - Боевая работа дневных расчетов FPV-ПВО по БПЛА ВСУ 05:45 - Боевая работа расчетов FPV-ПВО по дальнобойным БПЛА ВСУ 06:22 - Уничтожение ПВД и живой силы ВСУ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38510",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38510",
+      "published_at": "2026-11-19T14:19:48+00:00",
+      "text": "Экс-замглавы Минобороны Цаликова приговорили к 10 годам колонии и штрафу в 500 млн рублей Замоскворецкий районный суд Москвы приговорил бывшего первого заместителя министра обороны России Руслана Цаликова к 10 годам колонии строгого режима. Кроме того, ему назначен штраф в размере 500 млн рублей. После освобождения экс-чиновнику будет запрещено занимать должности на государственной службе в течение 15 лет. Цаликов признан виновным по 12 эпизодам растраты, а также в легализации похищенных средств и получении взяток в особо крупном размере. По данным следствия, речь идёт о хищении бюджетных средств Минобороны на сумму свыше 6,6 млрд рублей. Суд также удовлетворил гражданский иск военного ведомства, взыскав с бывшего замминистра 6,5 млрд рублей. При этом обвинение в создании преступного сообщества с использованием служебного положения было прекращено за отсутствием состава преступления. Ранее прокуратура запрашивала для Цаликова 18 лет колонии строгого режима. Помимо лишения свободы, суд постановил лишить бывшего чиновника государственных наград и почётного звания «Заслуженный экономист России». Речь идёт об орденах «За заслуги перед Отечеством» всех четырёх степеней, Александра Невского, Мужества и Дружбы. Также Цаликов лишён чина действительного государственного советника первого класса. Отдельно отметим, что ещё в мае 2026 года суд обратил в доход государства активы, связанные с Цаликовым и его окружением, на сумму около 5,5 млрд рублей. Решение было принято по иску Генпрокуратуры. После оглашения приговора Цаликова взяли под стражу прямо в зале суда. На решение он отреагировал короткой фразой: «Вот так бывает в жизни». 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4539",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4539",
+      "published_at": "2026-11-19T14:10:12+00:00",
+      "text": "​​ Хабар за закриття справи про керування автомобілем у стані алкогольного сп’яніння: ВРП відсторонила від здійснення правосуддя голову одного з райсудів Одещини 19 листопада 2026 року за клопотанням керівника САП Вища рада правосуддя тимчасово відсторонила від здійснення правосуддя у зв’язку з притягненням до кримінальної відповідальності голову одного з райсудів Одещини. ВРП частково задовольнила клопотання та відсторонила суддю від здійснення правосуддя до 09 січня 2027 року. Деталі: У межах досудового розслідування встановлено, що за грошову винагороду суддя обіцяв ухвалити рішення на користь громадянки у справі про притягнення її до адміністративної відповідальності за керування транспортним засобом у стані алкогольного сп’яніння, тобто за ч. 1 ст. 130 КУпАП. Відомості до ЄРДР було внесено 06.11.2026, та вже 07.11.2026 суддю викрито одразу після одержання ним обумовлених коштів. 📌 Відповідно до ч. 1 ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98299",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98299",
+      "published_at": "2026-11-19T14:09:10+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — The prisoner exchange between Russia and Ukraine is in the final stage of coordination, and Moscow expects it to take place in the near future, Peskov said. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38509",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38509",
+      "published_at": "2026-11-19T14:06:46+00:00",
+      "text": "Три погибших, двое раненых: ВСУ атаковали Саратовскую область Три человека погибли и двое получили ранения в результате атаки на Саратовскую область, сообщил губернатор Роман Бусаргин. Трагедия произошла в Красноармейском районе, где также зафиксированы повреждения. На месте работают оперативные службы. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98296",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98296",
+      "published_at": "2026-11-19T14:01:25+00:00",
+      "text": "🇺🇸 🇺🇦 ⚡️ — Republicans are threatening to exclude aid to Ukraine from the U.S. defense bill and also to block intelligence sharing, NBC News reports. Republicans are demanding that Democrats drop restrictions on the powers of the head of the Pentagon. This concerns provisions that require Hegseth to coordinate with Congress any changes to officers’ military ranks, limit his travel expenses, and also restrict the military powers of Hegseth and Trump. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406681",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406681",
+      "published_at": "2026-11-19T14:01:01+00:00",
+      "text": "Главные новости к этому часу: ▪️ Россия не будет договариваться после ударов по Крымскому мосту, а будет отвечать. Главное из пресс-брифинга Путина по итогам трехстороннего саммита. ▪️ Лидеры России, Китая и США впервые в истории провели трехстороннюю встречу. Подробнее о переговорах — в материале ТАСС. ▪️ Опубликована декларация лидеров РФ, КНР и США по итогам трехсторонних переговоров. ▪️ Россия и Грузия возобновили прямой диалог, сообщили в МИД РФ. ▪️ При атаке ВСУ на Курск пострадали 11 человек, среди которых 12-летний ребенок. ТАСС собрал основное о последствиях. ▪️ Согласован план восстановления Крымского моста, заявил вице-премьер Хуснуллин. ▪️ Экс первого замглавы Минобороны Цаликова осудили на 10 лет. ▪️ Госдума приняла во втором чтении проект федерального бюджета. ▪️ Международная федерация боулинга сняла все ограничения с россиян. ▪️ В Новосибирске задержали экс-главу Сибирского округа Росгвардии, сообщили ТАСС правоохранители. ▪️ Japan Tobacco после решения по ее активам в РФ ожидает убытки в $4,5 млрд. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kursk",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233967",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233967",
+      "published_at": "2026-11-19T14:01:01+00:00",
+      "text": "Главное из заявлений Путина по итогам саммита с Трампом и Си Цзиньпином: • К Киеву и Европе придет понимание, что лучше согласиться с компромиссами, чем потом столкнуться с реалиями, заявил президент, отвечая на вопрос ТАСС; • МУС выходит за рамки своих компетенций и принимает юридически неверные решения; • Президент хотел бы, чтобы за саммитом РФ — КНР — США последовало продолжение, считает встречу страницей в истории дипломатии; • ООН нужно приспосабливать к реалиям сегодняшнего дня; • Требования России по европейской безопасности досконально не формулировались, но все они законные; • Россия восемь лет старалась урегулировать кризис на Украине, и все эти годы Киев проводил военные мероприятия; • Без смены политических элит в некоторых европейских странах невозможно будет полноценно восстановить отношения; • Янукович был против вступления Украины в НАТО, и его \"снесли\"; • Жители Донбасса в полном соответствии с первой статьей Устава ООН объявили о независимости от Украины; • Крымский мост — это исключительно мирный объект, он давно не используется для перемещения нефти и боеприпасов; • Путин рассказал, что обсуждал с Совбезом РФ возможное прекращение огня в ряде сфер, \"но после ударов по Крымскому мосту договариваться не будем\"; • Российский лидер заявил, что благодарен Трампу за приглашение на G20, но не всегда комфортно часто выезжать за границу; • Санкции и нелегитимные санкции Запада подтолкнули РФ к развитию отношений с экономиками АТЭС; • Путин сравнил трассу \"Новороссия\" в Крым с \"дорогой жизни\" в блокадном Ленинграде; • В этом году будет новый рекорд товарооборота РФ и Китая, может быть до $280 млрд. TACC ©",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "sanctions",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rybar_in_english/35867"
+      ]
+    }
+  ]
+}
