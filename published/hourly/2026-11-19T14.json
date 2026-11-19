@@ -1,0 +1,68 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    90
+  ],
+  "published_at_utc": "2026-11-19T15:28:56.449229+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-19T14",
+  "items": [
+    {
+      "item_id": "2026-11-19T14:1",
+      "title": "Bryansk governor reports woman killed and child injured in drone attack",
+      "summary": "Regional authorities say a Ukrainian drone struck a grandmother and her eight-year-old grandson as they rode a bicycle in Russia's Bryansk region. The woman reportedly died at the scene, while the injured child was taken to hospital.",
+      "post_url": "https://t.me/russianewstodayofficial/90",
+      "category": "other",
+      "hour_id": "2026-11-19T14",
+      "source_handles": [
+        "tass_agency",
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T14:2",
+      "title": "Former Russian deputy defence minister sentenced to 10 years in corruption case",
+      "summary": "A Moscow court sentenced former first deputy defence minister Ruslan Tsalikov to ten years in prison and imposed a 500-million-ruble fine after convicting him on embezzlement, money-laundering and bribery counts. Investigators alleged more than 6.6 billion rubles in Defence Ministry funds were stolen; a separate criminal-organization charge was dismissed.",
+      "post_url": "https://t.me/russianewstodayofficial/90",
+      "category": "other",
+      "hour_id": "2026-11-19T14",
+      "source_handles": [
+        "wargonzo"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T14:3",
+      "title": "Kremlin says Russia–Ukraine prisoner exchange nearing agreement",
+      "summary": "Kremlin spokesman Dmitry Peskov said coordination of another prisoner exchange between Russia and Ukraine was in its final stage and Moscow expected it to take place soon. No exchange date or number of prisoners was announced.",
+      "post_url": "https://t.me/russianewstodayofficial/90",
+      "category": "other",
+      "hour_id": "2026-11-19T14",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T14:4",
+      "title": "US defence bill dispute reportedly threatens Ukraine aid and intelligence sharing",
+      "summary": "Republican lawmakers are reportedly threatening to remove Ukraine assistance from a US defence bill and block intelligence sharing amid a dispute over restrictions on Pentagon leadership powers. The reported demands concern congressional oversight of military ranks, travel expenses and executive military authority; no final decision was announced.",
+      "post_url": "https://t.me/russianewstodayofficial/90",
+      "category": "other",
+      "hour_id": "2026-11-19T14",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T14:5",
+      "title": "Polish prime minister rejects Russian role in shaping European security talks",
+      "summary": "Polish Prime Minister Donald Tusk said European countries should not consult Russia on what the European component of negotiations should look like. His remarks followed Moscow's invitation for European representatives to discuss security arrangements in Russia.",
+      "post_url": "https://t.me/russianewstodayofficial/90",
+      "category": "other",
+      "hour_id": "2026-11-19T14",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
