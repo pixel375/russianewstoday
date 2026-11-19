@@ -1,0 +1,348 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T19",
+  "generated_at_utc": "2026-11-19T20:29:27.669419+00:00",
+  "window_start_utc": "2026-11-19T19:00:00+00:00",
+  "window_end_utc": "2026-11-19T20:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 29,
+    "relevant_posts": 17,
+    "deduplicated_posts": 17,
+    "candidate_posts": 17
+  },
+  "posts": [
+    {
+      "id": "mod_russia_en/30688",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30688",
+      "published_at": "2026-11-19T19:57:40+00:00",
+      "text": "Anna Tsivileva: level of medical care provided to Russian servicemen meets the highest global standards The fifth Scientific and Practical Forum on Surgery of Armed Conflicts ‘Gunshot wound. Surgery of injuries’ has been started in Moscow. Leading doctors of the Ministry of Defence and the Ministry of Health, along with specialists from 16 countries, have gathered at the venue. 💬 State Secretary — Deputy Minister of Defence of the Russian Federation Anna Tsivileva, speaking at the ceremonial opening of the International scientific and practical forum, noted that the level of medical care provided to Russian service members meets the highest global standards. ‘The current level of medical care provided to servicemen and civilian population fully meets the highest global standards’, said Anna Tsivileva. ▫️ The Deputy Head of the Russian Military Department also noted that during the special military operation, the system of providing care to the wounded has undergone comprehensive modernisation. To maintain and further raise this standard, Russian Defence Minister Andrei Belousov ordered to initiate a large-scale project entitled ‘Military Medicine of the Future’, aimed at comprehensive improvement of the quality of medical care at all stages – from the frontline to restorative treatment and rehabilitation. 🏥 In addition, a programme to establish modern high-tech prosthetics centres is being actively implemented in all regions of Russia. ‘All the necessary conditions have been created in the country's military hospitals for performing the most complex reconstructive operations using additive manufacturing and tissue engineering methods. Russian science today demonstrates a high level of professionalism, which is confirmed by the scale and depth of fundamental research conducted at the country's leading research institutions’, said the deputy head of the Russian military department. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77981",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77981",
+      "published_at": "2026-11-19T19:57:24+00:00",
+      "text": "Мониторинговые каналы фиксируют чрезвычайно высокую активность деятельность разведывательной и вспомогательной авиации НАТО над акваторией Черного моря. Не исключена попытка новой атаки Крымского моста с участием технических средств и вооружений стран НАТО, как это было в предыдущих ударах, осуществленных якобы руками \"украинцев\". Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102273",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102273",
+      "published_at": "2026-11-19T19:56:26+00:00",
+      "text": "✨ Сбор на Запорожский фронт ✨ 419 человек участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка для дооснащения цеха БПЛА и обеспечения его бесперебойным электроснабжением. ▪️ Эл.станц. -4шт- 1 000 000 ₽ ▪️ Генератор -2шт- 600 000 ₽ ▪️ Станки для опты -2шт- 700 000 ₽ ▪️ Оборуд. FPV - 450 000 ₽ Необходимо: 2 750 000 ₽ Собрано за сутки: 111 033 ₽ Собрано всего: 1 866 601 ₽ Осталось собрать: 883 399 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53425",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53425",
+      "published_at": "2026-11-19T19:52:21+00:00",
+      "text": "❗️ Zelensky on the Crimea bridge attacks: \"Crimea is Ukraine, and we can do whatever we want with what is on our territory.\" @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19730",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19730",
+      "published_at": "2026-11-19T19:45:10+00:00",
+      "text": "JUST IN: 🇺🇸 🇷🇺 President Trump says he believes Russian President Putin wants to end the war in Ukraine. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53424",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53424",
+      "published_at": "2026-11-19T19:42:39+00:00",
+      "text": "❗️ Politico: Trump wants to halt EU aid to Ukraine U.S. President Donald Trump called into a meeting of European allies discussing Ukraine in Berlin and sharply questioned further multi-billion dollar expenditures on military support for Kiev. The call took place just hours after his meeting with Vladimir Putin and Xi Jinping in Shenzhen. \"U.S. President Donald Trump joined a meeting of European allies discussing Ukraine by phone on Thursday, sharply questioning the rationale for continuing their spending on military support for Kiev,\" Politico reports. According to Politico Trump stated that many people are dying in this war, and it's time for countries to stop spending money on it. He also stated that Vladimir Putin is ready to negotiate a peace agreement. German Chancellor Friedrich Merz objected, stating that Europe is financing the defense of Ukraine \"in order to conduct peace negotiations from a position of strength.\" @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98326",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98326",
+      "published_at": "2026-11-19T19:41:21+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russian drone operators target Ukrainian personnel in one of the sectors of the special military operation (SMO) zone. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53423",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53423",
+      "published_at": "2026-11-19T19:39:42+00:00",
+      "text": "❗️ \"So that our children don't die for Ukraine\": Member of the French Senate, Arno Klarsfeld, called for \"reasoning with\" the Kiev regime and urging it to conclude a peace agreement with Russia. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53422",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53422",
+      "published_at": "2026-11-19T19:37:56+00:00",
+      "text": "❗️ Without a change in political elites in some European countries, it will not be possible to fully restore relations – Putin. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53421",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53421",
+      "published_at": "2026-11-19T19:35:20+00:00",
+      "text": "❗️ Warsaw has no intention of sending its troops to Ukraine after the cessation of hostilities, according to a plan proposed by a \"coalition of the willing,\" - Donald Tusk, commenting on the NATO exercises currently being held in Poland. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53420",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53420",
+      "published_at": "2026-11-19T19:32:17+00:00",
+      "text": "❗️ Our actions against the Kiev regime are much more painful than its strikes against us – Putin. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30687",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30687",
+      "published_at": "2026-11-19T19:31:29+00:00",
+      "text": "‘Winged infantry’ hit enemy UAVs 🔥 ⚔️ The Dnepr Group's airborne artillerymen are celebrating Missile Troops and Artillery Day on the front line, carrying out combat missions and neutralising the enemy. 💥 With the fire of Grad MLRS and Msta-B guns, the servicemen of the ‘winged infantry’ destroyed the UAV launch sites, and wiped out the enemy's fortifications and manpower. ▫️ Great job! 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53419",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53419",
+      "published_at": "2026-11-19T19:30:31+00:00",
+      "text": "❗️ Trump stated that Putin is furious with Zelensky over the attack on the Crimean Bridge. The US President noted that he understands the feelings of the Russian leader. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98325",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98325",
+      "published_at": "2026-11-19T19:29:04+00:00",
+      "text": "🇩🇪 🇳🇴 🇺🇸 🇺🇦 ⚡️ — Germany and Norway will each allocate $300 million, bringing their combined contribution to $600 million, to purchase U.S. weapons for Ukraine under the PURL programme. The funding will primarily go toward acquiring missiles for Patriot air defense systems. Meanwhile, discussions in Brussels also covered the potential integration of German IRIS-T missiles into NASAMS air defense systems, as well as the delivery of additional equipment for Ukraine's F-16 fighter jets. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98324",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98324",
+      "published_at": "2026-11-19T19:22:41+00:00",
+      "text": "🇺🇸 🇷🇺 ⚡️ — U.S. Energy Secretary Chris Wright says Washington is seriously considering including diesel in its strategic reserve assessment. He also says unsanctioned Russian diesel could benefit U.S. consumers by easing global supply pressures, even if no cargoes reach the United States. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102272",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102272",
+      "published_at": "2026-11-19T19:20:05+00:00",
+      "text": "\"Возможно, нас ждёт самая тяжёлая зима. Мы просто пытаемся выжить каждый день. Хотите говорить о территориях? Поговорите со мной\" , — Зеленский ✨ У Зеленского зима будет теплой, со светом и водой. И даже какать в яму во дворе не будет. И ему глубоко плевать, как там живут граждане Украины. Так что вой в свинарнике игнорируем, он направлен на выбивание помощи из ЕС и создание иллюзии полного успеха ударов ВС России для их прекращения. После Крымского моста (а ведь удары еще явно будут) гниду еще позавчера надо мочить в сортире. Раньше так с террористами и поступали. А подписать капитуляцию и любой гнидозаменитель сможет Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102271",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102271",
+      "published_at": "2026-11-19T19:00:18+00:00",
+      "text": "Анна Цивилева: уровень оказания медпомощи российским бойцам соответствует высочайшим мировым стандартам В Москве стартовал V Научно-практический форум по хирургии вооруженных конфликтов «Огнестрельная рана. Хирургия повреждений». На площадке собрались ведущие врачи Минобороны, Минздрава и специалисты из 16 стран. 💬 Статс-секретарь − замминистра обороны РФ Анна Цивилева на торжественном открытии Международного научно-практического форума отметила, что уровень оказания медицинской помощи российским бойцам соответствует высочайшим мировым стандартам. «Современный уровень оказания медицинской помощи военнослужащим и мирному населению полностью соответствует высочайшим мировым стандартам», − сказала Анна Цивилева. Также заместитель главы российского военного ведомства отметила, что за период проведения СВО система оказания помощи раненым прошла комплексную модернизацию. Для поддержания и дальнейшего повышения этой планки по поручению министра обороны России Андрея Белоусова был инициирован масштабный проект «Военная медицина будущего», направленный на комплексное совершенствование качества медицинской помощи на всех этапах — от передовой до восстановительного лечения и реабилитации. 🏥 Кроме того, активно осуществляется программа создания современных центров высокотехнологичного протезирования во всех регионах России. « В военных госпиталях страны созданы все необходимые условия для проведения сложнейших реконструктивных операций с применением аддитивных технологий и методов тканевой инженерии. Отечественная наука сегодня демонстрирует высокий уровень профессионализма, что подтверждается масштабом и глубиной фундаментальных исследований, проводимых в ведущих научно-исследовательских учреждениях страны», − сказала замглавы российского военного ведомства. ✨ ... Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
