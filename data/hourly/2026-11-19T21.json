@@ -1,0 +1,148 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T21",
+  "generated_at_utc": "2026-11-19T22:23:54.566072+00:00",
+  "window_start_utc": "2026-11-19T21:00:00+00:00",
+  "window_end_utc": "2026-11-19T22:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 14,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
+  },
+  "posts": [
+    {
+      "id": "AussieCossack/53433",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53433",
+      "published_at": "2026-11-19T21:57:03+00:00",
+      "text": "❗️ NATO troops serving in Latvia spotted training to run away from the Russian army in the event of a war. PS. The Bersaglieri are an infantry unit of the Italian Army serving in Latvia as part of the NATO multinational brigade. Moving at a full run (passo di corsa — about 180 steps per minute) is a long-standing military tradition dating back to 1836. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350140",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350140",
+      "published_at": "2026-11-19T21:37:36+00:00",
+      "text": "Мошенники обманывают россиян, предлагая повторно оплатить штрафы ГАИ. Аферисты отправляют жертвам сообщения от имени Госавтоинспекции или Федерального казначейства. В них они сообщают, что ранее оплаченный штраф или государственная пошлина не были корректно учтены якобы после обновления системы, и предлагают человеку повторно провести платеж, рассказали в «Мошеловке». В пресс-службе платформы напомнили, что госведомства никогда не требуют повторной оплаты через сторонние ссылки или перевода комиссий за подтверждение транзакций. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233998",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233998",
+      "published_at": "2026-11-19T21:01:01+00:00",
+      "text": "ZALA представила РУК «Ланцет-Э» на встрече правоохранительных структур России и Китая В Подмосковье состоялась встреча представителей правоохранительных структур России и Китая, объединившая знакомство с передовыми технологиями и обмен профессиональным опытом. Мероприятие прошло на территории 21-й отдельной ордена Жукова бригады оперативного назначения Центрального округа войск национальной гвардии в Софрино. В рамках гостевого визита делегации Народной вооруженной полиции КНР представлена экспортная версия разведывательно-ударного комплекса ZALA «Ланцет-Э». Беспилотные технологии ZALA привлекли особое внимание китайской делегации. РУК «Ланцет-Э» — экспортная версия комплекса, ставшего одним из символов высокотехнологичных беспилотных систем России. В его состав входят разведывательный БПЛА ZALA Z-16Э и барражирующие боеприпасы «Изделие 51Э» и «Изделие 52Э». Практическая эффективность РУК «Ланцет» подтверждена более чем 5 тысячами зафиксированных ударов в зоне проведения СВО . Комплекс успешно применяется против тяжелой бронированной техники, малоразмерных и высокомобильных объектов, а также безэкипажных катеров. Представленные разработки вызвали большой интерес у представителей специальных подразделений китайской полиции. В центре внимания оказались не только возможности «Ланцета», но и интеллектуальные решения ZALA, которые постоянно совершенствуются с учетом практического опыта применения беспилотных систем и быстро меняющихся условий современной войны. @ZalaAero",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

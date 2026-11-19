@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-19T20",
-  "generated_at_utc": "2026-11-19T21:28:25.784042+00:00",
-  "window_start_utc": "2026-11-19T20:00:00+00:00",
-  "window_end_utc": "2026-11-19T21:00:00+00:00",
+  "hour_id": "2026-11-19T21",
+  "generated_at_utc": "2026-11-19T22:23:54.566072+00:00",
+  "window_start_utc": "2026-11-19T21:00:00+00:00",
+  "window_end_utc": "2026-11-19T22:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 8
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "MFARussia",
@@ -39,19 +39,19 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "WarGonzo",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 1
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -99,201 +99,48 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 34,
-    "relevant_posts": 14,
-    "deduplicated_posts": 13,
-    "candidate_posts": 13
+    "raw_posts": 14,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
   },
   "posts": [
     {
-      "id": "intelslava/98332",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98332",
-      "published_at": "2026-11-19T20:58:01+00:00",
-      "text": "🇧🇪 🇷🇺 ⚡️ — Belgium previously opposed an EU plan to use frozen Russian assets, citing legal exposure and risks to financial stability. A first attempt by EU leaders to reach an agreement failed in December 2025, with Prime Minister Bart De Wever leading the opposition. @IntelSlava",
+      "id": "AussieCossack/53433",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53433",
+      "published_at": "2026-11-19T21:57:03+00:00",
+      "text": "❗️ NATO troops serving in Latvia spotted training to run away from the Russian army in the event of a war. PS. The Bersaglieri are an infantry unit of the Italian Army serving in Latvia as part of the NATO multinational brigade. Moving at a full run (passo di corsa — about 180 steps per minute) is a long-standing military tradition dating back to 1836. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198675",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198675",
-      "published_at": "2026-11-19T20:50:22+00:00",
-      "text": "🇷🇺 💥 🇺🇦 Ukrainian channels claim Russia is preparing a strike with up to 114 cruise missiles Citing unnamed intelligence data, Ukrainian channels claim that up to 114 air- and sea-launched cruise missiles are ready for a strike on Ukraine: ➡️ 26 Kh-101 missiles on Tu-95MS bombers ➡️ 60 Kh-101 missiles on Tu-160 bombers ➡️ 28 Kalibr missiles on warships in the Black and Caspian Seas That's not counting ballistic and hypersonic missiles, which the channels warn could be launched at any moment. According to the same channels, five Tu-160s have taken off from Ukrainka airbase in Russia's Far East and could reach launch positions over the Kostroma and Vologda regions at around 4:30 a.m., with missiles approaching Ukraine's borders at around 5:40 to 6:00 a.m. Kiev time. Keep in mind that Ukrainian channels have a habit of inflating these numbers. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30690",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30690",
-      "published_at": "2026-11-19T20:45:24+00:00",
-      "text": "▫️ These lads are Gods of war You can sleep tight, Motherland ❤️ 🔹 Russian Defence Ministry",
+      "id": "rian_ru/350140",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350140",
+      "published_at": "2026-11-19T21:37:36+00:00",
+      "text": "Мошенники обманывают россиян, предлагая повторно оплатить штрафы ГАИ. Аферисты отправляют жертвам сообщения от имени Госавтоинспекции или Федерального казначейства. В них они сообщают, что ранее оплаченный штраф или государственная пошлина не были корректно учтены якобы после обновления системы, и предлагают человеку повторно провести платеж, рассказали в «Мошеловке». В пресс-службе платформы напомнили, что госведомства никогда не требуют повторной оплаты через сторонние ссылки или перевода комиссий за подтверждение транзакций. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/77982",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/77982",
-      "published_at": "2026-11-19T20:42:00+00:00",
-      "text": "Хохлы в ожидании — насчитали целых пять русских \"Тушек\" в небе. Говорят, что будут ещё, и что будет удар. Говорят это они уже с неделю как. Но под утро, мол, точно что-то прилетит, к бабе Параске не ходи. Говорят, что русских интересуют мосты в Киеве и Затоке, а еще теплостанции сразу в восьми регионах — Полтаве, Киеве, Днепропетровске, Чернигове, Виннице, Запорожье, Черкассах и Харькове. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv",
-        "kyiv",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233997",
+      "id": "boris_rozhin/233998",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233997",
-      "published_at": "2026-11-19T20:40:00+00:00",
-      "text": "💥 Богуславское направление: разборка техники боевиков Расчёты ударных БпЛА 1 танковой армии ГВ «Запад» продолжают истреблять технику противника по обе стороны от реки Оскол. Неудачные попытки 33 омбр ВСУ оставить на западном берегу расчёты БпЛА привели к многочисленным потерям среди них: техника, транспорт и НРТК батальона беспилотных систем исправно сгорает над нашими FPV-шками. За сутки на направлении уничтожено: до 55 боевиков , четыре автомобиля , девять НРТК и 13 пунктов управления беспилотными системами ВСУ. Оперативный простор 👻 Мы в MAX!",
+      "url": "https://t.me/boris_rozhin/233998",
+      "published_at": "2026-11-19T21:01:01+00:00",
+      "text": "ZALA представила РУК «Ланцет-Э» на встрече правоохранительных структур России и Китая В Подмосковье состоялась встреча представителей правоохранительных структур России и Китая, объединившая знакомство с передовыми технологиями и обмен профессиональным опытом. Мероприятие прошло на территории 21-й отдельной ордена Жукова бригады оперативного назначения Центрального округа войск национальной гвардии в Софрино. В рамках гостевого визита делегации Народной вооруженной полиции КНР представлена экспортная версия разведывательно-ударного комплекса ZALA «Ланцет-Э». Беспилотные технологии ZALA привлекли особое внимание китайской делегации. РУК «Ланцет-Э» — экспортная версия комплекса, ставшего одним из символов высокотехнологичных беспилотных систем России. В его состав входят разведывательный БПЛА ZALA Z-16Э и барражирующие боеприпасы «Изделие 51Э» и «Изделие 52Э». Практическая эффективность РУК «Ланцет» подтверждена более чем 5 тысячами зафиксированных ударов в зоне проведения СВО . Комплекс успешно применяется против тяжелой бронированной техники, малоразмерных и высокомобильных объектов, а также безэкипажных катеров. Представленные разработки вызвали большой интерес у представителей специальных подразделений китайской полиции. В центре внимания оказались не только возможности «Ланцета», но и интеллектуальные решения ZALA, которые постоянно совершенствуются с учетом практического опыта применения беспилотных систем и быстро меняющихся условий современной войны. @ZalaAero",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
         "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406728",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406728",
-      "published_at": "2026-11-19T20:37:42+00:00",
-      "text": "Украине нужно от Запада $115 млрд на 2027 год, заявил Зеленский. При этом он добавил, что аналогичная сумма может понадобиться Киеву и в 2028 году. В то же время Зеленский допустил, что 2027 год \"станет вызовом\" для Киева. Он опасается, что после выборов в ряде стран ЕС к власти придут силы, скептически настроенные к поддержке Украины. ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30689",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30689",
-      "published_at": "2026-11-19T20:25:20+00:00",
-      "text": "📆 Top News Today ⚔️ Russia's firepower: the Missile Troops and Artillery Day is celebrated in the Armed Forces of the Russian Federation. Russian Defence Minister Andrei Belousov congratulated the servicemen and veterans. ▫️ Top priorities are social guarantees, medical support, and solving of the social issues of servicemen and their families: Deputy Head of the Military Department Anna Tsivileva spoke about the implementation of the tasks set at the December Board of the Ministry of Defence. 👊 Arguments hit their aim: Russian elements continue to hit power and poprt infrastructure facilities, as well as vessels, used in the interests of the AFU. 🔥 Firestorm: artillery crews delivered strikes at the AFU's positions in Dnepropetrovsk , Sumy , and Kharkov region. 🎯 Wiping out ‘rat’ holes: drones destroyed the enemy's UAV control post and shelter with manpower in Slavyansk-Kramatorsk Agglomeration. ▫️ Our mission is to protect our Motherland ! #TopNews 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kharkiv",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98330",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98330",
-      "published_at": "2026-11-19T20:23:47+00:00",
-      "text": "🇷🇺 ❌ 🇺🇦 — Footage shows Russian Iskander-M ballistic missile launches from the Belogorsk area of Crimea. A total of five ballistic missiles struck targets in Odesa and Mykolaiv Oblasts. @OSINTWarfare",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "missile",
-        "odesa"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198671",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198671",
-      "published_at": "2026-11-19T20:21:42+00:00",
-      "text": "🇵🇱 🇺🇦 Two Ukrainians have been detained in the Polish city of Poznań for painting \"Glory to the UPA\" on war memorials, Polish broadcaster RMF24 reports. The slogans glorifying the Ukrainian Insurgent Army, the nationalist force behind the Volyn massacre of Poles during World War II, appeared in red paint in early November on three monuments, including the memorial to the Poznań Army and the memorial to soldiers of the Polish Army's Second Army. And of course, Polish prosecutors believe it may have been ordered by Russian intelligence to stir up hatred between Ukrainians and Poles. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406727",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406727",
-      "published_at": "2026-11-19T20:19:21+00:00",
-      "text": "ЕК не рискнет включать в 22-й пакет санкций запрет на морские перевозки российской нефти, опасаясь, что он вновь будет заблокирован странами ЕС, сообщает агентство Bloomberg. Такая ситуация случилась с 21-м пакетом, который Еврокомиссии пришлось сократить…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "sanctions"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98329",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98329",
-      "published_at": "2026-11-19T20:17:17+00:00",
-      "text": "🇷🇺 ❌ 🇺🇦 — Russia's large-scale combined missile and drone attack on Ukraine has begun. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/intelslava/98328"
-      ],
-      "event_signals": [
-        "drone",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233994",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233994",
-      "published_at": "2026-11-19T20:02:39+00:00",
-      "text": "Тяни-толкай в «серой зоне» На Днепропетровском направлении ситуация остается стабильно напряженной. Украинские формирования закрепляются в «серой зоне», созданной на протяжении года, и на нескольких участках пытаются наступать дальше, о чём свидетельствуют кадры объективного контроля. Наиболее сложная ситуация на восточном фланге направления. В районе Комара противник наступает малыми группами в границах населённого пункта и пытается продвинуться к западу от реки Мокрые Ялы через Фёдоровку , чтобы зайти в Весёлое . Именно оттуда появились свежие кадры ударов ВС РФ от «Рубикона». На центральном участке противник закрепляется в серой зоне на юго-востоке Днепропетровской области . Ранее украинские формирования пытались выйти к границе Запорожской и Днепропетровской области южнее реки Волчья , и теперь закрепляются на этих рубежах, хотя и с большими потерями от ударов ВС РФ. Масштабы просачивания не меняются, и стоит отметить, что в «Востоке» не пытаются делать вид, что ничего не происходит, констатируя тяжелую боевую работу. Ожесточенные бои на направлении продолжаются практически десять месяцев, однако дальнейшего развития атаки украинских формирований так и не получили. Выбить противника до начала снегов, судя по всему, уже не удастся. Масштабные контрнаступательные действия в зимний период будут чреваты высокими потерями. Так что в текущей ситуации более выгодным решением выглядит перемалывание групп просачивания и закрепления противника, нежели чем какие-то масштабные контрнаступательные операции. @rybar",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406725",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406725",
-      "published_at": "2026-11-19T20:01:27+00:00",
-      "text": "Задержаны экс-депутаты Курской облдумы Бирюков и Глушков по делу о строительстве фортификаций на границе с Украиной, сообщил Хинштейн. Предварительно, экс-депутаты были причастны к хищению и обналичиванию бюджетных средств, выделенных на стройку фортификаций.…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kursk"
       ],
       "possible_duplicate_urls": []
     }
