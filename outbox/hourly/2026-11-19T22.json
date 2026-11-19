@@ -1,0 +1,21 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-19T22",
+  "snapshot_generated_at_utc": "2026-11-19T23:21:15.275685+00:00",
+  "items": [
+    {
+      "title": "Zelensky says he wants US military bases in Ukraine",
+      "summary": "President Volodymyr Zelensky reportedly said he wants the United States to establish military bases in Ukraine. The statement comes amid discussions of security guarantees, but no agreement to establish such bases was announced.",
+      "source_urls": [
+        "https://t.me/bricsnews/19733"
+      ]
+    },
+    {
+      "title": "Russian military commentator alleges 3D-guided attack on Crimean Bridge",
+      "summary": "A Russian military commentator claimed Ukrainian forces built a computer-generated 3D model of the Crimean Bridge and used it to guide a Flamingo missile during the recent attack, likening the operation to remote-controlled FPV targeting. The account offered no technical evidence for the claimed guidance method.",
+      "source_urls": [
+        "https://t.me/voenkorKotenok/77983"
+      ]
+    }
+  ]
+}
