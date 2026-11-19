@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-19T12",
-  "generated_at_utc": "2026-11-19T13:22:32.684603+00:00",
-  "window_start_utc": "2026-11-19T12:00:00+00:00",
-  "window_end_utc": "2026-11-19T13:00:00+00:00",
+  "hour_id": "2026-11-19T13",
+  "generated_at_utc": "2026-11-19T14:21:33.059539+00:00",
+  "window_start_utc": "2026-11-19T13:00:00+00:00",
+  "window_end_utc": "2026-11-19T14:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 6
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 12
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -39,37 +39,37 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 4,
-      "raw_count": 57
+      "pages": 2,
+      "raw_count": 17
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 11
+      "raw_count": 5
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 5
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "nab_ukraine",
@@ -93,40 +93,101 @@
       "handle": "sap_gov_ua",
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 100,
-    "relevant_posts": 31,
-    "deduplicated_posts": 31,
-    "candidate_posts": 31
+    "raw_posts": 42,
+    "relevant_posts": 12,
+    "deduplicated_posts": 12,
+    "candidate_posts": 12
   },
   "posts": [
     {
-      "id": "rian_ru/350115",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350115",
-      "published_at": "2026-11-19T12:57:11+00:00",
-      "text": "Действия России в отношении Киева продиктованы не благородством, а прагматичным расчетом - Москва хочет сохранить возможности для мира, заявил Путин. При этом президент подчеркнул, что Россия всегда будет отвечать на удары противника. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "tass_agency/406675",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406675",
+      "published_at": "2026-11-19T13:31:30+00:00",
+      "text": "Главное из заявлений Михаила Мишустина на форуме \"Транспорт России\": ▪️ За прошедшие годы доля федеральных дорог в нормативном состоянии увеличилась почти вдвое, а авиаперевозки пассажиров выросли примерно втрое; ▪️ Вклад транспортного комплекса в ВВП РФ в 2026 году, предварительно, приблизится к 15 трлн рублей; ▪️ Суммарный грузооборот морских портов РФ увеличился более чем вдвое, что позволяет наращивать экспорт в Азию, на Ближний Восток; ▪️ По итогам 9 месяцев 2026 года в РФ перевезено порядка 11,5 млрд пассажиров, положительная динамика практически по всем видам транспорта; ▪️ Инвестиции в транспортный комплекс активно растут, ожидается, что их общий объем подойдет к 4 трлн рублей; ▪️ На финансирование дорожного хозяйства в 2026 году выделено около 3,5 трлн рублей; ▪️ Обновление общественного транспорта в регионах идет темпами существенно выше плановых; ▪️ В транспортном комплексе все чаще применяют системы на базе ИИ, в том числе для анализа трафика и распределения автомобильных потоков; ▪️ Для массового использования БПЛА в экономике нужна полноценная инфраструктура наблюдения, навигации и управления во всех регионах РФ; ▪️ В течение следующих трех лет на реализацию Стратегии развития транспортного комплекса будет направлено более 5,5 трлн рублей. ✔ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "moscow",
-        "strike"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198630",
+      "id": "mod_russia_en/30683",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30683",
+      "published_at": "2026-11-19T13:30:01+00:00",
+      "text": "Wiping out ‘rat’ holes 🔥 The Yuzhnaya Group's drones destroyed the enemy's UAV control post and shelter with manpower. 📍 Slavyansk-Kramatorsk Agglomeration 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4538",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4538",
+      "published_at": "2026-11-19T13:15:01+00:00",
+      "text": "​​ АП ВАКС підтвердила визнання необґрунтованими активів родини ексначальника одного з відділів ГУ ДПС у Сумській області 19 листопада 2026 року Апеляційна палата ВАКС залишила без змін рішення ВАКС від 24 червня 2026 року про визнання необґрунтованими активів та їх стягнення в дохід держави, якими фактично розпоряджається родина вже колишнього начальника відділу боротьби з відмиванням доходів, одержаних злочинним шляхом Головного управління ДПС у Сумській області Артема Снєжка. Йдеться про: - автомобіль \"Lexus RX 350\" вартістю 3,1 млн грн, який зареєстровано на дружину близького товариша посадовця, але яким фактично розпоряджається дружина посадовця; - 4 об’єкти нерухомості (3 квартири та 1 паркомісце) загальною вартістю 3,9 млн грн, які юридично оформлені на матір дружини посадовця. У 2023 році товариш посадовця придбав указаний автомобіль в автосалоні, зареєструвавши на своє ім’я. Проте в ході перевірки встановлено, що з першого ж дня і надалі упродовж 2023–2024 років автівкою користувалась дружина посадової особи. Аналіз доходів і видатків посадовця та його сім’ї підтвердив неможливість набуття транспортного засобу за рахунок законних джерел, а також неможливість придбання автомобіля родиною близького друга особи, уповноваженої на виконання функцій держави. Чотири об’єкти нерухомості були придбані у 2019–2021 та 2023 роках. Право власності одразу ж реєструвалося на матір дружини посадовця. Проте фінансовий моніторинг виявив, що її законних доходів також не вистачало для придбання цих активів. Суд погодився з доводами прокурора та відмовив у задоволенні апеляційної скарги відповідачів. Рішення Апеляційної палати ВАКС набирає законної сили з моменту проголошення. Зазначимо, що позов до суду заявлено на підставі матеріалів ДБР, НАЗК та доказів, самостійно одержаних прокурором САП.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35866",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35866",
+      "published_at": "2026-11-19T13:14:26+00:00",
+      "text": "• Fwd from @ 📝 Anatomy of Capitulation 📝 What was actually signed in Caracas The visit of Pentagon chief Pete Hegseth to Miraflores Palace launched a process that seemed incredible just recently: Washington and Caracas officially revived military-technical cooperation, severed by Hugo Chavez more than 20 years ago. The framework agreement signed by Hegseth and Defense Minister Gustavo Gonzalez Lopez is presented in words as \"modernization and partnership,\" but in detail means establishing tight American oversight over the Bolivarian Armed Forces. 🔻 What lies behind the convoluted language? ▪️ The agreement opens permanent access for American military advisors and instructors to the command structures and academies of Venezuela's Armed Forces, embedding US standards under the guise of \"personnel professionalization.\" ▪️ The treaty enshrines conditions for US Navy ships to enter the ports of Puerto Cabello and La Guaira, as well as opening Venezuelan airspace for reconnaissance aircraft and drones under the banner of combating drug trafficking. ▪️ The equipment and technology supply program aims at gradually displacing Russian and Chinese weapons, depriving Venezuelan equipment of independent maintenance and servicing. 📌 For President Diosdado Cabello this pact became a guarantee of personal political survival. Relying on the military support of Pentagon leadership, she preserves power and possibly postpones presidential elections indefinitely. However, the main goal of the Washington administration lies beyond. Openly mentioning protection from \"foreign players,\" Hegseth effectively launched an operation to eliminate Moscow's, Beijing's, and Tehran's key nodes in the region. Intercepting logistics, controlling intelligence and military bases deprives US geopolitical rivals of a strategic foothold in northern South America. ❗️ As a result of the deal, Venezuela will be rapidly transformed into the main military-logistics outpost of the US in the Caribbean. The absence of a permanent base clause in the document is pure formality to circumvent the ban in Article 13 of the Constitution, since Americans have already gained full access to airfields and ports. 📍 High-resolution infographic 📍 English version #Venezuela #USA 🔪 @rybar_latam — pulse of the New World 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38505",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38505",
+      "published_at": "2026-11-19T13:11:21+00:00",
+      "text": "Путин подвёл итоги исторической встречи с Трампом и Си Цзиньпином 19 ноября в китайском Шэньчжэне состоялась первая в истории трёхсторонняя встреча лидеров России, США и Китая – Владимира Путина, Дональда Трампа и Си Цзиньпина. Переговоры прошли на полях саммита АТЭС и продолжались около полутора часов. По их итогам была принята совместная декларация о мире. Главными темами стали международная безопасность, ядерное разоружение, реформирование ООН и урегулирование региональных конфликтов. После встречи Владимир Путин пообщался с журналистами и сделал ряд заявлений об Украине, отношениях с США и европейской безопасности. Украина и европейская безопасность Путин заявил, что для России неприемлемо размещение любых иностранных войск на территории Украины. По его словам, европейские страны постоянно обещают отправить туда свои воинские контингенты. Президент подчеркнул, что Москва не ужесточает переговорные требования и готова обсуждать законные условия обеспечения европейской безопасности. Россия, по его словам, уже согласилась на предложенные США компромиссы в Анкоридже, однако Киев и европейские страны пока не готовы к таким договорённостям. Глава государства также выразил уверенность, что Трамп искренне заинтересован в урегулировании конфликта. При этом Путин считает, что украинское руководство не хочет прекращать боевые действия, поскольку после этого придётся проводить выборы. Он напомнил, что Россия на протяжении восьми лет пыталась урегулировать кризис на Украине, а жители Донбасса объявили о независимости, руководствуясь, по его оценке, статьёй 1 Устава ООН. Крымский мост и ответ России Отдельно Путин прокомментировал удары по Крымскому мосту. Он заявил, что Россия ответит на них, причём ответ будет болезненным для противника. По словам президента, мост является исключительно гражданским объектом и не используется для перевозки военной техники. Железнодорожная часть уже восстановлена, автомобильной нанесён серьёзный ущерб. Путин также рассказал, что обсуждал с Советом безопасности возможность прекращения огня в отдельных сферах, однако после ударов по Крымскому мосту, по его словам, договариваться по этому вопросу Россия не намерена. О встрече с Трампом и Си Цзиньпином Путин назвал переговоры новой страницей в истории дипломатии и отметил, что лидерам удалось провести откровенный обмен мнениями. По его словам, именно свободная дискуссия после официальных выступлений позволила лучше понять позиции друг друга. Среди других заявлений президента: - Международный уголовный суд выходит за пределы своих полномочий и принимает политические, а не юридические решения. - Международная безопасность во многом зависит от взаимодействия России, США и Китая. - Путин не исключил продолжения трёхсторонних контактов, но допустил и другие форматы переговоров. - Президент положительно оценил инициативу Си Цзиньпина по организации встречи. - Трамп, по словам Путина, искренне стремится к урегулированию международных конфликтов. Говоря о возможной новой Ялтинской конференции, Путин заявил, что не видит ничего плохого в историческом примере Ялты, где закрепили итоги победы над нацизмом. Сейчас, по его мнению, было бы хорошо зафиксировать победу над неонацизмом. Что решили три лидера По итогам переговоров Россия, США и Китай приняли совместную декларацию. В ней закреплены намерения: - содействовать реформированию ООН; - поддерживать стабильность мировых поставок энергоресурсов; - вести диалог по сокращению ядерных рисков и предотвращению распространения ядерного оружия; - не допускать злоупотребления полномочиями международных судебных структур. Си Цзиньпин отдельно выступил за создание механизмов кризисной коммуникации между державами и подчеркнул необходимость решать международные разногласия дипломатическим путём. При этом украинский конфликт в итоговую совместную декларацию не вошёл. Путин сообщил, что обсуждал эту тему отдельно с Трампом и Си Цзиньпином. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "energy",
+        "kyiv",
+        "moscow",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/77965",
+        "https://t.me/tass_agency/406672"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198633",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198630",
-      "published_at": "2026-11-19T12:54:28+00:00",
+      "url": "https://t.me/DDGeopolitics/198633",
+      "published_at": "2026-11-19T13:11:15+00:00",
       "text": "🇷🇺 ⚔️ 🇺🇦 Putin: Russia's response to the Crimean Bridge attacks will be far more painful! Speaking at his press conference in Shenzhen, Putin said the bridge is a purely civilian facility, and that on his direct orders it hasn't been used to move military equipment…",
       "text_truncated": false,
       "related_urls": [],
@@ -136,12 +197,81 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98294",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98294",
-      "published_at": "2026-11-19T12:53:06+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Footage shows air defense crews of the 50th Separate Unmanned Systems Brigade “Varyag” intercepting Ukrainian drones over Russian territory. 0:06 - Hornet 0:10 - FP-1 0:13 - FP-1 0:16 - B-2 0:19 - FP-1 0:22 - Maya 0:26 - FP-1 0:29 - FP-1 0:32 - Beaver 0:35 - FP-1 0:38 - Maya 0:42 - FP-1 0:45 - Maya 0:48 - FP-1 0:51 - Hornet 0:54 - FP-1 0:58 - Maya 1:01 - FP-1 1:04 - Zozulya 1:07 - FP-1 @IntelSlava",
+      "id": "voenkorKotenok/77965",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77965",
+      "published_at": "2026-11-19T13:08:22+00:00",
+      "text": "Владимир Путин в Китае сегодня. Главное: — Ответ России на новые атаки по Крымскому мосту будет гораздо болезненнее для киевского режима; — Крымский мост будет восстановлен. Это исключительно мирный объект, давно не используемый в военных целях; — После ударов по Крымскому мосту договариваться Россия не намерена обсуждать прекращения огня в ряде сфер; — Россия не заинтересована в продолжении вооружённого конфликта на Украине, но дальнейшее развитие ситуации зависит от позиции Киева; — В Ялте была зафиксирована победа над нацизмом, и сегодня хорошо было бы зафиксировать победу над неонацизмом. Ялтинские соглашения не были разделом мира, а закрепили реалии, сложившиеся после Второй Мировой войны; — Заявления о том, что Россия якобы планирует нападение на Европу — чушь; Непреодолимых препятствий для создания новой системы европейской безопасности нет. Для этого необходимы политическая воля и готовность всех участников к компромиссам; — Россия готова обсуждать свои требования по системе безопасности Европы. Требования Москвы в этой сфере являются законными; — Международная безопасность сегодня в значительной степени зависит от России, США и Китая; — Настрой администрации Дональда Трампа внушает оптимизм. При этом в отношениях с США не всегда просто доводить достигнутые договорённости до конца; — Лучше иметь хотя бы какие-то договорённости, даже если они не будут полностью реализованы, чем не иметь их вовсе; — Попытки «подвинуть» Россию в территориальных вопросах бессмысленны; — Россия не ужесточает требования на переговорах по Украине. Россия пытается остановить боевые действия, которые до этого шли восемь лет. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "moscow",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/wargonzo/38505",
+        "https://t.me/tass_agency/406672"
+      ]
+    },
+    {
+      "id": "tass_agency/406672",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406672",
+      "published_at": "2026-11-19T13:08:12+00:00",
+      "text": "❗️ Главное из заявлений Путина по итогам саммита с Трампом и Си Цзиньпином: ▪️ К Киеву и Европе придет понимание, что лучше согласиться с компромиссами, чем потом столкнуться с реалиями, заявил президент, отвечая на вопрос ТАСС; ▪️ МУС выходит за рамки своих компетенций и принимает юридически неверные решения; ▪️ Президент хотел бы, чтобы за саммитом РФ — КНР — США последовало продолжение, считает встречу страницей в истории дипломатии; ▪️ ООН нужно приспосабливать к реалиям сегодняшнего дня; ▪️ Требования России по европейской безопасности досконально не формулировались, но все они законные; ▪️ Россия восемь лет старалась урегулировать кризис на Украине, и все эти годы Киев проводил военные мероприятия; ▪️ Без смены политических элит в некоторых европейских странах невозможно будет полноценно восстановить отношения; ▪️ Янукович был против вступления Украины в НАТО, и его \"снесли\"; ▪️ Жители Донбасса в полном соответствии с первой статьей Устава ООН объявили о независимости от Украины; ▪️ Крымский мост — это исключительно мирный объект, он давно не используется для перемещения нефти и боеприпасов; ▪️ Путин рассказал, что обсуждал с Совбезом РФ возможное прекращение огня в ряде сфер, \"но после ударов по Крымскому мосту договариваться не будем\"; ▪️ Российский лидер заявил, что благодарен Трампу за приглашение на G20, но не всегда комфортно часто выезжать за границу; ▪️ Санкции и нелегитимные санкции Запада подтолкнули РФ к развитию отношений с экономиками АТЭС; ▪️ Путин сравнил трассу \"Новороссия\" в Крым с \"дорогой жизни\" в блокадном Ленинграде; ▪️ В этом году будет новый рекорд товарооборота РФ и Китая, может быть до $280 млрд. Видео: Раптли/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "sanctions",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/wargonzo/38505",
+        "https://t.me/voenkorKotenok/77965"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198631",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198631",
+      "published_at": "2026-11-19T13:06:17+00:00",
+      "text": "🇷🇺 Putin: It was the Kiev regime that started the war in Ukraine's southeast At his press conference in Shenzhen, Putin said Russia spent eight years trying to settle the crisis while Kiev kept up military operations the entire time. The people of Donbass…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406667",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406667",
+      "published_at": "2026-11-19T13:05:01+00:00",
+      "text": "Москва по дипломатическим каналам предложила европейцам приехать в Россию и обозначить свои позиции относительно обеспечения безопасности, сообщил Путин.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233964",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233964",
+      "published_at": "2026-11-19T13:02:35+00:00",
+      "text": "Обеспечение социальных гарантий, высококачественное и квалифицированное медицинское обеспечение, комплексная и системная работа по решению социальных вопросов военнослужащих и их семей. О реализации поручений Министра обороны, отданных на итоговом заседании Коллегии военного ведомства в декабре 2025 года, рассказала статс-секретарь – заместитель Министра обороны Российской Федерации Анна Цивилева. Главное: ▫️ Расширен состав индивидуальной аптечки. Количество элементов, входящих в индивидуальную аптечку первой помощи, увеличено за четыре года с 12 до 27. В модернизированную аптечку вошли изделия, позволяющие предотвратить пневмоторакс, специальные противоожоговые препараты, увеличен размер спасательных покрывал, в два раза увеличено количество перевязочных средств. 🩸 Производство «сухой плазмы». В отличие от свежезамороженной плазмы, она имеет длительный срок хранения, не требует отдельных холодильных контуров глубокой заморозки и хранится при температуре +5-20℃. Простота транспортировки позволяет доставить ее прямо до окопа с помощью БПЛА. ▫️ Сокращение времени эвакуации раненых. Первые наземные роботизированные комплексы, предназначенные для эвакуации раненых, начали поступать уже в конце 2025 года. Они применялись в качестве вспомогательных средств. К исходу 2026 года подразделения эвакуации раненых, применяющие робототехнические комплексы, будут обеспечены в полном объеме. 🏥 Проект «Военная медицина будущего». В 2026 году завершено строительство и модернизация восьми военных госпиталей на 1 500 коек. Шесть военно-медицинских организаций уже оснащены 90 единицами высокотехнологичного медицинского оборудования. Указанная работа продолжится и в 2027 году. 📈 Новая система протезирования и реабилитации. Даже в самых сложных случаях весь цикл – от первых замеров до изготовления и финальной «подгонки» протеза – занимает всего несколько недель. 🧑‍💻 Выплаты без лишних справок и трансформация ВВК. Одно обращение военнослужащего – и дальше все процессы проходят по стандартизированным протоколам. Сроки медицинского освидетельствования военнослужащих в целях определения категории годности к военной службе сокращены в 2 раза. 🔬 Оснащение медицинских организаций. Подвижные медицинские группы полностью укомплектованы мобильным, высокотехнологичным оборудованием. Укомплектованность медицинской службы в зоне проведения СВО поддерживается на уровне не ниже 96%. Сформированы 10 медицинских добровольческих отрядов. 🏊 Восстановительное лечение – на качественно новом уровне. Около 95% военнослужащих прошли медицинскую и медико-психологическую реабилитацию. Она стала неотъемлемой частью единого лечебного процесса. 🖥 Витрина данных Минобороны России. Новый электронный сервис для мгновенного получения сведений о статусе военнослужащего, его категории, дате начала участия в СВО, наградах, регионе призыва, удостоверении ветерана боевых действий и датах заключения контракта позволяет бездокументарно подтверждать порядка 70% существующих мер поддержки. 🤝 Понятная и доступная система предоставления мер соцподдержки. Ведомство получает обратную связь от военнослужащих, их жен и детей, их матерей и отцов. Команда Министра обороны старается реагировать на любые возникающие вопросы, оперативно и без лишних проволочек их решать. 🔹 MAКС – территория СВОих",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -150,398 +280,18 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "AussieCossack/53416",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53416",
-      "published_at": "2026-11-19T12:47:52+00:00",
-      "text": "❗️ Putin on Europe: Every day, European leaders say, \"War, war, we need to get ready for 2030.\" There is no need to prepare for 2030. We're not going to attack. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198629",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198629",
-      "published_at": "2026-11-19T12:45:52+00:00",
-      "text": "🇷🇺 ⚔️ 🇺🇦 Putin: Russia's response to the Crimean Bridge attacks will be far more painful! Speaking at his press conference in Shenzhen, Putin said the bridge is a purely civilian facility, and that on his direct orders it hasn't been used to move military equipment, ammunition or even fuel for a long time. He said that after Kiev started hitting Russian tankers in the Black Sea, Russia responded in kind, and now \"from all sides\" there are calls for a ceasefire at sea or a halt to energy strikes. Putin had discussed this with the Security Council, but said that after the strikes on the bridge, \"we will not negotiate.\" He added that the bridge will be restored, but \"the question is the response. And there will be one.\" Looks like bridges across Ukraine may soon start collapsing. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "kyiv",
-        "negotiation",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/AussieCossack/53414"
-      ]
-    },
-    {
-      "id": "AussieCossack/53414",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53414",
-      "published_at": "2026-11-19T12:41:04+00:00",
-      "text": "❗️ We discussed a possible ceasefire in several areas with Russia's Security Council, \"but after the strikes on the Crimean Bridge, we will not negotiate.\" Our response will be much more painful than what Kiev did to the Crimean Bridge. I want everybody to know that. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "negotiation",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/DDGeopolitics/198629"
-      ]
-    },
-    {
-      "id": "tass_agency/406651",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406651",
-      "published_at": "2026-11-19T12:39:05+00:00",
-      "text": "❗️ Именно киевский режим начал войну на Юго-Востоке Украины, заявил Путин. Другие заявления президента: ▪️ Крымский мост — это исключительно мирный объект, он давно не используется для перемещения нефти и боеприпасов; ▪️ Киевский режим понимает, что, потеряв…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53413",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53413",
-      "published_at": "2026-11-19T12:37:04+00:00",
-      "text": "❗️ Putin on Ukraine: The current authorities in Kiev do not want to end the fighting because they would have to hold elections. Kiev has no incentive to end the fighting and agree to peace because it would then lose its funding. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406648",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406648",
-      "published_at": "2026-11-19T12:36:07+00:00",
-      "text": "США настойчиво просят РФ согласиться на участие европейцев в переговорах по Украине, сообщил Путин.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98292",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98292",
-      "published_at": "2026-11-19T12:35:52+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Putin stated that he had discussed with the Russian Security Council the possibility of a ceasefire in certain areas, \"but after the attacks on the Crimean Bridge, we will no longer negotiate about this.\" @Intelslava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102245",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102245",
-      "published_at": "2026-11-19T12:34:32+00:00",
-      "text": "Верховный рассказал, что обсуждал с Совбезом России возможное прекращение огня в ряде сфер, «но после ударов по Крымскому мосту договариваться не будем». Ответные действия России на атаки по Крымскому мосту будут гораздо более болезненные. Президент подчеркнул…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53412",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53412",
-      "published_at": "2026-11-19T12:34:11+00:00",
-      "text": "❗️ Putin on Ukraine: We didn't start the Ukraine war. We didn't start any wars. Ukraine was already waging war, and we tried to put an end to it. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98291",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98291",
-      "published_at": "2026-11-19T12:32:32+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Putin stated that \"Russia's response to attacks on the Crimean Bridge will be much more painful.\" @Intelslava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98290",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98290",
-      "published_at": "2026-11-19T12:30:34+00:00",
-      "text": "🇷🇺 🇨🇳 🇺🇸 ⚡️ — The Kremlin has released the first images from the trilateral summit between the leaders of Russia, the United States, and China. The three leaders held detailed discussions on the current international situation and reaffirmed their commitment to maintaining strategic stability and international security. The summit's key points include: 1. UN reform: As permanent members of the UN Security Council, Russia, China, and the United States reaffirmed their commitment to reforming the United Nations to make it more effective in addressing global challenges and fulfilling its core mandate of maintaining international peace and security. 2. Energy cooperation: The three countries plan to expand the production and supply of petroleum products for the benefit of all nations, emphasizing the importance of maintaining stable energy supplies. 3. State sovereignty and international law: The leaders stressed the fundamental importance of state consent and respect for the immunity of state officials, agreeing that the International Criminal Court (ICC) and similar institutions must not abuse their powers. 4. Nuclear security: The three leaders reaffirmed that a nuclear war cannot be won and must never be fought. They also agreed to engage in dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98289",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98289",
-      "published_at": "2026-11-19T12:30:22+00:00",
-      "text": "🇷🇺 🇺🇦 🇪🇺 ⚡️ — Putina was asked whether the current Russian proposals on European security differ from those put forward in 2021. He indicated that they do. He stated that the pre-war demands \"were not formulated in detail, but they were all legitimate.\" However…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350111",
+      "id": "rian_ru/350116",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350111",
-      "published_at": "2026-11-19T12:30:12+00:00",
-      "text": "Три человека погибли , один пострадал в Саратовской области во время атаки ВСУ. Повреждены объекты гражданской инфраструктуры, угроза ударов сохраняется. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98288",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98288",
-      "published_at": "2026-11-19T12:29:32+00:00",
-      "text": "🇷🇺 🇺🇦 🇪🇺 ⚡️ — Putin stated that Ukraine and Europe are not ready for compromises to end the war. According to him, the discussion concerns the ideas that the United States proposed in Anchorage (recall that the discussion there involved the withdrawal of Ukrainian…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406639",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406639",
-      "published_at": "2026-11-19T12:28:06+00:00",
-      "text": "Экономики АТЭС — естественные партнеры России, отметил Путин. #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98284",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98284",
-      "published_at": "2026-11-19T12:24:50+00:00",
-      "text": "🇷🇺 🇺🇸 🇨🇳 ⚡️ — Putin, after a meeting with Trump and Xi, stated that \"the discussion took place in a very frank manner, allowing us to better understand each other, and it was useful.\" He expressed his desire for this summit to be followed by further developments, considering the meeting \"a page in the history of diplomacy.\" @Intelslava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102244",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102244",
-      "published_at": "2026-11-19T12:24:38+00:00",
-      "text": "Верховный рассказал, что обсуждал с Совбезом России возможное прекращение огня в ряде сфер, «но после ударов по Крымскому мосту договариваться не будем». Ответные действия России на атаки по Крымскому мосту будут гораздо более болезненные. Президент подчеркнул, что Крымский мост — это исключительно мирный объект, он не используется для перемещения нефти и боеприпасов. Два майора Два майора в МАХ",
+      "url": "https://t.me/rian_ru/350116",
+      "published_at": "2026-11-19T13:00:31+00:00",
+      "text": "\"После ударов по Крымскому мосту договариваться не будем\" Главные заявления Путина на пресс-конференции: 🔹 Россия ответит на удары по Крымскому мосту, а сам мост восстановят. 🔹 Президент рассказал, что обсуждал с Совбезом возможное прекращение огня, попросил подумать, но после ударов по Крымскому мосту Россия договариваться не будет. 🔹 Украина и Европа пока не готовы к компромиссам для урегулирования конфликта. 🔹 Россия не начинала никакой войны на Украине, но пытается ее закончить. 🔹 Украина должна согласиться на компромиссы, предложенные США еще до встречи в Анкоридже, Россия их уже приняла. 🔹 Путин назвал бессмысленными попытки ряда стран подвинуть Россию туда, куда она возвращаться не собирается, в том числе в вопросах территорий. 🔹 Украина считает, что удержит оставшиеся 10% территории Донбасса еще какое-то время, но есть ли в этом смысл. 🔹 Внутриполитическая обстановка в США сложная. Путин выразил уверенность, что Трамп искренне стремится к восстановлению отношений России и Штатов. 🔹 Путин назвал страницей в истории дипломатии встречу с Си Цзиньпином и Трампом и отметил – ему бы хотелось, чтобы такие встречи имели продолжение. 🔹 МУС явно выходит за рамки своей компетенции. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "crimea",
         "strike"
       ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406628",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406628",
-      "published_at": "2026-11-19T12:19:09+00:00",
-      "text": "❗️ Именно киевский режим начал войну на Юго-Востоке Украины, заявил Путин. Другие заявления президента: ▪️ Крымский мост — это исключительно мирный объект, он давно не используется для перемещения нефти и боеприпасов; ▪️ Киевский режим понимает, что, потеряв власть, потеряет доход от помощи Запада, заявил российский лидер, отвечая на вопрос ТАСС; ▪️ США предложили компромиссы по Украине, РФ согласилась на них в Анкоридже, но вопрос в желании Киева и Европы с ними согласиться; ▪️ Киев и Европа пока не соглашаются на компромиссы по украинскому урегулированию, но, может, придут к этому; ▪️ Требования России по европейской безопасности досконально не формулировались, но все они законные; ▪️ РФ готова в рабочем порядке обсуждать свои требования по европейской безопасности; ▪️ Россия восемь лет старалась урегулировать кризис на Украине, и все эти годы Киев проводил военные мероприятия; ▪️ Жители Донбасса в полном соответствии с первой статьей Устава ООН объявили о независимости от Украины; ▪️ Россия не начинала войну на Украине, а пытается ее закончить; ▪️ Киев не хочет мира, так как тогда придется идти на выборы, а нынешний режим на них не сможет сохранить власть; ▪️ Если Киев и его спонсоры осознают реалии, то \"компромиссы состоятся\"; ▪️ Киев нанес урон России своими \"40 днями\", но ответные действия РФ оказались гораздо более болезненными. Видео: Раптли/ТАСС #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406627",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406627",
-      "published_at": "2026-11-19T12:18:45+00:00",
-      "text": "❕ Киев нанес урон России своими \"40 днями\", но ответные действия РФ оказались гораздо более болезненными, заявил Путин. Ответ России на удары по танкерам гораздо болезненнее, чем действия киевского режима, отметил президент РФ. #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350109",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350109",
-      "published_at": "2026-11-19T12:17:05+00:00",
-      "text": "❗️ Россия ответит на удары по Крымскому мосту, а сам мост восстановят, заявил Путин. При этом глава государства подчеркнул, что Крымский мост – исключительно мирный объект, его не используют для перевозки военной техники. UPD: президент сообщил, что ж/д часть моста уже восстановлена. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198628",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198628",
-      "published_at": "2026-11-19T12:16:43+00:00",
-      "text": "🇵🇱 🇮🇱 Visegrad24 exposed: a fake media outlet running on dark money, fake news and cocaine Wired has obtained Visegrad24's financial records, internal chats and donor correspondence. Together they expose the \"independent news account\" as a propaganda business that sells its editorial line to whoever pays. ➡️ The editorial line was a business decision Fifteen days after October 7, founder Stefan Tompson listed Visegrad24's four options on Israel in a private message: say nothing, be objective and get hated by both sides, go pro-Muslim because \"there are 1.5 billion of them,\" or go pro-Israel because \"they have a lot of influence and money.\" His conclusion: \"My goal is to fundraise off of this.\" In private, he admitted the \"Israelis do seem to be doing some vicious things.\" He also called Gaza \"the perfect excuse to show the scale of Muslim infiltration in the west,\" and later wrote that the war let them attack Muslims in Europe \"without any consequences.\" ➡️ The money Tompson got into Silicon Valley's pro-Israel group chats, including one with Sheryl Sandberg and Bill Ackman, and bragged that \"V24 is such a big part of the Israeli PR they all know what it is now.\" Sequoia Capital partner Shaun Maguire, who helped connect the IDF with Starlink, offered $25,000 and promised to \"try to raise the rest.\" He told Wired he couldn't donate in the end for compliance reasons. Records show donations of $50,000 and $200,000 lining up with Tompson's messages about Ribbit Capital founder Micky Malka. Another $35,000 is linked to short-seller Hindenburg Research and its founder. More than $1 million flowed through a US charity set up in Delaware, much of it through anonymous \"donor advised funds.\" That includes $175,000 from DonorsTrust, known as the \"dark money ATM\" of the American right. ➡️ Playing both sides When a colleague asked whether he should take money from Saudi Arabia and the UAE, Tompson replied: \"100 percent yes. Play both sides. I do the Jewish side. You do Arabs.\" ➡️ Regime change content When Israel attacked Iran in June 2025, Visegrad24 went all in for Reza Pahlavi, the exiled Shah's son, pushing unverified claims that Iranian officers were ready to defect to him. Asked whether Israel paid him, Tompson joked that Netanyahu \"personally hands me money for every post.\" ➡️ Fake news and the cocaine The account first went viral in 2022 with fake stories about Ukraine, like Leonardo DiCaprio supposedly donating $10 million in honor of a grandmother from Odessa who never existed. At the time, the team was posting from a rented house in the Canary Islands, where, according to an email from his sister, Tompson was \"undergoing acute drug withdrawal.\" In his own messages he refers to a time he was \"on coke.\" The office of former Polish Prime Minister Mateusz Morawiecki also tried twice to send Visegrad24 hundreds of thousands of dollars through a fitness charity. Today the account ranks 32nd among all accounts on X for the number of community notes fact-checking its posts. Tompson denied everything and sent Wired a lawyer's letter. The account that spent years calling everyone else \"Kremlin propaganda\" was a for-hire influence operation all along, paid for by tech billionaires and dark money and willing to sell to either side. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98283",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98283",
-      "published_at": "2026-11-19T12:15:13+00:00",
-      "text": "🇺🇦 🇹🇼 🇨🇳 ⚡️ — Ukraine has proposed that Taiwan build up a stockpile of 5,500 unmanned surface vessels (USVs) ahead of a potential conflict with China in the Taiwan Strait, while establishing a network of dispersed, hardened storage facilities to protect them against a preemptive strike. The USVs would be used to target PLA Navy (PLAN) amphibious assault ships, transport vessels, and support ships, disrupting troop movements and logistics while denying Chinese forces the time needed to establish a foothold. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406619",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406619",
-      "published_at": "2026-11-19T12:11:49+00:00",
-      "text": "❗️ Путин назвал очень полезным трехсторонний саммит с Си Цзиньпином и Трампом. Главное из заявлений президента РФ: ▪️ Дискуссия на трехстороннем саммите проходила в очень откровенном режиме, позволила лучше понять друг друга; ▪️ Си Цзиньпину удалось создать атмосферу для доверительного интересного разговора; ▪️ Российский лидер отметил, что ему понравилось наличие свободной дискуссии после протокольной части трехстороннего саммита; ▪️ Только Господь знает, что будет дальше, но \"хотелось бы, чтобы взаимное понимание было\"; ▪️ Путин хотел бы, чтобы за саммитом РФ — КНР — США последовало продолжение, считает встречу страницей в истории дипломатии; ▪️ Лучше хоть какие-то договоренности, даже если они не до конца реализуются, чем отсутствие договоренностей вообще; ▪️ Путин назвал трехсторонний формат РФ — Китай — США удачным, но не исключил, что какие-то решения будут приниматься и в других форматах. Видео: Раптли/ТАСС #АТЭС2026 ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350108",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350108",
-      "published_at": "2026-11-19T12:11:15+00:00",
-      "text": "Россия не начинала никакой войны на Украине, но пытается ее закончить, подчеркнул Путин. Что еще сказал президент: 🔹 Новые власти Украины в 2014-м начали войну с теми регионами, которые не признали их режим. 🔹 Россия восемь лет пыталась урегулировать кризис на Украине мирными средствами. 🔹 Войну на юго-востоке Украины по сути начал киевский режим. 🔹 У Киева нет никаких стимулов соглашаться на остановку боевых действий и условия мира, потому что они потеряют финансирование. 🔹 Россия стремится к долгосрочному миру на Украине, устремленному в будущее. 🔹 Россия согласилась с компромиссами по урегулированию на Украине, которые предлагали США. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406613",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406613",
-      "published_at": "2026-11-19T12:06:57+00:00",
-      "text": "❗️ Именно киевский режим начал войну на Юго-Востоке Украины, заявил Путин.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350107",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350107",
-      "published_at": "2026-11-19T12:06:49+00:00",
-      "text": "❗️ Украина и Европа пока не готовы к компромиссам для урегулирования конфликта, заявил Путин. Сегодняшние власти в Киеве не хотят прекращения боевых действий, потому что им придется идти на выборы, подчеркнул глава государства. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102243",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102243",
-      "published_at": "2026-11-19T12:03:25+00:00",
-      "text": "🇷🇺 🆚 🏴‍☠️ Пиратам назло Министр транспорта России Дмитрий Ядров доложил Верховном о повышении привлекательности 🇷🇺 российского флага для судовладельцев. По данным министра с июня 2026 года под российский флаг перешло более 130 судов , а их общее количество составило 4980 (совокупный дедвейт – 38 млн тонн). По этому показателю Россия поднялась с 24-го на 14-е место в мировом рейтинге. Цель – войти в десятку и увеличить переток в российскую юрисдикцию 1000 судов. Это стало возможным благодаря внесенным изменениям : ◾ Внедрён принцип «одного окна» – унификация и упрощение процедур; ◾ Иностранные лица получили право регистрировать суда в российской юрисдикции; ◾ Отменено лицензирование перевозок опасных грузов, санитарное освидетельствование и свидетельство о праве плавания; ◾ Полномочия по государственной регистрации судов и их исключению из реестра передаются Росморречфлоту. В дальнейшем планируется принятие закона «О морских администрациях», сокращение административных барьеров и сроков оформления документов, проработка вопроса об упразднении налогового учёта и отчётности для судов по новой схеме, механизмы защиты национального флага от недобросовестных судовладельцев. ✨ Помимо поступлений в государственный бюджет за счёт сборов от судовладельцев, на суда под российским флагом уже не получится просто так высадится пиратам из ЕвроНАТО , которые ссылаются на ст.110 Конвенции по морскому праву (UNCLOS) – «судно в открытом море находится под исключительной юрисдикцией государства флага» (без согласия флага-государства вмешиваться нельзя). 🇩🇰 Ранее, Датская Ассоциация судовладельцев распереживалась из-за тенденции перехода под флаг России судов, в отношении которых введены санкции 🇪🇺 Евросоюза. ✨ ⭐️ Вместе с тем, активное переманивание в российский регистр потребует грамотной организации защиты торговых судов и, вероятно, начала ответных действий против торгового флота пиратских государств. Видимо впереди золотое время российских морских частных военных компаний . Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "sanctions"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233961",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233961",
-      "published_at": "2026-11-19T12:01:01+00:00",
-      "text": "Помните , как украинцы нашли у себя пыточную \"Азова\", полную измордованных сограждан? Так вот, украинские власти вовсю ведут по этому делу задержания и готовят посадки! Но есть нюанс. Задержали и готовятся выдать по 8 лет тюрьмы тем, кто вытаскивал избитых людей из пыточной. И все становится ещё интересней, если узнать статью, по которой их судят. А это \"препятствование деятельности ВСУ, распространение информации о расположении военных объектов и организацию беспорядков\". То есть, и речи не идет о том, что азовцы никого там не пытали, и все это путинские провокаторы и съемки с Мосфильма. Прямо говорится: сядут за то, что запалили располагающийся в гражданском строении военный объект \"Пыточная\" и помешали представителям ВСУ спокойно пытать и убивать людей. Не хочется иронизировать, но практически любую новость из Украины сегодня можно заканчивать словами: \"Ну, и как там майдан?\" Нарисовал DAHR",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
