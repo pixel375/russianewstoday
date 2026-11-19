@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-19T07",
-  "generated_at_utc": "2026-11-19T08:21:20.947737+00:00",
-  "window_start_utc": "2026-11-19T07:00:00+00:00",
-  "window_end_utc": "2026-11-19T08:00:00+00:00",
+  "hour_id": "2026-11-19T08",
+  "generated_at_utc": "2026-11-19T09:25:27.614394+00:00",
+  "window_start_utc": "2026-11-19T08:00:00+00:00",
+  "window_end_utc": "2026-11-19T09:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 7
     },
     {
       "handle": "intelslava",
@@ -21,19 +21,19 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 5
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "mod_russia_en",
@@ -44,14 +44,14 @@
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 1,
-      "raw_count": 10
+      "pages": 2,
+      "raw_count": 28
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 14
     },
     {
       "handle": "rybar_in_english",
@@ -63,25 +63,25 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 8
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "nab_ukraine",
@@ -99,46 +99,193 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 29,
-    "relevant_posts": 7,
-    "deduplicated_posts": 7,
-    "candidate_posts": 7
+    "raw_posts": 74,
+    "relevant_posts": 17,
+    "deduplicated_posts": 14,
+    "candidate_posts": 14
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198596",
+      "id": "boris_rozhin/233939",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233939",
+      "published_at": "2026-11-19T08:55:06+00:00",
+      "text": "❗️ Главные заявления со встречи Путина, Си Цзиньпина и Трампа к этой минуте: Путин: 🔹 У России, Китая и США много совпадающих интересов в части урегулирования региональных конфликтов, включая конфликт на Украине. 🔹 Россия, Китай и США стояли у истоков создания ООН, страны несут ответственность за укрепление международного права. 🔹 Россия, Китай и США могут внести вклад в укрепление стабильности в мире, если будут конструктивно сотрудничать. 🔹 Страны объединяет общая ответственность за поддержание мира и безопасности. 🔹 Президент предложил обсудить глобальные и региональные связи, энергетическую безопасность. 🔹 Отметил общие интересы России, Китая и США в борьбе с международным терроризмом. Си Цзиньпин: 🔹 Сегодняшний мир спокойным не назовешь, США, Китай и Россия должны сообща отстаивать мир на планете. 🔹 Позитивное взаимодействие между крупными державами - это не выбор из нескольких вариантов, а необходимость. 🔹 Китай, РФ и США должны сотрудничать в решении глобальных проблем, совместно обеспечивать мир и стабильность во всем мире. 🔹 Когда крупные державы находятся в согласии, в мире царит мир , а когда они конфликтуют, в мире хаос. Трамп: 🔹 России, КНР и США необходимо вести диалог. Президент подчеркнул готовность к диалогу ради лучшего будущего. 🔹 Заявил о необходимости обсудить вопрос сокращения ядерных вооружений. 🔹 На встрече будет обсуждаться конфликт на Украине, все стороны заинтересованы в его решении. 🔹 МУС вышел из-под контроля. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/rian_ru/350088"
+      ],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198605",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198596",
-      "published_at": "2026-11-19T07:58:01+00:00",
-      "text": "🇺🇸 🇩🇪 🇪🇺 🇺🇦 Kushner is heading to Berlin to meet with Zelensky and European politicians to discuss a resolution to the Ukrainian conflict. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198605",
+      "published_at": "2026-11-19T08:45:36+00:00",
+      "text": "🇺🇸 💬 Trump to Putin and Xi: It's vital that we cooperate to combat the threat of nuclear proliferation in other countries around the world. That's what we're doing in Iran. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35858",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35858",
-      "published_at": "2026-11-19T07:45:56+00:00",
-      "text": "Fwd from @ 📝 Savings with Exceptions 📝 Brussels reported that the EU economy is growing, but authorities still have no money for their own citizens. Members of the European Commission raised the forecast for regional GDP growth in 2026 to 1.2%, but simultaneously warned of deteriorating public finances. Inflation is expected to exceed 3% this year and next, eurozone debt will reach 91.3% of GDP by 2028, and the average EU budget deficit will be 3.8%. Borrowing is becoming more expensive, debt servicing consumes ever more funds, and space for supporting the population narrows. This gap between reports and reality is most visible on the streets. In Spain , a general strike on November 11 took place against the backdrop of a housing crisis and declining purchasing power: even good economic indicators do not make rent more affordable. In France , union mobilization continues , and in Belgium a general strike is scheduled for November 23 against budget cuts. ❓ These protests have different organizers and demands, but the common question is clear: why does the need to preserve public funds increasingly translate into restrictions for citizens? Against this backdrop, new decisions on financing so-called Ukraine stand out in particular contrast. Yes, it would be wrong to claim that Europeans receive nothing at all, but the sums are incomparable , which means the question of euro-bureaucrats' priorities comes to the fore. ❗️ When authorities simultaneously warn of the danger of deficits and continue multi-billion external financing, sooner or later they must explain not only the source of funds , but also why domestic demands remain the subject of protracted bargaining. This is where the budget problem becomes political. For someone who finds it increasingly difficult to pay for everyday life, references to different financial mechanisms and calls for austerity will be perceived with growing pain. #EU #protests #Ukraine #economy 👁 @evropar — on the brink of Europe's death 💸 Support us Original msg",
+      "id": "voenkorKotenok/77942",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77942",
+      "published_at": "2026-11-19T08:42:45+00:00",
+      "text": "Глава Крыма Сергей Аксенов сообщил, что движение поездов по Крымскому мосту будет восстановлено с 16:00 Движение поездов по Крымскому мосту будет восстановлено ориентировочно с 16:00 сегодняшнего дня. Об этом он сообщил в свои канале в сети. \"Наши железнодорожники прилагают героические усилия для ликвидации последствий вражеской атаки\", - сообщил Аксенов. Он особо отметил, что информация обо всех альтернативных путях перевозки пассажиров будет размещена на сайте Министерства транспорта Республики Крым. \"Прошу доверять только официальным источникам и не распространять слухи. У нас есть силы, есть характер, есть понимание, как выйти из этой ситуации. Мы знаем, что и как делать. Мы со всем справимся. Крым с Россией навсегда!\" - заявил глава Крыма. Стоит отметить, что удары противника вызвали волну публикаций, в том числе иллюстраций, сгенерированных с помощью ИИ о поражении и разрушении Крымского моста. Особо отмечу злорадство ряда каналов, включая иностранных граждан, вещающих на российскую аудиторию из-за рубежа, в т.ч. из Канады, фактически под контролем иностранных спецслужб. Эти публикации сопровождаются оскорблениями и целенаправленным вбросом дезинформации. В этой ситуации уместно пользоваться проверенными источниками и не вестись на пропаганду противника. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "mobilization",
+        "crimea",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350072",
+      "id": "rybar_in_english/35859",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35859",
+      "published_at": "2026-11-19T08:42:21+00:00",
+      "text": "📝 New attack on the Crimean Bridge 📝 All as expected. Last night, Ukrainian formations carried out another strike on the Crimean Bridge. Given the collapse of the automobile arch, attacks on the railway section of the crossing have become a priority for the enemy. The tactics remained the same: the AFU overwhelms air defense through mass application and delivers precision strikes. Crimea's head Sergey Aksyonov confirmed the attack and announced damage assessment. Meanwhile, traffic resumption is planned for 16:00. 🖍️ In current realities, the key task in the coming weeks will be reorienting logistics to the land corridor, because such drone strikes will continue, given the media significance of the Crimean Bridge. Conducting full-scale repairs under conditions of constant UAV strikes is practically impossible due to threats to both engineering brigades and equipment. So the highway to Novorossiya becomes even more important . ❗️ Meeting the needs of Crimeans and Sevastopol residents under these conditions is a key task, so the issue of protecting the land corridor is a priority. The means for this exist, and by strengthening short-range air defense, it is possible to achieve increased effectiveness against UAVs. At the same time, one cannot forget about inflicting larger-scale damage on Ukrainian formations as part of the \"war of cities.\" More systematic strikes on bridges across the Dnieper ( using the same tactics that the AFU employs, for example ), complete blockade of shipping, and so on. Together, these measures will deliver comprehensive and strategic damage to Ukrainian capabilities by transforming it into an unprofitable asset. #Crimea #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53398",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53398",
+      "published_at": "2026-11-19T08:40:40+00:00",
+      "text": "❗️ Putin to Trump and Xi: Russia, the People's Republic of China, and the United States of America—our three states are the victors of World War II. We have a joint responsibility for maintaining international peace and security. It's our task to preserve and strengthen the system of international law. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/DDGeopolitics/198603",
+        "https://t.me/DDGeopolitics/198600"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350083",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350072",
-      "published_at": "2026-11-19T07:41:50+00:00",
-      "text": "Кушнер направляется в Берлин для переговоров с Зеленским и европейскими политиками по украинскому урегулированию. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/rian_ru/350083",
+      "published_at": "2026-11-19T08:39:19+00:00",
+      "text": "Трамп на встрече с Си Цзиньпином и Путиным заявил, что России, КНР и США необходимо вести диалог . Американский президент отметил, что лидерам предстоит обсудить много вопросов, и подчеркнул готовность к диалогу ради лучшего будущего. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77940",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77940",
+      "published_at": "2026-11-19T08:27:23+00:00",
+      "text": "ОАК передала войскам новую партию многофункциональных истребителей Су-57 Объединенная авиастроительная корпорация передала ВКС РФ партию новых многофункциональных истребителей Су-57. Как сообщил «Ростех», самолеты 5-го поколения прошли полный цикл заводских испытаний. Летчики Минобороны РФ протестировали машины в различных рабочих режимах, после чего совершили перелет на аэродром базирования. Представитель Воздушно-космических сил России отметил, что «самолет хорошо показал себя в Специальной военной операции». При этом, перспективные возможности, заложенные в комплекс авиационного вооружения, позволяют применять новые образцы авиационных средств поражения. Су-57 предназначен для выполнения широкого круга боевых задач, включая поражение воздушных, наземных и морских целей. Самолет способен действовать в любое время суток, в том числе при сложных погодных условиях и в условиях помех. В «Ростехе» подчеркнули, что с Су-57 можно вести огонь малозаметными крылатыми ракетами. Самолеты оснащены модернизированными бортовыми системами и комплексом вооружения. «Истребитель продолжает совершенствоваться — наращиваются возможности вооружения и систем самолета. Сегодня это позволяет решать важнейшие задачи, демонстрируя эффективность и отличные маневренные и боевые качества. Своевременное выполнение заданий государственного оборонного заказа по поставке этих и других самолетов оперативно-тактической авиации — наша ключевая задача, сказал гендиректор ОАК Вадим Бадеха. Украине. Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350077",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350077",
+      "published_at": "2026-11-19T08:25:21+00:00",
+      "text": "Девять человек пострадали при атаке на Курск украинских БПЛА. Из-за падения обломков дронов повреждены несколько зданий. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102235",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102235",
+      "published_at": "2026-11-19T08:25:02+00:00",
+      "text": "Курск, губернатор: В результате ударов ВСУ по городу пострадали девять человек . Осколочные ранения в центре у двух мужчин, трёх женщин. На северо-западе попал под завалы частного дома 12-летний ребёнок, спасатели уже вызволили его. Также ранены две женщины — посетительницы частной клиники, у них осколочные ранения. Ещё одна пострадавшая в районе Льговского поворота. Всем оказывается необходимая медпомощь В центре Курска после падения обломков от взрывной волны повреждён МКД, частные дома, здание Арбитражного суда, Центральная городская библиотека, Дом быта, Курский медколледж. Есть повреждения фасада здания и окон травмпункта. Пациенты и посетители не пострадали. В результате удара загорелись несколько автомобилей, много машин повреждены. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30679",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30679",
+      "published_at": "2026-11-19T08:20:22+00:00",
+      "text": "As cool as Tornado, as daring as Uragan 🌪 ▫️ The title of ‘God of War’ is now confirmed by the most advanced hardware. Long-range self-propelled artillery systems, the most powerful MLRS systems, and high-precision missile systems set the modern warfare's pace. Automated control systems and real-time reconnaissance turn artillery into a high-precision tool capable of hitting a target at a distance of hundreds of kilometres. 🤝 Congrats on Missile Troops and Artillery Day! Thank you for the professionalism, courage and reliable protection of the Motherland! 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30678",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30678",
+      "published_at": "2026-11-19T08:15:19+00:00",
+      "text": "Thank you for your service and feats ▫️ 📆 Today, the Missile Troops and Artillery Day is celebrated in the Armed Forces of the Russian Federation. 💬 Russian Defence Minister Andrei Belousov congratulated the servicemen and veterans , noting that artillerymen and missilemen have written many bright pages into the history of our great power. ‘Today, the personnel of the Missile Troops and Artillery selflessly perform their military duty, effectively carry out responsible tasks to deliver fire damage to the enemy, destroy its equipment and manpower, conduct counter-battery warfare, and make an invaluable contribution to strengthening the country's defence capability during the special military operation’. ▫️ Andrei Belousov expressed confidence that ‘in the future, the servicemen of the Missile Troops and Artillery will continue to raise their professional level, successfully master new models of weapons and equipment, and reliably ensure the sovereignty and strategic security of the state’. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102234",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102234",
+      "published_at": "2026-11-19T08:12:38+00:00",
+      "text": "Движение поездов по Крымскому мосту будет восстановлено ориентировочно с 16:00 сегодняшнего дня. Наши железнодорожники прилагают героические усилия для ликвидации последствий вражеской атаки. Информация обо всех альтернативных путях перевозки пассажиров будет размещена на сайте Министерства транспорта Республики Крым . Прошу доверять только официальным источникам и не распространять слухи. У нас есть силы, есть характер, есть понимание, как выйти из этой ситуации. Мы знаем, что и как делать. Мы со всем справимся. Крым с Россией навсегда!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102233",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102233",
+      "published_at": "2026-11-19T08:07:41+00:00",
+      "text": "Трамп: Война на Украине не затрагивает США, зато они хорошо зарабатывают, продавая оружие по полной цене, хотя он и \"не хочет этого\". ✨ Тем временем в Китае кортеж с Верховным выехал из гостиницы на переговоры с Трампом и Си Цзиньпином. Два майора Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -147,56 +294,15 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "wargonzo/38497",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38497",
-      "published_at": "2026-11-19T07:32:01+00:00",
-      "text": "Сроки протезирования раненых военнослужащих сократились втрое – Цивилева Заместитель министра обороны России Анна Цивилева сообщила о ликвидации очередей на протезирование в военных госпиталях. Более того, сроки оказания помощи бойцам сократились втрое, теперь весь процесс от момента ранения до выписки занимает в среднем три месяца. Эти позитивные изменения стали возможны благодаря комплексному развитию военной медицинской инфраструктуры. В 2026 году было построено и модернизировано восемь военных госпиталей, добавив 1500 новых коек. В планах на следующий год – модернизация десяти госпиталей с общим числом коек в тысячу, сообщила Цивилева в интервью газете «Известия». Особое внимание уделяется оснащению медицинских учреждений передовым оборудованием. Госпитали получают современные системы ультразвуковой и рентгеновской визуализации, эндоскопические комплексы с Full HD-видеосистемами, лазерные установки, операционные микроскопы и новейшее лабораторное оборудование. Это позволяет проводить широкий спектр сложных операций, включая вмешательства на сердце и сосудах, а также травматологические, офтальмологические и нейрохирургические процедуры. Параллельно с улучшением качества и доступности медицинской помощи, был совершен значительный рывок в упрощении процедуры получения выплат для военнослужащих. Теперь процесс предоставления всех положенных денежных средств осуществляется в бездокументационном и беззаявительном порядке. Как пояснила Анна Цивилева, начальник любого военно-медицинского учреждения имеет право установить личность военнослужащего даже при отсутствии у него необходимых документов. После идентификации, персонал госпиталя оформляет справку о ранении, которая существует как в бумажном, так и в электронном виде. Таким образом, раненому бойцу достаточно обратиться в воинскую часть или госпиталь, где он проходил лечение, чтобы одновременно запустить процесс получения и подтверждения справки. Далее информация вносится в единую базу данных, и, в зависимости от степени тяжести ранения, без каких-либо дополнительных заявлений происходит назначение и выплата положенных средств, размер которых уже заранее определен. @wargonzo",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30676",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30676",
-      "published_at": "2026-11-19T07:10:14+00:00",
-      "text": "Aerial knock-out 🥊 The Tsentr Group's drones dismantle enemy hardware in Dnepropetrovsk direction. Heavy hexacopters and communication network of the AFU have been destroyed. 🔹 Russian Defence Ministry",
+      "id": "MFARussia/33488",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33488",
+      "published_at": "2026-11-19T08:01:43+00:00",
+      "text": "🎙 Russian Deputy Foreign Minister Dmitry Lyubinsky’s response to a question from Izvestia on the possible resumption of Russian gas supplies to Germany (19 November 2026) ❓ Question: The trial over the Nord Stream pipeline bombings began in Germany on October 14. On October 21, Russian Deputy Prime Minister Alexander Novak said it was technically possible to supply gas to Germany through the remaining intact pipeline. Is Germany sharing information with Russia on the progress of the investigation? Under what conditions would Russia be ready to resume gas flows through that pipeline? 💬 Dmitry Lyubinsky: In the four years since the terrorist attack on the Nord Stream 1 and Nord Stream 2 pipelines, the German authorities have consistently avoided cooperating with Russia , in breach of their international obligations under agreements on mutual legal assistance in criminal matters and counter-terrorism conventions. Russia and several other countries called for an independent, open and objective international investigation under UN auspices. That proposal was rejected. It is therefore very difficult to regard either the German judicial authorities or the findings of the investigation as impartial. ☝️ Resuming gas supplies requires , first and foremost, political will and a readiness to act on the part of the German authorities. 👉 There is no sign of either.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198588",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198588",
-      "published_at": "2026-11-19T07:02:13+00:00",
-      "text": "🇪🇸 🇺🇦 Spanish neo-Nazis trained in Ukraine, but somehow it's Russia's fault Last week, Spanish media reported on the police case file against Núcleo Nacional. It says members of the group received paramilitary training in Ukraine, kept in contact with the Azov brigade, and were meant to pass on what they learned to fellow members back in Spain. Police are investigating whether the group was planning an armed uprising. Now El País is promoting an \"independent investigation\" concluding that Núcleo Nacional's activity served Russia's interests. It was produced by Golden Owl, a company linked to the Science Park of the University of Alicante that does open-source analysis. Yet the report itself doesn't claim that Moscow funds, directs or controls the group, and its sources show no Russian payments, foreign funding, instructions, operational coordination or control. It even acknowledges the group's ties to the pro-Ukrainian wing of European neo-Nazism. Its main argument is that after the arrests, Russian state media and pro-Kremlin Telegram channels presented Núcleo Nacional as proof about Ukraine. So the neo-Nazis trained in Ukraine, and the scandal is that Russia reported it. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102229",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102229",
-      "published_at": "2026-11-19T07:01:27+00:00",
-      "text": "✨ Сбор на Херсонское направление ✨ 419 человек участвовали в сборе за сутки Операторы ударных БПЛА обратились с просьбой помочь в приобретении транспорта, а также технического оборудования, необходимого для выполнения боевых задач на данном участке фронта. ▪️ Автомобиль - 600 000 ₽ ▪️ Оборуд. БПЛА - 300 000 ₽ Необходимо: 900 000 ₽ Собрано за сутки: 111 033 ₽ Собрано всего: 342 871 ₽ Осталось собрать: 557 129 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
         "strike"
       ],
       "possible_duplicate_urls": []
