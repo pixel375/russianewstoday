@@ -1,0 +1,237 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T11",
+  "generated_at_utc": "2026-11-19T12:21:02.244771+00:00",
+  "window_start_utc": "2026-11-19T11:00:00+00:00",
+  "window_end_utc": "2026-11-19T12:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 3,
+      "raw_count": 19
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 50,
+    "relevant_posts": 10,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19725",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19725",
+      "published_at": "2026-11-19T11:58:33+00:00",
+      "text": "JUST IN: 🇷🇺 🇺🇸 Russian President Putin says he has no doubt President Trump genuinely wants to end the war in Ukraine and improve relations with Russia. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98282",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98282",
+      "published_at": "2026-11-19T11:55:05+00:00",
+      "text": "🇺🇸 🇨🇳 🇷🇺 ⚡️ — The meeting between Trump, Xi, and Putin is \"another sign of the end of the unipolar world order, in which the United States dominated,\" and a more uncertain and unstable reality may emerge in its place, according to the American newspaper The Wall Street Journal. While the meeting in Shenzhen was an \"unprecedented demonstration of unity\" among the holders of the three largest nuclear arsenals in the world, the leaders of the United States, China, and Russia remain divided by competing ambitions and sharply contrasting views on what the new world order should look like. None of the three leaders is in a position to unilaterally dictate the rules for the others. Russia and the United States are embroiled in conflicts, while Beijing faces growing economic challenges and is extremely reluctant to assume the role of global leader that the United States has historically played. What unites them is a desire to maximize their freedom of action within their perceived spheres of influence: Russia considers Ukraine to be within its sphere, China considers Taiwan to be within its, and the United States considers the Western Hemisphere to be within its. According to the WSJ, there were virtually no signs of potential progress on key issues before the meeting: the wars in Ukraine, Iran, and the proliferation of nuclear weapons. For the participants, the very fact of the meeting and the opportunity to demonstrate their position on the world stage were arguably more important than resolving specific problems. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350101",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350101",
+      "published_at": "2026-11-19T11:54:02+00:00",
+      "text": "Путин назвал страницей в истории дипломатии встречу с Си Цзиньпином и Трампом. Президент России отметил - ему бы хотелось, чтобы такие трехсторонние встречи имели продолжение. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198626",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198626",
+      "published_at": "2026-11-19T11:45:26+00:00",
+      "text": "📝 Agreed to keep talking 📝 What they came to in Shenzhen The meeting of three leaders in China has effectively concluded, and if we set aside all the statements, the main outcome of this event is this — the parties committed to maintaining constructive interaction going forward. 📌 The joint statement published after the meeting concludes addresses the international security system in broad strokes, where its control instruments have long ceased to serve as guarantors of stability. Of course, this refers to the United Nations and the International Criminal Court, which both Trump and Xi Jinping drew attention to. And the nuclear weapons topic was not left on the sidelines — control holds the key to world security. 🖍 But overall, for Russia the main takeaway is that the state has not been isolated in the international arena. Russia is sought out for contacts and actively continues interaction. However, the Ukrainian question was not raised at the summit. This confirms our assessment that the Middle Kingdom intended to keep this topic off the agenda. Therefore, there was no reason to expect a breakthrough on the peaceful settlement issue, since China simply has no interest in it. ❗️ The end of the SMO, as before, will depend on realities on the ground. That is why it is so important to advance our goals and objectives through the total weakening of the Ukrainian regime, and this will only be possible through the destruction of its potential. The more that gets destroyed on the territory of so-called Ukraine (ports, factories, bridges, energy infrastructure), the less beneficial it will be for the West to support it. And half-measures will not achieve this. #China #Russia #USA ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/rybar_in_english/35865"
+      ],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4537",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4537",
+      "published_at": "2026-11-19T11:28:51+00:00",
+      "text": "​​ ⚖️ АП ВАКС залишила без змін вирок колишній керівниці регіональної податкової служби 19 листопада 2026 року Апеляційна палата ВАКС залишила без змін вирок ВАКС від 09.11.2023, яким колишніх виконувачку обов’язків начальника Головного управління Державної податкової служби Одеської області Н. Чеботарьову та її заступника В. Мосійчука визнано винуватими у пропозиції та наданні 25 тис. дол. США неправомірної вигоди керівнику структурного підрозділу регіональної прокуратури. Таким чином, Н. Чеботарьову та В. Мосійчука визнано винуватими у вчиненні злочину, передбаченого ч. 3 ст. 369 КК України. Н. Чеботарьовій призначено покарання у вигляді 6 років позбавлення волі з позбавленням 5 рангу державного службовця та з позбавленням права обіймати посади в органах державної влади та місцевого самоврядування строком на три роки, з конфіскацією всього належного їй на праві власності майна. В. Мосійчуку призначено покарання у вигляді 5 років позбавлення волі з позбавленням рангу державного службовця та з позбавленням права обіймати посади в органах державної влади та місцевого самоврядування строком на три роки, з конфіскацією майна. Ухвала набирає законної сили з моменту проголошення та може бути оскаржена в касаційному порядку безпосередньо до Верховного Суду протягом трьох місяців.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38504",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38504",
+      "published_at": "2026-11-19T11:01:20+00:00",
+      "text": "Россия, Китай и США приняли совместную декларацию о мире Владимир Путин, Си Цзиньпин и Дональд Трамп по итогам первой в истории трёхсторонней встречи в Шэньчжэне приняли Декларацию о мире. Лидеры трёх держав договорились вести диалог о снижении ядерных рисков, выступили за реформирование ООН и подтвердили необходимость стабильных поставок энергоресурсов. Текст Декларации о мире публикует Кремль: 1. Являясь постоянными членами Совета Безопасности ООН, Россия, Китай и США выразили приверженность реформированию ООН, чтобы ООН могла более эффективно реагировать на глобальные вызовы и соответствовать своей основополагающей миссии в области международного мира и безопасности. 2. Три государства планируют увеличить производство и поставки продуктов нефтепереработки на благо всех стран. Они подтвердили важность стабильных энергопоставок. 3. Главы трёх государств отмечают, что принцип согласия государств и соблюдение иммунитетов официальных лиц государств имеют основополагающее значение, и согласны с тем, что Международный уголовный суд и другие аналогичные структуры не должны злоупотреблять своими полномочиями. 4. Главы трёх государств подтвердили, что в ядерной войне не может быть победителей и она никогда не должна быть развязана. Три страны будут вести диалог по снижению ядерных рисков и предотвращению распространения ядерного оружия. Отдельное внимание в документе уделено Международному уголовному суду (МУС). Россия, Китай и США подчеркнули важность соблюдения государственного суверенитета и иммунитетов официальных лиц, заявив, что МУС и аналогичные структуры не должны злоупотреблять своими полномочиями. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233957",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233957",
+      "published_at": "2026-11-19T11:00:47+00:00",
+      "text": "Хроника ударов по территории Украины 18 ноября 2026 – 19 ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Винницкой, Киевской, Николаевской, Одесской, Полтавской, Ровенской, Черкасской и Черниговской областях (Герани). 18 ноября 2026 года · 08:37 Южный Одесской области — взрыв. Герань. · 08:40 Донбасс — взрывы. УМПК. · 08:50 Харьковская область — взрывы. УМПК. · 08:50 Сумская область — взрывы. УМПК. · 09:03 Ровно — взрыв. Герань. · 09:10 Павлоград Днепропетровской области — взрыв. Герань. · 09:45 Харьковская область — взрывы УМПК. Изюм. · 09:55 Запорожская область — взрывы. УМПК. · 10:10 Киев — взрыв. Герань. · 10:15 Запорожская область — взрывы. УМПК. · 10:25 Вольнянск Запорожской области — взрыв. Герань. · 10:45 Павлоград Днепропетровской области — взрыв. Герань. · 11:00–11:05 Николаев — взрывы. Герани. · 11:05–11:25 Чугуев Харьковской области — взрывы. Герани. · 11:07 Одесса — взрыв. Герань. · 11:10–11:20 Николаев — взрывы. Герани. · 11:30 Чугуев Харьковской области — взрывы. Герани. · 11:55 Вышгород Киевской области — взрыв. Герань. · 12:00 Одесса — взрыв. Герань. · 12:03 Черкассы — взрыв. Герань. · 12:05 Павлоград Днепропетровской области — взрывы. Дань-Т. · 12:10 Новомосковск — взрыв. Дань-Т. · 12:35 Окрестности Винницы — взрыв. Герань. · 13:10 Одесса — взрыв. Герань. · 13:10 Запорожье — взрывы. Герани. · 13:20 Окрестности Винницы — взрыв Герань Взрыв прогремел на южных окраинах. города. · 13:30 Кременчуг и Запорожье — взрывы. Герани. · 13:40 Кременчуг — взрыв. Герань. · 14:45 Окрестности Вышгорода — взрыв. Герань. · 15:00 Баштанка Николаевской области — взрыв. Герань. · 15:10 Запорожье — взрывы. Герани. · 15:30 Харьковская область — взрывы. УМПК. · 15:30–15:40 Окрестности Броваров Киевской области — взрывы. Герани. · 15:50 Окрестности Днепропетровска — взрыв. Герань. · 16:00 Донбасс — взрывы. УМПК. · 16:05 Павлоград Днепропетровской области — взрыв. Герань. · 16:10 Холмы Черниговской области — взрыв. Герань. · 16:40–16:50 Запорожская область — взрывы. УМПК. · 16:52 Киев — взрыв. Герань. · 17:00 Каменское Днепропетровской области — взрыв. Герань. · 18:00 Вапнярка Винницкой области — взрыв. Герань. · 19:05 Кременчуг Полтавской области — взрыв. Герань. · 19:10 Киевская область — взрыв. Герань. · 19:25 Кременчуг — взрыв Герань. · 19:40 Николаев — взрыв. Герань. · 19:45 Запорожье — взрыв. Герань. · 19:50 Арциз Одесской области — взрыв. Герань. · 20:00 Кременчуг — взрыв. Герань. · 20:25–20:30 Чугуев Харьковской области — взрывы. Герани. · 20:30 Харьков — взрыв. Герань. · 20:40 Чугуев Харьковской области — взрыв. Герань. · 20:46 Славутич Киевской области — взрыв. Герань. · 20:50–20:55 Запорожская область — взрывы. УМПК. · 21:03–21:05 Николаев — взрывы. Герани. · 21:10–21:45 Днепропетровская область — взрывы. УМПК. · 22:50 Донбасс и Запорожская область — взрывы. УМПК. · 22:55 Чернигов — взрыв. Герань. · 23:30 Славутич Киевской области — взрыв. Герань. 19 ноября 2026 года. · 00: 00 Донбасс — взрывы. УМПК. · 00: 05 Арциз Одесской области — взрыв. Герань. · 00: 10 Запорожская область — взрыв. Герань. · 00:30 Маяки Одесской области — взрыв. Герань. · 01:40 Чугуев Харьковской области — взрывы. Герани. · 01:40 Донбасс и Сумы — взрывы. УМПК. · 02:40 Васильков Киевской области — взрыв. Герань. · 02:50 Ладыжин Винницкой области и Лютеж Киевской области — взрыв. Герань. · 03:05 Винницкая область и Новые Петровцы Киевской области — взрывы. Герани. · 04:40 Донбасс — взрывы. УМПК. · 05:15 Харьковская область — взрывы. УМПК. · 05:35 Шостка Сумской области — взрыв. Герань. · 05:40–05:55 Запорожская область — взрывы. УМПК. · 06:00 Сумская область — взрывы. УМПК. · 06:20 Запорожская область — взрывы. УМПК. · 06:30 Ильичевск Одесской области — взрыв. Оникс. На фото пожар после ударов Гераней в Кременчуге. На видео удары Гераней в Чугуеве. @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33494",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33494",
+      "published_at": "2026-11-19T11:00:25+00:00",
+      "text": "The Russia-China-US Heads of State Declaration toward Peace adopted following the trilateral meeting The following is the full text of the declaration: Vladimir Putin, President of the Russian Federation, Xi Jinping, President of the People's Republic of China, and Donald J. Trump, President of the United States of America, met in Shenzhen on November 19, 2026. The Russian and U.S. heads of state expressed appreciation to China for hosting this historic trilateral Summit. The three heads of state had an in-depth exchange of views on the current international situation and committed to maintaining strategic stability and international security. 1. As permanent members of the United Nations Security Council, Russia, China and the United States committed to reform the U.N. so that the U.N. can respond more effectively to global challenges and conform to its fundamental mission of international peace and security. 2. The three countries plan to increase the production and supply of refined petroleum products for the benefit of all nations. They reaffirmed the importance of stable energy flows. 3. The three heads of state recognized that the principle of state consent and respect for immunities of State officials are of paramount importance, and concurred that the International Criminal Court and other similar bodies must not abuse their jurisdiction. 4. The three heads of state reaffirmed that a nuclear war cannot be won and must never be fought. The three countries will conduct a dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198621",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198621",
+      "published_at": "2026-11-19T11:00:24+00:00",
+      "text": "🇪🇺 🇺🇦 While Putin sat at the table with Trump and Xi in Shenzhen, Zelensky is spending today in Berlin with what even Politico now calls the \"Coalition of the Wobbling.\" The outlet describes the so-called Coalition of the Willing as a motley group of small and medium-sized countries, led by two weak European leaders and a rookie without a mandate. European officials told Politico the leadership is weaker than it has been in years and could be made irrelevant by any deal Trump strikes with Putin. The co-chairs aren't in great shape. German Chancellor Friedrich Merz barely held on to his job after what he himself called an electoral \"disaster,\" and French President Emmanuel Macron is historically unpopular, with Marine Le Pen's camp surging ahead of next year's presidential election. Britain's new prime minister, Andy Burnham, took over from Keir Starmer in July without winning an election and is still \"finding his way.\" The coalition hasn't held a leaders' meeting since August, as momentum faded after the US and Israel launched their war on Iran. On the agenda now: security guarantees for Kiev, a multinational force to police a ceasefire that doesn't exist, more money and more air defense. Brussels has already proposed another €45 billion loan for Ukraine for 2027. Even a senior Ukrainian official admits this group may be \"as good as it gets.\" 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
