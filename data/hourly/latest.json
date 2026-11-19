@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-19T03",
-  "generated_at_utc": "2026-11-19T04:29:37.186093+00:00",
-  "window_start_utc": "2026-11-19T03:00:00+00:00",
-  "window_end_utc": "2026-11-19T04:00:00+00:00",
+  "hour_id": "2026-11-19T04",
+  "generated_at_utc": "2026-11-19T05:21:01.644196+00:00",
+  "window_start_utc": "2026-11-19T04:00:00+00:00",
+  "window_end_utc": "2026-11-19T05:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 7
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 6
     },
     {
       "handle": "MFARussia",
@@ -44,14 +44,14 @@
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 1,
-      "raw_count": 2
+      "pages": 2,
+      "raw_count": 16
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 6
     },
     {
       "handle": "rybar_in_english",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
@@ -75,7 +75,7 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
@@ -99,31 +99,64 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 7,
-    "relevant_posts": 2,
-    "deduplicated_posts": 2,
-    "candidate_posts": 2
+    "raw_posts": 42,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
   },
   "posts": [
     {
-      "id": "AussieCossack/53386",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53386",
-      "published_at": "2026-11-19T03:57:22+00:00",
-      "text": "❗️ Trump: We have 4,000 nuclear weapons. Russia has 3,800 nuclear weapons. China now has four or five hundred, but they're going to catch up. Over a 10-year period, they're moving. Russia's second and China's third, a distant third, but they're going hot and heavy on building nuclear weapons. I'd love them not to do it. @AussieCossack",
+      "id": "dva_majors/102223",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102223",
+      "published_at": "2026-11-19T04:37:46+00:00",
+      "text": "Крымский мост, Минтранс России, официально: В результате ночной атаки БПЛА временно приостановлено движение поездов по железнодорожной составляющей Крымского моста. Пострадавших в результате происшествия нет. Специалисты проведят оценку нанесенного ущерба Два майора Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "strike"
+      ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "MFARussia/33476",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33476",
-      "published_at": "2026-11-19T03:02:48+00:00",
-      "text": "⚡️ President of Russia Vladimir Putin takes part in the Plenary Session of the Asia-Pacific Economic Cooperation ( #APEC ) Economic Leaders’ Meeting. Ahead of the Session, the Heads of delegation took part in the official #FamilyPhoto ceremony. 📸 © Kremlin.News",
+      "id": "tass_agency/406476",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406476",
+      "published_at": "2026-11-19T04:35:35+00:00",
+      "text": "❗️ ВСУ в третий раз за неделю атаковали Крымский мост, сообщил Аксенов.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350055",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350055",
+      "published_at": "2026-11-19T04:25:46+00:00",
+      "text": "❗️ Трамп на встрече с Путиным заявил, что с нетерпением ждет продуктивного разговора. Американский лидер отметил , что у него с президентом России отличные отношения, а по итогам переговоров может получиться \"много замечательного\". 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350053",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350053",
+      "published_at": "2026-11-19T04:20:59+00:00",
+      "text": "Саммит АТЭС показал западным странам, за кем на самом деле будущее, уверен французский политик Флориан Филиппо. \"В то время как Франция зажата между Урсулой и Зеленским, низведенная до положения захолустной провинции глубоко устаревшего Евросоюза, мир свободных наций - мир завтрашнего дня - уже здесь!\" - написал он. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
