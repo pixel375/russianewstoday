@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-19T09",
-  "generated_at_utc": "2026-11-19T10:25:53.940821+00:00",
-  "window_start_utc": "2026-11-19T09:00:00+00:00",
-  "window_end_utc": "2026-11-19T10:00:00+00:00",
+  "hour_id": "2026-11-19T10",
+  "generated_at_utc": "2026-11-19T11:25:35.210505+00:00",
+  "window_start_utc": "2026-11-19T10:00:00+00:00",
+  "window_end_utc": "2026-11-19T11:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 8
     },
     {
       "handle": "intelslava",
@@ -21,13 +21,13 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
@@ -39,25 +39,25 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 2,
-      "raw_count": 19
+      "raw_count": 17
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "dva_majors",
@@ -69,19 +69,19 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 8
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 7
     },
     {
       "handle": "nab_ukraine",
@@ -100,222 +100,96 @@
   "coverage_complete": true,
   "stats": {
     "raw_posts": 53,
-    "relevant_posts": 21,
-    "deduplicated_posts": 20,
-    "candidate_posts": 20
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
   },
   "posts": [
     {
-      "id": "tass_agency/406566",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406566",
-      "published_at": "2026-11-19T09:59:19+00:00",
-      "text": "Китай подчеркнул почетный статус России, разместив Путина справа от Си Цзиньпина за столом переговоров, а также во время церемонии фотографирования. Такое мнение высказала в беседе с ТАСС эксперт по деловой коммуникации и протоколу Нина Шевчук. Она также…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30680",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30680",
-      "published_at": "2026-11-19T09:59:01+00:00",
-      "text": "The Armed Forces of the Russian Federation continue the special military operation. ↗️ The units of the Sever Group of Forces improved the tactical situation. In Kharkov region, strikes have been delivered at manpower and hardware of three mechanised brigades and two assault regiments of the AFU close to Katerinovka, Podsredneye, Malinovka, Ploskoye, Chuguyev, and Turovo. 💥 In Sumy region, formations of two mechanised and one airmobile brigades of the AFU have been neutralised close to Yastrebinoye, Krovnoye, Vakalovshchina, and Vyazovoye. ▪️ The enemy lost more than 110 troops and seven motor vehicles. 📍 The Zapad Group of Forces improved the situation along the front line. Russian elements have inflicted losses on manpower and hardware of two mechanised brigades of the AFU and one territorial defence brigade near Peski-Radkovskiye, Studenok, Monachinovka, Smorodkovka, and Nechvolodovka (Kharkov region). ▪️ The AFU losses amounted to over 210 troops, one field artillery gun, and 16 motor vehicles. ↗️ The Yuzhnaya Group of Forces took more advantageous lines and positions. Strikes have been delivered at formations of two mechanised brigades and one assault brigade of the AFU, one marine brigade, and one national guard brigade near Kramatorsk, Slavyansk, Druzhovka, Nikolayevka, and Toretskoye (Donetsk People's Republic). ▪️ The AFU losses amounted to up to 180 troops, four armoured fighting vehicles, one artillery gun, and 28 motor vehicles. 📍 The Tsentr Group's units continued to carry out intensive offensive operations. Russian units inflicted losses on manpower and hardware of two mechanised brigades, one assault brigade of the Armed Forces of Ukraine, one marine brigade, and three national guard brigades close to Verovka, Samarskoye, Kuritsino, Novokrivorozhye, Kalinino, Starorayskoye, Kamenka, and Belozerskoye (Donetsk People's Republic). ▪️ The AFU formations have lost more than 340 troops, seven armoured fighting vehicles, nine motor vehicles, and one electronic warfare station. ↗️ The Vostok Group of Forces continued to advance into the depths of the enemy's defence. The Group's elements inflicted losses on manpower and hardware of one mechanised brigade, one air assault brigade, one assault brigade of the AFU near Novotroitskoye (Zaporozhye region), Podgavrilovka, Kolomiytsy, Ivanovka, and Kirichkovo (Dnepropetrovsk region). ▪️ The AFU lost up to 210 troops and five motor vehicles. 📍 The Dnepr Group's units improved the situation along the front line. Formations of one mechanised brigade and one mountain assault brigade of the AFU have been hit close to Kirovo, Kamyshevakha, and Preobrazhenka (Zaporozhye region). ▪️ Up to 15 troops and 17 motor vehicles have been neutralised. ✈️ Operational-tactical aviation, attack drones, missile troops, and artillery of the Armed Forces of the Russian Federation delivered strikes at power and transport infrastructure facilities used in the interests of the AFU, military airfields, production and storage areas of unmanned aerial vehicles and ground robotic systems, ammunition depots, as well as temporary deployment areas of Ukrainian armed forces in 148 areas. ▫️ Air defence systems shot down eight Neptune long-range guided missiles and 268 fixed-wing UAVs. 📊 In total, since the beginning of the special military operation, the enemy has lost: ▫️ 674 aircraft, ▫️ 284 helicopters, ▫️ 293,399 unmanned aerial vehicles, ▫️ 672 anti-aircraft missile systems, ▫️ 31,700 tanks and other armoured fighting vehicles, ▫️ 1,797 MLRS fighting vehicles, ▫️ 36,957 field artillery guns and mortars, ▫️ 77,613 special military vehicles. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "drone",
-        "kharkiv",
-        "missile",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/boris_rozhin/233946"
-      ]
-    },
-    {
-      "id": "dva_majors/102239",
+      "id": "dva_majors/102241",
       "channel": "dva_majors",
       "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102239",
-      "published_at": "2026-11-19T09:49:56+00:00",
-      "text": "✨ Запорожское направление ✨ Связисты с Запорожского направления передают слова благодарности нашему товарищу, известному боевому медику Доктору Хилеру и его команде за переданные их подразделению аптечки. ✨ Хилер и его команда уже который год по мере возможности снабжает бойцов на фронте тактическими аптечками и рюкзаками. В зоне боевых действий подобная помощь особенно важна. От наличия необходимых медицинских средств и своевременного оказания помощи нередко зависит жизнь раненого военнослужащего. Фронтовой Снабженец Доктор Хилер Два Майора",
+      "url": "https://t.me/dva_majors/102241",
+      "published_at": "2026-11-19T10:59:56+00:00",
+      "text": "🇬🇧 Генри (Гарри) Маунтбеттен-Виндзор собрался воевать с Россией Ряженное чучело, сын королевы Карла , называющий себя принц Гарри, во время второго за год визита во Львов заявил в контексте вопроса о войне с Россией:«Если меня попросят снова поступить на службу и в этом будет необходимость, я на сто процентов готов служить своей стране ». ✨ Наркот, которого изганли из цирка под названием «королевская семья Англии» из-за женитьбы не по правилам, решил оправдаться и хочет снова получать халявную пайку из госбюджета . ✨ ⭐️ Стереть бы с лица земли этот клоунский остров со всем сбродом, который там собрался. Два майора Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "zaporizhzhia"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198611",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198611",
-      "published_at": "2026-11-19T09:46:00+00:00",
-      "text": "🌏 APEC leaders have adopted a final declaration at the end of the 33rd summit in Shenzhen. The economies recognized the importance of secure and uninterrupted energy supplies and of financial policy frameworks for keeping the global economy stable. They agreed to develop digital technology and AI for the benefit of their people, including in agriculture, and to prepare workers for the jobs of the future. They also pledged to fight corruption, calling it a threat to growth that erodes public trust. According to TASS, the declaration makes no mention of Ukraine, Iran or West Asia. 🔴 @DDGeopolitics",
+      "id": "boris_rozhin/233955",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233955",
+      "published_at": "2026-11-19T10:55:51+00:00",
+      "text": "По итогам трёхсторонней встречи принята Декларация глав государств России, Китая и США о мире Полный текст декларации: Президент Российской Федерации Владимир Путин, Председатель Китайской Народной Республики Си Цзиньпин и Президент Соединённых Штатов Америки Дональд Трамп провели встречу в Шэньчжэне 19 ноября 2026 года. Главы государств России и США выразили признательность Китаю за организацию и проведение этого исторического трёхстороннего Саммита. Главы трёх государств обстоятельно обменялись мнениями по текущей международной ситуации и выразили приверженность поддержанию стратегической стабильности и международной безопасности. 1. Являясь постоянными членами Совета Безопасности ООН, Россия, Китай и США выразили приверженность реформированию ООН, чтобы ООН могла более эффективно реагировать на глобальные вызовы и соответствовать своей основополагающей миссии в области международного мира и безопасности. 2. Три государства планируют увеличить производство и поставки продуктов нефтепереработки на благо всех стран. Они подтвердили важность стабильных энергопоставок. 3. Главы трёх государств отмечают, что принцип согласия государств и соблюдение иммунитетов официальных лиц государств имеют основополагающее значение, и согласны с тем, что Международный уголовный суд и другие аналогичные структуры не должны злоупотреблять своими полномочиями. 4. Главы трёх государств подтвердили, что в ядерной войне не может быть победителей и она никогда не должна быть развязана. Три страны будут вести диалог по снижению ядерных рисков и предотвращению распространения ядерного оружия. @news_kremlin",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "corruption",
         "energy"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233946",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233946",
-      "published_at": "2026-11-19T09:45:23+00:00",
-      "text": "Свежий срез применения беспилотников и ракет по территории Украины 18-19 ноября. Основные направления атак поршневых БПЛА и применения обманок — Одесская, Запорожская, Киевская и Харьковская области. Удары были нанесены удары по ПС-110кВ «Каролино» — Каролино-Бугаз, Одесская область, ПС-110кВ — Белгород-Днестровский, Одесская область. ПС-330кВ Сумы Северная» — город Сумы. В порту Черноморска были поражены объекты хранения горюче-смазочных материалов, примерно там же был уничтожен сухогруз, перевозивший грузы двойного назначения в Одессу. @warhronika",
+      "id": "DDGeopolitics/198620",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198620",
+      "published_at": "2026-11-19T10:53:59+00:00",
+      "text": "🇷🇺 🇨🇳 🇺🇸 Declaration of the Heads of State of Russia, China and the United States on Peace adopted following the trilateral meeting Full text of the declaration: President of the Russian Federation Vladimir Putin, President of the People's Republic of China Xi Jinping and President of the United States of America Donald Trump held a meeting in Shenzhen on November 19, 2026. The heads of state of Russia and the United States expressed their gratitude to China for organizing and hosting this historic trilateral summit. The leaders of the three states held a thorough exchange of views on the current international situation and expressed their commitment to maintaining strategic stability and international security. 1. As permanent members of the UN Security Council, Russia, China and the United States expressed their commitment to reforming the UN so that it can respond more effectively to global challenges and fulfill its fundamental mission in the field of international peace and security. 2. The three states plan to increase the production and supply of refined petroleum products for the benefit of all countries. They reaffirmed the importance of stable energy supplies. 3. The leaders of the three states note that the principle of state consent and respect for the immunities of state officials are of fundamental importance, and agree that the International Criminal Court and other similar bodies must not abuse their powers. 4. The leaders of the three states reaffirmed that a nuclear war cannot be won and must never be fought. The three countries will hold a dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "kharkiv",
-        "kyiv",
-        "missile",
-        "odesa",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/mod_russia_en/30680",
-        "https://t.me/tass_agency/406549"
-      ]
-    },
-    {
-      "id": "wargonzo/38503",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38503",
-      "published_at": "2026-11-19T09:44:43+00:00",
-      "text": "Путин, Трамп и Си Цзиньпин проводят первые в истории трёхсторонние переговоры России, США и Китая В рамках саммита АТЭС-2026 состоялась первая в истории трёхсторонняя встреча лидеров России, США и Китая. Владимир Путин, Дональд Трамп и Си Цзиньпин собрались за одним столом, чтобы обсудить международную безопасность, отношения между крупнейшими державами, украинский конфликт и глобальные вызовы. Переговоры продолжаются уже более часа. В российскую делегацию вошли глава МИД Сергей Лавров, помощник президента Юрий Ушаков, министр обороны Андрей Белоусов и специальный представитель президента Кирилл Дмитриев. Путин: у трёх держав есть общие интересы в урегулировании конфликтов Владимир Путин поблагодарил председателя КНР за организацию встречи и подчеркнул особую ответственность России, Китая и США за поддержание международной стабильности. По словам российского президента, три государства стояли у истоков создания ООН, поэтому должны совместно работать над укреплением системы международного права. Москва, Пекин и Вашингтон заинтересованы в разрешении региональных конфликтов, в том числе украинского, а также в борьбе с международным терроризмом. Путин отметил, что сотрудничество трёх стран должно строиться на принципах взаимного уважения, равноправия и баланса интересов. Среди тем, которые необходимо обсудить, он также назвал глобальные и региональные вопросы, включая энергетическую безопасность. Трамп: все три страны заинтересованы в завершении украинского конфликта Дональд Трамп заявил, что Россия, США и Китай заинтересованы в урегулировании украинского кризиса. По его словам, эта тема также станет предметом переговоров. Американский президент призвал три державы объединить усилия для предотвращения распространения ядерного оружия и поддерживать постоянный диалог по вопросам международной безопасности. Кроме того, Трамп поднял вопрос сокращения ядерных арсеналов. Он отметил необходимость обсуждения разоружения и заявил, что лидеры трёх государств несут особую ответственность за поддержание мира. Отдельно американский президент высказался о Международном уголовном суде, заявив, что тот вышел из-под контроля. Си Цзиньпин призвал отказаться от мышления времён холодной войны Председатель КНР назвал встречу лидеров России, США и Китая событием исторического значения. По его словам, позитивное взаимодействие крупнейших держав – не просто один из возможных вариантов, а необходимость для сохранения глобальной стабильности. Си Цзиньпин напомнил о совместной борьбе трёх государств во Второй мировой войне и призвал их продолжать сотрудничество, исходя из общей ответственности за международный порядок. Среди основных заявлений китайского лидера: – Россия, Китай и США должны отказаться от мышления времён холодной войны и уважать суверенитет и территориальную целостность друг друга; – Три державы должны придерживаться принципа невмешательства во внутренние дела друг друга и уважать выбор своих народов; – Международные конфликты необходимо разрешать посредством диалога и дипломатии; – Странам следует расширять экономическое сотрудничество, а не разрушать торговые связи и цепочки поставок; – Необходимо защищать послевоенный международный порядок и цели Устава ООН. Отдельное внимание Си Цзиньпин уделил ядерной безопасности. Он заявил, что ядерное оружие должно быть полностью запрещено и уничтожено, подчеркнув, что ядерную войну невозможно выиграть и она никогда не должна быть развязана. Китайский лидер призвал приложить все усилия для предотвращения ядерного конфликта и соблюдать Договор о нераспространении ядерного оружия (ДНЯО). Также председатель КНР указал на серьёзные вызовы, с которыми сталкивается глобальная энергетическая безопасность. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "moscow",
-        "negotiation"
+        "energy"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/77946",
+      "id": "rian_ru/350097",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350097",
+      "published_at": "2026-11-19T10:53:11+00:00",
+      "text": "❗️ Путин, Си Цзиньпин и Трамп приняли совместную декларацию о мире. Главное: 🔹 Лидеры подтвердили, что в ядерной войне не может быть победителей и она никогда не должна быть развязана. 🔹 Россия, КНР и США будут вести диалог по снижению ядерных рисков и предотвращению распространения ядерного оружия. 🔹 Путин, Си Цзиньпин и Трамп согласны с тем, что МУС и другие аналогичные структуры не должны злоупотреблять своими полномочиями. 🔹 Лидеры РФ, КНР и США отметили, что соблюдение иммунитетов официальных лиц государств имеет основополагающее значение. 🔹 Россия, США и Китай планируют увеличить производство и поставки нефтепродуктов на благо всех стран. 🔹 Россия, Китай и США выступили за реформу ООН, чтобы организация могла эффективнее реагировать на глобальные вызовы. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198617",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198617",
+      "published_at": "2026-11-19T10:30:28+00:00",
+      "text": "🇵🇱 Most Butthurt European of the Year: Mr. Applebaum, for not being invited to a summit his country isn't even part of Polish Foreign Minister Radosław Sikorski on the Xi-Trump-Putin meeting at APEC: \"What is this, some kind of Yalta?\" Russia is \"an economic dwarf\" with \"an economy the size of Italy's,\" he says, so the EU should have been there instead. Small problem: APEC is the Asia-Pacific Economic Cooperation. Russia has been a member since 1998. The EU and Poland aren't members at all. Bigger problem: the IMF ranks Russia's economy 4th in the world by purchasing power, ahead of Japan and Germany. Italy is 12th. Poland is 21st. Maybe if Radek asks Anne nicely, she'll write a book about how unfair it was. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77953",
       "channel": "voenkorKotenok",
       "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/77946",
-      "published_at": "2026-11-19T09:44:12+00:00",
-      "text": "В оккупированном Славянске идут повальные грабежи квартир и гаражей со стороны ВСУ Местные паблики пишут о тотальном мародерстве в оккупированном Славянске (ДНР) со стороны бандформирований Киева. Спасаясь от боевых действий, город покинуло огромное число жителей. Военнослужащие ВСУ и других структур киевского режима массово вскрывают боксы гаражных кооперативов в поисках автомобилей, другой техники и уцелевшего имущества. Также подвергаются грабежу квартиры и брошенные дома. Полиция, которой не видно, фактически бездействует и закрывает глаза на происходящее. «Идет массовый грабеж всего и вся. Процесс принял повальный характер. Берут всё, что плохо лежит и что можно унести с собой. Если не хватает рук, военные подгоняют броню и автомобили. Есть факты выноса мебельных гарнитуров и бытовой техники. Они уже ходят по домам и квартирам, выбирая то, что понравится. Идет грабеж на заказ», - сообщил один из жителей Славянска на условиях анонимности. Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "url": "https://t.me/voenkorKotenok/77953",
+      "published_at": "2026-11-19T10:29:20+00:00",
+      "text": "Премьер бандеровской Украины доложил о том, что русские атаковали электрические подстанции в Житомирской, Черниговской и Николаевской областях. В четырех областях ВС РФ били по агропредприятиям. Всего минувшей ночью ударам подверглись цели в 12-ти областях Украины. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198610",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198610",
-      "published_at": "2026-11-19T09:43:50+00:00",
-      "text": "🇷🇺 🇺🇦 Eleven people, including a 12-year-old child, were injured in a Ukrainian Armed Forces attack on Kursk 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kursk",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "MFARussia/33490",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33490",
-      "published_at": "2026-11-19T09:37:59+00:00",
-      "text": "🎙 Opening remarks by President of Russia Vladimir Putin at the trilateral meeting with President of China Xi Jinping and President of the US Donald Trump (Shenzhen, 19 November 2026) 💬 Vladimir Putin: First of all, I would like to express my gratitude to our Chinese hosts and to President Xi Jinping for organising today’s meeting. Today’s event is being held in this format for the first time and brings together the Leaders of three permanent members of the UN Security Council – Russia, the People’s Republic of China and the United States of America. 🇷🇺 🇨🇳 🇺🇸 Our three countries are united by our status as victorious powers in the Second World War and, above all, by our shared responsibility for maintaining international peace and security . We stood at the origins of the United Nations , therefore the task of preserving and strengthening the system of international law that took shape with the founding of this Organisation falls to us . That system includes the UN Charter and the principles enshrined in it. We should, of course, also discuss global and regional economic ties , as well as food and energy security . Our countries share many interests when it comes to resolving regional conflicts , including, of course, the conflict in Ukraine. President Xi Jinping and I discussed this yesterday . Today, at President Trump’s initiative, we devoted much of our bilateral meeting to the issue. We also have a common interest in tackling the threats and challenges of our time , including international terrorism and transnational organised crime. 🤝 For my part, I am convinced that Russia, China and the US, the peoples of all three countries, can make a significant contribution to global security and stability if we cooperate constructively as partners on the basis of mutual respect, equality and due regard for the balance of interests. 📄 Full transcript of the trilateral meeting #RussiaChinaUSA",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406561",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406561",
-      "published_at": "2026-11-19T09:37:00+00:00",
-      "text": "🚨 9 человек, среди которых 12-летний ребенок, пострадали при атаке ВСУ на Курск, сообщил Хинштейн. Видео: Официальный канал губернатора Курской области Александра Хинштейна в \"Максе\" ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/tass_agency/406551"
-      ],
-      "event_signals": [
-        "kursk",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406560",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406560",
-      "published_at": "2026-11-19T09:35:05+00:00",
-      "text": "Лидеры экономик АТЭС приняли итоговую декларацию по итогам 33-го саммита объединения в Шэньчжэне. Главное: ▪ Участники саммита признают важность обеспечения безопасных и бесперебойных поставок энергоресурсов; ▪ На саммите АТЭС приняли совместное заявление об использовании цифровых технологий в интересах благополучия населения в АТР; ▪ Экономики АТЭС договорились внедрять цифровые технологии в сельском хозяйстве; ▪ Участники АТЭС отметили важность рамочных основ финансовой политики для сохранения финансовой стабильности в мире; ▪ Участники саммита подчеркнули важность подготовки кадров к условиям сферы труда будущего; ▪ Участники АТЭС договорились развивать цифровые технологии и ИИ на благо населения; ▪ Участники АТЭС намерены противодействовать коррупции как угрозе экономическому росту, подрывающей доверие общества. Украинская проблема, а также тема Ирана и Ближнего Востока не упоминаются в тексте декларации саммита АТЭС. #АТЭС2026 ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "corruption",
-        "energy"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198609",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198609",
-      "published_at": "2026-11-19T09:30:47+00:00",
-      "text": "🇨🇳 🇷🇺 🇺🇸 China, Russia and the US must abandon Cold War thinking, Xi Jinping said at the three-way meeting with Putin and Trump in Shenzhen. Xi called for nuclear weapons to be completely banned and destroyed, saying a nuclear war cannot be won and must never be fought. He urged all three countries to do everything possible to prevent one and to uphold the Nuclear Non-Proliferation Treaty. He reminded his guests that the victory of China, Russia and the US in World War II brought peace to the world, and said the three must now firmly defend the postwar international order and the goals of the UN Charter. That means respecting each other's sovereignty and territorial integrity, staying out of each other's internal affairs, and accepting that none of them can change the others, so each must respect the path its people have chosen. Xi also called for settling conflicts through dialogue and diplomacy, expanding cooperation instead of cutting economic ties and supply chains, and keeping up regular high-level exchanges. He warned that global energy security faces serious challenges. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35860",
+      "id": "rybar_in_english/35864",
       "channel": "rybar_in_english",
       "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35860",
-      "published_at": "2026-11-19T09:30:29+00:00",
-      "text": "• 📝 Yugra Control 📝 an example of regional migration policy Until recently, migration policy in many regions resembled a set of fragmented measures that did not allow systematic control over the entry, employment, and stay of foreigners, and the Khanty-Mansiysk Autonomous Okrug was no exception. However, authorities can gradually change this situation if they transition from formal decisions to consistent practice. Since the beginning of the year, 56.4 thousand foreigners registered for migration accounting in the region — 21.7 % fewer than a year earlier. The number of issued work permits declined by 25.8 %, and the number of foreigners on the registry fell by 20.5 %. At the same time, authorities intensified enforcement work: the number of violation detection operations increased 2.2-fold, to 8.3 thousand. The dynamics of violations are particularly telling: the number of crimes committed by foreigners and stateless persons dropped 2.7-fold, and serious and especially serious crimes fell by 87 %. Simultaneously, the region strengthened deportation and entry ban practices, restricting foreign employment in approximately 30 sectors. In other words, the result stems not from a single initiative, but from a complex of complementary measures. 🖍 The regional leadership demonstrates that migration policy can be brought out of chaos and fragmentation through flow adjustment, inspections, restrictions in certain sectors, and accountability for violations. Together, this allows gradual transformation of the very model of foreign labor presence. ❗️ The authorities of Russian regions should carefully study this experience. Migration reform should not be limited to federal initiatives and general recommendations: it is at the local level that the question is decided whether new rules will become a functioning system. Order can be established — what is needed is political will, consistency, and readiness to enforce the law without regard for shadow market interests. 📍 High-resolution infographic 📍 English version #migrants #Russia #Yugra ✉️ MAX 💸 Support us Original msg",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233945",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233945",
-      "published_at": "2026-11-19T09:30:01+00:00",
-      "text": "Китай, РФ и США должны отказаться от мышления времен холодной войны, заявил Си Цзиньпин. Главное из заявлений председателя КНР: • Ядерное оружие должно быть полностью запрещено и уничтожено; • Ядерную войну нельзя выиграть, и она не должна быть развязана; • Необходимо приложить все усилия для предотвращения ядерной войны и соблюдать ДНЯО; • Победа Китая, России и США во Второй мировой принесла мир и спокойствие во всем мире; • Державы должны придерживаться принципа невмешательства во внутренние дела друг друга; • Мировые державы должны уважать суверенитет и территориальную целостность друг друга; • Китай, Россия и США должны продолжать поощрять разрешение конфликтов через диалог и дипломатию; • КНР, РФ и США должны расширять сотрудничество, а не разрывать экономические связи и цепочки поставок; • КНР, РФ и США должны твердо защищать послевоенный международный порядок и цели Устава ООН; • Страны должны поддерживать регулярные обмены на высоком уровне; • КНР, РФ и США не могут изменить друг друга и должны уважать выбор своих народов; • Глобальная энергетическая безопасность сталкивается с серьезными вызовами. ТАСС (с)",
+      "url": "https://t.me/rybar_in_english/35864",
+      "published_at": "2026-11-19T10:25:57+00:00",
+      "text": "📝 The Big Three 📝 The leaders of Russia, China, and the USA finally met in Shenzhen . The main topics of talks lasting more than an hour and a half were the conditions for further coexistence of the three countries and issues of international development and security. However, they did not issue joint statements following the meeting. 🔻 Statements by Vladimir Putin: ▪️ Russia, China, and the USA stood at the origins of the UN's creation; the countries bear responsibility for strengthening international law; ▪️ The authorities of the three countries can contribute to strengthening stability in the world if they cooperate constructively; ▪️ The states are united by shared responsibility for maintaining peace and security; ▪️ The President proposed discussing global and regional relations, energy security; ▪️ Russia, China, and the USA have common interests in combating international terrorism. 🔻 Statements by Xi Jinping: ▪️ Nuclear weapons must be banned and destroyed ; ▪️ The authorities of the USA, China, and Russia must jointly uphold peace on the planet; ▪️ China, Russia, and the USA cannot change each other and must respect the choices of their peoples; ▪️ World powers must respect sovereignty and territorial integrity of one another; ▪️ Positive interaction between major powers – this is not a choice among several options, but a necessity ; ▪️ The governments of the three countries must cooperate in solving global problems and jointly ensure peace and stability throughout the world; 🔻 Statements by Donald Trump: ▪️ The authorities of Russia, China, and the USA need to conduct dialogue . The President of the United States emphasized readiness for dialogue for a better future; ▪️ The trilateral meeting will discuss the International Criminal Court, which operates beyond its jurisdiction; ▪️ Discussion of nuclear arms reduction is necessary. For now, the leaders limited themselves to official statements reflecting the general thrust of their foreign policy. The question of resolving conflicts in the Donbas and Middle East was not raised — it is quite likely that discussion of this will take place behind closed doors after the open part of the meeting or later. ❗️ Nevertheless, the very fact of Russia's presence at talks of such scale reflects the absence of Western success in achieving political isolation.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -324,92 +198,30 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "wargonzo/38498",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38498",
-      "published_at": "2026-11-19T09:25:58+00:00",
-      "text": "Каждый ехал в Алешки за своим эксклюзивом. Но самый главный начал зарождаться ещё во время совещания на Фрунзенской, где в стенах здания Минобороны репортёрские глаза азартно блестели и одновременно выражали тревогу. Все знали обстановку вокруг Алешек и понимали важность этого исторического момента. Гуманитарную миссию освещал пул корреспондентов с боевым опытом. Среди них друзья автора проекта WarGonzo – Евгений Попов , Дмитрий Кулько , Дмитрий Стешин , китаец Лу. Жизнь журналистского пула изнутри – это не только погоня за сенсацией. Это постоянное фехтование остроумием, это встречи, которые порой случаются сквозь десятилетия. В таких условиях и рождаются не просто новости, а настоящие, живые истории. Читайте эксклюзивный репортаж Семёна Пегова «Полный пул», написанный специально для «Рабочего пути», о жизни русских военкоров. @wargonzo",
+      "id": "AussieCossack/53409",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53409",
+      "published_at": "2026-11-19T10:04:21+00:00",
+      "text": "❗️ Kushner, along with Witkoff, is heading to Berlin to hold talks with Zelenskyy and European politicians regarding the resolution of the Ukrainian conflict. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/233944",
+      "id": "boris_rozhin/233947",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233944",
-      "published_at": "2026-11-19T09:25:22+00:00",
-      "text": "Там это СМИ уже Британию на войну с Россией подымают за Принца Гарри, который один стоит дивизиона украинцев по эффективности)",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198607",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198607",
-      "published_at": "2026-11-19T09:15:40+00:00",
-      "text": "🇨🇳 💬 Nuclear weapons must be completely banned and destroyed, Xi Jinping stated during a meeting with Vladimir Putin and Donald Trump. He emphasized that a nuclear war cannot be won and must not be initiated. The Chinese leader highlighted mutual respect as a necessary principle for building relations between major powers. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233942",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233942",
-      "published_at": "2026-11-19T09:10:29+00:00",
-      "text": "Сегодня ночью Вооруженными Силами Российской Федерации продолжено нанесение ударов беспилотными летательными аппаратами по объектам энергетики и портовой инфраструктуры, а также морским судам, задействованным в интересах обеспечения ВСУ. В результате удара в Одесской области поражены: Электроподстанции ПС-110 «Каролино» в н.п. Каролино-Бугаз и ПС-110 в н.п. Белгород-Днестровский, осуществляющие распределение электроэнергии для обеспечения функционирования портовой инфраструктуры и логистических центров на территории Одесской области; в порту Черноморск – объекты инфраструктуры, предназначенные для хранения горюче-смазочных материалов ВСУ; морское судно типа «сухогруз» на переходе морем, доставлявшее в порт Одесса грузы двойного назначения для украинских войск. Кроме того, поражена электроподстанция ПС-330 «Сумы Северная» в г. Сумы, осуществляющая распределение электроэнергии для обеспечения функционирования предприятий военной промышленности Украины и логистических центров в Сумской области. Минобороны России (c)",
+      "url": "https://t.me/boris_rozhin/233947",
+      "published_at": "2026-11-19T10:03:24+00:00",
+      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки Используя непогоду, противник продолжает попытки вскрыть уязвимые участки в обороне наших войск и проникнуть на подконтрольную территорию. В течение суток до 12 единиц авто-мототехники и несколько групп боевиков ВСУ было уничтожено за передним краем. На освобожденной территории активничали до 10 групп инфильтрации, по которым также наносилось огневое поражение. На северо-западном участке воины-забайкальцы продолжают вклинение в оборону противника, закрепляясь на освобожденных территориях и продолжая наступательные действия. Западнее Зелёной Дибровы продолжаются ожесточенные бои. На данном участке огневое поражение наносилось скоплениям живой силы ВСУ к западу от Василькового , поражено 3 пункта временной дислокации ВСУ и 2 пункта управления БПЛА. На других участках в зоне ответственности группировки существенных изменений не фиксируем. Есть небольшие тактические успехи наших подразделений. Всего за прошедшие уничтожено свыше роты живой силы ВСУ; 19 единиц авто-мототехники и 17 пунктов управления БПЛА. На всех направлениях стараниями наших дроноводов активно сбиваются воздушные цели противника. @voin_dv",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy",
-        "odesa",
-        "strike"
+        "drone"
       ],
       "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406550",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406550",
-      "published_at": "2026-11-19T09:06:49+00:00",
-      "text": "Главное из нового брифинга Минобороны России: ▪️ ВС РФ поразили за сутки объекты энергетической и транспортной инфраструктуры, используемые в интересах ВСУ; ▪️ Потери ВСУ в результате действий российских группировок войск составили порядка 1 065 военных за сутки; ▪️ Средства ПВО за сутки уничтожили 268 украинских БПЛА и 8 ракет \"Нептун\". ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "energy",
-        "missile"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406549",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406549",
-      "published_at": "2026-11-19T09:05:01+00:00",
-      "text": "Главные новости к этому часу: ▪ Путин, Си Цзиньпин и Трамп начали историческую трехстороннюю встречу, открытая часть переговоров продлилась более 10 минут, выступили все три лидера, передает корреспондент ТАСС. ▪ Встреча Путина и Трампа прошла хорошо, заявил Ушаков. ТАСС собрал ключевые заявления помощника президента. ▪ ВСУ вновь атаковали Крымский мост. Основное о последствиях — в материале ТАСС. ▪ Российские войска поразили две электроподстанции в Одесской области. ▪ БПЛА атаковали резервуары для хранения нефти вблизи Альметьевска в Татарстане. ТАСС собрал основное о последствиях атак на российские регионы. ▪ Пашинян заявил, что уйдет в отставку, если народ отвергнет новую конституцию. ▪ Еврокомиссия подверглась крупной кибератаке, сбой длится более 10 дней, сообщает Politico со ссылкой на источники. ▪ США могут достичь потолка госдолга в феврале 2027 года, сообщает The New York Times. ▪ Пациентке в Северодвинске могли ввести анестетик, чтобы скрыть допущенную ошибку, сообщили ТАСС правоохранители. ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "drone",
-        "negotiation",
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/boris_rozhin/233946"
-      ]
     }
   ]
 }

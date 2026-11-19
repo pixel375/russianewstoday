@@ -1,0 +1,227 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T10",
+  "generated_at_utc": "2026-11-19T11:25:35.210505+00:00",
+  "window_start_utc": "2026-11-19T10:00:00+00:00",
+  "window_end_utc": "2026-11-19T11:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 2,
+      "raw_count": 17
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 53,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "dva_majors/102241",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102241",
+      "published_at": "2026-11-19T10:59:56+00:00",
+      "text": "🇬🇧 Генри (Гарри) Маунтбеттен-Виндзор собрался воевать с Россией Ряженное чучело, сын королевы Карла , называющий себя принц Гарри, во время второго за год визита во Львов заявил в контексте вопроса о войне с Россией:«Если меня попросят снова поступить на службу и в этом будет необходимость, я на сто процентов готов служить своей стране ». ✨ Наркот, которого изганли из цирка под названием «королевская семья Англии» из-за женитьбы не по правилам, решил оправдаться и хочет снова получать халявную пайку из госбюджета . ✨ ⭐️ Стереть бы с лица земли этот клоунский остров со всем сбродом, который там собрался. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233955",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233955",
+      "published_at": "2026-11-19T10:55:51+00:00",
+      "text": "По итогам трёхсторонней встречи принята Декларация глав государств России, Китая и США о мире Полный текст декларации: Президент Российской Федерации Владимир Путин, Председатель Китайской Народной Республики Си Цзиньпин и Президент Соединённых Штатов Америки Дональд Трамп провели встречу в Шэньчжэне 19 ноября 2026 года. Главы государств России и США выразили признательность Китаю за организацию и проведение этого исторического трёхстороннего Саммита. Главы трёх государств обстоятельно обменялись мнениями по текущей международной ситуации и выразили приверженность поддержанию стратегической стабильности и международной безопасности. 1. Являясь постоянными членами Совета Безопасности ООН, Россия, Китай и США выразили приверженность реформированию ООН, чтобы ООН могла более эффективно реагировать на глобальные вызовы и соответствовать своей основополагающей миссии в области международного мира и безопасности. 2. Три государства планируют увеличить производство и поставки продуктов нефтепереработки на благо всех стран. Они подтвердили важность стабильных энергопоставок. 3. Главы трёх государств отмечают, что принцип согласия государств и соблюдение иммунитетов официальных лиц государств имеют основополагающее значение, и согласны с тем, что Международный уголовный суд и другие аналогичные структуры не должны злоупотреблять своими полномочиями. 4. Главы трёх государств подтвердили, что в ядерной войне не может быть победителей и она никогда не должна быть развязана. Три страны будут вести диалог по снижению ядерных рисков и предотвращению распространения ядерного оружия. @news_kremlin",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198620",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198620",
+      "published_at": "2026-11-19T10:53:59+00:00",
+      "text": "🇷🇺 🇨🇳 🇺🇸 Declaration of the Heads of State of Russia, China and the United States on Peace adopted following the trilateral meeting Full text of the declaration: President of the Russian Federation Vladimir Putin, President of the People's Republic of China Xi Jinping and President of the United States of America Donald Trump held a meeting in Shenzhen on November 19, 2026. The heads of state of Russia and the United States expressed their gratitude to China for organizing and hosting this historic trilateral summit. The leaders of the three states held a thorough exchange of views on the current international situation and expressed their commitment to maintaining strategic stability and international security. 1. As permanent members of the UN Security Council, Russia, China and the United States expressed their commitment to reforming the UN so that it can respond more effectively to global challenges and fulfill its fundamental mission in the field of international peace and security. 2. The three states plan to increase the production and supply of refined petroleum products for the benefit of all countries. They reaffirmed the importance of stable energy supplies. 3. The leaders of the three states note that the principle of state consent and respect for the immunities of state officials are of fundamental importance, and agree that the International Criminal Court and other similar bodies must not abuse their powers. 4. The leaders of the three states reaffirmed that a nuclear war cannot be won and must never be fought. The three countries will hold a dialogue on reducing nuclear risks and preventing the proliferation of nuclear weapons. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350097",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350097",
+      "published_at": "2026-11-19T10:53:11+00:00",
+      "text": "❗️ Путин, Си Цзиньпин и Трамп приняли совместную декларацию о мире. Главное: 🔹 Лидеры подтвердили, что в ядерной войне не может быть победителей и она никогда не должна быть развязана. 🔹 Россия, КНР и США будут вести диалог по снижению ядерных рисков и предотвращению распространения ядерного оружия. 🔹 Путин, Си Цзиньпин и Трамп согласны с тем, что МУС и другие аналогичные структуры не должны злоупотреблять своими полномочиями. 🔹 Лидеры РФ, КНР и США отметили, что соблюдение иммунитетов официальных лиц государств имеет основополагающее значение. 🔹 Россия, США и Китай планируют увеличить производство и поставки нефтепродуктов на благо всех стран. 🔹 Россия, Китай и США выступили за реформу ООН, чтобы организация могла эффективнее реагировать на глобальные вызовы. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198617",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198617",
+      "published_at": "2026-11-19T10:30:28+00:00",
+      "text": "🇵🇱 Most Butthurt European of the Year: Mr. Applebaum, for not being invited to a summit his country isn't even part of Polish Foreign Minister Radosław Sikorski on the Xi-Trump-Putin meeting at APEC: \"What is this, some kind of Yalta?\" Russia is \"an economic dwarf\" with \"an economy the size of Italy's,\" he says, so the EU should have been there instead. Small problem: APEC is the Asia-Pacific Economic Cooperation. Russia has been a member since 1998. The EU and Poland aren't members at all. Bigger problem: the IMF ranks Russia's economy 4th in the world by purchasing power, ahead of Japan and Germany. Italy is 12th. Poland is 21st. Maybe if Radek asks Anne nicely, she'll write a book about how unfair it was. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77953",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77953",
+      "published_at": "2026-11-19T10:29:20+00:00",
+      "text": "Премьер бандеровской Украины доложил о том, что русские атаковали электрические подстанции в Житомирской, Черниговской и Николаевской областях. В четырех областях ВС РФ били по агропредприятиям. Всего минувшей ночью ударам подверглись цели в 12-ти областях Украины. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35864",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35864",
+      "published_at": "2026-11-19T10:25:57+00:00",
+      "text": "📝 The Big Three 📝 The leaders of Russia, China, and the USA finally met in Shenzhen . The main topics of talks lasting more than an hour and a half were the conditions for further coexistence of the three countries and issues of international development and security. However, they did not issue joint statements following the meeting. 🔻 Statements by Vladimir Putin: ▪️ Russia, China, and the USA stood at the origins of the UN's creation; the countries bear responsibility for strengthening international law; ▪️ The authorities of the three countries can contribute to strengthening stability in the world if they cooperate constructively; ▪️ The states are united by shared responsibility for maintaining peace and security; ▪️ The President proposed discussing global and regional relations, energy security; ▪️ Russia, China, and the USA have common interests in combating international terrorism. 🔻 Statements by Xi Jinping: ▪️ Nuclear weapons must be banned and destroyed ; ▪️ The authorities of the USA, China, and Russia must jointly uphold peace on the planet; ▪️ China, Russia, and the USA cannot change each other and must respect the choices of their peoples; ▪️ World powers must respect sovereignty and territorial integrity of one another; ▪️ Positive interaction between major powers – this is not a choice among several options, but a necessity ; ▪️ The governments of the three countries must cooperate in solving global problems and jointly ensure peace and stability throughout the world; 🔻 Statements by Donald Trump: ▪️ The authorities of Russia, China, and the USA need to conduct dialogue . The President of the United States emphasized readiness for dialogue for a better future; ▪️ The trilateral meeting will discuss the International Criminal Court, which operates beyond its jurisdiction; ▪️ Discussion of nuclear arms reduction is necessary. For now, the leaders limited themselves to official statements reflecting the general thrust of their foreign policy. The question of resolving conflicts in the Donbas and Middle East was not raised — it is quite likely that discussion of this will take place behind closed doors after the open part of the meeting or later. ❗️ Nevertheless, the very fact of Russia's presence at talks of such scale reflects the absence of Western success in achieving political isolation.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53409",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53409",
+      "published_at": "2026-11-19T10:04:21+00:00",
+      "text": "❗️ Kushner, along with Witkoff, is heading to Berlin to hold talks with Zelenskyy and European politicians regarding the resolution of the Ukrainian conflict. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233947",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233947",
+      "published_at": "2026-11-19T10:03:24+00:00",
+      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки Используя непогоду, противник продолжает попытки вскрыть уязвимые участки в обороне наших войск и проникнуть на подконтрольную территорию. В течение суток до 12 единиц авто-мототехники и несколько групп боевиков ВСУ было уничтожено за передним краем. На освобожденной территории активничали до 10 групп инфильтрации, по которым также наносилось огневое поражение. На северо-западном участке воины-забайкальцы продолжают вклинение в оборону противника, закрепляясь на освобожденных территориях и продолжая наступательные действия. Западнее Зелёной Дибровы продолжаются ожесточенные бои. На данном участке огневое поражение наносилось скоплениям живой силы ВСУ к западу от Василькового , поражено 3 пункта временной дислокации ВСУ и 2 пункта управления БПЛА. На других участках в зоне ответственности группировки существенных изменений не фиксируем. Есть небольшие тактические успехи наших подразделений. Всего за прошедшие уничтожено свыше роты живой силы ВСУ; 19 единиц авто-мототехники и 17 пунктов управления БПЛА. На всех направлениях стараниями наших дроноводов активно сбиваются воздушные цели противника. @voin_dv",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
