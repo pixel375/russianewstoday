@@ -1,0 +1,21 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-18T23",
+  "snapshot_generated_at_utc": "2026-11-19T00:15:00.577779+00:00",
+  "items": [
+    {
+      "title": "Ukrainian monitors warn of possible missile strikes on Kyiv infrastructure",
+      "summary": "Ukrainian monitoring channels reportedly issued a 48-hour ballistic-missile threat alert, naming several Kyiv bridges, thermal power plants and the Nyvky substation as potential targets. The warning describes a possible attack, not strikes that have occurred.",
+      "source_urls": [
+        "https://t.me/intelslava/98270"
+      ]
+    },
+    {
+      "title": "Musk says Ukraine's front depends on Starlink connectivity",
+      "summary": "Elon Musk said Ukraine's military front would collapse immediately without Starlink, underscoring the satellite network's role in Ukrainian military communications. His statement is an assessment, not a reported change to Starlink service.",
+      "source_urls": [
+        "https://t.me/bricsnews/19707"
+      ]
+    }
+  ]
+}
