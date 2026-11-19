@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-19T04",
-  "generated_at_utc": "2026-11-19T05:21:01.644196+00:00",
-  "window_start_utc": "2026-11-19T04:00:00+00:00",
-  "window_end_utc": "2026-11-19T05:00:00+00:00",
+  "hour_id": "2026-11-19T05",
+  "generated_at_utc": "2026-11-19T06:23:21.441802+00:00",
+  "window_start_utc": "2026-11-19T05:00:00+00:00",
+  "window_end_utc": "2026-11-19T06:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,19 +15,19 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 2,
-      "raw_count": 16
+      "raw_count": 18
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 5
     },
     {
       "handle": "rybar_in_english",
@@ -69,13 +69,13 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 7
     },
     {
       "handle": "voenkorKotenok",
@@ -99,50 +99,19 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 42,
-    "relevant_posts": 4,
-    "deduplicated_posts": 4,
-    "candidate_posts": 4
+    "raw_posts": 44,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
   },
   "posts": [
     {
-      "id": "dva_majors/102223",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102223",
-      "published_at": "2026-11-19T04:37:46+00:00",
-      "text": "Крымский мост, Минтранс России, официально: В результате ночной атаки БПЛА временно приостановлено движение поездов по железнодорожной составляющей Крымского моста. Пострадавших в результате происшествия нет. Специалисты проведят оценку нанесенного ущерба Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406476",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406476",
-      "published_at": "2026-11-19T04:35:35+00:00",
-      "text": "❗️ ВСУ в третий раз за неделю атаковали Крымский мост, сообщил Аксенов.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350055",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350055",
-      "published_at": "2026-11-19T04:25:46+00:00",
-      "text": "❗️ Трамп на встрече с Путиным заявил, что с нетерпением ждет продуктивного разговора. Американский лидер отметил , что у него с президентом России отличные отношения, а по итогам переговоров может получиться \"много замечательного\". 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "DDGeopolitics/198583",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198583",
+      "published_at": "2026-11-19T05:59:50+00:00",
+      "text": "🇩🇰 We've found someone even more delusional than Kaja Kallas Danish MEP Henrik Dahl, who sits with the European People's Party group, has drawn up what he thinks Europe's \"opening proposal\" for peace talks with Russia should be. Russia would withdraw from Ukraine, Moldova, Georgia and all of Africa, hand over Kaliningrad to become a UNESCO World Heritage Site, cut its army to whatever size its neighbors approve, give up its UN Security Council seat, leave BRICS, cancel every agreement with China, and send Putin to a Nuremberg-style tribunal. And he says these are just the preconditions for starting negotiations. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -151,15 +120,124 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350053",
+      "id": "rian_ru/350067",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350053",
-      "published_at": "2026-11-19T04:20:59+00:00",
-      "text": "Саммит АТЭС показал западным странам, за кем на самом деле будущее, уверен французский политик Флориан Филиппо. \"В то время как Франция зажата между Урсулой и Зеленским, низведенная до положения захолустной провинции глубоко устаревшего Евросоюза, мир свободных наций - мир завтрашнего дня - уже здесь!\" - написал он. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/rian_ru/350067",
+      "published_at": "2026-11-19T05:58:32+00:00",
+      "text": "Путин был в отличном настроении после переговоров с Трампом, сообщил Ушаков. На встрече обсуждали в том числе двусторонние отношения и вопросы урегулирования украинского конфликта. \"Особо важных заявлений ни одна сторона не делала\", - сказал Ушаков ИС \"Вести\". 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33481",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33481",
+      "published_at": "2026-11-19T05:50:01+00:00",
+      "text": "🎙 Remarks by President of Russia Vladimir Putin at the Plenary Session of the #APEC Economic Leaders’ Meeting (Shenzhen, November 19, 2026) 💬 Vladimir Putin: First of all, I would like to commend China in the strongest terms for its work as APEC Chair this year. We fully endorse the theme of China’s chairmanship – Building an Asia-Pacific Community to Prosper Together . This is an ambitious undertaking, and APEC , as the largest economic forum in our region, is uniquely placed to see it through . As our colleague from Singapore has just noted, the global economy is becoming increasingly fragmented. With challenges and threats to its stability multiplying, APEC must bring economies together and set a constructive agenda for cooperation . 📄 That is precisely the aim of the draft Shenzhen Declaration before us for approval. Russia supports it. It is gratifying that the Asia-Pacific region has become one of the engines of global growth . The region continues to grow and steadily expand its industrial, technological and logistics capabilities. Taken together, the APEC economies are forecast to grow by 4.8% in 2026, well above the global rate. ☝️ Let me emphasise that building constructive partnerships with Asia-Pacific economies is a strategic priority for Russia. We are an integral part of the region and make a substantial contribution to its prosperity. In the first eight months of this year alone, our trade with the region’s economies grew by almost a third , with a focus on non-energy and innovative products. Over the past ten years, Russia’s total trade with ASEAN countries has grown by nearly 60%. I would also like to mention the growing network of preferential trade agreements between countries in the region and the Eurasian Economic Union . Russia is actively advancing its flagship initiative to establish a Greater Eurasian Partnership to create a seamless economic area across the continent. We see this partnership as the core of regional integration , bringing together the mechanisms of the Eurasian Economic Union , the Shanghai Cooperation Organisation and ASEAN . Russia supplies the Asia-Pacific region with energy resources as well as large quantities of grain and mineral fertilisers . In doing so, we make a significant contribution to energy and food security throughout the region. Our trading partners can always count on us for reliable, consistent supplies of high-quality products . 🇷🇺 Russia seeks to remain open to the world while strengthening its economy. To that end, we continue to pursue far-reaching reforms at home, upgrade our industrial base, expand our technological capabilities and keep inflation in check. We have fundamentally changed the structure of the Russian economy. We are giving priority to advanced sectors such as digital technology, artificial intelligence and nuclear energy. As a result, Russia’s GDP has grown by more than 10% in real terms over the past three years, and our country ranks firmly among the world’s leading economies in terms of purchasing power parity. Russia is keen to work as closely as possible with fellow APEC economies in knowledge-intensive industries . One example is the peaceful use of nuclear energy , a field in which Russia is a world leader and works closely with many partners across the region. 🤝 Russia will continue to play an active part in APEC’s work. Read in full",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233913",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233913",
+      "published_at": "2026-11-19T05:45:42+00:00",
+      "text": "Ушаков сообщил, что в ходе переговоров Путина и Трампа обсуждалась война на Украине и вопросы двусторонних отношений. Переговоры прошли хорошо. Путин покинул переговоры в отличном настроении. Ушаков также добавил, что важные заявления будут по итогам трехсторонней встречи лидеров России, Китая и США.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102224",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102224",
+      "published_at": "2026-11-19T05:44:58+00:00",
+      "text": "Куда били наши ночью: В Одесской области поражены: ▫️ Электроподстанции ПС-110 «Каролино» в н.п. Каролино-Бугаз и ПС-110 в н.п. Белгород-Днестровский, осуществляющие распределение электроэнергии для обеспечения функционирования портовой инфраструктуры и логистических центров на территории Одесской области; ▫️ в порту Черноморск – объекты инфраструктуры, предназначенные для хранения горюче-смазочных материалов ВСУ; ▫️ морское судно типа «сухогруз» на переходе морем, доставлявшее в порт Одесса грузы двойного назначения для украинских войск. Кроме того, поражена электроподстанция ПС-330 «Сумы Северная» в г. Сумы, осуществляющая распределение электроэнергии для обеспечения функционирования предприятий военной промышленности Украины и логистических центров в Сумской области. ✨ Это все хорошо и правильно. Очень бы хотелось комментарий от оборонного ведомства по крымскому мосту. Губернаторы и гражданские министерства за противодействие ракетам вроде бы не отвечают. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "missile",
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198581",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198581",
+      "published_at": "2026-11-19T05:35:21+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Russian forces hit Ukrainian energy and port infrastructure, according to the Russian Defense Ministry: ➡️ Two electrical substations in the Odessa region supplying power to ports and logistics hubs ➡️ AFU fuel and lubricant storage facilities at the port of Chernomorsk ➡️ A 330-kilovolt substation in Sumy powering military-industrial enterprises ➡️ A cargo ship at sea that was carrying dual-use goods for Ukrainian forces to the port of Odessa 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38490",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38490",
+      "published_at": "2026-11-19T05:21:01+00:00",
+      "text": "ВСУ третий раз за неделю атаковали Крымский мост Пострадавших нет, сообщил Аксенов. Сейчас специалисты проводят оценку нанесенного ущерба. Движение поездов приостановлено. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38482",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38482",
+      "published_at": "2026-11-19T05:07:53+00:00",
+      "text": "⚡️ Фронтовая сводка на утро 19.11.26 ⚡️ Запорожский фронт На Каменском направлении продолжаются упорные бои в районе Приморского и Степногорска. Идут сражения у Лукьяновского. (Рис.1.1) На Гуляйпольском направлении войска РФ расширяют зону контроля в районе освобожденного накануне населенного пункта Заливное. Сообщается о продвижении северо-восточнее Терноватого. (Рис. 1.2) Донецкий фронт На Добропольском направлении не стихают бои у Сергеевки. Есть успехи в Лидино. (Рис. 2.1) На Константиновском направлении ВС РФ вошли в Николайполье. Продолжаются бои в Константиновке. Есть продвижение в районе Кондратовки, а также у Веролюбовки. На Краснолиманском направлении идут боестолкновения на подступах к Красному Лиману. На участке Озёрное – Диброва – Ямполь без существенных изменений, продолжаются бои. Идут сражения западнее Рай-Александровки. (Рис. 2.2) Харьковский фронт На Купянском направлении идут бои в районе Соболевки. Сообщается, что на Богуславском направлении ВС РФ вошли в населённый пункт Боровая, идёт штурм. (Рис. 3.1) На Волчанском направлении продолжаются боестолкновения в районе Приколотого и Шевченково Первого. Есть продвижение у Токаревки и южнее Новой Казачьей. (Рис. 3.2; Рис. 3.3) Сумской фронт Об изменениях в ЛБС не сообщается. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406482",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406482",
+      "published_at": "2026-11-19T05:00:17+00:00",
+      "text": "Главные новости к этому часу: ▪️ Названо время трехсторонней встречи Путина, Трампа и Си Цзиньпина. ▪️ Путин и Трамп в начале двусторонней встречи снова пожали друг другу руки. ▪️ Путин выступил на пленарном заседании саммита АТЭС в Шэньчжэне. ТАСС собрал ключевые заявления . ▪️ По Крымскому мосту после атаки БПЛА приостановили движение поездов. ▪️ Замглавы Пентагона не стал слушать доклад министра обороны Украины, сообщила The Daily Telegraph. ▪️ Guardian назвала три причины исключения Каллас из переговоров с РФ. ▪️ В США заявили , что новое соглашение с Венесуэлой касается обмена разведданными. ▪️ В работе PlayStation Network произошел масштабный сбой. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "negotiation",
+        "strike"
+      ],
       "possible_duplicate_urls": []
     }
   ]
