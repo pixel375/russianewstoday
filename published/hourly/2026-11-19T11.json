@@ -1,0 +1,45 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    87
+  ],
+  "published_at_utc": "2026-11-19T12:21:47.650939+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-19T11",
+  "items": [
+    {
+      "item_id": "2026-11-19T11:1",
+      "title": "SAPO says appeals court upholds prison sentences in $25,000 tax-office bribery case",
+      "summary": "SAPO reports that Ukraine's High Anti-Corruption Court appeals chamber upheld convictions of former Odesa regional tax officials N. Chebotariova and V. Mosiichuk for offering and providing a $25,000 bribe to a regional prosecutor's office official. Their six- and five-year prison sentences, respectively, remain in place, with a further appeal to the Supreme Court possible within three months.",
+      "post_url": "https://t.me/russianewstodayofficial/87",
+      "category": "other",
+      "hour_id": "2026-11-19T11",
+      "source_handles": [
+        "sap_gov_ua"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T11:2",
+      "title": "Putin says Trump genuinely wants to end Ukraine war",
+      "summary": "President Vladimir Putin said he had no doubt Donald Trump genuinely wants to end the war in Ukraine and improve US-Russian relations. The remarks followed the leaders' trilateral meeting with Xi Jinping, which produced broad security commitments but no announced Ukraine settlement.",
+      "post_url": "https://t.me/russianewstodayofficial/87",
+      "category": "other",
+      "hour_id": "2026-11-19T11",
+      "source_handles": [
+        "bricsnews"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T11:3",
+      "title": "European leaders discuss Ukraine guarantees amid reported coalition strains",
+      "summary": "European officials reportedly voiced concern that the Coalition of the Willing has lost momentum as Ukrainian and European leaders meet in Berlin. Discussions include possible ceasefire security guarantees, air defence and further financial assistance, while a proposed €45 billion EU loan for Ukraine in 2027 remains under consideration.",
+      "post_url": "https://t.me/russianewstodayofficial/87",
+      "category": "other",
+      "hour_id": "2026-11-19T11",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
