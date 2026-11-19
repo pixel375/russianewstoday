@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T02",
+  "generated_at_utc": "2026-11-19T03:25:27.555597+00:00",
+  "window_start_utc": "2026-11-19T02:00:00+00:00",
+  "window_end_utc": "2026-11-19T03:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 9
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 22,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "rian_ru/350050",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350050",
+      "published_at": "2026-11-19T02:57:27+00:00",
+      "text": "Главные заявления Путина на пленарке саммита АТЭС: 🔹 Азиатско-Тихоокеанский регион стал локомотивом развития. 🔹 Россия является неотъемлемой частью АТР и вносит вклад в его благополучие. 🔹 Россия готова делиться с партнерами по АТР компетенциями в сфере цифровых решений и ИИ на условиях, позволяющих гарантировать сохранность данных и суверенитет. 🔹 Товарооборот России со странами АСЕАН увеличился на 60%. 🔹 Россия существенно способствует поддержанию общерегиональной энергетической и продовольственной безопасности в АТР. 🔹 Россия приглашает все экономики АТР активно пользоваться возможностями новых транспортных маршрутов, в том числе «Север-Юг». 🔹 Россия и далее будет принимать деятельное участие в работе АТЭС. 🔹 Россия стремится оставаться открытой миру, усиливая свой экономический потенциал. 🔹 Россия продолжит реализацию со странами АТЭС совместных проектов и инициатив. 🔹 Путин поблагодарил Си Цзиньпина и китайских коллег за гостеприимство и продуктивную работу на саммите. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406461",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406461",
+      "published_at": "2026-11-19T02:51:01+00:00",
+      "text": "📹 Путин назвал стратегическим курсом России партнерство с экономиками АТР. Видео: Раптли/ТАСС #АТЭС2026 ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233898",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233898",
+      "published_at": "2026-11-19T02:33:01+00:00",
+      "text": "ЭКСКЛЮЗИВ: Отряд «Анвар» продолжает плановую работу по беспилотным средствам и технике противника. Цели поражены, ВСУ несут потери. 🛸 ЛИКВИДИРОВАНЫ: БЛА «Баба-яга» в н.п. Шевченково Минивэн противника в н.п. Буряковка Задача выполнена. Продолжаем боевую работу. @ZOVbear0",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53385",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53385",
+      "published_at": "2026-11-19T02:24:14+00:00",
+      "text": "❗️ Putin, Trump and Xi front and centre for leaders group photo on Day 2 of APEC in China. 😁 Albo was spotted grinning in the back row. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53384",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53384",
+      "published_at": "2026-11-19T02:04:42+00:00",
+      "text": "❗️ Elon Musk just CALLED OUT Zelensky for not telling the truth, saying he asked to use Starlink commercial satellites for military actions that can take lives \"HE'S LYING. He wants to use STARLINK for OFFENSIVE military operations.\" 🤯 \"I don't want to BLOW YOUR MIND but Zelensky is NOT always truthful! Maybe that comes as a SHOCK. 'What?! He's not always truthful?' NO. He's not!\" \"Starshield is controlled by the US government...Starlink is commercial and is not intended as a weapon of war.\" \"Zelensky is actually asking to use the Starlink commercial satellites for events of military actions and we have declined to do so.\" @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
