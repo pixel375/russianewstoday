@@ -1,0 +1,58 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    86
+  ],
+  "published_at_utc": "2026-11-19T11:26:27.971165+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-19T10",
+  "items": [
+    {
+      "item_id": "2026-11-19T10:1",
+      "title": "Russia, China and US reportedly adopt joint peace declaration",
+      "summary": "Reports from the Shenzhen trilateral summit say Putin, Xi and Trump adopted a declaration calling for dialogue on nuclear risks, UN reform, stable energy supplies and respect for state officials' immunities. The reported text does not announce a Ukraine peace agreement; another account said no joint statement had been issued.",
+      "post_url": "https://t.me/russianewstodayofficial/86",
+      "category": "other",
+      "hour_id": "2026-11-19T10",
+      "source_handles": [
+        "ddgeopolitics",
+        "rian_ru",
+        "rybar_in_english"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T10:2",
+      "title": "Ukrainian prime minister reportedly describes strikes across 12 regions",
+      "summary": "A Russian military-linked report citing Ukraine's prime minister says overnight Russian attacks targeted facilities in 12 Ukrainian regions, including electrical substations in Zhytomyr, Chernihiv and Mykolaiv regions and agricultural enterprises in four regions. The report did not provide casualty figures or a complete damage assessment.",
+      "post_url": "https://t.me/russianewstodayofficial/86",
+      "category": "other",
+      "hour_id": "2026-11-19T10",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T10:3",
+      "title": "Prince Harry says he would return to military service if asked",
+      "summary": "During a reported visit to Lviv, Prince Harry said he would be fully prepared to serve his country again if requested and needed. His remarks came in the context of a question about a potential war with Russia, but did not amount to an announcement of deployment.",
+      "post_url": "https://t.me/russianewstodayofficial/86",
+      "category": "other",
+      "hour_id": "2026-11-19T10",
+      "source_handles": [
+        "dva_majors"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T10:4",
+      "title": "Russian military-linked report describes fighting west of Zelena Dibrova",
+      "summary": "A Russian account says its Vostok forces continued offensive operations northwest of their sector and reported heavy fighting west of Zelena Dibrova. It claimed strikes on Ukrainian troop concentrations, temporary positions and drone-control sites, while acknowledging no major changes on other parts of the front.",
+      "post_url": "https://t.me/russianewstodayofficial/86",
+      "category": "other",
+      "hour_id": "2026-11-19T10",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
