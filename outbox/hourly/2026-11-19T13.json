@@ -1,0 +1,28 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-19T13",
+  "snapshot_generated_at_utc": "2026-11-19T14:21:33.059539+00:00",
+  "items": [
+    {
+      "title": "Putin rejects foreign troop deployments in Ukraine",
+      "summary": "President Vladimir Putin said Russia would not accept foreign military contingents stationed in Ukraine as part of any settlement. He said Moscow remained willing to discuss broader European security arrangements, while maintaining its opposition to such deployments.",
+      "source_urls": [
+        "https://t.me/wargonzo/38505"
+      ]
+    },
+    {
+      "title": "Moscow says it invited European representatives to discuss security in Russia",
+      "summary": "Putin said Moscow had proposed through diplomatic channels that European representatives visit Russia and present their positions on security guarantees. No acceptance or timetable for such talks was announced.",
+      "source_urls": [
+        "https://t.me/tass_agency/406667"
+      ]
+    },
+    {
+      "title": "Russian Defence Ministry claims drone strike on Ukrainian command position",
+      "summary": "Russia's Defence Ministry said drones from its Yuzhnaya Group destroyed a Ukrainian UAV-control post and a troop shelter in the Sloviansk–Kramatorsk area. The statement did not specify casualties or provide a detailed damage assessment.",
+      "source_urls": [
+        "https://t.me/mod_russia_en/30683"
+      ]
+    }
+  ]
+}
