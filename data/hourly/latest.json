@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-18T23",
-  "generated_at_utc": "2026-11-19T00:15:00.577779+00:00",
-  "window_start_utc": "2026-11-18T23:00:00+00:00",
-  "window_end_utc": "2026-11-19T00:00:00+00:00",
+  "hour_id": "2026-11-19T00",
+  "generated_at_utc": "2026-11-19T01:29:43.201576+00:00",
+  "window_start_utc": "2026-11-19T00:00:00+00:00",
+  "window_end_utc": "2026-11-19T01:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,13 +15,13 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 8
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
@@ -99,52 +99,120 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 10,
-    "relevant_posts": 3,
-    "deduplicated_posts": 3,
-    "candidate_posts": 3
+    "raw_posts": 16,
+    "relevant_posts": 8,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
   },
   "posts": [
     {
-      "id": "bricsnews/19707",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19707",
-      "published_at": "2026-11-18T23:39:48+00:00",
-      "text": "JUST IN: 🇺🇸 🇺🇦 Elon Musk says Ukraine's entire military front would collapse immediately without Starlink. @BRICSNews",
+      "id": "intelslava/98272",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98272",
+      "published_at": "2026-11-19T00:56:44+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russia struck energy infrastructure in Ukraine's Vinnytsia Oblast. Footage circulating on social media shows the impacts and fires that broke out following the explosions. According to military channels, preliminary reports indicate that the targets included the major 750 kV Vinnytsia high-voltage substation, the regional 110 kV Mohyliv-Podilskyi and Vapniarka distribution substations, as well as the Tiazhylivska substation within the city of Vinnytsia. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406449",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406449",
+      "published_at": "2026-11-19T00:51:01+00:00",
+      "text": "Трамп признал, что США хорошо зарабатывают на продаже оружия, поставляемого Европой Киеву: \"Мы продаем вооружения Евросоюзу, они делают с ними, что хотят. Думаю, по большей части они отдают их Украине, — сказал он в интервью Fox News. — Думаю, можно было бы сказать, что мы продаем [вооружения] за полную стоимость, что мы не делаем скидок. Можно сказать, что мы зарабатываем много денег на этом\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350039",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350039",
+      "published_at": "2026-11-19T00:40:54+00:00",
+      "text": "Трамп не будет обращаться к России и Китаю за помощью в ситуации вокруг Ирана. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98270",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98270",
-      "published_at": "2026-11-18T23:34:48+00:00",
-      "text": "🇷🇺 ❌ 🇺🇦 — Ukrainian monitoring channels have issued a “red” ballistic missile threat alert for the next 48 hours, warning that Russia may be planning strikes against bridges in Kyiv and critical energy infrastructure. According to preliminary information, the potential targets include: • Bridges: Northern (Pivnichnyi), Southern (Pivdennyi), and Darnytskyi Bridges. • Power plants: Kyiv TPP-2, TPP-4, TPP-5, and TPP-6. • Substation: Nyvky electrical substation. The monitoring channels warn that such strikes could cause widespread disruptions to electricity, heating, and water supplies across the capital. @OSINTWarfare",
+      "id": "tass_agency/406447",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406447",
+      "published_at": "2026-11-19T00:40:01+00:00",
+      "text": "Трамп заявил, что не планирует просить у России и Китая помощи в урегулировании конфликта с Ираном.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406446",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406446",
+      "published_at": "2026-11-19T00:36:01+00:00",
+      "text": "Великобритания передаст Киеву более 1 тыс. БПЛА для \"глубоких ударов\" по РФ. Об этом говорится в заявлении канцелярии Энди Бернэма. Оно распространено в преддверии намеченной на 19 ноября в Берлине встречи \"коалиции желающих\" по Украине.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy",
+        "drone",
         "kyiv",
-        "missile",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198568",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198568",
-      "published_at": "2026-11-18T23:22:08+00:00",
-      "text": "***LIVESTREAM ALERT*** Danny Haiphong is LIVE today in November 18th 9pm eastern 3am CET (11/19) w/ Ben Norton & KJ Noh! Iran and the US have escalated strikes once again as Israel meets with CENTCOM to push for an even bigger operation. Meanwhile, the Trump Xi Putin summit looms over APEC in Shenzhen with the US empire coming into the meeting in a fragile state. Geopolitical analysts Ben Norton and KJ Noh break down the latest developments in the multipolar world and what they mean for geopolitics and geopolitical economy. Watch here: https://www.youtube.com/watch?v=vG3gZF-V8lE",
+      "id": "boris_rozhin/233884",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233884",
+      "published_at": "2026-11-19T00:33:01+00:00",
+      "text": "✈️ Ростех поставил в армию партию Су-34. Наша ОАК передала ВКС России партию истребителей-бомбардировщиков Су-34. Машины прошли полный цикл наземных и летных испытаний и отправились к месту службы. «Этот самолет сочетает в себе возможности истребителя и бомбардировщика и может наносить удары по наземным, надводным и воздушным целям, в том числе в сложных метеоусловиях и при активном противодействии ПВО», – отметил командир экипажа Су-34 Воздушно-космических сил России. Су-34 предназначен для поражения наземных, надводных и воздушных целей, а также для ведения воздушной разведки. В Ростехе отметили, что предприятия Госкорпорации непрерывно совершенствуют производственные процессы для обеспечения ритмичных поставок техники в войска. «Важное место в линейке выпускаемой техники занимают фронтовые бомбардировщики Су-34, которые на практике подтвердили высокую ударную мощь, впечатляющую дальность полета и надежность. Наши авиаконструкторы продолжают совершенствовать эти машины и повышать их технические характеристики», – сказали в Ростехе. @rostecru",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406444",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406444",
+      "published_at": "2026-11-19T00:10:01+00:00",
+      "text": "Замглавы Пентагона Элбридж Колби ушел со встречи с европейскими коллегами, не заслушав главу Минобороны Украины. Об этом сообщила газета The Daily Telegraph со ссылкой на источник из делегации ФРГ. По информации издания, это произошло 17 ноября во время заседания в Брюсселе западной контактной группы, координирующей поставки оружия Украине, на которой Колби подверг критике \"глубокие удары\" Киева по России.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/233883",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/233883",
+      "published_at": "2026-11-19T00:03:01+00:00",
+      "text": "⠀ 🔴 Свидетельства вернувшихся из плена о зверствах украинских неонацистов. Смотреть на Rutube Смотреть предыдущие свидетельства Наш Международный общественный трибунал по преступлениям украинских неонацистов (председатель — М. С. Григорьев ) из представителей гражданского общества 35 стран мира продолжает сбор свидетельств преступлений киевского режима. Российский военнослужащий с позывным \"Лютый\": 00:00 \"У украинского командира роты висели фотографии немцев времён Второй мировой войны, была фашистская символика. 00:28 Меня там избивали. Надевали кожаную перчатку и начинали бить. 00:43 Там был пленный, комбат. Сейчас он держится из последних сил. У него есть ранение, одна рука усыхает, он ею почти не двигает. Сан Саныч сбрил ему бороду, брови, побрил налысо и отправил в СИЗО. Там он провёл около четырёх месяцев. Там собак натравливали на пленных\". Проект реализуется при поддержке Леонида Слуцкого, Бориса Рожина, Армена Гаспаряна, Олега Матвейчева, Дмитрия Пучкова, Игоря Коротченко, Сергея Котькало, Егора Холмогорова, Игоря Скурлатова, Александра Малькевича, Михаила Онуфриенко . Прошу сделать репост и распространять данную информацию — важно, чтобы и у нас, и за рубежом знали правду. #МеждународныйОбщественныйТрибунал #Донбасс #СВО #ОПРФ #ПреступленияКиевскогоРежима #ПреступленияВСУ #ЦентрИсторииСВО #Безсрокадавности #ХранитьВечно Подписаться на канал в МАХ Подписаться на канал в ТГ Подписаться на канал в Rutube",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     }
