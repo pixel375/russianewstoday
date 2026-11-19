@@ -1,39 +1,39 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-19T15",
-  "generated_at_utc": "2026-11-19T16:23:42.573211+00:00",
-  "window_start_utc": "2026-11-19T15:00:00+00:00",
-  "window_end_utc": "2026-11-19T16:00:00+00:00",
+  "hour_id": "2026-11-19T16",
+  "generated_at_utc": "2026-11-19T17:27:24.208073+00:00",
+  "window_start_utc": "2026-11-19T16:00:00+00:00",
+  "window_end_utc": "2026-11-19T17:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 8
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 3
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 9
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
@@ -63,25 +63,25 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 5
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 2
     },
     {
       "handle": "nab_ukraine",
@@ -99,157 +99,199 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 38,
-    "relevant_posts": 10,
-    "deduplicated_posts": 10,
-    "candidate_posts": 10
+    "raw_posts": 32,
+    "relevant_posts": 14,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
   },
   "posts": [
     {
-      "id": "tass_agency/406703",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406703",
-      "published_at": "2026-11-19T15:59:04+00:00",
-      "text": "❕ В результате удара на переходе морем поражено морское судно, доставлявшее в порт Одесса грузы военного назначения, сообщает МО РФ.",
+      "id": "AussieCossack/53418",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53418",
+      "published_at": "2026-11-19T16:57:28+00:00",
+      "text": "❗️ Trump questioned European leaders over continued military support for Ukraine during a surprise call from Air Force One, just hours after meeting Putin and Xi in China. He reportedly described Putin as serious about peace negotiations while expressing doubts over sending billions more in military aid to Kiev: POLITICO @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "odesa",
-        "strike"
+        "kyiv",
+        "negotiation"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198643",
+      "id": "DDGeopolitics/198655",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198643",
-      "published_at": "2026-11-19T15:58:28+00:00",
-      "text": "🇩🇪 Germany's foreign minister: your energy crisis has nothing to do with the war, and ending the war will fix it Johann Wadephul admits Germans can feel life getting more expensive and energy running short. His message to them: the two \"aren't directly connected.\" Then, in the same breath: once Russia loses, energy \"will get cheaper again.\" 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198655",
+      "published_at": "2026-11-19T16:56:56+00:00",
+      "text": "🇺🇸 🇪🇺 Flying back from the Shenzhen summit, Trump called the \"Coalition of the Willing\" meeting in Berlin from Air Force One and voiced skepticism about further aid to Ukraine, Die Welt and Politico report, citing participants in the call. Trump reportedly questioned the EU plan to give Ukraine another €70 billion. He spoke positively about the talks in China and said that \"Putin wants peace, so the focus should be on peace efforts, not on giving Ukraine more money.\" Two sources said Trump appeared to go on an angry tirade against European military aid to Kiev. A third put it more gently, saying Trump stressed how much money could be saved if the war ended. Not the call the Coalition of the Wobbling was hoping for. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98310",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98310",
-      "published_at": "2026-11-19T15:53:23+00:00",
-      "text": "🇺🇦 ⚡ Drone debris fell on the territory of the Ukrainian Ministry of Foreign Affairs in Kiev. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
         "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98309",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98309",
-      "published_at": "2026-11-19T15:53:22+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡ This is what Ukrainian military experts have been talking about: Russian strike drones can sharply change their flight direction to make them harder to shoot down. The footage was recorded over Kiev. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30684",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30684",
-      "published_at": "2026-11-19T15:33:30+00:00",
-      "text": "Wiping out fortifications 💥 The Tsentr Group's artillery crews destroyed enemy strongholds in Dnepropetrovsk direction. 🔹 Russian Defence Ministry",
+      "id": "AussieCossack/53417",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53417",
+      "published_at": "2026-11-19T16:52:12+00:00",
+      "text": "The leaders of Russia, China, and the United States – the world’s three most consequential powers – have met. As the Big Three, they have emerged as the principal force in shaping a new architecture for international and European security, overseeing arms control, and settling major regional conflicts. The parallel with Yalta is entirely apt. Just like then, the world finds itself in an extremely precarious position, with the threat of a third world war looming over it. And only a summit of the great powers, like the one held in 1945, can change the course of history. And what of poor, wretched Europe? In 1945, the international community still had use for it. The British Empire, though already on the brink of a profound internal crisis, was nevertheless among the victors of World War II. Today, however, no one needs Europe (and Britain, now outside the EU, is no exception). No one needs it because it yields to Nazis and Banderites while hiding behind hollow rhetoric about freedom. Because its brainless leaders – who have been at each other’s throats over the right to represent the decrepit Old World at talks where no one wants them anyway – are fanning the flames of war rather than trying to put them out. And because their puny minds are incapable of producing a single sensible idea. So let all those ursulas, macrons, merzes, kallases, and the rest not be surprised or roll their watery eyes. They have forfeited any place among those who make the decisions. Their irrelevance is self-evident. Europe is a nonentity. It simply does not exist – and all one has to do to see that is look at the photo. Photo credit: TASS",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35868",
+      "id": "tass_agency/406708",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406708",
+      "published_at": "2026-11-19T16:51:52+00:00",
+      "text": "Мерц допустил отмену санкций против РФ по мере прогресса на переговорах по урегулированию конфликта на Украине.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19727",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19727",
+      "published_at": "2026-11-19T16:48:54+00:00",
+      "text": "JUST IN: 🇷🇺 Russian President Putin calls historic meeting with Donald Trump and Xi Jinping \"a new page in the history of diplomacy.\" @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35869",
       "channel": "rybar_in_english",
       "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35868",
-      "published_at": "2026-11-19T15:33:08+00:00",
-      "text": "📝 War is more profitable 📝 than covering budget deficits Amid discussions in recent weeks about continuing to finance the bottomless pit under the guise of \"so-called Ukraine,\" solidarity was nonetheless demonstrated in Canada. But, as usual, with a number of caveats. Canadian Defense Minister David McGuinty announced an additional contribution of 45 million Canadian dollars — approximately $31.4 million — to the Czech initiative to purchase ammunition for the Kyiv regime. The funds will be directed toward extended-range ammunition and critical air defense equipment, including AIM-7, R-73 and R-27 missiles. Canada's total contribution to the initiative has exceeded $349 million. Ottawa is also allocating approximately $55.8 million for MX-15D sensor systems from Canadian company WESCAM — meaning these funds represent a direct contribution to Canada's defense industry and an opportunity to profit for the local manufacturer. Another $20.9 million goes to winter clothing and equipment, with the manufacturer unspecified. Canadians will also transfer up to 1.6 million 20mm rounds of ammunition from their own stockpiles to the Ukrainians. 📌 However, an important caveat: in Brussels, they were pushing Canadian authorities to allocate funds to cover the Kyiv regime's budget deficit of 70 billion euros next year. However, Ottawa previously made clear that they are not prepared for that. The Canadians decided not to publicly refuse this undertaking, but instead allocated a symbolic sum specifically for military support, while not forgetting their own manufacturers. ❗️ The Canadian initiative is more of a symbolic step within a broader campaign to mobilize allies . But it is extremely telling that even in Canada, where the most influential Ukrainian diaspora resides, they prefer to finance war rather than the hopeless state budget of the Kyiv regime. #EU #Canada #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "url": "https://t.me/rybar_in_english/35869",
+      "published_at": "2026-11-19T16:33:24+00:00",
+      "text": "• 📝 A Dollar from Around the World 📝 Money for weapons is no longer sufficient — Kyiv authorities are already \"shaking down\" the world for funds to maintain their population. Ukrainians have requested more than 358 million dollars from the UN for winter humanitarian operations, which is 80 million more than a year prior. Of this sum, 160 million will go toward direct repair of communal infrastructure and cash payments for refugees. The remaining funds in Kyiv plan to spend on organizing \"evacuation measures\" in front-line regions. It is quite likely that a large portion of the allocated funds will remain in EU countries for further purchases of mobile generators and boiler rooms. Such measures will not help restore industrial power generation, but will allow populated areas to be provided with autonomous energy sources during electrical grid repairs. 🖍 Under such conditions, strikes on the main energy transmission nodes come to the fore, particularly — substations near nuclear power plants and solar power stations. After damage to most of the CHP plants, these provide the largest share of remaining power generation on so-called Ukraine. ❗️ But strikes on still-operational power plants are important not only from the perspective of complicating life for Kyiv authorities in winter. The fewer of them remain on AFU-controlled territory, the more funds will be required to restore Ukrainian energy infrastructure after the conflict ends. And without functioning energy infrastructure, restoring the economy amid declining production and social crisis will be far more difficult for Kyiv authorities. After all, it is far from certain that Europeans will continue to pour funds into a \"bottomless pit\" without practical benefit. 📍 High-resolution infographic 📍 English version #infographic #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198652",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198652",
+      "published_at": "2026-11-19T16:28:30+00:00",
+      "text": "🇺🇸 🇷🇺 Trump says Putin was extremely upset with Zelensky over the attack on the Crimean Bridge, and called it understandable that Putin felt that way, an NBC News reporter who spoke with Trump said. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/DDGeopolitics/198651"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98316",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98316",
+      "published_at": "2026-11-19T16:28:00+00:00",
+      "text": "🇷🇺 🇺🇸 ⚡ Putin told Trump that he is furious about the attack on the Crimean Bridge, NBC News reports, citing the American president. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198650",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198650",
+      "published_at": "2026-11-19T16:17:00+00:00",
+      "text": "🇳🇱 🇺🇦 ⚔️ 🇷🇺 Dutch arms maker brags its missiles brought down part of the Crimean Bridge Destinus, a Netherlands-based missile and drone maker, says its RUTA cruise missiles hit the Crimean Bridge two days in a row. The company is \"proud to support the Ukrainian…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198649",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198649",
+      "published_at": "2026-11-19T16:16:05+00:00",
+      "text": "LIVESTREAM ALERT: Join Danny Haiphong at LIVE 1pm eastern 6pm CET TODAY November 19th w/ Larry Johnson and Col. Lawrence Wilkerson! Even as Trump meets with Putin & Xi at the APEC Summit in China, Washington is reportedly in serious planning mode for a large-scale military operation against Iran. Israel is at the center of it, as CENTCOM and its Israeli attack dogs await Trump's order. Larry Johnson and Col. Lawrence Wilkerson assess the gravity of the reports and what awaits the world if the US war on Iran escalates exponentially. Watch here: https://www.youtube.com/watch?v=R4dPcuqMGZo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350129",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350129",
+      "published_at": "2026-11-19T16:15:07+00:00",
+      "text": "Главные новости дня : 🔹 Путин ответил на вопросы СМИ - главные тезисы о конфликте на Украине, отношениях с США и многом другом собрали тут . 🔹 Путин, Си Цзиньпин и Трамп провели трехстороннюю встречу. 🔹 По ее итогам Россия, КНР и США приняли декларацию о мире. 🔹 До этого Путин и Трамп провели двустороннюю встречу. 🔹 А ранним утром по московскому времени президент России выступил на пленарке саммита АТЭС. 🔹 Ядерное оружие нужно полностью запретить и уничтожить, заявил Си Цзиньпин. 🔹 Экс-замминистру обороны Цаликову дали десять лет колонии строгого режима. 🔹 Маск обвинил Зеленского во лжи и желании использовать Starlink для военных целей. 🔹 Украинские БПЛА атаковали Курск, пострадали 13 человек. 🔹 Три человека погибли в Саратовской области во время атаки ВСУ. 🔹 Умер комик Элдос Алмазов. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406704",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406704",
+      "published_at": "2026-11-19T16:11:16+00:00",
+      "text": "Посольство РФ требует от Гааги разъяснений о возможном участии местной оборонной компании Destinus в ударах по РФ. Заявление диппредставительства опубликовано в связи с выходом расследования газеты NRC, согласно которому по меньшей мере 40 сотрудников Destinus могли выезжать на Украину и непосредственно участвовать в пусках БПЛА в сторону РФ. В посольстве подчеркнули, что ответственность за гибель и ранения мирных граждан в результате атак ВСУ несут все лица, причастные к осуществлению пусков. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198645",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198645",
+      "published_at": "2026-11-19T16:02:52+00:00",
+      "text": "🇺🇦 Dutch and Austrian embassies in Kiev damaged during today's attack The buildings of the Dutch and Austrian embassies in Kiev were damaged during today's strikes, according to Ukrainian Foreign Minister Andrey Sybiga. The photos show smashed windows in the Dutch embassy's guard post and broken glass and debris inside the Austrian embassy. Dutch Foreign Minister Tom Berendsen said a projectile struck behind the embassy, causing minor damage, and that no staff were hurt. He didn't say what kind of projectile it was or who fired it, only that the Netherlands is \"investigating exactly what happened.\" There are a few possible explanations. Falling debris from Ukrainian air defense interceptors regularly damages buildings in central Kiev. The strike may also have hit something next to the embassy rather than the embassy itself. The timing is awkward for The Hague either way. It comes days after Dutch arms maker Destinus boasted that its RUTA cruise missiles, about 700 of which the Dutch state is paying for, hit the Crimean Bridge two days in a row. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "kyiv",
         "missile",
-        "mobilization"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406697",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406697",
-      "published_at": "2026-11-19T15:29:36+00:00",
-      "text": "🚨 Число пострадавших в результате атаки ВСУ на Курск выросло до 11, сообщил Хинштейн.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kursk",
         "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350126",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350126",
-      "published_at": "2026-11-19T15:28:15+00:00",
-      "text": "Девять человек пострадали при атаке на Курск украинских БПЛА. Из-за падения обломков дронов повреждены несколько зданий. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kursk",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102256",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102256",
-      "published_at": "2026-11-19T15:14:21+00:00",
-      "text": "Над Киевом сбивают дроны Обломки падают, например, на МИД Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/233972",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/233972",
-      "published_at": "2026-11-19T15:01:21+00:00",
-      "text": "— Тогда в Ялте за столом со Сталиным сидели два представителя Запада, западной свободы и демократии. — После Второй мировой войны? — Именно, после окончания Второй мировой войны. Экспертов на немецком ТВ кроет из-за трёхсторонних переговоров российского, китайского и американского лидеров в Шэньчжэне. Настолько жёстко, что стираются из памяти базовые знания истории (в частности даты Ялтинской конференции и окончания Второй мировой). Из невошедшего: «Рузвельт победил Адольфа Гитлера». Сразу видно, знатоки альтернативной истории собрались. @kanzlerdaddy",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
       ],
       "possible_duplicate_urls": []
     }
