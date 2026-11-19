@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    94
+  ],
+  "published_at_utc": "2026-11-19T19:31:01.286421+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-19T18",
+  "items": [
+    {
+      "item_id": "2026-11-19T18:1",
+      "title": "UK, France, Germany and Ukraine insist Russian assets remain frozen",
+      "summary": "Britain, France, Germany and Ukraine said Russian assets should remain frozen until Moscow ends the war and compensates Ukraine for damages. Their position ties any release of the assets to both an end to hostilities and reparations.",
+      "post_url": "https://t.me/russianewstodayofficial/94",
+      "category": "other",
+      "hour_id": "2026-11-19T18",
+      "source_handles": [
+        "bricsnews"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T18:2",
+      "title": "Kushner discusses Article 5-style security guarantees for Ukraine",
+      "summary": "US envoy Jared Kushner said Washington was pursuing security guarantees for Ukraine based on NATO Article 5 principles and suggested Russia could accept such an arrangement. Moscow has not publicly confirmed agreement, and the proposal would form part of a wider negotiated security package.",
+      "post_url": "https://t.me/russianewstodayofficial/94",
+      "category": "other",
+      "hour_id": "2026-11-19T18",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-19T18:3",
+      "title": "Kursk drone attack injury toll reportedly rises to 13",
+      "summary": "Russian regional reporting raised the number of people injured in the Ukrainian drone attack on Kursk to 13, up from the previously reported eleven. The revised figure was attributed to regional governor Alexander Khinshtein.",
+      "post_url": "https://t.me/russianewstodayofficial/94",
+      "category": "other",
+      "hour_id": "2026-11-19T18",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
