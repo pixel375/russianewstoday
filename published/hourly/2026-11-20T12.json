@@ -1,0 +1,67 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    112
+  ],
+  "published_at_utc": "2026-11-20T13:26:02.273195+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-20T12",
+  "items": [
+    {
+      "item_id": "2026-11-20T12:1",
+      "title": "Estonia reportedly plans to close all road border crossings with Russia on December 1",
+      "summary": "Estonia's government reportedly decided to close all road border checkpoints with Russia from December 1. Latvia's border guard chief warned the move could redirect traffic toward Latvian crossings and increase staffing demands.",
+      "post_url": "https://t.me/russianewstodayofficial/112",
+      "category": "other",
+      "hour_id": "2026-11-20T12",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T12:2",
+      "title": "Moldovan parliament advances military-technical cooperation agreement with Ukraine",
+      "summary": "Moldova's parliament reportedly approved a first reading of an agreement with Ukraine covering military equipment maintenance, cyber defence, critical infrastructure protection, training and non-lethal equipment. The proposal is not yet final legislation.",
+      "post_url": "https://t.me/russianewstodayofficial/112",
+      "category": "other",
+      "hour_id": "2026-11-20T12",
+      "source_handles": [
+        "rybar_in_english"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T12:3",
+      "title": "Tusk says US allies want to avoid escalation after missiles and drone fell in Poland",
+      "summary": "Polish Prime Minister Donald Tusk said the incidents in Polish airspace require a response but that allies including the United States are reluctant to risk a further escalation. He said he does not always agree with Washington's assessment of such incidents.",
+      "post_url": "https://t.me/russianewstodayofficial/112",
+      "category": "other",
+      "hour_id": "2026-11-20T12",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T12:4",
+      "title": "Putin calls on Ukrainians to seek closer ties with Russia",
+      "summary": "In remarks aired on Russian television, President Vladimir Putin urged Ukrainians to consider their children's future and move toward closer ties with Russia. He accused Ukraine's nationalist leadership and Western supporters of acting against Ukrainians' interests.",
+      "post_url": "https://t.me/russianewstodayofficial/112",
+      "category": "other",
+      "hour_id": "2026-11-20T12",
+      "source_handles": [
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T12:5",
+      "title": "Russian military commentary says Kyiv bridges remain usable after strikes",
+      "summary": "A Russian military-linked assessment said traffic had largely resumed across Kyiv's bridges after the overnight attack, although some crossings still faced restrictions. The account acknowledged that the strikes had not caused bridge collapses or critical structural damage.",
+      "post_url": "https://t.me/russianewstodayofficial/112",
+      "category": "other",
+      "hour_id": "2026-11-20T12",
+      "source_handles": [
+        "dva_majors"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
