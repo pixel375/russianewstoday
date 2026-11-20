@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    102
+  ],
+  "published_at_utc": "2026-11-20T03:25:05.897279+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-20T02",
+  "items": [
+    {
+      "item_id": "2026-11-20T02:1",
+      "title": "Reports describe wider missile attack on Kyiv and disruption to electricity",
+      "summary": "Reports say Russia launched several waves of ballistic and other missiles toward Kyiv, with strikes and fires reported near several major bridges. Some Ukrainian air-defence interceptions were also reported, while parts of the capital reportedly experienced electricity disruptions. The extent of damage and casualties was not established.",
+      "post_url": "https://t.me/russianewstodayofficial/102",
+      "category": "other",
+      "hour_id": "2026-11-20T02",
+      "source_handles": [
+        "aussiecossack",
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T02:2",
+      "title": "Russian Geran drones reportedly strike targets in western Ukraine",
+      "summary": "Reports say around 20 jet-powered Geran drones struck alleged Ukrainian military targets in western regions during the wider overnight attack. The specific locations, targets and damage were not detailed.",
+      "post_url": "https://t.me/russianewstodayofficial/102",
+      "category": "other",
+      "hour_id": "2026-11-20T02",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T02:3",
+      "title": "US reportedly discusses possible Ukrainian NATO membership in talks",
+      "summary": "The Wall Street Journal was cited as reporting that the United States discussed potential NATO membership for Ukraine during recent negotiations. The report did not indicate a formal invitation or an agreed accession timetable.",
+      "post_url": "https://t.me/russianewstodayofficial/102",
+      "category": "other",
+      "hour_id": "2026-11-20T02",
+      "source_handles": [
+        "bricsnews"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
