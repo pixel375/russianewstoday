@@ -1,0 +1,193 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T15",
+  "generated_at_utc": "2026-11-20T16:28:35.466231+00:00",
+  "window_start_utc": "2026-11-20T15:00:00+00:00",
+  "window_end_utc": "2026-11-20T16:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 23,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19744",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19744",
+      "published_at": "2026-11-20T15:58:15+00:00",
+      "text": "JUST IN: 🇺🇸 🇺🇦 🇷🇺 US reportedly offers Ukraine NATO membership in exchange for giving up land to Russia. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350183",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350183",
+      "published_at": "2026-11-20T15:32:27+00:00",
+      "text": "Попытки возвести \"санитарный кордон\" вокруг России и изолировать ее дорого обойдутся их инициаторам, заявили в МИД. Другие заявления ведомства о решении Эстонии закрыть границу с Россией: 🔹 Временного поверенного в делах Эстонии вызвали в МИД. 🔹 Решение Таллина закрыть пограничные пункты пропуска носит конфронтационный характер и направлено на дальнейшее обострение отношений с Москвой. 🔹 Закрытие границы обернется серьезными негативными последствиями для экономики и социальной сферы Эстонии. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30702",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30702",
+      "published_at": "2026-11-20T15:25:40+00:00",
+      "text": "Cutting supply arteries The Novorossiysk paratroopers' drones destroy enemy logistics in Zaporozhye region. 💥 A series of precise strikes hit: ▪️ ground robotic systems with fuel, ammunition, and food supplies, ▪️ pickup trucks for infantry. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234086",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234086",
+      "published_at": "2026-11-20T15:15:10+00:00",
+      "text": "Россиян начнут предупреждать о звонках из-за рубежа с марта 2027 года. На экране телефона будет появляться надпись «Иностранный вызов». Как рассказали в Минцифры, услуга будет бесплатной. В ведомстве отметили, что проект позволит сократить риски телефонного мошенничества. Аферисты используют звонки с зарубежных номеров, пользуясь тем, что в ряде стран они визуально схожи с российскими. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406876",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406876",
+      "published_at": "2026-11-20T15:10:05+00:00",
+      "text": "РФ неоднократно предупреждала иностранных дипломатов, включая австрийских, об опасности пребывания на Украине . Ответственность за возможные негативные последствия полностью лежит на Вене, сообщили в посольстве России. Ранее канцлер и глава МИД Австрии обвинили РФ в нанесении удара по зданию австрийского диппредставительства в Киеве.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98350",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98350",
+      "published_at": "2026-11-20T15:03:41+00:00",
+      "text": "🇷🇺 🇩🇪 🇫🇷 🇬🇧 — Russia invites Germany, France, and the UK to Moscow for talks on Ukraine and European security, with Moscow awaiting their response — Deputy Foreign Minister Sergei Ryabkov. German Defence Minister Boris Pistorius welcomes the invitation but says Russia must demonstrate a willingness to negotiate a ceasefire for the talks to produce results. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
