@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T13",
+  "generated_at_utc": "2026-11-20T14:29:20.141299+00:00",
+  "window_start_utc": "2026-11-20T13:00:00+00:00",
+  "window_end_utc": "2026-11-20T14:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 29,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "sap_gov_ua/4546",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4546",
+      "published_at": "2026-11-20T13:54:18+00:00",
+      "text": "САП шукають прокурорів! Конкурс на посади завершується 22 листопада 📝 Подавайтеся через сайт https://thelobbyx.com/tor/prokuror/ У новинах та соцмережах обговорюють найбільш «гучні» справи. Зараз у всіх на слуху «Карфаген». Ми поспілкувалися з прокурором САП Миколою Карасем, щоб розказати про залаштунки його роботи. Гортайте карусель!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198760",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198760",
+      "published_at": "2026-11-20T13:49:57+00:00",
+      "text": "🇺🇸 🇵🇱 Speaking to Fox News, Trump said Putin \"accidentally landed a few drones and little missiles\" into Poland. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198759",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198759",
+      "published_at": "2026-11-20T13:49:18+00:00",
+      "text": "🇵🇱 Polish Lieutenant General Nowak stated that a Swedish pilot was unable to identify the missile, but asserts that it was most likely Russian. “Today, two Swedish Gripen fighters were under the control of the Joint Air Operations Control Center, which is located in Germany. This is a NATO command center responsible for conducting air operations in our region. Preliminary authorization was given to the pilots to independently decide on shooting down airborne objects. The Swedish pilots attempted to intercept what was most likely an Kh-101 missile. One of them reported that he was unable to perform visual or optoelectronic identification of the object due to extremely difficult weather conditions that were present in the area at the time.” 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4545",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4545",
+      "published_at": "2026-11-20T13:44:48+00:00",
+      "text": "​​ ⚖️ Пів мільйона гривень хабаря за сприяння приватним компаніям у перемозі в тендерах на постачання медичного обладнання: ВАКС оголосив вирок чинному нардепу 20 листопада 2026 року ВАКС оголосив вирок чинному народному депутату України. Його викрили на одержанні 558 тис. грн неправомірної вигоди за сприяння приватним компаніям у перемозі в тендерах на постачання медичного обладнання на Житомирщині. Вироком суду депутата визнано винуватим за ч. 2 ст. 369-2 КК України та призначено покарання у вигляді 3 років 6 місяців позбавлення волі з позбавленням права обіймати посади в органах державної влади та місцевого самоврядування строком на 3 роки. Вирок суду набирає законної сили через тридцять днів із дня проголошення, якщо його не буде оскаржено в апеляційному порядку. Деталі справи: У межах досудового розслідування встановлено, що в січні 2022 року народний депутат України через довірену особу одержав 558 тис. грн неправомірної вигоди. Ця сума становила 30 % вартості договору на постачання системи ультразвукової діагностики, укладеного комунальним підприємством – лікарнею в місті Житомирі – з приватним підприємством. Кошти призначалися за вплив на посадових осіб лікарні задля визнання цього підприємства переможцем публічної закупівлі. Крім того, обвинувачений гарантував, що у майбутньому за «відкат у 30 відсотків», використовуючи свій вплив, забезпечить фінансування та реалізацію ще двох договорів – на постачання системи магнітно-резонансної томографії та лапароскопічного обладнання – на загальну суму понад 38 млн грн. Зазначимо, що обвинувальний акт було направлено до суду ще у 2022 році. Попри це упродовж майже чотирьох років обвинувачений неодноразово не з'являвся у судові засідання.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "procurement"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33506",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33506",
+      "published_at": "2026-11-20T13:33:41+00:00",
+      "text": "💬 Director of the Russian MFA Department for Multilateral Human Rights Cooperation Grigory Lukyantsev : On November 19 in New York, the Third Committee of the 81st Session of the UN General Assembly adopted the annual resolution put forward by the Group of 77 and China, entitled “A global call for concrete action for the elimination of racism, racial discrimination, xenophobia and related intolerance and the comprehensive implementation of and follow-up to the Durban Declaration and Programme of Action”. The resolution seeks to ensure full implementation of the Durban Declaration and Programme of Action and to prevent politically motivated attempts to revise it. The Declaration and Programme of Action was the outcome document of the World Conference against Racism , held in Durban, South Africa, in 2001. The voting pattern was similar to that on Russia’s UN General Assembly resolution on combating the glorification of Nazism. ✅ 122 votes in favour ❌ 16 against 🟨 42 abstentions The vote once again confirms what we have noted before – Western countries find certain issues particularly “uncomfortable” . As in previous years, Russia supported the initiative and co-sponsored the resolution. ❗️ In its statement, the Russian delegation called on those States that had once again chosen to stand aside or vote against the resolution to abandon double standards and demonstrate in practice their readiness to combat all forms of racial discrimination and intolerance.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198758",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198758",
+      "published_at": "2026-11-20T13:23:25+00:00",
+      "text": "🇷🇺 🛸 💥 🇺🇦 🇳🇱 Video of the drone that reportedly hit the vicinity of the Dutch embassy in Kiev today. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406858",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406858",
+      "published_at": "2026-11-20T13:21:01+00:00",
+      "text": "Посол РФ Тарабрин призвал нидерландскую сторону всерьез отнестись к рекомендации Москвы покинуть Киев . В беседе с ТАСС он напомнил, что Россия неоднократно предупреждала иностранные дипмиссии об опасности пребывания в городе. При этом Тарабрин отметил, что РФ продолжит в рамках СВО наносить удары по военным объектам и инфраструктуре ВПК в Киеве. Ранее глава МИД Нидерландов Берендсен сообщил, что из-за падения снаряда посольство королевства в городе получило небольшие повреждения.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198756",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198756",
+      "published_at": "2026-11-20T13:13:56+00:00",
+      "text": "🇺🇦 Strikes in Zaporozhye 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234069",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234069",
+      "published_at": "2026-11-20T13:03:01+00:00",
+      "text": "Владимир Путин призвал украинцев переходить \"на правильную сторону истории\" и объединять усилия с Россией ради общего будущего. В интервью Эмиру Кустурице для фильма Первого канала \"Наше крещение. Предстоятель\" президент отметил, что нынешнее противостояние связано с попытками внешних сил ослабить и подчинить Россию по принципу \"разделяй и властвуй\", причём не в интересах Украины. \"Я хотел бы сказать: переходите на нашу сторону, потому что она является нашей общей стороной. Вот на общую сторону, на правильную сторону истории и переходите\", — подчеркнул российский лидер. Путин также призвал украинцев, несмотря на происходящие трагедии, думать о будущем своих детей и объединять усилия для достижения общих целей. Владимир Путин процитировал Достоевского, говоря об отличительных чертах русской цивилизации. Другие заявления Владимира Путина в интервью Эмиру Кустурице для фильма Первого канала \"Наше крещение. Предстоятель\": - Украинцы должны понимать, что Запад поддерживает Киев в собственных интересах, стремясь \"ослабить, расчленить, разобрать\" и подчинить своей воле стороны конфликта; - На протяжении всей истории противники России пытались ослабить её, действуя по принципу \"разделяй и властвуй\". То же самое происходит и сейчас; - Власть на Украине захватили не патриоты, а националисты, однако на ненависти далеко не уедешь.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
