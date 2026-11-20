@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-20T21",
-  "generated_at_utc": "2026-11-20T22:24:59.417265+00:00",
-  "window_start_utc": "2026-11-20T21:00:00+00:00",
-  "window_end_utc": "2026-11-20T22:00:00+00:00",
+  "hour_id": "2026-11-20T22",
+  "generated_at_utc": "2026-11-20T23:22:10.913270+00:00",
+  "window_start_utc": "2026-11-20T22:00:00+00:00",
+  "window_end_utc": "2026-11-20T23:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -106,41 +106,28 @@
   },
   "posts": [
     {
-      "id": "intelslava/98364",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98364",
-      "published_at": "2026-11-20T21:52:56+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Russia is testing a new small-sized cruise missile, designated the Geran-6, which is expected to reach speeds of up to 1,000 km/h, according to Fedir Venislavskyi, a member of the Ukrainian Parliament's Committee on National Security, Defence and Intelligence. @IntelSlava",
+      "id": "AussieCossack/53467",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53467",
+      "published_at": "2026-11-20T22:52:06+00:00",
+      "text": "❗️ Zelensky's thugs once again forcibly mobilised a monk of the canonical Orthodox Church Hierodeacon David (Rusynchak), a clergyman of the Rovne Diocese of the Ukrainian Orthodox Church was detained by Zelensky's body snatchers in Odessa, to be sent to the Donetsk frontlines. At present Fr. David is in the Zhytomyr training centre. His mobile phones have been taken away from him, so all contact with him has been completely cut off. The cleric’s dispatch to the combat zone is planned for 5 December 2026. The relatives and close ones of the forcibly mobilized Fr. David ask not only for prayers for their pastor, but also for the widest possible publicity, believing that they will be able to stop this lawlessness. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "missile"
+        "donetsk",
+        "mobilization",
+        "odesa"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234128",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234128",
-      "published_at": "2026-11-20T21:35:07+00:00",
-      "text": "Боевая работа операторов Центра \"Рубикон\" за 20 ноября 2026 года 00:05 - Донбасс 02:29 - Дистанционное минирование логистических маршрутов ВСУ 03:08 - Взаимодействие с ВКС РФ по поражению целей ВСУ 03:38 - Боевая работа дневных расчетов FPV-ПВО по БПЛА ВСУ 04:18 - Боевая работа расчетов перехватчиков \"Молния-ПВО\" по БПЛА ВСУ 04:42 - Боевая работа расчетов FPV-ПВО по защите воздушного пространства Крыма 05:04 - Боевая работа расчетов FPV-ПВО по дальнобойным БПЛА ВСУ 05:24 - Уничтожение танка ВСУ 06:03 - Уничтожение пехотинца ВСУ Опубликовано эпизодов : 106",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406904",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406904",
-      "published_at": "2026-11-20T21:33:14+00:00",
-      "text": "Посол РФ в Швеции был вызван в МИД королевства \"для выражения демарша в связи со взрывом рядом со шведским посольством во время ударов ВС России по Киеву 19 ноября\". Об этом сообщило диппредставительство РФ.",
+      "id": "DDGeopolitics/198813",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198813",
+      "published_at": "2026-11-20T22:49:45+00:00",
+      "text": "🇺🇦 Strikes on Kiev 💥 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -150,29 +137,47 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/406903",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406903",
-      "published_at": "2026-11-20T21:27:01+00:00",
-      "text": "Решающий шаг в диалоге с РФ должен сделать Вашингтон , заявил в интервью ТАСС профессор Джеффри Сакс, пообщавшийся с Путиным на саммите АТЭС в Шэньчжэне. \"Я надеюсь, что президент Трамп публично заявит, что США не будут вступать в военный союз с Украиной или Грузией и не поддержат их вступление в НАТО\", — сказал он, отметив, что для расширения НАТО требуется единогласное согласие всех членов альянса.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78035",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78035",
-      "published_at": "2026-11-20T21:06:58+00:00",
-      "text": "#ЭпохаПутина В Шэньчжэне прошла первая в истории встреча лидеров России, США и Китая. По её итогам Путин, Трамп и Си Цзиньпин приняли декларацию о мире. В ней четыре пункта: ▪️ реформировать ООН; ▪️ не допустить ядерной войны, в которой не может быть победителей; ▪️ наращивать производство и поставки нефтепродуктов; ▪️ уважать иммунитет официальных лиц государств: Международный уголовный суд не должен злоупотреблять своими полномочиями. ⠀ На Западе встречу обсуждают со смешанными чувствами. Bloomberg назвал её первым саммитом «большой тройки»: США теперь признают, что у них два равных по силе соперника. The Times пишет, что в Европе боятся, как бы Вашингтон не договорился с Москвой за счёт Киева. Ирландская RTE считает, что Путин уже выиграл: Украину и её европейских союзников отодвинули от разговора о завершении конфликта. ⠀",
+      "id": "boris_rozhin/234136",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234136",
+      "published_at": "2026-11-20T22:35:00+00:00",
+      "text": "🍖 Закарпатский ТЦК: молодым обещают отсрочку, но забыли сказать про «мясо» Украинскую молодёжь продолжают заманивать на фронт под любыми предлогами. Взрослые мужики и старые деды-мобики уже заканчиваются, а человеческий ресурс на Украине не бесконечен. И вот Закарпатский ТЦК начал обещать отсрочку добровольцам по программе «18-24» после истечения годового контракта. Только вот о том, что с такими темпами утилизации и такими бригадами, как 43 омбр или 120 обр ТрО, смерть может наступить уже в первый месяц, никто не уточняет. Сначала ТЦК гребли малолеток в Киевскую пыточную, теперь официально зазывают молодёжь умереть за незалежную. Контракт на год — а шансов дожить до его конца всё меньше. 🔥 МУЗЫКА | ⬇️ ВИДЕО 🤌 ЛУГАНСКИЙ СВЯЗНОЙ | 📲 МAX | 📺 RuTube",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "moscow"
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98365",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98365",
+      "published_at": "2026-11-20T22:17:01+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — A new Russian strike UAV, the Kub-10ME, has appeared on the front lines, which was first announced a year ago. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234130",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234130",
+      "published_at": "2026-11-20T22:03:01+00:00",
+      "text": "Хищник нереальной красоты. Минобороны РФ получило новую партию истребителей пятого поколения Су-57, сообщает ОАК (входит в \"Ростех\"). @SputnikLive рассказывает всё, что необходимо знать про новейший отечественный боевой самолет. Твердая \"пятерка\". Что такое пятое поколение? Это бесфорсажный сверхзвук, сверхманёвренность, новый уровень \"мозгов\", стелс-технологии, вооружение внутри планера и сверхкороткий взлёт/посадка. И все это есть на Су-57. Его конкуренты из Китая – J-20 и J-31 медленнее и не могут долго летать на сверхзвуке, а японец X-2 – не имеет внутреннего отсека для вооружения. 22+35=57. Но главные оппоненты Су-57 – F-22 Raptor и F-35 Lightning II. \"Хищник\" нужен для завоевания превосходства в воздухе и не имеет больших отсеков под вооружение \"воздух–поверхность\". Недостаток должна была исправить \"Молния\", но её скорость и маневренность ниже, чем у конкурентов по \"пятому классу\". Су-57 сразу стал многофункциональным – быстрым, вёртким и хорошо вооруженным. Умный хищник. Его искусственный интеллект (ИУС) умеет работать в почти полностью автоматическом режиме. Есть вариант, при котором Су-57 выполнит заданную на земле задачу, а лётчик сможет откинуться в кресле и получать удовольствие. Или же он займется управлением \"стаей\" БПЛА С-70 \" Охотник \", умных дронов-камикадзе С-71К \"Ковер\" или крылатых ракет С-71М \"Монохром\". Истребитель пятого поколения Су-57 единственный в мире показал эффективность в условиях противодействия современным западным ЗРК типа Patriot, NASAMS и IRIS-T. Каждые несколько дней противник сообщает, что \"пятьдесят седьмые\" работают ракетами Х-59 и Х-69 по вражеским целям в Одесской области.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "odesa"
       ],
       "possible_duplicate_urls": []
     }
