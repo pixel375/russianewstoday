@@ -1,0 +1,632 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T07",
+  "generated_at_utc": "2026-11-20T08:24:03.117206+00:00",
+  "window_start_utc": "2026-11-20T07:00:00+00:00",
+  "window_end_utc": "2026-11-20T08:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 2,
+      "raw_count": 16
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 17
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 60,
+    "relevant_posts": 31,
+    "deduplicated_posts": 29,
+    "candidate_posts": 29
+  },
+  "posts": [
+    {
+      "id": "dva_majors/102292",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102292",
+      "published_at": "2026-11-20T07:55:08+00:00",
+      "text": "Сегодня ночью Вооруженными Силами Российской Федерации нанесен массированный удар высокоточным оружием наземного, морского и воздушного базирования, беспилотными летательными аппаратами по предприятиям военно-промышленного комплекса Украины, складским терминалам, объектам энергетики, транспортной и портовой инфраструктуры, а также морским судам, задействованным в интересах ВСУ. В результате удара поражены: в городе Киев и Киевской области: производственное предприятие взрывчатых веществ и порохов (государственный завод порошковой металлургии) в н.п. Бровары, осуществляющее производство компонентов твердого ракетного топлива для оперативно-тактических ракет FP-9; предприятие по сборке БПЛА, осуществляющее сборку ударных беспилотных летательных аппаратов самолетного типа; автодорожные и автожелезнодорожный мосты, используемые для транзитных перевозок вооружения, военной и специальной техники ВСУ в зону боевых действий на Донбассе; сборочное предприятие ООО «Файер Поинт» в н.п. Петровское, осуществляющее сборку, подготовку к боевому применению и доставку к местам пуска крылатых ракет FP-7 «Фламинго»; в Днепропетровской области: электроподстанция ПС-330 «Терны-Первомайская» в н.п. Терны, осуществляющая распределение электроэнергии для обеспечения функционирования предприятий военно-промышленного комплекса и военных объектов ВСУ в Днепропетровской области; в Черниговской области: электроподстанция ПС-110 в н.п. Мена, осуществляющая распределение электроэнергии для обеспечения функционирования предприятий военно-промышленного комплекса и военных объектов ВСУ в Черниговской области; в Ивано-Франковской области: тепловая электростанция «Бурштынская» в н.п. Бурштын, осуществляющая выработку электроэнергии в том числе для обеспечения функционирования предприятий военно-промышленного комплекса Украины и военных объектов ВСУ; во Львовской области: ремонтное предприятие авиационной промышленности «Львовский авиационный завод «ЛДАРЗ» в г. Львов, осуществляющее производство оперативно-тактических ракет FP-9 и крылатых ракет FP-5 «Фламинго», а также беспилотных летательных аппаратов большой и средней дальности; электроподстанция ПС-750 «Западноукраинская» в н.п. Ходоров, осуществляющая распределение электроэнергии для обеспечения функционирования предприятий военно-промышленного комплекса и военных объектов ВСУ во Львовской области; в Николаевской области: склад н.п. Березнеговатое, используемый для хранения крылатых ракет, применяемых для ударов по гражданским объектам на территории Российской Федерации; в Одесской области: автожелезнодорожный мост «Затока», используемый для транзитных перевозок военных грузов автомобильным и железнодорожным транспортом. Кроме того, на переходе морем поражен сухогруз, доставлявший в порт Одесса грузы военного назначения, а также три железнодорожных локомотива в районе ж/д станции «Днепропетровск» и один локомотив в районе ж/д станции «Коростень» Житомирской области, используемые для транспортировки грузовых составов с военными грузами и грузами двойного назначения для ВСУ. Минобороны России",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/boris_rozhin/234030"
+      ],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/77990",
+        "https://t.me/voenkorKotenok/77989",
+        "https://t.me/voenkorKotenok/77988",
+        "https://t.me/voenkorKotenok/77985",
+        "https://t.me/DDGeopolitics/198719",
+        "https://t.me/DDGeopolitics/198718",
+        "https://t.me/tass_agency/406794",
+        "https://t.me/rybar_in_english/35872"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234032",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234032",
+      "published_at": "2026-11-20T07:53:01+00:00",
+      "text": "Три человека погибли, еще шесть пострадали при ударе ВСУ по многоэтажке в поселке Юбилейный в Луганске, сообщил глава республики Пасечник. Под завалами могут оставаться люди. \"Неонацисты ударили по спящим людям в жилых многоквартирных домах. В одном из них произошло обрушение бетонных перекрытий между подъездами\", — написал Пасечник.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77990",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77990",
+      "published_at": "2026-11-20T07:51:56+00:00",
+      "text": "Мощность залпа против концентрации Каждую ночь утюжим Украину объёмами, преобладаем массой, но сталкиваемся с тем же, что было в 22-м году. Мощность залпа артиллерии РФ тогда была выше мощности Украины. Но у противника присутствовали современные технологии в виде гаубиц М777, РСЗО M142 HIMARS и т.д. То же самое сейчас с т.з. применения БпЛА: мощностью, объёмом мы явно превосходим противника. А возможностью концентрации ударных специальных средств, их точечного применения до максимального разрушения, к сожалению, противник обгоняет. Приняли решение убить мост в Киеве. Зачем бить по всем мостам сразу? Необходима концентрация на одном. Выпустили 10 «Искандеров», нанесли разрушения нескольким объектам вразнобой, а надо, чтобы хотя бы один упал. Противник действует иначе — концентрируется на одной цели и несколько дней утюжит её. Мы в полном объеме не умеем концентрировать силы и средства, вести разведку? Неправда, умеем. Дело за нами. Учиться, реагировать на вызовы, стараться противника опережать. Читать полностью — 👇 👇 👇 Если мир для них наша смерть… О мостах, концентрации и мощности залпа, ПВО и м о рей Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102292",
+        "https://t.me/voenkorKotenok/77989",
+        "https://t.me/DDGeopolitics/198719",
+        "https://t.me/tass_agency/406794",
+        "https://t.me/rybar_in_english/35872"
+      ]
+    },
+    {
+      "id": "mod_russia_en/30694",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30694",
+      "published_at": "2026-11-20T07:50:50+00:00",
+      "text": "# OnThisDay in 1945 the Nuremberg Trials began , the main trial of the 20th century against those who unleashed World War II. ▫️ Almost the entire top leadership of Nazi Germany ended up in the dock. Those who had recently considered themselves to be the masters of the world's fate—generals, ministers, diplomats, major bankers, and industrialists—were now responsible for what they had done. ▫️ The charges were divided into three groups: crimes against peace, war crimes, and crimes against humanity. 📄 For nearly 11 months, the terrible truth came out in the courtroom. More than 400 public hearings were held during this period, 116 witnesses testified, and the judges examined more than 300,000 statements and about 3,000 documents. 250 journalists from all over the world monitored the way justice was done. ▫️ The final point was set in the autumn of 1946. The tribunal found almost all the accused guilty of atrocious crimes, which have no statute of limitations. Must be neither forgotten nor revised! 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77989",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77989",
+      "published_at": "2026-11-20T07:48:18+00:00",
+      "text": "Сегодня ночью ВС РФ нанесен массированный удар высокоточным оружием наземного, морского и воздушного базирования, БпЛА по предприятиям ВПК Украины, складским терминалам, объектам энергетики, транспортной, портовой инфраструктуры и морским судам, задействованным в интересах ВСУ. В результате удара поражены: 1. В Киеве и области: — Производство взрывчатых веществ и порохов (государственный завод порошковой металлургии) в н.п. Бровары, выпускающие компоненты твердого ракетного топлива для ОТРК FP-9; — Предприятие по сборке БпЛА, осуществляющее сборку ударных БпЛА самолетного типа; — Автодорожные и авто—ж/д мосты, используемые для транзитных перевозок вооружения, военной и специальной техники ВСУ в зону боевых действий на Донбассе; — Предприятие ООО «Файер Поинт» в н.п. Петровское, осуществляющее сборку, подготовку к боевому применению и доставку к местам пуска КР FP-7 «Фламинго». 2. В Днепропетровской обл.: — Электроподстанция ПС-330 «Терны-Первомайская» в н.п. Терны, осуществляющая распределение электроэнергии для обеспечения функционирования предприятий ВПК и объектов ВСУ. 3. В Черниговской обл.: —Электроподстанция ПС-110 в н.п. Мена, осуществляющая распределение электроэнергии для обеспечения функционирования предприятий ВПК и объектов ВСУ. 4. В Ивано-Франковской обл.: — ТЭС «Бурштынская» в н.п. Бурштын, осуществляющая выработку электроэнергии в том числе для обеспечения функционирования предприятий ВПК и военных объектов ВСУ. 5. Во Львовской обл.: — «Львовский авиационный завод «ЛДАРЗ» в г. Львов, осуществляющее производство ОТРК FP-9, КР FP-5 «Фламинго» и БпЛА большой и средней дальности; — Электроподстанция ПС-750 «Западноукраинская» в н.п. Ходоров, осуществляющая распределение электроэнергии для обеспечения функционирования предприятий ВПК и объектов ВСУ. 6. В Николаевской обл.: — Склад н.п. Березнеговатое, используемый для хранения крылатых ракет. 7. В Одесской обл.: — авто—ж/д мост «Затока», используемый для транзитных перевозок военных грузов авто- и ж/д транспортом. — На переходе морем поражен сухогруз, доставлявший в порт Одесса грузы военного назначения. Выведены из строя 3 локомотива в районе ж/д станции Днепропетровск и локомотив в Коростене Житомирской обл., используемые для транспортировки грузовых составов с грузами грузами военного и двойного назначения. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102292",
+        "https://t.me/voenkorKotenok/77990",
+        "https://t.me/voenkorKotenok/77988",
+        "https://t.me/voenkorKotenok/77985",
+        "https://t.me/DDGeopolitics/198719",
+        "https://t.me/DDGeopolitics/198718",
+        "https://t.me/tass_agency/406794",
+        "https://t.me/rybar_in_english/35872"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234031",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234031",
+      "published_at": "2026-11-20T07:43:01+00:00",
+      "text": "В течение прошедшей ночи дежурными силами ПВО перехвачены и уничтожены 310 украинских беспилотных летательных аппаратов самолетного типа над территориями Белгородской, Брянской, Курской, Калужской, Смоленской, Тульской, Орловской, Псковской, Ростовской, Волгоградской областей, Краснодарского края, Республики Крым, Московского региона и над акваториями Азовского и Черного морей.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77988",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77988",
+      "published_at": "2026-11-20T07:37:30+00:00",
+      "text": "Противник также сообщает, что одним из объектов, которые попали под удар этой ночью, стала подстанция, питающая киевскую канализационную насосную станцию \"Правобережная\". Это правильно. Бандеризм должен пахнуть соответствующе. Всего вражеские ресурсы пишут о 30 баллистических и 60 крылатых ракетах, которые были запущены в течение ночи по целям на контролируемой Киевом территории. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102292",
+        "https://t.me/voenkorKotenok/77989",
+        "https://t.me/voenkorKotenok/77985",
+        "https://t.me/DDGeopolitics/198719",
+        "https://t.me/DDGeopolitics/198718",
+        "https://t.me/tass_agency/406794"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198720",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198720",
+      "published_at": "2026-11-20T07:34:14+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 A group of cruise missiles just entered Ukrainian airspace through Chernigov region. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4540",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4540",
+      "published_at": "2026-11-20T07:30:07+00:00",
+      "text": "САП та НАБУ на розголошенні відомостей досудового розслідування та хабарництві викрили посадовця СБУ За процесуального керівництва прокурора САП детективи НАБУ повідомили про підозру колишньому керівнику одного з підрозділів Департаменту захисту національної державності Служби безпеки України. Його викрили на розголошенні відомостей досудового розслідування за дорогі подарунки та послуги. Також про підозру в наданні неправомірної вигоди службовій особі повідомили довіреній особі одного з бенефіціарів групи «Приват» та колишньому директору з буріння АТ «Укргазвидобування». Дії осіб кваліфіковано: - посадовця СБУ – за ч. 3 ст. 368, ч. 4 ст. 368 та ч. 2 ст. 387 КК України; - довіреної особи та ексдиректора – за ч. 3 ст. 369 КК України. У межах досудового розслідування встановлено, що наприкінці 2024 року службовець СБУ погодився надавати відомості досудового розслідування у справі щодо заволодіння нафтою і нафтопродуктами ПАТ «Укрнафта». Так, службовець передавав інформацію про перебіг розслідування та заплановані слідчі дії довіреній особі одного з бенефіціарів так званої групи «Приват», причетність яких до вчинення злочину перевіряється в межах вказаної справи. Розкриття цієї інформації дало особам можливість уникати обмежень через накладені санкції, арешту активів та їх розшуку. Натомість службовець отримав послугу – проживання в готелі «Radisson Blu Resort Bukovel», вартість якого становить 160 тис. грн, наприкінці грудня 2024 року там відпочивали його дружина з дітьми. Також встановлено, що посадовець СБУ передавав інформацію з обмеженим доступом, зокрема із закритих державних баз даних, та відомості, що перебувають у розпорядженні операторів і провайдерів телекомунікацій, директору з буріння АТ «Укргазвидобування» (входить до групи «Нафтогаз»). За це службовець СБУ отримав автомобіль «BMW X5». Авто оформили на підконтрольну хабародавцю фірму, проте доведено, що транспортним засобом користувався службовець СБУ та його дружина. Досудове розслідування триває. Деталі: https://youtu.be/rBspyQWyowE . 📌 Відповідно до ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "nab_ukraine/4292",
+      "channel": "nab_ukraine",
+      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "url": "https://t.me/nab_ukraine/4292",
+      "published_at": "2026-11-20T07:30:03+00:00",
+      "text": "👤 👤 👤 👤 Злив таємниці слідства та продаж закритих даних: підозра посадовцю СБУ 👥 НАБУ і САП викрили керівника одного з підрозділів Департаменту захисту національної державності Служби безпеки України на розголошенні відомостей досудового розслідування та одержанні неправомірної вигоди. За даними слідства, посадовець налагодив системний канал передачі інформації з обмеженим доступом зацікавленим особам в обмін на дорогі подарунки та послуги. Епізод 1. Відпочинок у Буковелі Здійснюючи оперативний супровід у справі щодо ПАТ «Укрнафта», співробітник СБУ зливав довіреній особі бенефіціара групи «Приват» інформацію про заплановані слідчі дії, що допомагало фігурантам обходити санкції та розшук. За ці послуги в грудні 2024 року для його родини оплатили проживання в готелі Radisson Blu Resort Bukovel на 160 тис. грн . Епізод 2. BMW X5 Крім того, у 2023 році цей же співробітник СБУ за винагороду передавав тодішньому директору з буріння АТ «Укргазвидобування» інформацію із закритих держбаз і відомості від мобільних операторів. За ці дані топменеджер товариства придбав BMW X5, який для конспірації оформили на підконтрольну фірму, хоча фактично автомобілем користувалися посадовець СБУ та його дружина. Наразі про підозру повідомили трьом особам: 👤 посадовцю СБУ; 👤 довіреній особі одного з бенефіціарів групи «Приват»; 👤 колишньому директору з буріння АТ «Укргазвидобування». Докладніше Деталі вчинення злочину – у відео #підозра",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77986",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77986",
+      "published_at": "2026-11-20T07:27:27+00:00",
+      "text": "Этой ночью дежурные средства ПВО сбили 310 украинских БпЛА самолетного типа. Дроны перехвачены над Белгородской, Брянской, Курской, Калужской, Смоленской, Тульской, Орловской, Псковской, Ростовской, Волгоградской и Московской областями, а также над Краснодарским краем, Республикой Крым, акваториями Азовского и Черного морей. Налет на столицу в этот раз был не слишком продолжительным. Все воздушные цели были успешно перехвачены. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77985",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77985",
+      "published_at": "2026-11-20T07:26:23+00:00",
+      "text": "Мэр Кличко заявил о том, что ракетной атакой повреждены три моста через Днепр в Киеве: двумя баллистическими ракетами — Подольско-Воскресенский (закрыто движение с правого на левый берег), Дарницкий — две баллистики и один гиперзвук — и Южный (проезд разрешен только с левого на правый берег для легковых автомобилей и общественного транспорта) — две баллистические ракеты. По некоторым данным, вновь поражен и Северный (Московский) мост, также получивший две баллистические ракеты. ВС РФ добивают тепловую инфраструктуру Киева, двумя ракетами поражена ТЭЦ-2и семью — ТЭЦ-5. Поврежден объект критической инфраструктуры — погибли три сотрудника \"Киевводоканала\", еще около 15 человек пострадали. В Оболонском районе после попадания обломка ракеты загорелось трехэтажное здание. В Голосеевском районе зафиксировано попадание по инфраструктурному объекту, офисное здание охватил пожар. В Подольском районе — пожар в нежилой застройке. Зафиксировано попадание на открытой территории возле одного из мостов. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102292",
+        "https://t.me/voenkorKotenok/77989",
+        "https://t.me/voenkorKotenok/77988",
+        "https://t.me/DDGeopolitics/198719",
+        "https://t.me/DDGeopolitics/198718",
+        "https://t.me/tass_agency/406794"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198719",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198719",
+      "published_at": "2026-11-20T07:26:02+00:00",
+      "text": "🇷🇺 Key points from the Russian Defense Ministry's statement: ➡️ Road bridges and a road-rail bridge in Kiev and Kiev region that were being used to transport weapons were struck; ➡️ The road-rail bridge in Zatoka, Odessa region, used to move military cargo, was struck; ➡️ The Fire Point assembly facility in Petrovskoye, Kiev region, was hit; ➡️ A depot in Nikolaev region storing cruise missiles used for strikes on civilian targets in Russia was hit; ➡️ An aircraft plant in Lvov producing FP-9 and FP-5 \"Flamingo\" missiles was struck; ➡️ A powder metallurgy plant in Brovary, Kiev region, producing components for solid rocket fuel was hit; ➡️ A drone assembly facility in Kiev region that builds strike drones was hit; ➡️ The Burshtyn thermal power plant in Ivano-Frankovsk region, which supplies electricity to defense industry enterprises and Ukrainian military facilities, was struck; ➡️ The PS-110 substation in Chernigov region, which distributes power to defense industry enterprises and military facilities in the region, was hit; ➡️ The Terny-Pervomaiskaya substation in Dnepropetrovsk region, which distributes power to the defense industry, was hit; ➡️ The PS-750 Zapadnoukrainskaya substation in Lvov region, which supplies Ukraine's defense industry, was struck; ➡️ Four locomotives carrying Ukrainian military cargo were hit near the Dnepropetrovsk and Korosten stations; ➡️ A cargo ship delivering military cargo to the port of Odessa was struck. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102292",
+        "https://t.me/voenkorKotenok/77990",
+        "https://t.me/voenkorKotenok/77989",
+        "https://t.me/voenkorKotenok/77988",
+        "https://t.me/voenkorKotenok/77985",
+        "https://t.me/DDGeopolitics/198718",
+        "https://t.me/tass_agency/406794",
+        "https://t.me/rybar_in_english/35872"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198718",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198718",
+      "published_at": "2026-11-20T07:25:26+00:00",
+      "text": "🇺🇦 A fire has been raging for several hours at the Blockbuster shopping centre in Kiev after a Russian missile strike. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102292",
+        "https://t.me/voenkorKotenok/77989",
+        "https://t.me/voenkorKotenok/77988",
+        "https://t.me/voenkorKotenok/77985",
+        "https://t.me/DDGeopolitics/198719",
+        "https://t.me/tass_agency/406794"
+      ]
+    },
+    {
+      "id": "tass_agency/406794",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406794",
+      "published_at": "2026-11-20T07:23:26+00:00",
+      "text": "❕ Главное из заявлений Минобороны России: ▪️ ВС РФ поразили в Киеве и области автодорожные и автожелезнодорожный мосты, используемые для перевозок вооружения; ▪️ Вооруженные силы России поразили автожелезнодорожный мост в Затоке Одесской области, используемый для перевозки военных грузов; ▪️ ВС РФ поразили в Петровском Киевской области сборочное предприятие \"Файер поинт\"; ▪️ ВС РФ поразили склад в Николаевской области, где хранились крылатые ракеты для ударов по гражданским объектам в России; ▪️ Вооруженные силы России ударили по авиационному заводу во Львове, производящему ракеты FP-9 и FP-5 \"Фламинго\"; ▪️ В Броварах Киевской области поражен завод порошковой металлургии, осуществляющий производство компонентов твердого ракетного топлива; ▪️ ВС РФ поразили предприятие по сборке БПЛА в Киевской области, осуществляющее сборку ударных дронов; ▪️ В Ивано-Франковской области поражена ТЭС Бурштынская, осуществляющая выработку электроэнергии для предприятий ВПК и военных объектов ВСУ; ▪️ В Черниговской области поражена электроподстанция ПС-110, распределяющая электроэнергию для предприятий ВПК и военных объектов ВСУ в области; ▪️ В Днепропетровской области поражена подстанция \"Терны-Первомайская\", осуществляющая распределение энергии для ВПК; ▪️ ВС РФ нанесли удар по электроподстанции ПС-750 \"Западноукраинская\" во Львовской области, обеспечивающей предприятия ВПК Украины; ▪️ ВС РФ поразили 4 локомотива с военными грузами ВСУ в районе станций Днепропетровск и Коростень; ▪️ Вооруженные силы России поразили сухогруз, доставлявший в порт Одесса грузы военного назначения. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102292",
+        "https://t.me/voenkorKotenok/77990",
+        "https://t.me/voenkorKotenok/77989",
+        "https://t.me/voenkorKotenok/77988",
+        "https://t.me/voenkorKotenok/77985",
+        "https://t.me/DDGeopolitics/198719",
+        "https://t.me/DDGeopolitics/198718",
+        "https://t.me/rybar_in_english/35872"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198716",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198716",
+      "published_at": "2026-11-20T07:22:32+00:00",
+      "text": "🇷🇺 💥 🇺🇦 The Russian Defense Ministry says its forces struck a depot in Nikolaev region where cruise missiles used for strikes on civilian targets in Russia were being stored. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198711",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198711",
+      "published_at": "2026-11-20T07:20:53+00:00",
+      "text": "🇷🇺 💥 🇺🇦 The Russian Defense Ministry says its forces struck an aircraft plant in Lvov that produces FP-9 and FP-5 \"Flamingo\" missiles. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406792",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406792",
+      "published_at": "2026-11-20T07:19:19+00:00",
+      "text": "ВС РФ поразили склад в Николаевской области, где хранились крылатые ракеты для ударов по гражданским объектам в России, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198709",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198709",
+      "published_at": "2026-11-20T07:18:21+00:00",
+      "text": "🇷🇺 💥 🇺🇦 The Russian Defense Ministry says its forces struck road bridges and a road-rail bridge in Kiev and Kiev region that were being used to transport weapons. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/DDGeopolitics/198708"
+      ],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350157",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350157",
+      "published_at": "2026-11-20T07:17:16+00:00",
+      "text": "Российские войска ночью нанесли массированный удар, сообщило Минобороны. Бойцы поразили связанные с ВСУ объекты в Киеве, а также в Киевской, Днепропетровской, Николаевской, Львовской и Ивано-Франковской областях. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198707",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198707",
+      "published_at": "2026-11-20T07:16:13+00:00",
+      "text": "🇵🇱 An unidentified object came down in eastern Poland during Russia's massive overnight strike on Ukraine. The Polish military says it's investigating two possible airspace violations, both detected after 06:30. Radar data indicates an object may have fallen in Biłgoraj County, near the village of Chmielek, about 45 km from the Ukrainian border. Police and firefighters have since found a flying object in nearby Lipowiec. CCTV footage from around 06:35 shows a flash and an explosion in the distance. Air raid alerts went out in the Lublin and Subcarpathian voivodeships, and Rzeszów airport suspended operations. The alert was lifted at 07:33. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406788",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406788",
+      "published_at": "2026-11-20T07:15:15+00:00",
+      "text": "❕ В Броварах Киевской области поражен завод порошковой металлургии, осуществляющий производство компонентов твердого ракетного топлива, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406787",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406787",
+      "published_at": "2026-11-20T07:14:40+00:00",
+      "text": "🚨 Шесть человек, включая ребенка, пострадали при прицельном ударе ВСУ по многоэтажке в Юбилейном ЛНР, сообщает Пасечник.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198706",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198706",
+      "published_at": "2026-11-20T07:13:59+00:00",
+      "text": "🇷🇺 💥 🇺🇦 Approximate map of last night's strikes on Ukraine. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198705",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198705",
+      "published_at": "2026-11-20T07:11:20+00:00",
+      "text": "🇺🇦 Kiev: after the massive attack, parts of the Pechersky, Solomensky, Goloseevsky, Dneprovsky and Darnitsky districts are without power. Emergency outages are also in effect in the rest of the capital because of damaged equipment and an overloaded grid. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35872",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35872",
+      "published_at": "2026-11-20T07:11:18+00:00",
+      "text": "📝 Fear of Being Left Out 📝 Donald Trump's meeting with Vladimir Putin and Xi Jinping in China became an unpleasant reminder to European politicians of the risk of finding themselves on the sidelines of major diplomacy . In Berlin, they hastily assembled a \"coalition of the willing\" to assert their right to participate in shaping the future security system. 37 countries sent representatives to the summit attended by EU and NATO leadership, Zelensky, and American envoys Whitcomb and Kushner. European leaders again demanded that the fate of so-called Ukraine not be decided without their participation, but failed to secure concrete agreements on their role in the negotiations. However, they moved quickly on financing. British authorities announced a £260 million package, promising to supply over a thousand strike drones with a range exceeding 1,000 km. Germany and Norway's leadership also allocated $300 million each for purchasing American weapons for the AFU. 📌 But the most unpleasant surprise came from Donald Trump , who called summit participants from aboard Air Force One. The American leader questioned the advisability of continued multibillion-dollar spending to support Kyiv authorities and stated Russia's readiness for negotiations. 🖍 However, American authorities continue arming the AFU themselves, including through the PURL program . This scheme is particularly convenient because Europeans pay for purchases from American manufacturers, while the Trump administration maintains influence over supplies and the diplomatic process. ❗️ As a result, European governments fall deeper into dependence on Washington. They pay for American weapons, hoping to preserve influence over the conflict's course, but the conditions for its end are increasingly discussed without them. And the American leader's reaction suggests this dynamic will persist. #EU #Russia #USA #Ukraine ✈️ RU | ✈️ EN | ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102292",
+        "https://t.me/voenkorKotenok/77990",
+        "https://t.me/voenkorKotenok/77989",
+        "https://t.me/DDGeopolitics/198719",
+        "https://t.me/tass_agency/406794",
+        "https://t.me/MFARussia/33497"
+      ]
+    },
+    {
+      "id": "mod_russia_en/30693",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30693",
+      "published_at": "2026-11-20T07:10:18+00:00",
+      "text": "Working with flying colours 🔥 FPV attack drones of the Zapad Group of Forces continue to undermine strike drones of fixed-wing and copter-type UAVs in the air. 📍 Krasny Liman direction 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33497",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33497",
+      "published_at": "2026-11-20T07:03:41+00:00",
+      "text": "🎙 Press conference by President of Russia Vladimir Putin following visit to China (Shenzhen, November 19, 2026) Key points : • [During the trilateral meeting with the Chinese and US leaders] we talked about security matters in the broad sense of the word, about preventing the proliferation of weapons of mass destruction, nuclear weapons. We talked about issues pertaining to freedom of navigation. <...> Our discussion was held in a completely open and very candid atmosphere. It helped us understand each other better , and I think that this created conditions for future arrangements . • We discussed some issues related to the activities of certain organisations, such as the International Criminal Court ( #ICC ), which is clearly overstepping its mandate and making political rather than legal decisions. • I have no doubt that President Trump is genuinely committed to resolving conflicts , including the conflict in Ukraine, and he is sincerely interested in improving bilateral relations across a range of areas, including, of course, the US-Russia relationship, which matters to us. <...> We must deal with realities as they are, and we hope that this positive disposition will endure. • It wasn’t us who started the war. We did not start any war at all. However, hostilities had been ongoing there for eight years: a war, in effect. We are simply trying to bring it to an end by providing assistance to the states that we did not recognise at first, but have now recognised, and with which we have concluded mutual assistance treaties. I reminded our colleagues of this today. • Compromises have been reached and supported by us, including in Anchorage. The question is whether the other parties to the conflict – Ukraine and, in this case, its European sponsors – are prepared to accept them. In other words, do they want to reach an agreement to end hostilities, to end the war, by peaceful means or not? Judging by what we see at the moment, they DON'T. • As I have already said, we are ready to make compromises . It is essential for the other participants in the [Ukraine settlement process] to recognise the realities on the ground and to be prepared to make compromises on their part as well. That is all. I see nothing particularly complicated about it. All that is needed is political will. • [For the Kyiv regime,] there are no incentives to agree to a cessation of hostilities and to creating conditions for a long-term – as I have already said , lasting – peace that looks to the future. This is precisely what we are striving for. • The Crimean Bridge is a purely civilian facility. <...> We will not negotiate; we will respond to attacks on it. And I want everyone to be aware of that. I believe our response will be far more painful than what the Kyiv regime has done to the bridge. • Working within #APEC is of great importance to us. We set ourselves the goal of increasing our trade turnover with this region to 40% – it now exceeds 60% . <...> We reaffirmed the fundamental principles of economic relations : freedom of economic relations and the inadmissibility of various kinds of restrictions. • The Americans keep urging us to improve relations with Europe, but we were not the ones who damaged those relations . • We recognise that Ukraine has a right to security, just as Russia does. However, no one wants to discuss Russia’s security. And this is a crucial point for us. • President of China Xi Jinping and President of the US Donald Trump spoke of China’s and the United States’ interest , as well as that of the world as a whole, in ending the conflict in Ukraine. Russia is also interested in ending the conflict in Ukraine. But today, the issue is not only, or even primarily, about us – it is about the Ukrainian side. • Russia–China relations are one of the cornerstones of today’s international security system. They are an important deterrent and a key factor in maintaining global balance. Read in full",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rybar_in_english/35872"
+      ]
+    },
+    {
+      "id": "rian_ru/350155",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350155",
+      "published_at": "2026-11-20T07:02:53+00:00",
+      "text": "Вопрос визита европейских переговорщиков в Москву прорабатывается, сообщил Рябков. Другие тезисы: 🔹 Понимания по новому раунду трехсторонних переговоров по Украине нет. 🔹 Опция даже \"квазичленства\" Украины в НАТО неприемлема для России. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
