@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-20T00",
-  "generated_at_utc": "2026-11-20T01:11:57.591275+00:00",
-  "window_start_utc": "2026-11-20T00:00:00+00:00",
-  "window_end_utc": "2026-11-20T01:00:00+00:00",
+  "hour_id": "2026-11-20T01",
+  "generated_at_utc": "2026-11-20T02:25:42.545216+00:00",
+  "window_start_utc": "2026-11-20T01:00:00+00:00",
+  "window_end_utc": "2026-11-20T02:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 1
     },
     {
       "handle": "rian_ru",
@@ -99,53 +99,64 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 11,
-    "relevant_posts": 3,
-    "deduplicated_posts": 3,
-    "candidate_posts": 3
+    "raw_posts": 7,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
   },
   "posts": [
     {
-      "id": "tass_agency/406748",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406748",
-      "published_at": "2026-11-20T00:27:01+00:00",
-      "text": "Зеленский соврал, что \"коалиция желающих\" поддержала вступление Украины в НАТО, заявил депутат Верховной рады Дубинский. В официальном сообщении правительства ФРГ по итогам берлинского саммита речь идет лишь о гарантиях безопасности и продолжении поддержки Украины — о вступлении в НАТО ни слова, сказал он.",
+      "id": "AussieCossack/53441",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53441",
+      "published_at": "2026-11-20T01:13:41+00:00",
+      "text": "Zhirinovsky's hot take on the Putin, Xi and Trump meeting. Zhirinovsky, the legend of Russian politics, tells us what really happened at that table in Shenzhen. The three of them sit down. China gets all of Asia and stops meddling. America keeps North and South America. Russia takes Eastern Europe and the Middle East. And there will be no war. How did he know? He died in 2022. Easy. He's Russia's own Nostradamus. t.me/RussianBaZa",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198686",
+      "id": "DDGeopolitics/198688",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198686",
-      "published_at": "2026-11-20T00:19:40+00:00",
-      "text": "🇷🇺 💥 🇺🇦 Massive explosions in Kiev. Another round of ballistic missile strikes reported! 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198688",
+      "published_at": "2026-11-20T01:04:26+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Ukrainian channels report that five Tu-160 strategic bombers from Ukrainka airfield are heading toward their launch lines. Missile launches are expected after 04:30, Kiev time. No Tu-95MS takeoffs from Olenya have been reported so far. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "kyiv",
-        "missile",
-        "strike"
+        "missile"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198685",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198685",
-      "published_at": "2026-11-20T00:10:06+00:00",
-      "text": "🇷🇺 💥 🇺🇦 Iskander strikes reported in Kiev! 🔴 @DDGeopolitics",
+      "id": "boris_rozhin/234005",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234005",
+      "published_at": "2026-11-20T01:04:01+00:00",
+      "text": "⠀ 🔴 Доказательства зверств киевского режима в г. Константиновка (ДНР). Смотреть на Rutube Смотреть предыдущие свидетельства Наш Международный общественный трибунал по преступлениям украинских неонацистов (председатель — М. С. Григорьев ) из представителей гражданского общества 35 стран мира продолжает сбор свидетельств преступлений киевского режима. Часть 1 Часть 2. Житель г. Константиновка (ДНР) Максим Плюшко: 00:05 \"Мы не выходили из подвала, было страшно. Обстрелы шли постоянно, работал украинский миномёт, постоянно кружили дроны. Даже друг к другу перестали ходить. 00:18 Украинский дрон залетел к нам в подвал и взорвался. Меня сильно отбросило, я получил контузию. В нашем подвале находилось 12 человек. Украинские военные знали, что там находятся гражданские. 00:45 Когда у нас закончилась вода, мы прошли 500 метров до соседнего квартала. Там в другом подвале мирные жители приняли нас к себе. Кроме нас 12 человек там было ещё около десяти гражданских. В течение трёх-четырёх дней украинские военные дважды забрасывали в этот подвал противотанковые мины. Сначала одну, через день — вторую. После взрывов нас завалило. Я тогда получил ещё одну контузию и до сих пор плохо слышу. 02:02 Когда мы уже выходили, мужчина, который шёл вместе с первой группой из шести человек, наступил на мину. Ему оторвало половину ступни. 02:27 Украинские военные так относились к нам потому, что понимали: жители здесь настроены пророссийски. Там у них очень сильная ненависть к Донбассу\". Проект реализуется при поддержке Леонида Слуцкого, Бориса Рожина, Армена Гаспаряна, Олега Матвейчева, Дмитрия Пучкова, Игоря Коротченко, Сергея Котькало, Егора Холмогорова, Игоря Скурлатова, Александра Малькевича, Михаила Онуфриенко . Прошу сделать репост и распространять данную информацию — важно, чтобы и у нас, и за рубежом знали правду. #МеждународныйОбщественныйТрибунал #Донбасс #СВО #ОПРФ #ПреступленияКиевскогоРежима #ПреступленияВСУ #ЦентрИсторииСВО #Безсрокадавности #ХранитьВечно Подписаться на канал в МАХ Подписаться на канал в ТГ Подписаться на канал в Rutube",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "strike"
+        "drone",
+        "kyiv"
       ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53440",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53440",
+      "published_at": "2026-11-20T01:03:46+00:00",
+      "text": "❗️ The moment Albo told Putin to \"end your war\". @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
