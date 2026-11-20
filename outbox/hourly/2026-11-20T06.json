@@ -1,0 +1,29 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-20T06",
+  "snapshot_generated_at_utc": "2026-11-20T07:22:17.132402+00:00",
+  "items": [
+    {
+      "title": "Luhansk authorities report three killed in Ukrainian drone attack on residential buildings",
+      "summary": "Russian-installed Luhansk leader Leonid Pasechnik said a Ukrainian drone attack struck apartment buildings in Yuvileine near Luhansk, killing three people and injuring six, including a child. Concrete floors reportedly collapsed in one building, and rescuers were searching for people who might remain trapped.",
+      "source_urls": [
+        "https://t.me/rian_ru/350154",
+        "https://t.me/tass_agency/406778"
+      ]
+    },
+    {
+      "title": "Russian deputy foreign minister rejects even quasi-NATO membership for Ukraine",
+      "summary": "Russian Deputy Foreign Minister Sergei Ryabkov said that even a form of quasi-membership for Ukraine in NATO would be unacceptable to Moscow. His statement underscores Russia's opposition to security arrangements resembling alliance membership.",
+      "source_urls": [
+        "https://t.me/tass_agency/406782"
+      ]
+    },
+    {
+      "title": "Russia says no agreement reached on next round of Ukraine negotiations",
+      "summary": "Deputy Foreign Minister Sergei Ryabkov said there is no agreement on holding another round of negotiations over Ukraine. He gave the statement in response to a question about the next stage of talks.",
+      "source_urls": [
+        "https://t.me/tass_agency/406781"
+      ]
+    }
+  ]
+}
