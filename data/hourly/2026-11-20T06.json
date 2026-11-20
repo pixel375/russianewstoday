@@ -1,0 +1,356 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T06",
+  "generated_at_utc": "2026-11-20T07:22:17.132402+00:00",
+  "window_start_utc": "2026-11-20T06:00:00+00:00",
+  "window_end_utc": "2026-11-20T07:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 32,
+    "relevant_posts": 17,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
+  },
+  "posts": [
+    {
+      "id": "dva_majors/102287",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102287",
+      "published_at": "2026-11-20T06:59:13+00:00",
+      "text": "✨ Сбор на Херсонское направление ✨ 455 человек участвовали в сборе за сутки Операторы ударных БПЛА обратились с просьбой помочь в приобретении транспорта, а также технического оборудования, необходимого для выполнения боевых задач на данном участке фронта. ▪️ Автомобиль - 600 000 ₽ ▪️ Оборуд. БПЛА - 300 000 ₽ Необходимо: 900 000 ₽ Собрано за сутки: 101 360 ₽ Собрано всего: 444 231 ₽ Осталось собрать: 455 769 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406782",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406782",
+      "published_at": "2026-11-20T06:58:36+00:00",
+      "text": "Даже квазичленство Киева в НАТО неприемлемо для России, заявил Рябков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406781",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406781",
+      "published_at": "2026-11-20T06:58:07+00:00",
+      "text": "❕ Договоренностей по новому раунду переговоров по Украине нет, заявил Рябков, отвечая на вопрос ТАСС. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53451",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53451",
+      "published_at": "2026-11-20T06:48:26+00:00",
+      "text": "❗️ Russian ballistic missile strikes hit three major bridges across Kiev’s Dnipro River on Friday. The first bridge is completely closed, specialists are currently assessing the damage to the second, and traffic on the third is only permitted for crossing from the left bank to the right bank @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234020",
+        "https://t.me/DDGeopolitics/198700"
+      ]
+    },
+    {
+      "id": "wargonzo/38525",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38525",
+      "published_at": "2026-11-20T06:42:18+00:00",
+      "text": "Три человека погибли после обрушения подъезда дома при обстреле Луганска Киевские террористы нанесли массированный удар по поселку Юбилейный в Луганске. Неонацисты ударили по спящим людям в жилых многоквартирных домах. В одном из домов обрушилось перекрытие между подъездами. По предварительным данным, три человека погибли. Шесть человек, включая ребенка, получили ранения. Сейчас с ними работают медики, сообщил глава республики. Под завалами ещё могут оставаться люди. Спасательная операция продолжается. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30692",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30692",
+      "published_at": "2026-11-20T06:35:13+00:00",
+      "text": "Lethal duo 💥 Artillery crews and FPV drones operators of the Yuzhnaya Group of Forces wiped out enemy shelters along with manpower and UAV command posts. 📍 Slavyansk-Kramatorsk agglomeration 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234021",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234021",
+      "published_at": "2026-11-20T06:35:03+00:00",
+      "text": "Киев перекрывает мосты через Днепр — после мощных ударов движение между двумя берегами парализовано. Повреждены Подольско-Воскресенский, Дарницкий, Южный и Северный мосты. Также прилетело по объекту критической инфраструктуры. Украинские СМИ пишут, что пострадала ТЭЦ-5 и Трипольская ТЭС. В некоторых районах пропал свет. Взрывы гремели в Харькове, Днепропетровской области и во Львове.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406778",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406778",
+      "published_at": "2026-11-20T06:27:02+00:00",
+      "text": "🚨 Три человека погибли из-за удара ВСУ по многоэтажке в Юбилейном ЛНР, под завалами могут оставаться еще люди, поисковые работы продолжаются, сообщает Пасечник. Фото: Канал Леонида Пасечника в \"Максе\" ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/406777"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350154",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350154",
+      "published_at": "2026-11-20T06:24:02+00:00",
+      "text": "❗️ Три человека погибли, шесть ранены при атаке ВСУ на поселок Юбилейный в Луганске. Удар нанесли по спящим людям в жилых домах, сообщил Пасечник. В одном из зданий обрушились бетонные перекрытия между подъездами. Под завалами еще могут оставаться люди. Спасательная операция продолжается. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102286",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102286",
+      "published_at": "2026-11-20T06:23:49+00:00",
+      "text": "Глава ЛНР: ВСУ ночью нанесли массированный удар по поселку Юбилейный в Луганске. Большинство воздушных целей было сбито силами мобильных огневых групп, но нескольким БПЛА удалось атаковать. Неонацисты ударили по спящим людям в жилых многоквартирных домах. В одном из них произошло обрушение бетонных перекрытий между подъездами. Предварительно известно о шести раненых. Одного из них спасателям удалось поднять из-под завалов. Также в числе пострадавших есть девочка 2018 года рождения. Им оказывается необходимая медицинская помощь. К несчастью, есть погибшие. Предварительно известно о троих. Под завалами ещё могут оставаться люди. Спасательная операция продолжается. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234020",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234020",
+      "published_at": "2026-11-20T06:15:02+00:00",
+      "text": "Сегодня ночью Вооруженными Силами Российской Федерации нанесен массированный удар высокоточным оружием наземного, морского и воздушного базирования, беспилотными летательными аппаратами. В результате удара поражены предприятия военно-промышленного комплекса Украины и складские терминалы, задействованные в производстве и хранении крылатых ракет, БПЛА большой и средней дальности, объекты энергетики и транспортной инфраструктуры в городе Киеве, в Киевской, Днепропетровской, Николаевской, Львовской и Ивано-Франковской областях, а также объекты портовой инфраструктуры в Одесской области и морские суда, используемые в интересах ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53451",
+        "https://t.me/DDGeopolitics/198700",
+        "https://t.me/dva_majors/102284"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198700",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198700",
+      "published_at": "2026-11-20T06:14:00+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation carried out a massive strike with ground-, sea-, air-based high-precision weapons and unmanned aerial vehicles. 🔥 As a result of the strike, enterprises of the Ukrainian defence industry and warehouses used in the production and storage of cruise missiles, long- and medium-range UAVs, power and transport infrastructure facilities in the city of Kiev, Kiev, Dnepropetrovsk, Nikolayev, Lvov, and Ivano-Frankovsk regions, as well as port infrastructure facilities in Odessa region, and vessels used in the interests of the AFU were hit . 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/mod_russia_en/30691"
+      ],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53451",
+        "https://t.me/boris_rozhin/234020",
+        "https://t.me/dva_majors/102284"
+      ]
+    },
+    {
+      "id": "AussieCossack/53449",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53449",
+      "published_at": "2026-11-20T06:11:10+00:00",
+      "text": "❗️ Russian drones and missiles are hitting targets across Western Ukraine right now @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53448",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53448",
+      "published_at": "2026-11-20T06:07:12+00:00",
+      "text": "❗️ Emergency power outages reported in Lvov following heavy explosions, with more Russian missiles reportedly heading towards the region. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102284",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102284",
+      "published_at": "2026-11-20T06:00:21+00:00",
+      "text": "В польском Люблине объявлена воздушная тревога и включены сирены ✨ Ракетный удар по Украине идет с ночи. В Киеве три моста повреждены. Во Львовской, Закарпатской и Ивано-Франковской областях, ввели аварийные отключения света. \"Укрэнерго\" сообщает, что ситуация в энергосистеме крайне сложная после ночных ударов по энергетике. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234020",
+        "https://t.me/DDGeopolitics/198700"
+      ]
+    }
+  ]
+}
