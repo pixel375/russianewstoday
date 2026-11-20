@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    104
+  ],
+  "published_at_utc": "2026-11-20T05:27:52.227560+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-20T04",
+  "items": [
+    {
+      "item_id": "2026-11-20T04:1",
+      "title": "Kyiv mayor reports damage to three bridges after Russian strikes",
+      "summary": "Kyiv Mayor Vitali Klitschko reported damage to the Podilsko-Voskresenskyi and Darnytskyi bridges and hits on the Southern Bridge during Russian missile strikes. Cross-river traffic was restricted, and he urged residents to avoid unnecessary driving while authorities assessed the damage.",
+      "post_url": "https://t.me/russianewstodayofficial/104",
+      "category": "other",
+      "hour_id": "2026-11-20T04",
+      "source_handles": [
+        "ddgeopolitics",
+        "dva_majors"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T04:2",
+      "title": "Poland says Russian athlete visa ban will feature in EU sanctions proposal",
+      "summary": "Polish Prime Minister Donald Tusk said a ban on issuing visas to Russian athletes would be included in the proposed 22nd EU sanctions package. The measure remains a proposal rather than an enacted EU-wide restriction.",
+      "post_url": "https://t.me/russianewstodayofficial/104",
+      "category": "other",
+      "hour_id": "2026-11-20T04",
+      "source_handles": [
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
