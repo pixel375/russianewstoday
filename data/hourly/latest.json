@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-20T02",
-  "generated_at_utc": "2026-11-20T03:24:23.344470+00:00",
-  "window_start_utc": "2026-11-20T02:00:00+00:00",
-  "window_end_utc": "2026-11-20T03:00:00+00:00",
+  "hour_id": "2026-11-20T03",
+  "generated_at_utc": "2026-11-20T04:27:24.369245+00:00",
+  "window_start_utc": "2026-11-20T03:00:00+00:00",
+  "window_end_utc": "2026-11-20T04:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 0
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
@@ -99,82 +99,53 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 12,
-    "relevant_posts": 5,
-    "deduplicated_posts": 5,
-    "candidate_posts": 5
+    "raw_posts": 10,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198691",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198691",
-      "published_at": "2026-11-20T02:55:01+00:00",
-      "text": "🇺🇦 Reports say that Kiev is experiencing problems with electricity supply after the strikes. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53442",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53442",
-      "published_at": "2026-11-20T02:44:00+00:00",
-      "text": "❗️ Russia has launched a massive, multi-wave missile attack on Kiev, deploying approximately 10 Iskander-M ballistic missiles, Zircon hypersonic missiles, Oniks-M supersonic cruise missiles and KN-23 ballistic missiles. Several missiles struck targets across the capital, including areas near the Southern, Paton, Darnitsky and Podolsky bridges, triggering large fires. At least two Iskander-M missiles were reportedly intercepted by Ukrainian Patriot systems, while several interception attempts failed. Meanwhile, up to 12 Tu-160M and Tu-95MS strategic bombers are preparing to launch waves of Kh-101 cruise missiles, with Kalibr missiles also potentially involved. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198690",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198690",
-      "published_at": "2026-11-20T02:04:37+00:00",
-      "text": "🇷🇺 💥 🇺🇦 Reports are also coming in of around 20 jet-powered Geran drones striking Ukrainian military targets in the country's western regions. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198689",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198689",
-      "published_at": "2026-11-20T02:03:13+00:00",
-      "text": "🇷🇺 💥 🇺🇦 Ukrainian channels are buzzing about strikes on Kiev's bridges. The Southern, Northern, Podolsky and Paton bridges are all being named as targets. So far there's no concrete confirmation, though. The channels mostly seem to be copying each other. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "bricsnews/19736",
+      "id": "bricsnews/19737",
       "channel": "bricsnews",
       "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19736",
-      "published_at": "2026-11-20T02:02:01+00:00",
-      "text": "JUST IN: 🇺🇸 🇺🇦 US discusses potential NATO membership for Ukraine in recent talks, WSJ reports. @BRICSNews",
+      "url": "https://t.me/bricsnews/19737",
+      "published_at": "2026-11-20T03:24:45+00:00",
+      "text": "JUST IN: 🇬🇧 UK is conducting cyberattacks against China, Russia, Iran and North Korea, top military commander says. @BRICSNews",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406758",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406758",
+      "published_at": "2026-11-20T03:24:03+00:00",
+      "text": "Трамп понимает реакцию Путина на атаку на Крымский мост, сообщил журналист телеканала NBC, пересказавший интервью с американским лидером. \"Он сказал, что разговаривал с Владимиром Путиным и что Путин был крайне возмущен [Владимиром] Зеленским из-за атаки…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102276",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102276",
+      "published_at": "2026-11-20T03:01:00+00:00",
+      "text": "С ночи по Украине наносится массированный удар ракетным вооружением и БПЛА. Ожидается прибытие средств поражения со стратегической авиации. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
       "possible_duplicate_urls": []
     }
   ]
