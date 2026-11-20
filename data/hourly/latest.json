@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-20T13",
-  "generated_at_utc": "2026-11-20T14:29:20.141299+00:00",
-  "window_start_utc": "2026-11-20T13:00:00+00:00",
-  "window_end_utc": "2026-11-20T14:00:00+00:00",
+  "hour_id": "2026-11-20T14",
+  "generated_at_utc": "2026-11-20T15:23:11.033964+00:00",
+  "window_start_utc": "2026-11-20T14:00:00+00:00",
+  "window_end_utc": "2026-11-20T15:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 8
     },
     {
       "handle": "intelslava",
@@ -21,13 +21,13 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 12
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
@@ -63,82 +63,143 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 6
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 6
     },
     {
       "handle": "nab_ukraine",
       "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "sap_gov_ua",
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 29,
-    "relevant_posts": 9,
-    "deduplicated_posts": 9,
-    "candidate_posts": 9
+    "raw_posts": 44,
+    "relevant_posts": 20,
+    "deduplicated_posts": 20,
+    "candidate_posts": 20
   },
   "posts": [
     {
-      "id": "sap_gov_ua/4546",
-      "channel": "sap_gov_ua",
-      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
-      "url": "https://t.me/sap_gov_ua/4546",
-      "published_at": "2026-11-20T13:54:18+00:00",
-      "text": "САП шукають прокурорів! Конкурс на посади завершується 22 листопада 📝 Подавайтеся через сайт https://thelobbyx.com/tor/prokuror/ У новинах та соцмережах обговорюють найбільш «гучні» справи. Зараз у всіх на слуху «Карфаген». Ми поспілкувалися з прокурором САП Миколою Карасем, щоб розказати про залаштунки його роботи. Гортайте карусель!",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198760",
+      "id": "DDGeopolitics/198769",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198760",
-      "published_at": "2026-11-20T13:49:57+00:00",
-      "text": "🇺🇸 🇵🇱 Speaking to Fox News, Trump said Putin \"accidentally landed a few drones and little missiles\" into Poland. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198769",
+      "published_at": "2026-11-20T14:59:40+00:00",
+      "text": "🇷🇺 🇺🇦 Russian Federation forces have begun using a new strike suicide drone, the “Kub-10ME,” on the front line, according to the advisor of the Expired one, nicknamed “Flash” Key characteristics of the “Kub-10ME” include a flight range of over 100 km and the ability to hit moving targets thanks to an optoelectronic guidance system. The stated cruising speed is 120 km/h. As stated by the Russian manufacturer, the drone is capable of operating day and night, is better protected against electronic warfare means, and is intended for strikes on armored vehicles, command posts, air defense positions, and other objects. In fact, this allows it to be used for attacks on targets at a significant distance from the front line. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "missile"
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198759",
+      "id": "DDGeopolitics/198768",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198759",
-      "published_at": "2026-11-20T13:49:18+00:00",
-      "text": "🇵🇱 Polish Lieutenant General Nowak stated that a Swedish pilot was unable to identify the missile, but asserts that it was most likely Russian. “Today, two Swedish Gripen fighters were under the control of the Joint Air Operations Control Center, which is located in Germany. This is a NATO command center responsible for conducting air operations in our region. Preliminary authorization was given to the pilots to independently decide on shooting down airborne objects. The Swedish pilots attempted to intercept what was most likely an Kh-101 missile. One of them reported that he was unable to perform visual or optoelectronic identification of the object due to extremely difficult weather conditions that were present in the area at the time.” 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198768",
+      "published_at": "2026-11-20T14:55:33+00:00",
+      "text": "🇺🇦 🇺🇸 This American volunteer looks like he’s been at The Narcoführer’s Colombian marching powder. Would you really want him to instruct you how to not get hit by a Russian drone…. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406874",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406874",
+      "published_at": "2026-11-20T14:47:32+00:00",
+      "text": "▶️ Путин и Рахмон продолжили переговоры в неформальной обстановке в беседке на свежем воздухе, передает корреспондент ТАСС. Видео: Kremlin. ru ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234084",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234084",
+      "published_at": "2026-11-20T14:45:07+00:00",
+      "text": "Преступление коррупционной направленности выявлено и пресечено сотрудниками УФСБ России по Калужской области. В ходе оперативно-розыскных мероприятий зафиксирован факт получения должностным лицом взятки в особо крупном размере. Заместитель директора одного из заводов Калужской области получил от представителя коммерческой организации финансовое вознаграждение в размере 3 млн рублей за беспрепятственную приемку и оплату выполненных в рамках контракта работ. Оперативниками Управления фигурант задержан с поличным. СУ СК России по Калужской области на основании переданных сотрудниками УФСБ России по Калужской области материалов в отношении лица возбуждено уголовное дело по признакам состава преступления, предусмотренного ч. 8 ст. 204 УК России «Коммерческий подкуп». Обвиняемый заключен под стражу. Расследование уголовного дела продолжается. @opersvodki",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234079",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234079",
+      "published_at": "2026-11-20T14:35:01+00:00",
+      "text": "Мосты и энергетика Летело и продолжает лететь: минувшей ночью и утром российские подразделения нанесли массированный комбинированный беспилотно-ракетный удар по регионам т.н. Украины и её столице. В Киеве баллистические ракеты повредили несколько мостов. Движение с правого на левый берег по Подольско-Воскресенскому мостовому переходу закрыто , повреждения получил Дарницкий мост . Вновь атакован Южный мост — движение по нему сохраняется, но ограничено. Местные власти разрешили движение с левого на правый берег для автотранспорта массой до 10 тонн и общественного транспорта. В работе остался и Северный мост , на который перенаправили автобусы. Из-за ударов по энергосистеме в нескольких районах остановлены троллейбусы. Без света остались Печерский , Соломенский , Голосеевский , Днепровский и Дарницкий районы , в остальных — экстренные отключения. Начались перебои с водоснабжением, по некоторым данным повреждена одна из очистных станций на правом берегу Днепра, однако скорее всего это связано с перебоями электросетей. Во время отражения атаки местные источники писали о нескольких пусках зенитных ракет «Патриот». Ранее Киевский режим заявлял об их нехватке, поэтому возможны два объяснения: либо на т.н. Украину пришла новая поставка, либо российские подразделения атаковали цель настолько важную, что её пытались защитить любой ценой. Ущерб не ограничился столицей. По всей стране из графика выбилось почти 100 поездов, задержки местами превышают 10 часов. 🔻 Где еще прилеты? ▪️ В Кривом Роге прошёл массированный удар реактивными «Геранями». Местные власти рапортуют о повреждении инфраструктуры и АЗС, обесточены несколько котельных и насосных станций водоканала, значительная часть гражданских абонентов осталась без света. ▪️ Несколько ударов пришлось по Бурштынской ТЭС , самые свежие — после 11 утра. Во Львове также поражён энергетический объект. ▪️ Всего целями стали как минимум пять крупных энергетических объектов. В списке первично подтверждённых — ТЭС Добротвор , подстанция Западно-Украинская 750 кВ , подстанция Богородчаны 330 кВ в Ивано-Франковской области , Бурштынская ТЭС и ТЭЦ-5 в Киеве. В Минобороны России также заявили о нанесённых ударах, и часть заявленных ими целей уже подтверждается. Объективного контроля с территории т.н. Украины пока немного, но оно и понятно — вместе с ударами по энергетике страдает и связь, да и цензура с той стороны работает лучше. @rybar",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33507",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33507",
+      "published_at": "2026-11-20T14:32:54+00:00",
+      "text": "⚡️ On November 20, the Russian Foreign Ministry summoned Romania’s Ambassador to Russia Cristian Istrate . The Ministry issued a strong protest over Romania’s unjustified refusal to issue entry visas to the Russian national team , which was due to compete in the European Taekwondo Championships for boys and girls aged 12–14 in Bucharest in late November. Moscow regards this violation of the young athletes’ rights as a shameful act of discrimination on grounds of nationality that contravenes fundamental human rights standards and undermines the foundations of international cooperation in sport. ❗️ Politicising decisions on whether Russian athletes can compete in international competitions is absolutely unacceptable. Hostile acts against Russia will not go unanswered and will have lasting negative consequences for those responsible.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78015",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78015",
+      "published_at": "2026-11-20T14:32:11+00:00",
+      "text": "В Ивано-Франковске ракета поселилась в отдельно взятой квартире, не спрашивая хозяев. Всё так, кроме одного — взорваться она не могла — это часть не русской ракеты, а хвост от \"дуры\" ПеПеО (ПВО с речекряка). Хотели оккупации? Получите и распишитесь. Запад заваливает вас оружием, которое падает вам же на головы к буквальном смысле слова. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -147,11 +208,27 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "sap_gov_ua/4545",
-      "channel": "sap_gov_ua",
-      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
-      "url": "https://t.me/sap_gov_ua/4545",
-      "published_at": "2026-11-20T13:44:48+00:00",
+      "id": "dva_majors/102308",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102308",
+      "published_at": "2026-11-20T14:31:47+00:00",
+      "text": "🇪🇺 ♨️ Вскрылся коррупционный лоббизм «зелёных» проектов Еврокомиссией 🇩🇪 По данным немецкого WELT (со ссылкой на неопубликованный доклад рабочей группы Европарламента) Европейская комиссия выделила в период 2022-2025 годов 13 млн евро экологическим организациям , которые навязывали уже миллиардные инициативы среди депутатов Европарламента и парламентов стран ЕС. Уже разогревают скандал в стиле «ай-яй-яй, как же так можно, нарушение демократических принципов» ( ⚡️ простыми словами коррупция). ✨ Это называется замена экологической повестки на военную : теперь вместо миллиардов евро на электромобили и солнечные панели – танки и ракеты. Оставшихся без бюджетов «зелёных» политиков таким образом отодвигают от кормушки и затыкают рты . ✨ ⭐️ Обилие военных инициатив в Евросоюзе зашкаливающее – создаются инструменты совместных закупок, обеспечиваются долгосрочные заказы, унификация вооружений и логистики. Цель – создание единой европейской армии ( 🇪🇺 🚩 ЕвроНАТО ) для войны с 🇷🇺 Россией. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption",
+        "missile",
+        "procurement"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "nab_ukraine/4295",
+      "channel": "nab_ukraine",
+      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "url": "https://t.me/nab_ukraine/4295",
+      "published_at": "2026-11-20T14:30:01+00:00",
       "text": "​​ ⚖️ Пів мільйона гривень хабаря за сприяння приватним компаніям у перемозі в тендерах на постачання медичного обладнання: ВАКС оголосив вирок чинному нардепу 20 листопада 2026 року ВАКС оголосив вирок чинному народному депутату України. Його викрили на одержанні 558 тис. грн неправомірної вигоди за сприяння приватним компаніям у перемозі в тендерах на постачання медичного обладнання на Житомирщині. Вироком суду депутата визнано винуватим за ч. 2 ст. 369-2 КК України та призначено покарання у вигляді 3 років 6 місяців позбавлення волі з позбавленням права обіймати посади в органах державної влади та місцевого самоврядування строком на 3 роки. Вирок суду набирає законної сили через тридцять днів із дня проголошення, якщо його не буде оскаржено в апеляційному порядку. Деталі справи: У межах досудового розслідування встановлено, що в січні 2022 року народний депутат України через довірену особу одержав 558 тис. грн неправомірної вигоди. Ця сума становила 30 % вартості договору на постачання системи ультразвукової діагностики, укладеного комунальним підприємством – лікарнею в місті Житомирі – з приватним підприємством. Кошти призначалися за вплив на посадових осіб лікарні задля визнання цього підприємства переможцем публічної закупівлі. Крім того, обвинувачений гарантував, що у майбутньому за «відкат у 30 відсотків», використовуючи свій вплив, забезпечить фінансування та реалізацію ще двох договорів – на постачання системи магнітно-резонансної томографії та лапароскопічного обладнання – на загальну суму понад 38 млн грн. Зазначимо, що обвинувальний акт було направлено до суду ще у 2022 році. Попри це упродовж майже чотирьох років обвинувачений неодноразово не з'являвся у судові засідання.",
       "text_truncated": false,
       "related_urls": [],
@@ -161,54 +238,115 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "MFARussia/33506",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33506",
-      "published_at": "2026-11-20T13:33:41+00:00",
-      "text": "💬 Director of the Russian MFA Department for Multilateral Human Rights Cooperation Grigory Lukyantsev : On November 19 in New York, the Third Committee of the 81st Session of the UN General Assembly adopted the annual resolution put forward by the Group of 77 and China, entitled “A global call for concrete action for the elimination of racism, racial discrimination, xenophobia and related intolerance and the comprehensive implementation of and follow-up to the Durban Declaration and Programme of Action”. The resolution seeks to ensure full implementation of the Durban Declaration and Programme of Action and to prevent politically motivated attempts to revise it. The Declaration and Programme of Action was the outcome document of the World Conference against Racism , held in Durban, South Africa, in 2001. The voting pattern was similar to that on Russia’s UN General Assembly resolution on combating the glorification of Nazism. ✅ 122 votes in favour ❌ 16 against 🟨 42 abstentions The vote once again confirms what we have noted before – Western countries find certain issues particularly “uncomfortable” . As in previous years, Russia supported the initiative and co-sponsored the resolution. ❗️ In its statement, the Russian delegation called on those States that had once again chosen to stand aside or vote against the resolution to abandon double standards and demonstrate in practice their readiness to combat all forms of racial discrimination and intolerance.",
+      "id": "nab_ukraine/4294",
+      "channel": "nab_ukraine",
+      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "url": "https://t.me/nab_ukraine/4294",
+      "published_at": "2026-11-20T14:30:01+00:00",
+      "text": "👩‍⚖️ 👩‍⚖️ 👩‍⚖️ 3 роки 6 місяців позбавлення волі: ВАКС оголосив вирок чинному народному депутату України 👨‍⚖️ Його визнано винним в одержанні 558 тис. грн неправомірної вигоди за сприяння приватним компаніям у перемозі в тендерах на постачання медобладнання на Житомирщині. Докладніше #вирок",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198758",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198758",
-      "published_at": "2026-11-20T13:23:25+00:00",
-      "text": "🇷🇺 🛸 💥 🇺🇦 🇳🇱 Video of the drone that reportedly hit the vicinity of the Dutch embassy in Kiev today. 🔴 @DDGeopolitics",
+      "id": "wargonzo/38533",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38533",
+      "published_at": "2026-11-20T14:29:01+00:00",
+      "text": "Британия и Норвегия построят ракетные катера для Украины Великобритания и Норвегия профинансируют строительство двух скоростных боевых катеров для ВМС Украины. На реализацию проекта выделят более 100 млн фунтов стерлингов (131 млн долларов), причём страны разделят расходы поровну. Строительство развернут на британских предприятиях. Проект реализуется в рамках Коалиции морских возможностей (Maritime Capability Coalition) – созданного Великобританией и Норвегией объединения, которое занимается укреплением военно-морского потенциала Украины. Заявленная длина будущих кораблей составит 30 метров. Британские разработчики утверждают, что по боевым возможностям новые катера будут сопоставимы с фрегатами. Однако это не более чем рекламный трюк для профанов: сравнивать даже крупный катер с полноценным боевым кораблём такого класса просто несерьёзно. По официальному заявлению, катера получат ракетное вооружение, средства ПВО и «комплексы самообороны». На опубликованных рендерах в кормовой части катера заметны две установки, похожие на реактивные системы залпового огня. Подобные комплексы могут использоваться не только для стрельбы неуправляемыми ракетами, но и для запуска беспилотников, а также установки морских мин. Точный состав вооружения и назначение установок не раскрываются. Сроки реализации проекта также остаются неизвестными. Не сообщается даже о том, когда начнётся строительство. С учётом необходимости интеграции ракетного вооружения, средств ПВО, радиолокационного оборудования и систем управления рассчитывать на быстрое появление этих катеров в составе украинских ВМС не приходится. Даже если работы начнутся в ближайшее время, на строительство и оснащение кораблей такого класса могут уйти годы. Если эти кораблики таки будут построены и смогут добраться до Украины, то наиболее вероятной задачей для них станут периодические выходы в Чёрное море по Днепру с небольшой базы, спрятанной в глубоком тылу, в центральной части страны. Оттуда они смогут запускать надводные и воздушные беспилотники и быстро возвращаться обратно. Пытаться использовать такие катера в качестве обычных боевых единиц в открытом море было бы откровенным безумием. Вооружённые силы России уже более четырёх месяцев демонстрируют полное доминирование над украинскими портами и морскими путями. В таких условиях превращение небольших кораблей в мобильные платформы для беспилотных систем выглядит куда более реалистичной задачей, чем обещанная британцами миниатюрная копия фрегата. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "kyiv"
+        "missile"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/406858",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406858",
-      "published_at": "2026-11-20T13:21:01+00:00",
-      "text": "Посол РФ Тарабрин призвал нидерландскую сторону всерьез отнестись к рекомендации Москвы покинуть Киев . В беседе с ТАСС он напомнил, что Россия неоднократно предупреждала иностранные дипмиссии об опасности пребывания в городе. При этом Тарабрин отметил, что РФ продолжит в рамках СВО наносить удары по военным объектам и инфраструктуре ВПК в Киеве. Ранее глава МИД Нидерландов Берендсен сообщил, что из-за падения снаряда посольство королевства в городе получило небольшие повреждения.",
+      "id": "voenkorKotenok/78014",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78014",
+      "published_at": "2026-11-20T14:28:07+00:00",
+      "text": "Даешь ПВО Азовского моря! Опять же, по удару по мосту. Враг вбросил картинку — Flamingo подлетают на минимальной высоте над морской поверхностью. Противостоять таким ударам можно только эшелонированной ПВО. Сбивать цели непосредственно у моста на такой высоте — архисложно, практически невозможно. Сбивать надо ещё за 300-200 км до цели! ПВО должна иметь глубину, начинаться в т.ч. и на воде. А какова роль флота в обороне Крымского моста? Почему ракеты беспрепятственно прошли над акваторией, хотя Азовское море фактически сейчас стало внутренним морем России? Что мешает в Азовском море начать выстраивать, в конце концов, ПВО Крымского моста, понимая, что оттуда летит? «Ёлке» — взрывчатку + истребительную авиацию Будь моя воля, я бы в ПВО прекратил использовать перехватчики с кинетическим ударом, применение которых заранее ставят нас в уязвимое положение второго номера: «Собьем — не собьём». Пора уже разрешить ПВО заряжать те же самые БпЛА-перехватчики типа «Ёлка» и др. взрывчатыми веществами. Что мешает нам, в конце концов, использовать винтовые самолёты в качестве истребительной авиации ПВО? Установить на них пулемёты и пушки? Ведь до сих пор у нас на это табу, хотя противник уже доказал эффективность этих тихоходных машин в борьбе с беспилотной авиацией. Читать полностью — 👇 👇 👇 Если мир для них наша смерть… О мостах, концентрации и мощности залпа, ПВО и мире Сегодня.ру Подпишись в Мах @segodnia_ru",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "moscow",
+        "crimea",
+        "drone",
+        "missile",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198756",
+      "id": "boris_rozhin/234076",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234076",
+      "published_at": "2026-11-20T14:25:07+00:00",
+      "text": "Сегодня днем Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетики, логистической и портовой инфраструктуры, а также морским судам, задействованным в интересах ВСУ. В результате ударов поражены : - логистический центр в н.п. Городня Черниговской области , осуществлявший хранение и распределение грузов военного назначения, поступающих в ВСУ; - теплоэлектроцентраль Слобожанская в Харьковской области , обеспечивающая работу предприятий военной промышленности Украины; - в порту Черноморск Одесской области – морское судно типа «сухогруз» , доставлявшее грузы двойного назначения для обеспечения ВСУ, а также портовая инфраструктура, переназначенная для разгрузки военных грузов. Кроме того, в районе железнодорожной станции «Рядовое» Днепропетровской области поражен железнодорожный локомотив , используемый в интересах перевозки грузов для обеспечения ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kharkiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53466",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53466",
+      "published_at": "2026-11-20T14:18:36+00:00",
+      "text": "❗️ Trump: I like the Polish prime minister. Don’t forget I endorsed him. And he won because of the endorsement. So, you know, he was in 10th place, and he’s a great guy. Putin has been landing drones in Poland and a couple of little missiles, by mistake. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234075",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234075",
+      "published_at": "2026-11-20T14:17:05+00:00",
+      "text": "Российские дроны и несколько небольших ракет «по ошибке» попали на территорию Польши (с) Трамп Ну вот...",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198764",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198756",
-      "published_at": "2026-11-20T13:13:56+00:00",
+      "url": "https://t.me/DDGeopolitics/198764",
+      "published_at": "2026-11-20T14:14:26+00:00",
+      "text": "🇷🇺 🇺🇦 Russian military forces struck a thermal power plant in the Kharkov region 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198762",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198762",
+      "published_at": "2026-11-20T14:14:21+00:00",
       "text": "🇺🇦 Strikes in Zaporozhye 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
@@ -219,16 +357,48 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234069",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234069",
-      "published_at": "2026-11-20T13:03:01+00:00",
-      "text": "Владимир Путин призвал украинцев переходить \"на правильную сторону истории\" и объединять усилия с Россией ради общего будущего. В интервью Эмиру Кустурице для фильма Первого канала \"Наше крещение. Предстоятель\" президент отметил, что нынешнее противостояние связано с попытками внешних сил ослабить и подчинить Россию по принципу \"разделяй и властвуй\", причём не в интересах Украины. \"Я хотел бы сказать: переходите на нашу сторону, потому что она является нашей общей стороной. Вот на общую сторону, на правильную сторону истории и переходите\", — подчеркнул российский лидер. Путин также призвал украинцев, несмотря на происходящие трагедии, думать о будущем своих детей и объединять усилия для достижения общих целей. Владимир Путин процитировал Достоевского, говоря об отличительных чертах русской цивилизации. Другие заявления Владимира Путина в интервью Эмиру Кустурице для фильма Первого канала \"Наше крещение. Предстоятель\": - Украинцы должны понимать, что Запад поддерживает Киев в собственных интересах, стремясь \"ослабить, расчленить, разобрать\" и подчинить своей воле стороны конфликта; - На протяжении всей истории противники России пытались ослабить её, действуя по принципу \"разделяй и властвуй\". То же самое происходит и сейчас; - Власть на Украине захватили не патриоты, а националисты, однако на ненависти далеко не уедешь.",
+      "id": "mod_russia_en/30701",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30701",
+      "published_at": "2026-11-20T14:13:47+00:00",
+      "text": "Smashing enemy drone teams' hideouts 🔥 BM-70 attack drones burned out AFU UAV command posts in Dnepropetrovsk direction. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv"
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350180",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350180",
+      "published_at": "2026-11-20T14:11:37+00:00",
+      "text": "Российские военные нанесли удары по теплоэлектроцентрали в Харьковской и логистическому центру в Черниговской областях Украины, сообщили в Минобороны. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406864",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406864",
+      "published_at": "2026-11-20T14:01:01+00:00",
+      "text": "Главные новости к этому часу: ▪️ Путин и Рахмон акцентировали важность присутствия военной базы РФ в Таджикистане. ▪️ Повреждена основная балка пролета. Что известно о восстановлении Крымского моста — в матераиле ТАСС. ▪️ Россия заявила протест Румынии из-за отказа выдавать визы спортсменам. ▪️ Мария Захарова сравнила закрытие Эстонией границы с РФ с железным занавесом. ▪️ Посол РФ призвал Гаагу всерьез отнестись к рекомендации покинуть Киев. ▪️ Британия исключила газовоз Soars из санкционного списка по России. ▪️ ЦБ предложил снизить до 1 рубля границу тарифного коридора по ОСАГО. ▪️ Президент Армении назначил нового посла в России. ▪️ Генпрокурор Калифорнии начал расследование против Nvidia. ▪️ Правительство утвердило правила маркировки звонков из-за рубежа. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "sanctions"
       ],
       "possible_duplicate_urls": []
     }
