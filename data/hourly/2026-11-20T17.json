@@ -1,0 +1,250 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T17",
+  "generated_at_utc": "2026-11-20T18:27:12.263528+00:00",
+  "window_start_utc": "2026-11-20T17:00:00+00:00",
+  "window_end_utc": "2026-11-20T18:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 28,
+    "relevant_posts": 10,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198790",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198790",
+      "published_at": "2026-11-20T17:52:14+00:00",
+      "text": "🇵🇱 Two Swedish JAS Gripens and two Polish F-16s, backed by a Dutch tanker and a Saab early-warning aircraft, tried to intercept the Russian missiles and drone that flew into Poland last night. They failed because of bad weather. According to the Polish military, the Swedish pilot chasing the Kh-101 had NATO clearance to fire. He couldn't identify the target visually or with his optical-electronic systems, and the missile came down before it could be shot down. The objects fell near Nowa Dęba, where 11 European countries from the \"Coalition of the Willing\" are holding the Koalicja 26.2 exercise. The exercise rehearses deploying troops to Ukraine after the war. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30706",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30706",
+      "published_at": "2026-11-20T17:45:26+00:00",
+      "text": "Fog and wind are our allies: we hit the enemy in any weather 💬 The deputy battalion commander of the 7th Motorised Rifle Brigade with the call sign 'Sokol' spoke about the battles for forest belts and settlements in Slavyansk-Kramatorsk agglomeration: 'We come out winners after every fight. They are focusing on drones. If weather conditions begin to change, foggy or very windy weather, which prevents 'birds' from flying, then that's the end. The enemy is deprived of eyes and hands'. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234102",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234102",
+      "published_at": "2026-11-20T17:45:08+00:00",
+      "text": "Посол РФ Тарабрин призвал нидерландскую сторону всерьез отнестись к рекомендации Москвы покинуть Киев . В беседе с ТАСС он напомнил, что Россия неоднократно предупреждала иностранные дипмиссии об опасности пребывания в городе. При этом Тарабрин отметил, что РФ продолжит в рамках СВО наносить удары по военным объектам и инфраструктуре ВПК в Киеве. Ранее глава МИД Нидерландов Берендсен сообщил, что из-за падения снаряда посольство королевства в городе получило небольшие повреждения.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102310",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102310",
+      "published_at": "2026-11-20T17:44:13+00:00",
+      "text": "📝 Как добить украинское судоходство 📝 что осталось сделать до победы на Черном море Кампания ВС РФ в Черном море наглядно показала, что т.н.Украина вообще не контролировала судоходство. Сейчас передвижения сухогрузов и танкеров на т.н.Украину зависят от российской воли. Но усилить эффект можно и нужно: пока украинские власти довольствуются меньшими по размеру портами на Дунае, следует рассматривать тотальную блокаду. И сделать это можно имеющимися средствами. При более комплексных ударах по судоходным маршрутам на Дунае движение торгового флота просто прекратится. А вместе с ним и частичные поставки вооружения. Как Россия перехватила инициативу в Черном море и что делать дальше — смотрите в нашем новом ролике. 📍 @rybar_tactical 💸 Поддержать нас",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406891",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406891",
+      "published_at": "2026-11-20T17:29:37+00:00",
+      "text": "США сообщили ЕС и Украине, что хотят мирного соглашения до начала января, пишет Financial Times со ссылкой на четыре источника. Белый дом рассчитывает заключить сделку до того, как Демократическая партия установит контроль над Конгрессом США. Газета цитирует двух неназванных американских чиновников, которые предположили, что Трамп может провести переговоры с европейскими лидерами о завершении конфликта во время саммита Группы двадцати.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38539",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38539",
+      "published_at": "2026-11-20T17:21:01+00:00",
+      "text": "Война не отменяет жизнь «Люди привыкают ко всему». Эту фразу мы слышим с детства – то как утешение, то как приговор. Психологи спорили о ней, философы пытались разобрать на атомы, а жизнь тихо и настойчиво доказывала её правоту – без громких тезисов, на самых простых вещах. – Кто бы мог подумать, что в 2026 году я буду радоваться печке в доме, – рассказывает мне коллега. Лена переехала в Херсонскую область за мужем-военным, взяв с собой самое дорогое – детей. В её рассказе – нотка удивления и лёгкой ностальгии. А в её поступке – тихая сила, которую не нужно объяснять. Такие вещи не требуют логической составляющей: в них нет рациональности, зато есть чувство, понятное каждому. — Рассказываю своим детям истории из детства, как у бабушки топили печь в деревне, как кашу делали… Я им и раньше это говорила, но они особо не слушали. А сейчас сами переживают то же самое, удивительно, — продолжает Лена — Вчера сделала плов в казане прямо в печи. Сын, который раньше к нему даже не притрагивался, съел всё и попросил добавки! Так русская печка в 21 веке снова стала очагом дома. В этом маленьком бытовом чуде – целый мир: связь поколений, возвращение к простым вещам, умение находить радость там, где её, казалось бы, быть не может. Ещё и заставляет руками, да головой поработать. Растопить печку, чтобы она держала тепло – это не обогреватель, который достаточно просто воткнуть в розетку. Да только и розетки порой не помогают: сорок вольт, перебои, дни без света… Сначала отключение света в городе вызывали панику: очереди на заправках, в магазинах, нервозность, отсутствие связи и интернета. Общая истерия постепенно накрывала небольшой город на берегу Азовского моря. А палящее солнце ещё больше раскаляло ситуацию. Проходит время, свет гаснет снова и снова – и паника постепенно утихает. Потом и вовсе становится чем-то привычным: есть электричество – хорошо, нет – так нет. Комфорт перестаёт быть нормой, и сама норма начинает меняться. Достоевский однажды заметил: человек — существо, ко всему привыкающее. И, пожалуй, в этой фразе — не смирение, а признание удивительной способности человека держаться на плаву. Не потому, что ему всё равно, а потому что он умеет находить опору даже в самых непростых условиях. Война никогда не была временем лёгкости, но она не отменят базовые потребности. Человеку по-прежнему нужно поесть, согреться, поспать, почувствовать, что он не один. Духовные нужды тоже никуда не пропадают – скорее становятся острее. Война в принципе жизнь не исключает. Она ради неё и за неё и начинается и продолжается. Но война вносит коррективы в уже устоявшиеся для нас нормы. Да, кто-то скажет, что я романтизирую. Но я не романтизирую – вижу реальность такой, какая она есть и проживаю в ней. Там, где уязвимые земли и непростые времена, люди продолжают жить, приспосабливаться, беречь друг друга. Война вносит свои коррективы, заставляет привыкать к новому, но не отнимает главного: способности оставаться людьми. И радует одно – новые нормы не сделали нас злыми по отношению друг к другу. В этом, наверное, и есть самая тихая, но самая важная победа. Наталья Подобед, специально для проекта @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98356",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98356",
+      "published_at": "2026-11-20T17:20:15+00:00",
+      "text": "🇩🇰 🇷🇺 ⚡️ — Denmark Expels Russian Military Attaché The diplomat has been declared persona non grata and must leave the country within seven days, said the head of the Ministry of Foreign Affairs of the kingdom, Lars Løkke Rasmussen. According to the minister, the government's decision was conveyed to the Russian ambassador during a meeting at the Danish Ministry of Foreign Affairs. \"We have just held a meeting with the Russian ambassador at the Ministry of Foreign Affairs and informed him of the government's decision to declare the Russian military attaché persona non grata and to expel him from Denmark. The military attaché must leave Denmark within seven days,\" said Rasmussen. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234097",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234097",
+      "published_at": "2026-11-20T17:15:07+00:00",
+      "text": "Последствия удара реактивного БПЛА ВС РФ по ПВД 430 оп БпС 10 АК ВСУ в административном здании г. Чугуев. 49.82198767120866, 36.67449757122879 @ukrainian_guide",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35890",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35890",
+      "published_at": "2026-11-20T17:07:54+00:00",
+      "text": "Fwd from @ 📝 How to finish off Ukrainian shipping 📝 what remains to be done to achieve victory in the Black Sea The Russian Armed Forces campaign in the Black Sea clearly demonstrated that so-called Ukraine never controlled shipping at all. Now the movement of bulk carriers and tankers to so-called Ukraine depends on Russian will. But the effect can and should be strengthened: while Ukrainian authorities are content with smaller ports on the Danube, a total blockade should be considered. And this can be done with available means. With more comprehensive strikes on shipping routes on the Danube, commercial fleet traffic will simply stop. And with it, partial weapons deliveries. How Russia seized the initiative in the Black Sea and what to do next — watch our new video. 📍 @rybar_tactical 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30705",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30705",
+      "published_at": "2026-11-20T17:03:28+00:00",
+      "text": "We see everything, we get everyone 💥 UAV operators of the Sever Group of Forces deliver strikes at the enemy in Sumy region. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
