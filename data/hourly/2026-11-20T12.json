@@ -1,0 +1,279 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T12",
+  "generated_at_utc": "2026-11-20T13:25:15.783636+00:00",
+  "window_start_utc": "2026-11-20T12:00:00+00:00",
+  "window_end_utc": "2026-11-20T13:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 9
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 35,
+    "relevant_posts": 11,
+    "deduplicated_posts": 11,
+    "candidate_posts": 11
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198752",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198752",
+      "published_at": "2026-11-20T12:49:36+00:00",
+      "text": "🇵🇱 Polish PM Donald Tusk on Russian missile and drone incidents in Polish airspace: Let’s not fool ourselves. There is an incident that requires a response, but our allies, for example the United States, do not want to overreact. They do not want that response…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198751",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198751",
+      "published_at": "2026-11-20T12:47:54+00:00",
+      "text": "🇵🇱 Polish PM Donald Tusk on Russian missile and drone incidents in Polish airspace: Let’s not fool ourselves. There is an incident that requires a response, but our allies, for example the United States, do not want to overreact. They do not want that response to trigger another spiral of escalation, and I understand that. But I do not always, to put it mildly, agree with the American side’s assessment and interpretation of these incidents. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35885",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35885",
+      "published_at": "2026-11-20T12:46:50+00:00",
+      "text": "📝 Military - Ukrainization 📝 underway in Moldova Moldovan authorities apparently decided to formalize and deepen what has long been happening — a defense partnership with the Kyiv regime. Moldova's Parliament supported in first reading an agreement with so-called Ukraine on military-technical cooperation . The document covers modernization and repair of military equipment, cyber defense, critical infrastructure protection, technology exchange, specialist training, and transfer of non-lethal equipment. In parallel, the ruling PAS party intends to adopt by end of December a law on defense industry development , including drone production, electronic warfare systems, and dual-use technologies. And this despite the fact that, according to the latest poll, 82% of Moldova's residents spoke out against military drone production in the country. 📌 In Chișinău they even manage to claim that such cooperation does not affect constitutional neutrality . However, drawing the country into the military-industrial logistics of a neighboring war receives legal justification , which creates colossal risks for the country's security. And the most interesting thing is that ordinary citizens, unlike the authorities, understand this perfectly well. #Moldova #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234068",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234068",
+      "published_at": "2026-11-20T12:45:03+00:00",
+      "text": "Эстония закроет все автомобильные КПП на границе с Россией 1 декабря. Решение приняло местное правительство. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad Пограничники Латвии не считают, что граница с РФ может быть закрыта, сообщило Латвийское радио. При этом начальник Государственной пограничной охраны Латвии Пуятс предупредил, что закрытие 1 декабря эстонско-российской границы, о котором было объявлено в пятницу, может вызвать рост пересечений КПП в Латвии и повлечь переработки среди латвийских пограничников.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33505",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33505",
+      "published_at": "2026-11-20T12:35:01+00:00",
+      "text": "🎙 Russian Foreign Ministry Spokeswoman Maria Zakharova’s answer to a media question on the complicity of Dutch company Destinus in the attack on the Crimean Bridge (November 20, 2026) ❓ Question: How would you comment on a statement by the Dutch private arms manufacturer Destinus that the Kiev regime used its Ruta missiles and drones in the November 17 attack on the Crimean Bridge? 💬 Maria Zakharova: We have noted that public opinion in the Netherlands has become considerably divided in response to this admission – or, more accurately, this self-exposure. Those Dutch citizens whose minds have been thoroughly poisoned by unbridled Russophobia greeted the news that Dutch weapons had been used in an attack on civilian infrastructure in the Russian Federation with almost primitive glee. However, there were also many voices of reason , pointing to the Netherlands’ irresponsible policy and the risks posed by the continued supply of weapons to the Kiev regime, which has repeatedly demonstrated its terrorist nature. Against this backdrop, the reaction of Dutch Foreign Minister Tom Berendsen is particularly telling. On the one hand, he confirmed the statement by Destinus about the Netherlands’ de facto involvement in the terrorist attack against Russia. On the other, he continues to make complacent assertions that bear no relation to reality , claiming that the Netherlands is not a party to the conflict surrounding Ukraine. Let us recall that just over a month ago, Dutch Defence Minister Dilan Yesilgoz-Zegerius publicly described our country as an \"enemy\" , a position subsequently endorsed by the entire Cabinet of Ministers of the Kingdom. Earlier, reports emerged that retired Dutch military pilots had taken part in combat operations against Russia, flying F-16 fighter jets transferred to Kiev. ❗️ All of this , together with the Netherlands’ thoughtless support for the neo-Nazi Kiev regime through arms supplies and funding (amounting to at least 12.4 billion euros since 2022), at the expense of addressing its own domestic problems, represents an undisguised advance along the path of military escalation . The Russian Side is documenting all such actions and taking them into account in its military planning.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102301"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234067",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234067",
+      "published_at": "2026-11-20T12:33:01+00:00",
+      "text": "Под завалами рухнувшей после удара ВСУ многоэтажки в Юбилейном ЛНР могут оставаться люди — спасатели работают под угрозой повторной атаки. Корреспондент \"Известий\" Егор Кильдибеков сообщил, что разбор обломков продолжается. Под завалами могут находиться неразорвавшиеся боеприпасы, сохраняется опасность новых ударов. \"Прямо сейчас в поле неподалёку раздаются автоматные очереди. Судя по всему, где-то рядом новый украинский дрон. Его пытаются сбить мобильные огневые группы\", — рассказал журналист. Ещё один беспилотник попал в крышу соседнего жилого дома. Возник пожар, который уничтожил две квартиры на четвёртом и пятом этажах. По словам местных жителей, первые взрывы прогремели после полуночи. Прибывшие спасатели извлекли из-под завалов женщину с маленьким ребёнком. В одном из соседних домов взрывной волной выбило стёкла.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4544",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4544",
+      "published_at": "2026-11-20T12:30:02+00:00",
+      "text": "​​ Вимагання та одержання 4,48 млн грн за прийняття РЕБ: САП та НАБУ завершили слідство у справі Прокурор САП прийняв рішення про завершення досудового розслідування у справі стосовно військовослужбовців військових частин ЗСУ, один з яких є офіцером. Їх у серпні 2026 року викрили на вимаганні та одержанні неправомірної вигоди від представників підприємства за забезпечення безперешкодного прийняття засобів радіоелектронної боротьби (далі – РЕБ). У жовтні 2025 року громадська організація уклала договір із приватним товариством на закупівлю засобів РЕБ для військової частини загальною вартістю понад 22,4 млн грн. У межах досудового розслідування встановлено, що офіцер запропонував за грошову винагороду безперешкодно прийняти засоби РЕБ. Розмір неправомірної вигоди мав становити 10 % від суми контракту – 2,24 млн грн. Отримавши відмову, військовослужбовець залучив до своєї злочинної діяльності інших осіб та почав створювати перешкоди у виконанні контракту на постачання засобів РЕБ. Крім того, він збільшив суму неправомірної вигоди до 20 % від вартості договору – 4,48 млн грн. Слідством задокументовано факт одержання одним зі спільників офіцера частини коштів у розмірі 20 тис. дол. США. Зазначимо, що після отримання частини коштів особи не припинили свою злочинну діяльність й очікували другу частину неправомірної вигоди в сумі 80 тис. дол. США. У серпні 2026 року офіцеру та військовослужбовцю повідомлено про підозру за ч. 4 ст. 368, ч. 5 ст. 27, ч. 4 ст. 368 КК України відповідно. Пізніше САП та НАБУ повідомили про підозру ще одній особі, яка одержала частину коштів за поради та усунення перешкод під час вчинення злочину (ч. 5 ст. 27, ч. 4 ст. 368 КК України). 📌 Відповідно до ч. 1 ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "procurement"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350173",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350173",
+      "published_at": "2026-11-20T12:25:55+00:00",
+      "text": "Главные заявления Захаровой на брифинге: ​ ▪️ Европа ставит на эскалацию конфликта на Украине и не готова к участию в переговорах. ▪️ Заседание по Украине в Брюсселе подтвердило отсутствие у Зеленского воли к миру. ▪️ Санкции Запада против России не могут повлиять на решение вопросов вокруг Украины. ▪️ Действия ЕС по расширению антироссийских санкций не останутся без должного ответа. ▪️ НАТО открыто готовится к вооруженному конфликту с Россией, который прогнозируется руководством блока через 3-5 лет, Москва хочет жить с соседями в мире и согласии. ▪️ Возвращение россиян в международный спорт вызывает у Запада нечеловеческую ненависть, а попытки отказать им в участии в соревнованиях это банальная трусость ▪️ На намерение Эстонии закрыть границу с Россией Москва ответит необходимыми дипломатическими мерами. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234066",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234066",
+      "published_at": "2026-11-20T12:15:06+00:00",
+      "text": "Договоренностей по новому раунду переговоров по Украине нет (с) Рябков Учитывая заявленную позицию стран НАТО по войне на Украине (включение Украины в НАТО, размещение на Украине войск НАТО и т.д.), ядерная война выглядит более вероятным сценарием. нежели какие-либо договоренности с ними. Поэтому заявления Рябкова о том, что даже квази-членство Украины в НАТО полностью неприемлемо для России, чем еще раз выявляется отсутствие какого либо пересечения позиций с НАТО по этому вопросу. России нет смысла останавливать войну, если это приведет к развертыванию НАТО на Украине. НАТО про это знает, поэтому тему втягивания Украины в НАТО и педалируют постоянно, чтобы война не прекращались, что в итоге приближает ситуацию уже к прямой войне России и НАТО, которая не останется на конвенциональном уровне. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350172",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350172",
+      "published_at": "2026-11-20T12:08:11+00:00",
+      "text": "Путин призвал украинцев думать о будущем своих детей и переходить на правильную сторону истории. Что еще сказал президент в фильме, показанном в эфире Первого канала: 🔹 Люди на Украине должны стремиться к объединению с Россией в широком смысле этого слова. 🔹 Власть на Украине захватили не патриоты, а националисты, но на ненависти далеко не уедешь. 🔹 Жители Украины должны понимать, что все, кто их поддерживают сегодня, делают это в своих собственных интересах, чтобы подчинить своей воле. 🔹 На Украине все развалилось не в последние недели под ответными ударами ВС России, а из-за националистов во власти. 🔹 Противники России всегда хотели \"разделять и властвовать\", происходящее сейчас - это стремление понизить ее потенциал и подчинить своим интересам. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102301",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102301",
+      "published_at": "2026-11-20T12:01:09+00:00",
+      "text": "💬 Главное не распылять усилия 💬 Спустя несколько часов после атаки можно сделать первые выводы о результатах этого комбинированного удара . Основной итог таков, что мосты в Киеве уже практически запустили движение без каких-либо осложнений. Отдельные попадания есть, и на некоторых из переправ введены ограничения, но ситуация такова, что обрушений или действительно критического урона нет. Поэтому пока конкретно в вопросе мостов цели не достигнуты. Позитивный момент в том, что был удар по очистным подстанциям, но для большего эффекта требуется бить системно и по другим подобным объектам, чтобы достичь существенного результата. По Западенщине пока объективного контроля не так много, и сказать наверняка, куда прилетело и насколько серьезно, затруднительно. Перебои в электроснабжении есть, но это может быть и намеренное введение в заблуждение. ❗️ В подобных операциях в первую очередь должно быть рациональное расходование имеющихся средств с понятной постановкой задач – если мы хотим обрушить мосты, то бить надо не парой ракет, а десятками в комбинировании с дронами. Украинские налеты на Крымский мост показали, что таким образом урон будет ощущаться. И если наша цель ослабить логистические возможности противника, то делать нужно примерно также. Что бы произошло, если бы все эти крылатые полетели по мостам вместе с баллистикой? Хотелось бы узнать. 🤙 Архангел Спецназа ! ❗️ 🤙 Если не грузит видео - смотрите у нас в MAX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/MFARussia/33505"
+      ]
+    }
+  ]
+}
