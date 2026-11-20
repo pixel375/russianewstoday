@@ -1,0 +1,25 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    99
+  ],
+  "published_at_utc": "2026-11-20T00:27:11.975832+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-19T23",
+  "items": [
+    {
+      "item_id": "2026-11-19T23:1",
+      "title": "Reports describe Iskander ballistic missile strikes near bridge in Kyiv",
+      "summary": "Russian military-linked reports say Iskander-M ballistic missiles were launched toward Kyiv from Russia's Bryansk region, with at least two reportedly striking near the Northern Bridge. One account described four missiles launched, but the reports did not establish the extent of damage or any casualties.",
+      "post_url": "https://t.me/russianewstodayofficial/99",
+      "category": "other",
+      "hour_id": "2026-11-19T23",
+      "source_handles": [
+        "ddgeopolitics",
+        "intelslava",
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
