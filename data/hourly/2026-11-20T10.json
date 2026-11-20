@@ -1,0 +1,331 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T10",
+  "generated_at_utc": "2026-11-20T11:30:10.487067+00:00",
+  "window_start_utc": "2026-11-20T10:00:00+00:00",
+  "window_end_utc": "2026-11-20T11:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 2,
+      "raw_count": 13
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 36,
+    "relevant_posts": 15,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
+  },
+  "posts": [
+    {
+      "id": "tass_agency/406835",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406835",
+      "published_at": "2026-11-20T10:55:44+00:00",
+      "text": "▶️ Белоусов провел переговоры с министром обороны Узбекистана Кудратходжаевым , сообщает МО РФ. Россия и Узбекистан являются давними друзьями, сотрудничество оборонных ведомств двух стран достигло высокого уровня, отметил Белоусов. Министры подписали план сотрудничества на 2027 год. Видео: Минобороны России/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198737",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198737",
+      "published_at": "2026-11-20T10:48:00+00:00",
+      "text": "🇳🇱 🇺🇦 ⚔️ 🇷🇺 Dutch arms maker brags its missiles brought down part of the Crimean Bridge Destinus, a Netherlands-based missile and drone maker, says its RUTA cruise missiles hit the Crimean Bridge two days in a row. The company is \"proud to support the Ukrainian…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234050",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234050",
+      "published_at": "2026-11-20T10:47:01+00:00",
+      "text": "«Президент последовательно и твёрдо поддерживает мирное завершение этой войны. Он неизменно это повторяет. Он специально отправил нас с Джаредом сюда, чтобы мы участвовали в этой работе — в «коалиции желающих», — и дал нам указание делать всё возможное, чтобы закончить эту войну и поддержать эти усилия. И по тому, что я услышал от него сегодня по телефону, он говорил об этих же принципах двум другим лидерам, с которыми встречался. То есть Украину и мирное завершение войны он сделал главной частью сегодняшней трёхсторонней встречи, и я думаю, это заслуживает похвалы. Спасибо. И если конкретно ответить на ваш вопрос об оружии: это очень небольшая отрасль по сравнению с размером экономики США, и ничто не обрадовало бы президента Трампа больше, чем если бы эта отрасль пошла на спад, потому что в мире наступил мир. И я думаю, когда участвуешь в этих войнах, только сильнее понимаешь, насколько война ужасна. Война — это минус для всех. От войны проигрывают все. А мир — это плюс для всех. И если можно перенаправить ресурсы так, чтобы не приходилось закупать оружие, это прекрасно. Но… Но вы видите, что произошло в Европе, потому что они слишком долго перенаправляли ресурсы в другую сторону. Так что, очевидно, нужен баланс. Но знайте: единственная мотивация президента Трампа здесь — очевидно, он хочет принести мир. Он считает, что мир даст огромные дивиденды всему миру, и он также хочет остановить страдания. Поэтому вопрос… опасение, которое вы поднимаете, никак не влияет на его мысли, и, очевидно, он действительно хочет всеми силами добиваться мира» (с) Уиткофф",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "procurement"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4542",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4542",
+      "published_at": "2026-11-20T10:40:02+00:00",
+      "text": "​​ ⚖️ ВАКС визнав необґрунтованими активи начальника територіального сервісного центру ГСЦ МВС в Харківській області 19 листопада 2026 року Вищий антикорупційний суд частково задовольнив позов прокурора САП, визнав необґрунтованими та стягнув у дохід держави актив на суму понад 3,5 млн грн, набутий начальником територіального сервісного центру ГСЦ МВС в Харківській області О. Стогнієм та його тещею І. Єременко. Позов мотивовано тим, що у 2021 році родина службовця по факту набула у власність квартиру в м. Харкові загальною вартістю понад 3,9 млн грн. Проте аналізом офіційних доходів і витрат родини зʼясовано, що вартість цього активу явно перевищує законні доходи відповідних осіб. Суд частково задовольнив позовні вимоги прокурора та визнав квартиру в м. Харкові необґрунтованим активом і стягнув з посадовця в дохід держави частково її вартість на загальну суму понад 3,5 млн грн. Зазначимо, що позов ґрунтувався на матеріалах НАЗК, ДБР та доказах, самостійно зібраних прокурором САП.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198734",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198734",
+      "published_at": "2026-11-20T10:36:21+00:00",
+      "text": "🇷🇺 🇹🇯 Putin says he invited Russian Defense Ministry officials to his meeting with Tajik President Emomali Rahmon to discuss security issues. According to Kremlin spokesman Dmitry Peskov, the two leaders discussed the operation of the Russian military base in Tajikistan and regional security, and Rahmon briefed Putin on the situation on the border with Afghanistan. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234049",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234049",
+      "published_at": "2026-11-20T10:35:05+00:00",
+      "text": "В Одесской области после атаки на энергетический объект ДТЭК без электричества остались более 41 тысячи потребителей Об этом сообщили в энергетической компании. В результате удара повреждена энергетическая инфраструктура региона, что привело к масштабным отключениям электроэнергии.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406830",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406830",
+      "published_at": "2026-11-20T10:27:51+00:00",
+      "text": "❕ Российско-американские переговоры по снятию раздражителей идут \"ни шатко ни валко\", заявил Сергей Лавров в интервью Андрею Кондрашову для ТАСС и ВГТРК.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102298",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102298",
+      "published_at": "2026-11-20T10:23:56+00:00",
+      "text": "По Польше: На территории Польши упали две российские ракеты и реактивный дрон-камикадзе, заявил глава Минобороны страны Владислав Косиняк-Камыш: \"В Новых Липовцах был обнаружен обломок ракеты Х-101. В Рудник-над-Санем также упала ракета, а в Молодыче был найден реактивный беспилотник\" Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198733",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198733",
+      "published_at": "2026-11-20T10:21:11+00:00",
+      "text": "🇺🇦 💩 Sewage problems are hitting Kiev region after the overnight attack. Water supply in Vishnevoye has been cut off completely because Kiev's sewer network has limited how much wastewater it takes in, the local water utility reports. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406828",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406828",
+      "published_at": "2026-11-20T10:21:04+00:00",
+      "text": "Главное из нового брифинга Минобороны России: ▪️ За неделю ВС РФ нанесли 2 массированных и 11 групповых ударов, поражены предприятия ВПК, объекты энергоинфраструктуры, военные аэродромы; ▪️ В течение недели поражены 12 сухогрузов, доставлявших на Украину вооружение и военную технику; ▪️ Российские средства ПВО сбили за неделю 13 ракет \"Фламинго\", 8 ракет \"Нептун\" и 6 808 беспилотников ВСУ самолетного типа; ▪️ ВСУ за неделю потеряли свыше 1 150 военных в зоне ответственности группировки \"Север\"; ▪️ Недельные потери ВСУ в зоне ответственности Южной группировки войск составили более 1 150 солдат; ▪️ ВСУ за неделю потеряли свыше 1 360 человек в зоне ответственности группировки \"Восток\"; ▪️ ВСУ за неделю потеряли до 145 военных в зоне ответственности группировки \"Днепр\"; ▪️ Недельные потери ВСУ в зоне ответственности группировки войск \"Центр\" составили более 2 375 солдат; ▪️ В зоне ответственности группировки \"Запад\" ВСУ за неделю потеряли свыше 1 495 военнослужащих. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198732",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198732",
+      "published_at": "2026-11-20T10:20:04+00:00",
+      "text": "🇵🇱 Polish Defense Minister Władysław Kosiniak-Kamysz says three Russian objects fell on Polish territory during the overnight strike on Ukraine: two missiles and a jet-powered drone. According to the minister, a Kh-101 cruise missile came down near Nowy Lipowiec, a second missile fell near Rudnik nad Sanem, and the drone landed near Mołodycz. Kosiniak-Kamysz also claimed that \"the date is not accidental,\" pointing to the \"coalition of the willing\" exercise taking place on November 20. No damage or casualties have been reported so far. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350165",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350165",
+      "published_at": "2026-11-20T10:19:44+00:00",
+      "text": "ПВО России за неделю сбила 6808 дронов ВСУ, 13 ракет \"Фламинго\" и восемь ракет \"Нептун\". 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234048",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234048",
+      "published_at": "2026-11-20T10:15:05+00:00",
+      "text": "Предварительная сводка применения крылатых и баллистических ракет по Киеву и другим регионам Украины. По сообщениям открытых источников, текущий ракетный удар — один из наиболее продолжительных за последнее время. Данные отражают только зафиксированные в этих сообщениях эпизоды и не охватывают все применённые средства поражения. @Warhronika",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102297",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102297",
+      "published_at": "2026-11-20T10:08:43+00:00",
+      "text": "Проблемы с канализацией в Киевской областью после ночной атаки Полностью остановлено водоснабжение в Вишневом из-за ограничения приема сточных вод 💩 в канализационные сети Киева, сообщает водоканал. Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77998",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77998",
+      "published_at": "2026-11-20T10:04:38+00:00",
+      "text": "Украинская ПВО, которую в Киеве называют ПеПеО, дружественным огнем уронила дрон прямо на дом-музей Кучмы в Черниговской области. Среди «захистныков» немало тех, у кого второй президент Украины вызывает отрыжку. Вспоминаю на майдане-2004 толпу, которая, обоссав подземные переходы на Крещатике, вылезла на улицу и с придыханием начала скандировать, четко разделяя слоги: «Ку — Чмо!», «Ку — Чмо!». Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

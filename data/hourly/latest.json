@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-20T09",
-  "generated_at_utc": "2026-11-20T10:02:21.620651+00:00",
-  "window_start_utc": "2026-11-20T09:00:00+00:00",
-  "window_end_utc": "2026-11-20T10:00:00+00:00",
+  "hour_id": "2026-11-20T10",
+  "generated_at_utc": "2026-11-20T11:30:10.487067+00:00",
+  "window_start_utc": "2026-11-20T10:00:00+00:00",
+  "window_end_utc": "2026-11-20T11:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 5
     },
     {
       "handle": "intelslava",
@@ -21,13 +21,13 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -44,44 +44,44 @@
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 1,
+      "pages": 2,
       "raw_count": 13
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 4
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "nab_ukraine",
@@ -99,210 +99,233 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 31,
-    "relevant_posts": 13,
-    "deduplicated_posts": 13,
-    "candidate_posts": 13
+    "raw_posts": 36,
+    "relevant_posts": 15,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
   },
   "posts": [
     {
-      "id": "rybar_in_english/35882",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35882",
-      "published_at": "2026-11-20T09:56:10+00:00",
-      "text": "📝 Don't rush to bury it 📝 Return of « Disk » to service In October, we drew attention to how Yandex specialists dealt with the consequences of strikes on data centers. Despite equipment damage and service disruptions, the company managed to restore operations fairly quickly. And fresh results confirm this. The company announced the restoration of access to 99.55% of data on Yandex Disk . Auto-upload of files from smartphones, archive downloads, and video playback are working again. The remaining data continues to be restored. The consequences of the attacks have not yet been completely eliminated, however, the main functions of the service are operating normally. Therefore, there is clearly no reason to panic over reports of malfunctions. Specialists continue restoration efforts, and the results of their work speak for themselves . 🖍 At the same time, the attacks themselves clearly demonstrate how much today depends on digital infrastructure . Data centers and network nodes ensure the operation of payment systems, communications, logistics, and enterprises. Disruptions in their operation can affect millions of users. ❗️ Digital infrastructure in the modern world has become one of the most important elements of any state's life. Therefore, studying such attacks and their consequences helps better understand the vulnerabilities of the enemy and its recovery capabilities when planning one's own operations. #mediatechnology #Russia #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "id": "tass_agency/406835",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406835",
+      "published_at": "2026-11-20T10:55:44+00:00",
+      "text": "▶️ Белоусов провел переговоры с министром обороны Узбекистана Кудратходжаевым , сообщает МО РФ. Россия и Узбекистан являются давними друзьями, сотрудничество оборонных ведомств двух стран достигло высокого уровня, отметил Белоусов. Министры подписали план сотрудничества на 2027 год. Видео: Минобороны России/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "strike"
+        "negotiation"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "sap_gov_ua/4541",
-      "channel": "sap_gov_ua",
-      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
-      "url": "https://t.me/sap_gov_ua/4541",
-      "published_at": "2026-11-20T09:55:09+00:00",
-      "text": "​​ Переправлення ухилянтів через Придністров’я: ВАКС застосував запобіжний захід до організатора злочину Слідчий суддя ВАКС застосував запобіжний захід у вигляді 500 тис. грн застави до особи, яку слідство вважає організатором схеми незаконного переправлення військовозобов’язаних чоловіків через Придністров’я до країн Європи. Суд також поклав на підозрюваного такі процесуальні обов’язки: - прибувати на кожну вимогу до детективів, прокурорів та/або суду; - не відлучатись за межі Львівської області без дозволу детективів та прокурорів; - повідомляти детективів, прокурорів про зміну свого місця проживання та/або роботи; - утримуватися від спілкування щодо обставин, викладених у чинному повідомленні про підозру, з визначеним колом осіб; - здати на зберігання органу Державної міграційної служби України свій паспорт (паспорти) для виїзду за кордон та інші документи, що дають право на виїзд з України. Зазначимо, що наразі у справі завершено досудове розслідування. Детективами НАБУ за дорученням прокурора САП відкрито матеріали справи стороні захисту для ознайомлення. 📌 Відповідно до ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198731",
+      "id": "DDGeopolitics/198737",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198731",
-      "published_at": "2026-11-20T09:48:57+00:00",
-      "text": "🇷🇺 💬 🇪🇺 If the EU troika accepts the invitation to visit Moscow, its visit will be arranged as swiftly and efficiently as possible , Russian Deputy Foreign Minister Sergey Ryabkov said. At the same time, the senior diplomat noted that the EU troika’s invitation to visit Moscow does not mean that it is joining the Russia-US-Ukraine talks format. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35880",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35880",
-      "published_at": "2026-11-20T09:37:23+00:00",
-      "text": "📝 Wikipedia issued a warning 📝 Wikipedia could be banned in Russia. The Prosecutor General's Office sent Wikimedia Foundation, which owns Wikipedia, a warning: its activities could be recognized as undesirable because the foundation conducts a \"targeted information campaign to destabilize the situation\" in the country. 🖍 The warning was issued under the law on measures against persons involved in violations of the rights and freedoms of Russian citizens. If \"destructive anti-Russian activities\" continue, Wikimedia Foundation will be recognized as an undesirable organization. For now, this is just a warning, not a decision. The foundation has the opportunity to change its approach. But judging by how Wikipedia is structured, there's little reason to expect that. 🚩 Complaints about Wikipedia have been voiced for a long time. Articles about World War II, the history of Russia and the USSR, and events in so-called Ukraine are repeatedly rewritten from anti-Russian positions. Anyone can edit them, so in reality the content is determined by the most active and organized authors, and they are mostly from countries unfriendly to Russia. 🏳️ Even the project's creators themselves say this. In August, Wikipedia co-founder Larry Sanger in an interview with Berliner Zeitung called it a \"propaganda organ\". According to him, due to anonymity rules, the encyclopedia is easy to use for propaganda purposes and the CIA has already edited it. Sanger also speaks of \"left-liberal bias\" among leading editors and believes that the resource is compromised as a source even for training neural networks. 📌 So the Prosecutor General's warning was long overdue. Reports that Wikipedia is edited in the interests of unfriendly countries and historical events are distorted have accumulated in abundance. If even one of its creators acknowledges CIA involvement, there's no point in talking about a \"free encyclopedia\". But it's important to look broader and think about an alternative. After all, not long ago Wikipedia was for many almost the only source of reference information. ❗️ But with the advent of neural networks, everything has changed: it's easier to ask an AI a question and get an answer right away than to read articles one by one. Therefore, building your own reference information space needs to follow the same principles. There's no point in creating another Wikipedia clone. It's much more useful to train your own AI models on a verified knowledge base: domestic books, scientific works and archives. Otherwise, questions about Russian history will continue to be answered by neural networks trained on the same articles rewritten overseas. #mediatechnology #Russia #USA ✉️ MAX 💸 Support us Original msg",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234043",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234043",
-      "published_at": "2026-11-20T09:37:01+00:00",
-      "text": "Киевляне остались без воды — жителей просят не покидать дома. \"Пострадали объекты Киевводоканала. Также из-за атак на энергосистему возникли перебои в водоснабжении столицы\", — говорится в сообщении местных коммунальных служб. Кличко также призвал горожан по возможности переходить на удаленку из-за поврежденных мостов. В Днепропетровске и части области ввели экстренные отключения света, сообщает ДТЭК.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/intelslava/98346"
-      ]
-    },
-    {
-      "id": "intelslava/98346",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98346",
-      "published_at": "2026-11-20T09:29:14+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Russia launches a large-scale strike on Ukrainian defense industry facilities, energy infrastructure, transport networks and military logistics using missiles and drones, according to the Russian Defense Ministry. • Kyiv region: Strikes hit an explosives and gunpowder facility in Brovary, a UAV assembly plant and the Fire Point missile assembly facility in Petrovskoe. • Lviv region: The Lviv Aviation Plant and the Zapadno-Ukrainskaya power substation in Khodoriv were hit. • Energy infrastructure: Strikes targeted the Burshtyn thermal power plant in Ivano-Frankivsk region and substations in Dnipropetrovsk, Chernihiv and Lviv regions. • Transport infrastructure: The Zatoka road-rail bridge in Odesa region, bridges in Kyiv region and railway locomotives in Dnipropetrovsk and Zhytomyr regions were hit. • Military logistics: A dry cargo ship carrying military supplies to Odesa was hit at sea. A warehouse in Mykolaiv region used to store cruise missiles was also struck. @Intelslava",
+      "url": "https://t.me/DDGeopolitics/198737",
+      "published_at": "2026-11-20T10:48:00+00:00",
+      "text": "🇳🇱 🇺🇦 ⚔️ 🇷🇺 Dutch arms maker brags its missiles brought down part of the Crimean Bridge Destinus, a Netherlands-based missile and drone maker, says its RUTA cruise missiles hit the Crimean Bridge two days in a row. The company is \"proud to support the Ukrainian…",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "energy",
-        "kyiv",
-        "missile",
-        "odesa",
-        "strike"
+        "missile"
       ],
-      "possible_duplicate_urls": [
-        "https://t.me/boris_rozhin/234043",
-        "https://t.me/boris_rozhin/234037"
-      ]
+      "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234041",
+      "id": "boris_rozhin/234050",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234041",
-      "published_at": "2026-11-20T09:17:01+00:00",
-      "text": "Пять районов Киева частично остались без электроснабжения, в других действуют аварийные отключения, сообщает энергетическая компания ДТЭК. В трех районах города встали троллейбусы, сообщает мэрия. По данным «Укроэнерго», аварийные отключения также введены в Львовской, Закарпатской и Ивано-Франковской областях на западе Украины. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "url": "https://t.me/boris_rozhin/234050",
+      "published_at": "2026-11-20T10:47:01+00:00",
+      "text": "«Президент последовательно и твёрдо поддерживает мирное завершение этой войны. Он неизменно это повторяет. Он специально отправил нас с Джаредом сюда, чтобы мы участвовали в этой работе — в «коалиции желающих», — и дал нам указание делать всё возможное, чтобы закончить эту войну и поддержать эти усилия. И по тому, что я услышал от него сегодня по телефону, он говорил об этих же принципах двум другим лидерам, с которыми встречался. То есть Украину и мирное завершение войны он сделал главной частью сегодняшней трёхсторонней встречи, и я думаю, это заслуживает похвалы. Спасибо. И если конкретно ответить на ваш вопрос об оружии: это очень небольшая отрасль по сравнению с размером экономики США, и ничто не обрадовало бы президента Трампа больше, чем если бы эта отрасль пошла на спад, потому что в мире наступил мир. И я думаю, когда участвуешь в этих войнах, только сильнее понимаешь, насколько война ужасна. Война — это минус для всех. От войны проигрывают все. А мир — это плюс для всех. И если можно перенаправить ресурсы так, чтобы не приходилось закупать оружие, это прекрасно. Но… Но вы видите, что произошло в Европе, потому что они слишком долго перенаправляли ресурсы в другую сторону. Так что, очевидно, нужен баланс. Но знайте: единственная мотивация президента Трампа здесь — очевидно, он хочет принести мир. Он считает, что мир даст огромные дивиденды всему миру, и он также хочет остановить страдания. Поэтому вопрос… опасение, которое вы поднимаете, никак не влияет на его мысли, и, очевидно, он действительно хочет всеми силами добиваться мира» (с) Уиткофф",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "procurement"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4542",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4542",
+      "published_at": "2026-11-20T10:40:02+00:00",
+      "text": "​​ ⚖️ ВАКС визнав необґрунтованими активи начальника територіального сервісного центру ГСЦ МВС в Харківській області 19 листопада 2026 року Вищий антикорупційний суд частково задовольнив позов прокурора САП, визнав необґрунтованими та стягнув у дохід держави актив на суму понад 3,5 млн грн, набутий начальником територіального сервісного центру ГСЦ МВС в Харківській області О. Стогнієм та його тещею І. Єременко. Позов мотивовано тим, що у 2021 році родина службовця по факту набула у власність квартиру в м. Харкові загальною вартістю понад 3,9 млн грн. Проте аналізом офіційних доходів і витрат родини зʼясовано, що вартість цього активу явно перевищує законні доходи відповідних осіб. Суд частково задовольнив позовні вимоги прокурора та визнав квартиру в м. Харкові необґрунтованим активом і стягнув з посадовця в дохід держави частково її вартість на загальну суму понад 3,5 млн грн. Зазначимо, що позов ґрунтувався на матеріалах НАЗК, ДБР та доказах, самостійно зібраних прокурором САП.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198734",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198734",
+      "published_at": "2026-11-20T10:36:21+00:00",
+      "text": "🇷🇺 🇹🇯 Putin says he invited Russian Defense Ministry officials to his meeting with Tajik President Emomali Rahmon to discuss security issues. According to Kremlin spokesman Dmitry Peskov, the two leaders discussed the operation of the Russian military base in Tajikistan and regional security, and Rahmon briefed Putin on the situation on the border with Afghanistan. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234049",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234049",
+      "published_at": "2026-11-20T10:35:05+00:00",
+      "text": "В Одесской области после атаки на энергетический объект ДТЭК без электричества остались более 41 тысячи потребителей Об этом сообщили в энергетической компании. В результате удара повреждена энергетическая инфраструктура региона, что привело к масштабным отключениям электроэнергии.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406830",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406830",
+      "published_at": "2026-11-20T10:27:51+00:00",
+      "text": "❕ Российско-американские переговоры по снятию раздражителей идут \"ни шатко ни валко\", заявил Сергей Лавров в интервью Андрею Кондрашову для ТАСС и ВГТРК.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102298",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102298",
+      "published_at": "2026-11-20T10:23:56+00:00",
+      "text": "По Польше: На территории Польши упали две российские ракеты и реактивный дрон-камикадзе, заявил глава Минобороны страны Владислав Косиняк-Камыш: \"В Новых Липовцах был обнаружен обломок ракеты Х-101. В Рудник-над-Санем также упала ракета, а в Молодыче был найден реактивный беспилотник\" Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198733",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198733",
+      "published_at": "2026-11-20T10:21:11+00:00",
+      "text": "🇺🇦 💩 Sewage problems are hitting Kiev region after the overnight attack. Water supply in Vishnevoye has been cut off completely because Kiev's sewer network has limited how much wastewater it takes in, the local water utility reports. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406828",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406828",
+      "published_at": "2026-11-20T10:21:04+00:00",
+      "text": "Главное из нового брифинга Минобороны России: ▪️ За неделю ВС РФ нанесли 2 массированных и 11 групповых ударов, поражены предприятия ВПК, объекты энергоинфраструктуры, военные аэродромы; ▪️ В течение недели поражены 12 сухогрузов, доставлявших на Украину вооружение и военную технику; ▪️ Российские средства ПВО сбили за неделю 13 ракет \"Фламинго\", 8 ракет \"Нептун\" и 6 808 беспилотников ВСУ самолетного типа; ▪️ ВСУ за неделю потеряли свыше 1 150 военных в зоне ответственности группировки \"Север\"; ▪️ Недельные потери ВСУ в зоне ответственности Южной группировки войск составили более 1 150 солдат; ▪️ ВСУ за неделю потеряли свыше 1 360 человек в зоне ответственности группировки \"Восток\"; ▪️ ВСУ за неделю потеряли до 145 военных в зоне ответственности группировки \"Днепр\"; ▪️ Недельные потери ВСУ в зоне ответственности группировки войск \"Центр\" составили более 2 375 солдат; ▪️ В зоне ответственности группировки \"Запад\" ВСУ за неделю потеряли свыше 1 495 военнослужащих. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198732",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198732",
+      "published_at": "2026-11-20T10:20:04+00:00",
+      "text": "🇵🇱 Polish Defense Minister Władysław Kosiniak-Kamysz says three Russian objects fell on Polish territory during the overnight strike on Ukraine: two missiles and a jet-powered drone. According to the minister, a Kh-101 cruise missile came down near Nowy Lipowiec, a second missile fell near Rudnik nad Sanem, and the drone landed near Mołodycz. Kosiniak-Kamysz also claimed that \"the date is not accidental,\" pointing to the \"coalition of the willing\" exercise taking place on November 20. No damage or casualties have been reported so far. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350165",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350165",
+      "published_at": "2026-11-20T10:19:44+00:00",
+      "text": "ПВО России за неделю сбила 6808 дронов ВСУ, 13 ракет \"Фламинго\" и восемь ракет \"Нептун\". 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234048",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234048",
+      "published_at": "2026-11-20T10:15:05+00:00",
+      "text": "Предварительная сводка применения крылатых и баллистических ракет по Киеву и другим регионам Украины. По сообщениям открытых источников, текущий ракетный удар — один из наиболее продолжительных за последнее время. Данные отражают только зафиксированные в этих сообщениях эпизоды и не охватывают все применённые средства поражения. @Warhronika",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102297",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102297",
+      "published_at": "2026-11-20T10:08:43+00:00",
+      "text": "Проблемы с канализацией в Киевской областью после ночной атаки Полностью остановлено водоснабжение в Вишневом из-за ограничения приема сточных вод 💩 в канализационные сети Киева, сообщает водоканал. Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77998",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77998",
+      "published_at": "2026-11-20T10:04:38+00:00",
+      "text": "Украинская ПВО, которую в Киеве называют ПеПеО, дружественным огнем уронила дрон прямо на дом-музей Кучмы в Черниговской области. Среди «захистныков» немало тех, у кого второй президент Украины вызывает отрыжку. Вспоминаю на майдане-2004 толпу, которая, обоссав подземные переходы на Крещатике, вылезла на улицу и с придыханием начала скандировать, четко разделяя слоги: «Ку — Чмо!», «Ку — Чмо!». Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
         "kyiv"
       ],
       "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/77995",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/77995",
-      "published_at": "2026-11-20T09:12:50+00:00",
-      "text": "«Квазичлен» НАТО предлагает разместить на Украине военные базы США и без НАТО. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406808",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406808",
-      "published_at": "2026-11-20T09:10:46+00:00",
-      "text": "Гражданский объект промышленности, объект энергетики и частный жилой дом повреждены ночью в результате массированной атаки ВСУ в Смоленской области, сообщил глава региона Анохин.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406807",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406807",
-      "published_at": "2026-11-20T09:06:05+00:00",
-      "text": "Главные новости к этому часу: ▪️ Российские войска поразили предприятия ВПК и транспортную инфраструктуру на Украине. ТАСС собрал основное о пораженных целях. ▪️ МИД РФ передаст материалы по удару ВСУ по многоквартирному дому в Юбилейном в ООН и ОБСЕ. ▪️ Под Смоленском из-за атаки ВСУ поврежден объект энергетики. О последствиях атак ВСУ — в материале ТАСС. ▪️ Россия прорабатывает визит представителей \"евротройки\" в Москву, сообщил Рябков, отвечая на вопрос ТАСС. Собрали ключевые заявления замглавы МИД. ▪️ МЧС Белоруссии направило специалистов на границу с Литвой для мониторинга радиационной обстановки после пожара на Игналинской АЭС. ▪️ Миграционная служба Швеции не будет выдавать спортсменам из РФ визы. ▪️ Обыск прошел в одном из офисов партии Марин Ле Пен \"Национальное объединение\" в Париже, сообщает BFMTV. ▪️ Продажу вейпов прекратят в Кемеровской области с 1 марта 2027 года, передает корреспондент ТАСС. ▪️ Более 100 пассажиров круизного лайнера заразились неизвестной болезнью. ▪️ Франшиза \"Маша и Медведь\" за полгода набрала на Netflix почти 50 млн просмотров. ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "moscow",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102296",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102296",
-      "published_at": "2026-11-20T09:06:02+00:00",
-      "text": "Даже «квазичленство» Украины в НАТО неприемлемо для России, заявил замглавы МИД РФ Сергей Рябков. По его словам, Россия не закрывается от диалога по гарантиям безопасности Украины, но не намерена обсуждать ее членство в альянсе. ✨ Правильно, вступление в НАТО Украине уже фактически давно не нужно, как и иные бумажные бумаги . НАТО уже на ( хотя здесь даже мы бы сказали \" В \" ) Украине и давно. Двумя ногами. Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102295",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102295",
-      "published_at": "2026-11-20T09:04:20+00:00",
-      "text": "❗️ АЭС на Украине вынужденно снизили мощность генерации из-за ударов по электростанциям, подстанциям систем передачи и распределения электроэнергии, сообщает Минэнерго. Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234037",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234037",
-      "published_at": "2026-11-20T09:03:01+00:00",
-      "text": "Хроника ударов по территории Украины 19 ноября 2026 – 20 ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Киеве (Искандер-М, Цирконы, Герани), Николаевской, Одесской областях (Искандер-М, Герани), Львовской, Винницкой, Хмельницкой, Ивано-Франковской, Житомирской, Киевской, Полтавской и Черниговской областях (Герани) 19 ноября 2026 года. · 07:33 Шостка Сумской области — взрывы. Герани. · 07:50 Затока Одесской области — взрывы. УМПК. · 08:05 Окрестности Измаила Одесской области и Шостка Сумской области — взрывы. Герани. · 08:30 Затока Одесской области — взрыв. Герань. · 08:52–09:00 Киев — взрывы. Герани. · 09:10 Васильков Киевской области — взрыв. Герань. · 09:20 Вознесенск Николаевской области — взрыв. Герань. · 09:55 Затока Одесской области — взрыв. Искандер-М. · 10:15 Чугуев Харьковской области и Буча Киевской области — взрывы. Герани. · 10:25 Коростень Житомирской области — взрыв. Герань. · 10:30 Сумская область — взрывы. УМПК. · 10:35 Донбасс и Харьковская область — взрывы. УМПК. · 11:30 Славянск — взрывы. УМПК. · 11:55 Донбасс и Харьковская область — взрывы. УМПК. · 12:10 Окрестности Коростеня Житомирской области и Полтавская область — взрывы. Герани. · 12:13–12:20 Запорожье — взрывы. Герани. · 12:45 Киев — взрыв. Герань. · 13:10–13:35 Донбасс — взрывы. УМПК. · 13:15 Решетиловка Полтавской области — взрыв. Герань. · 13:19 Киев — взрыв. Герань. · 13:20 Акватория Черного моря, напротив Одессы — взрыв. Герань. · 13:30 Затока Одесской области — взрывы. Герани. · 13:37 Киев — взрыв. Герань. · 13:47 Окрестности Кременчуга — взрыв. Герань. · 14:10 Киев — взрыв. Герань. · 14:27 Кривой Рог — взрыв. Герань. · 14:50 Ильичевск Одесской области и Киев — взрывы. Герани. · 15:05 Кривой Рог — взрыв. Герань. · 15:40 Киев — взрыв. Герань. · 15:43 Миргород Полтавской области — взрыв. Герань. · 15:50 Днепропетровск — взрыв. Герань. · 15:55 Буча Киевской области — взрыв. Герань. · 16:00–16:27 Киев — взрывы. Герани. · 16:50 Киев и Борисполь Киевской области — взрывы. Герани. · 17:05–17:26 Киев — взрывы. Герани. · 17:27 Днепропетровск — взрыв. Герань. · 17:50–17:57 Окрестности Запорожья — взрывы. УМПК. · 18:30 Киев — взрыв. Герань. · 18:38 Кременчуг Полтавской области — взрыв. Герань. · 18:44 Днепропетровск — взрыв. Герань. · 19:00 Харьковская область — взрывы. УМПК. · 19:05 Кременчуг Полтавской области — взрыв. Герань. · 19:20 Днепропетровск — взрыв. Герань. · 19:20 Мена Черниговской областях — взрыв. Герань. · 19:55 Днепропетровск — взрыв. Герань. · 20:25 Кременчуг — взрывы. Герани. · 20:30 Днепропетровск — взрыв. Герань. · 20:37 Кременчуг — взрыв. Герань. · 21:20 Киев — взрывы. Герани. · 21:35 Кривой Рог — взрыв. Герань. · 21:40 Днепропетровская область — взрывы. УМПК. · 21:55 Окрестности Коростеня Житомирской области — взрыв. Герань. · 22:20 Жёлтые Воды Днепропетровской области — взрыв. Герань. · 22:25 Донбасс — взрывы. УМПК. · 22:45 Конотоп Сумской области — взрывы. Герани. · 22:50 Окрестности нп Новый Буг Николаевской области — взрыв. искандер-м. · 23:00 Окрестности Николаева — взрывы. Герани. · 23:00 Буялык Одесской области — взрывы. искандер-м. · 23:10 Донбасс — взрывы. УМПК. · 23:40 Харьковская область — взрывы. УМПК. На фото удар ракеты \"Циркон\" и последствия ракетного удара в Киеве. @lost_armour",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv",
-        "kyiv",
-        "missile",
-        "odesa",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/intelslava/98346"
-      ]
     }
   ]
 }
