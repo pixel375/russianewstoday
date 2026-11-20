@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    120
+  ],
+  "published_at_utc": "2026-11-20T21:26:39.744570+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-20T20",
+  "items": [
+    {
+      "item_id": "2026-11-20T20:1",
+      "title": "Russian court freezes 57 million rubles in defence procurement corruption case",
+      "summary": "Russia's Investigative Committee said a Rostov court seized property, cash and bank accounts worth 57 million rubles belonging to three defendants, including former Zvezda-Strela director Alexander Shafranovich. Investigators allege the group inflated prices for defence-related products, misappropriating more than 110 million rubles, and engaged in bribery; the allegations remain before the courts.",
+      "post_url": "https://t.me/russianewstodayofficial/120",
+      "category": "other",
+      "hour_id": "2026-11-20T20",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T20:2",
+      "title": "Russian marines reportedly intercept Ukrainian DARTS attack drone",
+      "summary": "A Russian military-linked report says an interceptor drone called Yolka, operated by Russia's 40th Marine Brigade, struck a Ukrainian DARTS fixed-wing attack drone as it descended toward a target. The account describes an interception but does not identify the location or report further damage.",
+      "post_url": "https://t.me/russianewstodayofficial/120",
+      "category": "other",
+      "hour_id": "2026-11-20T20",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
