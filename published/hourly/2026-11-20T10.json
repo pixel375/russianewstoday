@@ -1,0 +1,48 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    111
+  ],
+  "published_at_utc": "2026-11-20T11:30:50.825297+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-20T10",
+  "items": [
+    {
+      "item_id": "2026-11-20T10:1",
+      "title": "Poland says two Russian missiles and a drone fell on its territory",
+      "summary": "Polish Defence Minister Wladyslaw Kosiniak-Kamysz said two Russian missiles and a jet-powered drone fell in Poland during the overnight attack on Ukraine. He identified debris from a Kh-101 missile near Nowy Lipowiec, another missile near Rudnik nad Sanem and a drone near Molodycz; no casualties or damage were reported.",
+      "post_url": "https://t.me/russianewstodayofficial/111",
+      "category": "other",
+      "hour_id": "2026-11-20T10",
+      "source_handles": [
+        "ddgeopolitics",
+        "dva_majors"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T10:2",
+      "title": "Russia claims 6,808 Ukrainian drones intercepted over the past week",
+      "summary": "Russia's Defence Ministry said its air defences intercepted 6,808 Ukrainian fixed-wing drones, 13 Flamingo missiles and eight Neptune missiles over the past week. It also claimed two large-scale and 11 group strikes against Ukrainian military-industrial, energy and airfield targets, without providing independently established damage figures.",
+      "post_url": "https://t.me/russianewstodayofficial/111",
+      "category": "other",
+      "hour_id": "2026-11-20T10",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T10:3",
+      "title": "Water supply halted in Vyshneve amid Kyiv sewer restrictions",
+      "summary": "The local water utility reportedly halted water supply in Vyshneve, Kyiv region, after Kyiv's sewer network restricted wastewater intake following the overnight attack. The disruption adds to water and power service problems reported around the capital.",
+      "post_url": "https://t.me/russianewstodayofficial/111",
+      "category": "other",
+      "hour_id": "2026-11-20T10",
+      "source_handles": [
+        "ddgeopolitics",
+        "dva_majors"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
