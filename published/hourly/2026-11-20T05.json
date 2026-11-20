@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    106
+  ],
+  "published_at_utc": "2026-11-20T06:28:18.026372+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-20T05",
+  "items": [
+    {
+      "item_id": "2026-11-20T05:1",
+      "title": "Russian Defence Ministry says overnight strikes hit military-linked facilities across Ukraine",
+      "summary": "Russia's Defence Ministry said its overnight missile-and-drone attack struck defence-industry enterprises, storage terminals, energy sites and transport infrastructure in Kyiv and five Ukrainian regions, including Lviv and Ivano-Frankivsk. The ministry described the targets as connected to Ukraine's armed forces; its statement did not establish the extent of damage.",
+      "post_url": "https://t.me/russianewstodayofficial/106",
+      "category": "other",
+      "hour_id": "2026-11-20T05",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T05:2",
+      "title": "Reports describe emergency power cuts in Lviv and outages in Kryvyi Rih",
+      "summary": "Emergency electricity outages were reported in Lviv and power losses in Kryvyi Rih following the overnight strikes. Trolleybus services were also reportedly suspended in several Kyiv districts, adding to disruption after the attacks.",
+      "post_url": "https://t.me/russianewstodayofficial/106",
+      "category": "other",
+      "hour_id": "2026-11-20T05",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T05:3",
+      "title": "Russia says air defences intercepted 310 Ukrainian drones overnight",
+      "summary": "Russia's Defence Ministry reported that its air defences shot down 310 Ukrainian drones over Russian regions during the night. The statement did not provide a regional breakdown or independently assessed damage figures.",
+      "post_url": "https://t.me/russianewstodayofficial/106",
+      "category": "other",
+      "hour_id": "2026-11-20T05",
+      "source_handles": [
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
