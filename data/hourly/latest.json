@@ -1,27 +1,27 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-20T15",
-  "generated_at_utc": "2026-11-20T16:28:35.466231+00:00",
-  "window_start_utc": "2026-11-20T15:00:00+00:00",
-  "window_end_utc": "2026-11-20T16:00:00+00:00",
+  "hour_id": "2026-11-20T16",
+  "generated_at_utc": "2026-11-20T17:24:36.498516+00:00",
+  "window_start_utc": "2026-11-20T16:00:00+00:00",
+  "window_end_utc": "2026-11-20T17:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 11
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "AussieCossack",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 8
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 5
     },
     {
       "handle": "rybar_in_english",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 4
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "nab_ukraine",
@@ -93,99 +93,257 @@
       "handle": "sap_gov_ua",
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 23,
-    "relevant_posts": 6,
-    "deduplicated_posts": 6,
-    "candidate_posts": 6
+    "raw_posts": 37,
+    "relevant_posts": 15,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
   },
   "posts": [
     {
-      "id": "bricsnews/19744",
+      "id": "DDGeopolitics/198786",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198786",
+      "published_at": "2026-11-20T16:51:30+00:00",
+      "text": "⚠️ 🇮🇪 🇪🇺 \"They are trying to starve me and my family into submission\" Irish journalist and our friend Chay Bowes has given an update on what the fascist entity known as the EU has done to his life since it put him on its sanctions list this month. According to Bowes, his wife's Dublin business, which has nothing to do with his work and supports their four young children, has had its account closed. So has her personal bank account. Amazon, PayPal and his online bank have all shut him out. He can't pay a phone bill, buy food or receive money, and the banks say they're not allowed to let anyone help him. To pay for food, heating and bills, the family now has to apply to the Central Bank of Ireland for a license to release money for basic needs, and the Central Bank decides how much of their own money they can use. If that's delayed, or the frozen business can't keep going, they'll have to turn to the social welfare office a month before Christmas. Bowes has never claimed welfare in his life, and says he has paid millions in taxes and employed hundreds of people in Ireland. He also has to declare everything he owns to the EU. He has not been charged with any crime, and he hasn't been allowed to defend himself before a judge or jury. His lawyers say no Irish court can help him. His only option is an appeal in Luxembourg, which will take two months just to lodge and at least a year to decide. The \"evidence\" listed against him includes his 2023 speech at the UN Security Council calling for de-escalation and an end to the war, and a US Defense Department-funded study at Clemson University tying his social media posts to \"destabilizing Ukraine.\" And then, he says, it was whispered to him: recant your views on Ukraine and Russia, and all of this could go away. The sanctions were signed off by all 27 EU foreign ministers, including Ireland's. Bowes holds Taoiseach Micheál Martin's government responsible for letting it happen to an Irish citizen. 📢 This only stops if it becomes too loud to ignore. Share this post and Chay's video. Tag journalists, MPs and MEPs, especially Irish ones, and ask them one question: why is an Irish citizen being starved without a charge, a trial or a judge? Write to Irish media. Make noise. Today it's Chay. Tomorrow it's you. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19746",
       "channel": "bricsnews",
       "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19744",
-      "published_at": "2026-11-20T15:58:15+00:00",
-      "text": "JUST IN: 🇺🇸 🇺🇦 🇷🇺 US reportedly offers Ukraine NATO membership in exchange for giving up land to Russia. @BRICSNews",
+      "url": "https://t.me/bricsnews/19746",
+      "published_at": "2026-11-20T16:43:00+00:00",
+      "text": "JUST IN: 🇺🇸 🇺🇦 President Trump wants Ukraine peace deal reached before January. @BRICSNews",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350183",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350183",
-      "published_at": "2026-11-20T15:32:27+00:00",
-      "text": "Попытки возвести \"санитарный кордон\" вокруг России и изолировать ее дорого обойдутся их инициаторам, заявили в МИД. Другие заявления ведомства о решении Эстонии закрыть границу с Россией: 🔹 Временного поверенного в делах Эстонии вызвали в МИД. 🔹 Решение Таллина закрыть пограничные пункты пропуска носит конфронтационный характер и направлено на дальнейшее обострение отношений с Москвой. 🔹 Закрытие границы обернется серьезными негативными последствиями для экономики и социальной сферы Эстонии. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30702",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30702",
-      "published_at": "2026-11-20T15:25:40+00:00",
-      "text": "Cutting supply arteries The Novorossiysk paratroopers' drones destroy enemy logistics in Zaporozhye region. 💥 A series of precise strikes hit: ▪️ ground robotic systems with fuel, ammunition, and food supplies, ▪️ pickup trucks for infantry. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234086",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234086",
-      "published_at": "2026-11-20T15:15:10+00:00",
-      "text": "Россиян начнут предупреждать о звонках из-за рубежа с марта 2027 года. На экране телефона будет появляться надпись «Иностранный вызов». Как рассказали в Минцифры, услуга будет бесплатной. В ведомстве отметили, что проект позволит сократить риски телефонного мошенничества. Аферисты используют звонки с зарубежных номеров, пользуясь тем, что в ряде стран они визуально схожи с российскими. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406876",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406876",
-      "published_at": "2026-11-20T15:10:05+00:00",
-      "text": "РФ неоднократно предупреждала иностранных дипломатов, включая австрийских, об опасности пребывания на Украине . Ответственность за возможные негативные последствия полностью лежит на Вене, сообщили в посольстве России. Ранее канцлер и глава МИД Австрии обвинили РФ в нанесении удара по зданию австрийского диппредставительства в Киеве.",
+      "id": "DDGeopolitics/198785",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198785",
+      "published_at": "2026-11-20T16:41:46+00:00",
+      "text": "🇺🇸 FT: Trump wants a Ukraine deal by early January, before Democrats take over Congress The Trump administration has told Ukrainian and European officials it wants a peace agreement between Ukraine and Russia by early January, the Financial Times reports, citing four sources familiar with the talks. Witkoff and Kushner have spent the past days pressing all sides to speed up negotiations. The reason is the calendar. After the Republicans' midterm defeat, a Democratic-led Congress is expected to push for more support for Ukraine and more pressure on Moscow. According to the Kyiv Independent, US envoys have been warning the Kremlin that it could lose leverage if it waits. Kiev fears Trump could force it to accept Russian terms, including territorial concessions, for the sake of a quick deal, though FT says Washington hasn't put any specific demands on the table. After talks in Berlin, Kushner said Trump won't impose a deal. \"The Americans are in a hurry, Putin isn't,\" a European official told the FT. Sources say the Kremlin expects to strengthen its position with new strikes and is unlikely to sign anything quickly without its key demands being met. Russia's chief negotiator, Vladimir Medinsky, put it plainly last week: \"every inch of our land will be returned to Russia, one way or another.\" 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "kyiv",
+        "moscow",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/198781",
+        "https://t.me/rian_ru/350187",
+        "https://t.me/wargonzo/38535"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198783",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198783",
+      "published_at": "2026-11-20T16:36:28+00:00",
+      "text": "🇺🇦 🇪🇺 EU Ambassador to Ukraine Katarina Materova complains that she was “caught in shelling” twice in a day First, a UAV “exploded overhead” as she was getting out of her car in central Kiev After that, she headed to Lvov hoping to “get a break.” But then the city was also hit. Materova did not forget to attach photos of herself sitting gloomily in the corridors during air raids. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35889",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35889",
+      "published_at": "2026-11-20T16:32:42+00:00",
+      "text": "📝 Romanian window widened 📝 nuances of Ukrainian grain exports Russian Armed Forces strikes on ports and shipping of so-called Ukraine significantly disrupted grain exports by sea. Grain shipments from Greater Odesa in September of this year fell to 810 thousand tons versus 2.1 million tons a year earlier. However, the Kyiv regime again finds an outlet in Romanian Constanța. According to port operator data, from January to October 2026, 1.65 million tons of Ukrainian products passed through it — five times more than a year earlier. However, this represents seven times less than the record 11.7 million tons for the same period in 2023. 📌 On one hand, the sharp growth compared to last year shows that Constanța has again become a critically important alternative hub for the Kyiv regime. But the sevenfold lag behind 2023 levels means that the logistics channel has not yet restored its former capacity — which means Ukrainian agricultural exports remain vulnerable to disruptions on Black Sea and Danube routes. So the growth in Ukrainian transit through Constanța does not mean the logistics crisis has been overcome. And the route to Romanian ports remains dangerous , and because of this more expensive . #Romania #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "odesa",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98350",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98350",
-      "published_at": "2026-11-20T15:03:41+00:00",
-      "text": "🇷🇺 🇩🇪 🇫🇷 🇬🇧 — Russia invites Germany, France, and the UK to Moscow for talks on Ukraine and European security, with Moscow awaiting their response — Deputy Foreign Minister Sergei Ryabkov. German Defence Minister Boris Pistorius welcomes the invitation but says Russia must demonstrate a willingness to negotiate a ceasefire for the talks to produce results. @Intelslava",
+      "id": "DDGeopolitics/198782",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198782",
+      "published_at": "2026-11-20T16:27:38+00:00",
+      "text": "🇷🇺 🟢 🇲🇱 The Russian Armed Forces’ Africa Corps and Malian special forces freed 24 Malian soldiers who had been held captive by terrorists for more than six months. The operation was carefully planned, and its active phase lasted no more than 10 minutes. The rescue of the captives is a clear example of the work Russian troops carry out in Africa. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198781",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198781",
+      "published_at": "2026-11-20T16:27:24+00:00",
+      "text": "🇷🇺 🇦🇹 Russia's embassy in Austria says Moscow has repeatedly warned foreign diplomats, Austrians included, about the dangers of staying in Ukraine, and that responsibility for any consequences lies entirely with Vienna. The statement came after Austrian Chancellor Christian Stocker and Foreign Minister Beate Meinl-Reisinger accused Russia of striking the Austrian embassy building in Kiev during yesterday's attack. Moscow's warnings this year: ➡️ May 4: Russia's Defense Ministry warned of strikes on central Kiev if Ukraine tried to disrupt the May 9 Victory Day celebrations. ➡️ May 6: Foreign Ministry spokeswoman Maria Zakharova sent a note to all foreign missions urging the \"timely evacuation\" of diplomats from Kiev, warning of strikes on \"decision-making centers.\" ➡️ May 25: The Foreign Ministry announced \"systematic strikes\" on Kiev's military-industrial facilities, including decision-making centers and command posts, and told foreign diplomats to \"leave the city as soon as possible.\" Lavrov told Rubio the same day that the US should evacuate its embassy staff. ➡️ October 3: The Foreign Ministry warned all foreign nationals, including embassy staff, against staying anywhere in Ukraine, saying those who ignore the warning \"bear full responsibility for any adverse consequences.\" Europe treated every one of these warnings as a bluff. Paris called an evacuation \"out of the question,\" Brussels said it wasn't moving anyone, Berlin and Oslo summoned Russia's ambassadors, and nearly 50 countries signed a UN statement saying the warnings were \"something which we cannot accept.\" In October, the EU's ambassador in Kiev, Katarina Maternova, summed up the attitude: \"Russia says that foreign diplomats must leave Kiev, or they risk their lives. We are staying.\" They stayed. Now they're shocked. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "kyiv",
         "moscow",
-        "negotiation"
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/198785",
+        "https://t.me/wargonzo/38535"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198779",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198779",
+      "published_at": "2026-11-20T16:22:30+00:00",
+      "text": "🇺🇦 The results of strikes on energy infrastructure in Kiev were shown by DTEK. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/wargonzo/38535"
+      ]
+    },
+    {
+      "id": "rian_ru/350187",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350187",
+      "published_at": "2026-11-20T16:15:32+00:00",
+      "text": "Главные новости дня : 🔹 Путин прибыл в Таджикистан, где провел переговоры с Рахмоном. 🔹 Российские войска нанесли массированный удар, среди целей - мосты в Киеве. 🔹 Три человека погибли при атаке ВСУ на поселок в Луганске. 🔹 Путин призвал украинцев думать о будущем своих детей и переходить на правильную сторону истории. 🔹 Иноагентов Любовь Соболь, Максима Каца, Илью Пономарева, Петра Верзилова и Аббаса Галлямова внесли в реестр попавших под временные ограничения. 🔹 ЦБ предложил меру, которая позволит снизить стоимость ОСАГО для аккуратных водителей. 🔹 Швеция не будет выдавать визы российским спортсменам. 🔹 Эстония закроет все автомобильные КПП на границе с Россией 1 декабря. 🔹 Уже пятая в этом году общенациональная забастовка против милитаризации школ идет в Германии. 🔹 Отечественную версию GTA предложили создать в России. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/198785",
+        "https://t.me/wargonzo/38535"
+      ]
+    },
+    {
+      "id": "mod_russia_en/30704",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30704",
+      "published_at": "2026-11-20T16:15:28+00:00",
+      "text": "❗️ During the day, the Armed Forces of the Russian Federation launched strikes with unmanned aerial vehicles against power facilities, logistics and port infrastructure, as well as vessels used in the interests of the AFU. 💥 As a result of the strikes, the following targets were hit: ▪️ a logistics centre in the village of Gorodnya in Chernigov region, which stored and distributed military cargo to the AFU; ▪️ the Slobozhanskaya combined heat and power plant in Kharkov region, which provides operation of Ukrainian defence industry enterprises; ▪️ a dry cargo ship delivering dual-use cargo to the AFU, as well as port infrastructure reassigned for the unloading of military cargo in the port of Chernomorsk in Odessa region. 🔥 In addition, a railway locomotive used for the transport of goods to support the AFU was hit close to the Ryadovoye railway station of Dnepropetrovsk region. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38535",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38535",
+      "published_at": "2026-11-20T16:14:01+00:00",
+      "text": "Ответ Москвы: четыре опасных сценария Вчера Владимир Путин пообещал, что ответ на удар по Крымскому мосту будет для Киева гораздо болезненнее. Одновременно он заявил, что вариант ограниченного прекращения огня, который ранее обсуждался на заседании Совета безопасности, теперь снят с повестки. Президент также дал понять, что Россия может задействовать вооружение, которое до сих пор не применялось. Что именно он имел в виду, пока неизвестно. Но если привычные варианты ответа больше не рассматриваются, стоит попробовать разобраться, какие решения могут готовиться в Москве. Первое, что приходит на ум, – «Орешник». Сам комплекс уже не новинка, однако до сих пор его применение носило испытательный и демонстрационный характер. Противника эта демонстрация, похоже, не вразумила. Зато сами испытания дали весьма наглядное представление о возможностях комплекса. На опубликованных кадрах последствий удара были видны пробоины в перекрытиях подземной парковки на нескольких уровнях. И это было сделано инертными боевыми блоками без взрывчатого заряда. Вероятно, скоро мы увидим полноценные боевые испытания «Орешника» в неядерном исполнении. Целью может стать особо защищённый подземный объект – например, командный пункт, обеспечивающий управление украинскими войсками. Не исключено и поражение объектов, где могут находиться представители высшего военного и политического руководства киевского режима. В этом году Россия уже перешла не одну «красную линию». Вторым вариантом может стать попытка окончательно лишить Украину устойчивой энергетической системы. Причём на этот раз под ударом может оказаться то, что ранее не подвергалось атакам и долгое время оставалось основой украинской генерации. Речь о распределительной инфраструктуре трёх действующих атомных электростанций. При этом сами атомные станции не обязательно подвергать непосредственной атаке: достаточно уничтожить распределительные станции, обеспечивающие передачу выработанной ими электроэнергии в общую сеть. Потеря этой инфраструктуры лишит АЭС возможности выдавать мощность, а операторам придётся останавливать энергоблоки. В случае уничтожения распределительных станций всех трёх АЭС Украина рискует окончательно и беспросветно погрузиться во тьму. Третий вариант способен изменить не только характер, но и географию и всю судьбу конфликта. Речь о возможных ударах по европейским объектам производства и хранения вооружений, предназначенных для Украины. До сих пор европейские государства спокойно снабжали Киев оружием и указывали цели, рассчитывая, что российские ответные действия останутся в пределах украинской территории. Но что если Москва решит пересмотреть это негласное правило? Каким будет ответ Европы, неспособной договориться даже о едином представителе на переговорах? Наконец, есть ещё один неожиданный вариант русского возмездия. Это Иран. По американским оценкам, иранский арсенал сейчас насчитывает от 1500 до 2500 баллистических ракет. При этом иранское руководство уже предупреждало, что в случае новой атаки может нанести удары по американским военным объектам в европейских странах. Теоретически в ответ на новый американский обстрел Тегеран может самостоятельно расширить географию противостояния с Западом, причём не обязательно ограничиваться американскими базами. Под ударом могут оказаться и объекты, связанные с производством и поставками вооружений для Украины. Как и сама Украина, о чём руководство Исламской Республики тоже уже предупреждало. Разумеется, всё перечисленное – всего лишь предположения, а не сведения о принятых решениях. Реальный ответ может оказаться совершенно иным. Но нельзя не обратить внимания на совпадение по времени: накануне Путин, Трамп и Си Цзиньпин провели первый в истории трёхсторонний саммит. Украина и Иран фигурировали в повестке их переговоров, хотя опубликованные итоги встречи не дают оснований говорить о каких-либо конкретных договорённостях. Что ещё могли обсуждать лидеры за закрытыми дверями, мы не знаем. Но мы точно знаем, что единая и сильная Европа не выгодна ни одному из участников этих переговоров. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "energy",
+        "kyiv",
+        "missile",
+        "moscow",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/198785",
+        "https://t.me/DDGeopolitics/198781",
+        "https://t.me/DDGeopolitics/198779",
+        "https://t.me/rian_ru/350187"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/198774",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198774",
+      "published_at": "2026-11-20T16:13:16+00:00",
+      "text": "🇵🇱 POLAND PLACES ALL PATRIOT AIR DEFENCE SYSTEMS ON HIGH ALERT. Poland has urgently placed all of its Patriot air defence systems on combat alert following the discovery of debris from two missiles and a suspected jet-powered drone on Polish territory, according to Defence Minister Władysław Kosiniak-Kamysz. According to the Polish Defence Minister, a Russian Kh-101 cruise missile crashed near Nowy Lipowiec in Lublin Voivodeship. Debris from another missile was discovered near Rudnik nad Sanem in Subcarpathian Voivodeship, while a suspected jet-powered drone was found near Mołodycze. Kosiniak-Kamysz confirmed that Polish airspace had been violated by objects originating from the Russian Federation. Patriot air defence systems stationed near Rzeszów-Jasionka Airport and Świdnik have been placed on combat alert. Additional defences, including POPRAD and Pilica Plus systems, helicopters and three Territorial Defence brigades, have also been mobilised. The Defence Minister described the incident as one of the largest security threats to Poland since the beginning of Russia’s full-scale invasion of Ukraine, warning of the serious consequences of Russian military operations spilling over into Polish territory. He also pointed to the timing of the incident, which coincides with exercises involving the so-called Coalition of the Willing taking place on 20 November. Polish Prime Minister Donald Tusk has issued a stark warning about the escalating situation, as tensions along NATO’s eastern flank continue to rise. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198773",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198773",
+      "published_at": "2026-11-20T16:10:11+00:00",
+      "text": "🇬🇧 🇵🇱 UK Defence Secretary Strating, speaking against the backdrop of Polish military equipment, stated that the “coalition of the willing” will deploy troops to Ukraine regardless of Putin’s demands and Russia’s interests. “What happened last night [Poland’s statement about the incoming missile] is another example of a Russian provocation aimed at splitting Europe and forcing Ukraine’s allies to abandon their support for its fight for freedom and democracy. The message we are sending is perfectly clear: Europe will not back down from its support for Ukraine. We will not allow Putin to split our continent. We understand that the front line in Ukraine is the front line for freedom and democracy around the world. Therefore, we will not be intimidated. We will support Ukraine for as long as it takes. Today’s exercises also demonstrate our readiness. Multinational forces for Ukraine are ready to begin their tasks as soon as hostilities cease. I am very proud of all our service members who participated in these exercises. They were a great success, considering that only four months were allocated for their preparation. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198772",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198772",
+      "published_at": "2026-11-20T16:06:01+00:00",
+      "text": "🇫🇷 🍕 🇺🇦 France is now comparing Ukraine to pizza. “Just two pizzas a year” French National Assembly deputy Carole Guillaume is trying to convince her compatriots that helping Ukraine costs them nothing. “Jean-Luc Mélenchon and Marine Le Pen are telling you that our support for Ukraine is bankrupting France. So how much does this war actually cost us? Billions? Yes. Since 2022, France has committed to providing approximately 26 billion euros in aid – directly and through European mechanisms. But part of these funds comes from frozen Russian assets. Part of it is loans. Another part is old military equipment that has been decommissioned. In the end, the amount directly borne by the French budget is approximately 2 billion euros per year. If you divide this amount among all residents of France, it comes to 30 euros per person, which is the cost of two pizzas a year. But let’s imagine that we stop the aid. The Ukrainian army weakens. It could collapse. Russia advances.” 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4555",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4555",
+      "published_at": "2026-11-20T16:02:30+00:00",
+      "text": "​​ ⚖️ ВАКС затвердив угоду про визнання винуватості з ексдепутатом Луцької міськради 19 листопада 2026 року суддя ВАКС затвердила угоду про визнання винуватості, укладену між прокурором САП та колишнім депутатом Луцької міськради, якого спільно з депутатами міськради та облради викрили на одержанні неправомірних вигод. Колишній депутат міськради повністю визнав свою вину та зобов’язався надати викривальні покази щодо інших осіб, залучених до вчинення цих злочинів. Вироком суду його визнано винуватим у вчиненні злочинів, передбачених ч. 3 ст. 368, ч. 4 ст. 368 КК України, та призначено покарання у вигляді 8 років позбавлення волі з позбавленням права обіймати посади в органах державної влади та місцевого самоврядування на строк 3 роки та конфіскацією частини майна, а саме грошових коштів у розмірі 500 000 грн. Разом з тим суд звільнив особу від відбування покарання з випробуванням із встановленням іспитового строку 3 роки та покладенням відповідних обовʼязків. 📌 Відповідно до ч. 1 ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
       ],
       "possible_duplicate_urls": []
     }
