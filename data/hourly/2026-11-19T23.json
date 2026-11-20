@@ -1,0 +1,171 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-19T23",
+  "generated_at_utc": "2026-11-20T00:26:36.151912+00:00",
+  "window_start_utc": "2026-11-19T23:00:00+00:00",
+  "window_end_utc": "2026-11-20T00:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 19,
+    "relevant_posts": 5,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
+  },
+  "posts": [
+    {
+      "id": "voenkorKotenok/77984",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77984",
+      "published_at": "2026-11-19T23:46:18+00:00",
+      "text": "Как минимум, две ракеты ОТРК «Искандер-М» ударили в районе Северного (Московского) моста в Киеве. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198684",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198684",
+      "published_at": "2026-11-19T23:46:08+00:00",
+      "text": "🇷🇺 💥 🇺🇦 Iskander strikes reported in Kiev! 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98336",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98336",
+      "published_at": "2026-11-19T23:37:47+00:00",
+      "text": "🇷🇺 ❌ 🇺🇦 — Four Iskander-M ballistic missiles were launched from the Bryansk Region toward Kiev, with some heading for the Northern Bridge. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/intelslava/98335"
+      ],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234002",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234002",
+      "published_at": "2026-11-19T23:03:28+00:00",
+      "text": "\"Пока все идет к тому, что нас стирают, стирают как нацию\" Продолжаем историю военнослужащего 159 омбр ВСУ рядового Григоренко Сергея Сергеевича (20.07.1988 г.р.), взятого в плен в Харьковской области. В предыдущей серии он рассказал об отношении к захватившему власть на Украине режиму и его псах — ТЦКшниках. По его словам, не только он негативно относится к Зеленскому и ТЦК, но и большинство украинцев, чьих родственников силой затаскивают на войну и отправляют на убой. Сегодня мы поговорим о перспективах завершения конфликта и о послевоенном устройстве Украины. По мнению нашего гостя, война будет продолжаться до последнего украинца, а если будет финансирование, то и до последнего наемника. Единственный шанс остановить утилизацию украинцев — восстание или гражданская война, однако это все осуществить уже давно некому. \"Пока у нас люди поймут, что жрут г**но, они будут жрать г**но!\" — подытожил Сергей. @warriorofnorth",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
