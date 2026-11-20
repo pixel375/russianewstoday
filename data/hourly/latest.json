@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-20T03",
-  "generated_at_utc": "2026-11-20T04:27:24.369245+00:00",
-  "window_start_utc": "2026-11-20T03:00:00+00:00",
-  "window_end_utc": "2026-11-20T04:00:00+00:00",
+  "hour_id": "2026-11-20T04",
+  "generated_at_utc": "2026-11-20T05:27:06.406825+00:00",
+  "window_start_utc": "2026-11-20T04:00:00+00:00",
+  "window_end_utc": "2026-11-20T05:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 7
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "rybar_in_english",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
@@ -99,52 +99,69 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 10,
-    "relevant_posts": 3,
-    "deduplicated_posts": 3,
-    "candidate_posts": 3
+    "raw_posts": 13,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
   },
   "posts": [
     {
-      "id": "bricsnews/19737",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19737",
-      "published_at": "2026-11-20T03:24:45+00:00",
-      "text": "JUST IN: 🇬🇧 UK is conducting cyberattacks against China, Russia, Iran and North Korea, top military commander says. @BRICSNews",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406758",
+      "id": "tass_agency/406767",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/406758",
-      "published_at": "2026-11-20T03:24:03+00:00",
-      "text": "Трамп понимает реакцию Путина на атаку на Крымский мост, сообщил журналист телеканала NBC, пересказавший интервью с американским лидером. \"Он сказал, что разговаривал с Владимиром Путиным и что Путин был крайне возмущен [Владимиром] Зеленским из-за атаки…",
+      "url": "https://t.me/tass_agency/406767",
+      "published_at": "2026-11-20T04:59:01+00:00",
+      "text": "Главные новости к этому часу: ▪️ Путин прибыл в Душанбе с рабочим визитом. ▪️ Запрет на выдачу виз спортсменам РФ включат в проект 22-го пакета санкций, заявил Туск. ▪️ Трамп убеждает европейцев пойти на сделку с РФ, пишет WP. ▪️ Беспилотник НАТО в пятый раз за год потерял над Черным морем связь с базой, сообщил ТАСС источник в авиадиспетчерских службах. ▪️ В ОП предупредили о схеме мошенников с избранием присяжными заседателями. ▪️ Задержанные в Анкаре 17 россиянок покинули Турцию. ✔ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "crimea",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102283",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102283",
+      "published_at": "2026-11-20T04:49:08+00:00",
+      "text": "❗️ Результаты удара по Киеву . Кличко: Поврежден Подольско-Воскресенский мост. Зафиксированы попадания в Южный мост . Движение с правого берега на левый в настоящее время закрыто. Также поврежден Дарницкий мост. Степень повреждений смогут оценить после окончания тревоги. Обращаюсь к жителям Киева: без острой необходимости не выезжайте в город на личном транспорте из-за проблем с движением между левым и правым берегами. ✨ Ракеты еще летят Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "dva_majors/102276",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102276",
-      "published_at": "2026-11-20T03:01:00+00:00",
-      "text": "С ночи по Украине наносится массированный удар ракетным вооружением и БПЛА. Ожидается прибытие средств поражения со стратегической авиации. Два майора Два майора в МАХ",
+      "id": "DDGeopolitics/198693",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198693",
+      "published_at": "2026-11-20T04:42:39+00:00",
+      "text": "🇺🇦 3 bridges and a critical infrastructure facility were damaged by the strikes, Kiev mayor Klitschko reports 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "missile",
+        "kyiv",
         "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198692",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198692",
+      "published_at": "2026-11-20T04:28:55+00:00",
+      "text": "🇷🇺 🇺🇦 Ukrainian monitoring channels are reporting that ballistic missiles have been launched in the direction of Kiev Also, \"Kalibr\" missiles are heading towards the Vinnitsa region. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
       ],
       "possible_duplicate_urls": []
     }
