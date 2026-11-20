@@ -1,0 +1,58 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    118
+  ],
+  "published_at_utc": "2026-11-20T19:26:39.336946+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-20T18",
+  "items": [
+    {
+      "item_id": "2026-11-20T18:1",
+      "title": "Trump says Ukraine peace talks are progressing but defers security guarantees",
+      "summary": "US President Donald Trump said Washington sees good prospects for a negotiated settlement and described Vladimir Putin as interested in peace. He said he was not ready to discuss potential security guarantees for Ukraine before an agreement is reached.",
+      "post_url": "https://t.me/russianewstodayofficial/118",
+      "category": "other",
+      "hour_id": "2026-11-20T18",
+      "source_handles": [
+        "boris_rozhin",
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T18:2",
+      "title": "Ukraine reportedly receives nearly €8 billion in EU budget support",
+      "summary": "Ukraine reportedly received nearly €8 billion in European Union budget assistance, described as the largest single disbursement under the programme. The funding comes as Kyiv continues to depend on international financial support during the war.",
+      "post_url": "https://t.me/russianewstodayofficial/118",
+      "category": "other",
+      "hour_id": "2026-11-20T18",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T18:3",
+      "title": "German-backed venture plans production of Ukrainian-designed FPV drones",
+      "summary": "US technology company Auterion and Ukrainian manufacturer SkyFall reportedly agreed to establish a joint venture in Germany to produce Shrike attack drones. The German government is said to be considering hundreds of millions of euros in funding for production and procurement.",
+      "post_url": "https://t.me/russianewstodayofficial/118",
+      "category": "other",
+      "hour_id": "2026-11-20T18",
+      "source_handles": [
+        "rybar_in_english"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T18:4",
+      "title": "Reports describe missile impact and fire in Kryvyi Rih",
+      "summary": "A Russian ballistic missile reportedly struck a building in Kryvyi Rih, with nearby restaurant windows blown out by the blast. Separate accounts reported a fire in the city and additional strikes in Kharkiv, without providing casualty figures.",
+      "post_url": "https://t.me/russianewstodayofficial/118",
+      "category": "other",
+      "hour_id": "2026-11-20T18",
+      "source_handles": [
+        "ddgeopolitics",
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
