@@ -1,0 +1,180 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T21",
+  "generated_at_utc": "2026-11-20T22:24:59.417265+00:00",
+  "window_start_utc": "2026-11-20T21:00:00+00:00",
+  "window_end_utc": "2026-11-20T22:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 16,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "intelslava/98364",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98364",
+      "published_at": "2026-11-20T21:52:56+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russia is testing a new small-sized cruise missile, designated the Geran-6, which is expected to reach speeds of up to 1,000 km/h, according to Fedir Venislavskyi, a member of the Ukrainian Parliament's Committee on National Security, Defence and Intelligence. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234128",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234128",
+      "published_at": "2026-11-20T21:35:07+00:00",
+      "text": "Боевая работа операторов Центра \"Рубикон\" за 20 ноября 2026 года 00:05 - Донбасс 02:29 - Дистанционное минирование логистических маршрутов ВСУ 03:08 - Взаимодействие с ВКС РФ по поражению целей ВСУ 03:38 - Боевая работа дневных расчетов FPV-ПВО по БПЛА ВСУ 04:18 - Боевая работа расчетов перехватчиков \"Молния-ПВО\" по БПЛА ВСУ 04:42 - Боевая работа расчетов FPV-ПВО по защите воздушного пространства Крыма 05:04 - Боевая работа расчетов FPV-ПВО по дальнобойным БПЛА ВСУ 05:24 - Уничтожение танка ВСУ 06:03 - Уничтожение пехотинца ВСУ Опубликовано эпизодов : 106",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406904",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406904",
+      "published_at": "2026-11-20T21:33:14+00:00",
+      "text": "Посол РФ в Швеции был вызван в МИД королевства \"для выражения демарша в связи со взрывом рядом со шведским посольством во время ударов ВС России по Киеву 19 ноября\". Об этом сообщило диппредставительство РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406903",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406903",
+      "published_at": "2026-11-20T21:27:01+00:00",
+      "text": "Решающий шаг в диалоге с РФ должен сделать Вашингтон , заявил в интервью ТАСС профессор Джеффри Сакс, пообщавшийся с Путиным на саммите АТЭС в Шэньчжэне. \"Я надеюсь, что президент Трамп публично заявит, что США не будут вступать в военный союз с Украиной или Грузией и не поддержат их вступление в НАТО\", — сказал он, отметив, что для расширения НАТО требуется единогласное согласие всех членов альянса.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78035",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78035",
+      "published_at": "2026-11-20T21:06:58+00:00",
+      "text": "#ЭпохаПутина В Шэньчжэне прошла первая в истории встреча лидеров России, США и Китая. По её итогам Путин, Трамп и Си Цзиньпин приняли декларацию о мире. В ней четыре пункта: ▪️ реформировать ООН; ▪️ не допустить ядерной войны, в которой не может быть победителей; ▪️ наращивать производство и поставки нефтепродуктов; ▪️ уважать иммунитет официальных лиц государств: Международный уголовный суд не должен злоупотреблять своими полномочиями. ⠀ На Западе встречу обсуждают со смешанными чувствами. Bloomberg назвал её первым саммитом «большой тройки»: США теперь признают, что у них два равных по силе соперника. The Times пишет, что в Европе боятся, как бы Вашингтон не договорился с Москвой за счёт Киева. Ирландская RTE считает, что Путин уже выиграл: Украину и её европейских союзников отодвинули от разговора о завершении конфликта. ⠀",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
