@@ -1,0 +1,295 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T18",
+  "generated_at_utc": "2026-11-20T19:25:51.692956+00:00",
+  "window_start_utc": "2026-11-20T18:00:00+00:00",
+  "window_end_utc": "2026-11-20T19:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 24,
+    "relevant_posts": 11,
+    "deduplicated_posts": 11,
+    "candidate_posts": 11
+  },
+  "posts": [
+    {
+      "id": "boris_rozhin/234107",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234107",
+      "published_at": "2026-11-20T18:55:05+00:00",
+      "text": "Владимир Путин ясно выразил стремление к мирному урегулированию конфликта на Украине, заявил Дональд Трамп. По словам президента США, Вашингтон ведёт успешные переговоры по украинскому вопросу и видит хорошие шансы на достижение мирного соглашения. Трамп также отметил, что у него сложились хорошие отношения с Россией и Китаем. При этом трёхсторонний саммит с Владимиром Путиным и Си Цзиньпином он назвал одним из важнейших событий за многие годы. К тому же Трамп заявил, что пока не готов рассуждать о возможных гарантиях безопасности для Украины до урегулирования конфликта. \"Сначала нам нужно заключить сделку\", - отметил американский лидер.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198796",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198796",
+      "published_at": "2026-11-20T18:45:31+00:00",
+      "text": "🇺🇦 A Russian ballistic missile reportedly hit a building in Krivoy Rog Videos from a restaurant opposite are also being circulated, showing that its large windows were blown out by the shockwave. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234105",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234105",
+      "published_at": "2026-11-20T18:33:01+00:00",
+      "text": "Украина получила от ЕС почти 8 млрд евро — премьер Корецкий Это крупнейший единовременный транш за всю историю программы. Средства поступили в рамках бюджетной поддержки. Ранее о получении помощи объявил премьер-министр Украины Денис Шмыгаль.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35892",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35892",
+      "published_at": "2026-11-20T18:32:53+00:00",
+      "text": "📝 Drone Business 📝 German weapons makers master Ukrainian experience Over the years of conflict in so-called Ukraine, attack drones underwent serious testing in combat conditions, and German weapons makers have no intention of missing the opportunity to leverage this experience. Moreover, the German government stands ready to finance production of such devices with an eye toward re-equipping its own army. American company Auterion and Ukrainian SkyFall agreed to establish a joint venture in Germany. They plan to produce Shrike attack FPV drones there, and the German government intends to allocate hundreds of millions of euros for production and purchases. 📌 Such cooperation experience comes as no novelty for the Germans . Previously, they paid for delivery of 50,000 Shrike drones for €90 million, and the joint Auterion project with Ukrainian Airlogix received another €300 million. In August, the enterprise began mass production and already fulfilled initial deliveries. For the German defense industry, such a scheme proves highly beneficial. Through state orders, enterprises gain access to Ukrainian developments refined through combat experience and master their production on German territory. ❗️ Against this backdrop, one recalls yesterday's Trump tirade , who criticized the colossal spending by Europeans on supporting Kyiv authorities. Behind talks of peaceful settlement, the desire to expand their own defense industry and secure orders for years to come becomes increasingly apparent. #UAV #Germany #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rybar_in_english/35891",
+        "https://t.me/dva_majors/102311"
+      ]
+    },
+    {
+      "id": "voenkorKotenok/78021",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78021",
+      "published_at": "2026-11-20T18:27:53+00:00",
+      "text": "В Кривом Роге пожар после ракетного удара. Также сообщается о прилетах в Харькове. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30707",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30707",
+      "published_at": "2026-11-20T18:20:29+00:00",
+      "text": "There is no hiding from such hail 💥 The Vostok Group's BM-21 Grad missile system launched a strike at an AFU manpower cluster. 📍 Zaporozhye region 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rian_ru/350193"
+      ]
+    },
+    {
+      "id": "rybar_in_english/35891",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35891",
+      "published_at": "2026-11-20T18:20:02+00:00",
+      "text": "Fwd from @ What was that ▪️ The mass attack on targets in Ukraine on the night of Friday — was not the promised retaliation for the strike on the Crimean Bridge, but routine operations. This is the opinion expressed by military expert Yuri Knutov, found by comrade Moskalkov . ▪️ The main conclusion is that the bridges in Kyiv have already practically resumed traffic without any complications,- writes comrade Spetsnaz Archangel ✨ Unfortunately, there is no complete traffic paralysis by evening. Traffic on the Podilskyi Bridge has been restored, the Darnytskyy Bridge operates normally, the Pivdennyi Bridge operates with restrictions. Trains continue to run, although individual flights have delays exceeding 13 hours. ❗️ Most interesting is the strike on the \"Zakhidnoukrainska\" 750 kV substation (it is a system-forming extra-high-voltage hub for western Ukraine. It not only participates in the power output schemes of the Rivne and Khmelnytsky NPPs, but also ensures the connection of Ukraine's unified energy system with the EU energy grid ). Ukraine's Ministry of Energy confirms damage to the power grid , and even a reduction in nuclear power plant output . But again, there is no complete paralysis. ❓ And our main question coincides with the opinion of Spetsnaz Archangel: In such operations, first and foremost there should be rational expenditure of available means with clear task setting – if we want to destroy bridges, we need to strike not with a couple of missiles, but with dozens in combination with drones. We were taught that according to military science it is necessary to concentrate available forces on a narrow sector, this will allow breaking through the defense (in the case of an air attack, this is also quite logical). ▪️ Thus, this, undoubtedly, mass raid last night - a demonstration of the strike capabilities of the Russian Army, undoubtedly powerful, the Ukrainians will be repairing the attacked objects for a long time. But we personally cannot bring ourselves to call this a retaliatory strike. Because not a single symbol of Ukrainian statehood was destroyed. Two Majors Two Majors on MAX Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rybar_in_english/35892",
+        "https://t.me/dva_majors/102311",
+        "https://t.me/rian_ru/350193"
+      ]
+    },
+    {
+      "id": "rian_ru/350194",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350194",
+      "published_at": "2026-11-20T18:11:38+00:00",
+      "text": "Трамп назвал трехсторонний саммит с Путиным и Си Цзиньпином одним из важнейших событий за многие годы. Что еще сказал президент США на пресс-конференции: 🔹 Трамп считает, что ему удается находить общий язык с Путиным и Си Цзиньпином и урегулировать возникающие разногласия. 🔹 Он назвал США, Россию и Китай тремя самыми могущественными государствами мира, особенно в технологическом отношении. 🔹 США ведут успешные переговоры по Украине, есть хорошие шансы добиться урегулирования конфликта. 🔹 США не позволят ядерному оружию уничтожить планету, в этой войне не может быть победителей. 🔹 Американский президент анонсировал скорое заключение около десяти новых торговых сделок США. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102311",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102311",
+      "published_at": "2026-11-20T18:07:34+00:00",
+      "text": "Что это было ▪️ Массированная атака по целям на Украине в ночь на пятницу — не обещанный ответ на удар по Крымскому мосту, а плановая работа. Такое мнение высказал военный эксперт Юрий Кнутов, нашел такое мнение тов. Москальков . ▪️ Основной итог таков, что мосты в Киеве уже практически запустили движение без каких-либо осложнений,- пишет тов. Архангел Спецназа ✨ К сожалению, полного паралича движения к вечеру нет. Движение по Подольскому мосту восстановлено, Дарницкий работает штатно, Южный - с ограничениями. Поезда продолжают идти, пусть и с задержками отдельных рейсов превышают по 13 часов. ❗️ Наиболее интересен удар по удар по подстанции «Западноукраинская» 750 кВ (является системообразующим сверхвысоковольтным узлом для западной Украины. Она не только участвует в схемах выдачи мощности Ровенской и Хмельницкой АЭС, но и обеспечивает связь ОЭС Украины с энергосистемой ЕС ). Минэнерго Украины подтверждает повреждения энергосети , и даже снижение выработки АЭС . Но опять же, полного паралича нет. ❓ И основной вопрос у нас совпадает с мнением Архангела Спецназа: В подобных операциях в первую очередь должно быть рациональное расходование имеющихся средств с понятной постановкой задач – если мы хотим обрушить мосты, то бить надо не парой ракет, а десятками в комбинировании с дронами. Нас учили, что по военной науке необходимо сосредотачивать имеющиеся силы на узком участке, это позволит прорвать оборону (в случае с воздушной атакой тоже вплоне логичное действие). ▪️ Таким образом, этот, безусловно, массированный налёт прошлой ночи - демонстрация ударных возможностей Армии России, безусловная и мощная, чинить хохлы объекты атаки будут долго. Но ударом возмездия у нас лично язык это назвать не поворачивается. Потому что ни одного символа украинской государственности уничтожено не было. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "energy",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rybar_in_english/35892",
+        "https://t.me/rybar_in_english/35891",
+        "https://t.me/rian_ru/350193"
+      ]
+    },
+    {
+      "id": "rian_ru/350193",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350193",
+      "published_at": "2026-11-20T18:03:06+00:00",
+      "text": "Спецоперация. Обстановка и главные события на 20 ноября : ▪️ Украинцы должны понимать, что все, кто поддерживает Киев, делают это, чтобы подчинить их своей воле, заявил Путин. ▪️ Брюссель уже спланировал военный сценарий на Украине до конца 2028 года, заявил Полянский. ▪️ Киев активизировал террористическую деятельность против России на фоне новых переговоров, заявила Захарова. ▪️ Армия России освободила Терсянку и Заливное в Запорожской области за неделю, сообщило Минобороны. ▪️ ВСУ потеряли до 7675 военнослужащих за неделю. ▪️ В течении недели российские военные нанесли два массированных и 11 групповых ударов по объектам на территории Украины. ▪️ ПВО России сбила 6808 беспилотников ВСУ самолетного типа за неделю. ▪️ Российские войска ночью поразили Львовский авиазавод \"ЛДАРЗ\", производящий ракеты \"Фламинго\" и предприятие Fire Point, осуществляющее их сборку. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "negotiation",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30707",
+        "https://t.me/rybar_in_english/35891",
+        "https://t.me/dva_majors/102311"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234103",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234103",
+      "published_at": "2026-11-20T18:03:01+00:00",
+      "text": "Британия заявляет, что введет войска на Украину безотносительно позиции России. Заявка на ядерную войну.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
