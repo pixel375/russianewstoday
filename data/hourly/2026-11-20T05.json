@@ -1,0 +1,241 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T05",
+  "generated_at_utc": "2026-11-20T06:27:16.096288+00:00",
+  "window_start_utc": "2026-11-20T05:00:00+00:00",
+  "window_end_utc": "2026-11-20T06:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 17,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "MFARussia/33496",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33496",
+      "published_at": "2026-11-20T05:59:58+00:00",
+      "text": "✉️ Russia's Foreign Minister Sergey Lavrov’s greetings to His Holiness Patriarch Kirill of Moscow and All Russia on his 80th birthday (November 20, 2026) ✍️ Your Holiness, I offer you my most heartfelt greetings on the occasion of your birthday. Your long-standing primatial ministry has earned the deepest recognition both within our country and far beyond its borders. Your tireless pastoral labours and Christian selflessness help people find spiritual support in life and contribute to strengthening the moral foundations of Russian society. Your immense personal contribution to instilling patriotic values in the younger generation commands particular respect. Your support for those taking part in the special military operation, and for their families, is truly invaluable. 🤝 I greatly value our close and fruitful cooperation. I look forward to continuing this partnership for the sake of strengthening the standing of Russia and the Orthodox world , and for advancing international relations grounded in the enduring principles of equality, truth, goodness, and justice. Wishing you the best of health, many more years, and new achievements for the benefit of the Church and the Fatherland. SERGEY LAVROV",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198697",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198697",
+      "published_at": "2026-11-20T05:58:15+00:00",
+      "text": "🇺🇦 Emergency power outages in Lvov, lights out in Krivoy Rog after the strikes Trolleybuses not running in several districts of Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406772",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406772",
+      "published_at": "2026-11-20T05:43:48+00:00",
+      "text": "🚨 Средства ПВО за ночь сбили 310 украинских беспилотников над регионами РФ, сообщает МО РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406771",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406771",
+      "published_at": "2026-11-20T05:32:48+00:00",
+      "text": "❕ Поражены предприятия ВПК, складские терминалы, объекты энергетики и транспортной инфраструктуры в Киеве и пяти областях Украины, сообщает МО РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406769",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406769",
+      "published_at": "2026-11-20T05:30:19+00:00",
+      "text": "❕ ВС РФ ночью нанесли массированный удар по целям на Украине высокоточным оружием наземного, морского и воздушного базирования, БПЛА, сообщает МО. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350152",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350152",
+      "published_at": "2026-11-20T05:29:21+00:00",
+      "text": "Российские войска ночью нанесли массированный удар, сообщило Минобороны. Бойцы поразили связанные с ВСУ объекты в Киеве, а также в Киевской, Днепропетровской, Николаевской, Львовской и Ивано-Франковской областях. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38518",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38518",
+      "published_at": "2026-11-20T05:13:01+00:00",
+      "text": "⚡️ Фронтовая сводка на утро 20.11.26 ⚡️ Запорожский фронт На Каменском направлении сохраняется напряжённая ситуация без изменений в ЛБС. Продолжаются бои в Степногорске и Приморском. (Рис. 1.1) На Гуляйпольском направлении ВС РФ расширяют зону контроля в районе Терноватого. (Рис. 1.2) Донецкий фронт На Добропольском направлении сообщается о продвижении к югу от Сергеевки. Продолжаются тяжёлые бои за Новофёдоровку. Есть продвижение на север западнее Белозёрского, идут сражения у Нововодяного. (Рис. 2.1) На Константиновском направлении идут бои на южных окраинах Николайполья. Продолжаются столкновения в Константиновке. Идут бои на южных окраинах Красного Лимана. Продолжаются тяжёлые бои в районе Дибровы – Озёрного. (Рис. 2.2) Харьковский фронт На Купянском направлении ВС РФ оказывают давление на позиции противника на участке Радьковка – Кондрашовка. Продолжаются боестолкновения в самом Купянске. (Рис. 3.1) На Волчанском направлении войска РФ ведут бои у населённых пунктов Приколотное и Шевченко Первое. Идут сражения в районе Бугаевки. (Рис. 3.2) Сумской фронт ВС РФ отражают контратаки противника в районе Юнаковки. Продолжается продвижение в районе Коренька. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198696",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198696",
+      "published_at": "2026-11-20T05:11:18+00:00",
+      "text": "🇺🇦 Missile attack on Kiev continues 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38517",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38517",
+      "published_at": "2026-11-20T05:03:56+00:00",
+      "text": "‼ ‼ ‼ Какую музыку слушают в Донецке? Что играют в ирландском пабе? Краснодонские парни привезли рокабилли в Донецк: музыканты из группы Panbrothers Band из Краснодона – фронтмен и контрабасист Коста Панайотов и гитарист Александр Чернышов - рассказали корреспонденту интернет-издания Украина.ру Александру Чаленко , почему они играют рокабилли, и как добирались в Донецк Гости, пришедшие в один из пабов столицы ДНР на концерт ребят – молодые девчонки и ополченцы ДНР первой волны - поделились своими музыкальными пристрастиями - кто-то любит Led Zeppelin, кто-то русский панк, а кто-то блюз – и поразмышляли на тему, повлияла ли война на вкусы дончан. Украина.ру 🔄 Аналитика 🔄 Видео Мы в MAX 🔄 👍",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
