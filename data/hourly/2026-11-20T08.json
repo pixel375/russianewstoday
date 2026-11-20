@@ -1,0 +1,395 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-20T08",
+  "generated_at_utc": "2026-11-20T09:23:14.584584+00:00",
+  "window_start_utc": "2026-11-20T08:00:00+00:00",
+  "window_end_utc": "2026-11-20T09:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 33,
+    "relevant_posts": 18,
+    "deduplicated_posts": 18,
+    "candidate_posts": 18
+  },
+  "posts": [
+    {
+      "id": "voenkorKotenok/77994",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77994",
+      "published_at": "2026-11-20T08:54:53+00:00",
+      "text": "\"Укрэнерго\" заявляет, что украинские АЭС вынужденно снизили мощность после ночных ударов. По самим АЭС прилетов не было. При этом, по данным Reuters, этой зимой три работающие АЭС будут обеспечивать около 80% потребностей Украины в электроэнергии. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53455",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53455",
+      "published_at": "2026-11-20T08:51:45+00:00",
+      "text": "❗️ Medvedev called the idea of Ukraine joining NATO in exchange for territory \"absurd,\" stating, \"There's nothing to comment on.\" @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198730",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198730",
+      "published_at": "2026-11-20T08:51:37+00:00",
+      "text": "🇺🇦 ☢️ Due to strikes on power plants, substations, and electricity transmission and distribution systems, nuclear power plants have been forced to reduce their generation capacity, according to the Ukrainian Ministry of Energy. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30695",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30695",
+      "published_at": "2026-11-20T08:50:05+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation carried out a massive strike with ground-, sea-, air-based high-precision weapons, unmanned aerial vehicles against enterprises of the Ukrainian defence industry, warehouses, power facilities, transport and port infrastructure, as well as vessels used in the interests of the AFU. 💥 As a result of the strikes, the following targets were hit: 📍 in Kiev and Kiev region: ▪️ a manufacturing enterprise of explosives and powder (state powder metallurgy plant) in Brovary, which produces components of solid missile fuel for FP-9 operational-tactical missiles; ▪️ a UAV assembly enterprise that prepares fixed-wing UAVs; ▪️ road and rail bridges used for the transit of AFU weapons, military and special hardware to the combat operations zone in Donbass; ▪️ the assembly plant (Fire Point LLC) in Petrovskoye, which assembles, prepares for combat use, and delivers FP-7 Flamingo cruise missiles to launch sites; 📍 in Dnepropetrovsk region: ▪️ the PS-330 Terny-Pervomayskaya electric substation in Terny, which distributes electricity to support the operation of defence industry enterprises and military facilities of the AFU in Dnepropetrovsk region; 📍 in Chernigov region: ▪️ the PS-110 electric substation in Mena, which distributes electricity to ensure the operation of enterprises of the defence industry and military facilities of the AFU in Chernigov region; 📍 in Ivano-Frankovsk region: ▪️ the Burshtynskaya thermal power plant in the village of Burshtyn , which produces electricity, including for the operation of enterprises of the Ukrainian defence industry and military facilities of the AFU; 📍 in Lvov region: ▪️ the Lvov aviation industry repair facility (Lvov State Aviation Repair Plant) , which produces FP-9 tactical missiles and FP-5 Flamingo cruise missiles, as well as long- and medium-range unmanned aerial vehicles; ▪️ the PS-750 Zapadnoukrainskaya electric substation in Khodorov , which distributes electricity to support the operation of the defence industry and military facilities of the AFU in Lvov region; 📍 in Nikolayev region: ▪️ a depot in Bereznegovatoye , where cruise missiles are stored and used to hit civilian objects in the Russian Federation; 📍 in Odessa region: ▪️ the Zatoka road bridge used for the transit of military goods by road and rail. 🔥 In addition, a dry cargo ship delivering military cargo to the port of Odessa at sea , as well as three railway locomotives near Dnepropetrovsk station, and one locomotive near Korosten station of Zhitomir region, used to transport freight trains with military and dual-use cargo for the AFU, were hit. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/77991",
+        "https://t.me/wargonzo/38526"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234036",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234036",
+      "published_at": "2026-11-20T08:47:01+00:00",
+      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки Пока наши подразделения продолжают наступательные действия, враг также использует непогоду в своих интересах, наращивая активность штурмовых групп. Зафиксировано 14 контратак и более 20 случаев активности на освобожденных территориях — наши дроноводы, насколько позволяют погодные условия, отрабатывают по таким группам. На северо-западном участке воины-забайкальцы расширяют зону контроля в окрестностях Терсянки и Заливного , а также работают над отражением контратак противника и ликвидацией инфильтрационных групп. В результате огневого поражения враг потерял здесь свыше 20 боевиков. Западнее Зелёной Дибровы воины из Бурятии улучшили тактическое положение в районе Василькового . Потери врага — свыше 30 боевиков. На юге амурские воины также продолжают наступательные действия западнее н.п. Омельник . Дроноводами и артиллерией сорваны попытки ротации противника в районах н.п. Таврийское и Блакитное . Также наносилось огневое поражение в окрестностях Кирово . Потери врага — до 10 боевиков. Всего за прошедшие уничтожено свыше роты живой силы ВСУ; 10 единиц авто-мототехники и 18 пунктов управления БПЛА. @voin_dv",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406804",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406804",
+      "published_at": "2026-11-20T08:44:45+00:00",
+      "text": "Даже квазичленство Киева в НАТО неприемлемо для России, заявил Рябков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/77991",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/77991",
+      "published_at": "2026-11-20T08:41:29+00:00",
+      "text": "\"Противник сообщил о том, что ночью мы выпустили 30 баллистических и 60 крылатых ракет. Их информацию нужно \"фильтровать\", но всё равно, судя по пораженным целям список внушителен\", - прокомментировал недавние удары по инфраструктуре противника военный обозреватель Юрий Котенок. По его мнению, приоритетные цели для ударов ВС РФ остаются неизменными. \"Это мосты, склады, энергетика и военное производство. Противник скрывает свои ключевые объекты, в том числе пряча их под землю, тщательно легендирует и маскирует. Поражать такие объекты надо, в том числе и боеприпасами повышенной мощности. Этого же требуют и мосты, которые строились добротно при СССР и имеют запас прочности\", - рассказал Ю.Котенок. Эксперт считает, что с повестки дня не снимается задача вывести из строя Бескидский тоннель во Львовской области: \"Эта коммуникация имеет для киевского режима ключевое значение. По нему идет львиная часть военных грузов по железной дороге из-за рубежа. Не случайно при Порошенко они обновили тоннель в 2018 году, не жалея средств. Давно пришла пора привести эту коммуникацию врага в нужное состояние\". \"В целом продолжается основательная работа по ликвидации военно-промышленного потенциала Киева. Однако считаю, что ответка за удар по Крымскому мосту туда ещё не прилетала. Враг должен ощутить это на собственной шкуре и затрепетать. По-другому он не облагоразумится\", - добавил Юрий Котенок. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "energy",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30695",
+        "https://t.me/tass_agency/406803",
+        "https://t.me/wargonzo/38526",
+        "https://t.me/bricsnews/19739"
+      ]
+    },
+    {
+      "id": "dva_majors/102294",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102294",
+      "published_at": "2026-11-20T08:40:37+00:00",
+      "text": "Медведев: В западных СМИ снова гуляет безумная идея членства неонацистской Украины в каком-то обновлённом НАТО в обмен на остатки возвращаемых нам территорий. Вообще-то, вероятное присоединение Киева к Альянсу – одна из причин войны. А НАТО – враждебный России блок. Тут и комментировать нечего. Впрочем… если под такими территориями понимать всю Украину, за исключением Галиции, это иная ситуация. Львов/Лемберг может быть в прикупе для Польши и прочих оголтелых друзей. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406803",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406803",
+      "published_at": "2026-11-20T08:38:46+00:00",
+      "text": "Атакуя Крымский мост, \"евробанда\" хотела помешать переговорам в Шэньчжэне, заявил ТАСС председатель Госсовета Крыма Константинов. Киев пытается привлечь к себе внимание, продемонстрировать, что \"не так плохи дела у Украины, не так все плохо в ее взаимоотношениях…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/77991",
+        "https://t.me/bricsnews/19739"
+      ]
+    },
+    {
+      "id": "wargonzo/38526",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38526",
+      "published_at": "2026-11-20T08:34:52+00:00",
+      "text": "ВС РФ ударили по мостам через Днепр и несколько ТЭЦ на Украине Минувшей ночью русская армия нанесла удар по заводу порошковой металлургии, предприятию по сборке ударных БПЛА, автомобильным и железнодорожные мостам, а также сборочному предприятию Fire Point в Киевской области. В Днепропетровской и Черниговской областях нанесены удары по электроподстанциям. В Ивано-Франковской области поражена Бурштынская ТЭС. Во Львовской области под удар попали авиационный ремонтный завод, задействованный, по данным Минобороны РФ, в производстве ракет и беспилотников, а также электроподстанция «Западноукраинская». В регионе введены аварийные отключения электричества. Разрушена железнодорожная станция «Скнилов», сообщает местная администрация. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30695",
+        "https://t.me/voenkorKotenok/77991",
+        "https://t.me/bricsnews/19739"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234035",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234035",
+      "published_at": "2026-11-20T08:33:01+00:00",
+      "text": "Договоренностей по новому раунду переговоров по Украине нет (с) Рябков Учитывая заявленную позицию стран НАТО по войне на Украине (включение Украины в НАТО, размещение на Украине войск НАТО и т.д.), ядерная война выглядит более вероятным сценарием. нежели какие-либо договоренности с ними. Поэтому заявления Рябкова о том, что даже квази-членство Украины в НАТО полностью неприемлемо для России, чем еще раз выявляется отсутствие какого либо пересечения позиций с НАТО по этому вопросу. России нет смысла останавливать войну, если это приведет к развертыванию НАТО на Украине. НАТО про это знает, поэтому тему втягивания Украины в НАТО и педалируют постоянно, чтобы война не прекращались, что в итоге приближает ситуацию уже к прямой войне России и НАТО, которая не останется на конвенциональном уровне. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198729",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198729",
+      "published_at": "2026-11-20T08:27:48+00:00",
+      "text": "🇺🇦 An energy facility belonging to DTEK was attacked in the Odessa region, resulting in a power outage for over 41,000 consumers, the company reports. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198728",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198728",
+      "published_at": "2026-11-20T08:20:46+00:00",
+      "text": "🇺🇦 The “ Bandera Nest“ Lvov also didn’t escape the power of the Russian Armed forces. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198726",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198726",
+      "published_at": "2026-11-20T08:15:25+00:00",
+      "text": "🇺🇦 The Kiev Fire Department released some photos of last nights Russian attack on Kiev. Не нарывайся. Последствия тебе не понравятся. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234034",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234034",
+      "published_at": "2026-11-20T08:15:08+00:00",
+      "text": "Схема ночных ударов по Украине по версии противника. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198723",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198723",
+      "published_at": "2026-11-20T08:11:48+00:00",
+      "text": "# OnThisDay in 1945 the Nuremberg Trials began , the main trial of the 20th century against those who unleashed World War II. ▫️ Almost the entire top leadership of Nazi Germany ended up in the dock. Those who had recently considered themselves to be the masters of the world's fate—generals, ministers, diplomats, major bankers, and industrialists—were now responsible for what they had done. ▫️ The charges were divided into three groups: crimes against peace, war crimes, and crimes against humanity. 📄 For nearly 11 months, the terrible truth came out in the courtroom. More than 400 public hearings were held during this period, 116 witnesses testified, and the judges examined more than 300,000 statements and about 3,000 documents. 250 journalists from all over the world monitored the way justice was done. ▫️ The final point was set in the autumn of 1946. The tribunal found almost all the accused guilty of atrocious crimes, which have no statute of limitations. Must be neither forgotten nor revised! 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406800",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406800",
+      "published_at": "2026-11-20T08:11:01+00:00",
+      "text": "МИД России немедленно передаст собранные по удару ВСУ по Юбилейному в ЛНР материалы представителям РФ в ООН и ОБСЕ, сообщил ТАСС Мирошник. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19739",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19739",
+      "published_at": "2026-11-20T08:03:17+00:00",
+      "text": "JUST IN: 🇷🇺 🇺🇦 Russia launches missiles at three bridges in Kyiv after President Putin vows revenge for Crimea bridge attack. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/77991",
+        "https://t.me/tass_agency/406803",
+        "https://t.me/wargonzo/38526"
+      ]
+    }
+  ]
+}
