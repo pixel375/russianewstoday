@@ -1,0 +1,185 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T07",
+  "generated_at_utc": "2026-11-21T08:12:31.172512+00:00",
+  "window_start_utc": "2026-11-21T07:00:00+00:00",
+  "window_end_utc": "2026-11-21T08:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 19,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "intelslava/98371",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98371",
+      "published_at": "2026-11-21T07:59:15+00:00",
+      "text": "🇵🇱 🇷🇺 ⚡️ — The Russian cruise missile that entered Polish airspace yesterday could not be intercepted due to bad weather. This was reported by Rzeczpospolita, citing the commander of the operational forces of the Polish Armed Forces, General Ireneusz Nowak. According to him, a Swedish Gripen fighter jet attempted to intercept the Kh-101 missile. However, due to \"extremely difficult weather conditions,\" the pilot was unable to identify the target, either visually or with instruments. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78038",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78038",
+      "published_at": "2026-11-21T07:57:42+00:00",
+      "text": "Ночью противник активно пытался атаковать Ленинградскую область. Дежурные средства ПВО уничтожили над ней 73 вражеских дрона. Всего же за ночь были сбиты 275 украинских БпЛА самолетного типа. Помимо Ленинградской области, беспилотники были перехвачены над Белгородской, Брянской, Воронежской, Калужской, Курской, Новгородской, Орловской, Псковской, Ростовской и Смоленской областями, а также над Республикой Крым и акваторией Черного моря. Что касается столицы, то примерно с полуночи фиксировались одиночные пуски со стороны государственной границы. Все было сбито на дальних рубежах. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198825",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198825",
+      "published_at": "2026-11-21T07:42:11+00:00",
+      "text": "🇬🇧 Send Prince Harry to the front! British students protest against war and militarization In Manchester, approximately 600 people took part in an anti-war action. Young people are protesting against military conscription and do not want to be dragged into foreign conflicts. Against the backdrop of Prince Harry’s statements about his readiness to fight Russia, participants demanded that the Duke of Sussex himself be sent to the front. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38540",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38540",
+      "published_at": "2026-11-21T07:10:17+00:00",
+      "text": "⚡️ Фронтовая сводка на утро 21.11.26 ⚡️ Запорожский фронт На Каменском направлении продолжаются боестолкновения в Приморском, Степногорске и Лукьяновском. (Рис. 1.1) На Гуляйпольском направлении сообщается об успехах в районах Омельника и Червоного Яра. (Рис. 1.2) Донецкий фронт На Добропольском направлении продолжаются сражения в районе Сергеевки и западнее Шиловки. Идут бои у Нововодяного. (Рис. 2.1) На Константиновском направлении ВС РФ вышли к южным окраинам Николайполья. Не стихают боестолкновения на участке между Алексеево-Дружковкой и Райским, а также в районе Веролюбовки. В районе Красного Лимана продолжаются столкновения, без изменений в ЛБС. На Северском участке также идут бои на прежних рубежах — в районе Дибровы и Озёрного, а также у Васютинского и Рай-Александровки. (Рис. 2.2) Харьковский фронт На Купянском направлении ВС РФ ведут бои на участке Соболевка – Дорошовка. Сообщается о сражениях в северной, северо-западной и южной частях самого Купянска. (Рис. 3.1) На Волчанском направлении войска РФ расширяют плацдарм юго-западнее Волчанска, а также а районе Бугаевки, Шевченково Первого. (Рис. 3.2) Сумской фронт Войска РФ расширяют зону контроля в районах Хотени и Груновки, отражают контратаки противника в районе Юнаковки. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102319",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102319",
+      "published_at": "2026-11-21T07:00:24+00:00",
+      "text": "✨ Сбор на Херсонское направление ✨ 1265 человек участвовали в сборе за сутки Операторы ударных БПЛА обратились с просьбой помочь в приобретении транспорта, а также технического оборудования, необходимого для выполнения боевых задач на данном участке фронта. ▪️ Автомобиль - 600 000 ₽ ▪️ Оборуд. БПЛА - 300 000 ₽ Необходимо: 900 000 ₽ Собрано за сутки: 285 034 ₽ Собрано всего: 729 265 ₽ Осталось собрать: 170 735 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
