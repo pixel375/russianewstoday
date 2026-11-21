@@ -1,0 +1,47 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    141
+  ],
+  "published_at_utc": "2026-11-21T18:23:39.695902+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-21T17",
+  "items": [
+    {
+      "item_id": "2026-11-21T17:1",
+      "title": "Denmark reportedly urges EU to stop issuing tourist visas to Russians",
+      "summary": "Denmark has circulated a proposal urging EU countries to stop issuing tourist visas to Russian citizens and cease recognising their non-biometric passports across the Schengen area, according to reports citing Reuters. The proposal is not an EU-wide policy decision.",
+      "post_url": "https://t.me/russianewstodayofficial/141",
+      "category": "other",
+      "hour_id": "2026-11-21T17",
+      "source_handles": [
+        "tass_agency",
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T17:2",
+      "title": "Odesa suffers widespread power outages after strikes on electricity network",
+      "summary": "Ukrainian reports describe widespread outages in Odesa after attacks on major substations and transmission infrastructure triggered automatic grid protections. Tram and trolleybus services were reportedly disrupted as electricity supplies failed in parts of the city.",
+      "post_url": "https://t.me/russianewstodayofficial/141",
+      "category": "other",
+      "hour_id": "2026-11-21T17",
+      "source_handles": [
+        "ddgeopolitics",
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T17:3",
+      "title": "Vinnytsia reportedly loses power following drone strike on substation",
+      "summary": "A Russian military-linked report says a drone strike hit an electrical substation in Vinnytsia and left the city without power. Russia's Defence Ministry had earlier claimed a strike on a 110 kV substation there; the new account describes reported consequences for electricity service.",
+      "post_url": "https://t.me/russianewstodayofficial/141",
+      "category": "other",
+      "hour_id": "2026-11-21T17",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
