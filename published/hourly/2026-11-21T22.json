@@ -1,0 +1,23 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    146
+  ],
+  "published_at_utc": "2026-11-21T23:23:04.961512+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-21T22",
+  "items": [
+    {
+      "item_id": "2026-11-21T22:1",
+      "title": "Slovakia's Fico says country will not join proposed €45 billion EU loan for Ukraine",
+      "summary": "Slovak Prime Minister Robert Fico said Slovakia intends to stay out of a proposed €45 billion EU loan for Ukraine, as it did with an earlier €90 billion loan. He argued that Ukraine would be unable to repay the money and accused others of tying the financing debate to negotiations over the EU's 2028–2034 budget.",
+      "post_url": "https://t.me/russianewstodayofficial/146",
+      "category": "other",
+      "hour_id": "2026-11-21T22",
+      "source_handles": [
+        "rian_ru"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
