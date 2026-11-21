@@ -1,0 +1,56 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    142
+  ],
+  "published_at_utc": "2026-11-21T19:21:33.408593+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-21T18",
+  "items": [
+    {
+      "item_id": "2026-11-21T18:1",
+      "title": "Russian investigators allege new findings in Kursk civilian killings case",
+      "summary": "Russia's Investigative Committee says forensic evidence helped identify Ukrainian serviceman Yevgeny Fabrisenko in the alleged killings of civilians in Russkoye Porechnoye, Kursk region. Investigators say he admitted involvement and that evidence linked him to seven deaths; these are Russian investigative and court claims, not independently established findings.",
+      "post_url": "https://t.me/russianewstodayofficial/142",
+      "category": "other",
+      "hour_id": "2026-11-21T18",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T18:2",
+      "title": "Sevastopol authorities report drone attack and three interceptions",
+      "summary": "Authorities in Russian-controlled Sevastopol issued an air-raid warning and said air defences and mobile fire groups were responding to an attack. Preliminary reports said three drones were shot down near the city's northern side.",
+      "post_url": "https://t.me/russianewstodayofficial/142",
+      "category": "other",
+      "hour_id": "2026-11-21T18",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T18:3",
+      "title": "Report says Ukrainian electricity supply has partly recovered",
+      "summary": "A Russian military commentary claims the share of Ukraine's population without power fell from about 50% on November 20 to 30% on November 21, with supplies restored in western regions. It says outages remain particularly severe around Kyiv and Dnipropetrovsk region; the figures were not accompanied by a national grid operator's assessment.",
+      "post_url": "https://t.me/russianewstodayofficial/142",
+      "category": "other",
+      "hour_id": "2026-11-21T18",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T18:4",
+      "title": "Russia, US and Israel reportedly block UN agreement on autonomous weapons",
+      "summary": "A report citing Reuters says Russia, the United States and Israel opposed adoption of an international agreement restricting autonomous weapons that can select and attack targets. Negotiators reportedly agreed only to continue discussions through 2028, without deciding whether future rules would be legally binding.",
+      "post_url": "https://t.me/russianewstodayofficial/142",
+      "category": "other",
+      "hour_id": "2026-11-21T18",
+      "source_handles": [
+        "intelslava"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
