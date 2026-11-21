@@ -1,0 +1,179 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T13",
+  "generated_at_utc": "2026-11-21T14:24:29.108115+00:00",
+  "window_start_utc": "2026-11-21T13:00:00+00:00",
+  "window_end_utc": "2026-11-21T14:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 21,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "rian_ru/350232",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350232",
+      "published_at": "2026-11-21T13:45:13+00:00",
+      "text": "❗️ Следовавшее в Калининград судно атаковали два БПЛА. Нападение произошло в нейтральных водах Финского залива, в трех морских милях от границы России, сообщил губернатор Дрозденко. Экипаж судна эвакуируют. UPD: угроз для снабжения Калининградской области…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35916",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35916",
+      "published_at": "2026-11-21T13:40:23+00:00",
+      "text": "📝 Russian trace again 📝 Epstein turned out to be linked to Russia again It would seem that over six months one could come up with something newer and more interesting. But why bother when you can always play the old reliable card of a \"Russian trace\" in the Epstein case and splash it across the front pages again? Reuters published a new \"investigation\" about Jeffrey Epstein's trips to Russia, his acquaintances with Russian businessmen, his search for girls through modeling agencies, and his attempts to arrange a meeting with Vladimir Putin. 🔻 What did they find this time? ▪️ In 1998, Epstein visited the closed city of Sarov, and in 2002 he traveled to Moscow and St. Petersburg. Moreover, he came to the Russian capital together with Ghislaine Maxwell and Jean-Luc Brunel. ▪️ In the financier's correspondence, Russian businessmen Vladislav Doronin and Oleg Deripaska appear, as well as former Deputy Minister of Economic Development Sergey Belyakov. Through intermediaries, Epstein repeatedly tried to arrange a meeting with Putin. ▪️ Reuters separately tells about girls from Russia and other former Soviet republics who were drawn into Epstein's network of sexual exploitation. Journalists identified the identities of at least 17 victims. But after all these details, even Reuters admits: journalists found no evidence that Epstein worked for Russian intelligence services, acted in the interests of the Russian government, or even met with Putin. Moreover, the financier's attempts to cultivate influential connections in Russia brought him neither major deals nor any notable political influence. 📌 The British engaged in similar practices before, but for yet another appearance of a \"Russian trace,\" this time they didn't even need new evidence: old trips, acquaintances, and failed meetings were merely supplemented with new testimonies, but no facts of the financier working for Moscow ever emerged. Instead, they got another sensational story about \"Russian connections.\" And that's quite enough for the front pages of Western \"trendsetters.\" #UnitedKingdom #Russia #USA ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78054",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78054",
+      "published_at": "2026-11-21T13:37:10+00:00",
+      "text": "После бомбового удара опорный пункт 104-й отдельной бригады ТерО ВСУ в районе руин н.п. Княжичи Сумской области перестал существовать. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19758",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19758",
+      "published_at": "2026-11-21T13:16:21+00:00",
+      "text": "JUST IN: 🇷🇺 🇵🇱 Poland says two Russian missiles and a military drone may have struck its territory. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198854",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198854",
+      "published_at": "2026-11-21T13:02:08+00:00",
+      "text": "LIVESTREAM ALERT: Join Danny Haiphong LIVE with Pepe Escobar at 10am eastern 4pm CET TODAY NOV 21st ! Pepe Escobar breaks down Iran's comprehensive response to the US attempt to maintain a status quo of \"neither war nor peace\" as the fallout from the Putin-Xi-Trump trilateral summit is only beginning to take shape. Has Iran gone on the offensive against the US's naval blockade? Why is activity in the Strait of Hormuz only intensifying? And how will the historic APEC in Shenzhen impact the world order? Join the show as we talk about all this and much more. Watch: https://www.youtube.com/watch?v=9C351fRHmdA",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
