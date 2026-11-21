@@ -1,0 +1,22 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-21T04",
+  "snapshot_generated_at_utc": "2026-11-21T05:25:06.440860+00:00",
+  "items": [
+    {
+      "title": "Russia says overnight strikes hit Ukrainian power facilities and military-linked shipping",
+      "summary": "Russia's Defence Ministry said its overnight attacks struck the Kryvyi Rih thermal power plant and a 110 kV substation in Sarny, as well as a cargo vessel near Odesa that it alleged was carrying dual-use supplies for Ukrainian forces. The ministry did not provide a detailed assessment of the damage.",
+      "source_urls": [
+        "https://t.me/DDGeopolitics/198819",
+        "https://t.me/tass_agency/406941"
+      ]
+    },
+    {
+      "title": "Report alleges serious treatment failures in Ukrainian military medical system",
+      "summary": "A Russian military-linked account citing a purported lecture by Ukrainian military doctor Eduard Khoroshun alleges that annual amputations rose from 143 to 854, with evacuation delays, improper tourniquet use and inadequate staff training contributing to complications. The account also cites alleged reviews of preventable treatment errors and deaths; the figures and document's authenticity are not established by the post alone.",
+      "source_urls": [
+        "https://t.me/boris_rozhin/234151"
+      ]
+    }
+  ]
+}
