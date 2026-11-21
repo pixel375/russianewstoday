@@ -1,0 +1,45 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    145
+  ],
+  "published_at_utc": "2026-11-21T22:26:57.405753+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-21T21",
+  "items": [
+    {
+      "item_id": "2026-11-21T21:1",
+      "title": "Italian deputy prime minister threatens to block Ukraine aid over Myrotvorets listing",
+      "summary": "Italian Deputy Prime Minister Matteo Salvini reportedly demanded an apology after being added to Ukraine's Myrotvorets database and threatened to block military assistance. Prime Minister Giorgia Meloni reportedly raised the issue with President Zelensky, while Ukraine's embassy in Rome said the website does not represent the Ukrainian state's position.",
+      "post_url": "https://t.me/russianewstodayofficial/145",
+      "category": "other",
+      "hour_id": "2026-11-21T21",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T21:2",
+      "title": "UK and Ukraine reportedly agree to produce Ukrainian drones in Britain",
+      "summary": "Ukraine and the United Kingdom have reportedly agreed to jointly manufacture medium- and long-range Ukrainian drones on British territory. London would finance production, with completed systems supplied to Ukraine's armed forces.",
+      "post_url": "https://t.me/russianewstodayofficial/145",
+      "category": "other",
+      "hour_id": "2026-11-21T21",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T21:3",
+      "title": "Russian military report alleges bomb strikes near bridges in Zaporizhzhia",
+      "summary": "A Russian military-linked account reported a series of powerful explosions in Zaporizhzhia and claimed aerial bombs were striking areas near bridges, citing local media. The report did not identify specific bridges or establish damage or casualties.",
+      "post_url": "https://t.me/russianewstodayofficial/145",
+      "category": "other",
+      "hour_id": "2026-11-21T21",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
