@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-20T23",
-  "generated_at_utc": "2026-11-21T00:23:59.697872+00:00",
-  "window_start_utc": "2026-11-20T23:00:00+00:00",
-  "window_end_utc": "2026-11-21T00:00:00+00:00",
+  "hour_id": "2026-11-21T00",
+  "generated_at_utc": "2026-11-21T01:23:12.252652+00:00",
+  "window_start_utc": "2026-11-21T00:00:00+00:00",
+  "window_end_utc": "2026-11-21T01:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "rian_ru",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -99,51 +99,24 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 10,
-    "relevant_posts": 3,
-    "deduplicated_posts": 3,
-    "candidate_posts": 3
+    "raw_posts": 8,
+    "relevant_posts": 1,
+    "deduplicated_posts": 1,
+    "candidate_posts": 1
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198814",
+      "id": "DDGeopolitics/198817",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198814",
-      "published_at": "2026-11-20T23:42:23+00:00",
-      "text": "🇺🇦 A complex housing “Nova Poshta” burned down in Kiev A large-scale fire almost completely destroyed a shopping complex in the Solomianskyi district of the Ukrainian capital. According to local channels, “ECO Market,” a “Nova Poshta” branch, and “PrivatBank” were located inside. The fire rapidly engulfed the building. It took about half an hour to destroy most of the complex. Recall that “Nova Poshta” participates not only in civilian deliveries but also in the delivery of cargo for the Ukrainian Armed Forces. The company itself reports on its cooperation with volunteers and the shipment of equipment and aid to Ukrainian military personnel. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198817",
+      "published_at": "2026-11-21T00:23:52+00:00",
+      "text": "⚡️ On November 20, the Russian Foreign Ministry summoned Romania’s Ambassador to Russia Cristian Istrate . The Ministry issued a strong protest over Romania’s unjustified refusal to issue entry visas to the Russian national team , which was due to compete in the European Taekwondo Championships for boys and girls aged 12–14 in Bucharest in late November. Moscow regards this violation of the young athletes’ rights as a shameful act of discrimination on grounds of nationality that contravenes fundamental human rights standards and undermines the foundations of international cooperation in sport. ❗️ Politicising decisions on whether Russian athletes can compete in international competitions is absolutely unacceptable. Hostile acts against Russia will not go unanswered and will have lasting negative consequences for those responsible.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv"
+        "moscow"
       ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/406913",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/406913",
-      "published_at": "2026-11-20T23:38:01+00:00",
-      "text": "Министр обороны ФРГ Писториус призвал европейцев не отказываться от приглашения Путина посетить Москву для переговоров по Украине: \"Если он [Путин] посылает сейчас первые сигналы и говорит о приглашении европейцев в Москву, то это с любой точки зрения следует…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow",
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234137",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234137",
-      "published_at": "2026-11-20T23:03:01+00:00",
-      "text": "Вынесен обвинительный приговор в отношении жительницы региона, причастной к оправданию терроризма в сети Интернет, а также к незаконному хранению наркотических средств в крупном размере. Сотрудниками УФСБ России по Орловской области установлено, что подозреваемая с использованием учетной записи в иностранном мессенджере разместила в публичном доступе высказывание, содержащее признаки оправдания терроризма. Кроме того, в ходе обыска по месту ее жительства изъято более 600 г. наркотического средства каннабис (марихуана), которое она выращивала в домашних условиях. Следственным подразделением УФСБ России по Орловской области в отношении задержанной расследовано уголовное дело по признакам преступлений, предусмотренных ч. 2 ст. 205.2 УК России (публичное оправдание терроризма с использованием сети «Интернет»), ч. 2 ст. 228 УК России (незаконное хранение наркотических средств в крупном размере). Решением 2 Западного окружного военного суда от 13.11.2026 фигурантка признана виновной в совершении преступлений, предусмотренных ч. 2 ст. 205.2, ч. 2 ст. 228 УК России. По совокупности приговоров ей назначено наказание в виде лишения свободы сроком на 6 лет с отбыванием в колонии общего режима, штрафа в размере 400 тыс. рублей, а также лишения права заниматься деятельностью, связанной с администрированием сайтов, использованием электронных и информационно-телекоммуникационных сетей, сроком на 3 года. @opersvodki",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
