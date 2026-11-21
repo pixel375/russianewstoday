@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-21T16",
-  "generated_at_utc": "2026-11-21T17:20:58.006603+00:00",
-  "window_start_utc": "2026-11-21T16:00:00+00:00",
-  "window_end_utc": "2026-11-21T17:00:00+00:00",
+  "hour_id": "2026-11-21T17",
+  "generated_at_utc": "2026-11-21T18:22:55.394215+00:00",
+  "window_start_utc": "2026-11-21T17:00:00+00:00",
+  "window_end_utc": "2026-11-21T18:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
@@ -33,19 +33,19 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 6
     },
     {
       "handle": "rian_ru",
@@ -57,7 +57,7 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
@@ -69,19 +69,19 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 4
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "nab_ukraine",
@@ -99,19 +99,77 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 18,
-    "relevant_posts": 4,
-    "deduplicated_posts": 4,
-    "candidate_posts": 4
+    "raw_posts": 21,
+    "relevant_posts": 7,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
   },
   "posts": [
     {
-      "id": "boris_rozhin/234216",
+      "id": "voenkorKotenok/78061",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78061",
+      "published_at": "2026-11-21T17:32:48+00:00",
+      "text": "Дания откровенно нарывается. Она призвала страны ЕС прекратить выдачу туристических виз русским и перестать признавать их небиометрические паспорта по всей Шенгенской зоне. Копенгаген разослал высокопоставленным европейским дипломатам ноту с таким предложением, сообщает Reuters. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78057",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78057",
+      "published_at": "2026-11-21T17:21:55+00:00",
+      "text": "В Одессе — частичный \"блэкаут\". Украинское \"Минэнерго\" сообщает, что в результате ударов по магистральным электросетям сработала автоматическая защита, что привело к массовым отключениям электричества. В частности, не ходят трамваи и троллейбусы. Ближе к ночи ждут новых прилетов. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198865",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198865",
+      "published_at": "2026-11-21T17:09:07+00:00",
+      "text": "🇺🇦 ❌ 💬 Large-scale blackout in Odessa, according to Ukrainian media. After yesterday's strikes by the Russian Armed Forces, two major substations near Odessa have been cut off from power. The Ukrainian Ministry of Energy stated that the constant attacks are triggering automatic safety mechanisms, which are causing widespread power outages. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234225",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234216",
-      "published_at": "2026-11-21T16:23:01+00:00",
-      "text": "ЕС хочет урезать расходы на развитие, науку и защиту граждан на €204 миллиарда, сохранив нетронутыми €100 миллиардов помощи Киеву. Проект нового бюджета предполагает уменьшение расходов на конкурентоспособность, процветание и безопасность на €95,4 миллиарда, на социально-экономическое развитие регионов и сельское хозяйство - на €54,3 миллиарда и т.д. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "url": "https://t.me/boris_rozhin/234225",
+      "published_at": "2026-11-21T17:03:01+00:00",
+      "text": "Центральные регионы Украины под атакой дронов. В Виннице прилет по подстанции. В городе отсутствует свет.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33519",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33519",
+      "published_at": "2026-11-21T17:01:35+00:00",
+      "text": "◾️ Today marks 13 years since the tragic events in Ukraine, that would later be known as the euromaidan. It was on 21 November, 2013 , in the centre of Kiev that the anti-government protests erupted, and it became a point of no return, leading directly to what we are witnessing today. Those responsible for the coup d'etat and their foreign sponsors are trying to whitewash and even rewrite the events that transpired in 2013-14. But no doubt the truth will prevail. ❗️ This is a sorrowful and tragic anniversary of the events, lessons of which must not be forgotten . And forget we shall not 👇 • Video recap of the sequence of events of the Euromaidan and what led to it • On the the unconstitutional coup d'etat in Ukraine – short text recap • On the origins of Ukrainian nationalism, the crimes of the OUN-UPA, and the support of the West • Maidan: Road to War – an RT.doc documentary • Operation Ukraine: Bandera's Dark Shadow – an RT DOC documentary • World renowned filmmaker and actor, Academy award winner Nikita Mikhalkov on the Ukrainian crisis and its genesis in Besogon TV episode circa March 2022",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -120,49 +178,31 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407000",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407000",
-      "published_at": "2026-11-21T16:13:46+00:00",
-      "text": "Лантратова сообщила, что готовит обращение в ООН в связи с ударом ВСУ по поселку Юбилейное. Она добавила, что будет добиваться публичного осуждения очередного преступления киевского режима против мирных граждан в ЛНР. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30719",
+      "id": "mod_russia_en/30720",
       "channel": "mod_russia_en",
       "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30719",
-      "published_at": "2026-11-21T16:09:30+00:00",
-      "text": "❗️ Today, during the daytime, the Armed Forces of the Russian Federation delivered UAV strikes at power infrastructure facilities and vessels used in the interests of the AFU. 💥 As a result of the strike, the following targets were hit: 📍 a 110 kV power substation providing operation of defence industry facilities of Ukraine in Vinnitsa; 📍 a dry cargo ship delivering dual-use cargo to support the AFU in the Black Sea waters south of Odessa. 🔹 Russian Defence Ministry",
+      "url": "https://t.me/mod_russia_en/30720",
+      "published_at": "2026-11-21T17:01:07+00:00",
+      "text": "It’s serious business here 😎 Scouts of the Svyatogor battalion (Tsentr Group of Forces) showed their training centre in the front-line area. without excessive pathos: classrooms under ground, and the enemy's trophy network of trenches and fortifications as simulators. On the ground, groups of two people exercise assault and reconnaissance missions, and in the sky they are secured by FPV drones. It's a real combat school. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "odesa",
-        "strike"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350238",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350238",
-      "published_at": "2026-11-21T16:01:44+00:00",
-      "text": "Главные новости дня : 🔹 Татьяна Ким больше не гендиректор Wildberries, но продолжает заниматься стратегическим развитием группы. 🔹 Корейцы осадили украинцев, критикующих певца из Stray Kids за чтение Достоевского. 🔹 Движение поездов по ж/д части Крымского моста восстановили в полном объеме. 🔹 Россиян допустили до соревнований по парусному спорту с флагом и гимном. 🔹 ВОЗ считает высоким риск распространения опасной супербактерии в ЕС. Но в России есть средство против нее. 🔹 Следовавшее в Калининград судно атаковали два БПЛА, экипажу не понадобилась эвакуация . 🔹 Наценки в такси за перевозку детей в России ограничат законодательно. 🔹 ИИ, как утверждается, решил одну из семи \"проблем тысячелетия\" – доказал гипотезу Римана. 🔹 ЕС в новом проекте бюджета хочет урезать расходы на собственное развитие, но сохранить помощь Киеву. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "tass_agency/407004",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407004",
+      "published_at": "2026-11-21T17:01:06+00:00",
+      "text": "Главные новости к этому часу: ▪️ ВС РФ поразили место совещания высокопоставленных представителей ВСУ. ▪️ Поезда через Крымский мост ходят штатно, сообщил ТАСС Никитин. ▪️ В Финском заливе БПЛА атаковали судно, следовавшее в Калининград. ▪️ Татьяна Ким покинула пост гендиректора Wildberries. ▪️ Во Владикавказе ввели режим ЧС после взрыва в доме. ▪️ Ювелир Паоло Булгари умер в возрасте 89 лет, пишет газета La Repubblica. ▪️ В Новокузнецке задержали багаж прилетевших на Шерегеш 138 пассажиров, прокуратура проводит проверку. ▪️ Дания предложила ЕС прекратить выдачу турвиз россиянам, передает Reuters. ▪️ РФ запросила данные о ситуации с \"валящим с ног вирусом\" в Казахстане. ▪️ Nvidia выбыла из тройки самых дорогостоящих компаний, выяснил ТАСС. ▪️ Конгрессмен-демократ пригрозил SpaceX лишением финансирования, сообщает CNN. ▪️ ВОЗ предупредила о риске распространения опасной \"супербактерии\" в Европе. ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "crimea",
         "drone",
-        "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
