@@ -1,0 +1,426 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T09",
+  "generated_at_utc": "2026-11-21T10:25:57.702140+00:00",
+  "window_start_utc": "2026-11-21T09:00:00+00:00",
+  "window_end_utc": "2026-11-21T10:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 35,
+    "relevant_posts": 22,
+    "deduplicated_posts": 22,
+    "candidate_posts": 22
+  },
+  "posts": [
+    {
+      "id": "AussieCossack/53488",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53488",
+      "published_at": "2026-11-21T09:46:41+00:00",
+      "text": "❗️ At the time of the pandemic, Boikov had shot to infamy as a vocal opposition to Covid-19 vaccines and restrictions. Online, he was testing the long arm of the law by hosting “freedom” protests and vlogging defiant showdowns with police. “They hated me, I was making a laughing-stock of them and they could never get me,” he says. Behind the scenes, however, Mr Boikov says he had been working with police on a different cause: exposing a notorious pedophile priest. He says he knew multiple victims of Alexis Rosentool, and started encouraging them to make statements in the hope of bringing the priest to justice. “He’d got away with it for many years,” Mr Boikov said. “I started the whole process.” Mr Boikov eventually became disillusioned with the investigation and decided to use his platform at freedom rallies to publicly name Mr Rosentool. Mr Rosentool was later jailed for 19 years over multiple child abuse charges. Mr Boikov, meanwhile, was imprisoned in 2022 for breaching the suppression order. “I don’t regret it. After that, many more victims came forward.” He was shackled and sent to a maximum-security prison alongside terrorists, murderers and members of the notorious Alameddine clan. Mr Boikov was “shocked” to be classified as an extreme high risk inmate, which he believes is the strictest ever punishment in Australia for breaching a suppression order. But thanks to his anti-authoritarian content, he had no trouble with his new neighbours. What wore him down, in fact, was the loss of phone access to keep up his online crusade. “The only phone I could use belonged to one of the Alemadines. He was a nice guy,” he says. After walking free on bail after serving four months, Mr Boikov made up his mind: it was time to replant his roots in Russia. But shopping in Sydney CBD one day, he fatefully stumbled on a pro-Ukraine protest, during which a man fell and was injured. That’s when Mr Boikov fled to the consulate. Full story : https://www.news.com.au/national/aussie-cossack-simeon-boikov-joins-russian-political-party-from-inside-sydney-consulate/news-story/30cf23ffdabe24c521e01918dd5d0319",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53487",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53487",
+      "published_at": "2026-11-21T09:39:21+00:00",
+      "text": "❗️ Mr Boikov’s supporters argue that his role in bringing Rosentool to justice, together with the years he has spent inside the consulate, should count in his favour. But the Australian authorities have given little indication they’re prepared to let him walk from the outstanding charges. “Australia remains deeply concerned about Russia’s use of disinformation globally, including efforts to justify its illegal and immoral invasion of Ukraine,” said a spokesperson for the Department of Foreign Affairs. “The Australian Government’s position is that Mr Boikov must face the criminal charges against him.” A NSW police spokesperson confirmed they “continue to seek the arrest of a 36-year-old man currently wanted on two outstanding warrants”. Meanwhile, the DFAT spokesperson notes consulates are “inviolable’’ under international law – meaning the host country has no right to enter them without permission. “Any law enforcement actions in relation to Mr Boikov are a matter for NSW Police.” Ukrainian ambassador Vasyl Myroshnychenko, who is no stranger to Russian propaganda, echoed the warning for vigilance. “Australians should be alert to Russian propaganda operations,” he says. “Russia has specific strategies for trying to undermine Australia’s social fabric.” Full story : https://www.news.com.au/national/aussie-cossack-simeon-boikov-joins-russian-political-party-from-inside-sydney-consulate/news-story/30cf23ffdabe24c521e01918dd5d0319",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78043",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78043",
+      "published_at": "2026-11-21T09:38:28+00:00",
+      "text": "Сегодня годовщина начала Майдана, а накануне этого дня, 20 ноября 2013 я с трибуны Верховной Рады обвинил посольство США в подготовке переворота на Украине. Националисты орали так, что я себя не слышал. Слава Богу, микрофон чувствительнее, чем мои уши, иначе разобрать, что я говорю, было бы невозможно. Мое выступление длилось столько, сколько было отведено для выступления руководителя фракции. С формальной точки зрения я, как заместитель руководителя фракции, имел право так делать. Но фактически мое выступление не было согласовано с руководством фракции и Партии и было моей личной инициативой. Когда я сошёл с трибуны, мне навстречу устремилась возмущённая Анна Герман со словами, что я не имею полномочий обвинять Соединённые Штаты. Выручил меня Михаил Чечетов, который обогнал Герман, бросился ко мне навстречу, обнял, оттеснил Герман: «Наконец хоть кто-то назвал вещи своими именами!» После выступления я уехал к себе в Днепропетровск и вернулся в Киев по просьбе руководителей Партии уже в разгар Майдана.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198837",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198837",
+      "published_at": "2026-11-21T09:38:09+00:00",
+      "text": "🇷🇺 🔹 The Russian Ministry of Defense reports that the Russian Armed Forces struck a location where a meeting was taking place between high-ranking representatives of the Ukrainian Armed Forces and representatives of the defense industry, including foreign representatives. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198836",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198836",
+      "published_at": "2026-11-21T09:35:38+00:00",
+      "text": "🇺🇦 In Kiev The Narcoführer perform’s a carefully staged display of collective grief, slowly shuffling along the pavement with memorial lamps in their hands. They are marking yet another anniversary of the military coup that devastated Ukraine, costing the country an enormous part of its population while enriching those who have benefited most from the events that followed. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234185",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234185",
+      "published_at": "2026-11-21T09:35:03+00:00",
+      "text": "В Харьковской области перекрыли движение по Печенежской дамбе Около 01:00 21 ноября российские войска нанесли ракетный удар по участку дороги Т-21-11 Чугуев — Печенеги — Великий Бурлук. Дамба повреждена, проезд по ней пока невозможен. Объезд организован по маршруту Чугуев — Коробочкино — Лебяжье — Базалеевка — Приморское. @ukr_2025_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234179"
+      ]
+    },
+    {
+      "id": "AussieCossack/53486",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53486",
+      "published_at": "2026-11-21T09:31:53+00:00",
+      "text": "❗️ Dr Robert Horvath, a specialist in Russian politics at La Trobe University, says the party maintains a thin veneer of autonomy within a political system dominated by the Russian president. “The party operates within a system completely controlled by the Kremlin,” he says. “It’s historically very close with Russian security, intelligence and security structures.” Despite its label as an opposition party, the LDPR is widely characterised by political scholars as serving the Kremlin. It has spent decades in the State Duma and is no fringe outfit operating on the edges of Russian politics. Mr Boikov’s recruitment, Dr Horvath says, could demonstrate the Kremlin’s appetite for fresh voices capable of projecting Russian influence abroad. Dr Horvath says his recruitment could hold significant implications for Australia. “Mr Boikov is very well-connected in far-right circles, so accepting an institutionalised role in Russia could be potentially significant for Australia,” he says. “His principal value to the Russian state is as a propagandist who can mobilise, disrupt and destabilise Western democracy.” That’s Mr Boikov’s secret weapon: the power to present Russian messaging to the West. “As an experienced propagandist with an Australian accent, he has an authentic charm,” Dr Horvath admits. Full story: https://www.news.com.au/national/aussie-cossack-simeon-boikov-joins-russian-political-party-from-inside-sydney-consulate/news-story/30cf23ffdabe24c521e01918dd5d0319",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30712",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30712",
+      "published_at": "2026-11-21T09:30:39+00:00",
+      "text": "👊 No new forces for enemy: the Vostok Group's attack drones thwarted the enemy's rotation, destroying armoured vehicles in Zaporozhye region. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53485",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53485",
+      "published_at": "2026-11-21T09:19:32+00:00",
+      "text": "❗️ Mr Boikov, who welcomed a son with his glamorous wife in December last year, likens life in the consulate to being “suspended in space”. Inside, he sleeps in a makeshift bedroom, does callisthenics to maintain fitness and spends his days pumping out pro-Russian content – often without direct sunlight. In 2023, this content landed him on the Australian government’s foreign influence transparency register. The irony is not lost on him: in crusading against Covid lockdowns, he landed in a lockdown of his own making. Full story: https://www.news.com.au/national/aussie-cossack-simeon-boikov-joins-russian-political-party-from-inside-sydney-consulate/news-story/30cf23ffdabe24c521e01918dd5d0319",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234183",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234183",
+      "published_at": "2026-11-21T09:17:01+00:00",
+      "text": "ВС РФ ударили по месту совещания высокопоставленных представителей ВСУ и представителей военно-промышленного комплекса, в том числе иностранных (с) МО РФ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406961",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406961",
+      "published_at": "2026-11-21T09:16:14+00:00",
+      "text": "▶️ БПЛА ВСУ ударили по жилым домам в Юбилейном. Их было так много, что они образовали рой, рассказал житель города Алексей. Видео: Данил Деркаев/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53484",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53484",
+      "published_at": "2026-11-21T09:12:44+00:00",
+      "text": "❗️ Mr Kramar denied LDPR is encouraging Mr Boikov to renounce his Australian citizenship, and insists the party was only “extending a helping hand”. It’s a remarkable rise to power for Mr Boikov, whose highest rank until now has been as a propagandist employed by Russian state-run media. What remains unclear is what responsibilities the opportunity will involve, and the influence Mr Boikov’s membership could play in a handover deal. What’s no secret is the power Mr Boikov holds for the regime. “His experience and first-hand insight into the inner workings of the West are invaluable assets,” Mr Kramar said. “But, above all, he has remained, at his core, a Russian.” So how, living inside a tiny room in his de facto residence, does a Sydney influencer become qualified for Russian politics? Full story: https://www.news.com.au/national/aussie-cossack-simeon-boikov-joins-russian-political-party-from-inside-sydney-consulate/news-story/30cf23ffdabe24c521e01918dd5d0319",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53483",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53483",
+      "published_at": "2026-11-21T09:10:39+00:00",
+      "text": "❗️ In a bombshell statement to news.com.au , LDPR Supreme Council Member Andrey Kramar confirmed Mr Boikov will soon be a card-carrying member of the party. Mr Kramar, who has a seat in the Russian occupied Donetsk People’s Republic (DPR) region of eastern Ukraine, used Mr Boikov’s plight as a defiant message for the West. “Let me state this firmly, for the whole world to hear: Russians do not abandon their own.” The move marks an extraordinary twist in the story of the notorious nationalist, who has spent years offering himself as part of a potential prisoner exchange deal with Moscow. But can Mr Putin’s man Down Under really trade his Sydney hide-out for a seat at Moscow’s political table? Full story : https://www.news.com.au/national/aussie-cossack-simeon-boikov-joins-russian-political-party-from-inside-sydney-consulate/news-story/30cf23ffdabe24c521e01918dd5d0319",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406960",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406960",
+      "published_at": "2026-11-21T09:10:20+00:00",
+      "text": "Главное из нового брифинга Минобороны России: ▪️ ВС РФ поразили за сутки места производства, хранения беспилотников и безэкипажных катеров для ВСУ; ▪️ Российские средства ПВО сбили за сутки 464 беспилотника ВСУ самолетного типа; ▪️ Подразделения ВСУ потеряли за сутки около 1 185 военнослужащих. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234181",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234181",
+      "published_at": "2026-11-21T09:10:09+00:00",
+      "text": "21 ноября 2026 года. · 00: 00 Овруч Житомирской области — взрыв. Герань. · 00:50 Сарны Ровенской области — взрыв. Герань. · 01:30 Запорожье — взрыв. Герань. · 01:37 Кривой Рог — взрыв. Герань. · 01:44 Киев — взрыв. Герань. · 02:54 Гайсин и Вышгород Киевской области — взрывы. Герани. · 03:30 Полтава — взрыв. Герань. · 03:30–03:40 Гайсин Винницкой области — взрывы. Герани. · 03:40 Донбасс — взрывы. УМПК. · 04:10 Киев — взрыв. Герань. · 04:50 Харьковская и Запорожская области — взрывы. УМПК. · 04:55 Харьковская область — взрывы. УМПК. · 05:10 Харьковская и Запорожская области — взрывы. УМПК. · 05:30 Днепропетровск — взрыв. Герань. · 05:45 Донбасс и Днепропетровска область — взрывы. УМПК. · 05:50 Донбасс, Запорожская и Днепропетровска область — взрывы. УМПК. · 05:50 Борисполь Киевской области и Шостка Сумской области — взрывы. Герани. · 05:55 Шостка Сумской области — взрывы. Герани. · 06:00 Запорожская область — взрывы. УМПК. · 06:30 Борисполь Киевской области — взрывы. Герани. · 06:40 Киев — взрыв. Предварительно Оникс-М. На фото и видео последствия ударов Гераней в Сарнах Ровенской области. @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234179"
+      ]
+    },
+    {
+      "id": "wargonzo/38547",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38547",
+      "published_at": "2026-11-21T09:09:03+00:00",
+      "text": "Криворожская ТЭС и сухогруз у Одессы попали под удар ВС РФ Минувшей ночью армия России нанесла серию ударов по теплоэлектростанции, электроподстанциям и сухогрузу в районе Одессы. Минобороны РФ сообщает, что в Днепропетровской области был нанесён удар по Криворожской ТЭС. Она обеспечивала работу предприятий украинского ВПК. В Ровенской области был нанесён удар по электроподстанции, задействованной в электроснабжении военных предприятий. Также поражен сухогруз в районе Одессы, перевозивший грузы двойного назначения для ВСУ. По данным «Киевводоканала», в Киеве зафиксированы проблемы с подачей воды. В Днепропетровске и Одессе введены экстренные отключения света, сообщает ДТЭК. Перебои с подачей электричества также начались в Винницкой области. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234179"
+      ]
+    },
+    {
+      "id": "rian_ru/350219",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350219",
+      "published_at": "2026-11-21T09:08:40+00:00",
+      "text": "❗️ Три человека погибли, шесть ранены при атаке ВСУ на поселок Юбилейный в Луганске. Удар нанесли по спящим людям в жилых домах, сообщил Пасечник. В одном из зданий обрушились бетонные перекрытия между подъездами. Под завалами еще могут оставаться люди.…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53482",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53482",
+      "published_at": "2026-11-21T09:07:57+00:00",
+      "text": "❗️ An infamous Aussie fugitive has accepted a world-first offer to reinvent himself as a Russian politician, news.com.au can reveal. Simeon Boikov, known online as the Aussie Cossack, has spent almost four years dodging arrest warrants within the walls of Sydney’s Russian Consulates. News.com.au has confirmed Mr Boikov has joined the Liberal Democratic Party (LDPR). Despite its name, LDPR is known for extreme, ultranationalist politics that back President Putin’s war in Ukraine. From his self-imposed exile, the pro-Putin podcaster is accused of being a serial pest who haunts the Albanese government meddling in Aussie politics. But now, the man dubbed “Russia’s Julian Assange” appears to have mapped an extraordinary exit route: through the machinery of Mr Putin’s power. While in hiding, Mr Putin has already granted Mr Boikov citizenship. And while diplomatic asylum seekers are not new, news.com.au understands this is the only known case of someone holed up in a consulate accepting a government post. Full story: https://www.news.com.au/national/aussie-cossack-simeon-boikov-joins-russian-political-party-from-inside-sydney-consulate/news-story/30cf23ffdabe24c521e01918dd5d0319",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198833",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198833",
+      "published_at": "2026-11-21T09:06:45+00:00",
+      "text": "🇷🇺 🇺🇦 Russian Air Force Su-34 crews struck a Ukrainian border unit’s drone control point in Kharkov Oblast with five FAB-500 bombs, the Russian Ministry of Defense reported. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350218",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350218",
+      "published_at": "2026-11-21T09:06:39+00:00",
+      "text": "ПВО сбила 464 дрона ВСУ , заявили в Минобороны. О потерях ВСУ за сутки - в нашей инфографике. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198831",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198831",
+      "published_at": "2026-11-21T09:05:13+00:00",
+      "text": "🇺🇦 Sergey Radzitsky, a Ukrainian Armed Forces soldier who, together with a doctor, visited Azov’s torture facility in Borchagovka and reported on it online, has been sent to pretrial detention. He was imprisoned for allegedly “interfering with the military’s combat operations” and “reporting the location of military personnel.” In other words, the military can now set up a torture facility in a private home, abduct and torture people there, while reporting this on the internet is considered a “criminal offense” because it “reveals troop positions.” Ukrainian media and the so-called opposition supported this arrest. They did not raise any questions about the abuse of people in this house. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234179",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234179",
+      "published_at": "2026-11-21T09:03:01+00:00",
+      "text": "Хроника ударов по территории Украины 20 ноября 2026 – 21 ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Львовской, Хмельницкой и Ивано-Франковской областях (крылатые ракеты и Герани), Винницкой, Житомирской, Киевской, Одесской, Ровенской, Полтавской и Хмельницкой областях (Герани). 20 ноября 2026 года. · 07:45 Киев — взрывы. Искандер-М. · 07:46 Львов — взрыв. Герань. · 07:47 Бурштын Ивано-Франковской области — взрывы. Калибры. · 07:52–07:57 Львов — взрывы. Калибры. · 08:05 Днепропетровск — взрыв. Х-101. · 08:25 Окрестности Винницы — взрывы. Х-101. · 08:31 Добротворская ТЭС, Львовская область — взрывы. Х-101. · 08:31–08:35 Сумы — 2 мощных взрыва. · 08:37 Окрестности Яворова Львовской области — взрыв. Х-101. · 08:40 Хмельницкий — взрывы. Х-101. · 08:45 Хмельницкая область — взрывы. Х-101. · 08:55 Стрый Львовской области — взрывы. Х-101. · 09:05–09:10 Бурштынская ТЭС — взрывы. Х-101. · 09:25 Сумская область — взрывы. УМПК. · 09:27 Окрестности Харькова и Запорожья — взрывы. Герани. · 09:30 Окрестности Харькова — снова взрыв. Герани. · 09:43 Раздельная Одесской области — взрыв. Герань. · 10:20 Народичи Житомирской области — взрыв. Герань. · 10:43 Ровенская область — взрыв. Герань. · 11:05 Хмельницкий — взрывы. Х-101. · 11:15 Ходоров Львовской области — взрыв. Х-101. · 11:19 Бурштынская ТЭС и Ходоров Львовской области — взрыв. Х-101. · 11:20 Васищево Харьковской области — взрыв. Герань. · 11:30 Николаев и Беляевка Одесской области — взрывы. Герани. · 11:40 Киев — взрыв. Герань. · 12:03 Маяки Одесской области — взрыв. Герань. · 13:15 Сумская область — взрывы. УМПК. · 13:25 Донбасс — взрывы. УМПК. · 13:35 Киев — взрыв. Герань. · 14:40 Беляевка Одесской области и Бахмач Черниговской области — взрывы. Герани. · 15:10 Харьков — взрыв. Герань. · 15:40 Запорожская область — взрывы. УМПК. · 15:50 Запорожье — взрывы. УМПК. · 15:50 в районе Олевска Житомирской области — взрыв. Герань. · 16:00 Запорожье — взрыв. Дань-Т. · 16:05 Запорожье — взрывы УМПК и Дань-Т. · 16:10 Запорожье — снова взрывы. УМПК. · 16:15 Маяки Одесской области — взрывы. Герани. · 16:35 Запорожье — взрывы УМПК. · 16:40 Окрестности Сум — взрывы. УМПК. · 16:57 Маяки Одесской области — взрыв. Герань. · 17:20 Беляевка Одесской области и Смела Черкасской области — взрывы. Герани. · 17:40 Белая Церковь — взрыв. Герань. · 17:40 Харьковская область — взрывы. УМПК. · 19:05 Донбасс — взрывы. УМПК. · 19:07 Сарны Ровенской области — взрыв. Герань. · 19:40 Белая Церковь Киевской области — взрыв. Герань. · 20:00 Донбасс — взрывы. УМПК. · 21:05 Окрестности Гайсина Винницкой области — взрыв. Герань. · 21:10 Харьков — взрыв. Герань. · 21:20 Солнциевка Харьковской области — взрывы. Герани. · 21:20 Кривой Рог — взрывы. Искандер-М. · 21:45 Васильков Киевской области — взрыв. Герань. · 21:55 Днепропетровск — взрыв. Герань. · 22:05 Донбасс и Запорожская область — взрывы. УМПК. · 22:10 Днепропетровская область — взрывы. УМПК. · 22:17 Кривой Рог — взрыв. Герань. · 22:20–22:35 Запорожье — взрывы. Герани. · 22:45 Сарны Ровенской области — взрыв. Герань. · 22:50–23:05 Кривой Рог — взрывы. Герани. · 23:55 Харьковская область — взрывы. УМПК. На видео удары Гераней в Кривом Роге. @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234185",
+        "https://t.me/boris_rozhin/234181",
+        "https://t.me/wargonzo/38547"
+      ]
+    }
+  ]
+}
