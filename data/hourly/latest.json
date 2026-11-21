@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-21T00",
-  "generated_at_utc": "2026-11-21T01:23:12.252652+00:00",
-  "window_start_utc": "2026-11-21T00:00:00+00:00",
-  "window_end_utc": "2026-11-21T01:00:00+00:00",
+  "hour_id": "2026-11-21T01",
+  "generated_at_utc": "2026-11-21T02:29:12.168537+00:00",
+  "window_start_utc": "2026-11-21T01:00:00+00:00",
+  "window_end_utc": "2026-11-21T02:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "intelslava",
@@ -21,13 +21,13 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
@@ -100,22 +100,37 @@
   "coverage_complete": true,
   "stats": {
     "raw_posts": 8,
-    "relevant_posts": 1,
-    "deduplicated_posts": 1,
-    "candidate_posts": 1
+    "relevant_posts": 2,
+    "deduplicated_posts": 2,
+    "candidate_posts": 2
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198817",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198817",
-      "published_at": "2026-11-21T00:23:52+00:00",
-      "text": "⚡️ On November 20, the Russian Foreign Ministry summoned Romania’s Ambassador to Russia Cristian Istrate . The Ministry issued a strong protest over Romania’s unjustified refusal to issue entry visas to the Russian national team , which was due to compete in the European Taekwondo Championships for boys and girls aged 12–14 in Bucharest in late November. Moscow regards this violation of the young athletes’ rights as a shameful act of discrimination on grounds of nationality that contravenes fundamental human rights standards and undermines the foundations of international cooperation in sport. ❗️ Politicising decisions on whether Russian athletes can compete in international competitions is absolutely unacceptable. Hostile acts against Russia will not go unanswered and will have lasting negative consequences for those responsible.",
+      "id": "tass_agency/406919",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406919",
+      "published_at": "2026-11-21T01:14:01+00:00",
+      "text": "\"Отлично — вассал не должен спорить с хозяином\": Дмитриев прокомментировал извинения главы Минобороны ФРГ Писториуса перед замглавы Пентагона по политическим делам Колби. Ранее Колби перед заседанием группы по координации поставок оружия Украине заявил, что \"глубокие удары\" Киева по РФ ведут не к окончанию конфликта, а к укреплению решимости российской общественности. Писториус назвал критику ударов ВСУ \"глупым делом\".",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow"
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234144",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234144",
+      "published_at": "2026-11-21T01:03:01+00:00",
+      "text": "Робокоп из сбитого дрона. Тюменские бойцы показали, как на передовой используются трофеи. Наши парни могут дать фору любому инженерному бюро. Запчасти от сбитых дронов ВСУ не валяются в грязи без дела. Из одного \"сбитого\" сняли винт и соорудили флюгер, чтобы определять направление ветра и, соответственно, погоду. Из остатков fpv-дрона собрали настоящего \"Робокопа\", для движения использовали батарейки из сломанной техники, и сделали точную копию пушки, на которой работают наши бойцы. Народный фронт предал ребятам прицел. И сейчас готовится отправить гуманитарную помощь нашим Кулибиным.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
       ],
       "possible_duplicate_urls": []
     }
