@@ -1,0 +1,192 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T14",
+  "generated_at_utc": "2026-11-21T15:26:30.503225+00:00",
+  "window_start_utc": "2026-11-21T14:00:00+00:00",
+  "window_end_utc": "2026-11-21T15:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 17,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "rybar_in_english/35917",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35917",
+      "published_at": "2026-11-21T14:40:16+00:00",
+      "text": "Fwd from @ 📝 Knock-Knock 📝 The ambassador knocks on every door While Washington closes its wallet and reads the riot act, Moscow opens an embassy and embraces the security forces. French observers documented a series of Russian meetings in South Sudan, and the contact list reads like a manual for capturing influence. The president's national security advisor, the head of the evangelical church, the chief secretary of the Defense Ministry — all pillars of the regime covered in one series. The country's leader received a warm reception in Moscow with the participation of GRU leadership. The embassy in Juba opened less than a year ago, in December 2025. The French separately note \"Zarubezhneft\" in the oil sector and Russian mining companies in gold — meaning economic interest runs parallel to political. The timing is perfect. Western money for Juba dried up, Americans refused to fund the elections, and the scheme of trading voting dates didn't work out. Kiir needs new sponsors without questions about the opposition, and Russia moves into the vacant niche. The most interesting detail — the evangelical church . South Sudan is a Christian country, and American evangelical circles have been the main channel of White House administration influence on Juba's leadership for decades, even lobbying for independence. Russia's meeting with the church leader — a move into territory that Americans considered theirs . ❗ The picture emerges like this — the US closes its wallet and reads lectures about elections, while Russian representatives embrace the security forces (the most important pillar of the country's stability), pastors, and eye oil and gold. For Kiir , with Machar under arrest and elections turned into a farce, a new external patron arrived at just the right moment. #Russia #SouthSudan 💀 @rybar_africa — where politics is hotter than the equator 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234207",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234207",
+      "published_at": "2026-11-21T14:33:01+00:00",
+      "text": "МИД РФ уведомил, что для России неприемлемы сценарии гарантий для Украины на основе 5-й статьи устава НАТО. Так сказать ответ на вбросы с Запада, что Россия якобы рассматривает такую возможность. Варианты таких гарантий, как и размещение войск НАТО на Украине для РФ неприемлемы.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350233",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350233",
+      "published_at": "2026-11-21T14:31:53+00:00",
+      "text": "Три мирных жителя пострадали в результате атаки ВСУ в Горловке в ДНР, сообщил мэр Приходько. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234206",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234206",
+      "published_at": "2026-11-21T14:17:01+00:00",
+      "text": "К российскому сухогрузу, атакованному БПЛА в Финском заливе, подошло спасательное судно из России. Эвакуация команды не потребовалась, ситуация на судне находится под контролем. \"Судовая команда проводит необходимые работы и планирует возобновить движение по маршруту\", — написал губернатор.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38554",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38554",
+      "published_at": "2026-11-21T14:11:01+00:00",
+      "text": "Половина немцев выступила за сокращение или прекращение помощи Украине Почти половина жителей Германии выступает за сокращение или полное прекращение многомиллиардной помощи Украине. Об этом свидетельствуют результаты опроса общественного мнения, проведенного институтом YouGov для газеты Welt am Sonntag. Из данных опроса – 49% респондентов высказались за сокращение или полное прекращение поддержки Киева. В то же время 39% настаивают на продолжении оказания помощи в прежнем объеме или ее наращивании. Еще 11% не определились с ответом. Как отмечает издание, общественные настроения в Германии в этом вопросе заметно изменились. Еще в сентябре опрос Deutschlandtrend фиксировал более высокий уровень поддержки. Наибольшая солидарность с Украиной наблюдается среди избирателей партии «Зеленые», а также у молодежи до 29 лет и граждан старше 70 лет. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234205",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234205",
+      "published_at": "2026-11-21T14:03:01+00:00",
+      "text": "Очередной бросок ВСУ закончился провалом Противник гонит живую силу на передний край — без оглядки на потери. Операторы Бригады Север-V засекли группу бойцов, бежавшую через открытое поле к своим позициям. Скорость бега не помогла — операторы отслеживали каждый шаг. Как только противник добрался до кромки деревьев и остановился передохнуть, артиллеристы бригады приступили к уничтожению. Оставшихся настигли FPV-дроны. @Sever_Z",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-21T13",
-  "generated_at_utc": "2026-11-21T14:24:29.108115+00:00",
-  "window_start_utc": "2026-11-21T13:00:00+00:00",
-  "window_end_utc": "2026-11-21T14:00:00+00:00",
+  "hour_id": "2026-11-21T14",
+  "generated_at_utc": "2026-11-21T15:26:30.503225+00:00",
+  "window_start_utc": "2026-11-21T14:00:00+00:00",
+  "window_end_utc": "2026-11-21T15:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 0
     },
     {
       "handle": "intelslava",
@@ -21,7 +21,7 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "AussieCossack",
@@ -39,25 +39,25 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "dva_majors",
@@ -69,7 +69,7 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -99,34 +99,19 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 21,
-    "relevant_posts": 5,
-    "deduplicated_posts": 5,
-    "candidate_posts": 5
+    "raw_posts": 17,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
   },
   "posts": [
     {
-      "id": "rian_ru/350232",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350232",
-      "published_at": "2026-11-21T13:45:13+00:00",
-      "text": "❗️ Следовавшее в Калининград судно атаковали два БПЛА. Нападение произошло в нейтральных водах Финского залива, в трех морских милях от границы России, сообщил губернатор Дрозденко. Экипаж судна эвакуируют. UPD: угроз для снабжения Калининградской области…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35916",
+      "id": "rybar_in_english/35917",
       "channel": "rybar_in_english",
       "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35916",
-      "published_at": "2026-11-21T13:40:23+00:00",
-      "text": "📝 Russian trace again 📝 Epstein turned out to be linked to Russia again It would seem that over six months one could come up with something newer and more interesting. But why bother when you can always play the old reliable card of a \"Russian trace\" in the Epstein case and splash it across the front pages again? Reuters published a new \"investigation\" about Jeffrey Epstein's trips to Russia, his acquaintances with Russian businessmen, his search for girls through modeling agencies, and his attempts to arrange a meeting with Vladimir Putin. 🔻 What did they find this time? ▪️ In 1998, Epstein visited the closed city of Sarov, and in 2002 he traveled to Moscow and St. Petersburg. Moreover, he came to the Russian capital together with Ghislaine Maxwell and Jean-Luc Brunel. ▪️ In the financier's correspondence, Russian businessmen Vladislav Doronin and Oleg Deripaska appear, as well as former Deputy Minister of Economic Development Sergey Belyakov. Through intermediaries, Epstein repeatedly tried to arrange a meeting with Putin. ▪️ Reuters separately tells about girls from Russia and other former Soviet republics who were drawn into Epstein's network of sexual exploitation. Journalists identified the identities of at least 17 victims. But after all these details, even Reuters admits: journalists found no evidence that Epstein worked for Russian intelligence services, acted in the interests of the Russian government, or even met with Putin. Moreover, the financier's attempts to cultivate influential connections in Russia brought him neither major deals nor any notable political influence. 📌 The British engaged in similar practices before, but for yet another appearance of a \"Russian trace,\" this time they didn't even need new evidence: old trips, acquaintances, and failed meetings were merely supplemented with new testimonies, but no facts of the financier working for Moscow ever emerged. Instead, they got another sensational story about \"Russian connections.\" And that's quite enough for the front pages of Western \"trendsetters.\" #UnitedKingdom #Russia #USA ✉ MAX 💸 Support us Original msg",
+      "url": "https://t.me/rybar_in_english/35917",
+      "published_at": "2026-11-21T14:40:16+00:00",
+      "text": "Fwd from @ 📝 Knock-Knock 📝 The ambassador knocks on every door While Washington closes its wallet and reads the riot act, Moscow opens an embassy and embraces the security forces. French observers documented a series of Russian meetings in South Sudan, and the contact list reads like a manual for capturing influence. The president's national security advisor, the head of the evangelical church, the chief secretary of the Defense Ministry — all pillars of the regime covered in one series. The country's leader received a warm reception in Moscow with the participation of GRU leadership. The embassy in Juba opened less than a year ago, in December 2025. The French separately note \"Zarubezhneft\" in the oil sector and Russian mining companies in gold — meaning economic interest runs parallel to political. The timing is perfect. Western money for Juba dried up, Americans refused to fund the elections, and the scheme of trading voting dates didn't work out. Kiir needs new sponsors without questions about the opposition, and Russia moves into the vacant niche. The most interesting detail — the evangelical church . South Sudan is a Christian country, and American evangelical circles have been the main channel of White House administration influence on Juba's leadership for decades, even lobbying for independence. Russia's meeting with the church leader — a move into territory that Americans considered theirs . ❗ The picture emerges like this — the US closes its wallet and reads lectures about elections, while Russian representatives embrace the security forces (the most important pillar of the country's stability), pastors, and eye oil and gold. For Kiir , with Machar under arrest and elections turned into a farce, a new external patron arrived at just the right moment. #Russia #SouthSudan 💀 @rybar_africa — where politics is hotter than the equator 💸 Support us Original msg",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -135,12 +120,24 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78054",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78054",
-      "published_at": "2026-11-21T13:37:10+00:00",
-      "text": "После бомбового удара опорный пункт 104-й отдельной бригады ТерО ВСУ в районе руин н.п. Княжичи Сумской области перестал существовать. Подпишись в MAX @voenkorKotenok",
+      "id": "boris_rozhin/234207",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234207",
+      "published_at": "2026-11-21T14:33:01+00:00",
+      "text": "МИД РФ уведомил, что для России неприемлемы сценарии гарантий для Украины на основе 5-й статьи устава НАТО. Так сказать ответ на вбросы с Запада, что Россия якобы рассматривает такую возможность. Варианты таких гарантий, как и размещение войск НАТО на Украине для РФ неприемлемы.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350233",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350233",
+      "published_at": "2026-11-21T14:31:53+00:00",
+      "text": "Три мирных жителя пострадали в результате атаки ВСУ в Горловке в ДНР, сообщил мэр Приходько. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -149,30 +146,46 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "bricsnews/19758",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19758",
-      "published_at": "2026-11-21T13:16:21+00:00",
-      "text": "JUST IN: 🇷🇺 🇵🇱 Poland says two Russian missiles and a military drone may have struck its territory. @BRICSNews",
+      "id": "boris_rozhin/234206",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234206",
+      "published_at": "2026-11-21T14:17:01+00:00",
+      "text": "К российскому сухогрузу, атакованному БПЛА в Финском заливе, подошло спасательное судно из России. Эвакуация команды не потребовалась, ситуация на судне находится под контролем. \"Судовая команда проводит необходимые работы и планирует возобновить движение по маршруту\", — написал губернатор.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "missile"
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198854",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198854",
-      "published_at": "2026-11-21T13:02:08+00:00",
-      "text": "LIVESTREAM ALERT: Join Danny Haiphong LIVE with Pepe Escobar at 10am eastern 4pm CET TODAY NOV 21st ! Pepe Escobar breaks down Iran's comprehensive response to the US attempt to maintain a status quo of \"neither war nor peace\" as the fallout from the Putin-Xi-Trump trilateral summit is only beginning to take shape. Has Iran gone on the offensive against the US's naval blockade? Why is activity in the Strait of Hormuz only intensifying? And how will the historic APEC in Shenzhen impact the world order? Join the show as we talk about all this and much more. Watch: https://www.youtube.com/watch?v=9C351fRHmdA",
+      "id": "wargonzo/38554",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38554",
+      "published_at": "2026-11-21T14:11:01+00:00",
+      "text": "Половина немцев выступила за сокращение или прекращение помощи Украине Почти половина жителей Германии выступает за сокращение или полное прекращение многомиллиардной помощи Украине. Об этом свидетельствуют результаты опроса общественного мнения, проведенного институтом YouGov для газеты Welt am Sonntag. Из данных опроса – 49% респондентов высказались за сокращение или полное прекращение поддержки Киева. В то же время 39% настаивают на продолжении оказания помощи в прежнем объеме или ее наращивании. Еще 11% не определились с ответом. Как отмечает издание, общественные настроения в Германии в этом вопросе заметно изменились. Еще в сентябре опрос Deutschlandtrend фиксировал более высокий уровень поддержки. Наибольшая солидарность с Украиной наблюдается среди избирателей партии «Зеленые», а также у молодежи до 29 лет и граждан старше 70 лет. @wargonzo",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234205",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234205",
+      "published_at": "2026-11-21T14:03:01+00:00",
+      "text": "Очередной бросок ВСУ закончился провалом Противник гонит живую силу на передний край — без оглядки на потери. Операторы Бригады Север-V засекли группу бойцов, бежавшую через открытое поле к своим позициям. Скорость бега не помогла — операторы отслеживали каждый шаг. Как только противник добрался до кромки деревьев и остановился передохнуть, артиллеристы бригады приступили к уничтожению. Оставшихся настигли FPV-дроны. @Sever_Z",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
       "possible_duplicate_urls": []
     }
   ]
