@@ -1,0 +1,30 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-21T17",
+  "snapshot_generated_at_utc": "2026-11-21T18:22:55.394215+00:00",
+  "items": [
+    {
+      "title": "Denmark reportedly urges EU to stop issuing tourist visas to Russians",
+      "summary": "Denmark has circulated a proposal urging EU countries to stop issuing tourist visas to Russian citizens and cease recognising their non-biometric passports across the Schengen area, according to reports citing Reuters. The proposal is not an EU-wide policy decision.",
+      "source_urls": [
+        "https://t.me/voenkorKotenok/78061",
+        "https://t.me/tass_agency/407004"
+      ]
+    },
+    {
+      "title": "Odesa suffers widespread power outages after strikes on electricity network",
+      "summary": "Ukrainian reports describe widespread outages in Odesa after attacks on major substations and transmission infrastructure triggered automatic grid protections. Tram and trolleybus services were reportedly disrupted as electricity supplies failed in parts of the city.",
+      "source_urls": [
+        "https://t.me/voenkorKotenok/78057",
+        "https://t.me/DDGeopolitics/198865"
+      ]
+    },
+    {
+      "title": "Vinnytsia reportedly loses power following drone strike on substation",
+      "summary": "A Russian military-linked report says a drone strike hit an electrical substation in Vinnytsia and left the city without power. Russia's Defence Ministry had earlier claimed a strike on a 110 kV substation there; the new account describes reported consequences for electricity service.",
+      "source_urls": [
+        "https://t.me/boris_rozhin/234225"
+      ]
+    }
+  ]
+}
