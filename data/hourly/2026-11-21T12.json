@@ -1,0 +1,200 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T12",
+  "generated_at_utc": "2026-11-21T13:23:41.221063+00:00",
+  "window_start_utc": "2026-11-21T12:00:00+00:00",
+  "window_end_utc": "2026-11-21T13:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 15,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "voenkorKotenok/78051",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78051",
+      "published_at": "2026-11-21T12:45:34+00:00",
+      "text": "И ещё немного о точности, и влиянии КВО средств поражения, на результат. Когда противники массовым концентрированным ударом сумел обрушить автомобильную арку Крымского моста, по мосту в Киеве наносился удар нашими баллистическими ракетами. И результаты удара вызвали тогда бурную радость нашей пропаганды, которая в моменте была необходима чтоб частично компенсировать психологический эффект вражеского удара. Поэтому с публикацией анализа решил немного повременить, чтоб эмоции стихли. Тем не крайне важно не допускать самообмана и самооблучения собственной пропагандой, потому что пропущенный удар, даёт возможность острее прочувствовать те застарелые проблемы, которые старательно заметаются под ковёр всеми, кому не выгоден честный и конкретный разбор полетов. И так, что же мы видим на фото. Вопреки разговорам что мол чуть не повезло, удар не разбил узел крепления вант (а это с большой долей вероятности обрушило бы несущий вертикальный пилон и следом пролёт), на фотографиях видно, что края пролома от взрыва находятся не менее чем в 4-5 метрах от точки, которую нужно было разрушить. Плюс размер самого пролома в поперечнике тоже примерно под 4-5 метров, что же даёт около 7-8 метров отклонение центра боевой части от точки прицеливания. И это лучший результат, учитывая что ракет было выпущено больше чем одна. Таким образом, КВО -;Круговое Вероятное Отклонение, явно превышает 10-15 метров (хотя статистики по одному объекту маловато), но однозначно оно значительно больше чем те средства поражения, которые смогли в течение 5 минут, уложить 12 боевых частей в элементы конструкции, с геометрическими размерам в районе 1 метра в сечении. Конечно, для баллистических ракет необходимо учитывать очень большую скорость, на которой обеспечение нужной точности задача крайне сложная и требующая соответствующей элементной базы. Тем не менее, по этим мостам били и ДВСные и реактивные БПЛА, которые так же пока ещё не добились обрушения. И как раньше уже писал, это следствия превосходства НАТО в системах спутниковой связи, в заточенности своего штатного вооружения под более жёсткие требования по точности, что в итоге и обернулось тем, что мы увидели. Но, тут палка о двух концах. Перехват баллистических ракет противником сейчас очень затруднён отсутствием противоракет, поэтому даже с худшим КВО, можно обеспечить большой процент долета ударных средств. И добиться результата, просто проведя массированный концентрированный удар, по одной цели. Это заодно сильнее нивелирует возможности ПВО противника, и удары баллистикой, можно и нужно дополнять ударами БПЛА, сконцентрированных в достаточном количестве, чтоб локально перегрузить ПВО малого неба, и повысить процент долета БПЛА. И уже поврежденную конструкцию поражать баллистическими ракетами. И если не получилось за один день, то на второй день повторять. Обрушение трёх мостов в Киеве по факту парализует экономическую жизнь наиболее живого региона Украины, что будет иметь далеко идущие последствия для состояния тыла, логистики. Так как вантовые мосты, при обрушении пилонов и пролётов, нереально восстановить в короткие сроки. Но что мешает сконцентрировать весь доступный наряд сил по наиболее приоритетной цели - загадка. Разумеется остальные цели по всей ЛБС тоже необходимо уничтожать, но в таком случае, можно откладывать часть средств поражения, снижая число на 10-20% в день, и за месяц накопить достаточный запас чтоб на несколько дней можно было применить кратно больший залп. И уже наконец добиться результата. А удары растопыреными пальцами, пока что равномерно загружают вражеское ПВО малого неба, не давая ему перегрузиться. И приводят к максимизации эффективности перехвата противника. Какая при этом достигается иная цель, тайна сие великая есть. Русский Инженер - ✅ подписаться",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35915",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35915",
+      "published_at": "2026-11-21T12:40:11+00:00",
+      "text": "Fwd from @ 💬 Close the sea to the AFU 💬 half the work is done The Black Sea confrontation has led to Ukrainian shipping falling to record lows. You've probably noticed that Ukraine practically doesn't discuss the Black Sea situation at all, even though \"Geraniums\" strike there regularly and sinkings happen very often. However, as colleagues correctly noted, the Ukrainian side managed to redirect flows to the Danube. The volumes there are not as large as in Odesa or Pivdennyi, but this allowed them to partially reduce the damage from the blockade by passing ships through the river. Moreover, ships do this covertly: until the Romanian anchorage they sail with a destination listed as Moldova or Romania, and then they disable navigation systems and enter the ports of Izmail or Reni. And sometimes they sail without any final destination at all, concealing their true purpose throughout the route. ❗️ Recently, ships have also been traveling through the Ukrainian section of the Danube, which should also be kept in mind when planning strikes. In order to cut Ukraine off from the sea, one needs to strike both at these ports in Izmail and Reni, and at ship movements in the Ukrainian section of the Danube. And in Romanian waters one should also monitor those waiting for passage. Many ships regularly sail only to Ukraine, which means they are quite legitimate targets. 🤙 Spetsnaz Archangel ! ❗️ 🤙 If the video doesn't load - watch it on our MAX Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350228",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350228",
+      "published_at": "2026-11-21T12:15:36+00:00",
+      "text": "ЕС хочет урезать расходы на развитие, науку и защиту граждан на €204 миллиарда , сохранив нетронутыми €100 миллиардов помощи Киеву. Проект нового бюджета предполагает уменьшение расходов на конкурентоспособность, процветание и безопасность на €95,4 миллиарда, на социально-экономическое развитие регионов и сельское хозяйство - на €54,3 миллиарда и т.д. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33517",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33517",
+      "published_at": "2026-11-21T12:05:24+00:00",
+      "text": "🎙 Russian Foreign Ministry Spokeswoman Maria Zakharova’s statement on the Estonian authorities’ decision to close checkpoints on the border with Russia (November 20, 2026) 💬 On November 20, the Estonian authorities decided to close the remaining checkpoints on the border with Russia. This step by Tallinn, taken under the pretext of a “failed arson attack” on an Estonian defence industry facility allegedly orchestrated by the “Russian special services” , is openly confrontational and forms part of a deliberate effort to strain relations with our country to breaking point and, more broadly, to inflame tensions in the Baltic region . The unilateral closure of these checkpoints infringes the rights and interests of a substantial number of our compatriots . The decision will have highly detrimental consequences for the economy and public services , particularly in Estonia’s own border regions. It was clearly taken in haste, without any consultation with Moscow. 👉 We are in no doubt that attempts to erect a “sanitary cordon” around Russia and isolate it will cost their architects dear. To convey to the Estonian side Russia’s position that hostile actions against our country are unacceptable, the Estonian Chargé d’Affaires a.i. has been summoned to the Russian Foreign Ministry . ❗️ Russia reserves the right to take all necessary political and diplomatic measures to safeguard its national interests.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38552",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38552",
+      "published_at": "2026-11-21T12:03:02+00:00",
+      "text": "В Финском заливе атаковано российское судно По сообщениям эстонских СМИ и губернатора Ленинградской области, сегодня, в Финском заливе два беспилотника атаковали российское универсальное грузовое судно SPARTA II. Инцидент произошёл в 11 морских милях к северу от эстонского острова Вайндлоо. На борту возник пожар, экипаж эвакуировали. Судно следовало из Санкт-Петербурга в Калининград. SPARTA II – это универсальное грузовое судно, способное перевозить контейнеры, колёсную технику и генеральные грузы. Оно принадлежит компании «Оборонлогистика» и задействовано в перевозках по линии Усть-Луга – Балтийск – Калининград. Ранее судно использовалось для доставки грузов в Сирию, в том числе в рамках военной логистики. Обстоятельства атаки и масштаб повреждений пока уточняются. Однако главный вопрос сейчас не столько в происхождении беспилотников – их украинская принадлежность сомнений практически не вызывает, – сколько в месте запуска. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102334",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102334",
+      "published_at": "2026-11-21T12:02:35+00:00",
+      "text": "🚢 🔥 В Финском заливе дронами атаковано судно, шедшее в Калининградскую область Губернатор Ленинградской области Александр Дрозденко сообщил, два беспилотника атаковали грузовое судно , направлявшееся в Калининград. Начата эвакуация экипажа. Предварительно атака совершена в международных водах Финского залива , примерно в трёх морских милях (5,6 км) от российской границы. Сегодня 🇷🇺 Ленобласть подвергалась массированному налёту БПЛА , а 🇫🇮 Финляндия дважды за утро вводила ограничения полётов в своём воздушном пространстве. ✨ Кто атаковал понятно, через чью территорию тоже не секрет. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
