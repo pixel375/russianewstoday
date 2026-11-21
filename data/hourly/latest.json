@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-21T07",
-  "generated_at_utc": "2026-11-21T08:12:31.172512+00:00",
-  "window_start_utc": "2026-11-21T07:00:00+00:00",
-  "window_end_utc": "2026-11-21T08:00:00+00:00",
+  "hour_id": "2026-11-21T08",
+  "generated_at_utc": "2026-11-21T09:29:50.931978+00:00",
+  "window_start_utc": "2026-11-21T08:00:00+00:00",
+  "window_end_utc": "2026-11-21T09:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
@@ -27,31 +27,31 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
@@ -63,25 +63,25 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 5
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 4
     },
     {
       "handle": "nab_ukraine",
@@ -99,86 +99,194 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 19,
-    "relevant_posts": 5,
-    "deduplicated_posts": 5,
-    "candidate_posts": 5
+    "raw_posts": 28,
+    "relevant_posts": 13,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
   },
   "posts": [
     {
-      "id": "intelslava/98371",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98371",
-      "published_at": "2026-11-21T07:59:15+00:00",
-      "text": "🇵🇱 🇷🇺 ⚡️ — The Russian cruise missile that entered Polish airspace yesterday could not be intercepted due to bad weather. This was reported by Rzeczpospolita, citing the commander of the operational forces of the Polish Armed Forces, General Ireneusz Nowak. According to him, a Swedish Gripen fighter jet attempted to intercept the Kh-101 missile. However, due to \"extremely difficult weather conditions,\" the pilot was unable to identify the target, either visually or with instruments. @Intelslava",
+      "id": "tass_agency/406958",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406958",
+      "published_at": "2026-11-21T08:56:13+00:00",
+      "text": "📹 Экипажи Су-34 ВКС России пятью ФАБ-500 нанесли удар по пункту управления БПЛА погранотряда Украины в Харьковской области. Видео: Минобороны России/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "missile"
+        "drone",
+        "kharkiv",
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78038",
+      "id": "voenkorKotenok/78041",
       "channel": "voenkorKotenok",
       "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78038",
-      "published_at": "2026-11-21T07:57:42+00:00",
-      "text": "Ночью противник активно пытался атаковать Ленинградскую область. Дежурные средства ПВО уничтожили над ней 73 вражеских дрона. Всего же за ночь были сбиты 275 украинских БпЛА самолетного типа. Помимо Ленинградской области, беспилотники были перехвачены над Белгородской, Брянской, Воронежской, Калужской, Курской, Новгородской, Орловской, Псковской, Ростовской и Смоленской областями, а также над Республикой Крым и акваторией Черного моря. Что касается столицы, то примерно с полуночи фиксировались одиночные пуски со стороны государственной границы. Все было сбито на дальних рубежах. Подпишись в MAX @voenkorKotenok",
+      "url": "https://t.me/voenkorKotenok/78041",
+      "published_at": "2026-11-21T08:47:01+00:00",
+      "text": "…Еще одна особенность войны сегодня — радикальное расширение так называемой «килл-зоны» (термин, придуманный представителями сил беспилотных систем противника) — зоны в нашем тактическом и оперативном тылу, которую противник пытается контролировать с помощью ударов БпЛА как по групповым, так и по одиночным целям, стремясь парализовать логистику переднего края и тем самым нивелировать наши усилия по продвижению вперед. В идеале для противника — поражение всего живого в пределах этой зоны и ее постепенное расширение вглубь России. В наши дни фиксируются попытки противника расширить «килл-зону» до 100 км от линии боевого соприкосновения в нашу глубину, благодаря применению барражирующих боеприпасов типа «Хорнет». Федеральная трасса в Крым на территории Запорожской области минируется противником с воздуха дистанционно, что несет угрозу как военному, так и гражданскому транспорту. Эти новшества также меняют и работу военкоров, накладывая на нее отпечаток. Риски кратно повышаются. \"…Еще наблюдение — обычный, казалось бы, невзрачный, замызганный гражданин, без особых способностей и талантов, самой заурядной внешности, мимо которого в мирной жизни пройдешь и не заметишь, вдруг преображается на войне, превращаясь в матерого разведчика, аса-гранатометчика, мехвода от Бога, прирожденного снайпера и т.д. Чем не волшебство? А ведь такие случаи — не редкость на войне. Так бывает, потому что в условиях боевого стресса раскрываются особые качества человека, его таланты. Тот, кто рожден для войны, кто генетически воин, довольно быстро адаптируется в родственной среде, обновляя опыт предков в нынешних реалиях. Человек, на первый взгляд, вообще не имевший ничего общего с военным делом, воинской службой, армией, не теряется, а, наоборот, динамично развивается в боевой обстановке. Глядишь, и уже способен обучать и вести за собой людей. На войне вообще учатся очень быстро, схватывают на лету, потому что от этого зависит жизнь. Так в естественных условиях выживания рождаются командиры, возможно, будущие полководцы. К сожалению, настоящих Полководцев сейчас в России — бо-о-льшой дефицит, но я верю, что их время придет, ведь не оскудела талантами земля Русская. Даст Господь вождей по молитвам нашим! И наоборот, прирожденным трусам, генетическим предателям, людям, которые считают себя “гражданами мира”, “элитой”, этакой “аристократией”, требуя к себе особого подхода и почитания (а таких развелось множество), на войне не место. Позеры имеют вес и значимость в собственных глазах лишь в отдалении от линии фронта, а попав под обстрел, в боевую атмосферу, обделывают штаны (зачастую в прямом смысле слова), моментально превращаются в балласт, стараются удрать, предать, доставляя проблемы окружающим. Разумеется, любой командир старается как можно быстрее избавиться от таких персонажей....\" … Тот, кто выбрал стезю военкора, должен понимать, что это весьма тяжелая профессия, трудное дело, которое может показаться неблагодарным, когда сначала риск и, что называется, хождение по краю, а уж затем и далеко не сразу, возможно, известность и признание. Но эта профессия — настоящая. Если отдавать ей себя без остатка, без лицемерия, то результат обязательно будет, и за него никогда не будет стыдно перед Родиной и потомками. Выдержки из моего интервью «Граница проходит в сердце» в «Вестнике МГУТУ» № 4 за 2026 год. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "crimea",
         "drone",
-        "kursk",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198825",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198825",
-      "published_at": "2026-11-21T07:42:11+00:00",
-      "text": "🇬🇧 Send Prince Harry to the front! British students protest against war and militarization In Manchester, approximately 600 people took part in an anti-war action. Young people are protesting against military conscription and do not want to be dragged into foreign conflicts. Against the backdrop of Prince Harry’s statements about his readiness to fight Russia, participants demanded that the Duke of Sussex himself be sent to the front. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "mobilization"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38540",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38540",
-      "published_at": "2026-11-21T07:10:17+00:00",
-      "text": "⚡️ Фронтовая сводка на утро 21.11.26 ⚡️ Запорожский фронт На Каменском направлении продолжаются боестолкновения в Приморском, Степногорске и Лукьяновском. (Рис. 1.1) На Гуляйпольском направлении сообщается об успехах в районах Омельника и Червоного Яра. (Рис. 1.2) Донецкий фронт На Добропольском направлении продолжаются сражения в районе Сергеевки и западнее Шиловки. Идут бои у Нововодяного. (Рис. 2.1) На Константиновском направлении ВС РФ вышли к южным окраинам Николайполья. Не стихают боестолкновения на участке между Алексеево-Дружковкой и Райским, а также в районе Веролюбовки. В районе Красного Лимана продолжаются столкновения, без изменений в ЛБС. На Северском участке также идут бои на прежних рубежах — в районе Дибровы и Озёрного, а также у Васютинского и Рай-Александровки. (Рис. 2.2) Харьковский фронт На Купянском направлении ВС РФ ведут бои на участке Соболевка – Дорошовка. Сообщается о сражениях в северной, северо-западной и южной частях самого Купянска. (Рис. 3.1) На Волчанском направлении войска РФ расширяют плацдарм юго-западнее Волчанска, а также а районе Бугаевки, Шевченково Первого. (Рис. 3.2) Сумской фронт Войска РФ расширяют зону контроля в районах Хотени и Груновки, отражают контратаки противника в районе Юнаковки. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kharkiv",
+        "strike",
         "zaporizhzhia"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "dva_majors/102319",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102319",
-      "published_at": "2026-11-21T07:00:24+00:00",
-      "text": "✨ Сбор на Херсонское направление ✨ 1265 человек участвовали в сборе за сутки Операторы ударных БПЛА обратились с просьбой помочь в приобретении транспорта, а также технического оборудования, необходимого для выполнения боевых задач на данном участке фронта. ▪️ Автомобиль - 600 000 ₽ ▪️ Оборуд. БПЛА - 300 000 ₽ Необходимо: 900 000 ₽ Собрано за сутки: 285 034 ₽ Собрано всего: 729 265 ₽ Осталось собрать: 170 735 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "id": "boris_rozhin/234178",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234178",
+      "published_at": "2026-11-21T08:45:05+00:00",
+      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки Штурмовые группы противника продолжают попытки вклиниться в нашу оборону и закрепиться на северном фланге. В ходе отражения контратак воины-дальневосточники нанесли врагу потери в живой силе, вскрыв на освобожденной территории 14 групп боевиков. На северо-западном участке забайкальцы продолжают вклинение в оборону противника. Удары артиллерии и БПЛА наносились по живой силе и объектам врага в районах н.п. Гавриловка, Диброва, Покровское, Терсянка, Подгавриловка и Новокасьяновка. Уничтожено 6 военнослужащих ВСУ. Западнее Зелёной Дибровы штурмовые группы из Бурятии заняли ряд опорных пунктов в окрестностях Василькового, Барвиновки и Василевского. Уничтожено более 20 военнослужащих ВСУ. Западнее Никольского и Червоного Яра продолжаются ожесточенные встречные бои. Также приморцы ведут активную борьбу в малом небе, силами расчетов-перехватчиков уничтожая вражеские \"крылья\" и агродроны. Уничтожено более 20 военнослужащих ВСУ. На юге амурские воины сорвали усиление позиций противника в районе к западу от Таврийского, а также нанесли удары по живой силе в районах Блакитного и Васиновки. Уничтожено около 10 военнослужащих ВСУ. Также за сутки уничтожено 10 единиц авто-мототехники и поражено более 20 пунктов управления БПЛА. @voin_dv",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
         "strike"
       ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102321",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102321",
+      "published_at": "2026-11-21T08:42:09+00:00",
+      "text": "По Польше: На территории Польши упали две российские ракеты и реактивный дрон-камикадзе, заявил глава Минобороны страны Владислав Косиняк-Камыш: \"В Новых Липовцах был обнаружен обломок ракеты Х-101. В Рудник-над-Санем также упала ракета, а в Молодыче был…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78040",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78040",
+      "published_at": "2026-11-21T08:35:07+00:00",
+      "text": "Ориентир — работа ПВО столицы Честь и хвала защитникам неба столицы, которые начинают защищать её на стратегических рубежах Брянска, Курска, Тулы, Твери и т.д., так, что в столицу враг не прорывается. А ведь, учитывая его PR-настрой, он жаждет прорваться каждый день. Можете представить, во что мог бы превратить Москву противник, если бы не система ПВО? Противнику интересно не стратегическое выбивание, а важен PR, как это всё будет воспринято на Западе. Он работает на аплодисменты «Кварталу 95». Главный вопрос — кто хочет мира? Россия точно хочет договариваться. Запас прочности есть, как и потери, издержки, усталость от войны — всё имеется, как в любой нормальной воюющей стране. Остановка боевых действий нужна президенту США. Трампу кровь из носа важен удачный кейс после иранского провала. В активе Трампе только Венесуэла, и то спорно — ему уже предъявляют кражу президента суверенной страны, а это беспредел, как ни крути. Трампу необходим кейс миротворца. Китаю прекращение войны индифферентно и даже не нужно, потому что он на ней зарабатывает, в первую очередь, на нас сумасшедшие деньги, которые бы никогда не заработал в мирных условиях. Не случайно Китай именно для России взвинтил ценник более чем в шесть (!) раз на товары двойного назначения. Китаю так нравится зарабатывать. Читать полностью — 👇 👇 👇 Если мир для них наша смерть… О мостах, концентрации и мощности залпа, ПВО и мире. Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kursk",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198828",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198828",
+      "published_at": "2026-11-21T08:34:19+00:00",
+      "text": "#DateInHistory 🗓 Today, on November 21, Ukraine marks a state holiday, the \"Day of Dignity and Freedom.\" It was on this day in 2013 that mass unrest began in the streets of Kiev, ultimately leading to an unconstitutional coup d'etat. 📝 This state holiday was established \" to uphold the ideals of freedom and democracy in Ukraine, as well as to honor the patriotism and courage of its citizens.\" However, this event instead marked the start of widespread censorship, the promotion of neo-Nazism, persecution of opposition journalists, public figures, politicians, and the banning of political parties. 🩸 The criminal Kiev regime that came to power unleashed a war against the Russian-speaking population of Donbass, claiming the lives of around 14,500 people. Additionally, the illegitimate Ukrainian authorities engaged in confrontation with Russia, resulting in the loss of two more regions, a 30% contraction in the national economy, the exodus of approximately 6.3 million citizens, and about 1,5 million of casualties on the front lines. 🇷🇺 Subscribe | Feedback | X | TikTok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406956",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406956",
+      "published_at": "2026-11-21T08:33:46+00:00",
+      "text": "Полиция Таиланда задержала на Пхукете супругов из России, находящихся в розыске по обвинению в мошенничестве и отмывании денег на сумму около 150 млн рублей. Чтобы въехать в королевство, подозреваемые сменили имена и оформили гражданство Вануату, пишет газета Khaosod. В ближайшее время их депортируют.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30710",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30710",
+      "published_at": "2026-11-21T08:30:51+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation delivered UAV strikes at power infrastructure facilities and vessels used in the interests of the AFU. 💥 As a result of the strike, the following targets were hit: ▪️ the Krivorozhskaya thermal power plant providing power to defence industry facilities of Ukraine in Dnepropetrovsk region; ▪️ a 110 kV power substation used to provide power to defence industry facilities of Ukraine in Sarny (Rovno region); ▪️ a dry cargo ship at sea delivering dual-use cargo to support the AFU near Odessa. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350215",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350215",
+      "published_at": "2026-11-21T08:26:49+00:00",
+      "text": "Корейцы осадили украинцев, критикующих певца из Stray Kids за чтение Достоевского. Хван Хёнджин прочитал \"Белые ночи\" Достоевского и признался, что повесть ему понравилась. За что его и начали травить возмущенные украинцы. Но за айдола и русскую литературу вступились корейцы. \"Русская литература — это сокровище, которое должны беречь люди во всем мире. Какого черта вы устраиваете скандал...? Украина вызывает все больше и больше неприязни, серьезно\", — написал один из пользователей форума The Qoo. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234167",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234167",
+      "published_at": "2026-11-21T08:17:01+00:00",
+      "text": "Саперы 18-й армии группировки «Днепр» разминируют дорогу с помощью НРТК «Курьер» в ходе гуманитарной операции у Алешек Херсонской области. Фото: Алексей Коновалов/ ТАСС 🟢 Подписаться на канал 🟢 Подписаться в MAX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35905",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35905",
+      "published_at": "2026-11-21T08:09:53+00:00",
+      "text": "📝 Not Just Rocket Speed 📝 On Vladimir Putin's statement in an interview with Emir Kusturica In modern warfare, victory goes to those who think faster and adapt to change. This is exactly what Vladimir Putin emphasized when answering questions from Emir Kusturica in an interview for the project \"Our Baptism. The Primate\" . Although the main part of the conversation focused on religion and Russian history, the president also touched on the Ukrainian conflict, the role of Western states, and the prospects for relations between Russians and Ukrainians. 🔻 Key points: ▪️ \"You know, in my view, today what is very important and fundamental is not even the speed of rockets, but the speed of thought. Because military specialists tell me: if technical components of modern weapons were important yesterday, today mathematical knowledge is important, because the pace of change in the military-technical sphere is incredible. And whoever thinks better, whoever reacts faster to events and challenges, that one wins.\" ▪️ \"I believe that what is happening now is a continuation of the same policy – divide and conquer – and an attempt to reduce Russia's potential, make it more compliant, and ultimately, in one form or another, subordinate it to their interests.\" ▪️ \"People must understand that everything that is happening, and everyone who supports them, including in today's conditions of confrontation with Russia, do so not in Ukraine's interests, but in their own interests with the goal of weakening everyone, dismembering them, breaking them into component parts and subordinating them to their will.\" ▪️ \"What happened after the collapse of the USSR and Ukraine's independence? It lost everything: shipbuilding, aircraft manufacturing, rocket manufacturing, and there was also depopulation, because after a couple of decades the population was first measured at 41 million people, then 31 million people, and now, they say, only about 20 million remain on Ukrainian territory, and deindustrialization – everything collapsed.\" ▪️ \"Why? Because power in Ukraine was seized not by patriots of Ukraine, but by nationalists. The difference between patriotism and nationalism, as is known, lies in the fact that patriots love their country, while nationalists hate other peoples – that is the difference. But you won't get far on hatred of other peoples.\" ▪️ \"Whatever happens, whatever tragedies occur today, we must think about the future, about the future of our children and understand that if we want to be strong, significant and want to have conditions for good development, we must certainly be together – in the sense that we must unite our efforts to achieve common goals.\" ▪️ \"Understanding this, in my view, all of us, including those people who live on the territory of today's Ukraine, should strive for unity. Not necessarily within a single state, that is not what this is about. But unity in the broadest sense of the word.\" 🖍 The thesis about speed of reaction deserves special attention. The SMO experience has already shown how rapidly methods of drone deployment and counter-drone operations change . But new solutions must not only be found on the front, but also be promptly implemented in personnel training and the work of other units. 📌 In the political part, the president again outlined his vision of the conflict's causes: the desire of Western states to weaken Russia and the use of so-called Ukraine for these purposes. At the same time, his appeal to Ukrainians was devoted not to restoring a unified state, but to the possibility of uniting efforts in the future. As for the military component, the conclusion remains the same: SMO experience needs to be transferred faster from individual units into general military training and management systems. Otherwise, the army will repeatedly face problems for which solutions have already been found on the front. #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33511",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33511",
+      "published_at": "2026-11-21T08:02:27+00:00",
+      "text": "🎙 Russian Foreign Ministry Spokeswoman Maria Zakharova on the anniversary of the tragic events in Ukraine: 💬 We need to talk about the origins of everything we are witnessing in Ukraine today. On November 21, Ukraine will mark the 13th anniversary of the so-called “revolution” . In reality, it was yet another Western-orchestrated “colour revolution” , aimed at subjugating Ukraine, turning it into a permanent hotbed of instability and a springboard for an offensive against Russia, against our country. Generously funded from abroad , skilled provocateurs lured crowds into anti-government street protests with promises of a better “European” life, visa-free travel to EU countries, democracy, freedom of speech, human rights and the fight against corruption. ☝️ Even then, the protesters were being incited to adopt anti-Russian and nationalist attitudes , encouraged towards aggression, hatred of humanity and, quite literally, dehumanisation. It was no coincidence that Bandera-inspired chants calling for the killing of Russians (“Hang the Moskals!”) could be heard among the demonstrators. Today, it would be appropriate to ask: what exactly has this “Euromaidan” brought Ukraine? Has its cherished dream of integration into the European family come true? 👉 The answer is obvious. The West viewed Ukraine as an instrument , and that is exactly how it continues to treat the country. Yes, every now and then, they dangle something soft and fluffy before people's eyes in the form of yet more promises of a bright future. Then they proceed, in the most brutal fashion, to do everything possible to destroy Ukrainian citizens. And it is the West that is doing this through Zelensky. First and foremost, they are killing Ukrainians . They are clearing Ukraine of its indigenous population. Once a self-sufficient, industrially developed and populous republic of the former Soviet Union, Ukraine has been reduced to an impoverished, corruption-ridden territory facing demographic collapse. It has lost its independence as a state. 👉 Where is the dignity they spoke so much about? What good is a visa-free regime in a country that has closed its borders and does not even allow its own men to travel abroad, while at home conducting the most brutal, cynical manhunt against its own people? Those who have stolen millions, even billions and seek to move their fortunes abroad are the ones reaping the benefits. But they are a small minority , while the vast majority of Ukrainians have far more pressing concerns than visa-free travel. What about freedom of speech under a single nationwide television marathon , where only one officially approved opinion is permitted? Or perhaps freedom of conscience, amid the authorities' blatant interference in church affairs, interference that has gone so far as to destroy the Church itself? Their drive to ban canonical Orthodoxy and force millions of people to renounce their faith? *** Can the events of 13 years ago and everything that followed really be considered cause for celebration? Well, the Zelensky regime could not care less. As though nothing had happened, they will mark yet another anniversary of the euromaidan . They will be celebrating the genocide of their own people. They are simply being paid to do so. (From the briefing by Russia's Foreign Ministry Spokeswoman Maria Zakharova on November 20, 2026)",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98372",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98372",
+      "published_at": "2026-11-21T08:00:55+00:00",
+      "text": "🇺🇸 🇷🇺 🇺🇦 ⚡️ A ceasefire will be declared between Russia and Ukraine — Melania Trump She stated that another ceasefire between the countries will be announced by December 25th. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
