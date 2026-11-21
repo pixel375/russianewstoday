@@ -1,0 +1,23 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    129
+  ],
+  "published_at_utc": "2026-11-21T06:23:08.698712+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-21T05",
+  "items": [
+    {
+      "item_id": "2026-11-21T05:1",
+      "title": "Rostec says Russian forces have praised new Sarma rocket launcher in Ukraine",
+      "summary": "Russian state defence company Rostec says troops have given positive assessments of the 300 mm Sarma multiple-launch rocket system during operations in Ukraine. The six-tube launcher is reportedly mounted on an armoured KamAZ chassis, weighs about 24 tonnes and has been used in the Kharkiv region since spring 2026, according to Russian military commentary.",
+      "post_url": "https://t.me/russianewstodayofficial/129",
+      "category": "other",
+      "hour_id": "2026-11-21T05",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
