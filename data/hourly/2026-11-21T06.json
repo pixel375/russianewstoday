@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T06",
+  "generated_at_utc": "2026-11-21T07:27:24.980308+00:00",
+  "window_start_utc": "2026-11-21T06:00:00+00:00",
+  "window_end_utc": "2026-11-21T07:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 16,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
+  },
+  "posts": [
+    {
+      "id": "boris_rozhin/234158",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234158",
+      "published_at": "2026-11-21T06:53:01+00:00",
+      "text": "В течение прошедшей ночи с 20.00 мск 20 ноября до 08.00 мск 21 ноября дежурными силами ПВО перехвачены и уничтожены 275 украинских беспилотных летательных аппаратов самолетного типа над территориями Белгородской, Брянской, Воронежской, Калужской, Курской, Ленинградской, Новгородской, Орловской, Псковской, Ростовской, Смоленской областей, Республики Крым и над акваторией Черного моря.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198822",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198822",
+      "published_at": "2026-11-21T06:34:31+00:00",
+      "text": "🇺🇦 Photos of the aftermath of the attack on the South Bridge in Kiev are being published online. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198821",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198821",
+      "published_at": "2026-11-21T06:22:14+00:00",
+      "text": "🎙️ GERAN - THE DRONE THAT INFLUENCES NEGOTIATIONS ⭐ ️ LARRY JOHNSON IS A FORMER CIA ANALYST, EXPERT OF THE INTERNATIONAL “NATIONAL UNITY CLUB ” , IN A CONVERSATION WITH ANDREY KLINTSEVICH , CO-CHAIRMAN OF THE INTERNATIONAL “NATIONAL UNITY CLUB ” , ON JOHNSON’S ORIGINAL PODCAST, COUNTER CURRENTS . 💬 Key Topics of Discussion: ▪️ The Evolution of Geran Drones • Russia has developed a powerful Geran drone system comprising five generations. • Each new generation features improved capabilities, including engines, speed, and warheads. • According to the speakers, opposing forces are unable to effectively intercept Russian drones. ▪️ The Susanin Navigation System • Russia has developed the Susanin system for Geran drones, reportedly similar to the American TERCOM navigation system. • Susanin compares satellite imagery with ground-based data, allowing drones to navigate without relying on satellite navigation. ▪️ Drone Deployment Strategy • Geran drones are reportedly designed to sever bridge cables and damage structural support components. • Such attacks can compromise the load-bearing capacity of bridges, making them vulnerable to further damage. • The speakers suggest that Russia could employ this strategy in a potential operation to capture Kyiv, with the intention of restoring the bridges after the attacks. ‑ ‒ – — ― ❗️ The full recording of the podcast is available on the resources of the International “National Unity Club ” . 📱 Subscribe to the YouTube channel of the International “National Unity Club ” in order not to miss the most acute and relevant discussions! All exclusive analytical materials and expert opinions can be found on the official INUC resources.: 📱 Telegram 🌐 Website 📱 VK 📺 RUTUBE 📱 YouTube ✅ Subscribe to the Telegram channel of INUC !",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234155",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234155",
+      "published_at": "2026-11-21T06:15:52+00:00",
+      "text": "Сегодня ночью Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетики, а также морским судам, задействованным в интересах ВСУ. В результате ударов поражены : - Криворожская теплоэлектростанция в Днепропетровской области , обеспечивающая работу предприятий военной промышленности Украины; - электроподстанция 110 кВ в н.п. Сарны Ровенской области , задействованная в подаче электроэнергии предприятиям военной промышленности Украины; - морское судно типа «сухогруз» на переходе морем в районе Одессы , доставлявшее грузы двойного назначения для обеспечения ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234154",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234154",
+      "published_at": "2026-11-21T06:03:01+00:00",
+      "text": "Где-то на Днепропетровском направлении работают расчеты мобильных огневых групп и постов воздушного наблюдения. Стрелок Александр Гуленин за работой вспоминает, как отбивали налет «птиц» во время эвакуации гражданских: «Двадцать минут помучились, но сбили!» Командир зенитно-ракетного взвода Ремир Хамидулин и стрелок ПВН Владимир Савин показали интересные сбитые вражеские дроны: как они выглядят и из чего состоят. А пулеметчик Зуфар Валитов , родом из Башкортостана, признался, что горд служить в одном строю с Героями России. Вот такая важная работа — ежедневно сбивать ударные беспилотники ВСУ. Рассказываем об участниках СВО в 📲 MAX , 📱 ВКонтакте и в 📱 Дзен",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
