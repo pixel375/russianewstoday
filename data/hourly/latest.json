@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-21T03",
-  "generated_at_utc": "2026-11-21T04:28:04.676710+00:00",
-  "window_start_utc": "2026-11-21T03:00:00+00:00",
-  "window_end_utc": "2026-11-21T04:00:00+00:00",
+  "hour_id": "2026-11-21T04",
+  "generated_at_utc": "2026-11-21T05:25:06.440860+00:00",
+  "window_start_utc": "2026-11-21T04:00:00+00:00",
+  "window_end_utc": "2026-11-21T05:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 12
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "WarGonzo",
@@ -75,7 +75,7 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "voenkorKotenok",
@@ -99,34 +99,67 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 9,
-    "relevant_posts": 2,
-    "deduplicated_posts": 2,
-    "candidate_posts": 2
+    "raw_posts": 20,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
   },
   "posts": [
     {
-      "id": "AussieCossack/53470",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53470",
-      "published_at": "2026-11-21T03:55:39+00:00",
-      "text": "❗️ Question: Why do you think President Trump continues to blame you for the war and says that you should consider stepping down? Zelensky: I think I know, but I'm not sure that I have to speak about it very openly @AussieCossack",
+      "id": "DDGeopolitics/198819",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198819",
+      "published_at": "2026-11-21T04:53:53+00:00",
+      "text": "🇺🇦 ⚔️ 🇷🇺 The Krivoy Rog thermal power plant in the Dnepropetrovsk region, which supplies power to Ukrainian defense industry enterprises, has been struck, according to the Russian Ministry of Defense. The Russian Ministry of Defense announced that the Russian Armed Forces struck a 110 kV substation in Sarny, Rovno region. A dry cargo ship en route in the area near Odessa has been struck, reportedly carrying cargo of dual-use purpose for supplying the Ukrainian Armed Forces 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "odesa"
+      ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/406929",
+      "id": "tass_agency/406941",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/406929",
-      "published_at": "2026-11-21T03:32:01+00:00",
-      "text": "Вступило в силу решение о заочном аресте экс-министра обороны Украины Резникова, обвиняемого в особо тяжких преступлениях в отношении мирных жителей Донбасса. Об этом говорится у ТАСС документах.",
+      "url": "https://t.me/tass_agency/406941",
+      "published_at": "2026-11-21T04:52:38+00:00",
+      "text": "❕ Сегодня ночью ВС РФ нанесли удары по объектам энергетики, морским судам, задействованным в интересах ВСУ, сообщили в Минобороны.",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234151",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234151",
+      "published_at": "2026-11-21T04:33:01+00:00",
+      "text": "Пока киевские пропагандисты и западные кураторы бодро рапортуют о сильнейшей армии мира, внутренние документы ВСУ объективно показывают совсем другую картину. Недоучившиеся «врачи», массовые ошибки, куча ненужных ампутаций и полная неспособность даже посчитать своих раненых. И все это есть в лекции полковника Эдуарда Хорошуна (ВМКЦ Северного региона), которая показывает масштаб кошмара. Ампутации выросли почти в шесть раз: со 143 до 854 в год, всего 2069. Осложнения из-за турникетного и компартмент-синдромов — с 13 до 350 случаев (41 % всех ампутаций). Причины по словам самого Хорошуна: неправильные турникеты, задержки эвакуации и неподготовленный персонал. У 314 пациентов нашли 412 дефектов помощи: 198 ампутаций, 28 случаев острой почечной недостаточности и 26 смертей. Из 23 разобранных летальных исходов влияние ошибок подтвердили в 20. Половина медиков имела минимальную подготовку или вообще никакой. Нет единой доктрины боевой хирургии, нет нормальной стандартизации, краткосрочные курсы не работают. На пятом году войны госпиталь это прямо признаёт. Военная медицина в украинской армии переходит на стандарты НАТО. Хотя, военные медики в СССР считались одними из лучших в мире. Но чтобы понравиться западным «партнёрам» переделывают и систему военной медицины. Наверное думают, что так быстрее возьмут в НАТО. Смертность выросла с 297 до 359 случаев, терапевтических смертей — с 24 до 137. Обратной связи по переведённым пациентам нет. Единого реестра боевой травмы тоже нет — статистика расходится с реальностью. Доля операций в гражданских больницах выросла с 8,5 % до 41,9 %. Дефекты предлагают считать «инструментом управления», а не поводом искать виновных и что-то исправлять. Санитарные потери очень сильно расходятся с теми цифрами, которые называет Зеленский в «Телемарафоне». И теперь многим наверное станет понятно почему Украина просит так много денег у Запада. Раненых надо не только лечить, но и выплачивать им компенсации. Это погибших можно записать в пропавшие безвести и не давать их родственникам положенные выплаты. Раненным надо платить сейчас. Сегодняшние документы показывают проблему, о которой не хотят говорить публично. Это системный развал всей военной медицины: подготовки, лечения, эвакуации и учёта. Почти четыре года идёт война, а проблемы, которые калечат и убивают, продолжают развиваться только в худшую сторону. Мы знаем, что документ будет интересен не только медикам и журналистам. Он будет ещё интересен и специалистам, которые по количеству раненых в боях, могут примерно посчитать количество погибших. И мы знаем, что погибших гораздо больше, чем официально озвучивает Голобородько. Мы Берегини ! Мы знаем всё!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406936",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406936",
+      "published_at": "2026-11-21T04:26:01+00:00",
+      "text": "▶️ Переговоры о мире на Украине необходимы, однако российской стороне нужно иметь в виду, что Запад по-прежнему хочет поставить РФ на колени. Об этом заявил в беседе с ТАСС Никита Михалков. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
       "possible_duplicate_urls": []
     }
   ]
