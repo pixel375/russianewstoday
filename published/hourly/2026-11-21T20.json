@@ -1,0 +1,45 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    144
+  ],
+  "published_at_utc": "2026-11-21T21:30:41.840713+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-21T20",
+  "items": [
+    {
+      "item_id": "2026-11-21T20:1",
+      "title": "Zelensky says new peace talks could take place during G20 summit",
+      "summary": "Ukrainian President Volodymyr Zelensky said another round of peace talks could take place during the G20 summit, according to a report on his remarks. The statement indicated a possible venue and timing, not an agreed meeting or confirmed negotiating schedule.",
+      "post_url": "https://t.me/russianewstodayofficial/144",
+      "category": "other",
+      "hour_id": "2026-11-21T20",
+      "source_handles": [
+        "bricsnews"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T20:2",
+      "title": "Latvian prime minister reportedly rules out normal relations with Russia after war",
+      "summary": "Latvia's prime minister said relations with Russia would not return to normal even after a ceasefire or the end of the war in Ukraine, according to a Russian-language report. He argued that European policy toward Moscow had fundamentally changed and reiterated opposition to resuming dialogue without pressure.",
+      "post_url": "https://t.me/russianewstodayofficial/144",
+      "category": "other",
+      "hour_id": "2026-11-21T20",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T20:3",
+      "title": "Russian Foreign Ministry criticizes Google's reported suspension of fact-checking group",
+      "summary": "Russia's Foreign Ministry said Google had reportedly suspended the Global Fact-Checking Network's account indefinitely and criticized the move as politically motivated censorship. The ministry suggested a possible connection to the group's disputed claims about killings in Bucha, but provided no evidence establishing Google's motive.",
+      "post_url": "https://t.me/russianewstodayofficial/144",
+      "category": "other",
+      "hour_id": "2026-11-21T20",
+      "source_handles": [
+        "mfarussia"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
