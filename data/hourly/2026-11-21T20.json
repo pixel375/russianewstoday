@@ -1,0 +1,207 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T20",
+  "generated_at_utc": "2026-11-21T21:29:56.240087+00:00",
+  "window_start_utc": "2026-11-21T20:00:00+00:00",
+  "window_end_utc": "2026-11-21T21:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 2,
+      "raw_count": 7
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 21,
+    "relevant_posts": 7,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19767",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19767",
+      "published_at": "2026-11-21T20:50:25+00:00",
+      "text": "JUST IN: 🇺🇦 Ukrainian President Zelensky says new peace talks could take place during G20 summit. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234258",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234258",
+      "published_at": "2026-11-21T20:35:07+00:00",
+      "text": "🤝 Адресная помощь для нуждающихся Гуманитарная акция военнослужащих ГВ «Запад» в городе Старобельск Луганской народной Республики Наши воины доставили гуманитарный груз семье, оказавшейся в сложной жизненной ситуации. Бойцы лично узнали о насущных нуждах и передали необходимые вещи. Такая работа ведется параллельно с выполнением боевых задач. Наши бойцы помогают тем, кто оказался один на один с бедой. ✌️ Помощь доходит до тех, кто в ней нуждается Оперативный простор 👻 Мы в MAX!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35929",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35929",
+      "published_at": "2026-11-21T20:31:17+00:00",
+      "text": "📝 Rybar's Main Points 📝 digest of materials for November 21 The situation in the Baltic remains practically the most discussed topic of recent days, which only confirms the thesis about speed of response . ❗ Read more about these and other topics in our digest. ➡ Rybar @rybar — we talk about complex things simply. The main resource of our think tank. The most important and interesting materials. ▪ Chronicles of the SMO ▪ RYBAR EXPLAINS : a bullet is not a fool, a bayonet is not a youngster: the importance of rifle training ▪ Vladimir Putin's interview with Emir Kusturica ▪ Russian vessel attacked in the Baltic Sea ▪ Epstein again turned out to be connected with Russia ➡ ASIABAR @rybar_Pacific American authorities demand that Southeast Asian governments comply with sanctions against Iran. In Singapore they are trying to maintain ties simultaneously with both China and the US. And in Vietnam they developed the first domestic chip for information protection. ➡ AMERICABAR @rybar_america In the US, the FBI was hacked again, Donald Trump decided to lock American data centers at home and held a casting for successors right during Friday's briefing. ➡ AFRICABAR @rybar_Africa While Sudan continues a series of surrenders and captures of cities, its southern \"namesake\" is actively drawing closer to the Russian side. ➡ BALKANBAR @balkanar Protests continue in Albania. Discontent is escalating in Croatia as well. ➡ EUROBAR @evropar A database of Austrian diplomats' contacts leaked online. Danish authorities expelled the Russian military attaché. ➡ CAUCASUSBAR",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234257",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234257",
+      "published_at": "2026-11-21T20:25:04+00:00",
+      "text": "Латвия не вернется к нормальным отношениям с Россией даже после завершения конфликта на Украине , заявил премьер-министр республики Андрис Кулбергс. \" Некоторые полагают, что после заключения перемирия можно будет вернуться к нормальным отношениям с Россией. Это невозможно. Наступили новые времена \", — сказал он журналистам. Ранее Кулбергс выступал и против диалога ЕС с Москвой, призывая оказывать на Россию давление вместо переговоров. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30724",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30724",
+      "published_at": "2026-11-21T20:15:26+00:00",
+      "text": "📆 Top News Today ⚡️ Giving no chance for enemy: Russian elements delivered strikes at power infrastructure facilities and vessels used in the interests of the AFU. 💥 FAB precision strikes: the Russian Aerospace Forces' crews wiped out UAV control post of the 4th Border Detachment of State Border Guard Service of Ukraine with five FAB-500 air bombs. 😎 It’s serious business here : scouts of the Svyatogor battalion showed their training centre in the front-line area. 👊 No new forces for enemy: the Vostok Group's attack drones thwarted the enemy's rotation, destroying armoured vehicles. 👀 Our strikes close enemy's ‘eyes’: the Sever Group's Giatsint-B crew hit enemy UAV control posts. ▫️ This Order will take up an honorary place on the brigade's combat banner : the Vostok Group's 305th Guards Brigade was presented with the Order of Zhukov. #TopNews 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234249",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234249",
+      "published_at": "2026-11-21T20:05:02+00:00",
+      "text": "При зачистке Доброполья без инженеров ЦЕНТРа никто ничего не трогает, не открывает и не двигает! Боевики ВСУ активно оставляют взрывные ловушки и для мирных жителей, и для наших бойцов. @btr80",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33523",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33523",
+      "published_at": "2026-11-21T20:02:25+00:00",
+      "text": "We have taken note of the media reports as well as a statement by the Global Fact-Checking Network (GFCN) that Google has indefinitely suspended the Association’s official account without the right to appeal or reinstatement. The GFCN was founded in 2024 and currently comprises 130 experts from 55 countries, including the US. There are also Russian specialists among its members and the renowned TASS news agency was among the founding members of the network. The Association is fairly new but has already earned a reputation for quality research.. It is a respectable fact-checking network that regularly publishes detailed refutations of disinformation and fake news. For example, in October, a group of GFCN experts published an in-depth analysis of the Bucha Hoax , a cynical falsification, designed and executed by the Kiev regime and its Western sponsors. Through facts, OSINT analysis, and having cross-referenced data, they have convincingly proven that most of the people mentioned at the memorial in Bucha are anything but “victims of Russian aggression”, some are in fact Azov members and combatants, some never existed. Could the act of censorship by Google be related to this high-profile research piece, which is an obvious soar spot for the Kiev regime and its sponsors as it debunks their lies? Or was the reason the GFCN’s independence and quality work be the reason? Even setting aside the fact that unilateral sanctions are illegitimate, GFCN, to the best of our knowledge, is not on any sanctions list. This is a clear act of arbitrary censorship with a poorly concealed political motive on the part of the tech giant. Against this backdrop, all assurances by its management regarding its commitment to the principles of freedom of access to information sound hollow. ❗️ We call on US tech corporations to uphold the principles of freedom of speech and equal access to critical information infrastructure — not just in words, but in deeds. If, however, this is indeed a mistake, it should be corrected without delay. This situation is yet another indication that without a full-fledged development of sovereign digital platforms and technologies, as well as fair competition of ideas, perspectives and thoughts, the transition to a truly multipolar world with equal opportunities for all its participants is hardly possible.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
