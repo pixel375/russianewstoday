@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    123
+  ],
+  "published_at_utc": "2026-11-21T00:24:55.530053+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-20T23",
+  "items": [
+    {
+      "item_id": "2026-11-20T23:1",
+      "title": "Pistorius urges Europeans to consider Putin's invitation for Ukraine talks",
+      "summary": "German Defence Minister Boris Pistorius urged European leaders not to dismiss Vladimir Putin's invitation to visit Moscow for talks on Ukraine. He said initial signals of willingness to engage should be taken seriously, according to a report quoting his remarks.",
+      "post_url": "https://t.me/russianewstodayofficial/123",
+      "category": "other",
+      "hour_id": "2026-11-20T23",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-20T23:2",
+      "title": "Major fire destroys much of Kyiv shopping complex housing delivery and bank branches",
+      "summary": "A large fire reportedly swept through a shopping complex in Kyiv's Solomianskyi district, damaging premises used by ECO Market, delivery firm Nova Poshta and PrivatBank. The report said the blaze spread rapidly but did not establish its cause or link it to a military strike.",
+      "post_url": "https://t.me/russianewstodayofficial/123",
+      "category": "other",
+      "hour_id": "2026-11-20T23",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
