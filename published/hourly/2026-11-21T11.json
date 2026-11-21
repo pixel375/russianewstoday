@@ -1,0 +1,45 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    135
+  ],
+  "published_at_utc": "2026-11-21T12:24:16.602007+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-21T11",
+  "items": [
+    {
+      "item_id": "2026-11-21T11:1",
+      "title": "Denmark expels Russian military attaché over alleged plot against Ukrainian-American performer",
+      "summary": "Denmark declared a Russian military attaché persona non grata following allegations that a criminal gang planned to kill Ukrainian-American performer Kyivstoner near Copenhagen. Danish officials linked the suspected plot to Russian intelligence and signalled tighter visa restrictions; Moscow rejected the accusations and promised a response.",
+      "post_url": "https://t.me/russianewstodayofficial/135",
+      "category": "other",
+      "hour_id": "2026-11-21T11",
+      "source_handles": [
+        "rybar_in_english"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T11:2",
+      "title": "German poll suggests strong support for Putin–Merz talks and reduced Ukraine aid",
+      "summary": "A YouGov poll for Welt am Sonntag reportedly found that nearly half of Germans favour early talks between Chancellor Friedrich Merz and Russian President Vladimir Putin. Around half also supported reducing or ending assistance to Kyiv, while 11% were undecided, according to the reported results.",
+      "post_url": "https://t.me/russianewstodayofficial/135",
+      "category": "other",
+      "hour_id": "2026-11-21T11",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T11:3",
+      "title": "Report describes severe water disruptions in Kyiv following strikes",
+      "summary": "A report from Kyiv says recent strikes have caused serious interruptions to water supplies, with some residents reporting brown or blue discoloured water where service remains available. The account did not specify how many households were affected.",
+      "post_url": "https://t.me/russianewstodayofficial/135",
+      "category": "other",
+      "hour_id": "2026-11-21T11",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
