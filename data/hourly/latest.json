@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-21T21",
-  "generated_at_utc": "2026-11-21T22:08:39.923898+00:00",
-  "window_start_utc": "2026-11-21T21:00:00+00:00",
-  "window_end_utc": "2026-11-21T22:00:00+00:00",
+  "hour_id": "2026-11-21T22",
+  "generated_at_utc": "2026-11-21T23:22:28.075220+00:00",
+  "window_start_utc": "2026-11-21T22:00:00+00:00",
+  "window_end_utc": "2026-11-21T23:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 2
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 2
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 5
     },
     {
       "handle": "nab_ukraine",
@@ -99,97 +99,68 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 22,
-    "relevant_posts": 6,
-    "deduplicated_posts": 6,
-    "candidate_posts": 6
+    "raw_posts": 14,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198884",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198884",
-      "published_at": "2026-11-21T21:57:55+00:00",
-      "text": "🇵🇱 🇺🇦 Polish media accused Ukraine of refusing to shoot down missiles flying towards Poland Polish right-wing publicist and TV presenter Ryszard Rybicki accused kiev of deliberately not intercepting missiles flying towards the Polish border. According to his version, this is done consciously, not due to a lack of air defense resources. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "missile"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198883",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198883",
-      "published_at": "2026-11-21T21:50:16+00:00",
-      "text": "🇮🇹 🇺🇦 \"Vladimir, this is unacceptable\" — Meloni addressed Zelensky after Italy's Deputy Prime Minister was added to the Myrotvorets database. Salvini himself is demanding an apology from the Ukrainian president and threatening to block military aid. The Ukrainian Embassy in Rome stated that the website does not represent the position of the Ukrainian state. However, the Italian politician was not satisfied with this response — he wants the website shut down. Salvini was added to the database, among other reasons, for \"entering Crimea.\" 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234269",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234269",
-      "published_at": "2026-11-21T21:33:01+00:00",
-      "text": "Боевая работа операторов Центра \"Рубикон\" за 21 ноября 2026 года 00:05 - Донбасс 01:58 - Сумское направление 03:02 - Поражение пехоты ВСУ 03:38 - Дистанционное минирование логистических маршрутов ВСУ 04:09 - Боевая работа ночных расчетов FPV-ПВО по БПЛА ВСУ 04:34 - Боевая работа дневных расчетов FPV-ПВО по БПЛА ВСУ 05:00 - Боевая работа расчетов FPV-ПВО по дальнобойным БПЛА ВСУ Опубликовано эпизодов : 133",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198881",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198881",
-      "published_at": "2026-11-21T21:29:48+00:00",
-      "text": "🇬🇧 🇺🇦 Britain to produce Ukrainian drones for the AFU Ukraine and the United Kingdom have agreed on the joint production of medium- and long-range Ukrainian drones. Production will be located on British territory, funded by London, and the finished products will be supplied to the AFU. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234265",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234265",
-      "published_at": "2026-11-21T21:25:07+00:00",
-      "text": "Запорожье - серия мощных взрывов! Прилетает порция ФАБ! По сообщениям местных СМИ - удары наносятся в районе мостов.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78068",
+      "id": "voenkorKotenok/78073",
       "channel": "voenkorKotenok",
       "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78068",
-      "published_at": "2026-11-21T21:21:35+00:00",
-      "text": "Ситуация на западных рубежах России колеблется между опасной и очень опасной. Доктор политических наук Дмитрий Цыбаков специально для канала Военкор Котенок ( @voenkorKotenok ): Нынешняя ситуация на западных рубежах России колеблется между опасной и очень опасной перспективами для нашей страны. Первая состоит в открытом шантаже российского \"политического класса\" со стороны европейской коалиции, посланцев которых буквально на днях пригласили на рандеву в Первопрестольную. Имитируя подготовку к большой войне, европейские лидеры стараются открытым выкручиванием рук принудить своих российских визави к конструктиву — то есть, к растянутой по времени \"мягкой капитуляции\", отсчёт которой, по их замыслу, начнется с частичной приостановки военных действий на линии боевого соприкосновения на Украине. Варианты уже прокручиваются усилиями коммуникабельных родственников и свойственников \"хромого селезня\" из Вашингтона. Очень опасная перспектива заключается в приготовлениях к открытой войне против России — не прямо сейчас, а через время, после \"заморозки\". Для этого, вероятно, могут использовать не НАТО — американцы пока не намерены присоединяться из-за внутренних дрязг. Скорее, будут использовать временную европейскую коалицию, где НАТО останется кулисами и не станет провоцировать Китай на открытое вмешательство. Вероятная цель — попытка нанесения поражения на уязвимом театре, изолированном от Большой России, образцы чего почерпнуты из опыта Крымской или русско-японской войн: военная история преподаётся в европейских командных академиях на весьма достойном уровне. Именно поэтому видим сейчас начало системного выноса коммуникаций в Крыму и в Калинградском эксклаве. На очереди маячит и Приднестровье. Вспомним, как накануне Курского вторжения Зеленский разыгрывал партию смиренного переговорщика. Теперь уже и не считают нужным маскироваться. Все необходимые решения в целом понятны сколь-нибудь посвященным и требуют только чёткой команды для извлечения из архивов национальной безопасности. Подпишись в MAX @voenkorKotenok",
+      "url": "https://t.me/voenkorKotenok/78073",
+      "published_at": "2026-11-21T22:45:43+00:00",
+      "text": "Европа снова почуяла шанс ЕС категорически не собирается договариваться. Ультрасумасшедшие там говорят о мирном договоре без участия России. В Европе априори рассматривают один вариант военного поражения России, русских — убить и добить. «Мягкая» позиция у Мелони в Италии: «Россия будет платить и каяться». Участие Европы в переговорах — только для ультиматума России. Точка. Так будет до смены маркронов/мерцев. И не факт, что за ними придут вменяемые. За сутки до саммита АТЭС Париж объявил о присутствии своих войск на Украине. Это вызов и четкий сигнал русским о готовности к войне, нагнетание истерии с подтверждениями — войска присутствуют; Нидерланды, англичане признают, что их ракетами и БпЛА били по Крымскому мосту. Это фактическое признание ударов по территории России: «Это мы! Что нам сделаете? Готовы ещё!». Их прямая задача — срыв переговорного процесса, который организовал Трамп. Удар по мосту завел переговоры в тупик. Мнение Киева неважно. Он получит € 90 млрд на войну, держа в уме про запас замороженные 200 российских млрд. Почему Ялты-2.0 и быть не могло В Ялте-45 собирались союзники, которые сражались с одним и тем же врагом. В нашем случае с реинкарнацией Гитлера воюет один Владимир Путин, а два других в том или ином виде поставляют его противнику оружие, а один — «миротворец», как ни крути, вообще помогает наносить стратегические удары в глубину России. Во-вторых, в Ялте-45 собирались победители, которые диктовали миру свою волю в готовности подкрепить её военной мощью. Сейчас об этом даже речи нет. Посему и Ялты-2.0 быть, конечно, не могло… Читать полностью — 👇 👇 👇 Если мир для них наша смерть… О мостах, концентрации и мощности залпа, ПВО и мире Сегодня.ру Подпишись в Мах @segodnia_ru",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "crimea",
-        "kursk",
-        "negotiation"
+        "drone",
+        "kyiv",
+        "missile",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350252",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350252",
+      "published_at": "2026-11-21T22:42:17+00:00",
+      "text": "«Это не кредиты, это дары» Словакия не намерена участвовать в кредите для Киева, заявил Фицо. «Нас ждет серьезная дискуссия не только о бюджете Европейского союза на 2028–2034 годы, но и дискуссия о новом кредите на 45 миллиардов для Украины. Как вы знаете, Словакия не участвовала в первом кредите на 90 миллиардов, так же мы хотим поступить и сейчас, хотя нас политически шантажируют соединением этого кредита с бюджетом Евросоюза», – сказал словацкий премьер. Он отметил, что Украина не сможет заплатить ни цента по кредитам, которые ей выдает ЕС. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234278",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234278",
+      "published_at": "2026-11-21T22:33:01+00:00",
+      "text": "Россиян задержали в Таиланде за мошенничество на 150 млн рублей, которое они совершили в РФ. Пара сменила имена и получила гражданство Вануату. Силовики накрыли их прямо во время посещения салона красоты, на родине им грозит до 10 лет тюрьмы. @banksta",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234271",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234271",
+      "published_at": "2026-11-21T22:03:01+00:00",
+      "text": "На кадрах - опорно-пусковая установка «Джигит» с парой ракет из состава ПЗРК 9К38 «Игла» на вооружении 138-й радиотехнической бригады ВС ВСУ. Происхождение этих установок на Украине неизвестно. Ранее мы вам рассказывали про аналогичные американские мобильные пусковые установки Dual Mount Stinger (DMS) .",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
       ],
       "possible_duplicate_urls": []
     }
