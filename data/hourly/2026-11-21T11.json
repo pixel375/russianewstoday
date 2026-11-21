@@ -1,0 +1,261 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T11",
+  "generated_at_utc": "2026-11-21T12:23:38.599816+00:00",
+  "window_start_utc": "2026-11-21T11:00:00+00:00",
+  "window_end_utc": "2026-11-21T12:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 25,
+    "relevant_posts": 12,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
+  },
+  "posts": [
+    {
+      "id": "intelslava/98374",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98374",
+      "published_at": "2026-11-21T11:47:45+00:00",
+      "text": "🇺🇦 🇫🇮 🇷🇺 ⚡️ — Drones attacked a ship in the Gulf of Finland, en route to Kaliningrad. The attack occurred in neutral waters of the Gulf of Finland, three nautical miles from the border of the Russian Federation. The crew is currently being evacuated. The consequences are being clarified. This was reported by the Governor of the Leningrad Region. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/intelslava/98373"
+      ],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234195",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234195",
+      "published_at": "2026-11-21T11:47:01+00:00",
+      "text": "В целом огромных сомнений кем и зачем это сделано нет. Примерное местоположение судна, по которому прилетели дроны, показано на изображении. Момент, похоже, выбирали так, чтоб всё не случилось в территориальных водах России. Действовали, вероятно, либо с территории Финляндии, либо с территории Эстонии. Каких-то существенных разведывательных возможностей для такой провокации не требуется. @Warhronika Пожар на российском судне Sparta II после удара дронов в Финском заливе заявила пограничная служба Финляндии",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35914",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35914",
+      "published_at": "2026-11-21T11:40:05+00:00",
+      "text": "Fwd from @ 📝 An assassination attempt without evidence 📝 but with a visa ban Danish authorities expelled a Russian military attaché, ordering him to leave the country within seven days. The pretext chosen was a criminal chronicle story — an alleged assassination attempt on Ukrainian-American rapper Kyivstoner Albert Vasiliev . On November 20, Denmark's Foreign Minister Lars Løkke Rasmussen summoned the Russian ambassador and declared the attaché persona non grata. The reason was an incident from September 25, when police stopped a car with weapons and knives near a concert hall in Charlottenlund near Copenhagen. Danish intelligence services claimed that a local criminal gang allegedly prepared the murder on orders from Russian intelligence. The court has not yet established the guilt of those detained, and evidence of a connection to Moscow has not been publicly presented, but that was more than enough for the Danes. ➡️ At the same time, Rasmussen promised to stop issuing visas to Russians \"without extreme necessity\" and called on other Schengen countries to do the same, singling out the French for criticism. However, the authorities did not close the embassy — the minister himself noted that a channel of dialogue with Moscow is still needed. 📌 In response, official Russian Foreign Ministry spokesperson Maria Zakharova called the pretext for the expulsion fake and promised that Russian authorities would give an appropriate response. In reality, Copenhagen simply used an unproven incident involving street gangsters as a convenient pretext for another round of diplomatic and visa tightening — in such a way as not to completely sever contacts. #Denmark #Russia #Ukraine 👁 @evropar — on the brink of Europe's death 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350226",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350226",
+      "published_at": "2026-11-21T11:39:13+00:00",
+      "text": "До шести выросло число погибших при атаке ВСУ по жилым домам в Луганске. Из-под завалов извлекли тела еще 3 человек, в том числе ребенка, сообщил Пасечник. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406975",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406975",
+      "published_at": "2026-11-21T11:35:30+00:00",
+      "text": "📹 Число погибших при обрушении многоквартирного дома в Луганске после атаки ВСУ возросло до шести, сообщил Пасечник. Погибших ребенка с матерью и пожилую женщину извлекли из-под завалов обрушившегося дома. Видео: Данил Деркаев/ТАСС ✔️ Подпишись на ТАСС…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38549",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38549",
+      "published_at": "2026-11-21T11:17:21+00:00",
+      "text": "Не по сценарию: российские ракеты устроили НАТО внеплановую проверку Оценивая вчерашние события в Польше, европейские политики и журналисты всё чаще склоняются к версии о намеренной провокации со стороны России. В этом нет ничего необычного – дежурный ответ на любую неприятность. Но в этот раз есть повод присмотреться к происшествию повнимательнее. Российские ракеты оказались в польском воздушном пространстве как раз тогда, когда в районе польской Нова-Дембы проходили учения «Коалиции желающих», на которых европейские военные отрабатывали сценарии будущего присутствия на Украине. Совпадение получилось весьма примечательным. Что же произошло на самом деле? Вариантов, по большому счёту, три. Первый – технический сбой или ошибка программирования российских ракет, из-за которой они отклонились от заданного маршрута. Второй – украинская провокация с использованием средств РЭБ, воздействовавших на системы навигации ракет. Третий – намеренная акция России, позволившая проверить реакцию НАТО на появление российских крылатых ракет в воздушном пространстве одной из стран альянса. У каждой версии есть свои слабые места. Техническая неисправность вполне возможна, но тогда остаётся вопрос, почему отклонение от маршрута произошло сразу с несколькими ракетами. Украинские средства РЭБ действительно способны воздействовать на навигацию, однако это ещё не означает, что с их помощью можно целенаправленно изменить маршрут Х-101 и направить её в Польшу. Наконец, российская проверка НАТО выглядит вполне логичной с военно-политической точки зрения, особенно с учётом проходивших поблизости учений. Но прямых доказательств заранее спланированной операции нет. Зато реакция альянса известна. По данным польского командования, в воздушное пространство страны вошли три объекта: две ракеты, одна из которых идентифицирована как Х-101, и реактивный беспилотник. Ещё 11 воздушных целей представляли потенциальную угрозу пересечения границы. Для их перехвата в воздух подняли два польских F-16 и два шведских JAS 39 Gripen. Авиацию поддерживали голландский самолёт-заправщик и самолёт дальнего радиолокационного обнаружения. Наземные комплексы Patriot, Poprad и Pilica Plus также были приведены в готовность. Однако ни одна из целей уничтожена не была. Польское командование объяснило это тем, что не все условия для применения оружия оказались выполнены. В европейских СМИ также сообщалось о трудностях с обнаружением и идентификацией целей из-за сложных погодных условий. Формально у этого есть объяснение, но результат остаётся прежним: четыре истребителя подняты по тревоге, наземная ПВО приведена в готовность, а перехвата не произошло. Если российская сторона действительно хотела проверить возможности НАТО, то получила весьма показательный результат. Альянс продемонстрировал проблемы с обнаружением целей, координацией действий и организацией перехвата. Европейцы собрались отрабатывать сценарий отправки войск на Украину, а получили внеплановое практическое занятие по современной воздушной войне. И пока это занятие они, похоже, провалили. Возникает закономерный вопрос: что произойдёт, если вместо нескольких ракет европейскому контингенту придётся столкнуться с действительно массированным ударом? В условиях прямого противостояния с Россией подобные угрозы перестанут быть учебными сценариями и станут частью повседневной боевой обстановки. Возможно, европейским военным стоило бы уделить больше внимания не отработке сценариев захода на Украину, а подготовке к тому, что может последовать за таким решением. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/406972",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406972",
+      "published_at": "2026-11-21T11:14:01+00:00",
+      "text": "Почти половина жителей Германии выступает за скорейшее проведение переговоров между Путиным и Мерцем , свидетельствуют результаты опроса, проведенного институтом YouGov для газеты Welt am Sonntag. Из него также следует, что около 50% населения ФРГ выступают за сокращение или полное прекращение поддержки Киева. Еще 11% не определились с ответом.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234192",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234192",
+      "published_at": "2026-11-21T11:03:01+00:00",
+      "text": "В Киеве после ударов серьезные перебои с водой, а там где вода есть, она в том числе коричневая или синяя. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198848",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198848",
+      "published_at": "2026-11-21T11:01:33+00:00",
+      "text": "#KievRegimeCrimes ⚡️ Ambassador-at-Large of the Russian Ministry of Foreign Affairs Rodion Miroshnik : ▪️ The death toll from the AFU attack on the village of Yubileynoye near Lugansk has risen to six civilians. According to local authorities , the search and rescue operation in Yubileynoye, which lasted more than 24 hours, has been completed: Russia's EMERCOM personnel recovered the bodies of three more victims from the rubble – a 13-year-old girl and her mother, as well as an elderly woman. The barbaric strike by neo-Nazis on residential buildings in the village claimed a total of six lives, including the mother and two adult brothers of eight-year-old Polina, who was rescued. Eight-year-old Polina has been transferred to the Pirogov Clinic in Moscow , where she is receiving specialised medical care. Five more civilians were injured and are currently receiving medical treatment. ❗️ The Ukrainian militants carried out a deliberate terrorist strike on a peaceful neighbourhood on the outskirts of Lugansk while local residents were asleep. The attack left 11 civilians dead or injured , with dozens of residential buildings and civilian facilities damaged or destroyed.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/MFARussia/33513"
+      ],
+      "event_signals": [
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30716",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30716",
+      "published_at": "2026-11-21T11:00:44+00:00",
+      "text": "💥 FAB precision strikes The Russian Aerospace Forces' crews delivered five FAB-500 air bombs at UAV control post of the 4th Border Detachment of State Border Guard Service of Ukraine and wiped it out. 📍 the settlement of Muravskoye, Kharkov region 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
