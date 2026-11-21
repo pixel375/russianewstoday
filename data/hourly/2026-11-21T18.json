@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T18",
+  "generated_at_utc": "2026-11-21T19:20:57.336306+00:00",
+  "window_start_utc": "2026-11-21T18:00:00+00:00",
+  "window_end_utc": "2026-11-21T19:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 21,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "boris_rozhin/234238",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234238",
+      "published_at": "2026-11-21T18:59:01+00:00",
+      "text": "Повреждения российского контейнеровоза «Спарта-II» в результате попадания украинских дронов. Объективный контроль, видимо, осуществялет погранслужба Финляндии. Судя по всему, прилетело в мост и задело часть контейнеров. Но на способность судна передвигаться это, похоже, не повлияло и угрозы нет. @Warhronika",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234237",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234237",
+      "published_at": "2026-11-21T18:47:01+00:00",
+      "text": "Эксклюзивные кадры боевой работы 3 АК Южной группировки войск демонстрирующие боевую работу ВС РФ на Краматорско-Дружковском направлении. В результате слаженных действий военнослужащими 3 АК Южной группировки войск был взят в плен боевик 109 обр ТрО ВСУ. В ходе допроса пленный ВСУшник Караваев сообщил, что в подразделении сложилась тяжёлая обстановка из-за высоких потерь на ЛБС и отсутствия командиров на местах. По его словам, он принял решение сдаться в плен добровольно, чтобы не погибнуть, как «побратимы». Победа будет за нами! Бойцы ВСУ, не позволяйте войне лишить вас будущего. Ваши родные ждут вас. Напишите на https://t.me/FREE_SOLDIER_2025 и узнайте, как вы можете вернуться к мирной жизни без риска для своей жизни. @frontline_pvt",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234236",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234236",
+      "published_at": "2026-11-21T18:46:56+00:00",
+      "text": "‼ ‼ ‼ ‼ СЕВАСТОПОЛЬ | ВОЗДУШНАЯ ТРЕВОГА! Сохраняйте спокойствие, соблюдайте меры безопасности, оставайтесь в безопасных местах и не снимайте работу ПВО. В Севастополе военные отражают атаку ВСУ, работает ПВО и мобильные огневые группы. По предварительной информации сбито 3 БПЛА в районе Северной стороны. Не пренебрегайте мерами безопасности! ⚡️ ⚡️ ⚡️ ⚡️ Покиньте открытые пространства и оставайтесь в безопасных местах. Наши военные ведут работу по уничтожению вражеских БПЛА из различных средств поражения, в том числе и из стрелкового оружия. Берегите себя!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33522",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33522",
+      "published_at": "2026-11-21T18:33:39+00:00",
+      "text": "✉️ On November 21, President of Russia Vladimir Putin sent greetings to the participants, organisers and guests of the International Conference on Public Health in Africa . ✍️ I welcome you on the occasion of the international conference being held in Addis Ababa, dedicated to the most important issues related to ensuring the genuine sovereignty of African countries in the field of public health . These issues include the development of healthcare services and sanitation infrastructure, the training of qualified personnel and the introduction of modern technologies. 🇷🇺 The Russian Federation has traditionally provided active assistance to its African partners in protecting public health, and the outcomes of the recently held Third Russia–Africa Summit have created opportunities for further expanding our cooperation in this area. Particularly close cooperation has been established in combating epidemic diseases under the relevant comprehensive cooperation programme, which has been extended until 2029. Joint scientific research activities and practical exercises are conducted on a regular basis. Teams of Russian specialists are dispatched to Africa to combat outbreaks of dangerous infectious diseases , while mobile laboratories, large consignments of medicines, diagnostic equipment and preventive supplies are also provided. Around 10,000 students from almost every African country are currently studying medicine at Russian universities. Many of them undertake internships at our leading clinics and are regularly involved in research activities. 🤝 I am confident that the conference participants – representatives of government agencies and international organisations, medical professionals, scientists and experts – will engage in substantive discussions, exchange experience and identify new forms and areas of constructive cooperation aimed at protecting the health of the people of the African continent. I sincerely wish you every success and all the best. VLADIMIR PUTIN #RussiaAfrica",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234234",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234234",
+      "published_at": "2026-11-21T18:33:01+00:00",
+      "text": "СК РФ привел новые подробности по делу массового убийства мирных жителей Русского Поречного. Боевики ВСУ умышлено пошли на массовое убийство мирных жителей, включая 80-летнюю женщину и ее сына-инвалида, но следователям с помощью современных исследований и криминалистических методик удалось установить преступника. Российские следователи в программе \"Трибунал\" на телеканале \"Звезда\" рассказали, как было раскрыто массовое убийство в селе Русское Поречное в Курской области, в том числе пожилой женщины и ее сына-инвалида, совершенное боевиками ВСУ. \"Боевики ВСУ и наемники действовали в рамках заранее подготовленного плана вторжения. Все убийства они совершали не из корыстных побуждений, а именно с целью запугать население и дестабилизировать обстановку в нашей стране, иначе никак невозможно объяснить ту жестокость, с которой они действовали на нашей территории\", — отмечает официальный представитель СК РФ Светлана Петренко. Следствием установлено, что гражданские люди были убиты просто потому, что разговаривали на русском языке и жили в России. В программе рассказывается о методах расследования сложных уголовных дел, в том числе с использованием генетического анализа, когда, на первый взгляд, невозможно определить ни личность жертв, ни тех, кто совершал преступление. Было установлено, что солдат ВСУ Евгений Фабрисенко находился в населенном пункте в момент совершения убийства. Поначалу он отрицал убийства в Русском Поречном, но после предъявления неопровержимых доказательств сознался в содеянном и рассказал, что действовал вместе с тремя другими боевиками. Они забили насмерть 80-летнюю женщину и ее сына-инвалида. В зале суда он раскаялся в содеянном. Всего удалось доказать, что один только Фабрисенко убил 7 мирных жителей. Кроме того, в программе отмечено сходство этих событий с происходившими в селе Ивница в феврале 1943 года. Тогда там стоял 596-ой гренадерский полк фашистов, которые при наступлении Красной Армии вывели всех мужчин села на озеро и расстреляли. Женщин и детей загнали в здание колхоза и закидали его гранатами. Тогда погиб 201 мирный житель. При этом в программе показали свидетельские показания жителя Суджанского района, который рассказал, что боевики ВСУ намерено закидывали подвалы домов гранатами, зная, что в них прячутся мирные жители. \"Когда следователи начали расследование в Русском Поречном, стало очевидно, что нападавшие буквально под копирку воспроизвели почерк нацистов\", — отметила Светлана Петренко. Расследование дел о преступлениях, совершенных боевиками ВСУ в Курской области, продолжается. \"У нас есть общее одно большое дело, которое расследуется по вторжению в Курскую область воинскими формированиями Украины. Оно не перестает расследоваться, продолжается сбор доказательств. Если есть лица, которые это совершали, то они должны как можно быстрее получить свое заслуженное наказание\", — отметил в программе \"Трибунал\" сотрудник военных следственных органов СК России Александр Глухарев. Полную версию \"Трибунала\" смотрите на телеканале \"Звезда\", а также на нашем сайте .",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98381",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98381",
+      "published_at": "2026-11-21T18:17:20+00:00",
+      "text": "🇷🇺 🇺🇸 🇮🇱 ⚡️ — Russia, the United States, and Israel have blocked the adoption of an agreement in the UN to limit the use of \"killer robots,\" according to Reuters. The agreement concerns autonomous weapon systems capable of independently selecting and engaging targets with minimal human intervention. Around 100 countries supported the international agreement. However, due to the position of the largest arms manufacturers, the negotiating parties only agreed to continue developing the rules until 2028, without specifying whether they would be legally binding. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78063",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78063",
+      "published_at": "2026-11-21T18:10:40+00:00",
+      "text": "”Коалиция желающих” введет войска на Украину независимо от требований Путина и интересов России, – министр обороны Британии Уэс Стритинг. Не сомневаюсь ни на секунду, введут. Более того, уже инфильтрируют, как сейчас можно говорить, потихоньку. Педераст не врёт, его ненависть к России и русским инфернальна. Англичане хотят повторить атаку под Балаклавой, кстати, и в прямом смысле. Они желают лишить Россию и Крыма тоже. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78062",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78062",
+      "published_at": "2026-11-21T18:09:59+00:00",
+      "text": "Со вчерашнего дня ситуация с электроснабжением на Украине улучшилась. Если вчера без света оставались 50 % населения, то сегодня — только 30 %. Западные области восстановили подачу электроэнергии. Сложная ситуация у хохла в Днепропетровской области и в Киеве. Требуется системное уничтожение подстанций, ТЭС и объектов энергетики.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350242",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350242",
+      "published_at": "2026-11-21T18:00:47+00:00",
+      "text": "Спецоперация. Обстановка и главные события на 21 ноября: ▪️ ВС России ударили по месту совещания высокопоставленных представителей ВСУ и представителей ВПК, сообщило Минобороны России. ▪️ ПВО за сутки уничтожила 464 дрона ВСУ. ▪️ ВСУ за сутки потеряли более 1185 военнослужащих. ▪️ Лантратова готовит обращение в ООН после удара ВСУ по поселку Юбилейное в Луганске. ▪️ В Финском заливе два БПЛА атаковали судно, следовавшее в Калининград, сообщил глава Ленобласти Дрозденко. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
