@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    137
+  ],
+  "published_at_utc": "2026-11-21T14:25:17.288544+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-21T13",
+  "items": [
+    {
+      "item_id": "2026-11-21T13:1",
+      "title": "Russian military account claims strike destroyed Ukrainian position in Sumy region",
+      "summary": "A Russian military correspondent claims a bombing raid destroyed a fortified position of Ukraine's 104th Territorial Defence Brigade near the ruins of Kniazhychi in Sumy region. The account provided no casualty figures or independent damage assessment.",
+      "post_url": "https://t.me/russianewstodayofficial/137",
+      "category": "other",
+      "hour_id": "2026-11-21T13",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-21T13:2",
+      "title": "Poland says two Russian missiles and a military drone may have hit its territory",
+      "summary": "A report says Polish authorities are examining indications that two Russian missiles and a military drone may have struck Polish territory. The brief statement does not establish the locations, damage or final findings.",
+      "post_url": "https://t.me/russianewstodayofficial/137",
+      "category": "other",
+      "hour_id": "2026-11-21T13",
+      "source_handles": [
+        "bricsnews"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
