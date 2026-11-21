@@ -1,0 +1,228 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-21T19",
+  "generated_at_utc": "2026-11-21T20:25:00.546649+00:00",
+  "window_start_utc": "2026-11-21T19:00:00+00:00",
+  "window_end_utc": "2026-11-21T20:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 21,
+    "relevant_posts": 8,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
+  },
+  "posts": [
+    {
+      "id": "dva_majors/102340",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102340",
+      "published_at": "2026-11-21T19:53:03+00:00",
+      "text": "✨ Сбор на Запорожский фронт ✨ 1265 человек участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка для дооснащения цеха БПЛА и обеспечения его бесперебойным электроснабжением. ▪️ Эл.станц. -4шт- 1 000 000 ₽ ▪️ Генератор -2шт- 600 000 ₽ ▪️ Станки для опты -2шт- 700 000 ₽ ▪️ Оборуд. FPV - 450 000 ₽ Необходимо: 2 750 000 ₽ Собрано за сутки: 285 034 ₽ Собрано всего: 2 253 995 ₽ Осталось собрать: 497 005 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78065",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78065",
+      "published_at": "2026-11-21T19:48:07+00:00",
+      "text": "Комбинированные удары по н.п. Запорожье продолжаются. После серии прилетов БпЛА в городе раздают более мощные взрывы. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30723",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30723",
+      "published_at": "2026-11-21T19:45:21+00:00",
+      "text": "‘This Order will take up an honorary place on the brigade's combat banner’ ▫️ The Vostok Group's 305th Guards Brigade was presented with the Order of Zhukov in the special military operation zone. ‘This is not just an award, it's the outcome of the efforts of every serviceman in our brigade, their dedication and their merit before the Fatherland’, said the deputy brigade commander for military-political work with the call sign ‘Tambov’. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234247",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234247",
+      "published_at": "2026-11-21T19:45:06+00:00",
+      "text": "Анимированная схема ударов по территории Украины 07:30 20 ноября 2026 – 07:30 21 ноября 2026 года. Добавления выявленные в процессе создания схемы: - 02: 00 Печенеги Харьковской области – взрыв. Торнадо-С. - 07:10 Борисполь Киевской области – взрывы. Герани.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234245",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234245",
+      "published_at": "2026-11-21T19:31:08+00:00",
+      "text": "Наши военные, ПВО и мобильные группы продолжают отражать атаку ВСУ на Севастополь. Сбито 7 БПЛА. По предварительной информации никто из людей не пострадал. ❗️ Напоминаю: при обнаружении любых опасных предметов или обломков ни в коем случае не подходите к ним! Сразу сообщайте об этом по номеру 112. ⚡️ ⚡️ ⚡️ ⚡️ Доверяйте только официальной информации. @razvozhaev",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234242",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234242",
+      "published_at": "2026-11-21T19:10:05+00:00",
+      "text": "19 ноября 2026 года на Краснолиманском направлении ликвидирован старший лейтенант Назаров Артур. Занимал должность командира взвода ударных БпЛА роты ударных БпЛА 117 отдельной бригады территориальной обороны. В 2014 году был активистом Евромайдана и участником АТО. @ukrainian_guide",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407012",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407012",
+      "published_at": "2026-11-21T19:05:46+00:00",
+      "text": "Спасательное судно РФ подошло к российскому сухогрузу, атакованному БПЛА в международных водах Финского залива, сообщил Дрозденко. Эвакуация не потребовалась. Команда атакованного сухогруза планирует продолжить движение и проводит необходимые работы.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30722",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30722",
+      "published_at": "2026-11-21T19:03:38+00:00",
+      "text": "Forcing enemy ‘birds’ to land The Zapad Group's FPV interceptors shot down enemy attack drones. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
