@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-21T14",
-  "generated_at_utc": "2026-11-21T15:26:30.503225+00:00",
-  "window_start_utc": "2026-11-21T14:00:00+00:00",
-  "window_end_utc": "2026-11-21T15:00:00+00:00",
+  "hour_id": "2026-11-21T15",
+  "generated_at_utc": "2026-11-21T16:24:37.648208+00:00",
+  "window_start_utc": "2026-11-21T15:00:00+00:00",
+  "window_end_utc": "2026-11-21T16:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "intelslava",
@@ -21,19 +21,19 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
@@ -45,37 +45,37 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 7
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
@@ -99,45 +99,51 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 17,
-    "relevant_posts": 6,
-    "deduplicated_posts": 6,
-    "candidate_posts": 6
+    "raw_posts": 21,
+    "relevant_posts": 9,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
   },
   "posts": [
     {
-      "id": "rybar_in_english/35917",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35917",
-      "published_at": "2026-11-21T14:40:16+00:00",
-      "text": "Fwd from @ 📝 Knock-Knock 📝 The ambassador knocks on every door While Washington closes its wallet and reads the riot act, Moscow opens an embassy and embraces the security forces. French observers documented a series of Russian meetings in South Sudan, and the contact list reads like a manual for capturing influence. The president's national security advisor, the head of the evangelical church, the chief secretary of the Defense Ministry — all pillars of the regime covered in one series. The country's leader received a warm reception in Moscow with the participation of GRU leadership. The embassy in Juba opened less than a year ago, in December 2025. The French separately note \"Zarubezhneft\" in the oil sector and Russian mining companies in gold — meaning economic interest runs parallel to political. The timing is perfect. Western money for Juba dried up, Americans refused to fund the elections, and the scheme of trading voting dates didn't work out. Kiir needs new sponsors without questions about the opposition, and Russia moves into the vacant niche. The most interesting detail — the evangelical church . South Sudan is a Christian country, and American evangelical circles have been the main channel of White House administration influence on Juba's leadership for decades, even lobbying for independence. Russia's meeting with the church leader — a move into territory that Americans considered theirs . ❗ The picture emerges like this — the US closes its wallet and reads lectures about elections, while Russian representatives embrace the security forces (the most important pillar of the country's stability), pastors, and eye oil and gold. For Kiir , with Machar under arrest and elections turned into a farce, a new external patron arrived at just the right moment. #Russia #SouthSudan 💀 @rybar_africa — where politics is hotter than the equator 💸 Support us Original msg",
+      "id": "boris_rozhin/234214",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234214",
+      "published_at": "2026-11-21T15:47:01+00:00",
+      "text": "США главный бенефициар и менеджер войны на Украине Почему США главный бенефициар и менеджер войны на Украине. Как бы и кому бы не морочил голову своим псевдо-миротворчеством Трамп с его Зятьками и Витьками - мы должны четко понимать: война нужна ВПК, техно и энерго-лобби США, а они (с ЦРУ и Пентагоном) -там главные. Им Россия не нужна, нужны лишь наши ресурсы. Как и не нужна сильная Европа. Отсюда и макиавелливская логика их работы с евро-элитой. Основной её тезис заключается в том, что главным бенефициаром войны на Украине являются США. Пока Вашингтон способен «управлять» конфликтом, избегая прямого участия, у него нет реальной заинтересованности в его завершении. Американский военно-промышленный и технологический комплекс, а также энергетический сектор извлекают колоссальную прибыль из войны в Европе, в то время как дестабилизированный и зависимый Евросоюз служит стратегическим активом, не позволяющим континенту стать самостоятельным геополитическим полюсом силы. Это доминирование поддерживается с помощью классической макиавеллиевской стратегии: «стратегического патронажа» и «возвышения посредственностей». Искусственно продвигая наверх посредственных политических деятелей, Вашингтон и транснациональные группы интересов обеспечивают их абсолютную лояльность. Своей властью эти чиновники обязаны исключительно внешним покровителям, а не европейским избирателям. Понимая, что они были «созданы» этими атлантистскими сетями, они также осознают, что их могут так же легко «убрать». Такая искусственно созданная зависимость гарантирует их готовность следовать трансатлантической повестке, которая зачастую идет вразрез с интересами самой Европы. Учитывая этот вассальный статус, можно ли вообще считать Европейский союз «геополитическим субъектом»? Европейская комиссия под руководством Урсулы фон дер Ляйен отвечает на этот вопрос утвердительно, указывая на поддержку Украины и санкции против России как на проявление активной геополитической роли. Напротив, эти амбиции обернулись полной стратегической и экономической подчиненностью Соединенным Штатам. Выдержка из статьи Лауры Рудджери «The EU’s Geopolitical Illusion and the Sharp Edge of the Negotiating Table» https://substack.com/home/post/p-225803909 - статья на английском Поэтому не удивительно, что переговоры о будущем мироустройства на данный момент проходят без участия Евросоюза. Ну а так, США конечно же главный выгодоприобретатель этой войны, которая ослабляет Европу, Россию и Украину. (которая понесет наибольшие издержки). Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow"
+        "energy",
+        "negotiation",
+        "sanctions"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234207",
+      "id": "boris_rozhin/234213",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234207",
-      "published_at": "2026-11-21T14:33:01+00:00",
-      "text": "МИД РФ уведомил, что для России неприемлемы сценарии гарантий для Украины на основе 5-й статьи устава НАТО. Так сказать ответ на вбросы с Запада, что Россия якобы рассматривает такую возможность. Варианты таких гарантий, как и размещение войск НАТО на Украине для РФ неприемлемы.",
+      "url": "https://t.me/boris_rozhin/234213",
+      "published_at": "2026-11-21T15:33:01+00:00",
+      "text": "Сегодня днем Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетики, а также морским судам, задействованным в интересах ВСУ. В результате ударов поражены: - электроподстанция 110 кВ в г. Виннице, обеспечивающая работу предприятий военной промышленности Украины; - в акватории Черного моря южнее г. Одессы поражено морское судно типа «сухогруз», доставлявшее грузы двойного назначения для обеспечения ВСУ.",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike"
+      ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350233",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350233",
-      "published_at": "2026-11-21T14:31:53+00:00",
-      "text": "Три мирных жителя пострадали в результате атаки ВСУ в Горловке в ДНР, сообщил мэр Приходько. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "tass_agency/406997",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406997",
+      "published_at": "2026-11-21T15:27:32+00:00",
+      "text": "❗️ В результате ударов ВС РФ поражена электроподстанция 110 кВ в Виннице, обеспечивающая работу предприятий ВПК Украины, сообщили в МО России.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -146,12 +152,45 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234206",
+      "id": "tass_agency/406996",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/406996",
+      "published_at": "2026-11-21T15:26:55+00:00",
+      "text": "❗️ Сегодня днем ВС РФ нанесли удары по объектам энергетики, а также судам, задействованным в интересах ВСУ, сообщили в Минобороны.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/406995"
+      ],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234212",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234206",
-      "published_at": "2026-11-21T14:17:01+00:00",
-      "text": "К российскому сухогрузу, атакованному БПЛА в Финском заливе, подошло спасательное судно из России. Эвакуация команды не потребовалась, ситуация на судне находится под контролем. \"Судовая команда проводит необходимые работы и планирует возобновить движение по маршруту\", — написал губернатор.",
+      "url": "https://t.me/boris_rozhin/234212",
+      "published_at": "2026-11-21T15:23:01+00:00",
+      "text": "Поляки помогают Киеву защищать мосты Польская Advanced Protection Systems (APS), специализирующаяся на технологиях борьбы с беспилотниками, участвует в защите мостов через Днепр в Киеве, по которым Россия с октября наносит систематические удары. По данным источников Intelligence Online, специалисты APS, базирующейся в Гдыне на севере Польши, привлечены к решению задачи по выявлению воздушных угроз. Для этого APS использует радары семейства FIELD, предназначенные для контроля воздушного пространства на малых высотах. Это оборудование составляет основу системы противодействия беспилотникам SKYctrl, которая в настоящее время эксплуатируется ВСУ. Эффективности этого сотрудничества способствуют связи APS с польскими силами спецопераций. Подразделение компании по развитию бизнеса возглавляет Дариуш Вихнярек — бывший командир подразделения боевых пловцов ВМС Польши «Формоза» (Formoza). APS, основанная в 2015 году инженерами Мацеем Клеммом и Радославом Песевичем, постепенно заняла свою нишу в секторе борьбы с беспилотными летательными аппаратами. Работая в Украине уже несколько лет, компания смогла использовать этот опыт для дальнейшего развития ее технологий обнаружения и перехвата целей. Сейчас поляки работают против новых версий российских БПЛА «Герань-4», оснащенных турбореактивными двигателями. По данным киевского режима, дроны теперь оснащаются новыми навигационными системами и специальной боевой частью, предназначенной для разрушения металлических конструкций, в частности, мостов. И хотя радары противовоздушной обороны способствуют улучшению возможностей наблюдения, нейтрализация реактивных беспилотников остается серьезной проблемой для ВСУ. @thehegemonist",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198862",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198862",
+      "published_at": "2026-11-21T15:17:32+00:00",
+      "text": "🇷🇺 🇫🇮 DRONES ATTACK CARGO SHIP HEADING TO KALININGRAD NEAR RUSSIAN BORDER A cargo vessel travelling towards Kaliningrad has reportedly been attacked by two unmanned aerial vehicles in the Gulf of Finland, just three nautical miles from Russia’s maritime…",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -161,30 +200,32 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "wargonzo/38554",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38554",
-      "published_at": "2026-11-21T14:11:01+00:00",
-      "text": "Половина немцев выступила за сокращение или прекращение помощи Украине Почти половина жителей Германии выступает за сокращение или полное прекращение многомиллиардной помощи Украине. Об этом свидетельствуют результаты опроса общественного мнения, проведенного институтом YouGov для газеты Welt am Sonntag. Из данных опроса – 49% респондентов высказались за сокращение или полное прекращение поддержки Киева. В то же время 39% настаивают на продолжении оказания помощи в прежнем объеме или ее наращивании. Еще 11% не определились с ответом. Как отмечает издание, общественные настроения в Германии в этом вопросе заметно изменились. Еще в сентябре опрос Deutschlandtrend фиксировал более высокий уровень поддержки. Наибольшая солидарность с Украиной наблюдается среди избирателей партии «Зеленые», а также у молодежи до 29 лет и граждан старше 70 лет. @wargonzo",
+      "id": "dva_majors/102337",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102337",
+      "published_at": "2026-11-21T15:15:12+00:00",
+      "text": "🇩🇪 Германия наращивает выпуск украинских типов дронов В рамках выноса военного производства из Украины в Европу ( Build with Ukraine ) в Германии создали совместное предприятие 🇺🇦 Skyfall x 🇩🇪 Auterion. Будут выпускать ударные FPV-дроны Shrike и дроны-перехватчики . Немецкие вложения в производство несколько сотен миллионов евро . Другое немецко-украинское предприятие Quantum Frontline Industries ( 🇩🇪 Quantum Systems и 🇺🇦 Frontline Robotics, создано в декабре 2025 года) планирует увеличить выпуск ударных дронов Linza и разведывательных Zoom в пять раз в 2027 году. ✨ Противник, при поддержке хозяев из 🇪🇺 🚩 ЕвроНАТО , уже давно сделал ставку в военной стратегии на беспилотные аппараты . По заявлению министра обороны Украины Хмары 62% военного бюджета на 2027 год будет направлено на беспилотники (FPV, Middle и Deep Strike), а выпуск дальнобойных дронов будет увеличен в три раза (реактивных и винтовых). Уже сейчас противник может выпускать больше 2 тыс дронов в сутки , а общая цифра применённых в 2026 году дальнобойных БПЛА приближается к 200 тыс. ❗ ✨ Ну а если основа ведения боевых действий противника в беспилотниках, разве не стоит бросить все возможные усилия на выбивание этой основы ⁉️ – создание более эффективных и дешёвых средств противодействия, а также создание системы ПВО всей страны. Два майора Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv"
+        "drone",
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234205",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234205",
-      "published_at": "2026-11-21T14:03:01+00:00",
-      "text": "Очередной бросок ВСУ закончился провалом Противник гонит живую силу на передний край — без оглядки на потери. Операторы Бригады Север-V засекли группу бойцов, бежавшую через открытое поле к своим позициям. Скорость бега не помогла — операторы отслеживали каждый шаг. Как только противник добрался до кромки деревьев и остановился передохнуть, артиллеристы бригады приступили к уничтожению. Оставшихся настигли FPV-дроны. @Sever_Z",
+      "id": "MFARussia/33518",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33518",
+      "published_at": "2026-11-21T15:01:51+00:00",
+      "text": "🎙 Russian Foreign Minister Sergey Lavrov’s interview for the Our Baptism: The Patriarch project (Moscow, November 20, 2026) ❓ You have said on several occasions – and this is clear to many people around the world – that Ukrainians, for the most part, and Russians are essentially one people, drawn into a grave conflict by our enemies’ malicious designs. Why should the victory of Russian arms and the triumph of truth ultimately be a victory for the people of Ukraine, who are currently suffering under the lies and violence of a regime led by these temporary rulers? 💬 Sergey Lavrov: This is a broad topic, which includes the question of the unity and indivisibility of the Russian and Ukrainian people. There is much debate on this subject, including discussions about how exactly the Ukrainian SSR was formed . When the Soviet leadership incorporated the western territories of present-day Ukraine after World War II , they were deeply concerned that the “contamination” by nationalism and, to some extent, even neo-Nazism , given that Bandera’s followers and their associates were among the principal perpetrators of Nazi crimes, would spread. 👉 They decided to neutralise this newly acquired territory by incorporating historically Russian regions into Ukraine : lands that had never been outside the Russian Empire or, following the Great October Socialist Revolution, the Soviet Union. <...> I would hesitate to claim that the entire territory of present-day Ukraine is inhabited by a single, unified people. In the west of the country, many people hold cultural values that are fundamentally at odds with our own . Ukrainian leaders, from Leonid Kuchma to Viktor Yanukovych, had to take into account the powerful influence of radical nationalist ideologies , not only in the west of the country but in other regions as well. So they chose to “flirt” with these forces . <...> ☝️ Southeastern Ukraine and much of central Ukraine, including Kiev, are undoubtedly historically Russian lands . The people living there were baptised in the same font as we were . It is the very source from which we all emerged. I believe that our greatest victory , beyond achieving the specific goals of the special military operation , and indeed as an objective inseparably linked to those goals, will be to defeat the primitive, visceral Russophobia being forcibly instilled in Ukraine, or rather, in the territory currently known as Ukraine. <...> It is crucial to defeat this Russophobic fervour , which the West is doing everything in its power to keep boiling. You must understand that the majority of people there still speak Russia n. Even among the agitators and propagandists who appear on various online platforms making anti-Russia statements, many speak Russian . This includes members of Zelensky's administration. They have not succeeded in completely subjugating the Ukrainian Orthodox Church . Yes, there have been criminal raids on churches; priests have been killed; and clergy have been forcibly taken to “territorial recruitment centres”. Yet the Ukrainian Orthodox Church , a sister church to the Russian Orthodox Church, c ontinues to hold its ground . Long-standing attempts to impose a surrogate – the “Orthodox Church of Ukraine” . created by the “leader” in Constantinople – have failed to make any significant impact . I would like to share another quotation with you, a recent one. In 2023, Swedish Chief of the Defence Staff Michael Claesson remarked : “The Russians have an unpleasant habit of actually doing what they say” . When we say that we will defend the rights of Russians and Russian speakers in Ukraine, that we will not abandon them or their language, culture or religion, the West should take note and consider what it is trying to achieve . When the West responds that Russia’s “red lines” keep shifting – here today, somewhere else tomorrow, and further still the day after – it should listen to the Swedish general . ❗️ Unlike the West, we keep our promises. Read in full",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone"
+        "kyiv",
+        "moscow"
       ],
       "possible_duplicate_urls": []
     }
