@@ -1,0 +1,28 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-22T07",
+  "snapshot_generated_at_utc": "2026-11-22T08:29:24.629119+00:00",
+  "items": [
+    {
+      "title": "Authorities report major power outages after Ukrainian drone strikes in Donetsk region",
+      "summary": "Authorities in Russian-controlled Donetsk said Ukrainian forces launched a large overnight attack on energy infrastructure, disrupting electricity supplies across a substantial part of the region. The scale of damage and restoration timeline were not specified.",
+      "source_urls": [
+        "https://t.me/tass_agency/407057"
+      ]
+    },
+    {
+      "title": "Russia claims overnight strikes on Zaporizhzhia power facility and Odesa-area port",
+      "summary": "Russia's Defence Ministry said its drones struck the 330 kV Pravoberezhna power facility in Zaporizhzhia and port infrastructure at Kiliya in Odesa region. It also claimed a cargo ship carrying dual-use supplies for Ukraine's military was hit northeast of Odesa; the ministry did not provide a damage assessment.",
+      "source_urls": [
+        "https://t.me/mod_russia_en/30726"
+      ]
+    },
+    {
+      "title": "Russian frontline report claims advances near Serhiivka and Kupiansk",
+      "summary": "A Russian frontline report claims troops entered Serhiivka on the Dobropillia axis and expanded positions near Shylivka, Bilozerke and Moskovka by Kupiansk. It also describes continuing fighting around Kostiantynivka, Vovchansk and the Sumy front; these are reported battlefield claims rather than confirmed changes in control.",
+      "source_urls": [
+        "https://t.me/wargonzo/38556"
+      ]
+    }
+  ]
+}
