@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T15",
+  "generated_at_utc": "2026-11-22T16:29:04.927911+00:00",
+  "window_start_utc": "2026-11-22T15:00:00+00:00",
+  "window_end_utc": "2026-11-22T16:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 24,
+    "relevant_posts": 7,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407084",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407084",
+      "published_at": "2026-11-22T15:52:01+00:00",
+      "text": "Серия выборов, которые должны пройти в Европе до конца следующего года, могут серьезно затормозить процессы евроинтеграции и оказания помощи Украине , пишет The Guardian. Выборы запланированы в том числе в крупнейших европейских государствах — Испании, Италии, Польше и Франции. Отмечается, что преимущество, вероятно, окажется на стороне националистических ультраправых сил. А такие результаты могут также парализовать переговоры по бюджету ЕС и планы дальнейшего расширения объединения.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35945",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35945",
+      "published_at": "2026-11-22T15:41:33+00:00",
+      "text": "• 📝 Assault on Khripunov 📝 situation in the Burluk direction The encirclement east of Volchansk gradually tightens, despite AFU counterattack attempts. Russian forces confirm their presence in previously freed villages and occupy new positions. Some time ago, evidence emerged that fighters from the \"Sever\" grouping occupied the territory of Khripunov . The footage was likely shot in late September or late October — precisely when the Russian Defense Ministry announced the freeing of the settlement. Assault troops raised state flags at several points in the village and reached the shores of a nearby pond. At the same time, Ukrainian formations maintain a presence in the vicinity of the settlement. They attempt to prevent Russian forces from establishing stable supply routes from Mala Volchia and hold positions in the Varvarovka area. ➡️ Additionally, \"Sever\" assault troops raised state flags in Volokhovka . This indicates the preservation of a stable bridgehead on the right bank of the Volchia River, which allows supplying Russian Armed Forces units in the Bely Kolodets area. ➡️ However, the situation remains difficult in the central sector of the direction. Footage that appeared online indicates the AFU maintains positions on the approaches to Simonivka . Upper Pisarivka and Losivka remain in the combat zone, where assault groups from both sides operate. ❗️ Ukrainian formations on this sector are limited to individual infiltration groups. Nevertheless, given the sparse positioning along the front, it is quite possible that the AFU will continue attempting to penetrate deeper into Russian Armed Forces positions to create a threat to communications along the Grafske — Bely Kolodets line. 📍 High resolution map 📍 English version 📍 Online maps available by subscription at map.rybar.ru #Burluk #digest #map #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/rybar_in_english/35944"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234348",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234348",
+      "published_at": "2026-11-22T15:40:19+00:00",
+      "text": "Харьковское направление ( данные от @DnevnikDesantnika ) На Харьковском направлении продолжаются активные наступательные действия и встречные бои. ВС РФ расширяет зону контроля. На Липцевском участке российские штурмовые группы при поддержке артиллерии и тяжёлых огнемётных систем продвигаются по лесополосам в сторону населенных пунктов Шопино, Цуповка и южнее Высокой Яруги, а также ведут бои у населенных пунктов Новая Казачья и Токарёвка. На Волчанском участке подразделения ВС РФ выбили силы противника из населённого пункта Сосновый Бор, тем самым освободив его. Теперь зачищают прилегающий лесной массив, развивая наступление на линии населенных пунктов Бугаевка — Шевченково Первое, в то время как ВСУ предпринимают попытки контратаковать у населенных пунктов Вильча, Белый Колодезь и Охримовка, но безуспешно. На Великобурлукском участке ВС РФ уничтожили штурмовую группу 475-го полка ВСУ в районе Хатнего, также наши войска продвигаются у населенного пункта Приколотное и наносят удары авиацией и БПЛА по резервам врага в районах Подсреднего и Колодезного.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350277",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350277",
+      "published_at": "2026-11-22T15:15:18+00:00",
+      "text": "ВС России поразили электроподстанцию в Днепропетровской области , обеспечивавшую работу ВПК Украины, сообщило Минобороны. Также в акватории Черного моря юго-западнее Николаева бойцы ударили по судну, которое доставляло грузы двойного назначения для ВСУ. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35943",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35943",
+      "published_at": "2026-11-22T15:14:42+00:00",
+      "text": "📝 Libyan Threat 📝 Another episode in the Mediterranean Probably everyone has already seen the news. A Russian corvette, most likely Merkuriy , entered Benghazi as part of escorting two transport vessels in the Mediterranean Sea. And at night, while it was in port, it came under attack. According to our data, the attack involved at least 6 unmanned boats, of which 4 were hit on approach, but two struck the ship. The information has not yet been confirmed, but given the presence of Ukrainian bases in Misrata and Az-Zawiya in western Libya, it is quite obvious who is responsible for this strike. The only question is whether the launch was carried out from shore or whether cargo vessels were used once again for this purpose — the very same ones that were spotted leaving Misrata just before the corvette entered Benghazi. And for the Navy, this is yet another indication that threats to combat ships are becoming increasingly diverse. And relying solely on traditional tactics that are so beloved at the General Staff will no longer suffice. 📍 High-resolution map 📍 English version #map #Libya #Russia 💀 @rybar_africa — where politics is hotter than the equator 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98414",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98414",
+      "published_at": "2026-11-22T15:05:11+00:00",
+      "text": "🇺🇦 🇺🇸 ⚡ Zelensky continues to complain about the US. He stated that the US is not supplying Ukraine even with the Patriot missiles that have already been paid for by the Europeans. According to his data, over the past week Russia launched about 2,700 drones, nearly 1,460 aerial bombs, and 165 missiles at Ukraine. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
