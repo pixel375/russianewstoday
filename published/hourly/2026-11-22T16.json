@@ -1,0 +1,47 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    163
+  ],
+  "published_at_utc": "2026-11-22T17:24:29.061960+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-22T16",
+  "items": [
+    {
+      "item_id": "2026-11-22T16:1",
+      "title": "Eastern Libyan authorities confirm explosion aboard Russian warship near Benghazi",
+      "summary": "Eastern Libya's government confirmed an explosion aboard a Russian warship at a port near Benghazi, with an unmanned-boat attack cited as a possible cause. Libyan military sources also reported intercepting another group of explosive boats approaching the city later on Sunday.",
+      "post_url": "https://t.me/russianewstodayofficial/163",
+      "category": "other",
+      "hour_id": "2026-11-22T16",
+      "source_handles": [
+        "ddgeopolitics",
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T16:2",
+      "title": "Power outages reported across parts of Dnipropetrovsk region after Russian strikes",
+      "summary": "Parts of Dnipro, Samara and nearby districts reportedly lost electricity following Russian attacks on energy infrastructure, with some critical facilities also affected. Russia's Defence Ministry said it struck a 330 kV substation in the region that supported defence-industry operations.",
+      "post_url": "https://t.me/russianewstodayofficial/163",
+      "category": "other",
+      "hour_id": "2026-11-22T16",
+      "source_handles": [
+        "intelslava",
+        "mod_russia_en"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T16:3",
+      "title": "Zelensky reportedly redirects missile funding from Flamingo to Neptune",
+      "summary": "President Volodymyr Zelensky is reportedly shifting funding from the Flamingo missile programme to Neptune missiles following stronger recent performance by the latter. The report did not specify the amounts or timing of the change.",
+      "post_url": "https://t.me/russianewstodayofficial/163",
+      "category": "other",
+      "hour_id": "2026-11-22T16",
+      "source_handles": [
+        "intelslava"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
