@@ -1,0 +1,270 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T07",
+  "generated_at_utc": "2026-11-22T08:29:24.629119+00:00",
+  "window_start_utc": "2026-11-22T07:00:00+00:00",
+  "window_end_utc": "2026-11-22T08:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 21,
+    "relevant_posts": 11,
+    "deduplicated_posts": 11,
+    "candidate_posts": 11
+  },
+  "posts": [
+    {
+      "id": "rybar_in_english/35933",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35933",
+      "published_at": "2026-11-22T07:52:09+00:00",
+      "text": "Starts above The Europeans continue to shift the economy and military infrastructure to the rails of a long-term military confrontation with Russia. On November 17, a regular meeting of the contact group for Ukraine support in the Ramstein format was held in Brussels, where Germany confirmed an air defense assistance program worth about 1 billion euros and announced an additional $ 300 million for the purchase of American weapons. Norway announced a package of about 800 million dollars, including funds for drones, the United Kingdom - about 240 million pounds for air defense. Belgium has confirmed plans to transfer ten F-16s by the end of the year. On November 18, the European Commission proposed allocating another 45 billion euros of loans to Kiev for 2027, of which 25 billion are intended for military spending and 20 billion for the budget. On November 20, Germany announced the creation of a Skyfall x Auterion joint venture for the production of Ukrainian strike FPV drones Shrike . According to the companies, they have already supplied more than 50 thousand such devices. The new production facility is planned to be located in Germany with the financial support of the German government. Koalicja exercises in Poland are also continuing, aimed at preparing multinational forces for possible actions in Ukraine \"after the cease-fire.\" Warsaw reported a violation of its airspace by several objects during the Russian missile strike, which further fueled militaristic sentiments (and if it had all flown not in the field, but in Rzeszow and Warsaw, the speech of the Psheks would not have been so bravura). ✨ Thus, they talk our teeth out and show us pictures of Stalin on the Internet, solving the main task - further weakening our military and economic potential. The stagnation of the front and the build-up of air strikes by the enemy creates ideal conditions for those interested in war in the West: UAVs are spinning, money is getting muddled, and Russians and Ukrainians are dying. The endless anti-Russian hysteria in the EU has already been called a \"political diarrhea\" by the Supreme Court and it is impossible to find a more precise definition. The summary was compiled by: ⚡️ Two Majors",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35931",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35931",
+      "published_at": "2026-11-22T07:50:24+00:00",
+      "text": "📝 On \"UAVs flying through Poland\" 📝 The desire to drastically simplify explanations of complex phenomena with simple things often leads to erroneous conclusions. This is roughly what happens when strikes by Ukrainian UAVs on remote regions are explained by their flights through third countries. Previously there were stories that drones flying to refineries in the Volga region or the Urals come from Kazakhstan, and those targeting St. Petersburg come from the Baltic states. Now Poland has been \"added\" to this list: supposedly the Spartan II vessel on the Baltic could only be struck using its airspace. The argumentation is sometimes astounding and boils down to the fact that flying there is very far. One wants to ask: but is it closer to the Omsk refinery, which drones have already reached more than once? And to Yamal or Tyumen, where unmanned aircraft have already been shot down? ❗️ The main problem is that in such a simplified picture of the world there is no room for analysis of real problems with air defense system density and ammunition for them, coordination between forces, a unified regional alert system. Why bother, if you can blame it all on circumstances of overwhelming force. By the way, a question arises. Could it be that in such an approach sometimes lies the reason why many objective and quite obvious difficulties in various spheres (not just air defense) are being resolved at very slow pace or are not being eliminated at all? #Poland #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407057",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407057",
+      "published_at": "2026-11-22T07:48:14+00:00",
+      "text": "🚨 ВСУ ночью массированно атаковали энергоинфраструктуру ДНР. Нарушено электроснабжение значительной части региона, сообщают власти.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30727",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30727",
+      "published_at": "2026-11-22T07:40:21+00:00",
+      "text": "Combat power engine 📆 #OnThisDay the Main Automotive-Armoured Tank Directorate celebrates its 97th anniversary. Its mission is to equip the Armed Forces with modern models of armoured and motor vehicles, as well as to organise maintenance and repair. 💬 Deputy Minister of Defence of the Russian Federation General of the Army Aleksandr Sanchik noted that, in almost a century of history, the Directorate has passed a serious test of time, proved high effectiveness and, despite numerous reorganizations, has always remained at the forefront of the defence of the Fatherland. ❤️ Congratulations! 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198888",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198888",
+      "published_at": "2026-11-22T07:22:25+00:00",
+      "text": "🇪🇺 Anne Applebaum admits Europe's war party is just waiting for the right tragedy Talking with Tim Miller, Anne Applebaum, the wife of Poland's Deputy PM and Foreign Minister Radek Sikorski, said that escalation against Russia is being \"discussed mostly privately.\" She admitted that Europeans don't want it. Her problem isn't that war is a bad idea. Her problem is that it's \"unpopular.\" In her words, there \"would have to be an event that convinced people that it was really necessary.\" She even sounded disappointed that there \"hasn't been like a mass casualty event yet.\" 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234310",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234310",
+      "published_at": "2026-11-22T07:21:06+00:00",
+      "text": "Дорога смерти для боевиков ВСУ Кадры со стороны противника, который показывает уничтоженные ударами FPV-дронов различную технику укробоевиков Славянско-Краматорская агломерация @Ukr_G_M",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407055",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407055",
+      "published_at": "2026-11-22T07:13:01+00:00",
+      "text": "G20 могла бы подкрепить договоренности по урегулированию на Украине на предстоящем саммите в Майами, заявил в интервью ТАСС американский экономист Джеффри Сакс. По его словам, европейским лидерам следует воспользоваться предстоящим саммитом, чтобы включиться в дипломатический процесс, \"а не оставаться в стороне\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38556",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38556",
+      "published_at": "2026-11-22T07:10:14+00:00",
+      "text": "⚡️ Фронтовая сводка на утро 22.11.2026 ⚡️ Запорожский фронт На Каменском направлении об изменениях в ЛБС не сообщается. (Рис. 1.1) На Гуляйпольском направлении продолжаются бои в районе Омельника, Червоного Яра, Широкого. (Рис. 1.2) Донецкий фронт На Добропольском направлении ВС РФ продвигаются у Шиловки, развивают наступление в районе Белозерского. Сообщается, что войска РФ вошли в Сергеевку. (Рис. 2.1) На Константиновском направлении продолжаются бои в районе Николайполья, есть продвижение на участке. ВС РФ оказывают давление на позиции противника на южных поступках к Красному Лиману. На Северском участке войска РФ атакуют в районах Ямполя и Кривой Луки. (Рис. 2.2) Харьковский фронт На Купянском направлении ВС РФ расширяют зону контроля у Московки. (Рис. 3.1) На Волчанском направлении идут бои на линии Бугаевка – Шевченково Первое . Продолжаются столкновения в районе Новой Казачьей, Токаревки и Алисовки. Есть продвижение в сторону села Малые Проходы. (Рис. 3.2; Рис. 3.2) Сумской фронт Не стихают сражения в районе Юнаковки. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30726",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30726",
+      "published_at": "2026-11-22T07:09:00+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation launched strikes with unmanned aerial vehicles against power facilities, port infrastructure, and vessels used in the interests of the AFU. 💥 As a result of the strikes, the following targets were hit: 📍 the 330 kV Pravoberezhnaya power station in the city Zaporozhye providing power for Ukrainian defence enterprises; 📍 port infrastructure facilities used in delivering military equipment and supplies to the AFU in the port of Kiliya in Odessa region. 📍 In addition, a dry cargo ship delivering dual-use cargo to the AFU was hit at sea north-east of Odessa. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407054",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407054",
+      "published_at": "2026-11-22T07:01:03+00:00",
+      "text": "Главные новости к этому часу: ▪️ ВС РФ \"Геранями\" поразили серверные помещения центра обработки данных на Украине. ▪️ В Финляндии допустили участие Киева в атаке на судно в Финском заливе. ▪️ Галузин заявил ТАСС, что прямой диалог России и Грузии станет регулярным. ▪️ КСИР атаковал две американские базы в Бахрейне, сообщило агентство Fars. ▪️ В Калининградской области назвали фейком фото взрыва в Балтийске. ▪️ Мелони упрекнула Зеленского из-за экстремистского сайта \"Миротворец\", сообщила газета Il Fatto Quotidiano. ▪️ Во Франции задержали 144 человека на фоне протестов против роста цен. ▪️ Литва заявила о непричастности к происшествию в Калининградской области. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102344",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102344",
+      "published_at": "2026-11-22T07:00:23+00:00",
+      "text": "✨ Сбор на Запорожский фронт ✨ 552 человека участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка для дооснащения цеха БПЛА и обеспечения его бесперебойным электроснабжением. ▪️ Эл.станц. -4шт- 1 000 000 ₽ ▪️ Генератор -2шт- 600 000 ₽ ▪️ Станки для опты -2шт- 700 000 ₽ ▪️ Оборуд. FPV - 450 000 ₽ Необходимо: 2 750 000 ₽ Собрано за сутки: 89 954 ₽ Собрано всего: 2 343 949 ₽ Осталось собрать: 406 051 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
