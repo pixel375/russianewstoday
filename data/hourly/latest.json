@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T21",
-  "generated_at_utc": "2026-11-22T22:23:50.089131+00:00",
-  "window_start_utc": "2026-11-22T21:00:00+00:00",
-  "window_end_utc": "2026-11-22T22:00:00+00:00",
+  "hour_id": "2026-11-22T22",
+  "generated_at_utc": "2026-11-22T23:28:34.746592+00:00",
+  "window_start_utc": "2026-11-22T22:00:00+00:00",
+  "window_end_utc": "2026-11-22T23:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,7 +15,7 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
@@ -51,7 +51,7 @@
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -99,111 +99,23 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 15,
-    "relevant_posts": 8,
-    "deduplicated_posts": 7,
-    "candidate_posts": 7
+    "raw_posts": 7,
+    "relevant_posts": 1,
+    "deduplicated_posts": 1,
+    "candidate_posts": 1
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198964",
+      "id": "DDGeopolitics/198967",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198964",
-      "published_at": "2026-11-22T21:48:58+00:00",
-      "text": "🇫🇷 France could cease to exist if strikes on Moscow continue, declared Jean-Luc Mélenchon, the second most popular candidate in the French presidential election. “Russia spans eleven time zones. Do you think that if you bomb its capital, it will say: ‘Well, let’s be reasonable?’ Of course not. It will defend itself,” Mélenchon stated. He emphasized, however, that France is far more vulnerable. “We do not span eleven time zones. One strike on our nuclear facilities and France is gone. It’s all over. We close shop,” the politician said. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198967",
+      "published_at": "2026-11-22T22:31:10+00:00",
+      "text": "🇩🇪 🇪🇺 🇺🇦 And they say Europeans don’t want a war with Russia ? Someone needs to remind this German soy boy what happened when his great grandfather tried to go to Moscow in the 1941. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98456",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98456",
-      "published_at": "2026-11-22T21:22:48+00:00",
-      "text": "🇺🇦 ⚡ Zelensky is shifting funding from \"Flamingo\" to \"Neptune\". These changes are being introduced because Neptune missiles have performed better recently. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "missile"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78104",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78104",
-      "published_at": "2026-11-22T21:22:32+00:00",
-      "text": "Ничего необычного, просто русские солдаты жгут украинскую деревню и расстреливают ее жителей в советском украинском фильме \"Тарас Шевченко\" (1951). В 1952 г. режиссер фильма получит Сталинскую премию I степени. На украине помешавшиеся и одержимые нечистым духом (безо всякого ерничания) люди празднуют 13-летие майдана, по факту начала большой войны. В России, понятное дело, не празднуют, а плюются и качают головами. Мне на эфирах задают вопросы, где корни майдана, как всё соткалось-сплелось. В этой связи пост историка Дюкова как раз тем, кто не знал или подзабыл. Особенно будет интересно узнать сталинистам и другим представителям крыла борьбы \"за всё хорошее против всего плохого\", лозунгов \"Отнять и поделить\" и тем, кто не сумел побороть в себе зависть, а, наоборот, воздвиг её на вершину классовой борьбы. Знайте, что Украина родилась из ненависти к русскому и в итоге пришла к ненависти к Создателю. Между прочим, сейчас там \" реформируют \" и святое Крещение. Это к тому, что всё происходящее имеет в первую очередь духовные корни. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98455",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98455",
-      "published_at": "2026-11-22T21:17:14+00:00",
-      "text": "🇺🇦 🇷🇺 ⚡ Massive attack by Ukrainian drones on Russia. Also another attempt to attack the Crimean Bridge, unsuccessful. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/intelslava/98453"
-      ],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98454",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98454",
-      "published_at": "2026-11-22T21:08:20+00:00",
-      "text": "🇺🇦 🇷🇺 ⚡ Zelensky promised that the Ukrainian Armed Forces will strike Russian energy infrastructure in response to blackouts in Ukraine. Then he slipped away and again complained that Russia has changed its tactics of strikes on Ukrainian energy and is now trying to destroy power grids and transmission lines to cut off entire regions from energy sources. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198963",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198963",
-      "published_at": "2026-11-22T21:01:29+00:00",
-      "text": "🇺🇦 💥 New strikes in Kharkov 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98452",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98452",
-      "published_at": "2026-11-22T21:01:28+00:00",
-      "text": "🇺🇦 ⚡ The Ukrainian Air Force has confirmed for the first time the presence of a Saab 340 AEW&C airborne early warning and control aircraft in service with the Ukrainian Air Force. A photo of the aircraft over Ukraine, which provides coordination of Ukrainian aviation operations during the repulsion of massive combined attacks. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
+        "moscow"
       ],
       "possible_duplicate_urls": []
     }
