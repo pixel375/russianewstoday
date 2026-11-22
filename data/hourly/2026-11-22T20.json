@@ -1,0 +1,196 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T20",
+  "generated_at_utc": "2026-11-22T21:29:52.565368+00:00",
+  "window_start_utc": "2026-11-22T20:00:00+00:00",
+  "window_end_utc": "2026-11-22T21:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 18,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "intelslava/98451",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98451",
+      "published_at": "2026-11-22T20:58:18+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — Only 38 Ukrainian drones were shot down over Russia during the day. This always means Ukraine will carry out a massive attack at night to overload Russia's air defense. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198961",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198961",
+      "published_at": "2026-11-22T20:56:02+00:00",
+      "text": "🇺🇦 💥 More videos of the Russian strike on railway infrastructure in Kharkov Oblast A major fire broke out at the station, with flames engulfing the platform and a train. Passengers are reportedly being evacuated. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234397",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234397",
+      "published_at": "2026-11-22T20:40:17+00:00",
+      "text": "Анимированная схема ударов по территории Украины 07:30 21 ноября 2026 – 07:30 22 ноября 2026 года. Изменения выявленные в процессе создания схемы: 14:35 Запорожье — взрыв. Дань-Т.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234395",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234395",
+      "published_at": "2026-11-22T20:32:40+00:00",
+      "text": "1. Купянск - Заосколье Последствия боевых действий в Купянске. Военнослужащие ВС РФ фиксируют контроль позиций в локомотивном депо Купянск - Сортировочный. Увеличение зоны контроля ВС РФ 1 км в южной части города в Заосколье. 2. Покровское - Герасимовка Позиционные боевые действия в Днепропетровской зоне безопасности. Позиция ВС РФ в Герасимовке подверглась обстрелу ВСУ. ВС РФ увеличили зону контроля до 1,5 км и заняли новые позиции по западному берегу реки Гайчур в жилой застройке населённого пункта @creamy_caprice",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98448",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98448",
+      "published_at": "2026-11-22T20:16:47+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — The Russian Armed Forces struck the railway station in Lyubotyn, Kharkov Oblast: the platform and a train are on fire. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35951",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35951",
+      "published_at": "2026-11-22T20:09:25+00:00",
+      "text": "📝 Rybar's Main Highlights 📝 digest of materials from November 22 We covered why Russian ships come under attack in the Mediterranean, and what can be done about it (spoiler: real options exist). ❗️ Read more about these and other topics in our digest. ➡️ Rybar @rybar — we discuss complex topics simply. The main resource of our think tank. The most important and interesting materials. ▪️ Chronicles of the SMO, freeing Khripunov ▪️ Rybar explains: AFU plans for the Caspian and Baltic ▪️ How Kaliningrad was actually attacked and the real security problems it faces ▪️ Why hitting doesn't mean destroying and what a systematic approach entails ▪️ How to respond for Benghazi ➡️ ASIANBAR @rybar_Pacific Australian authorities insist on fulfilling submarine agreements under AUKUS. Japan is reviewing defense procurement plans. And Thailand's government agreed to open its market to American goods. ➡️ AMERICABAR @rybar_america MAGA is in decline , a former White House press secretary faces jail time , and Donald Trump builds a shield against Democrats. ➡️ AFRICABAR @rybar_Africa So-called Ukraine is settling into the role of chaos sponsor in Africa. While Ukrainian unmanned boats attack Russian ships off the coast of Libya , emissaries from Kyiv are nurturing a future recruitment base for Malian radicals in Mauritania . ➡️ BALKANBAR @balkanar Bulgaria will build another gunpowder plant. Meanwhile, Serbia is actively forming a new government. ➡️ EUROBAR @evropar Italy took offense at the Kyiv regime. Slovaks refuse to sponsor so-called Ukraine. In Britain, residents of the second village spoke out in favor of leaving the United Kingdom. ➡️ CAUCASUSBAR @caucasar We covered naval",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "procurement",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
