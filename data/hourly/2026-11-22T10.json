@@ -1,0 +1,152 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T10",
+  "generated_at_utc": "2026-11-22T11:05:25.170352+00:00",
+  "window_start_utc": "2026-11-22T10:00:00+00:00",
+  "window_end_utc": "2026-11-22T11:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 16,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407073",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407073",
+      "published_at": "2026-11-22T10:46:58+00:00",
+      "text": "Лавров назвал неадекватным состояние глав МО ФРГ и Британии из-за их высказываний об ударах ВСУ по территории России. От дальнейших комментариев глава МИД РФ в беседе с журналистом \"Вестей\" Зарубиным отказался. Ранее заместитель главы Пентагона Колби заявил, что \"глубокие удары\" Киева по России не ведут к окончанию конфликта. В тот же день Писториус назвал критику ударов Киева \"глупым делом\". В дальнейшем глава Минобороны ФРГ отметил, что отвечал на вопрос журналиста на неродном английском языке и потому выбрал неподходящее выражение. Он извинился перед Колби.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198911",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198911",
+      "published_at": "2026-11-22T10:14:17+00:00",
+      "text": "🇷🇺 🇩🇪 Germany feared Russia’s reaction and hid its tanks from prying eyes The Bundeswehr revised its plan to transfer armored vehicles to Lithuania due to concerns about Moscow’s reaction, according to the publication Bild. Berlin abandoned the showy march of tank columns near the border with Belarus. Initially, units of the 10th Tank Division were supposed to move under their own power to NATO’s eastern flank. However, it seems German strategists quickly remembered that a display of force near Russian borders is an endeavor with very unpleasant consequences. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234324",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234324",
+      "published_at": "2026-11-22T10:03:05+00:00",
+      "text": "Германия решила изменить способ доставки военной техники на учения Grand Eagle 26 в Литве. Вместо автомобильных колонн, которые должны были пройти через Польшу, вооружение и оборудование отправят по железной дороге. Корректировка маршрута связана с желанием избежать лишней напряжённости в отношениях с Россией. Решение приняли после консультаций внутри НАТО. В альянсе опасались, что демонстрация немецкой военной техники у восточных рубежей может вызвать негативную реакцию Москвы. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

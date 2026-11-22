@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T09",
-  "generated_at_utc": "2026-11-22T10:28:53.146452+00:00",
-  "window_start_utc": "2026-11-22T09:00:00+00:00",
-  "window_end_utc": "2026-11-22T10:00:00+00:00",
+  "hour_id": "2026-11-22T10",
+  "generated_at_utc": "2026-11-22T11:05:25.170352+00:00",
+  "window_start_utc": "2026-11-22T10:00:00+00:00",
+  "window_end_utc": "2026-11-22T11:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
-      "pages": 2,
-      "raw_count": 13
+      "pages": 1,
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -39,13 +39,13 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
@@ -57,7 +57,7 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "nab_ukraine",
@@ -99,296 +99,52 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 41,
-    "relevant_posts": 19,
-    "deduplicated_posts": 19,
-    "candidate_posts": 19
+    "raw_posts": 16,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198907",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198907",
-      "published_at": "2026-11-22T09:54:10+00:00",
-      "text": "🇺🇦 Aftermath of a strike on Kiev last night. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30732",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30732",
-      "published_at": "2026-11-22T09:45:16+00:00",
-      "text": "🎖 🎖 by Russian Defence Ministry on progress of special military operation as of 22 November 2026 Part 2 ( 👉 see Part 1 ) ↗️ The Vostok Group of Forces continued to advance into the depths of the enemy's defence. Russian troops inflicted losses on manpower and hardware of four air assault brigades, two assault brigades, and an assault regiment of the AFU near Mayak, Tikhoye, Prosyanaya, Malomikhailovka (Dnepropetrovsk region), Yasnaya Polyana, Odarovka, and Veseloye (Zaporozhye region). ▪️ The AFU losses amounted to up to 220 troops, one armoured fighting vehicle, six motor vehicles, one U.S.-made 155-mm M777 howitzer, and one electronic warfare station. 📍 The Dnepr Group's units improved the situation along the front line. The Group's elements hit formations of three mechanised brigades and a mountain assault brigade of the AFU near Dimitrovo of Zaporozhye region, Belozerka, and Mikhaylovka of Kherson region. ▪️ Up to 20 troops, 24 motor vehicles, one 155-mm Bogdana howitzer, and one counter-fire radar station of the were neutralised. ✈️ Operational-Tactical Aviation, attack drones, missile troops, and artillery of the Russian Groups of Forces destroyed a missile launcher of a Neptune coastal missile system, hit energy and transport infrastructure facilities used in the interests of the AFU, production areas, storage areas of unmanned aerial vehicles and launch areas, as well as temporary deployment areas of Ukrainian armed formations and foreign mercenaries in 144 areas. ▫️ Air defence systems shot down four guided aerial bombs and 792 fixed-wing UAVs. 📊 In total, since the beginning of the special military operation, the enemy has lost: ▫️ 674 aircraft, ▫️ 284 helicopters, ▫️ 295,284 unmanned aerial vehicles, ▫️ 672 anti-aircraft missile systems, ▫️ 31,745 tanks and other armoured fighting vehicles, ▫️ 1,797 MLRS combat vehicles, ▫️ 36,972 field artillery guns and mortars, ▫️ 77,844 special military vehicles. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "energy",
-        "missile",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/boris_rozhin/234319"
-      ]
-    },
-    {
-      "id": "mod_russia_en/30731",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30731",
-      "published_at": "2026-11-22T09:45:14+00:00",
-      "text": "The Armed Forces of the Russian Federation continue the special military operation. 🚩 As a result of intensive actions, units of the Sever Group of Forces gained control over the settlement of Sosnovy Bor in Kharkov region. 💥 Russian troops engaged manpower and hardware of two mechanised brigades, an assault regiment of the AFU, and two territorial defence brigades close to Novoselovka, Khatneye, Ploskoye, Rubezhnoye, Podsredneye, and Fedorovka in Kharkov region. 🔥 In Sumy region, the Group's units inflicted losses on formations of a mechanised brigade, two airmobile brigades of the AFU, and two territorial defence brigades near Khoten, Radkovka, Pushkarevka, Krasnopolye, Stepanovka, and Spasskoye (Sumy region). ▪️ The enemy lost over 120 troops, three motor vehicles, and one electronic warfare station. ↗️ The Zapad Group of Forces improved the situation along the front line. Russian troops hit manpower and hardware of four mechanised brigades, an airmobile brigade of the AFU, a marine brigade, and two territorial defence brigades close to Khomino, Chervony Oskol, Gusinka, Staroverovka, and Peski-Radkovskiye of Kharkov region. ▪️ The AFU losses amounted to up to 210 troops and 10 motor vehicles. 📍 The Yuzhnaya Group of Forces took more advantageous lines and positions. The Group's elements engaged formations of four mechanised brigades, a motorised infantry brigade, two airmobile brigades, and an assault regiment of the AFU near Kramatorsk, Druzhkovka, Slavyansk, Belenkoye, Raygorodok, Novoselovka, and Nikolayevka of the Donetsk People's Republic. ▪️ The AFU losses amounted to up to 145 troops, one armoured personnel carrier, one Kazak armoured fighting vehicle, 21 motor vehicles, and one 155-mm Bogdana howitzer. ↗️ The Tsentr Group's units continued to carry out active offensive operations. The Group's units inflicted losses on manpower and hardware of two mechanised brigades, a jaeger brigade of the AFU, two marine brigades, four national guard brigades, and the Azov special forces brigade close to Rayskoye, Privolye, Novokrivorozhye, Andreyevka, Sergeyevka, Novodonetskoye, Stepanovka, Lvovka, Kuroyedovka, and Kamenka in the Donetsk People's Republic. ▪️ The AFU losses amounted to up to 345 troops, seven armoured fighting vehicles, eight motor vehicles, one artillery gun, and one electronic warfare station. 👉 See Part 2 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kharkiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407069",
+      "id": "tass_agency/407073",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407069",
-      "published_at": "2026-11-22T09:42:01+00:00",
-      "text": "▶️ Российские туристы не обращались за помощью в посольство РФ в Танзании из-за пожаров на острове Занзибар, заявила ТАСС пресс-атташе Варвара Дронова. Ранее танзанийские СМИ сообщили, что в результате возгорания были повреждены шесть гостиниц. Видео: Cute Maria/X ✔ Подпишись на ТАСС в \"Максе\"",
+      "url": "https://t.me/tass_agency/407073",
+      "published_at": "2026-11-22T10:46:58+00:00",
+      "text": "Лавров назвал неадекватным состояние глав МО ФРГ и Британии из-за их высказываний об ударах ВСУ по территории России. От дальнейших комментариев глава МИД РФ в беседе с журналистом \"Вестей\" Зарубиным отказался. Ранее заместитель главы Пентагона Колби заявил, что \"глубокие удары\" Киева по России не ведут к окончанию конфликта. В тот же день Писториус назвал критику ударов Киева \"глупым делом\". В дальнейшем глава Минобороны ФРГ отметил, что отвечал на вопрос журналиста на неродном английском языке и потому выбрал неподходящее выражение. Он извинился перед Колби.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198903",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198903",
-      "published_at": "2026-11-22T09:39:17+00:00",
-      "text": "🌟 85 years ago, on November 22, 1941, Military Motor Road No. 101 opened across the frozen waters of Lake Ladoga, connecting besieged Leningrad with the mainland and going down in history as the legendary Road of Life . By that time, Leningrad had already been encircled by enemy forces for nearly three months. On September 8, 1941, following the capture of Shlisselburg by Nazi troops, the city's overland connections with the rest of the country were severed. More than 2.5 million civilians, including 400,000 children , as well as the troops of the Leningrad Front, found themselves trapped in the besieged city. The city endured relentless artillery shelling and air raids. But the most terrible ordeal was hunger. On November 20, daily bread rations were reduced to a devastating 250 grammes for workers and just 125 grammes for office workers, dependants and children. 🕯 According to various estimates , between 800,000 and 1 million people died of starvation in Leningrad (more than the combined losses of the United States and Britain throughout the Second World War). Not a single household was spared the tragedy .* *In 2026, April 19 was designated in Russia as the Day of Remembrance for the Victims of the Genocide of the Soviet People , perpetrated by the Nazis and their accomplices during the Great Patriotic War. *** 🧊 Lake Ladoga remained the only route for supplying besieged Leningrad with food and ammunition, as well as evacuating civilians. Since September, supplies had been transported across the lake by water, but with winter approaching, even this vital lifeline was at risk of being cut off. The solution was an ice road approximately 30 kilometres long. It was prepared in record time, despite harsh weather conditions and the danger of vehicles breaking through the ice, which had yet to reach sufficient thickness. On November 20, the first horse-drawn convoy of 350 sledges crossed Lake Ladoga, delivering 63 tonnes of flour. On the evening of November 21, ten GAZ-AA trucks made a trial run. 🚚 On November 22, motor vehicle traffic began along the Road of Life. The first large-scale convoy consisted of 60 legendary GAZ-AA trucks , affectionately known as polutorkas (one-and-a-half-tonners), carrying life-saving supplies for the starving city. Every journey was an act of heroism. Drivers worked amid bitter frosts , constant enemy air raids and artillery shelling , and attacks by enemy landing forces . Thousands of people kept the road operational – drivers, military engineers, road workers, mechanics and loaders. All of them risked their lives every day to save Leningrad. 📊 During the first winter of the siege, in 1941-1942 , the ice road carried 361,000 tonnes of supplies into the city, including 262,000 tonnes of food, while 550,000 people were evacuated. Over the entire period of the Road of Life's operation (until March 1943), including both waterborne and ice-road transport, more than 1.6 million tonnes of supplies were delivered to Leningrad , while approximately 1,376,000 people were evacuated from the city. The Road of Life became a symbol of the courage, selflessness and unbreakable spirit of the Soviet people. It not only saved hundreds of thousands of lives, but also helped Leningrad withstand the darkest days of the siege. 🏅 Eternal memory to all those who gave their lives to save the besieged city. Eternal glory to the heroes of the Road of Life! #NobodyIsForgotten #NothingIsForgotten",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
+        "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78082",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78082",
-      "published_at": "2026-11-22T09:38:50+00:00",
-      "text": "При ночном налете украинских БпЛА на Кубань ранены пять мирных жителей. В данный момент им оказывается медицинская помощь. Информацию подтвердили в оперштабе Краснодарского края. Подпишись в MAX @voenkorKotenok",
+      "id": "DDGeopolitics/198911",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198911",
+      "published_at": "2026-11-22T10:14:17+00:00",
+      "text": "🇷🇺 🇩🇪 Germany feared Russia’s reaction and hid its tanks from prying eyes The Bundeswehr revised its plan to transfer armored vehicles to Lithuania due to concerns about Moscow’s reaction, according to the publication Bild. Berlin abandoned the showy march of tank columns near the border with Belarus. Initially, units of the 10th Tank Division were supposed to move under their own power to NATO’s eastern flank. However, it seems German strategists quickly remembered that a display of force near Russian borders is an endeavor with very unpleasant consequences. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone"
+        "moscow"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198902",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198902",
-      "published_at": "2026-11-22T09:35:54+00:00",
-      "text": "#EXCLUSIVE #SupportDonbass 💬 \" The current conflict is probably not simply a conflict between two countries, but a much deeper confrontation\" – Japanese political commentator on the Ukrainian conflict 🇯🇵 Naoko Iizuka, political commentator and blogger from Japan visited the DPR. She spoke about purpose of her visit and about the way to break through the information blockade: I have strongly sensed that there is a demand in Japan for people to learn how people in Donbass live today. That is why I came here. I very much want to meet local people, see for myself how ordinary people live here, what everyday life is like and what the atmosphere is like at present, and share all this with my audience. 🇷🇺 Subscribe | Feedback | X | TikTok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53495",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53495",
-      "published_at": "2026-11-22T09:34:43+00:00",
-      "text": "❗️ 6 days before Victoria's state election Labor's Premier of Victoria Ben Carroll gives Greek Archbishop Makarios of Australia $1 Million for \"greek language schools\" in an desperate effort to drum up votes. 💰 How much money does Labor pay the Greek archdiocese through sponsorships of \"Greek schools\" and other grants? Tens of millions every year. Albanese does the same cash for votes through the Greek community in Marrickville . PS. Archbishop Makarios of Australia has repeatedly condemned Russia's Special Military Operation in Ukraine. Archbishop Makarios also criticized the actions of Russia's church. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198901",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198901",
-      "published_at": "2026-11-22T09:28:21+00:00",
-      "text": "🇸🇰 The monument to Soviet Marshal Ivan Konev in Slovakia has been desecrated for the third time since its unveiling. unknown individuals splashed the sculpture with pink paint. Marshal Ivan Konev was a twice Hero of the Soviet Union who commanded the 1st Ukrainian Front during the Great Patriotic War. Under his leadership, Soviet troops participated in the Carpathian-Dukla operation of 1944, aimed at supporting the Slovak National Uprising. In May 1945, Konev’s troops liberated Prague during the final operation to free Czechoslovakia from the Nazis. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35934",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35934",
-      "published_at": "2026-11-22T09:25:19+00:00",
-      "text": "📝 Can we avoid surprises? 📝 The need to distinguish real threats from imaginary ones fully applies to the security of Kaliningrad Region, a topic that became relevant yesterday after an attack on a vessel in the Baltic Sea and an air raid alert in the region. Since summer, we have repeatedly written that the main threat to the exclave now comes not from Polish (and Lithuanian, probably) tank divisions, but from Ukrainian drones. Which fly through perfectly Russian airspace and over neutral Baltic waters. This is exactly what happened yesterday, although since spring there have been attacks on Baltic Fleet ships off the coast of Leningrad Region. Which is unsurprising: in the Baltic region, Starlink operates quite officially without restrictions, allowing for precise strikes on ships underway. ❗️ Given the range of certain modifications of Ukrainian UAVs (reaching as far as Siberia), it is quite easy to compile a picture of the most relevant threats to Kaliningrad Region. Spoiler: there are no Polish (and Lithuanian, probably) tank divisions and no blockade of Baltiysk by Kriegsmarine ships. And based on this, one can estimate the necessary measures to protect or back up various elements, as well as approaches to them. Fundamental capabilities are still sufficient even accounting for objective factors. 📌 As for Europe, the danger emanating from it is still potential, and real capabilities for attack remain limited . And in any case, one cannot prepare for this threat without addressing today's threats, where there is plenty of work to be done. #Kaliningrad #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234321",
+      "id": "boris_rozhin/234324",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234321",
-      "published_at": "2026-11-22T09:23:06+00:00",
-      "text": "22 ноября 2026 года. · 00:20 Знаменка Кировоградской области — взрыв. Герань. · 01:00 Запорожская область — взрывы. УМПК. · 01:15 Вилково Одесской области — взрывы. Герани. · 01:20 Сумы — взрыв. Герань. · 01:50 Килия Одесской области — взрывы. Герани. · 02:05 Запорожье — взрыв. Герань. · 02:10 Донбасс и Запорожская область — взрывы. УМПК. · 02:55 Овруч Житомирской области — взрыв. Герань. · 03:00 Киев — взрыв. Герань. · 03:10 Кременчуг — взрыв. Герань. · 04:00 Сумская область — взрывы. УМПК. · 04:30 Харьковская и Днепропетровская области — взрывы. УМПК. · 04:45 Донбасс и Харьковская область — взрывы. УМПК. · 05:15–06:05 Донбасс — взрывы. УМПК. · 06:35 Запорожская и Днепропетровская области — взрывы. УМПК. · 06:40 Кировоград — взрыв. Герань. На фото последствия ударов в Житомирской области. https://t.me/lost_armour/12334",
+      "url": "https://t.me/boris_rozhin/234324",
+      "published_at": "2026-11-22T10:03:05+00:00",
+      "text": "Германия решила изменить способ доставки военной техники на учения Grand Eagle 26 в Литве. Вместо автомобильных колонн, которые должны были пройти через Польшу, вооружение и оборудование отправят по железной дороге. Корректировка маршрута связана с желанием избежать лишней напряжённости в отношениях с Россией. Решение приняли после консультаций внутри НАТО. В альянсе опасались, что демонстрация немецкой военной техники у восточных рубежей может вызвать негативную реакцию Москвы. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kharkiv",
-        "kyiv",
-        "odesa",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/boris_rozhin/234319"
-      ]
-    },
-    {
-      "id": "DDGeopolitics/198900",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198900",
-      "published_at": "2026-11-22T09:21:54+00:00",
-      "text": "🇺🇦 Ukraine’s air defence “professionals” strike again. Even when they manage to intercept a Russian Geran, the result can be falling debris onto residential buildings. New footage from Dnipropetrovsk speaks for itself. So much for their “professionalism”. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234319",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234319",
-      "published_at": "2026-11-22T09:21:06+00:00",
-      "text": "Хроника ударов по территории Украины 21 ноября 2026 – 22 ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Винницкой, Донецкой, Житомирской, Киевской, Николаевской, Одесской, Полтавской, Ровенской и Черниговской областях (Герани). 21 ноября 2026 года. · 07:45 Кролевец Сумской области — взрыв. Герань. · 07:50 Харьковская область — взрывы. УМПК. · 08:15 Днепропетровск, Синельниково Днепропетровской области и Березанка Одесской области — взрывы. Герани. · 08:30 Киев — взрыв. Герань. · 09:15 Донбасс и Днепропетровская область — взрывы. УМПК. · 09:15 Коростень Житомирской области — взрыв. Герань. · 09:35 Запорожье — взрыв. Герань. · 09:50 Николаев — взрыв. Герань. · 10:15 Окрестности Кременчуга Полтавской области — взрыв. Герань. · 10:25 Винница — взрыв. Герань. · 10:27 Одесса — взрыв. Герань. · 10:35 Херсон — взрывы. УМПК. · 10:45 Павлоград и Зеленодольск Днепропетровской области — взрывы. Герани. · 10:46 Павлоград и Беляевка Одесской области — взрывы. Герани. · 11:00 Запорожье — взрывы. УМПК. · 11:05 Запорожье и Харьковская область — взрывы. УМПК. · 11:20 Вознесенск Николаевской области — взрыв. Герань. · 11:30 Окрестности Березовки Одесской области — взрыв. Герань. · 11:40 Окрестности Житомира — взрыв. Герань. · 11:52 Николаев — взрыв. Герань. · 12:30 Чернигов и окрестности Коростеня Житомирской области — взрывы. Герани. · 12:45 Беляевка Одесской области и Коростень Житомирской области — взрывы. Герани. · 12:55 Запорожье — взрывы. Герани. · 12:58 Окрестности Прилук Черниговской области — взрыв. Герань. · 13:25 Маяки Одесской области — взрыв. Герань. · 13:35 Киев — взрыв. Герань. · 14:15 Запорожье — взрыв. Дань-Т. · 14:25 Диканька Полтавской области — взрыв. Дань-Т. · 14:27–14:30 Кременчуг — взрывы. Дань-Т. · 14:35 Запорожье — взрыв. Герань. · 14:40 Овруч Житомирской области — взрыв. Герань. · 14:47 Лубны Полтавской области — взрывы. Дань-Т. · 15:20 Николаев — взрыв. Герань. · 15:20–15:35 Днепропетровск — взрывы. Герани. · 15:40 Запорожье — взрыв. Герань. · 16:15 Сумы — взрывы. УМПК. · 16:30 Сумская область — взрывы. УМПК. · 16:45 Первомайский Харьковской области — взрыв. Дань-Т. · 16:50 Харьковская область — взрывы. УМПК. · 17:25 Чугуев Харьковской области — взрывы. Дань-Т. · 17:47 Каменское Днепропетровской области — взрыв. Герань. · 18:07 Холмы Черниговской области — взрыв. Герань. · 18:10 Харьковская область — взрывы. УМПК. · 18:37 Короп Черниговской области — взрыв. Дань-Т. · 18:50-18:55 Донбасс — взрывы. УМПК. · 19:10 Песчаное Днепропетровской области — взрыв. Герань. · 19:17 Запорожье — взрыв. Герань. · 19:25 Олевск Житомирской области — взрыв. Герань. · 19:55 Донбасс — взрывы. УМПК. · 20:10–20:20 Сарны Ровенской области — взрывы. Герани. · 20:35 Житомирская область и Песчаное Днепропетровской области — взрывы. Герани. · 20:40 Пятихатки Днепропетровской области — взрыв. Герань. · 20:50 Вознесенск Николаевской области — взрыв. Герань. · 20:50 Новомосковск Днепропетровской области — взрыв. Герань. · 20:55 Овруч Житомирской области — взрыв. Герань. · 20:55 Днепропетровская область — взрывы. УМПК. · 21:17 Каменское Днепропетровской области — взрыв. Герань. · 21:20 Донбасс и Днепропетровская область — взрывы. УМПК. · 21:25 Киев — взрыв. Герань. · 21:30–21:40 Запорожье — взрывы. Герани. · 21:40 Шестаково Харьковской области — взрыв. Герань. · 21:57 Чугуев Харьковской области — взрыв. Герань. · 22:00–22:10 Запорожье — взрывы. УМПК. · 22:10 Запорожская и Сумская области — взрывы. УМПК. · 22:20 Запорожье — взрывы. УМПК. · 22:20 Славянск — взрывы. Герани. · 22:30 Запорожье — взрывы. УМПК. · 22:40 - 23:05 Харьковская область — взрывы. УМПК. · 23:20 Днепропетровск — взрыв. Герань. · 23:40 Запорожье — взрыв. Герань. · 23:45 Днепропетровск — взрыв. Герань. · 23:55 Днепропетровск и Запорожье — взрывы. Герани. На фото последствия ударов Гераней в Каменском Днепропетровской области. https://t.me/lost_armour/12333",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kharkiv",
-        "kyiv",
-        "missile",
-        "odesa",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/mod_russia_en/30732",
-        "https://t.me/boris_rozhin/234321"
-      ]
-    },
-    {
-      "id": "DDGeopolitics/198898",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198898",
-      "published_at": "2026-11-22T09:18:21+00:00",
-      "text": "🇺🇦 Ukraine’s defence industry is reaching its limits, despite rapid wartime expansion, The Wall Street Journal reports. The sector faces mounting problems: funding shortages, fragmented production, a lack of skilled workers and increasingly difficult operating conditions due to Russian strikes. Ukraine’s missile production remains particularly limited. The Luch Design Bureau expects to manufacture only a few hundred Neptune cruise missiles this year, while Russia launched 873 cruise missiles and 606 ballistic missiles at Ukraine in the first seven months alone. More than 1,300 defence companies compete for limited funding, with production capacity further restricted by labour shortages and the difficulty of expanding facilities inside Ukraine. Even ambitious plans to produce over seven million drones in 2026 cannot resolve these structural weaknesses. Increasingly, Ukrainian manufacturers are moving production abroad, seeking investors and establishing operations in countries including Estonia, the United States, Britain and Germany. Despite the wartime boom, Ukraine’s defence industry is struggling to scale up and compete with Russia’s vastly larger military-industrial capacity. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407066",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407066",
-      "published_at": "2026-11-22T09:17:01+00:00",
-      "text": "Премьер Италии Джорджа Мелони упрекнула Зеленского за включение итальянцев в базу украинского экстремистского сайта \"Миротворца\". Об этом сообщила газета Il Fatto Quotidiano. Ранее в Италии разгорелся скандал, когда стало известно о включении в базу итальянских…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98403",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98403",
-      "published_at": "2026-11-22T09:14:05+00:00",
-      "text": "🇺🇦 🇫🇮 🇷🇺 ⚡️ — Footage of a burning Russian cargo ship in the waters of the Gulf of Finland after an attack by unidentified drones. @Intelslava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198896",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198896",
-      "published_at": "2026-11-22T09:11:17+00:00",
-      "text": "🇷🇺 🇩🇪 German General Christoph Huber, commander of the Bundeswehr’s 45th Tank Brigade stationed in Lithuania, has openly acknowledged the growing Russian military potential. “We are observing a build-up of military potential, despite the huge losses that Russia is suffering in the war in Ukraine. The number of personnel is increasing, and production capacities are expanding. Russia’s industry is completely reoriented towards armament and military production,” Huber told Bild. An interesting admission from a senior NATO military commander: Russia’s defence industry is expanding, its military is growing, and its capacity to sustain a prolonged conflict continues to develop. Meanwhile, Moscow has repeatedly denied having any plans to attack Europe. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198895",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198895",
-      "published_at": "2026-11-22T09:06:35+00:00",
-      "text": "🇷🇺 🇺🇦 The Russian Armed Forces have established control over Sosnovy Bor in the Kharkov region, the Ministry of Defense reported 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38564",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38564",
-      "published_at": "2026-11-22T09:01:01+00:00",
-      "text": "Оборонная промышленность Украины достигла «своего потолка» Оборонная промышленность Украины достигла предела своего развития и столкнулась с серьёзными препятствиями для дальнейшего увеличения производства вооружений. Отрасль испытывает нехватку финансирования и квалифицированных специалистов, пишет The Wall Street Journal. По оценкам собеседников издания, Киев не способен выпускать современные ракеты в объёмах, сопоставимых с российскими. Одной из главных проблем стало распределение государственных заказов между многочисленными производителями. Сейчас рынок раздроблен между 1300 компаниями, поэтому средств не хватает. Кроме этого, важную роль играет и кадровый фактор. Миллионы украинцев покинули страну или проходят военную службу, поэтому предприятиям становится все труднее находить работников для увеличения производства. Как сообщает WSJ, на Украине до сих пор не наладили выпуск достаточного количества ракетных комплексов ПВО. Их количество по-прежнему зависит от поставок из США и Европы. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "missile"
+        "moscow"
       ],
       "possible_duplicate_urls": []
     }
