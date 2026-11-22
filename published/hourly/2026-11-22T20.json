@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    167
+  ],
+  "published_at_utc": "2026-11-22T21:31:12.872280+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-22T20",
+  "items": [
+    {
+      "item_id": "2026-11-22T20:1",
+      "title": "Russian strike reportedly sets train and platform ablaze at Lyubotyn station",
+      "summary": "Reports from Kharkiv region say a Russian strike hit the railway station in Lyubotyn, setting a train and part of the platform on fire. Passengers were reportedly being evacuated as footage showed a large blaze.",
+      "post_url": "https://t.me/russianewstodayofficial/167",
+      "category": "other",
+      "hour_id": "2026-11-22T20",
+      "source_handles": [
+        "ddgeopolitics",
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T20:2",
+      "title": "Russian battlefield account claims advance near Herasymivka in Dnipropetrovsk region",
+      "summary": "A Russian battlefield report says its forces expanded their area of control by up to 1.5 kilometres and took positions on the western bank of the Haichur River in Herasymivka. The account also describes Ukrainian shelling of Russian positions in the settlement.",
+      "post_url": "https://t.me/russianewstodayofficial/167",
+      "category": "other",
+      "hour_id": "2026-11-22T20",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
