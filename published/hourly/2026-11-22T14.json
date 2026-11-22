@@ -1,0 +1,45 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    161
+  ],
+  "published_at_utc": "2026-11-22T15:27:02.322245+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-22T14",
+  "items": [
+    {
+      "item_id": "2026-11-22T14:1",
+      "title": "Russian battlefield report claims expanded control in southern Kupiansk",
+      "summary": "A Russian battlefield account says troops secured positions at the Kupiansk-Sortuvalnyi locomotive depot and expanded their area of control by about one kilometre in the city's southern Zaoskillya district. It also cites footage of Russian flags in Khrypuny and Aniskine, describing those settlements as previously captured.",
+      "post_url": "https://t.me/russianewstodayofficial/161",
+      "category": "other",
+      "hour_id": "2026-11-22T14",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T14:2",
+      "title": "Report describes prolonged water outages in parts of Kyiv after strikes",
+      "summary": "A Russian military commentator says much of Kyiv's right bank has faced water interruptions for a third day following strikes on water utility infrastructure on Friday night, while service on the left bank was restored sooner. The account speculates that pumping equipment or its electrical supply was damaged but does not establish the precise cause.",
+      "post_url": "https://t.me/russianewstodayofficial/161",
+      "category": "other",
+      "hour_id": "2026-11-22T14",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T14:3",
+      "title": "IISS satellite analysis reportedly points to Russian Sarmat missile deployment preparations",
+      "summary": "A report citing the International Institute for Strategic Studies says satellite imagery from June showed equipment and activity near a missile silo at Uzhur consistent with preparations to deploy the RS-28 Sarmat intercontinental ballistic missile. Analysts reportedly considered loading possible, but the imagery did not establish that the system was operational.",
+      "post_url": "https://t.me/russianewstodayofficial/161",
+      "category": "other",
+      "hour_id": "2026-11-22T14",
+      "source_handles": [
+        "wargonzo"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
