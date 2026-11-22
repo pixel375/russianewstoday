@@ -1,27 +1,27 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T16",
-  "generated_at_utc": "2026-11-22T17:23:44.359322+00:00",
-  "window_start_utc": "2026-11-22T16:00:00+00:00",
-  "window_end_utc": "2026-11-22T17:00:00+00:00",
+  "hour_id": "2026-11-22T17",
+  "generated_at_utc": "2026-11-22T18:26:59.683757+00:00",
+  "window_start_utc": "2026-11-22T17:00:00+00:00",
+  "window_end_utc": "2026-11-22T18:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
@@ -33,7 +33,7 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
@@ -57,7 +57,7 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
@@ -69,19 +69,19 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "nab_ukraine",
@@ -99,109 +99,134 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 20,
-    "relevant_posts": 8,
-    "deduplicated_posts": 7,
-    "candidate_posts": 7
+    "raw_posts": 19,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
   },
   "posts": [
     {
-      "id": "intelslava/98425",
+      "id": "intelslava/98428",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98425",
-      "published_at": "2026-11-22T16:52:54+00:00",
-      "text": "🇱🇾 🇷🇺 ⚡ The government of Eastern Libya has confirmed that an explosion occurred on a Russian warship at a port near the city of Benghazi. The likely cause of the explosion is said to be an attack by unmanned boats. The ship had stopped in Benghazi to refuel…",
+      "url": "https://t.me/intelslava/98428",
+      "published_at": "2026-11-22T17:56:24+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡ Russia’s armed forces continued striking Ukrainian infrastructure facilities and vessels used in the interests of the Ukrainian army. “Russian forces struck and hit: a 330kV power substation in the settlement of Kamenskaya in the Dnepropetrovsk Region, which powered Ukrainian defense enterprises; a dry cargo ship carrying dual-use cargoes for the Ukrainian army in the Black Sea southwest of the city of Nikolayev,” the Russian Defense Ministry said. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35946",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35946",
+      "published_at": "2026-11-22T17:48:18+00:00",
+      "text": "Fwd from @ ✍️ AFU Offensive in Sumy Region Here Ukrainian formations decided to entertain the public with \"choice content,\" claiming they drove Russian forces out of several settlements in the border area. According to Ukrainian sources, they took Novonikolaivka, Yunakivka, Aleksiyivka, Yablonivka, Varachyno and are moving toward Belovody. And supposedly they have total superiority. In Yunakivka they are indeed trying, that's a fact. BUT the settlement is now under active fire from drones from both sides. And the settlement itself has essentially turned into a gray zone. As for the other villages that the AFU claimed as theirs, it's a different story. Russian units put up active resistance. In Yablonivka, Novonikolaivka and Varachyno the 1434th Akhmat regiment drove out the AFU, and in Belovody the 83rd Guards Air Assault Brigade of the Airborne Forces. ❗️ Well, the video shows clearly who controls the border districts of Sumy Region and how. In this direction Russian units have everything under tighter control. 🤙 Spetsnaz Archangel ! ❗️ 🤙 If the video doesn't load - watch it on our MAX Original msg",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "strike"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198941",
+      "id": "DDGeopolitics/198944",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198941",
-      "published_at": "2026-11-22T16:49:47+00:00",
-      "text": "🇱🇾 🇺🇦 🇷🇺 Footage reportedly shows a helicopter of Khalifa Haftar's Libyan National Army (LNA) firing on a Ukrainian unmanned boat off Benghazi. Libyan military sources say the LNA's air force and navy intercepted a new group of explosive-laden boats heading for the city on Sunday evening, hours after the dawn attack in Benghazi port. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198944",
+      "published_at": "2026-11-22T17:31:06+00:00",
+      "text": "🇱🇾 🇺🇦 🇷🇺 A Russian commercial vessel was reportedly hit in Libyan territorial waters. The Jerusalem Post, citing a source familiar with the matter, reports that Ukraine's SBU hit a Russian Navy vessel and two Russian cargo ships \"carrying weapons\" in Benghazi.…",
       "text_truncated": false,
-      "related_urls": [
-        "https://t.me/DDGeopolitics/198940"
-      ],
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98427",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98427",
+      "published_at": "2026-11-22T17:26:36+00:00",
+      "text": "🇫🇮 🇷🇺 ⚡ A Russian rescue vessel has begun towing a Russian-owned Sparta II. The Finnish military has said the strike on the Sparta II on Saturday was likely carried out by Ukraine and that the vessel later drifted into Finnish waters. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
       "event_signals": [
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98423",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98423",
-      "published_at": "2026-11-22T16:32:55+00:00",
-      "text": "🇺🇦 ⚡ Zelensky is shifting funding from \"Flamingo\" to \"Neptune\". These changes are being introduced because Neptune missiles have performed better recently. @IntelSlava",
+      "id": "dva_majors/102377",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102377",
+      "published_at": "2026-11-22T17:23:58+00:00",
+      "text": "🇱🇻 🚀 В Латвии создали мини-ракеты для БПЛА-носителей Компания Rannon разработала 40-мм неуправляемые ракеты класса «воздух-воздух» для поражения воздушных целей с БПЛА . Ракета длиной 40 см, имеет боевую часть весом 500 грамм (общий вес 1,2 кг) и способна разгоняться до 900 км/ч . Эффективная дальность стрельбы 300 метров. Пусковую установку можно интегрировать на дрон любого типа ( даже на обычный квадрокоптер ), а количество ракет ограничено только размером носителя и его грузоподъёмностью . Наведение осуществляется с помощью баллистического компьютера и ИИ-модели (идентификация цели и расчёт), а также может быть интегрирована с системами ПВО. Ожидаются испытания на Украине против российских дронов . Ракета может запускаться и с наземной пусковой установки при соответствующем оборудовании. Ранее, 🇪🇪 Эстония представила противодроновые мини-ракеты Mark , в 🇨🇿 Чехии создали БПЛА-ПВО носитель противодроновых вооружений GRYF , а 🇬🇧 Британия создает БЭКи-ПВО с радарами и пусковыми установками. ✨ Вопрос в том когда такое начнёт появляться в 🇷🇺 России ( ⁉️ ), которая реально страдает от ежедневных налетов вражеских дронов . Два майора Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "drone",
         "missile"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "mod_russia_en/30736",
+      "id": "DDGeopolitics/198942",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198942",
+      "published_at": "2026-11-22T17:18:56+00:00",
+      "text": "🇺🇸 🇱🇾 US spy plane flew missions off Libya in the days before the Benghazi strike A US Army Bombardier \"ARTEMIS II\" surveillance jet (registration N159L, callsign BRIO66) flew repeated patrols off the Libyan coast from November 19 to 21, flight tracking data shows. Then, in the early hours of November 22, the Russian corvette Merkury was hit in Benghazi port. According to Russian military channels, the plane then headed straight for the Kaliningrad area, where a drone alert was declared last night, and for the Gulf of Finland, where the Russian logistics ship Sparta II was hit yesterday. The ARTEMIS II is a modified Challenger 650 business jet built for signals and electronic intelligence. It intercepts radio traffic, radar signals and other emissions, reportedly at ranges of up to 600 km. It operates from Mihail Kogălniceanu air base near Constanța, Romania. It's no stranger to Kaliningrad either: it has flown near the exclave around 70 times this year. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78086",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78086",
+      "published_at": "2026-11-22T17:16:35+00:00",
+      "text": "Противник нас атакует уже на нескольких морских ТВД, помимо Черного моря, удары наносятся в Балтийском, Средиземном, Каспийском морях. Сейчас я говорю исключительно про удары по нашим военным кораблям, про пиратство относительно наших танкеров и сухогрузов вообще молчу. В который раз хочется во первых напомнить, что тыла сейчас нет и везде надо быть готовым к отражению атаки, а во-вторых ничего так не способствует снижению атакующих действий противника, как перенос боевых действий на те театры, которые неприятель и его союзники считают своим мягким подбрюшьем. Вражеские суда должны гореть как в территориальных водах Причерноморских союзников Киева, так и на Балтике, Средиземноморье и т.д. Иначе мы получим атаки на Тихом океане и на Севере, а в обороне войны не выигрываются. Старше Эдды в Мах",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30737",
       "channel": "mod_russia_en",
       "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30736",
-      "published_at": "2026-11-22T16:31:42+00:00",
-      "text": "❗️ During the day, the Armed Forces of the Russian Federation carried out strikes using unmanned aerial vehicles against power facilities and vessels used to support the Armed Forces of Ukraine. 💥 As a result of the strikes, the following targets were damaged : ▫️ a 330 kV power substation in the settlement of Kamenskaya in Dnepropetrovsk region, supporting the operation of Ukraine’s defence industry enterprises; ▫️ a dry cargo ship delivering dual‑use cargo to support the AFU was damaged in the Black Sea waters southwest of Nikolayev. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98422",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98422",
-      "published_at": "2026-11-22T16:29:14+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡ The Russian Armed Forces carried out a massive attack on the energy infrastructure of Dnipropetrovsk Oblast. Parts of Dnipropetrovsk, Samara, and the surrounding districts have been left without power. Certain critical infrastructure facilities have also been de-energized. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38577",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38577",
-      "published_at": "2026-11-22T16:27:02+00:00",
-      "text": "Украинские радикалы пытались сорвать богослужение в храме преподобного Сергия Радонежского В Киеве группа людей пыталась силой захватить храм преподобного Сергия Радонежского на территории Киево-Печерской лавры. Радикалы в масках пытались ворваться в храм прямо о время богослужения. Присутствовавшие у входа верующие оказали сопротивление нападавшим и незамедлительно вызвали полицию. Однако, по сообщениям очевидцев, прибывшие на место правоохранительные органы лишь наблюдали за происходящим со стороны. «Дорогие друзья! Просим ваших святых молитв и поддержки. Кто имеет возможность – поддержите святую обитель молитвой и посильной помощью», – написал в социальных сетях адвокат, представляющий интересы Украинской православной церкви, Никита Чекман. Для Киева это уже привычный сценарий. Храмы отбирают, а тех, кто отказывается переходить к раскольникам, избивают и грозят им отправкой на передовую. Демонстранты, как сообщают украинские СМИ, добиваются переименования храма, так как считают Сергия Радонежского «московским святым». 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "MFARussia/33535",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33535",
-      "published_at": "2026-11-22T16:01:31+00:00",
-      "text": "⚡️ The Russian Embassy in the United States is closely monitoring the situation regarding the Russian citizen Igor Andreevich D'iu , who was detained by U.S. authorities on October 8 in Palo Alto, California, and is currently being held at the Santa Clara County Jail. According to publicly available criminal case files, Igor D'iu is being charged with acting as a foreign agent, unlawful solicitation, and fraud involving the use of forged documents. He has not been charged with espionage. The case is being heard in the U.S. District Court for the Northern District of California. The next hearing is scheduled for November 24, 2026. The Embassy remains in contact with our citizen and is providing him with consular and legal assistance.",
+      "url": "https://t.me/mod_russia_en/30737",
+      "published_at": "2026-11-22T17:10:32+00:00",
+      "text": "Pulse under control ▫️ ▫️ Servicemen in the special military zone hone their skills on a special psychological obstacle course. On this route, not only physical endurance is important, but also the ability to think clearly under intense pressure. ➡️ The course is designed to put maximum strain on the psyche , featuring constant noise and distractions. 🤝 Exercises are performed in pairs. Freshmen are paired with experienced stormtroopers—this helps them adapt faster and build teamwork. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407085",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407085",
+      "published_at": "2026-11-22T17:01:01+00:00",
+      "text": "Главные новости к этому часу: ▪️ ВС РФ установили контроль над Сосновым Бором Харьковской области. ▪️ Лавров назвал неадекватным состояние глав МО ФРГ и Британии. Об этом он заявил журналисту \"Вестей\" Зарубину. ▪️ ВС РФ поразили сухогруз в акватории Черного моря. ▪️ Стубб назвал серьезной атаку на грузовое судно РФ в Финском заливе. ▪️ Писатель Альберт Иванов, известный по сказкам о Хоме и Суслике, умер в возрасте 88 лет, сообщили ТАСС в его окружении. ▪️ Житель ДНР отравился неизвестным веществом, подняв пятитысячную купюру. ▪️ Серия выборов в Европе может привести к параличу ЕС, пишет The Guardian. ▪️ Роспотребнадзор назвал условие для перехода школ на пятидневку. ▪️ В МВД рассказали о трех видах мошеннического программного обеспечения. ▪️ В Госдуме предложили убрать с ТВ шоу типа \"Беременна в 16\". Об этом ТАСС рассказала Нина Останина. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "strike"
+      ],
       "possible_duplicate_urls": []
     }
   ]
