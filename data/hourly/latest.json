@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T20",
-  "generated_at_utc": "2026-11-22T21:29:52.565368+00:00",
-  "window_start_utc": "2026-11-22T20:00:00+00:00",
-  "window_end_utc": "2026-11-22T21:00:00+00:00",
+  "hour_id": "2026-11-22T21",
+  "generated_at_utc": "2026-11-22T22:23:50.089131+00:00",
+  "window_start_utc": "2026-11-22T21:00:00+00:00",
+  "window_end_utc": "2026-11-22T22:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,7 +15,7 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 5
     },
     {
       "handle": "bricsnews",
@@ -39,25 +39,25 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 3
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 1
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "nab_ukraine",
@@ -99,21 +99,64 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 18,
-    "relevant_posts": 6,
-    "deduplicated_posts": 6,
-    "candidate_posts": 6
+    "raw_posts": 15,
+    "relevant_posts": 8,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
   },
   "posts": [
     {
-      "id": "intelslava/98451",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98451",
-      "published_at": "2026-11-22T20:58:18+00:00",
-      "text": "🇺🇦 🇷🇺 ⚡️ — Only 38 Ukrainian drones were shot down over Russia during the day. This always means Ukraine will carry out a massive attack at night to overload Russia's air defense. @IntelSlava",
+      "id": "DDGeopolitics/198964",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198964",
+      "published_at": "2026-11-22T21:48:58+00:00",
+      "text": "🇫🇷 France could cease to exist if strikes on Moscow continue, declared Jean-Luc Mélenchon, the second most popular candidate in the French presidential election. “Russia spans eleven time zones. Do you think that if you bomb its capital, it will say: ‘Well, let’s be reasonable?’ Of course not. It will defend itself,” Mélenchon stated. He emphasized, however, that France is far more vulnerable. “We do not span eleven time zones. One strike on our nuclear facilities and France is gone. It’s all over. We close shop,” the politician said. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98456",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98456",
+      "published_at": "2026-11-22T21:22:48+00:00",
+      "text": "🇺🇦 ⚡ Zelensky is shifting funding from \"Flamingo\" to \"Neptune\". These changes are being introduced because Neptune missiles have performed better recently. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78104",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78104",
+      "published_at": "2026-11-22T21:22:32+00:00",
+      "text": "Ничего необычного, просто русские солдаты жгут украинскую деревню и расстреливают ее жителей в советском украинском фильме \"Тарас Шевченко\" (1951). В 1952 г. режиссер фильма получит Сталинскую премию I степени. На украине помешавшиеся и одержимые нечистым духом (безо всякого ерничания) люди празднуют 13-летие майдана, по факту начала большой войны. В России, понятное дело, не празднуют, а плюются и качают головами. Мне на эфирах задают вопросы, где корни майдана, как всё соткалось-сплелось. В этой связи пост историка Дюкова как раз тем, кто не знал или подзабыл. Особенно будет интересно узнать сталинистам и другим представителям крыла борьбы \"за всё хорошее против всего плохого\", лозунгов \"Отнять и поделить\" и тем, кто не сумел побороть в себе зависть, а, наоборот, воздвиг её на вершину классовой борьбы. Знайте, что Украина родилась из ненависти к русскому и в итоге пришла к ненависти к Создателю. Между прочим, сейчас там \" реформируют \" и святое Крещение. Это к тому, что всё происходящее имеет в первую очередь духовные корни. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98455",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98455",
+      "published_at": "2026-11-22T21:17:14+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡ Massive attack by Ukrainian drones on Russia. Also another attempt to attack the Crimean Bridge, unsuccessful. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/intelslava/98453"
+      ],
       "event_signals": [
         "drone",
         "strike"
@@ -121,12 +164,27 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198961",
+      "id": "intelslava/98454",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98454",
+      "published_at": "2026-11-22T21:08:20+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡ Zelensky promised that the Ukrainian Armed Forces will strike Russian energy infrastructure in response to blackouts in Ukraine. Then he slipped away and again complained that Russia has changed its tactics of strikes on Ukrainian energy and is now trying to destroy power grids and transmission lines to cut off entire regions from energy sources. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198963",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198961",
-      "published_at": "2026-11-22T20:56:02+00:00",
-      "text": "🇺🇦 💥 More videos of the Russian strike on railway infrastructure in Kharkov Oblast A major fire broke out at the station, with flames engulfing the platform and a train. Passengers are reportedly being evacuated. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198963",
+      "published_at": "2026-11-22T21:01:29+00:00",
+      "text": "🇺🇦 💥 New strikes in Kharkov 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -136,58 +194,15 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234397",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234397",
-      "published_at": "2026-11-22T20:40:17+00:00",
-      "text": "Анимированная схема ударов по территории Украины 07:30 21 ноября 2026 – 07:30 22 ноября 2026 года. Изменения выявленные в процессе создания схемы: 14:35 Запорожье — взрыв. Дань-Т.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234395",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234395",
-      "published_at": "2026-11-22T20:32:40+00:00",
-      "text": "1. Купянск - Заосколье Последствия боевых действий в Купянске. Военнослужащие ВС РФ фиксируют контроль позиций в локомотивном депо Купянск - Сортировочный. Увеличение зоны контроля ВС РФ 1 км в южной части города в Заосколье. 2. Покровское - Герасимовка Позиционные боевые действия в Днепропетровской зоне безопасности. Позиция ВС РФ в Герасимовке подверглась обстрелу ВСУ. ВС РФ увеличили зону контроля до 1,5 км и заняли новые позиции по западному берегу реки Гайчур в жилой застройке населённого пункта @creamy_caprice",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98448",
+      "id": "intelslava/98452",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98448",
-      "published_at": "2026-11-22T20:16:47+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — The Russian Armed Forces struck the railway station in Lyubotyn, Kharkov Oblast: the platform and a train are on fire. @IntelSlava",
+      "url": "https://t.me/intelslava/98452",
+      "published_at": "2026-11-22T21:01:28+00:00",
+      "text": "🇺🇦 ⚡ The Ukrainian Air Force has confirmed for the first time the presence of a Saab 340 AEW&C airborne early warning and control aircraft in service with the Ukrainian Air Force. A photo of the aircraft over Ukraine, which provides coordination of Ukrainian aviation operations during the repulsion of massive combined attacks. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kharkiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35951",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35951",
-      "published_at": "2026-11-22T20:09:25+00:00",
-      "text": "📝 Rybar's Main Highlights 📝 digest of materials from November 22 We covered why Russian ships come under attack in the Mediterranean, and what can be done about it (spoiler: real options exist). ❗️ Read more about these and other topics in our digest. ➡️ Rybar @rybar — we discuss complex topics simply. The main resource of our think tank. The most important and interesting materials. ▪️ Chronicles of the SMO, freeing Khripunov ▪️ Rybar explains: AFU plans for the Caspian and Baltic ▪️ How Kaliningrad was actually attacked and the real security problems it faces ▪️ Why hitting doesn't mean destroying and what a systematic approach entails ▪️ How to respond for Benghazi ➡️ ASIANBAR @rybar_Pacific Australian authorities insist on fulfilling submarine agreements under AUKUS. Japan is reviewing defense procurement plans. And Thailand's government agreed to open its market to American goods. ➡️ AMERICABAR @rybar_america MAGA is in decline , a former White House press secretary faces jail time , and Donald Trump builds a shield against Democrats. ➡️ AFRICABAR @rybar_Africa So-called Ukraine is settling into the role of chaos sponsor in Africa. While Ukrainian unmanned boats attack Russian ships off the coast of Libya , emissaries from Kyiv are nurturing a future recruitment base for Malian radicals in Mauritania . ➡️ BALKANBAR @balkanar Bulgaria will build another gunpowder plant. Meanwhile, Serbia is actively forming a new government. ➡️ EUROBAR @evropar Italy took offense at the Kyiv regime. Slovaks refuse to sponsor so-called Ukraine. In Britain, residents of the second village spoke out in favor of leaving the United Kingdom. ➡️ CAUCASUSBAR @caucasar We covered naval",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "procurement",
         "strike"
       ],
       "possible_duplicate_urls": []
