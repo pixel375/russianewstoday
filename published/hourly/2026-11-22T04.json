@@ -1,0 +1,23 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    150
+  ],
+  "published_at_utc": "2026-11-22T05:26:48.612272+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-22T04",
+  "items": [
+    {
+      "item_id": "2026-11-22T04:1",
+      "title": "Finnish and Estonian vessels join Russian cargo ship firefighting operation",
+      "summary": "Finnish authorities reportedly allowed the sanctioned Russian rescue vessel Murman into Finnish waters to help fight a fire aboard the damaged cargo ship Sparta II. Finnish rescue tugs and the Estonian Navy vessel Kindral Kurvits are also participating, marking a cross-border response following the reported Ukrainian attack.",
+      "post_url": "https://t.me/russianewstodayofficial/150",
+      "category": "other",
+      "hour_id": "2026-11-22T04",
+      "source_handles": [
+        "intelslava"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
