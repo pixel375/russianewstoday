@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T11",
-  "generated_at_utc": "2026-11-22T12:21:37.001311+00:00",
-  "window_start_utc": "2026-11-22T11:00:00+00:00",
-  "window_end_utc": "2026-11-22T12:00:00+00:00",
+  "hour_id": "2026-11-22T12",
+  "generated_at_utc": "2026-11-22T13:30:19.584641+00:00",
+  "window_start_utc": "2026-11-22T12:00:00+00:00",
+  "window_end_utc": "2026-11-22T13:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 9
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -33,7 +33,7 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
@@ -45,19 +45,19 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
@@ -69,7 +69,7 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
@@ -99,113 +99,124 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 22,
+    "raw_posts": 17,
     "relevant_posts": 8,
-    "deduplicated_posts": 7,
-    "candidate_posts": 7
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198922",
+      "id": "DDGeopolitics/198925",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198922",
-      "published_at": "2026-11-22T11:56:38+00:00",
-      "text": "🇩🇪 🇷🇺 German general is puzzled that Russia's army keeps growing \"despite huge losses\" Brigadier General Christoph Huber, commander of the Bundeswehr's 45th Panzer Brigade stationed in Lithuania, told Bild that Russia's military power is still growing. \"We are seeing a build-up of military capabilities despite the enormous losses Russia is suffering in the war in Ukraine,\" Huber said. \"Manpower is increasing, production capacity is expanding. Russia's entire industry has been completely converted to armaments, to war production.\" He still insists NATO \"will not be caught off guard\" if Russia attacks. Moscow has repeatedly rejected claims that it plans to attack Europe. For almost four years, Western officials and media have told their public that Russia is losing more than a thousand men a day, running out of shells, sending troops into battle with shovels and about to collapse. Now NATO commanders on the eastern flank are watching the Russian army get bigger and its factories turn out more, and they can't explain how. The answer might be simpler than they think. If they stopped believing their own propaganda about Russian losses, none of this would be confusing. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198925",
+      "published_at": "2026-11-22T12:55:48+00:00",
+      "text": "🇷🇺 🇱🇾 Massive explosion hits Russian corvette at Benghazi port A Russian Navy corvette, believed to be the Project 20380 Merkury, was hit by a massive explosion overnight at the port of Benghazi in eastern Libya and caught fire. The ship had been in port for several days while escorting a convoy of Russian cargo ships. Benghazi is controlled by Field Marshal Khalifa Haftar's Libyan National Army, which runs eastern Libya and is Moscow's main partner in the country. The cause has not been confirmed, and Moscow has not commented yet. Ukrainian and Western accounts are already claiming it was a Ukrainian strike. If so, Kiev wouldn't have far to go. According to AP and RFI, about 200 Ukrainian military personnel, mostly drone operators, are stationed in western Libya under a deal with the Government of National Unity in Tripoli, Haftar's Western-backed rival. They reportedly operate from the Misrata air base and from facilities in Tripoli and Zawiya. In exchange, Ukrainian specialists train Libyan forces on drones, and Kiev has been promised arms deals and a stake in Libya's oil sector. In March, Russia's Transport Ministry said the LNG tanker Arctic Metagaz was sunk by Ukrainian sea drones launched from the Libyan coast. Kiev has never officially admitted having forces in Libya, however there is plenty of evidence that proves they are involved. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "drone",
+        "kyiv",
         "moscow",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98408",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98408",
-      "published_at": "2026-11-22T11:41:15+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡️ — Around 20 glide bombs struck bridges and the Dnipro Hydroelectric Power Plant (DniproHES) in Zaporozhye within the span of an hour. @IntelSlava",
+      "id": "mod_russia_en/30734",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30734",
+      "published_at": "2026-11-22T12:45:26+00:00",
+      "text": "Vostok Group's drones on air The Vostok Group's drone operators shot down UAVs and eliminated manpower of the AFU in Zaporozhye region. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "drone",
         "zaporizhzhia"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198920",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198920",
-      "published_at": "2026-11-22T11:40:57+00:00",
-      "text": "🇺🇦 Another day, another assault on Orthodox heritage. Representatives of the canonical Ukrainian Orthodox Church (UOC) report an attempted seizure of the Church of St. Sergius of Radonezh within the Kiev-Pechersk Lavra. The identities of those involved have yet to be established. The incident raises further questions about the treatment of Orthodox communities in Ukraine, amid repeated disputes over church property, clergy and control of religious sites. For believers, these are not simply buildings or political trophies. They are places of worship, history and spiritual heritage. The rights of Orthodox Christians should not become collateral damage in Ukraine’s political and religious conflicts. 🔴 @DDGeopolitics",
+      "id": "boris_rozhin/234337",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234337",
+      "published_at": "2026-11-22T12:41:06+00:00",
+      "text": "В Мали работает новая турецкая ЧВК? Французские желтушные издания Le Monde и Africa Intelligence раскрыли подробности деятельности турецкой компании Equipped Tactical Academy (ETA), занимающейся подготовкой малийских военнослужащих. Компания была основана в Стамбуле в сентябре 2025 года бывшим бойцом турецкого морского спецназа Уфуком Эрдоганом. Её инструкторский состав также сформирован преимущественно из бывших военнослужащих специальных подразделений Турции. По данным расследования, с октября по ноябрь 2025 года турецкие инструкторы подготовили около 40 бойцов малийского спецназа. Ещё примерно 20 военнослужащих прошли отдельный курс миномётной подготовки. ЧЕМ ЗАНИМАЮТСЯ ТУРКИ? ▪️ Огневая и тактическая подготовка. ▪️ Обучение ближнему бою. ▪️ Физическая подготовка спецподразделений. ▪️ Тактическая медицина. ▪️ Подготовка собственных малийских инструкторов. УЧАСТИЕ В BAMEX’26 Представители ETA, включая Уфука Эрдогана, участвовали в международной оборонной выставке BAMEX’26, проходившей 9–13 ноября в Бамако. 13 ноября агентство Anadolu опубликовало видеосюжет с турецкими инструкторами, обучающими малийских военнослужащих обращению с оружием. Эрдоган сообщил, что компания также оказывает консультационные услуги в сфере безопасности и работает над расширением сотрудничества с африканскими государствами. ВОЗМОЖНОЕ УЧАСТИЕ В ОПЕРАЦИЯХ По информации Le Monde, турецкие специалисты могли участвовать не только в обучении военнослужащих, но и в обеспечении безопасности топливных поставок во время блокады Бамако в 2025 году. Также сообщается об их возможном участии в операциях в населённых пунктах, подозревавшихся в связях с нападениями на топливные колонны. Эти сведения основаны на информации французского источника и независимо не подтверждены. РОССИЯ И ТУРЦИЯ В МАЛИ Россия остаётся одним из основных военно-технических партнёров Мали. В стране действуют подразделения российского Африканского Корпуса. Одновременно Турция расширяет своё присутствие, поставляя беспилотники Bayraktar TB2 и Akıncı, вооружение и предоставляя услуги военной подготовки. Появление ETA свидетельствует о расширении турецкого участия в подготовке малийских сил безопасности. При этом сведений о прямом соперничестве российских и турецких подразделений на территории Мали нет. источник",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198919",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198919",
-      "published_at": "2026-11-22T11:37:21+00:00",
-      "text": "🇺🇸 🇺🇦 Someone needs to give this US mercenary a history lesson before he gets hit by a Russian drone. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198917",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198917",
-      "published_at": "2026-11-22T11:27:29+00:00",
-      "text": "📝 How to finish off Ukrainian shipping 📝 what remains to be done to achieve victory in the Black Sea The Russian Armed Forces campaign in the Black Sea clearly demonstrated that so-called Ukraine never controlled shipping at all. Now the movement of bulk carriers and tankers to so-called Ukraine depends on Russian will. But the effect can and should be strengthened: while Ukrainian authorities are content with smaller ports on the Danube, a total blockade should be considered. And this can be done with available means. With more comprehensive strikes on shipping routes on the Danube, commercial fleet traffic will simply stop. And with it, partial weapons deliveries. How Russia seized the initiative in the Black Sea and what to do next — watch our new video. 📍 @rybar_tactical 💸 Support us Original msg",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/rybar_in_english/35938"
-      ],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198916",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198916",
-      "published_at": "2026-11-22T11:26:40+00:00",
-      "text": "🇺🇸 🇺🇦 The Narcoführer is demanding Patriot missiles from Washington, despite Europe already footing the bill. European partners have paid for the missiles through the PURL programme, but delivery still depends on US authorisation. Kiev says the supplies are being delayed, leaving Ukraine dependent on Washington’s approval even when European allies are providing the funding. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "missile"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35935",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35935",
-      "published_at": "2026-11-22T11:16:26+00:00",
-      "text": "📝 Low accuracy — compensate with volume 📝 Over five years, many have noticed that certain facilities in so-called Ukraine, which officials announced as destroyed, reappear in reports some time later, as if they were never hit. Why does this happen? One reason is that a hit in the vicinity of a target does not equal its destruction or even serious damage. Take, for example, video of an attack on the Lviv Aircraft Plant on November 20 with an Kh-101 cruise missile, filmed by local residents. The miss was measured in meters, which is decent for a munition designed back in the 90s to meet the requirements of that time. But that very distance was enough to make the difference — so instead of hitting the building, the missile struck the asphalt in front of it. Moreover, even a direct hit does not always mean target destruction. For example, a missile or drone can strike a corner or the very top floor of a building, leaving the rest untouched. As a result, the target appears damaged, but the destruction is localized, with no major fire even occurring. 🖍 What to do in such a situation, besides improving munitions to reduce circular error probability? Increase the volume of fire on the target: the more that flies in — the higher the chance that some of the missiles or drones in the salvo will hit where needed. 🚩 But the number of strike assets is limited, as is the number of delivery platforms. The logical solution — reduce the number of targets per attack on the principle that it is better to send everything at two objects and destroy them than to fire at 15 with minimal damage and misses. This approach has yielded results since 2022 in specific examples. Why by the fifth year of combat operations it has not become widespread — this mystery remains great. #Lviv #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "id": "boris_rozhin/234336",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234336",
+      "published_at": "2026-11-22T12:21:06+00:00",
+      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки Фиксируем некоторые изменения в характере действий противника — помимо многочисленных пеших групп просачивания на убой периодически отправляется десант на бронемашинах и пикапах. Всего зафиксировано 16 попыток противника контратаковать — семь на северном фланге и девять на западном. Более 10 разрозненных групп боевиков вскрыто и уничтожено операторами БПЛА на освобожденных территориях. На севере продолжается работа по выявлению и уничтожению инфильтрационных групп противника вдоль реки Мокрые Ялы , однако масштабы их просачивания отнюдь не таковы, как пытаются рисовать вражеские ресурсы, ссылающиеся при этом даже не на кадры объективного контроля, а на голоса в голове. На северо-западном участке есть тактические успехи у штурмовых групп из Забайкалья. Дроноводы и артиллерия работали по живой силе и технике ВСУ в районах Подгавриловки, Дибровы, в окрестностях Терсянки и Новокасьяновки. На западе воины из Бурятии отражали контратаки противника. Общие потери ВСУ на данном участке — до 30 боевиков. В результате огневого поражения подавлены и уничтожены 4 пункта управления БПЛА. На юге амурские воины сорвали попытку ротации ВСУ в районе Таврийского, а также вскрыли и нанесли удары по группам боевиков в районах Блакитного и Желтой Кручи. На данном участке ликвидировано до 12 боевиков, ударами дронов разрушено 2 блиндажа. Всего уничтожено до роты живой силы ВСУ, ББМ, семь единиц авто-мототехники, станция РЭБ, склад материальных средств и 23 пункта управления БПЛА. @voin_dv",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "missile",
         "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198923",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198923",
+      "published_at": "2026-11-22T12:20:22+00:00",
+      "text": "🇺🇸 US spy plane circles Kaliningrad again as NATO flights become increasingly frequent The American Bombardier Artemis II reconnaissance aircraft was spotted once again near the Kaliningrad region on Sunday, November 22, operating in Lithuanian airspace after departing from a Romanian airbase. What is particularly notable is the growing frequency of these missions. Flights that were once relatively unusual on Sundays are now becoming almost a weekly occurrence, with the aircraft reportedly using corridors also designated for civilian aviation. Since the beginning of the year, Artemis II has been spotted near Kaliningrad more than 70 times. Its previous appearance was just one week ago. The latest flight comes amid heightened tensions in the region, following the activation of alert systems in Kaliningrad over a suspicious object approaching from Lithuania, as well as the reported attack on the Russian cargo ship Sparta II on November 21. NATO reconnaissance activity in the area had also been recorded ahead of that incident. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407075",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407075",
+      "published_at": "2026-11-22T12:13:08+00:00",
+      "text": "🚨 Беспилотники ВСУ нанесли удары по Белгородской области, пострадали четыре мирных жителя, сообщает оперштаб.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38571",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38571",
+      "published_at": "2026-11-22T12:04:01+00:00",
+      "text": "Противник разбрасывает отравленные купюры в ДНР – мужчина госпитализирован Житель Макеевки подобрал пятитысячную купюру на остановке, после этого его госпитализировали с отравлением. Как сообщает Министерство здравоохранения ДНР, врачам пока не удалось установить точное вещество, ставшее причиной отравления. Пострадавшему была оказана необходимая медицинская помощь, и его состояние стабилизировалось. По сообщению донецких каналов, в районе остановки «Шоколад» и до «Чайкинского кольца», были обнаружены ещё 54 отравленных купюры. Противник не видит различий между военным и ребёнком, поэтому терроризирует мирных жителей таким подлым способом. Власти настоятельно призывают граждан проявлять максимальную осторожность и не поднимать подозрительные предметы, особенно деньги, найденные на земле. Напомним, что таким способом враг терроризирует не только жителей прифронтовых территорий. Похожий случай произошёл в подмосковном Красногорске в ноябре прошлого года. Девятилетний мальчик, увидев на детской площадке деньги, наклонился, чтобы их поднять, и в результате лишился пальцев: самодельное взрывное устройство было замаскировано под сверток купюр. Берегите себя и своих близких, будьте бдительны и не рискуйте своей жизнью ради сомнительной находки. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98411",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98411",
+      "published_at": "2026-11-22T12:01:43+00:00",
+      "text": "🇪🇺 ⚡️ — According to sources cited by El Pais, the EU's top diplomat, Kaja Kallas, was never considered a serious candidate to represent Europe in negotiations with Russia. Sources say that the composition of the participants depends on the format: either specialists in the relevant field or heads of state will be involved in the dialogue. Kallas offered to coordinate the negotiations, but she was not included in the process. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
       ],
       "possible_duplicate_urls": []
     }
