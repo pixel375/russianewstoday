@@ -1,0 +1,213 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T11",
+  "generated_at_utc": "2026-11-22T12:21:37.001311+00:00",
+  "window_start_utc": "2026-11-22T11:00:00+00:00",
+  "window_end_utc": "2026-11-22T12:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 9
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 22,
+    "relevant_posts": 8,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198922",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198922",
+      "published_at": "2026-11-22T11:56:38+00:00",
+      "text": "🇩🇪 🇷🇺 German general is puzzled that Russia's army keeps growing \"despite huge losses\" Brigadier General Christoph Huber, commander of the Bundeswehr's 45th Panzer Brigade stationed in Lithuania, told Bild that Russia's military power is still growing. \"We are seeing a build-up of military capabilities despite the enormous losses Russia is suffering in the war in Ukraine,\" Huber said. \"Manpower is increasing, production capacity is expanding. Russia's entire industry has been completely converted to armaments, to war production.\" He still insists NATO \"will not be caught off guard\" if Russia attacks. Moscow has repeatedly rejected claims that it plans to attack Europe. For almost four years, Western officials and media have told their public that Russia is losing more than a thousand men a day, running out of shells, sending troops into battle with shovels and about to collapse. Now NATO commanders on the eastern flank are watching the Russian army get bigger and its factories turn out more, and they can't explain how. The answer might be simpler than they think. If they stopped believing their own propaganda about Russian losses, none of this would be confusing. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98408",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98408",
+      "published_at": "2026-11-22T11:41:15+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Around 20 glide bombs struck bridges and the Dnipro Hydroelectric Power Plant (DniproHES) in Zaporozhye within the span of an hour. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198920",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198920",
+      "published_at": "2026-11-22T11:40:57+00:00",
+      "text": "🇺🇦 Another day, another assault on Orthodox heritage. Representatives of the canonical Ukrainian Orthodox Church (UOC) report an attempted seizure of the Church of St. Sergius of Radonezh within the Kiev-Pechersk Lavra. The identities of those involved have yet to be established. The incident raises further questions about the treatment of Orthodox communities in Ukraine, amid repeated disputes over church property, clergy and control of religious sites. For believers, these are not simply buildings or political trophies. They are places of worship, history and spiritual heritage. The rights of Orthodox Christians should not become collateral damage in Ukraine’s political and religious conflicts. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198919",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198919",
+      "published_at": "2026-11-22T11:37:21+00:00",
+      "text": "🇺🇸 🇺🇦 Someone needs to give this US mercenary a history lesson before he gets hit by a Russian drone. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198917",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198917",
+      "published_at": "2026-11-22T11:27:29+00:00",
+      "text": "📝 How to finish off Ukrainian shipping 📝 what remains to be done to achieve victory in the Black Sea The Russian Armed Forces campaign in the Black Sea clearly demonstrated that so-called Ukraine never controlled shipping at all. Now the movement of bulk carriers and tankers to so-called Ukraine depends on Russian will. But the effect can and should be strengthened: while Ukrainian authorities are content with smaller ports on the Danube, a total blockade should be considered. And this can be done with available means. With more comprehensive strikes on shipping routes on the Danube, commercial fleet traffic will simply stop. And with it, partial weapons deliveries. How Russia seized the initiative in the Black Sea and what to do next — watch our new video. 📍 @rybar_tactical 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/rybar_in_english/35938"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198916",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198916",
+      "published_at": "2026-11-22T11:26:40+00:00",
+      "text": "🇺🇸 🇺🇦 The Narcoführer is demanding Patriot missiles from Washington, despite Europe already footing the bill. European partners have paid for the missiles through the PURL programme, but delivery still depends on US authorisation. Kiev says the supplies are being delayed, leaving Ukraine dependent on Washington’s approval even when European allies are providing the funding. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35935",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35935",
+      "published_at": "2026-11-22T11:16:26+00:00",
+      "text": "📝 Low accuracy — compensate with volume 📝 Over five years, many have noticed that certain facilities in so-called Ukraine, which officials announced as destroyed, reappear in reports some time later, as if they were never hit. Why does this happen? One reason is that a hit in the vicinity of a target does not equal its destruction or even serious damage. Take, for example, video of an attack on the Lviv Aircraft Plant on November 20 with an Kh-101 cruise missile, filmed by local residents. The miss was measured in meters, which is decent for a munition designed back in the 90s to meet the requirements of that time. But that very distance was enough to make the difference — so instead of hitting the building, the missile struck the asphalt in front of it. Moreover, even a direct hit does not always mean target destruction. For example, a missile or drone can strike a corner or the very top floor of a building, leaving the rest untouched. As a result, the target appears damaged, but the destruction is localized, with no major fire even occurring. 🖍 What to do in such a situation, besides improving munitions to reduce circular error probability? Increase the volume of fire on the target: the more that flies in — the higher the chance that some of the missiles or drones in the salvo will hit where needed. 🚩 But the number of strike assets is limited, as is the number of delivery platforms. The logical solution — reduce the number of targets per attack on the principle that it is better to send everything at two objects and destroy them than to fire at 15 with minimal damage and misses. This approach has yielded results since 2022 in specific examples. Why by the fifth year of combat operations it has not become widespread — this mystery remains great. #Lviv #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
