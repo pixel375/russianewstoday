@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    165
+  ],
+  "published_at_utc": "2026-11-22T19:27:17.417448+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-22T18",
+  "items": [
+    {
+      "item_id": "2026-11-22T18:1",
+      "title": "Finnish Border Guard says towing of damaged Russian Sparta II is complete",
+      "summary": "Finland's Border Guard said towing operations for the Russian vessel Sparta II have finished and the ship is now outside Finland's exclusive economic zone in the Gulf of Finland. The vessel, reportedly damaged in a suspected Ukrainian drone attack, is expected to be towed onward toward St. Petersburg.",
+      "post_url": "https://t.me/russianewstodayofficial/165",
+      "category": "other",
+      "hour_id": "2026-11-22T18",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T18:2",
+      "title": "Russian military correspondent reports drone strike on railway vehicle near Dnipro",
+      "summary": "A Russian military correspondent reported that a Russian drone struck a railway maintenance vehicle near Dnipro on Sunday. The account did not specify the extent of the damage or whether anyone was injured.",
+      "post_url": "https://t.me/russianewstodayofficial/165",
+      "category": "other",
+      "hour_id": "2026-11-22T18",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
