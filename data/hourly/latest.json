@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T04",
-  "generated_at_utc": "2026-11-22T05:26:11.453383+00:00",
-  "window_start_utc": "2026-11-22T04:00:00+00:00",
-  "window_end_utc": "2026-11-22T05:00:00+00:00",
+  "hour_id": "2026-11-22T05",
+  "generated_at_utc": "2026-11-22T06:22:03.071023+00:00",
+  "window_start_utc": "2026-11-22T05:00:00+00:00",
+  "window_end_utc": "2026-11-22T06:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -45,19 +45,19 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 6
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
@@ -75,7 +75,7 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
@@ -99,25 +99,75 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 8,
-    "relevant_posts": 1,
-    "deduplicated_posts": 1,
-    "candidate_posts": 1
+    "raw_posts": 11,
+    "relevant_posts": 5,
+    "deduplicated_posts": 5,
+    "candidate_posts": 5
   },
   "posts": [
     {
-      "id": "intelslava/98398",
+      "id": "rybar_in_english/35930",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35930",
+      "published_at": "2026-11-22T05:55:28+00:00",
+      "text": "📝 Ukraine Watch 📝 Shattering the Fog of War Ukraine Watch provides a direct window into the conflict, delivering facts without the fluff. 🔻 What makes this channel a must-follow for those tracking the SMO and global shifts? ▪️ Real-Time Intelligence: Fresh updates from Russia, Ukraine, and the global geopolitical arena, ensuring you stay ahead of the news cycle. ▪️ Exclusive Footage: Operative translations of raw materials from the frontlines, providing a perspective that rarely makes it to Western screens. ▪️ Deep Analytics: Expert breakdowns of the economic, political, and social drivers behind the headlines—translated and delivered with speed. ▪️ Historical Context: Unveiling hidden facts and historical perspectives that explain the \"why\" behind today's events. If you are looking for a source that prioritizes objective reality over ideological narratives, Ukraine Watch is your essential tool for navigating the information battlefield. 🔸 Join the community and stay informed: https://t.me/ukrainewatch_chat #add #Russia #Ukraine #SMO #InformationWarfare",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98399",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98398",
-      "published_at": "2026-11-22T04:04:51+00:00",
-      "text": "🇷🇺 🇪🇪 🇫🇮 🇺🇦 ⚡️ — Russian and NATO vessels are working together to extinguish a fire aboard the Russian cargo ship Sparta II, which was attacked by Ukrainian forces. Finland has authorized the Western-sanctioned Russian rescue vessel Murman to enter its territorial waters to assist the damaged cargo ship. Finnish and Estonian vessels are also involved in the rescue operation. Finnish Border Guard statement: The firefighting operation involved the rescue tugs Ajax and H. Kanter, operated by Alfons Håkans, as well as the Estonian Navy vessel Kindral Kurvits. At the request of the Border Guard, the Russian rescue vessel Murman is also participating in the rescue operation. @IntelSlava",
+      "url": "https://t.me/intelslava/98399",
+      "published_at": "2026-11-22T05:51:48+00:00",
+      "text": "🇬🇧 🇺🇦 ⚡️ — The United Kingdom will begin manufacturing Ukrainian drones with medium and long ranges for the Ukrainian Armed Forces. \"We are combining Ukrainian defense innovations with the manufacturing capabilities of the United Kingdom to more quickly scale up proven equipment for our Armed Forces,\" said Ukrainian Defense Minister Yevhen Khmara. The production will be funded by the United Kingdom. @Intelslava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "sanctions",
-        "strike"
+        "drone"
       ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234298",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234298",
+      "published_at": "2026-11-22T05:45:41+00:00",
+      "text": "В течение прошедшей ночи дежурными силами ПВО перехвачены и уничтожены 170 украинских беспилотных летательных аппаратов самолетного типа над территориями Брянской, Белгородской, Курской, Воронежской, Тульской, Ростовской областей, Краснодарского края, Республики Крым и над акваториями Азовского и Черного морей.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407048",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407048",
+      "published_at": "2026-11-22T05:36:36+00:00",
+      "text": "🚨 Средства ПВО за ночь сбили 170 украинских беспилотников над регионами РФ, сообщили в МО РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234295",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234295",
+      "published_at": "2026-11-22T05:03:01+00:00",
+      "text": "Вынесен обвинительный приговор жительнице Орловской области, причастной к покушению на государственную измену. Сотрудники УФСБ России по Орловской области в ходе оперативно-розыскных мероприятий установили, что жительница региона 2005 г.р. сознавала общественную опасность своих действий. Чтобы оказать финансовую помощь представителям Украины в деятельности против безопасности Российской Федерации, она четыре раза пыталась перевести деньги безналичным путём на нужды Вооружённых сил Украины. По материалам, полученным оперативниками, следственное подразделение УФСБ России по Орловской области расследовало в отношении фигурантки уголовное дело по признакам преступления, предусмотренного ч. 3 ст. 30, ст. 275 УК России (покушение на государственную измену). Суд приговорил фигурантку к шести с половиной годам лишения свободы с отбыванием наказания в колонии общего режима. Приговор в законную силу не вступил. @opersvodki",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
