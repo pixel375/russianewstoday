@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T12",
-  "generated_at_utc": "2026-11-22T13:30:19.584641+00:00",
-  "window_start_utc": "2026-11-22T12:00:00+00:00",
-  "window_end_utc": "2026-11-22T13:00:00+00:00",
+  "hour_id": "2026-11-22T13",
+  "generated_at_utc": "2026-11-22T14:30:27.072156+00:00",
+  "window_start_utc": "2026-11-22T13:00:00+00:00",
+  "window_end_utc": "2026-11-22T14:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "intelslava",
@@ -21,7 +21,7 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
@@ -33,25 +33,25 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
@@ -99,124 +99,138 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 17,
-    "relevant_posts": 8,
-    "deduplicated_posts": 8,
-    "candidate_posts": 8
+    "raw_posts": 15,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
   },
   "posts": [
     {
-      "id": "DDGeopolitics/198925",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198925",
-      "published_at": "2026-11-22T12:55:48+00:00",
-      "text": "🇷🇺 🇱🇾 Massive explosion hits Russian corvette at Benghazi port A Russian Navy corvette, believed to be the Project 20380 Merkury, was hit by a massive explosion overnight at the port of Benghazi in eastern Libya and caught fire. The ship had been in port for several days while escorting a convoy of Russian cargo ships. Benghazi is controlled by Field Marshal Khalifa Haftar's Libyan National Army, which runs eastern Libya and is Moscow's main partner in the country. The cause has not been confirmed, and Moscow has not commented yet. Ukrainian and Western accounts are already claiming it was a Ukrainian strike. If so, Kiev wouldn't have far to go. According to AP and RFI, about 200 Ukrainian military personnel, mostly drone operators, are stationed in western Libya under a deal with the Government of National Unity in Tripoli, Haftar's Western-backed rival. They reportedly operate from the Misrata air base and from facilities in Tripoli and Zawiya. In exchange, Ukrainian specialists train Libyan forces on drones, and Kiev has been promised arms deals and a stake in Libya's oil sector. In March, Russia's Transport Ministry said the LNG tanker Arctic Metagaz was sunk by Ukrainian sea drones launched from the Libyan coast. Kiev has never officially admitted having forces in Libya, however there is plenty of evidence that proves they are involved. 🔴 @DDGeopolitics",
+      "id": "wargonzo/38572",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38572",
+      "published_at": "2026-11-22T13:50:12+00:00",
+      "text": "🔥 Не спрятались, не уехали, не долетели! Неделя у ВСУ явно не задалась! 😎 Роботизированная техника отправилась в металлолом, «Баба-Яга» не доставила груз, миномёт замолчал, а лесные укрытия оказались не такими уж надёжными. Ни маскировка, ни скорость, ни густая листва не помогли сохранить технику. 🎯 В недельной подборке — результаты боевой работы операторов БпЛА 41 и 22 мсп 72 мсд 44 Армейского корпуса . Техника меняется, маршруты меняются. Результат — неизменный! ✊ 📩 Передать информацию, вопрос или обращение 📲 Читать нас в MAX 44 Армейский корпус — находим, перехватываем, уничтожаем! 💪",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "kyiv",
-        "moscow",
-        "strike"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "mod_russia_en/30734",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30734",
-      "published_at": "2026-11-22T12:45:26+00:00",
-      "text": "Vostok Group's drones on air The Vostok Group's drone operators shot down UAVs and eliminated manpower of the AFU in Zaporozhye region. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234337",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234337",
-      "published_at": "2026-11-22T12:41:06+00:00",
-      "text": "В Мали работает новая турецкая ЧВК? Французские желтушные издания Le Monde и Africa Intelligence раскрыли подробности деятельности турецкой компании Equipped Tactical Academy (ETA), занимающейся подготовкой малийских военнослужащих. Компания была основана в Стамбуле в сентябре 2025 года бывшим бойцом турецкого морского спецназа Уфуком Эрдоганом. Её инструкторский состав также сформирован преимущественно из бывших военнослужащих специальных подразделений Турции. По данным расследования, с октября по ноябрь 2025 года турецкие инструкторы подготовили около 40 бойцов малийского спецназа. Ещё примерно 20 военнослужащих прошли отдельный курс миномётной подготовки. ЧЕМ ЗАНИМАЮТСЯ ТУРКИ? ▪️ Огневая и тактическая подготовка. ▪️ Обучение ближнему бою. ▪️ Физическая подготовка спецподразделений. ▪️ Тактическая медицина. ▪️ Подготовка собственных малийских инструкторов. УЧАСТИЕ В BAMEX’26 Представители ETA, включая Уфука Эрдогана, участвовали в международной оборонной выставке BAMEX’26, проходившей 9–13 ноября в Бамако. 13 ноября агентство Anadolu опубликовало видеосюжет с турецкими инструкторами, обучающими малийских военнослужащих обращению с оружием. Эрдоган сообщил, что компания также оказывает консультационные услуги в сфере безопасности и работает над расширением сотрудничества с африканскими государствами. ВОЗМОЖНОЕ УЧАСТИЕ В ОПЕРАЦИЯХ По информации Le Monde, турецкие специалисты могли участвовать не только в обучении военнослужащих, но и в обеспечении безопасности топливных поставок во время блокады Бамако в 2025 году. Также сообщается об их возможном участии в операциях в населённых пунктах, подозревавшихся в связях с нападениями на топливные колонны. Эти сведения основаны на информации французского источника и независимо не подтверждены. РОССИЯ И ТУРЦИЯ В МАЛИ Россия остаётся одним из основных военно-технических партнёров Мали. В стране действуют подразделения российского Африканского Корпуса. Одновременно Турция расширяет своё присутствие, поставляя беспилотники Bayraktar TB2 и Akıncı, вооружение и предоставляя услуги военной подготовки. Появление ETA свидетельствует о расширении турецкого участия в подготовке малийских сил безопасности. При этом сведений о прямом соперничестве российских и турецких подразделений на территории Мали нет. источник",
+      "id": "tass_agency/407080",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407080",
+      "published_at": "2026-11-22T13:49:01+00:00",
+      "text": "Проект бюджета ЕС является абсолютно неприемлемым для Чехии, сообщил премьер-министр республики Андрей Бабиш. Он критически отозвался о заложенных в проект бюджета расходах на Европарламент и другие органы сообщества, а также планах финансирования Украины. ✔ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234336",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234336",
-      "published_at": "2026-11-22T12:21:06+00:00",
-      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки Фиксируем некоторые изменения в характере действий противника — помимо многочисленных пеших групп просачивания на убой периодически отправляется десант на бронемашинах и пикапах. Всего зафиксировано 16 попыток противника контратаковать — семь на северном фланге и девять на западном. Более 10 разрозненных групп боевиков вскрыто и уничтожено операторами БПЛА на освобожденных территориях. На севере продолжается работа по выявлению и уничтожению инфильтрационных групп противника вдоль реки Мокрые Ялы , однако масштабы их просачивания отнюдь не таковы, как пытаются рисовать вражеские ресурсы, ссылающиеся при этом даже не на кадры объективного контроля, а на голоса в голове. На северо-западном участке есть тактические успехи у штурмовых групп из Забайкалья. Дроноводы и артиллерия работали по живой силе и технике ВСУ в районах Подгавриловки, Дибровы, в окрестностях Терсянки и Новокасьяновки. На западе воины из Бурятии отражали контратаки противника. Общие потери ВСУ на данном участке — до 30 боевиков. В результате огневого поражения подавлены и уничтожены 4 пункта управления БПЛА. На юге амурские воины сорвали попытку ротации ВСУ в районе Таврийского, а также вскрыли и нанесли удары по группам боевиков в районах Блакитного и Желтой Кручи. На данном участке ликвидировано до 12 боевиков, ударами дронов разрушено 2 блиндажа. Всего уничтожено до роты живой силы ВСУ, ББМ, семь единиц авто-мототехники, станция РЭБ, склад материальных средств и 23 пункта управления БПЛА. @voin_dv",
+      "id": "DDGeopolitics/198927",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198927",
+      "published_at": "2026-11-22T13:48:49+00:00",
+      "text": "🇷🇺 🇫🇮 🇪🇺 What's behind the Baltic ship strike and the Kaliningrad attack? Yesterday's drone strike on the Russian cargo ship Sparta II in the Gulf of Finland and the reported attack on Kaliningrad Region look like two parts of one operation. Sparta II, operated by Oboronlogistika, a logistics contractor for the Russian Defense Ministry, was heading to Kaliningrad when two drones hit it in international waters west of Gogland island. It caught fire and drifted into Finnish waters, and its 16 crew were taken aboard a Russian vessel. Hours later sirens sounded across Kaliningrad Region. Local authorities confirmed only an air alert. Claims that drones hit the Baltic Fleet base in Baltiysk come only from Ukrainian propaganda, and no strikes have been officially confirmed. There's little military logic here because the damage is too small to matter. The aim looks demonstrative: to drive up tension between Russia and Europe and make the Russia-Europe negotiating track that is just starting to take shape very difficult, or kill it outright. The location also matters. The ship was hit off Finland, whose President Alexander Stubb has become one of the leading voices in Europe for direct talks with Moscow. Last week he said Europe had outsourced engagement with Russia to Washington for too long, called that irresponsible, and said he believes Putin is ready to talk to Europe. He also said Trump told European leaders to deal with Putin directly. After yesterday's attack, Stubb called the events around Sparta II \"serious\" and said he had briefed key partners and allies. Finnish Colonel Aki-Mauri Huhtinen, communications director of the Finnish Defense Forces, said Ukraine was likely behind the attack. Prime Minister Petteri Orpo said the war was spilling over into Finland's neighborhood, but in the same statement said Ukraine has the \"right to strike back.\" Russia hasn't officially blamed anyone yet. Russian media and Telegram channels already say Kiev carried out the attack with direct help from NATO's Baltic coastal states: Finland, Estonia, Latvia and Lithuania. Lithuanian Foreign Minister Kęstutis Budrys \"categorically\" denied any role in the Kaliningrad attack. No one has claimed responsibility, but anyone with two functioning brain cells knows it was Ukraine with help from the Baltics. Kaliningrad is the most sensitive and explosive point of any possible Russia-Europe confrontation. Moscow regularly accuses Europe of preparing to blockade the exclave. In September Russia sent NATO a diplomatic note warning that it would use \"the entire arsenal\" at its disposal, including nuclear weapons, if NATO tried to cut Kaliningrad off. Europe denies having any such plans, though Budrys himself said earlier this year that NATO has the means to \"level\" Russian bases in Kaliningrad. Yesterday's strikes have made the \"Kaliningrad blockade\" talk in Moscow louder, and several Russian military channels are already calling them a \"rehearsal for a blockade.\" That will be used by everyone who opposes restarting Russia-Europe dialogue, and those people exist in Kiev, in Europe and in Russia. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
+        "kyiv",
+        "moscow",
+        "negotiation",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198923",
+      "id": "dva_majors/102363",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102363",
+      "published_at": "2026-11-22T13:43:01+00:00",
+      "text": "✨ О нарастающей беспилотной угрозе ✨ Украинская компания Stellarion представила модификацию для ударных FPV-дронов Deadliner R10 и R15 , которая увеличила дальность полёта на 15%. Она представляет собой механизм дистанционного сброса дополнительной батареи : беспилотник сбрасывает отработанный аккумуляторный блок во время полёта, чтобы уменьшить собственную массу и увеличить дальность. В результате дроны Deadliner R10 и R15 показывают дальность в тестах 50 и 80 км. Управление на таком расстоянии достигается за счёт создания радиомостов и размещения в воздухе ретрансляторов. Этот механизм уже активно внедряется и другими производителями дронов на Украине. ✨ И это крайне опасная тенденция . Теперь в зону поражения самыми массовыми дронами попадёт почти вся территория подконтрольной России части Херсонской области , а также значительное количество прифротовых/приграничных населённых пунктов (тот же Белгород находится в 30 км от границы). Противник фактически сможет парализовать российскую территорию на глубину до 80 км , взяв её под огневой контроль. Реально эффективных средств уничтожения этих дронов на упреждающем расстоянии практически нет. Действия против них в основном организованы за счёт физической защиты и применения огнестрельного оружия непосредственно у объекта атаки . РЭБ же не гарантирует подавление сигнала – в дроны активно внедряется автоматический переключатель частот при радиоэлектронном воздействии. ✨ ⭐️ Актуальность этой угрозы будет только нарастать – противник заявляет о колоссальных вложениях в производство дронов в 2027 году . В этих условиях необходимость приоритизации разработок и производства средств противодействия БПЛА становится жизненно важной для безопасности сотен тысяч граждан , а также нормального функционирования целого ряда регионов страны . Требуется аккумулировать научные и производственные ресурсы на направлении противодействия дронам. Ни военная, ни государственная бюрократия не должна препятствовать этому процессу . Если денег нет – возможно стоит рассмотреть вопрос временного сокращения трат на закупку дорогостоящих танков, БТР, кораблей и другой техники, которая непосредственно в зоне боевых действий практически не появляется или горит от этих же копеечных дронов . ✨ ✨ И, судя по всему, такие экстренные неординарные меры без чрезвычайных полномочий не принять. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "procurement",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234340",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234340",
+      "published_at": "2026-11-22T13:40:15+00:00",
+      "text": "В Запорожье противник наводит понтонные переправы через Днепр. После ударов по мостам сейчас движение транспорта заблокировано в обе стороны на всех мостах города, включая мост, ведущий к гидроэлектростанции. @divgen",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35940",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35940",
+      "published_at": "2026-11-22T13:36:04+00:00",
+      "text": "Fwd from @ 📝 Gratitude with database entry 📝 Asking allies for weapons while simultaneously discovering their politicians on the list of \" enemies \" — a peculiar way to maintain relations. The story involving Vice Premier and leader of the right-wing party \"League\" Matteo Salvini being added to the Myrotvorets database turned into a scandal that touched on the issue of further military aid to the Kyiv regime. The politician stated that he expects an apology from President Zelensky , and if there is no condemnation of the website and distancing from its activities, the party will draw conclusions when considering the extension of weapons supplies. Giorgia Meloni had to intervene — she personally called the inclusion of Italians in the database unacceptable. After the outcry, Salvini's name was removed from the database ( what happened? ). Ukrainian diplomats, meanwhile, emphasized that the website does not represent the official position of the state, since formally the resource is non-governmental. Although in that case, a comical question arises: how then did they manage to interfere in its activities? 📌 And this is not the first similar headache in relations with partners. In October, South Korea demanded an apology after Zelensky publicly disclosed the transfer of two North Korean prisoners. Yes, the circumstances are different, but the essence doesn't change much. ❗️ Biting the hand that feeds you has long become the main trait of \" Kryvyi Rih \" diplomacy. However, European politicians should remember that they long preferred not to notice such behavior from representatives of so-called Ukraine. Now, when their own state figures ended up on the lists, protests and demands for apologies became necessary. Europe is reaping the fruits of permissiveness that they themselves encouraged for years. #Italy #Ukraine 👁 @evropar — on the threshold of Europe's death 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350274",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350274",
+      "published_at": "2026-11-22T13:34:15+00:00",
+      "text": "ЕС хочет урезать расходы на развитие, науку и защиту граждан на €204 миллиарда, сохранив нетронутыми €100 миллиардов помощи Киеву. Проект нового бюджета предполагает уменьшение расходов на конкурентоспособность, процветание и безопасность на €95,4 миллиарда…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198926",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198923",
-      "published_at": "2026-11-22T12:20:22+00:00",
-      "text": "🇺🇸 US spy plane circles Kaliningrad again as NATO flights become increasingly frequent The American Bombardier Artemis II reconnaissance aircraft was spotted once again near the Kaliningrad region on Sunday, November 22, operating in Lithuanian airspace after departing from a Romanian airbase. What is particularly notable is the growing frequency of these missions. Flights that were once relatively unusual on Sundays are now becoming almost a weekly occurrence, with the aircraft reportedly using corridors also designated for civilian aviation. Since the beginning of the year, Artemis II has been spotted near Kaliningrad more than 70 times. Its previous appearance was just one week ago. The latest flight comes amid heightened tensions in the region, following the activation of alert systems in Kaliningrad over a suspicious object approaching from Lithuania, as well as the reported attack on the Russian cargo ship Sparta II on November 21. NATO reconnaissance activity in the area had also been recorded ahead of that incident. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/198926",
+      "published_at": "2026-11-22T13:05:34+00:00",
+      "text": "🇩🇪 The AFD „Alternative for Deutschland ,” have called for the deportation of 2.6 million Ukrainians, Syrians, and Afghans “If the war in Ukraine ends or the security situation in Syria and Afghanistan improves to the point where protection is no longer necessary, these people must return,” stated one of the party’s leaders, Tino Chrupalla According to his proposal, in addition to those legally required to leave the country and foreign criminals, Syrians, Afghans, and Ukrainians must also depart as soon as their grounds for receiving protection cease to apply 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407075",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407075",
-      "published_at": "2026-11-22T12:13:08+00:00",
-      "text": "🚨 Беспилотники ВСУ нанесли удары по Белгородской области, пострадали четыре мирных жителя, сообщает оперштаб.",
+      "id": "dva_majors/102362",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102362",
+      "published_at": "2026-11-22T13:03:09+00:00",
+      "text": "Дружковское направление Гвардейцы 33-го мотострелкового полка делятся очередными кадрами боевой работы операторов БПЛА. Фронтовики обнаружили пикап с личным составом противника, после чего нанесли по нему огневое поражение. На кадрах объективного контроля зафиксированы уничтожение автомобиля и поражение находившихся в нём военнослужащих ВСУ. Два майора ✨ Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38571",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38571",
-      "published_at": "2026-11-22T12:04:01+00:00",
-      "text": "Противник разбрасывает отравленные купюры в ДНР – мужчина госпитализирован Житель Макеевки подобрал пятитысячную купюру на остановке, после этого его госпитализировали с отравлением. Как сообщает Министерство здравоохранения ДНР, врачам пока не удалось установить точное вещество, ставшее причиной отравления. Пострадавшему была оказана необходимая медицинская помощь, и его состояние стабилизировалось. По сообщению донецких каналов, в районе остановки «Шоколад» и до «Чайкинского кольца», были обнаружены ещё 54 отравленных купюры. Противник не видит различий между военным и ребёнком, поэтому терроризирует мирных жителей таким подлым способом. Власти настоятельно призывают граждан проявлять максимальную осторожность и не поднимать подозрительные предметы, особенно деньги, найденные на земле. Напомним, что таким способом враг терроризирует не только жителей прифронтовых территорий. Похожий случай произошёл в подмосковном Красногорске в ноябре прошлого года. Девятилетний мальчик, увидев на детской площадке деньги, наклонился, чтобы их поднять, и в результате лишился пальцев: самодельное взрывное устройство было замаскировано под сверток купюр. Берегите себя и своих близких, будьте бдительны и не рискуйте своей жизнью ради сомнительной находки. @wargonzo",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98411",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98411",
-      "published_at": "2026-11-22T12:01:43+00:00",
-      "text": "🇪🇺 ⚡️ — According to sources cited by El Pais, the EU's top diplomat, Kaja Kallas, was never considered a serious candidate to represent Europe in negotiations with Russia. Sources say that the composition of the participants depends on the format: either specialists in the relevant field or heads of state will be involved in the dialogue. Kallas offered to coordinate the negotiations, but she was not included in the process. @Intelslava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
+        "drone"
       ],
       "possible_duplicate_urls": []
     }
