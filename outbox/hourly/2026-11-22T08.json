@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-22T08",
+  "snapshot_generated_at_utc": "2026-11-22T09:21:42.582966+00:00",
+  "items": [
+    {
+      "title": "Donetsk authorities say 279,000 customers lost power after overnight attack",
+      "summary": "Authorities in Russian-controlled Donetsk said 279,000 electricity customers were left without power following an overnight attack they attributed to Ukrainian forces. Restoration work is underway, they said, providing a new estimate of the disruption's scale.",
+      "source_urls": [
+        "https://t.me/rian_ru/350263"
+      ]
+    },
+    {
+      "title": "Russia claims 792 Ukrainian drones intercepted in 24 hours",
+      "summary": "Russia's Defence Ministry claimed its air defences shot down 792 fixed-wing drones and four guided aerial bombs over the past day. It also said Russian forces destroyed a Neptune coastal missile launcher and struck energy and transport infrastructure; these are the ministry's operational claims.",
+      "source_urls": [
+        "https://t.me/tass_agency/407063"
+      ]
+    },
+    {
+      "title": "Report says Ukraine's defence industry faces funding and production constraints",
+      "summary": "The Wall Street Journal, as summarized in a Russian news report, says Ukrainian arms manufacturers face funding shortages, recruitment difficulties and risks associated with expanding factories. The report says Ukraine cannot match Russia's missile production volume.",
+      "source_urls": [
+        "https://t.me/tass_agency/407059"
+      ]
+    },
+    {
+      "title": "Finnish defence official says Ukraine likely behind Baltic cargo ship attack",
+      "summary": "Finnish Defence Forces communications director Colonel Huhtinen said Ukraine was the most likely party behind the attack on a Russian vessel in the Baltic Sea, according to remarks cited by Yle. He added that the reason for the strike was unknown.",
+      "source_urls": [
+        "https://t.me/tass_agency/407058"
+      ]
+    }
+  ]
+}
