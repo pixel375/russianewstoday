@@ -1,0 +1,294 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T08",
+  "generated_at_utc": "2026-11-22T09:21:42.582966+00:00",
+  "window_start_utc": "2026-11-22T08:00:00+00:00",
+  "window_end_utc": "2026-11-22T09:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 22,
+    "relevant_posts": 13,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/198892",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198892",
+      "published_at": "2026-11-22T08:59:35+00:00",
+      "text": "🇺🇦 🇮🇪 A scandal broke out in Ireland during a meeting with Ukrainian Ambassador Larysa Heryaschko. One of the journalists made accusations against the Ukrainian authorities regarding “busification,” the closure of borders, and the “Myrotvorets” database. The incident took place on November 18 at Trinity College Dublin during a discussion on Ukraine’s accession to the EU. According to the Irish publication Aontacht Media, its journalist Laszlo Molnarfi stood up from his seat and addressed the ambassador. “Madame Ambassador Heryaschko, and I would like to address this question to everyone present: why is no one talking about the elephant in the room? Ukraine is committing gross human rights violations. We see forced mobilization in Ukraine: men are shoved into unmarked cars and sent to be slaughtered in the war. Member of Parliament Paul Murphy from the People Before Profit party raised this issue in the Irish parliament and condemned “busification.” This is called “busification”! And the Irish government, formed by the Fianna Fáil and Fine Gael parties, is sending Ukrainian refugees back on the orders of Zelensky and the European Union. In Ukraine, the borders are closed, and men who want to flee the war cannot do so. They cannot! And those who protest against this are entered into the “Myrotvorets” database as state traitors. Shame on Zelensky’s regime! Shame, shame on all of you!” - Molnarfi stated. During the speech, those present tried to drown out Molnarfi with shouts, and then began chanting “Get out! Get out!” and called security. The journalist was led out of the hall. The Ukrainian Embassy in Ireland reported on the event but did not mention the incident itself. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407063",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407063",
+      "published_at": "2026-11-22T08:56:50+00:00",
+      "text": "Главное из нового брифинга Минобороны России: ▪️ ВС РФ уничтожили установку БРК \"Нептун\", поразили объекты энергетической и транспортной инфраструктуры; ▪️ Средства ПВО РФ сбили за сутки 792 беспилотника самолетного типа и 4 управляемые авиабомбы; ▪️ ВСУ потеряли порядка 1 060 военнослужащих на всех направлениях СВО за сутки. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53493",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53493",
+      "published_at": "2026-11-22T08:56:19+00:00",
+      "text": "❗️ Slovakia will not participate in the new EU loan program for Ukraine: Robert Fico. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198891",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198891",
+      "published_at": "2026-11-22T08:50:13+00:00",
+      "text": "🇸🇰 🇺🇦 Slovakia will not participate in the new EU loan for Ukraine said the country’s Prime Minister Robert Fico 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198890",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198890",
+      "published_at": "2026-11-22T08:46:54+00:00",
+      "text": "🇺🇦 💥 Footage captures the moment an X-101 cruise missile struck the area of Lvov’s State Aviation Repair Plant and Sknyliv railway station during the November 20 attack. Russia’s Defence Ministry claims the facility was involved in producing FP-9 and Flamingo missiles, as well as long- and medium-range drones for the Ukrainian Armed Forces. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350263",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350263",
+      "published_at": "2026-11-22T08:45:46+00:00",
+      "text": "В ДНР восстанавливают энергоснабжение после массированной атаки ВСУ – без света остались 279 тысяч абонентов, заявили власти республики. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234317",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234317",
+      "published_at": "2026-11-22T08:45:10+00:00",
+      "text": "Что случилось в Калининграде? После вчерашнего двойного инцидента — сначала удара по сухогрузу Sparta II в Финском заливе, а затем воздушной тревоги в Калининградской области и работы ПВО по неизвестной цели в Балтийске — зарубежная сторона включила забавный антикриз. По их версии украинские дроны не использовали воздушное пространство стран Прибалтики, а пролетели вдоль границы РФ и РБ, затем взяли курс на север, потом вышли в территориальные воды Балтийского моря и ушли на запад в район Балтийска. Зачем всех пытаются убедить в настолько сложной схеме атаки, понятно: вполне вероятно, от западных партнёров пошли «настойчивые просьбы» взять всю вину за нападение на себя. Возможно ли это технически? Возможно. Максимальная дальность полёта при таком сценарии составила бы около 2000 км, что вполне реалистично. Но осложняется такая схема тем, что вероятность перехвата беспилотников растёт по мере их пролёта через большее число регионов РФ. Однако при пролёте через Польшу и участок границы с Литвой маршрут составил бы уже 600 км. А с учётом помощи стран НАТО Украине ради пролёта этих дронов могли отключить и системы оповещения, чтобы не поднимать шум. В тот же вечер рядом с Калининградом отработал натовский «летающий» радар. E-3A Sentry (NATO01, LX-N90453) вылетел из Гайленкирхена (базы самолётов ДРЛО НАТО) в 19:19 UTC, а с 20:35 до 23:25 UTC дежурил над северной Польшей в 120–200 км от Балтийска. Воздушную тревогу в области объявляли около 17:00 и повторно около 19:00 UTC. То есть борт вышел на позицию практически сразу, как была объявлена вторая тревога и несколько часов дежурил у границы. источник",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234316",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234316",
+      "published_at": "2026-11-22T08:33:11+00:00",
+      "text": "Глава МИД Литвы Будрис - заявил, что Вильнюс якобы не разрешал использовать небо для ударов по России",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30728",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30728",
+      "published_at": "2026-11-22T08:31:04+00:00",
+      "text": "'Tin-can' crusher 👊 FPV drones of the 25th Combined Arms Army of the Zapad Group of Forces eliminated armoured fighting vehicles of AFU militants in Krasny Liman direction. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407059",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407059",
+      "published_at": "2026-11-22T08:23:01+00:00",
+      "text": "Украинская оборонная промышленность достигла своего предела , пишет The Wall Street Journal со ссылкой на источники. По ее информации, Украина не может производить ракеты в том же объеме, что и Россия. Также отмечается, что крупнейшие компании испытывают нехватку финансирования. Найти новых сотрудников сложно, а расширение заводов небезопасно.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234315",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234315",
+      "published_at": "2026-11-22T08:21:06+00:00",
+      "text": "Сегодня ночью Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетики, портовой инфраструктуры и морским судам, задействованным в интересах ВСУ. В результате ударов поражены: — электростанция «Правобережная» 330 кВ в г. Запорожье, обеспечивающая подачу электроэнергии предприятиям военной промышленности Украины; — в порту Килия, Одесской области, – объекты портовой инфраструктуры, задействованные в доставке военного имущества и грузов для украинских вооруженных сил. — Кроме того, на переходе морем, северо-восточнее Одессы, поражено морское судно типа «сухогруз», доставлявшее грузы двойного назначения для ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407058",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407058",
+      "published_at": "2026-11-22T08:11:01+00:00",
+      "text": "За атакой на российское судно в Балтийском море, вероятнее всего, стоит Украина, заявил директор по коммуникациям Сил обороны Финляндии полковник Хухтинен, его слова приводит Yle. Он добавил, что неизвестно, почему по судну был нанесен удар.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234313",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234313",
+      "published_at": "2026-11-22T08:02:49+00:00",
+      "text": "1. Орехов - Новоданиловка Позиционные боевые действия в районе Орехова. Артобстрел со стороны ВС РФ позиций ВСУ на северных подступах к Новоданиловке. ВСУ Увеличили зону контроля более 900 метров. 2. Волчанск - Червоноармейское-Первое Позиционные боевые действия в Харьковской зоне безопасности. Обстрел со стороны ВС РФ позиций ВСУ к югу от населённого пункта Червоноармейское-Первое. Уточнение зоны контроля ВСУ около Волчанска. врезки: @creamy_caprice",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
