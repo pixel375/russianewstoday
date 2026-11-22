@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T18",
-  "generated_at_utc": "2026-11-22T19:26:33.252943+00:00",
-  "window_start_utc": "2026-11-22T18:00:00+00:00",
-  "window_end_utc": "2026-11-22T19:00:00+00:00",
+  "hour_id": "2026-11-22T19",
+  "generated_at_utc": "2026-11-22T20:23:45.727365+00:00",
+  "window_start_utc": "2026-11-22T19:00:00+00:00",
+  "window_end_utc": "2026-11-22T20:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 8
+      "raw_count": 5
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
-      "pages": 1,
-      "raw_count": 1
+      "pages": 2,
+      "raw_count": 5
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
@@ -39,49 +39,49 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 6
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 2
     },
     {
       "handle": "nab_ukraine",
@@ -99,168 +99,142 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 30,
-    "relevant_posts": 12,
-    "deduplicated_posts": 10,
-    "candidate_posts": 10
+    "raw_posts": 25,
+    "relevant_posts": 10,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
   },
   "posts": [
     {
-      "id": "intelslava/98429",
+      "id": "dva_majors/102381",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102381",
+      "published_at": "2026-11-22T19:58:58+00:00",
+      "text": "📰 📰 📰 Альтернативный путь из Ростовской области в Крым - в объезд Крымского моста - пролегает по трассе Р-280 \"Новороссия\". Маршрут, который президент Путин сравнил с легендарной \"дорогой жизни\", проходит через три фронтовых региона. Что должны учесть водители при движении по \"Новороссии\"? Какие участки требуют особого внимания? И стоит ли заранее позаботиться о топливе? Подробности – в репортаже военкора \"Вестей\" Михаила Андроника в программе \"Вести недели\" с Евгением Поповым на телеканале \"Россия 1\" . Чтобы не пропустить наши эксклюзивы: Сайт | MAX | Telegram",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407093",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407093",
+      "published_at": "2026-11-22T19:58:00+00:00",
+      "text": "Трамп заявил европейцам, что миллиарды долларов было бы предпочтительнее не расходовать на поддержку Киева, а вкладывать в свои экономики. Это подтвердил Джаред Кушнер.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98440",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98429",
-      "published_at": "2026-11-22T18:49:41+00:00",
-      "text": "🇫🇮 🇷🇺 ⚡ The Finnish Border Guard has announced the completion of towing operations for the Russian vessel SPARTA II (IMO: 9160994). The vessel is currently outside Finland's exclusive economic zone in the Gulf of Finland and is likely awaiting further towing to St. Petersburg by Russia. The vessel \"Sparta II\" was left without power and was abandoned after a suspected Ukrainian drone attack yesterday off the coast of Finland. The Finnish Border Guard and Coast Guard acted in accordance with international maritime law, providing assistance to the vessel, evacuating the crew, and extinguishing fires on board before towing it outside Finland's exclusive economic zone. @IntelSlava",
+      "url": "https://t.me/intelslava/98440",
+      "published_at": "2026-11-22T19:55:02+00:00",
+      "text": "🇷🇺 🇱🇾 🇺🇦 ⚡️ — Besides the corvette, two more Russian cargo ships were attacked off the coast of Libya: ANASTASIIA and ASCALON. If the first was lucky and the Ukrainian USV entered the concrete barriers (photo 1) of the port of Benghazi, then the second absorbed…",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "mod_russia_en/30738",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30738",
-      "published_at": "2026-11-22T18:45:24+00:00",
-      "text": "Cargo must arrive on time 📍 Dnepropetrovsk direction 🚛 Servicemen of the supply groups of the Tsentr Group of Forces cover over 100 kilometres a day in Dnepropetrovsk direction. Every tour to the front line takes place under the sights of enemy drones. ▫️ The enemy hides 'awaiter' ambush drones along the roads and also attacks the convoys with fixed-wing strike drones. 💥 To break through, the crews continuously scan the sky . Upon spotting an 'awaiter' drone or an incoming attack drone, gunners immediately open heavy fire and shoot down the targets on approach. 🤝 Thanks to the composure of the drivers and the marksmanship of the gunners, the cargo reaches the front line right on schedule. 🔹 Russian Defence Ministry",
+      "id": "intelslava/98437",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98437",
+      "published_at": "2026-11-22T19:55:01+00:00",
+      "text": "🇷🇺 🇱🇾 🇺🇦 ⚡️ — The Russian corvette \"Merkury\" sank after an attack at the port of Benghazi. @IntelSlava",
       "text_truncated": false,
-      "related_urls": [],
+      "related_urls": [
+        "https://t.me/intelslava/98433"
+      ],
       "event_signals": [
-        "drone",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78094",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78094",
-      "published_at": "2026-11-22T18:43:53+00:00",
-      "text": "«Деликатные» немецкие танки в Литве. Железная дорога делает их миролюбивыми Поразительное «миролюбие» немецкого военного командования. Оно изменило план учений Grand Eagle 26 на территории Литвы. Ранее предполагалось, что техника 10-й немецкой танковой дивизии проследует через Польшу в Литву в колоннах. Теперь решили везти технику по железной дороге. Причина принятия такого решения удивляет. Возникли, дескать, опасения относительно того, как Москва воспримет масштабное движение военной техники к восточным рубежам НАТО. В немецких СМИ сообщают о том, что решение приняли после консультаций в НАТО из опасений, что демонстративное передвижение немецких колонн к восточному флангу альянса может потенциально спровоцировать русских. Кто бы объяснил — почему переброска танков по железной дороге менее опасна для России и союзной Белоруссии, чем движение техники в колоннах? В колоннах танки «агрессивные», а в железнодорожных эшелонах — ласковые и пушистые? Уместно вспомнить о том, как переброску войск на восток немцы объясняли перед прошлой «защиты европейской цивилизации от восточного варварства». В 1941 г. они к этому серьезно относились, не то что сейчас. Специальная служба для этого создана была. Чего только ее сотрудники не придумывали. Запущена была легенда о том, что проводится гигантский отвлекающий маневр — только для этого немецкие войска перебрасываются поближе к границам СССР. А на самом деле вермахт якобы готовится к высадке в Англии. Карты Британии и англо-немецкие разговорники в войска поступали. И, надо признать, что не зря немецкие специалисты по дезинформации старались. 22 июня 1941 г. это стало очевидным. Нынешние халтурщики способны лишь забавную ахинею с перевозкой военной техники по железной дороге, чтобы Россию не спровоцировать придумать. Налицо совершенная неспособность укоротить не по чину длинные языки мелкой восточноевропейской шушеры. Что они только не несут… Глава МИД Литвы Будрис вещал: «Мы должны показать русским, что можем проникнуть в небольшое укрепление, которое они построили в Калининграде. У НАТО есть необходимые средства для уничтожения русских баз в эксклаве». Они должны показать русским… О том, что от Литвы в процессе показа останется, задумываться не стоит. Разве можно допускать такую болтовню до наступления часа Х? Надо учитывать, что прибалтийские политики отличаются «умом и сообразительностью» не меньше, чем птица Говорун. Вещала неподражаемая глава евродипломатии Каллас о том, как «повезло ирландцам с соседями — англичанами». На фоне того, что англичане в Ирландии творили, такое откровение выглядит забавно. Но о военных намерениях НАТО Кая не болтала. Такое нести можно ей и впредь позволить, жизнь чуть-чуть веселее станет. А с перлами воинственного Будриса натовским пропагандистам надо что-то делать. Ему сейчас надлежит лапшу на уши желающих вешать о том, что «летающие объекты» из Литвы в сторону Калининграда не летают. Вдруг он все перепутает, и опять призовет крушить укрепления в Калининграде? Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "id": "dva_majors/102380",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102380",
+      "published_at": "2026-11-22T19:50:39+00:00",
+      "text": "✨ Сбор на Запорожский фронт ✨ 552 человека участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка для дооснащения цеха БПЛА и обеспечения его бесперебойным электроснабжением. ▪️ Эл.станц. -4шт- 1 000 000 ₽ ▪️ Генератор -2шт- 600 000 ₽ ▪️ Станки для опты -2шт- 700 000 ₽ ▪️ Оборуд. FPV - 450 000 ₽ Необходимо: 2 750 000 ₽ Собрано за сутки: 89 954 ₽ Собрано всего: 2 343 949 ₽ Осталось собрать: 406 051 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234387",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234387",
+      "published_at": "2026-11-22T19:22:06+00:00",
+      "text": "Сегодня днем Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетики и морским судам, задействованным в интересах ВСУ. В результате ударов поражены: — электроподстанция 330 кВ в н.п. Каменская Днепропетровской области, обеспечивающая работу предприятий военной промышленности Украины; — в акватории Черного моря юго-западнее Николаева поражено морское судно типа «сухогруз», доставлявшее грузы двойного назначения для обеспечения ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198956",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198956",
+      "published_at": "2026-11-22T19:20:14+00:00",
+      "text": "🇺🇦 New strikes in Kharkov 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234381",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234381",
+      "published_at": "2026-11-22T19:03:26+00:00",
+      "text": "Купянское направление: штурмовики 121-го мотострелкового полка 68-й мотострелковой дивизии зачистили опорный пункт националистов из 24-го ошп «Айдар» На Купянском направлении штурмовой отряд 121-го мотострелкового полка 68-й мотострелковой дивизии успешно зачистил опорный пункт, обороняемый боевиками 24-го отдельного штурмового полка «Айдар». Подразделение противника совсем недавно было переброшено на этот участок с Запорожского направления и с ходу понесло тяжёлые потери — как в живой силе, так и в артиллерийских орудиях и бронетехнике. В качестве трофеев наши бойцы захватили флаг с нацистской символикой и блокноты с записями, также исписанные свастикой. Помимо идеологической атрибутики, на позициях националистов был обнаружен набор специфических психотропных и сильнодействующих препаратов: Фенобарбитал — применяется для подавления чувства страха и усталости, вызывая искусственную эйфорию, приподнятость и повышенную двигательную активность. Септонез — синтетическое обезболивающее, используемое в анестезиологии (при передозировке приводит к летальному исходу). Доматол — антипсихотический препарат, применяемый для купирования острого психомоторного возбуждения при тяжёлых формах наркотической и алкогольной зависимости. «Стеклянная пыль» — средство для причинения мучительной и продолжительной смерти, известное ещё со времён нацистских концлагерей. Очередное якобы «элитное» подразделение противника на Купянском участке разбито, а его трофеи наглядно показывают, на чём именно держится боевой дух украинских националистов. источник",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198954",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198954",
+      "published_at": "2026-11-22T19:03:07+00:00",
+      "text": "🇺🇸 🇺🇦 🇷🇺 Kushner: \"Article 5-like\" guarantees for Ukraine, but only inside a new European security deal Jared Kushner, Trump's son-in-law, who is working on the Ukraine talks alongside special envoy Steve Witkoff, has laid out Washington's thinking on security guarantees in a long post on X. He says Trump is willing to consider \"Article 5-like\" guarantees for Ukraine, and calls Russia's readiness to discuss them \"a major step forward\" and a sign Moscow is serious about peace. He agrees with Zelensky that any guarantee must be specific, credible and clearly documented. But he attaches conditions. Trump would have to personally approve any guarantee, subject to the constitutional process and Congress, and would only do so if it clearly served US interests and the wider arrangements made it \"highly unlikely\" the guarantee would ever be used. That's why, Kushner says, guarantees for Ukraine can't be settled separately from a new post-war European security architecture. He wants to identify where existing mechanisms \"failed to prevent this war\" and build permanent channels for consultation, crisis communication, military deconfliction, greater transparency and reciprocal steps to reduce escalation. The goal, in his words, is a Europe where Russia is confident NATO isn't seeking confrontation, and NATO is confident Russia will respect its neighbors. He adds that Ukraine needs a long-term prosperity plan and reforms, and that American and European commitments \"must be matched by Ukraine's commitment to its own success.\" Talks with Ukraine, Europe and Russia will continue in the coming weeks, and \"nothing is agreed until it is agreed.\" Notably, Kushner posted this as a quote of Zelensky's post calling NATO membership the clearest guarantee, and he never mentions NATO membership at all. Also worth remembering: Article 5 itself doesn't oblige anyone to fight. Each member only commits to take \"such action as it deems necessary.\" An \"Article 5-like\" guarantee would likely be just as optional. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "moscow"
       ],
       "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198952",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198952",
-      "published_at": "2026-11-22T18:37:45+00:00",
-      "text": "🇺🇦 A shooting in Kharkov, has left one person possibly a military personal dead, according to social media reports 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102379",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102379",
-      "published_at": "2026-11-22T18:33:55+00:00",
-      "text": "📝 Так платите той же монетой 📝 Атака на корвет в ливийском Бенгази — очередное напоминание о существовании реальных угроз вдали от зоны СВО. Это можно было и осознать, вспомнив, что удары БЭК и БЛА по судам в Средиземном море уже наносились. А еще это повод вспомнить простую истину: если сидеть в глухой обороне и надеяться на нейтральность вод, то нападения не прекратятся, зато тональность заявлений (и действий) со стороны западных стран будет все более резкой. 🖍 Решение есть — отвечать той же монетой, атакуя в Средиземном море, суда связанные с т.н. Украиной (ну, или почти связанные). Ведь в Черном море уже появились неизвестные БЭК, отправившие на дно несколько сухогрузов и газовозов, шедших в Одесскую область. Еще год назад такая затея показалась бы слишком смелой, но сейчас-то перед глазами пример продуктивной кампании против украинского судоходства. Реакция стран НАТО на происходящее у собственных территориальных вод весьма спокойная даже в плане публичных комментариев. ❗️ Как показала практика, именно такие акции лучше всего воздействуют на противника и его спонсоров. Именно эскалация с российской стороны может поспособствовать общей деэскалации, и не только в Средиземном море. Да и, в конце концов, зачем-то ведь нужна зарубежная военная инфраструктура в этом регионе, в которую вкладывались еще с довоенных лет. Не правда ли? #Ливия #Россия #Украина ✉ MAX 💸 Поддержать нас",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198950",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198950",
-      "published_at": "2026-11-22T18:24:49+00:00",
-      "text": "📝 So pay them back in kind 📝 An attack on a corvette in Libyan Benghazi — yet another reminder of the existence of real threats far from the SMO zone. This could have been understood by recalling that strikes by USVs and drones against ships in the Mediterranean have already been carried out. And it's also a reason to recall a simple truth: if you sit in a passive defense and hope for the neutrality of the waters, attacks won't stop, but the tone of statements (and actions) from Western countries will become increasingly harsh. 🖍 There is a solution — pay them back in kind by attacking in the Mediterranean, targeting vessels connected to so-called Ukraine (or almost connected). After all, unknown USVs have already appeared in the Black Sea, sending several cargo ships and tankers heading to Odesa Region to the bottom. A year ago, such an undertaking would have seemed too bold, but now there's an example right before our eyes of a productive campaign against Ukrainian shipping. NATO countries' reaction to what's happening near their own territorial waters is quite calm even in terms of public comments. ❗️ As practice has shown, such actions have the best effect on the enemy and his sponsors. It is precisely escalation from the Russian side that can contribute to overall de-escalation, and not only in the Mediterranean. And, after all, there must be a reason for the foreign military infrastructure in this region, which has been invested in since the pre-war years. Isn't that right? #Libya #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/rybar_in_english/35950"
-      ],
-      "event_signals": [
-        "drone",
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/rian_ru/350283"
-      ]
-    },
-    {
-      "id": "DDGeopolitics/198946",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198946",
-      "published_at": "2026-11-22T18:09:30+00:00",
-      "text": "🇺🇦 🇷🇺 🇱🇾 Footage reportedly shows the moment a sea drone hit a Russian cargo ship off Benghazi. It's apparently the same ship seen burning in the earlier videos. The video is filmed off a screen showing the feed of a drone overhead, spotting and guiding the…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78091",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78091",
-      "published_at": "2026-11-22T18:08:18+00:00",
-      "text": "Русский дрон поразил сегодня ж/д дрезину в районе Днепропетровска. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78090",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78090",
-      "published_at": "2026-11-22T18:05:11+00:00",
-      "text": "Момент удара украинского БЭК «Магура» по кораблю ВМФ РФ в порту ливийского Бенгази. Ливийские источники сообщают, что в ночной атаке на корвет «Меркурий» принимало участие до 6-ти БЭК, два из которых попали по кораблю. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/voenkorKotenok/78088"
-      ],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350283",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350283",
-      "published_at": "2026-11-22T18:00:40+00:00",
-      "text": "Спецоперация. Обстановка и главные события на 22 ноября: ▪️ Армия России установила контроль над населенным пунктом Сосновый Бор Харьковской области, сообщило Минобороны. ▪️ ПВО за сутки уничтожила 792 дрона ВСУ самолетного типа. ▪️ ВСУ за сутки потеряли более 1060 военнослужащих. ▪️ ВС России поразили в порту Килия Одесской области объекты портовой инфраструктуры, задействованные в доставке военных грузов для ВСУ. ▪️ Под удар также попали электроподстанции в Запорожье и Днепропетровской области - они обеспечивали работу предприятий ВПК Украины. ▪️ Оборонная промышленность Украины достигла предела роста, пишет The Wall Street Journal. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kharkiv",
-        "odesa",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/DDGeopolitics/198950"
-      ]
     }
   ]
 }

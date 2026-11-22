@@ -1,0 +1,240 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T19",
+  "generated_at_utc": "2026-11-22T20:23:45.727365+00:00",
+  "window_start_utc": "2026-11-22T19:00:00+00:00",
+  "window_end_utc": "2026-11-22T20:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 2,
+      "raw_count": 5
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 25,
+    "relevant_posts": 10,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "dva_majors/102381",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102381",
+      "published_at": "2026-11-22T19:58:58+00:00",
+      "text": "📰 📰 📰 Альтернативный путь из Ростовской области в Крым - в объезд Крымского моста - пролегает по трассе Р-280 \"Новороссия\". Маршрут, который президент Путин сравнил с легендарной \"дорогой жизни\", проходит через три фронтовых региона. Что должны учесть водители при движении по \"Новороссии\"? Какие участки требуют особого внимания? И стоит ли заранее позаботиться о топливе? Подробности – в репортаже военкора \"Вестей\" Михаила Андроника в программе \"Вести недели\" с Евгением Поповым на телеканале \"Россия 1\" . Чтобы не пропустить наши эксклюзивы: Сайт | MAX | Telegram",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407093",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407093",
+      "published_at": "2026-11-22T19:58:00+00:00",
+      "text": "Трамп заявил европейцам, что миллиарды долларов было бы предпочтительнее не расходовать на поддержку Киева, а вкладывать в свои экономики. Это подтвердил Джаред Кушнер.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98440",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98440",
+      "published_at": "2026-11-22T19:55:02+00:00",
+      "text": "🇷🇺 🇱🇾 🇺🇦 ⚡️ — Besides the corvette, two more Russian cargo ships were attacked off the coast of Libya: ANASTASIIA and ASCALON. If the first was lucky and the Ukrainian USV entered the concrete barriers (photo 1) of the port of Benghazi, then the second absorbed…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98437",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98437",
+      "published_at": "2026-11-22T19:55:01+00:00",
+      "text": "🇷🇺 🇱🇾 🇺🇦 ⚡️ — The Russian corvette \"Merkury\" sank after an attack at the port of Benghazi. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/intelslava/98433"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102380",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102380",
+      "published_at": "2026-11-22T19:50:39+00:00",
+      "text": "✨ Сбор на Запорожский фронт ✨ 552 человека участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка для дооснащения цеха БПЛА и обеспечения его бесперебойным электроснабжением. ▪️ Эл.станц. -4шт- 1 000 000 ₽ ▪️ Генератор -2шт- 600 000 ₽ ▪️ Станки для опты -2шт- 700 000 ₽ ▪️ Оборуд. FPV - 450 000 ₽ Необходимо: 2 750 000 ₽ Собрано за сутки: 89 954 ₽ Собрано всего: 2 343 949 ₽ Осталось собрать: 406 051 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234387",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234387",
+      "published_at": "2026-11-22T19:22:06+00:00",
+      "text": "Сегодня днем Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетики и морским судам, задействованным в интересах ВСУ. В результате ударов поражены: — электроподстанция 330 кВ в н.п. Каменская Днепропетровской области, обеспечивающая работу предприятий военной промышленности Украины; — в акватории Черного моря юго-западнее Николаева поражено морское судно типа «сухогруз», доставлявшее грузы двойного назначения для обеспечения ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198956",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198956",
+      "published_at": "2026-11-22T19:20:14+00:00",
+      "text": "🇺🇦 New strikes in Kharkov 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234381",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234381",
+      "published_at": "2026-11-22T19:03:26+00:00",
+      "text": "Купянское направление: штурмовики 121-го мотострелкового полка 68-й мотострелковой дивизии зачистили опорный пункт националистов из 24-го ошп «Айдар» На Купянском направлении штурмовой отряд 121-го мотострелкового полка 68-й мотострелковой дивизии успешно зачистил опорный пункт, обороняемый боевиками 24-го отдельного штурмового полка «Айдар». Подразделение противника совсем недавно было переброшено на этот участок с Запорожского направления и с ходу понесло тяжёлые потери — как в живой силе, так и в артиллерийских орудиях и бронетехнике. В качестве трофеев наши бойцы захватили флаг с нацистской символикой и блокноты с записями, также исписанные свастикой. Помимо идеологической атрибутики, на позициях националистов был обнаружен набор специфических психотропных и сильнодействующих препаратов: Фенобарбитал — применяется для подавления чувства страха и усталости, вызывая искусственную эйфорию, приподнятость и повышенную двигательную активность. Септонез — синтетическое обезболивающее, используемое в анестезиологии (при передозировке приводит к летальному исходу). Доматол — антипсихотический препарат, применяемый для купирования острого психомоторного возбуждения при тяжёлых формах наркотической и алкогольной зависимости. «Стеклянная пыль» — средство для причинения мучительной и продолжительной смерти, известное ещё со времён нацистских концлагерей. Очередное якобы «элитное» подразделение противника на Купянском участке разбито, а его трофеи наглядно показывают, на чём именно держится боевой дух украинских националистов. источник",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198954",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198954",
+      "published_at": "2026-11-22T19:03:07+00:00",
+      "text": "🇺🇸 🇺🇦 🇷🇺 Kushner: \"Article 5-like\" guarantees for Ukraine, but only inside a new European security deal Jared Kushner, Trump's son-in-law, who is working on the Ukraine talks alongside special envoy Steve Witkoff, has laid out Washington's thinking on security guarantees in a long post on X. He says Trump is willing to consider \"Article 5-like\" guarantees for Ukraine, and calls Russia's readiness to discuss them \"a major step forward\" and a sign Moscow is serious about peace. He agrees with Zelensky that any guarantee must be specific, credible and clearly documented. But he attaches conditions. Trump would have to personally approve any guarantee, subject to the constitutional process and Congress, and would only do so if it clearly served US interests and the wider arrangements made it \"highly unlikely\" the guarantee would ever be used. That's why, Kushner says, guarantees for Ukraine can't be settled separately from a new post-war European security architecture. He wants to identify where existing mechanisms \"failed to prevent this war\" and build permanent channels for consultation, crisis communication, military deconfliction, greater transparency and reciprocal steps to reduce escalation. The goal, in his words, is a Europe where Russia is confident NATO isn't seeking confrontation, and NATO is confident Russia will respect its neighbors. He adds that Ukraine needs a long-term prosperity plan and reforms, and that American and European commitments \"must be matched by Ukraine's commitment to its own success.\" Talks with Ukraine, Europe and Russia will continue in the coming weeks, and \"nothing is agreed until it is agreed.\" Notably, Kushner posted this as a quote of Zelensky's post calling NATO membership the clearest guarantee, and he never mentions NATO membership at all. Also worth remembering: Article 5 itself doesn't oblige anyone to fight. Each member only commits to take \"such action as it deems necessary.\" An \"Article 5-like\" guarantee would likely be just as optional. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
