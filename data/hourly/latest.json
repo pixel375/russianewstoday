@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T03",
-  "generated_at_utc": "2026-11-22T04:21:08.110665+00:00",
-  "window_start_utc": "2026-11-22T03:00:00+00:00",
-  "window_end_utc": "2026-11-22T04:00:00+00:00",
+  "hour_id": "2026-11-22T04",
+  "generated_at_utc": "2026-11-22T05:26:11.453383+00:00",
+  "window_start_utc": "2026-11-22T04:00:00+00:00",
+  "window_end_utc": "2026-11-22T05:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
@@ -75,7 +75,7 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "voenkorKotenok",
@@ -99,24 +99,24 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 6,
+    "raw_posts": 8,
     "relevant_posts": 1,
     "deduplicated_posts": 1,
     "candidate_posts": 1
   },
   "posts": [
     {
-      "id": "tass_agency/407041",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407041",
-      "published_at": "2026-11-22T03:32:01+00:00",
-      "text": "Украине не хватает на отопительный сезон около 800 млн кубометров газа, для его закупки потребуется около $800 млн. Об этом свидетельствуют подсчеты ТАСС на основе данных украинского Министерства энергетики.",
+      "id": "intelslava/98398",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98398",
+      "published_at": "2026-11-22T04:04:51+00:00",
+      "text": "🇷🇺 🇪🇪 🇫🇮 🇺🇦 ⚡️ — Russian and NATO vessels are working together to extinguish a fire aboard the Russian cargo ship Sparta II, which was attacked by Ukrainian forces. Finland has authorized the Western-sanctioned Russian rescue vessel Murman to enter its territorial waters to assist the damaged cargo ship. Finnish and Estonian vessels are also involved in the rescue operation. Finnish Border Guard statement: The firefighting operation involved the rescue tugs Ajax and H. Kanter, operated by Alfons Håkans, as well as the Estonian Navy vessel Kindral Kurvits. At the request of the Border Guard, the Russian rescue vessel Murman is also participating in the rescue operation. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy",
-        "procurement"
+        "sanctions",
+        "strike"
       ],
       "possible_duplicate_urls": []
     }
