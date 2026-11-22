@@ -1,0 +1,200 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T14",
+  "generated_at_utc": "2026-11-22T15:26:20.675014+00:00",
+  "window_start_utc": "2026-11-22T14:00:00+00:00",
+  "window_end_utc": "2026-11-22T15:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 18,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "rybar_in_english/35941",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35941",
+      "published_at": "2026-11-22T14:46:58+00:00",
+      "text": "📝 Regularity is not equivalent to systematicity 📝 Since the subject of the Lviv aircraft plant came up, one can recall that one of the most popular criticisms of fire strike organization boils down to the fact that they hit a target once, declare it destroyed, and never mention it again. Well, the example of the aircraft plant in Lviv shows that this has not been so relevant for a couple of years now. The facility first came under attack back in March 2022, and the total number of strikes has probably already exceeded a dozen. It got to the point that they even didn't spare the \"Oreshnik\" on the enterprise. And this example is not unique. One can recall that Ukrainian energy infrastructure has been struck since October 2022, and oil depots since the very first weeks of the SMO. The bridge in Zatoka has not been spared anything short of an atomic bomb over five years. But the facilities continue to function. ❗️ Why? Because a systematic approach is not just about regularity. As we have written more than once , it includes goal-setting, determining effectiveness criteria, task formulation, determining optimal force and resource allocation, organizing the strike, and other aspects. If one reduces systematicity only to frequency, then what happens is that targets get hit from time to time with a couple of missiles or drones without serious long-term effect. Although if all those munitions were launched at once, the result would be different. 📌 Again, there were examples of the opposite approach: some facilities were worked over so well that on so-called Ukraine they even refused to restore them. But the absence of major problems with electricity (the KRYE at Novokiyivska substation is intact after all) or bridges in Kyiv speaks for itself. We would not be surprised if it all comes down to the idea of proposing the use of neural network models in planning fire strikes, which have already proven themselves in organizing business processes. To optimally select targets and allocate resources for them. The result may surprise. #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234345",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234345",
+      "published_at": "2026-11-22T14:45:16+00:00",
+      "text": "1. Волчанск - Великий Бурлук - Хрипуны - Анискино Последствия боевых действий в Харьковской зоне безопасности. Актуальные кадры, октябрь-ноябрь 2026 г. Военнослужащие ВС РФ разворачивают флаги Российской Федерации в населённых пунктах Хрипуны и Анискино, подтверждая контроль занятых ранее населённых пунктов. Уточнение зоны контроля ВС РФ. 2. Купянск - Заосколье Последствия боевых действий в Купянске. Военнослужащие ВС РФ фиксируют контроль позиций в локомотивном депо Купянск - Сортировочный. Увеличение зоны контроля ВС РФ 1 км в южной части города в Заосколье. @creamy_caprice",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234344",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234344",
+      "published_at": "2026-11-22T14:37:41+00:00",
+      "text": "«Для нас ядерная война означает один удар — и все кончено. Мы не Россия с ее 11 часовыми поясами» — заявил кандидат в президенты Франции Жан-Люк Меланшон",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234343",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234343",
+      "published_at": "2026-11-22T14:21:06+00:00",
+      "text": "Прилет по киевскому водоканалу во время массированного удара в ночь на пятницу был сравнительно щадящим - не по оборудованию водозабора, не по водоводам, ведущим от него в резервуары для отстоя, не по самим этим резервуарам и системе фильтрации; будь иначе, большинство потребителей в местечке могли бы прощаться с водой на недели, а то и месяцы. Но и выбранных целей хватило, чтобы значительная часть правого берега (на левом подачу восстановили довольно быстро) сидела без воды третьи сутки без понятных сроков возобновления подачи. Скорее всего, ушатали насосные станции, гонящие в трубы уже подготовленную воду, трансформаторы к ним или что-нибудь еще в подобном духе. Но даже при щадящем характере удара технологический объект киевского водоканала попал под прямую раздачу, по-моему, впервые - прецеденты предыдущего обесточивания тут не в счет. Сколько раз водоснабжение оказывалось под прямыми ударами в ДНР, сосчитать давно невозможно. После одного из таких ударов экстремист, террорист, иноагент, а в будущем хорошо бы еще и висельник Гордон советовал жителям Донецка пить мочу. Киевским туземцам, многие и многие из которых скакали до потолка от незамутненного свиного счастья при виде любых бед жителей Донбасса, Новороссии или Крыма, сейчас, кажется, подобного не советует - впрочем, внимательно не вглядывался. Бумеранг, таким образом, начал свое возвращение. В каких объемах он дальше будет отсчитывать око за око киевлянам, и им ли одним - покажет время, надеюсь, не слишком долгое. Но даже первая проба пера выходит достаточно красноречивой, чтобы та часть местного стада, у которой между ушами сохранилось хоть что-то, получила дополнительный стимул бежать из местечка без оглядки.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "donetsk",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53500",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53500",
+      "published_at": "2026-11-22T14:12:32+00:00",
+      "text": "❗️ The Czech Prime Minister, Babiš, criticized the EU budget proposal, including the funding allocated to Kiev. \"And why should we give money to Ukraine from the European budget? Why? It should receive funds from a non-European budget.\" @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38573",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38573",
+      "published_at": "2026-11-22T14:06:01+00:00",
+      "text": "Сармат выходит на тропу войны Британский Международный институт стратегических исследований (IISS) опубликовал спутниковые снимки, которые, по оценке его аналитиков, свидетельствуют о начале развёртывания российской межконтинентальной баллистической ракеты РС-28 «Сармат». На снимках запечатлён позиционный район 62-й ракетной дивизии в районе Ужура Красноярского края. В докладе института указывается, что на снимках от 6 июня 2026 года видны признаки подготовки шахтной пусковой установки к размещению ракеты. Британские аналитики считают, что работы могли уже перейти к заключительной стадии, вплоть до загрузки ракеты в шахту. Однако спутниковые данные пока не позволяют однозначно утверждать, что комплекс полностью готов к боевому применению. Спутники американской компании Vantor обнаружили возле ракетной шахты не менее шести транспортных и вспомогательных машин, в том числе специализированный транспортёр-установщик для перевозки и загрузки ракетных секций. Его подъёмная платформа находилась почти в вертикальном положении, но самой секции на ней уже не было. На другой машине заметили защитную конструкцию диаметром около трёх метров, используемую при транспортировке частей ракеты. Аналитики IISS допускают, что одна из секций «Сармата» к тому времени уже могла быть загружена в шахту. 12 мая 2026 года после успешного испытательного пуска Владимир Путин заявил о планах поставить первый полк, оснащённый РС-28 «Сармат», на боевое дежурство до конца года. Новая тяжёлая межконтинентальная баллистическая ракета должна заменить советские Р-36М2 «Воевода», срок эксплуатации которых подходит к концу. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
