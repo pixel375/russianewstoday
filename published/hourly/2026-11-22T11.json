@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    158
+  ],
+  "published_at_utc": "2026-11-22T12:22:12.374543+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-22T11",
+  "items": [
+    {
+      "item_id": "2026-11-22T11:1",
+      "title": "Ukrainian Orthodox Church representatives report attempted seizure at Kyiv monastery",
+      "summary": "Representatives of the Ukrainian Orthodox Church reported an attempted takeover of the Church of St. Sergius of Radonezh within Kyiv-Pechersk Lavra. The people involved were not identified, amid ongoing disputes over religious property and control of the monastery complex.",
+      "post_url": "https://t.me/russianewstodayofficial/158",
+      "category": "other",
+      "hour_id": "2026-11-22T11",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T11:2",
+      "title": "Ukraine reportedly presses US to release European-funded Patriot missiles",
+      "summary": "Ukraine is seeking the delivery of Patriot air-defence missiles funded by European partners under the PURL programme, according to a report. The account says shipments remain delayed because US authorization is still required despite European financing.",
+      "post_url": "https://t.me/russianewstodayofficial/158",
+      "category": "other",
+      "hour_id": "2026-11-22T11",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
