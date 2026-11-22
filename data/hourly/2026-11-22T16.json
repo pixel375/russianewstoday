@@ -1,0 +1,208 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-22T16",
+  "generated_at_utc": "2026-11-22T17:23:44.359322+00:00",
+  "window_start_utc": "2026-11-22T16:00:00+00:00",
+  "window_end_utc": "2026-11-22T17:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 20,
+    "relevant_posts": 8,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
+  },
+  "posts": [
+    {
+      "id": "intelslava/98425",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98425",
+      "published_at": "2026-11-22T16:52:54+00:00",
+      "text": "🇱🇾 🇷🇺 ⚡ The government of Eastern Libya has confirmed that an explosion occurred on a Russian warship at a port near the city of Benghazi. The likely cause of the explosion is said to be an attack by unmanned boats. The ship had stopped in Benghazi to refuel…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198941",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198941",
+      "published_at": "2026-11-22T16:49:47+00:00",
+      "text": "🇱🇾 🇺🇦 🇷🇺 Footage reportedly shows a helicopter of Khalifa Haftar's Libyan National Army (LNA) firing on a Ukrainian unmanned boat off Benghazi. Libyan military sources say the LNA's air force and navy intercepted a new group of explosive-laden boats heading for the city on Sunday evening, hours after the dawn attack in Benghazi port. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/DDGeopolitics/198940"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98423",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98423",
+      "published_at": "2026-11-22T16:32:55+00:00",
+      "text": "🇺🇦 ⚡ Zelensky is shifting funding from \"Flamingo\" to \"Neptune\". These changes are being introduced because Neptune missiles have performed better recently. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30736",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30736",
+      "published_at": "2026-11-22T16:31:42+00:00",
+      "text": "❗️ During the day, the Armed Forces of the Russian Federation carried out strikes using unmanned aerial vehicles against power facilities and vessels used to support the Armed Forces of Ukraine. 💥 As a result of the strikes, the following targets were damaged : ▫️ a 330 kV power substation in the settlement of Kamenskaya in Dnepropetrovsk region, supporting the operation of Ukraine’s defence industry enterprises; ▫️ a dry cargo ship delivering dual‑use cargo to support the AFU was damaged in the Black Sea waters southwest of Nikolayev. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98422",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98422",
+      "published_at": "2026-11-22T16:29:14+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡ The Russian Armed Forces carried out a massive attack on the energy infrastructure of Dnipropetrovsk Oblast. Parts of Dnipropetrovsk, Samara, and the surrounding districts have been left without power. Certain critical infrastructure facilities have also been de-energized. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38577",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38577",
+      "published_at": "2026-11-22T16:27:02+00:00",
+      "text": "Украинские радикалы пытались сорвать богослужение в храме преподобного Сергия Радонежского В Киеве группа людей пыталась силой захватить храм преподобного Сергия Радонежского на территории Киево-Печерской лавры. Радикалы в масках пытались ворваться в храм прямо о время богослужения. Присутствовавшие у входа верующие оказали сопротивление нападавшим и незамедлительно вызвали полицию. Однако, по сообщениям очевидцев, прибывшие на место правоохранительные органы лишь наблюдали за происходящим со стороны. «Дорогие друзья! Просим ваших святых молитв и поддержки. Кто имеет возможность – поддержите святую обитель молитвой и посильной помощью», – написал в социальных сетях адвокат, представляющий интересы Украинской православной церкви, Никита Чекман. Для Киева это уже привычный сценарий. Храмы отбирают, а тех, кто отказывается переходить к раскольникам, избивают и грозят им отправкой на передовую. Демонстранты, как сообщают украинские СМИ, добиваются переименования храма, так как считают Сергия Радонежского «московским святым». 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33535",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33535",
+      "published_at": "2026-11-22T16:01:31+00:00",
+      "text": "⚡️ The Russian Embassy in the United States is closely monitoring the situation regarding the Russian citizen Igor Andreevich D'iu , who was detained by U.S. authorities on October 8 in Palo Alto, California, and is currently being held at the Santa Clara County Jail. According to publicly available criminal case files, Igor D'iu is being charged with acting as a foreign agent, unlawful solicitation, and fraud involving the use of forged documents. He has not been charged with espionage. The case is being heard in the U.S. District Court for the Northern District of California. The next hearing is scheduled for November 24, 2026. The Embassy remains in contact with our citizen and is providing him with consular and legal assistance.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
