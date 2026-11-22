@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-21T23",
-  "generated_at_utc": "2026-11-22T00:25:03.060625+00:00",
-  "window_start_utc": "2026-11-21T23:00:00+00:00",
-  "window_end_utc": "2026-11-22T00:00:00+00:00",
+  "hour_id": "2026-11-22T00",
+  "generated_at_utc": "2026-11-22T01:23:05.748999+00:00",
+  "window_start_utc": "2026-11-22T00:00:00+00:00",
+  "window_end_utc": "2026-11-22T01:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,7 +15,7 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -51,7 +51,7 @@
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
@@ -99,34 +99,47 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 7,
-    "relevant_posts": 2,
-    "deduplicated_posts": 2,
-    "candidate_posts": 2
+    "raw_posts": 8,
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
   },
   "posts": [
     {
-      "id": "boris_rozhin/234281",
+      "id": "boris_rozhin/234284",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234281",
-      "published_at": "2026-11-21T23:35:03+00:00",
-      "text": "8 ноября 2026 года на Краматорском направлении ликвидирован старший лейтенант Нештак Алексей Сергеевич. Занимал должность командира взвода радиоэлектронной борьбы 1-й бригады оперативного назначения национальной гвардии Украины. @ukrainian_guide",
+      "url": "https://t.me/boris_rozhin/234284",
+      "published_at": "2026-11-22T00:35:06+00:00",
+      "text": "Кадры 18+: Сброшенная ТМка разорвала боевиков ВСУ Боевая двойка ВСУ пыталась инфильтроваться в тыл Северянам, но была своевременно обнаружена разведкой. На головы смертников была сброшена противотанковая мина, которая попала точно по по ВСУшникам и разорвала их на части. Если вы еще на связи с Вашим отцом, мужем или братом и не хотите ощутить на себе судьбу вдовы и матери этих украинских солдат - объясняйте ему, умоляйте его, убеждайте его, делайте, что хотите, но он должен понять, что единственный способ сохранить свою жизнь - ЗАБЛАГОВРЕМЕННО связаться с нами и мы поможем ему уйти в СЗЧ (дезертировать) или сдаться в плен.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "AussieCossack/53491",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53491",
-      "published_at": "2026-11-21T23:23:59+00:00",
-      "text": "❗️ Documenting the Overton Window effect on turning off Starlink for the Ukrainian army: ⚡️ 21 September — Boikov, Infowars: Simeon Boikov warned Elon Musk to stop Starlink-assisted Ukrainian strikes on targets inside Russia. He said continued use would…",
+      "id": "rian_ru/350253",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350253",
+      "published_at": "2026-11-22T00:06:02+00:00",
+      "text": "Мошенники пугают россиян блокировкой счетов из-за долгов по кредитам. Аферисты обзванивают людей от имени сотрудников ФССП и сообщают, что в результате автоматической сверки данных с бюро кредитных историй у жертвы выявлена просроченная задолженность по кредиту, из-за которой им могут заблокировать банковский счет. Чтобы избежать ограничений, мошенники предлагают срочно проверить кредитную историю через специальный сервис и оплатить фиктивную задолженность, сообщили в «Мошеловке». 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234283",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234283",
+      "published_at": "2026-11-22T00:03:01+00:00",
+      "text": "Швеция и Великобритания договорились вооружить украинские истребители Gripen ракетами Meteor для противодействия российским бомбардировщикам Су-34. Соглашение было подписано 17 ноября 2026 года в Брюсселе. Его цель — предоставить украинским пилотам возможность поражать российские ударные самолёты на дальних дистанциях, до того как те смогут применить планирующие авиабомбы. Ракеты Meteor являются одним из приоритетных вооружений для Украины. По имеющимся данным, их дальность составляет от 100 до более чем 200 км, что позволяет поражать российские Су-34 на значительном удалении, не подвергая украинские истребители непосредственной угрозе. Министр обороны Украины Евгений Хмара подчеркнул, что ракеты Meteor позволят истребителям Gripen уничтожать самолёты-носители планирующих авиабомб и обеспечивать защиту городов, расположенных вблизи линии фронта, а также военных позиций. Подписаться на мой канал Colonelcassad в MAX — https://max.ru/colonelcassad",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "missile",
         "strike"
       ],
       "possible_duplicate_urls": []
