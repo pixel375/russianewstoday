@@ -1,0 +1,45 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    154
+  ],
+  "published_at_utc": "2026-11-22T08:30:01.629312+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-22T07",
+  "items": [
+    {
+      "item_id": "2026-11-22T07:1",
+      "title": "Authorities report major power outages after Ukrainian drone strikes in Donetsk region",
+      "summary": "Authorities in Russian-controlled Donetsk said Ukrainian forces launched a large overnight attack on energy infrastructure, disrupting electricity supplies across a substantial part of the region. The scale of damage and restoration timeline were not specified.",
+      "post_url": "https://t.me/russianewstodayofficial/154",
+      "category": "other",
+      "hour_id": "2026-11-22T07",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T07:2",
+      "title": "Russia claims overnight strikes on Zaporizhzhia power facility and Odesa-area port",
+      "summary": "Russia's Defence Ministry said its drones struck the 330 kV Pravoberezhna power facility in Zaporizhzhia and port infrastructure at Kiliya in Odesa region. It also claimed a cargo ship carrying dual-use supplies for Ukraine's military was hit northeast of Odesa; the ministry did not provide a damage assessment.",
+      "post_url": "https://t.me/russianewstodayofficial/154",
+      "category": "other",
+      "hour_id": "2026-11-22T07",
+      "source_handles": [
+        "mod_russia_en"
+      ]
+    },
+    {
+      "item_id": "2026-11-22T07:3",
+      "title": "Russian frontline report claims advances near Serhiivka and Kupiansk",
+      "summary": "A Russian frontline report claims troops entered Serhiivka on the Dobropillia axis and expanded positions near Shylivka, Bilozerke and Moskovka by Kupiansk. It also describes continuing fighting around Kostiantynivka, Vovchansk and the Sumy front; these are reported battlefield claims rather than confirmed changes in control.",
+      "post_url": "https://t.me/russianewstodayofficial/154",
+      "category": "other",
+      "hour_id": "2026-11-22T07",
+      "source_handles": [
+        "wargonzo"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
