@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-22T23",
-  "generated_at_utc": "2026-11-23T00:11:28.222359+00:00",
-  "window_start_utc": "2026-11-22T23:00:00+00:00",
-  "window_end_utc": "2026-11-23T00:00:00+00:00",
+  "hour_id": "2026-11-23T00",
+  "generated_at_utc": "2026-11-23T01:23:48.095401+00:00",
+  "window_start_utc": "2026-11-23T00:00:00+00:00",
+  "window_end_utc": "2026-11-23T01:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -51,7 +51,7 @@
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "rybar_in_english",
@@ -99,10 +99,23 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 5,
-    "relevant_posts": 0,
-    "deduplicated_posts": 0,
-    "candidate_posts": 0
+    "raw_posts": 4,
+    "relevant_posts": 1,
+    "deduplicated_posts": 1,
+    "candidate_posts": 1
   },
-  "posts": []
+  "posts": [
+    {
+      "id": "tass_agency/407103",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407103",
+      "published_at": "2026-11-23T00:06:01+00:00",
+      "text": "▶️ Украинская экономика давно разрушена и может только обслуживать внешние дотации, заявил в разговоре с ТАСС Родион Мирошник. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
 }
