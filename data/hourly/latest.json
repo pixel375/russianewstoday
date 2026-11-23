@@ -1,27 +1,27 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T21",
-  "generated_at_utc": "2026-11-23T22:25:33.808706+00:00",
-  "window_start_utc": "2026-11-23T21:00:00+00:00",
-  "window_end_utc": "2026-11-23T22:00:00+00:00",
+  "hour_id": "2026-11-23T22",
+  "generated_at_utc": "2026-11-23T23:25:36.706051+00:00",
+  "window_start_utc": "2026-11-23T22:00:00+00:00",
+  "window_end_utc": "2026-11-23T23:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "nab_ukraine",
@@ -106,60 +106,52 @@
   "coverage_complete": true,
   "stats": {
     "raw_posts": 14,
-    "relevant_posts": 4,
-    "deduplicated_posts": 4,
-    "candidate_posts": 4
+    "relevant_posts": 3,
+    "deduplicated_posts": 3,
+    "candidate_posts": 3
   },
   "posts": [
     {
-      "id": "voenkorKotenok/78139",
+      "id": "voenkorKotenok/78140",
       "channel": "voenkorKotenok",
       "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78139",
-      "published_at": "2026-11-23T21:48:01+00:00",
-      "text": "​​ Русские солдаты молились перед боем испокон веков . Перед сражением офицеры строили солдатские полки, выносили полковую икону, штандарты, полковой священник, читал молебен, прося у Бога помощи в победе и благословлял воинов на битву. Священник Митрофан Серебрянский в «Дневниках полкового священника» описывал, что перед наступлением, генерал Алексей Николаевич Куропаткин приглашал священников служить в полках молебны. Сам о. Митрофан служил молебен о победе у саперов и в полку инженеров, а после молебна произносил проповедь с пожеланием усерднее молиться о том, чтобы Бог помог в сражении. Речь он заканчивал краткой молитвой: «Благослови нас, Господи, победой!» И еще одна краткая молитва встречалась в его дневнике перед описанием боевых действий: «Господи, умилосердись над грешными нами, благослови и помоги нам!» Во время I Мировой войны в императорской армии каждому казаку и солдату была роздана «Памятка русскаго солдата», которая предварялась эпиграфом полководца Александра Васильевича Суворова о том, что русский солдат должен бояться Бога, слушать начальство, помнить о присяге и держаться храбро, и тогда все падет перед нашим оружием. Молитва же была такой: «Спаситель мой! Ты положил за нас душу Свою, чтобы спасти нас. Ты заповедал и нам полагать души своя за друзей наших, за близких нам. Радостно иду я исполнить святую волю Твою и положить жизнь свою за Царя и Отечество. Вооружи меня крепостию и мужеством на одоление врагов наших и даруй мне умереть с твёрдой верою и надеждою вечной блаженной жизни в Твоём царстве. Пресвятая Богородице, сохрани мя под кровом твоим». Именно эту молитву читали Сибирские казаки перед каждым сражением с немцами, - об этом пишет потомственный казак Дмитрий Валентинович Игнатьев",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78138",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78138",
-      "published_at": "2026-11-23T21:39:56+00:00",
-      "text": "Один из отечественных экспертов в рамках антикриза решил придумать свою версию угрозы изъятия $250-300 млрд. российских замороженных активов («вполне приемлемая плата…», по его выражению) западом в пользу Украины. Дальше — феерия, заставляющая задуматься, а все ли в порядке в голове автора и, вообще, как в «Фитиле», «А наши ли наши?»: «Я не удивлюсь, если когда-нибудь мы узнаем, что Россия специально накануне войны оставила там эту сумму, зная, что мелкие воришки не смогут удержаться. И сами себя в итоге похоронят». Э, нет, мил человек. Не лепи горбатого. Не надо России приплетать чисто украинские методы гадить назло москалям в собственные шаровары. Это же идиотия! Беда в то, что пишут подобное. Ведь по факту: 1) оправдание открытого грабежа российских денег; 2) игнорирование факта, что на конфискованные средства противник будет покупать оружие и боеприпасы для убийства граждан РФ — военных и мирных жителей. На мой взгляд, вещать о том, что это Россия как бы сама подстроила такое, можно в двух случаях — по злому умыслу или скудоумию. Первое я отвергаю. Неужели второе? Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407261",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407261",
-      "published_at": "2026-11-23T21:16:04+00:00",
-      "text": "Премьеры Словакии, Венгрии, Польши и Чехии раскритиковали представленный Коштой проект бюджета ЕС на 2028-2034 годы , сообщает телеканал ТА-3. ЕС должен прежде всего найти средства на снижение стоимости энергии в Европе, а не направлять десятки миллиардов евро Украине, отметил Фицо. В проекте долгосрочного бюджета ЕС заложены €130 млрд для Киева, добавил премьер Чехии Бабиш, отметив, что Европа деструктивно ведет себя по отношению к самой себе.",
+      "url": "https://t.me/voenkorKotenok/78140",
+      "published_at": "2026-11-23T22:54:44+00:00",
+      "text": "У поляков опять переполох. Над восточными районами была объявлена воздушная тревога. Заявляется, что в воздушное пространство страны залетел некий дрон, который затем, прокружив около восьми минут, пересек границу с Украиной. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy",
-        "kyiv"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98499",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98499",
-      "published_at": "2026-11-23T21:00:40+00:00",
-      "text": "🇪🇺 🇷🇺 ⚡️ — The European Commission has proposed banning Russian teams and athletes from competing under the Russian flag at sporting events in the EU. The proposal would also prohibit the display of official Russian symbols and restrict Russian sponsorships and representation within European sports organizations. @IntelSlava",
+      "id": "DDGeopolitics/199084",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199084",
+      "published_at": "2026-11-23T22:50:49+00:00",
+      "text": "🇦🇱 🇱🇾 🇺🇦 The Albanian Foreign Ministry denied claims that drones were launched from its territory for a terrorist attack in Libya. The Albania claim was first spread by Clash Report, an Istanbul-based news account reportedly run by a media company tied to Turkish government-aligned outlets. Turkey backs the Tripoli-based government, a rival of the authorities in Benghazi. Earlier, Ukraine claimed responsibility for the terrorist attack at the port of Benghazi. Deputy Chairman of the Presidential Council of Libya al-Kuni called these actions equivalent to a declaration of war on the Libyan state. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199083",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199083",
+      "published_at": "2026-11-23T22:46:00+00:00",
+      "text": "🇵🇱 🇺🇦 The drone that flew into Poland, then turned and flew back to Volyn, Ukrainian monitoring channels report. According to the channels, Polish military tried to intercept the drone while it was in Polish airspace but failed. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
       "possible_duplicate_urls": []
     }
   ]
