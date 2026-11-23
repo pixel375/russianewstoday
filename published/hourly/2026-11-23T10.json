@@ -1,0 +1,69 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    177
+  ],
+  "published_at_utc": "2026-11-23T11:23:04.772032+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-23T10",
+  "items": [
+    {
+      "item_id": "2026-11-23T10:1",
+      "title": "SAPO reports court transfers 150 million hryvnias in Midas case to asset agency",
+      "summary": "SAPO said Ukraine's High Anti-Corruption Court appeals chamber ordered 150 million hryvnias previously posted as bail for a former energy minister in the Midas case transferred to the national asset management agency. Prosecutors allege the money was laundered through accounts linked to a former lawmaker and a state bank; the ruling concerns management of seized assets, not a conviction.",
+      "post_url": "https://t.me/russianewstodayofficial/177",
+      "category": "other",
+      "hour_id": "2026-11-23T10",
+      "source_handles": [
+        "sap_gov_ua"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T10:2",
+      "title": "Novoshakhtinsk oil refinery halts operations after six-hour attack, governor says",
+      "summary": "Rostov regional governor Yuri Slyusar said the Novoshakhtinsk petroleum facility suspended operations after a combined Ukrainian drone and missile attack lasting more than six hours. Emergency crews were working to contain the consequences, with no detailed damage or casualty assessment provided.",
+      "post_url": "https://t.me/russianewstodayofficial/177",
+      "category": "other",
+      "hour_id": "2026-11-23T10",
+      "source_handles": [
+        "donbassr",
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T10:3",
+      "title": "Kremlin says Moscow plans contact with European governments over peace efforts",
+      "summary": "Kremlin spokesman Dmitry Peskov said Russia intends to initiate contact with European governments to assess their willingness to pursue peace. He also said Moscow's proposed humanitarian operation in Kostiantynivka remains on offer despite what he described as a lack of response from Kyiv.",
+      "post_url": "https://t.me/russianewstodayofficial/177",
+      "category": "other",
+      "hour_id": "2026-11-23T10",
+      "source_handles": [
+        "donbassr",
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T10:4",
+      "title": "Russia allocates nearly 47 billion rubles for Kaliningrad supply ferries",
+      "summary": "Russian Prime Minister Mikhail Mishustin announced nearly 47 billion rubles in funding, including National Wealth Fund resources, for two railway ferries to strengthen the Ust-Luga–Baltiysk supply route by 2030. The project comes amid tensions over Baltic transit restrictions and attacks on Russian shipping.",
+      "post_url": "https://t.me/russianewstodayofficial/177",
+      "category": "other",
+      "hour_id": "2026-11-23T10",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T10:5",
+      "title": "German foreign minister calls for more equal European sharing of Ukraine aid costs",
+      "summary": "German Foreign Minister Johann Wadephul urged European allies to share the financial burden of supporting Ukraine more evenly and continue their assistance. A report citing Reuters contrasted roughly 30.8 billion euros spent by Germany with 2.6 billion euros by Spain.",
+      "post_url": "https://t.me/russianewstodayofficial/177",
+      "category": "other",
+      "hour_id": "2026-11-23T10",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
