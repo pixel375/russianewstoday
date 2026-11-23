@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T13",
-  "generated_at_utc": "2026-11-23T14:25:28.479918+00:00",
-  "window_start_utc": "2026-11-23T13:00:00+00:00",
-  "window_end_utc": "2026-11-23T14:00:00+00:00",
+  "hour_id": "2026-11-23T14",
+  "generated_at_utc": "2026-11-23T15:22:59.010723+00:00",
+  "window_start_utc": "2026-11-23T14:00:00+00:00",
+  "window_end_utc": "2026-11-23T15:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,13 +15,13 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 5
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
@@ -33,43 +33,43 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 2,
-      "raw_count": 16
+      "pages": 1,
+      "raw_count": 13
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
@@ -81,19 +81,19 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 4
     },
     {
       "handle": "nab_ukraine",
       "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "sap_gov_ua",
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "donbassr",
@@ -105,19 +105,46 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 41,
-    "relevant_posts": 15,
-    "deduplicated_posts": 14,
-    "candidate_posts": 14
+    "raw_posts": 54,
+    "relevant_posts": 20,
+    "deduplicated_posts": 19,
+    "candidate_posts": 19
   },
   "posts": [
     {
-      "id": "tass_agency/407209",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407209",
-      "published_at": "2026-11-23T13:58:06+00:00",
-      "text": "❗️ Эстония негласно предоставляет свое воздушное пространство для пролетов украинских дронов с целью осуществления атак на Северо-Запад России, заявили в МИД РФ.",
+      "id": "DDGeopolitics/199056",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199056",
+      "published_at": "2026-11-23T14:59:12+00:00",
+      "text": "🇺🇦 Odessa may remain without power for up to three weeks, writes Ukrainian Forbes. Strikes by the RF Armed Forces damaged the power line from the South Ukraine NPP. In particular, three pylons were affected. Because of this, the city was left without a source of electricity over the weekend. Ukrenergo previously emphasized: key infrastructure in the Odessa region has been damaged. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199055",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199055",
+      "published_at": "2026-11-23T14:57:06+00:00",
+      "text": "✈️ A NATO reconnaissance aircraft spent more than seven hours over the Black Sea, a source in air traffic control services told TASS. The source noted that the Bombardier ARTEMIS II made turns over Romania, flying over areas bordering Ukraine. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199053",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199053",
+      "published_at": "2026-11-23T14:55:27+00:00",
+      "text": "🇺🇦 Financial Times journalist Miller reports “Russian drone attack near the office of the President of Ukraine and Maidan. Fire and black smoke are rising at the scene”. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -127,59 +154,53 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199042",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199042",
-      "published_at": "2026-11-23T13:44:15+00:00",
-      "text": "🇺🇦 Debris from the Russian strike has caused a car to catch on fire in Kiev 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199041",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199041",
-      "published_at": "2026-11-23T13:43:01+00:00",
-      "text": "🇺🇦 Strikes in Kiev 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/DDGeopolitics/199039"
-      ],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407204",
+      "id": "tass_agency/407223",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407204",
-      "published_at": "2026-11-23T13:41:37+00:00",
-      "text": "ЕК отказалась от двусторонних консультаций с Россией по евробезопасности. Европейская делегация получила предложение приехать в Москву, но не готова к двусторонним консультациям с РФ и хочет вести переговоры по Украине только в многостороннем формате, заявила…",
+      "url": "https://t.me/tass_agency/407223",
+      "published_at": "2026-11-23T14:54:01+00:00",
+      "text": "✈️ Самолет-разведчик НАТО провел над Черным морем более семи часов, сообщил ТАСС источник в авиадиспетчерских службах. Bombardier ARTEMIS II делал развороты над Румынией, пролетая в том числе над пограничными с Украиной районами, отметил источник.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199052",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199052",
+      "published_at": "2026-11-23T14:53:01+00:00",
+      "text": "🇩🇪 🇪🇺 Europe is ready to hold negotiations with Russia, German Chancellor Friedrich Merz stated. Intensive negotiations on the situation in the Baltic Sea are necessary to avoid escalation, he added. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow",
         "negotiation"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199040",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199040",
-      "published_at": "2026-11-23T13:41:28+00:00",
-      "text": "🇺🇦 A Russian Drone struck a gas station in Kryvyi Rih 🔴 @DDGeopolitics",
+      "id": "donbassr/117340",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117340",
+      "published_at": "2026-11-23T14:49:58+00:00",
+      "text": "Последствия ночной атаки украинского беспилотника на центр Донецка. Повреждено остекление подземного перехода и магазина по продаже мобильных телефонов. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30750",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30750",
+      "published_at": "2026-11-23T14:39:05+00:00",
+      "text": "A deadly 'surprise' for the enemy ▫️ Military EOD specialists of the Tsentr Group of Forces eliminate the AFU infantry by means of remote mining. ▫️ Drone operators covertly get closer to enemy positions and drop mines directly on the Ukrainian militants' routes. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -188,84 +209,27 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234450",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234450",
-      "published_at": "2026-11-23T13:40:17+00:00",
-      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки За минувшие сутки существенных изменений в обстановке на фронте не зафиксировано — враг продолжает контратаковать мелкими группами. За линией боевого соприкосновения уничтожена бронемашина ВСУ, 5 автомобилей и квадроциклов, а также пешие боевики. Около 10 групп инфильтрации вскрыто и уничтожено на освобожденной территории. На северо-западном участке забайкальцы вскрыли и уничтожили САУ, квадроцикл и 3 НРТК. Огневое поражение было сосредоточено в районах н.п. Новоукраинка, Малиновка, Старокосьяновское и Диброва. На левом фланге группировки \"Восток\" подразделения 35 армии продолжают продвигаться на запад, нанося удары по позициям боевиков в районе Таврийского, Кирово и Блакитного. Уничтожено 2 блиндажа, пункт управления БПЛА, а также пикап и 3 НРТК. Нанесен удар по нескольким группам боевиков в ходе попытки усиления позиций — враг потерял до 9 военнослужащих ВСУ убитыми. Всего уничтожено свыше роты живой силы ВСУ, САУ, ББМ, 5 единиц авто-мототехники, склад материальных средств, разрушено 25 пунктов управления БПЛА. @voin_dv",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407200",
+      "id": "tass_agency/407219",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407200",
-      "published_at": "2026-11-23T13:26:58+00:00",
-      "text": "Премьер Италии Джорджа Мелони упрекнула Зеленского за включение итальянцев в базу украинского экстремистского сайта \"Миротворца\". Об этом сообщила газета Il Fatto Quotidiano. Ранее в Италии разгорелся скандал, когда стало известно о включении в базу итальянских…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199038",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199038",
-      "published_at": "2026-11-23T13:21:59+00:00",
-      "text": "🇺🇦 ⚔️ 🇮🇷 BREAKING! Ukraine reportedly attacks Iranian ship off Libya Iranian vessel Alvan was hit by naval drones in Libyan territorial waters. It's the third attack of this kind there, after earlier strikes on Russian ships off Benghazi. Zelensky has already admitted that Ukraine was behind the strike on the Russian warship in Benghazi. Kiev is now carrying out its naval drone attacks in the Mediterranean, inside the territorial waters of a third country. 🔴 @DDGeopolitics",
+      "url": "https://t.me/tass_agency/407219",
+      "published_at": "2026-11-23T14:37:32+00:00",
+      "text": "❗️ Ударами ВС РФ у Мерефы Харьковской области поражен железнодорожный локомотив, задействованный в перевозке вооружения, сообщили в МО.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "kyiv",
+        "kharkiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117336",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117336",
-      "published_at": "2026-11-23T13:21:58+00:00",
-      "text": "26 мирных жителей ранены, два погибли в ДНР за неделю в результате атак ВСУ, – сообщили в аппарате уполномоченного по правам человека в регионе. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117335",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117335",
-      "published_at": "2026-11-23T13:21:49+00:00",
-      "text": "❗️ Три мирных жителя ранены при атаках БПЛА ВСУ на Белгородскую область, сообщает оперштаб региона . Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407198",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407198",
-      "published_at": "2026-11-23T13:13:02+00:00",
-      "text": "The Guardian назвала три причины исключения Каллас из переговоров с Россией. Одно из объяснений, которое циркулирует в дипломатических кругах Брюсселя, — чрезмерно открытая и жесткая позиция, которую занимает эстонский дипломат. Во-вторых, крупнейшие страны…",
+      "id": "bricsnews/19785",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19785",
+      "published_at": "2026-11-23T14:37:08+00:00",
+      "text": "JUST IN: 🇩🇪 🇷🇺 German Chancellor Merz says Europe is ready to negotiate with Russia. @BRICSNews",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -274,43 +238,148 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199036",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199036",
-      "published_at": "2026-11-23T13:12:29+00:00",
-      "text": "🇺🇦 ⚡️ Four DTEK energy facilities were damaged in the Dnepropetrovsk region over two days According to Ukrainian media, equipment was damaged as a result of repeated strikes, and fires broke out at several facilities. About 353 thousand homes were left without power supply. Mass outages affected Dnepropetrovsk, Novomoskovsk, and adjacent areas 🔴 @DDGeopolitics",
+      "id": "nab_ukraine/4299",
+      "channel": "nab_ukraine",
+      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "url": "https://t.me/nab_ukraine/4299",
+      "published_at": "2026-11-23T14:35:02+00:00",
+      "text": "​​ ⚖️ ВАКС оголосив вирок нардепу, якого викрили на спробі підкупу топпосадовців у сфері відновлення 23 листопада 2026 року колегія суддів ВАКС оголосила вирок чинному народному депутату України та його спільнику. В листопаді 2023 року САП та НАБУ викрили їх на наданні неправомірної вигоди Віце-прем'єр-міністру з відновлення України – Міністру розвитку громад, територій та інфраструктури України й Голові Державного агентства відновлення та розвитку інфраструктури України. Вироком суду нардепа та його спільника визнано винуватими за ч. 4 ст. 369 КК України. Нардепу призначено покарання у вигляді 7 років позбавлення волі. Його спільника засуджено до 6 років позбавлення волі. Також суд застосував 10,7 млн грн штрафу до акціонерного товариства та спецконфіскацію до неправомірної вигоди. Вирок суду набирає законної сили через тридцять днів із дня проголошення, якщо його не буде оскаржено в апеляційному порядку. Деталі: У межах досудового розслідування, яке здійснювали детективи НАБУ, встановлено, що народний депутат України, діючи за попередньою змовою з директором акціонерного товариства, запропонував топпосадовцям неправомірну вигоду за виділення 1 млрд грн додаткового фінансування робіт, які виконувало підконтрольне їм зазначене товариство. Сума неправомірної вигоди мала становити 3 % – 5 % від обсягу фінансування. У подальшому особи надали частину цієї неправомірної вигоди в розмірі 150 тис. доларів США (деталі: https://youtu.be/-VzgFSnSO90 ).",
       "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "strike"
+      "related_urls": [
+        "https://t.me/sap_gov_ua/4559"
       ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234447",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234447",
-      "published_at": "2026-11-23T13:04:29+00:00",
-      "text": "Марин Ле Пен - заявила , что Украине не место в Евросоюзе: \"Много лет назад я предупреждала, что Евросоюз настолько враждебно настроен по отношению к России в принципе, ещё до войны в Украине, до всех этих событий, что это толкнёт Россию в объятия Китая. И я не считаю, что для Европы и даже для всего мира было бы хорошо толкать Россию в объятия Китая и допускать создание очень прочного союза между этими двумя огромными странами.\"",
+      "id": "nab_ukraine/4298",
+      "channel": "nab_ukraine",
+      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "url": "https://t.me/nab_ukraine/4298",
+      "published_at": "2026-11-23T14:35:02+00:00",
+      "text": "👩‍⚖️ 👩‍⚖️ 👩‍⚖️ 7 і 6 років позбавлення волі: ВАКС оголосив вирок чинному народному депутату України та його спільнику 👨‍⚖️ Їх визнано винними в наданні неправомірної вигоди Віцепрем'єр-міністру з відновлення України – Міністру розвитку громад, територій та інфраструктури України й Голові Державного агентства відновлення та розвитку інфраструктури України. Докладніше #вирок",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35962",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35962",
-      "published_at": "2026-11-23T13:02:19+00:00",
-      "text": "• 📝 Attack on Russian Navy convoy off Libya 📝 what really happened and what comes next? The Libya events – another occasion to think about what Russian command should undertake far from the SMO zone. Yesterday's strike was planned for more than a day, preparations for it took quite a while, as indicated by NATO aviation flights and active satellite tracking of Russian ship movements. 🔻 So what is known about the situation? ▪️ The choice of attack area is no accident: if you look at vessel traffic density, it is precisely in this \"pocket\" between Libya , Malta and Greece that a large stretch of neutral waters lies, where it is very convenient to deploy groups of attack USVs to intercept needed tankers or cargo ships (even past attacks occurred there). ▪️ In Libya, on the territory of Misrata, Az-Zawiya, and also Sirte, Ukrainian forces deployed both final assembly workshops for USVs and FPV-drones (local militarized units of the so-called \"Government of National Unity\" are actively trained to operate the latter, by the way) . Two Bayraktar UAVs and 4 PD-2 UAVs were also transported there. It was precisely from the Bayraktar that objective control of the Ukrainian operation was provided. The supply of drones and components has long been organized through the same vessels of the Ukrainian shadow fleet, which freely sails the Mediterranean, ensuring both rotation and covert deliveries to Libya from so-called Ukraine. ▪️ The strike involved not 7 USVs, as Zelensky claimed. In reality, 12 to 14 units sortied, and the attack was carried out in two waves. The first 5 drones departed from the Sirte area in the direction of the moving convoy, which was heading to Tobruk . The Merkuriy crew destroyed three USVs, causing the rest to retreat. Due to the attack, a decision was made to head to Benghazi, where another 7-9 USVs struck the naval base. Four USVs were destroyed on the approach to the corvette, but 2 hit the ship. Other drones provided objective control, and then one of them struck the Angara vessel. 🖍️ The entire complex of measures undertaken by the Ukrainian side together with NATO countries shows that the operation was planned well in advance. It is no coincidence that the targets became specific vessels that supply the needs of the Russian Armed Forces' African Corps in the Mediterranean Sea and Atlantic Ocean. Could such a scenario have been foreseen? Absolutely, considering that only the lazy did not speak about the presence of a Ukrainian contingent in western Libya. And all these stories about an \"Albanian trail\" in this situation are not worth any attention, at least because the primary source came from a biased Turkish publication . ❗️ Without an adequate response from Russian leadership to such actions by the Ukrainian regime, attacks and sabotage will continue to repeat, and AFU operations in the Baltic and Mediterranean seas will only increase. And fighting this needs to be done roughly in a similar manner as in the",
+      "id": "intelslava/98474",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98474",
+      "published_at": "2026-11-23T14:33:03+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡ Massive attack by Ukrainian drones on Russia. Also another attempt to attack the Crimean Bridge, unsuccessful. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98473",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98473",
+      "published_at": "2026-11-23T14:31:55+00:00",
+      "text": "🇷🇺 ⚡ One person was killed in the LNR due to attacks by the Ukrainian Armed Forces, and six others were injured, including three children. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199051",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199051",
+      "published_at": "2026-11-23T14:27:20+00:00",
+      "text": "🇺🇦 Strikes in Central Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98471",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98471",
+      "published_at": "2026-11-23T14:27:04+00:00",
+      "text": "⚡ 🇷🇺 🇺🇦 Targets attacked overnight in Ukraine, summary from the Russian Ministry of Defense: 🔵 A 330 kV electrical substation in Dnepropetrovsk; 🔵 In the port of Izmail, Odesa region — port infrastructure facilities; 🔵 A sea vessel of the \"dry cargo\" type on passage southwest of Odesa; 🔵 In the area of the \"Dneprodzerzhinsk\" railway station in Dnepropetrovsk region, two railway locomotives were hit. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117339",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117339",
+      "published_at": "2026-11-23T14:22:58+00:00",
+      "text": "Куйбышевский, Киевский и Ленинский районы Донецка завтра останутся без света , – предупредили в минугля и энергетики ДНР. Правда, отключение запланировано частичное, и по времени продлится с 9:00 до 18:00. Отключение также затронет Мариуполь, прилегающие к нему районы, Волновахский и Новоазовский округа. ✔️ В ведомстве объяснили: провести необходимые ремонтные работы без временного отключения части потребителей невозможно. Это необходимо для безопасности специалистов и восстановления стабильного электроснабжения. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "energy",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78122",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78122",
+      "published_at": "2026-11-23T14:18:02+00:00",
+      "text": "1. Знаковый момент — на Балтике начались атаки БпЛА противника на наши корабли. Предупреждения о том, что боевые действия враг перенесет на Балтику, сбылись. Еще одно доказательство того, что Россия не вернётся в так называемую «семью народов» Европы в версии правителей ЕС. Для них мы в первую очередь — экзистенциальный враг. Там антихристовое царство строят люди. Каким образом можем с ними замириться? Никаким. Только нашей победой. До неё не близко. Нужно четко понимать что европейские санкции даже после мира в полном объёме сняты не будут. Не надо заблуждений — никакого возврата в формат «до 2014-го», даже в «до 2022-го» не будет. В лучшем случае они, пользуясь перемирием, будут ожидать ухода Президента РФ по физическим причинам. Мы же не вечные. Господь всех призовёт. Враг просто будет ждать турбулентности в России, связанной с уходом Президента, продолжая вести с нами активную, в т.ч. вооружённую борьбу не только на «серых» территориях, но и в «материковой» России. Проводить диверсионные операции, теракты, заходы групп со стороны Украины/Финлянции/Прибалтики, диверсии на предприятиях и экономических маршрутах. Читать полностью — 👇 👇 👇 «Восстань и бей первым!» Мост и мосты как маркер вместе с атаками наших кораблей Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "sanctions",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199044",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199044",
+      "published_at": "2026-11-23T14:02:26+00:00",
+      "text": "🇺🇦 🇮🇹 🇯🇵 Ukraine's \"non-state\" Myrotvorets site removes Italy's deputy PM, adds two Japanese citizens Kiev has always said Myrotvorets, the website that publishes the personal details of people it calls \"enemies of Ukraine,\" has nothing to do with the Ukrainian government. Ukraine's embassy in Italy said the same thing again recently. That was after Italian Deputy Prime Minister Matteo Salvini found his name on the site. His League party said it would only vote to extend arms deliveries to Ukraine if Zelensky apologized, and Prime Minister Giorgia Meloni called the listing unacceptable. Soon after, Salvini's entry was removed. For a site Kiev supposedly has no control over, it was taken care of very quickly once Italian weapons were at stake. Now Myrotvorets has added two Japanese citizens: Yoshihiko Fujimoto, a member of the Yamanashi prefectural assembly, and journalist Naoko Iizuka. Their entries accuse them of supporting \"Russian aggression and the killing of Ukrainian citizens\" and call them \"accomplices of Russian-fascist invaders and terrorists.\" What they actually did was visit Donetsk and meet local officials to discuss agricultural cooperation and planting a Japanese cherry blossom garden in the city. Japan's government hasn't responded yet. It's not the only partner Kiev has upset lately. South Korea recalled its ambassador from Kiev after Zelensky publicly revealed at the UN that Ukraine had handed two North Korean POWs over to Seoul, which South Korea says was agreed to stay secret. Zelensky keeps asking Italy, Japan and South Korea for weapons and money, while a site his government says it doesn't run lists their politicians and journalists as enemies. When it starts to threaten the weapons, the entries get removed. Just a coincidence... 🤷‍♂️ 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407212",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407212",
+      "published_at": "2026-11-23T14:01:01+00:00",
+      "text": "Главные новости к этому часу: ▪️ Инициатива РФ по гуманитарной миссии в Константиновке актуальна, позиция не менялась, заявил Песков. ТАСС собрал ключевые заявления представителя Кремля. ▪️ Временного поверенного Эстонии вызвали в МИД РФ, сообщили ТАСС в российском дипведомстве. ▪️ НПЗ в Ростовской области приостановил работу после атаки ВСУ. ▪️ Арестованный в Индии танкер Unity официально передан под управление индийской команды, сообщили ТАСС в генконсульстве РФ. ▪️ Таджикистан уведомил ООН о выходе из МУС. ▪️ Чиновники Евросоюза будут вести ожесточенную борьбу за принятие бюджета на 2028-2034 годы, сообщает Politico. ▪️ Пашинян объявил о начале реализации \"Маршрута Трампа\". ▪️ В Москве начали тестировать новые парковочные знаки для многодетных. ▪️ В РФ запустили единый цифровой ресурс дошкольного образования. ▪️ Жителя Ставрополья осудили за надругательство над двумя детьми. ▪️ Джигурда сообщил , что находится в реанимации. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
         "strike"
       ],
       "possible_duplicate_urls": []
