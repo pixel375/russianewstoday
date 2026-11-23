@@ -1,0 +1,333 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-23T11",
+  "generated_at_utc": "2026-11-23T12:23:11.930053+00:00",
+  "window_start_utc": "2026-11-23T11:00:00+00:00",
+  "window_end_utc": "2026-11-23T12:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 2,
+      "raw_count": 8
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 35,
+    "relevant_posts": 17,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
+  },
+  "posts": [
+    {
+      "id": "dva_majors/102415",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102415",
+      "published_at": "2026-11-23T11:53:11+00:00",
+      "text": "🇬🇧 🪖 Британия готовит гражданскую инфраструктуру и население к масштабному военному конфликту Комитет Палаты лордов по национальной устойчивости опубликовал доклад «Are we ready? Building a culture of resilience» , в котором предупредил о недостаточной готовности страны к длительному кризису, прежде всего к крупномасштабному военному конфликту. Главная идея документа – необходимость перехода к модели, при которой гражданские ведомства, частный бизнес, органы местного самоуправления и население будут включены обеспечение военных действий. Особое внимание уделено транспортной и энергетической инфраструктуре, связи, здравоохранению и снабжению – при военном конфликте гражданские структуры должны будут не только поддерживать жизнедеятельность страны, но и обеспечивать потребности армии. Проблемным вопросом определена необходимость привлечения критической инфраструктуры, более 80% которой находится в частной собственности. Для этого создадут три уровня обязательств таких предприятий: от обязательного участия в гражданской обороне до договорного добровольного). Комитет предлагает установить обязательные требования к мобилизационной готовности стратегически важных компаний , создать национальный реестр гражданских добровольцев и резервистов с учётом их профессиональных навыков, а также расширить программы краткосрочной добровольной военной подготовки молодёжи (возврат срочки). Важным этапом станут учения 2027 года , включая британские Albiston Shadow и Brave Defender, а также мероприятия НАТО CMX27 и Steadfast Defender 27. В ходе них предполагается проверить взаимодействие армии, государственных органов и гражданской инфраструктуры в условиях гибридных угроз, перебоев снабжения и необходимости одновременно обеспечивать оборону Британии и выполнение обязательств перед НАТО. Отдельное направление – подготовка населения. Плаируется распространять среди домохозяйств инструкции на случай чрезвычайных ситуаций , расширить обучение первой медицинской помощи и действиям во время ЧС, а также создать резервные каналы оповещения на случай нарушения интернета и мобильной связи. ✨ В случае принятия этих мер ( ⚡️ а такие доклады просто так не делаются ), начнётся более активная подготовка Британии к войне конвенциональным вооружением . Уверенность в неприменении стратегического ядерного вооружения 🇷🇺 Россией убеждает 🇪🇺 🚩 ЕвроНАТО в своей потенциальной победе с минимальными потерями для себя и возможностью списания всех долгов. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53515",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53515",
+      "published_at": "2026-11-23T11:39:15+00:00",
+      "text": "🇳🇱 NATO’S Tutti frutti : Our democratic, free and open societies are our greatest strength. It’s also what our adversaries fear most. If you are in the leadership of China or North Korea or Russia or Iran, this is exactly what you don’t like: Free and open societies, free media, and people having a free choice in elections. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/DDGeopolitics/199023"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102409",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102409",
+      "published_at": "2026-11-23T11:35:18+00:00",
+      "text": "Кадры атаки украинских БЭК на корвет «Меркурий» и контейнеровоз ASCALON в порту Бенгази, опубликованные СБУ . Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30748",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30748",
+      "published_at": "2026-11-23T11:35:13+00:00",
+      "text": "Total clearance ❌ ▫️ FPV drone teams of the Tsentr Group of Forces engaged Ukrainian militant manpower, hardware, and positions. 📍 Dnepropetrovsk direction 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199022",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199022",
+      "published_at": "2026-11-23T11:32:49+00:00",
+      "text": "#ViewFromAbroad 💬 European countries are “married to the concept” of continuing the war against Russia, as they need the Ukrainian conflict to maintain the economic foundation of the European Union, former US intelligence officer Scott Ritter stated. 🇷🇺 Subscribe | Feedback | X | TikTok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102408",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102408",
+      "published_at": "2026-11-23T11:29:57+00:00",
+      "text": "Русские котики - это спецоперация Двух майоров. Фронтовики, можете присылать нам фотографии/видео вашего быта: @media_front_bot , и мы их опубликуем (и отредактируем). Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117331",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117331",
+      "published_at": "2026-11-23T11:25:30+00:00",
+      "text": "❗️ Три мирных жителя ранены при атаках БПЛА ВСУ на Белгородскую область, сообщает оперштаб региона Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234441",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234441",
+      "published_at": "2026-11-23T11:21:01+00:00",
+      "text": "Операторы барражирующих боеприпасов \"Ланцет\" наносят удары по ЗРК \"Бук\" (FrankenSAM) ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199019",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199019",
+      "published_at": "2026-11-23T11:18:43+00:00",
+      "text": "🇷🇺 Western companies in Russia are Moscow's collateral against Europe seizing its frozen billions Russia has placed 16 companies linked to Western firms under \"temporary administration,\" including Switzerland's Nestlé, France's Auchan, Germany's Metro, FM Logistic and the former Leroy Merlin. The firms keep running under Russian-appointed directors, but their owners no longer control them This falls short of nationalization. Under a 2023 presidential decree, Moscow can take over the management of a foreign company without seizing it, and hand it back later. Putin himself has said these firms can be returned to their owners. Alexei Bobrovsky, director of the Institute for the Study of World Markets, counts only two genuine nationalizations since the war began. Russian economists call this deliberately soft approach \"vegetarian.\" Why hold the companies rather than take them? Because of the roughly €210 billion of Russian central bank assets frozen in the EU, most of it at Euroclear in Belgium. Brussels already sends the interest from that money to Ukraine, and the European Commission has formally proposed using the money itself through a so-called \"reparations loan.\" Western businesses still operating in Russia are Moscow's collateral against that. Bobrovsky argues that if the EU seizes the frozen assets, Russia's preferred response would be to compensate itself from Western companies' assets in Russia. There are plenty to choose from: according to the Kiev School of Economics, more than 2,300 foreign companies and brands were still active in Russia as of July. Among them are PepsiCo, Mars, Mondelez, Procter & Gamble, AstraZeneca and Philip Morris, plus banks like Italy's UniCredit and Austria's Raiffeisen. Slovenia's pharmaceutical maker Krka earns about a fifth of its total sales in Russia. So far, the deterrent has worked. Last December, EU leaders dropped the reparations loan, mainly because Belgium refused to carry the legal and financial risk, and instead borrowed €90 billion on the markets for Ukraine. The Russian assets remain frozen indefinitely, and the EU has reserved the right to use them later. As long as that threat hangs over the assets, Western factories, stores and banks in Russia stay in place, kept running for now. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4557",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4557",
+      "published_at": "2026-11-23T11:15:44+00:00",
+      "text": "Розтрата коштів Міністерства національної єдності України та підробка документів: підозри у справі Прокурор САП за участю детективів НАБУ повідомив про підозру колишньому Віце-прем’єр-міністру України та двом працівникам очолюваного ним Міністерства. За версією слідства, колишній Віце-прем’єр-міністр України організував розтрату коштів Міністерства шляхом безпідставної виплати заробітної плати 5 особам, які насправді виконували обов’язки його водіїв та охоронців. До своєї злочинної діяльності він залучив двох керівників структурних підрозділів Міністерства, які знали про фіктивне працевлаштування осіб та складали документи з недостовірними відомостями щодо їх роботи, що були підставою для виплати їм заробітної плати, внаслідок чого в період з березня до червня 2025 року завдано збитків. На сьогодні у справі повідомлено про підозру 3 особам. Дії колишнього Віце-прем’єр-міністра України кваліфіковано за ч. 3 ст. 27, ч. 1 ст. 366, ч. 3 ст. 27, ч. 4 ст. 191 КК України, а дії працівників Міністерства – за ч. 1 ст. 366, ч. 4 ст. 191 КК України. Слідство триває. Відповідно до ч. 1 ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199009",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199009",
+      "published_at": "2026-11-23T11:12:56+00:00",
+      "text": "#KievRegimeCrimes ⚡️ Ambassador-at-Large of the Russian Ministry of Foreign Affairs Rodion Miroshnik : PHOTO FACTS & EVIDENCE of crimes committed by Ukrainian armed forces over the week of November 16-22, 2026 : ▪️ November 16 – a UAV struck a civilian lorry in Belgorod. ▪️ November 16 – a UAV struck a scheduled bus on the Chernigovka-Berdyansk route near the village of Bogdanovka, Zaporozhye Region. Three civilians were injured. ▪️ November 17 – a combined missile and drone attack damaged the Crimean Bridge, which links the Republic of Crimea and Krasnodar Territory. ▪️ November 17 – a UAV struck a midwifery clinic run by Gornostayevka Central District Hospital in Gornostayevka, Kherson Region. ▪️ November 17 – a UAV struck an EMERCOM vehicle in Kremennaya, LPR. ▪️ November 18 – one of the remotely deployed explosive devices found in Kakhovka Municipal District, Kherson Region. ▪️ November 19 – a UAV struck an ambulance on the Novaya Astrakhan – Novopokrovka road in Kremennaya Municipal District, LPR. ▪️ November 19 – the aftermath of a large-scale attack on residential areas of Kursk. Eleven civilians were injured. ▪️ November 20 – a UAV struck a residential building in Yubileiny, LPR. Six civilians were killed and six others were injured. ▪️ November 22 – a UAV struck a civilian car in Gornostayevka, Kherson Region.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/MFARussia/33547"
+      ],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kursk",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407177",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407177",
+      "published_at": "2026-11-23T11:11:58+00:00",
+      "text": "▶ Путин провел встречу с главой ФНС Егоровым. Налоговые поступления в бюджет России увеличиваются, в том числе растут ненефтегазовые доходы, что особенно приятно, отметил президент. Видео: Kremlin. ru ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38589",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38589",
+      "published_at": "2026-11-23T11:06:02+00:00",
+      "text": "ВС РФ поразили подстанцию в Днепропетровске, порт Измаил и железнодорожные объекты Украины Российская армия нанесла удары по энергетической, железнодорожной и портовой инфраструктуре Украины. Основными целями стали объекты, которые, задействованные в обеспечении украинского военно-промышленного комплекса и снабжении ВСУ. В ночь на 23 ноября были поражены: - Электроподстанция в Днепропетровске напряжением 330 кВ, обеспечивающая работу предприятий украинской военной промышленности. - В районе железнодорожной станции «Днепродзержинск» Днепропетровской области поражены два локомотива, использовавшиеся для перевозки вооружения и военной техники ВСУ. - В порту Измаил Одесской области атакованы объекты портовой инфраструктуры, задействованные в доставке военного имущества. - В Чёрном море, юго-западнее Одессы, поражён сухогруз, который перевозил грузы военного назначения. В Днепропетровске полностью остановилось движение электротранспорта – трамваев, троллейбусов и метрополитена. По информации местного городского департамента транспорта, причиной стало обесточивание тяговых подстанций и аварийное отключение электроэнергии. Накануне, вечером 22 ноября, российские войска поразили железнодорожную инфраструктуру в Люботине Харьковской области. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kharkiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199006",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199006",
+      "published_at": "2026-11-23T11:03:47+00:00",
+      "text": "🇷🇺 🇺🇦 Hunting the vulnerable: The True face of the AFU militants 💬 One of the rescued residents of Konstantinovka described the cruelty of Ukrainian nationalists. While the civilians hid in half-ruined houses and basements, the AFU deliberately attacked them with drones, trying to make their attacks look like the work of the Russian army. ‚The AFU begins to stick red tape to batteries, Mavics, drones, like Russia does everything. And they burn houses,‘ the civilian told. At least twenty such drones were lying around his house. Local residents saw all these provocations by AFU militants with their own eyes. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35960",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35960",
+      "published_at": "2026-11-23T11:02:09+00:00",
+      "text": "📝 Time to bury the flight attendant 📝 It's hard to imagine a more toxic figure in Russian-Ukrainian relations than Viktor Medvedchuk. This politician has long become obsolete , and, to put it mildly, he is disliked on both sides of the front line. And yet with admirable persistence he keeps getting pulled into the media . Cartoonish off-topic statements are meant to remind people of the \"Other Ukraine\" movement. Formally, they should indicate the existence of an \"alternative Ukraine\" — with a position different from the rigid anti-Russian stance. How much of this is fantasy — we'll leave that aside. Even before the start of the SMO, Medvedchuk was not a favorite of the population of so-called Ukraine. And now his political weight is approaching zero . In Russia, the general public knows him mainly as the man exchanged for members of \"Azov,\" when 215 members of armed formations, including 108 \"Azovites,\" returned to so-called Ukraine. It is precisely those \"Azov\" members freed at that time who today command the Ukrainian offensive. 📌 Sometimes the appearance of the next information corpses coincides with loud negative events. As now — with an attack by unmanned boats on a Russian Navy ship in Libyan Benghazi . And it turns out that one of the embodiments of Russian failures in the post-Soviet space reminds itself precisely against the backdrop of a new problem. ❓ Therefore, perhaps it's worth considering: is it really necessary to galvanize a political corpse and especially to remind people of one of the failures of Russian foreign policy against the backdrop of yet another setback? #mediatechnologies #Russia #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
