@@ -1,27 +1,27 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T19",
-  "generated_at_utc": "2026-11-23T20:26:22.614533+00:00",
-  "window_start_utc": "2026-11-23T19:00:00+00:00",
-  "window_end_utc": "2026-11-23T20:00:00+00:00",
+  "hour_id": "2026-11-23T20",
+  "generated_at_utc": "2026-11-23T21:13:38.175488+00:00",
+  "window_start_utc": "2026-11-23T20:00:00+00:00",
+  "window_end_utc": "2026-11-23T21:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
@@ -33,19 +33,19 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "rian_ru",
@@ -57,13 +57,13 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 0
     },
     {
       "handle": "WarGonzo",
@@ -75,7 +75,7 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 3
     },
     {
       "handle": "voenkorKotenok",
@@ -105,117 +105,86 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 23,
-    "relevant_posts": 12,
-    "deduplicated_posts": 12,
-    "candidate_posts": 12
+    "raw_posts": 17,
+    "relevant_posts": 8,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
   },
   "posts": [
     {
-      "id": "rian_ru/350347",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350347",
-      "published_at": "2026-11-23T19:54:57+00:00",
-      "text": "\"Тысяча дней до войны\" В Великобритании пытаются готовиться к вероятному противостоянию с Россией - на этом фоне продажи антисептиков для рук выросли на 83%, а бутилированной воды на 67%. Также в армию предложили зазывать безработных - это проще, чем вернуть воинскую повинность. О подготовке англо-саксов к обороне от российских танков - в материале РИА Новости. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "voenkorKotenok/78136",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78136",
+      "published_at": "2026-11-23T20:56:08+00:00",
+      "text": "Министр обороны этнической ОПГ, захватившей Украину по фамилии Хмара снова пугал европейцев и американцев во время выступления на на Парламентской ассамблее НАТО в Берлине. Как сообщают западные СМИ, представитель нелегитимный киевской верхушки заявил, что Россия наращивает удары баллистическими и крылатыми ракетами по Украине, а также увеличивает производство этих средств поражения. По его словам, только за октябрь Россия запустила 153 баллистические ракеты по Украине: «Каждые пять часов враг запускает одну баллистическую ракету и продолжает ускорять этот темп…». Ранее украинская разведка сообщала, что по состоянию на октябрь 2026 г. резервы Москвы включали до 700 баллистических ракет и 1 тыс. крылатых ракет. По данным ГУР ВСУ, Россия может производить до 110 баллистических ракет в месяц, то есть, примерно по одной каждые шесть с половиной часов, включая модели 9М723 \"Искандер-М\" и РМ-48У. Последняя ракета запускается с пусковых установок ПВО С-400 и составляет более половины русских резервов. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234479",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234479",
+      "published_at": "2026-11-23T20:54:50+00:00",
+      "text": "ТУНИС, 23 ноября. / ТАСС /. Заместитель председателя Президентского совета Ливии Муса аль-Куни назвал действия Украины, заявившей об ответственности за теракт в порту Бенгази, равносильными объявлению войны ливийскому государству. \"Мы возлагаем на украинскую сторону всю полноту ответственности за эти террористические действия, которые <...> Владимир Зеленский признал, о которых открыто заявил и которыми похвалялся. Эти действия равносильны объявлению войны ливийскому государству <...>. Посягательство на суверенитет ливийского государства, его национальную безопасность и ресурсы - это то, с чем нельзя мириться или обращаться снисходительно\", - подчеркнул аль-Куни в официальном заявлении",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "dva_majors/102439",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102439",
-      "published_at": "2026-11-23T19:54:28+00:00",
-      "text": "✨ Сбор на Запорожский фронт ✨ 449 человек участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка для дооснащения цеха БПЛА и обеспечения его бесперебойным электроснабжением. ▪️ Эл.станц. -4шт- 1 000 000 ₽ ▪️ Генератор -2шт- 600 000 ₽ ▪️ Станки для опты -2шт- 700 000 ₽ ▪️ Оборуд. FPV - 450 000 ₽ Необходимо: 2 750 000 ₽ Собрано за сутки: 228 970 ₽ Собрано всего: 2 572 919 ₽ Осталось собрать: 177 081 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234475",
+      "id": "boris_rozhin/234478",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234475",
-      "published_at": "2026-11-23T19:40:14+00:00",
-      "text": "Одесса может остаться без света до трех недель, пишет Forbes. Отмечается, что российские удары повредили линию электропередачи от Южно-Украинской АЭС: повреждены три опоры. Из-за этого на выходных у города не было источника электроснабжения. Ситуацию удалось частично стабилизировать, но восстановление опор может занять до трех недель. @parstodayrussian",
+      "url": "https://t.me/boris_rozhin/234478",
+      "published_at": "2026-11-23T20:51:18+00:00",
+      "text": "Анимированная схема ударов по территории Украины 07:30 22 ноября 2026 – 07:30 23 ноября 2026 года. Изменения выявленные в процессе создания схемы: 02:15 Малин Житомирской области и Дымер Киевская области — взрывы. Герани.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "odesa",
+        "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "dva_majors/102438",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102438",
-      "published_at": "2026-11-23T19:39:58+00:00",
-      "text": "⚡️ Рютте призвал готовить общество стран НАТО к войне Генсек НАТО Марк Рютте призвал страны альянса укреплять готовность всего общества на случай войны: с участием граждан, бизнеса и органов власти. Об этом он заявил 23 ноября в Берлине на сессии Парламентской ассамблеи НАТО. По его словам, необходимо обеспечить устойчивую работу электроснабжения, отопления, больниц, транспорта и связи. Граждане должны понимать, как действовать при начале войны, а полиция, скорая помощь и пожарные - работать согласованно и по возможности помогать военным. В качестве примера Рютте назвал Норвегию, Швецию, Данию и Финляндию, где населению уже разъясняют порядок действий в такой ситуации. Призыв прозвучал на фоне угроз, которые генсек связывает с Россией и её сотрудничеством с Ираном, Китаем и КНДР. ✨ Ну а главное, на что не обратили журналисты, он сказал в начале своего выступления, полностью оправдывая свою работу в интересах оружейного лобби. Скриншот из стенограммы - ниже. Два майора ✨ Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "bricsnews/19787",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19787",
-      "published_at": "2026-11-23T19:30:31+00:00",
-      "text": "JUST IN: 🇺🇦 🇺🇸 President Zelensky calls on US to send Ukraine Patriot air defense missiles. \"We have intelligence indicating that the Russians are preparing new strikes.\" @BRICSNews",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234473",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234473",
-      "published_at": "2026-11-23T19:23:01+00:00",
-      "text": "Уничтожение БпЛА ВСУ расчетами ПВО 50-й отдельной бригады «Варяг» над трассой Новороссия #121",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234472",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234472",
-      "published_at": "2026-11-23T19:22:01+00:00",
-      "text": "Последствия ракетного удара по дамбе в нп Печенеги Харьковской области",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199074",
+      "id": "DDGeopolitics/199077",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199074",
-      "published_at": "2026-11-23T19:21:59+00:00",
+      "url": "https://t.me/DDGeopolitics/199077",
+      "published_at": "2026-11-23T20:39:14+00:00",
+      "text": "🇩🇪 Germany will stop paying Ukraine and stop sending it weapons if the Alternative for Germany (AfD) wins power, says party co-leader Alice Weidel. \"We will cut excessive defense spending by tens of billions, significantly reduce payments to the European Union, and stop payments and arms deliveries to Ukraine,\" Weidel said. \"We can't keep redistributing money to Ukraine or to some billion-euro Brazilian rainforest fund. It seems there's enough money for everyone, everywhere, for every country and for NGOs, but not for our own citizens. Not for pensioners, not for taxpayers, not for those paying into social security. Only for foreign states.\" The next German federal election is officially due in 2029, but it could be called early. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234477",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234477",
+      "published_at": "2026-11-23T20:35:08+00:00",
+      "text": "Моя статья для ТАСС на тему размещения регулярных войск НАТО на Украине. https://tass.ru/opinions/28346381",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199076",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199076",
+      "published_at": "2026-11-23T20:27:20+00:00",
       "text": "🇱🇾 🇺🇦 Libya accuses Ukraine of declaring war and demands that Zelensky be placed on a terrorism watchlist Musa al-Koni, a member of Libya’s Presidential Council, has placed full responsibility on Ukraine for the reported strike on the port of Benghazi, threatening Kiev with international legal and diplomatic action. In an official statement, al-Koni said: “We hold the Ukrainian side fully responsible for these terrorist acts, which Zelensky has acknowledged, openly declared and even boasted about. These actions amount to a declaration of war against the Libyan state. Any violation of Libya’s sovereignty, national security and resources is unacceptable and will not be tolerated.” Libya intends to take the matter to the International Court of Justice, the UN Security Council and other international organisations, seeking accountability for those responsible. Al-Koni also called for an emergency meeting of the UN Security Council, demanded that Zelensky be added to the list of individuals suspected of terrorism, and urged immediate measures to prevent further attacks. He separately called for emergency meetings of Libya’s joint military committees to discuss the country’s response to the situation. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
@@ -226,57 +195,31 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407256",
+      "id": "tass_agency/407258",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407256",
-      "published_at": "2026-11-23T19:21:56+00:00",
-      "text": "В Ливии назвали действия Украины равносильными объявлению войны. Нападение на морской порт Бенгази причинило материальный ущерб и привело к ранениям среди мирного населения, отметил заместитель председателя Президентского совета Ливии Муса аль-Куни. Ранее…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350346",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350346",
-      "published_at": "2026-11-23T19:17:19+00:00",
-      "text": "Ливия подаст на Украину в Международный суд ООН из-за ударов по порту Бенгази. Посольство страны в Гааге заявило , что порту нанесен значительный материальный ущерб, который украинцы должны возместить в соответствии с международным правом - документы уже готовят. Ливийский МИД потребовал от Украины официальных объяснений в связи с сообщениями о причастности Киева к атакам по порту. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/tass_agency/407258",
+      "published_at": "2026-11-23T20:24:04+00:00",
+      "text": "За атакой на российское судно в Балтийском море, вероятнее всего, стоит Украина, заявил директор по коммуникациям Сил обороны Финляндии полковник Хухтинен, его слова приводит Yle. Он добавил, что неизвестно, почему по судну был нанесен удар.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98493",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98493",
-      "published_at": "2026-11-23T19:05:24+00:00",
-      "text": "🇩🇪 🇪🇺 🇷🇺 ⚡ Europe is ready to hold talks with Russia on resolving the Ukraine conflict and expressed hope that a new round would take place soon, German Chancellor Friedrich Merz said. “Peace talks at the level of advisers should resume soon in the Ukraine, Russia, Europe and US format. This could take place, for example, in Abu Dhabi again,” he said at a joint news conference with NATO Secretary General Mark Rutte in Berlin, adding that the talks have been coordinated with the United States. @IntelSlava",
+      "id": "rybar_in_english/35976",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35976",
+      "published_at": "2026-11-23T20:00:46+00:00",
+      "text": "📝 Rybar's Main Points 📝 digest of materials for November 23 We analyzed how events near Benghazi actually unfolded, and how similar lessons need to be applied in the Black Sea waters. ❗ Read more about these and other topics in our digest. ➡ Rybar @rybar — we talk about complex things simply. The main resource of our think tank. The most important and interesting materials. ▪ Chronicles of the SMO, the course of the blockade of Ukrainian shipping, attack on a Russian convoy off the coast of Libya, AFU strike on Russian regions ▪ Rybar explains: how real are the threats from the EU ▪ A place for an alternative point of view in Serbia ▪ The struggle for Armenia's new constitution ▪ How political failures are being drawn into the media ➡ ASIABAR @rybar_Pacific Japanese citizens were added to the Myrotvorets database after a trip to the DNR. In the US, Jensen Huang was returned to Nvidia so as not to lose the technological race to China. And in Indonesia, they are choosing a new vice president. ➡ AMERICABAR @rybar_america The head of US intelligence was burdened with duties, the Democratic Party is starting the 2028 race, Jensen Huang is being returned to Nvidia, and the triumph of GTA VI turns into a scandal. ➡ AFRICABAR @rybar_Africa In the Sahel, the struggle against radical Islamism is in full swing, and leaked documents indicate that both the French and the Americans are actively building their own \"fronts\" in West Africa. ➡ BALKANBAR @balkanar Aleksandar Vučić announced preparations for an assassination attempt on his life, and in Europe they continue to search for those who set fire to Starlink terminals. ➡ EUROBAR @evropar At the civilian airport in Polish Wrocław, construction of a military transport hub for the US Air Force has started. In Germany, they took a legal day off for GTA VI. ➡ CAUCASUSBAR @caucasar In Yerevan, they announced the launch of TRIPP, and in Baku they approved the project of Armenia's new Constitution. ➡ LATINBAR @rybar_latam In Panama, they are revising maritime strategy in favor of the US, in Colombia they are trying to rein in the former president, and in Venezuela there was an attack on a military academy. ➡ ORIENTBAR @rybar_mena Iranians are shooting down drones in batches, but they are sitting without electricity and waiting for a revolution, and in Iraq civil war has already been canceled.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "MFARussia/33569",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33569",
-      "published_at": "2026-11-23T19:01:20+00:00",
-      "text": "#RussiaUS American kids making photos during a walk on Vasilyevsky Spusk (literally Basil's Descent) in Moscow, where they arrived to participate in the first joint Soviet-American musical, “Peace Child” . The musical performance took place on stage at the Moscow City Palace of Pioneers and Schoolchildren on the Leninsky Hills (Hills of Lenin). 🗓 August 1, 1986 #HistoryThroughPhotoLens 📸 © RIA Novosti",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
+        "drone",
+        "strike"
       ],
       "possible_duplicate_urls": []
     }
