@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-23T17",
+  "generated_at_utc": "2026-11-23T18:25:04.932623+00:00",
+  "window_start_utc": "2026-11-23T17:00:00+00:00",
+  "window_end_utc": "2026-11-23T18:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 28,
+    "relevant_posts": 10,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
+  },
+  "posts": [
+    {
+      "id": "boris_rozhin/234468",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234468",
+      "published_at": "2026-11-23T17:59:58+00:00",
+      "text": "Краснолиманское направление ( данные от @DnevnikDesantnika ) На подступах к Красныму Лиману продолжаются тяжёлые бои. (1) Российские войска вернули контроль территории севернее Торского (рыб хозяйство). (1) Наши воины возобновили наступательные действия в лесах северо-западнее Заречного. (1) на юго-востоке города сохраняется сложная обстановка. Идут бои в треугольнике Диброва-Ямполь-Озерное. (1) Пока не удается закрепиться в Диброва. Верим в наших парней. Ждем благих новостей. (1) В национальном парке «Святые горы» ситуация неустойчивая. Учитывая лесистую местность, удержание позиций тут является сложной задачей. ЛБС не стабильна. Открасы в ту или другую сторону не делаем, отмечаем ее «серой зоной». Видео 2. Краснолиманское направление. «Солнцепек» выжигает врага с исконно русских земель Донбасса! Сорвали ротацию ВСУ. Как работает ТОС «Солцкпек»: объемный взрыв: распыленная горючая смесь проникает в щели и укрытия, после чего детонирует, создавая избыточное давление и температуру до 3000 градусов. Укрытия не спасают, т.к. ударная волна и перегретый газ затекают в блиндажи, окопы и подвалы, превращая их в ловушку. Один снаряд выжигает всё в радиусе около 50 метров, а полный залп (24 снаряда) накрывает до 40 000 кв. м.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98485",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98485",
+      "published_at": "2026-11-23T17:49:37+00:00",
+      "text": "🇺🇦 🇮🇷 ⚡️ — Now, an Iranian ship has also been attacked off the coast of Libya. This is the same area where, previously, Ukrainian naval drones attacked Russian ships. Is it a coincidence? @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117349",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117349",
+      "published_at": "2026-11-23T17:44:58+00:00",
+      "text": "Сегодня силами ПВО уничтожены 87 украинских БПЛА над Белгородской, Брянской, Курской, Орловской областями, Пермским краем, Крымом и Татарстаном, над акваторией Черного моря, – сообщили в Минобороны РФ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407248",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407248",
+      "published_at": "2026-11-23T17:33:02+00:00",
+      "text": "За атакой на российское судно в Балтийском море, вероятнее всего, стоит Украина, заявил директор по коммуникациям Сил обороны Финляндии полковник Хухтинен, его слова приводит Yle. Он добавил, что неизвестно, почему по судну был нанесен удар.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33567",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33567",
+      "published_at": "2026-11-23T17:29:57+00:00",
+      "text": "🎙 Foreign Ministry Spokeswoman Maria Zakharova ’s answer to a media question about Norway’s restrictions on entry for Russian and Belarusian athletes (20 November 2026) ❓ Question: As of November 16, the Norwegian Government has restricted entry to the country for athletes from Russia and Belarus seeking to compete in sporting events. How would you comment on this? 💬 Maria Zakharova: In defiance of the decisions of the International Olympic Committee, the Court of Arbitration for Sport and international sports federations , the Norwegian Government announced on November 13 that it intended to deny visas to Russians and Belarusians travelling to the country to take part in international competitions and to deport them if they arrived using Schengen visas issued by Norway or other countries. The Norwegian authorities do not want to see professional athletes from Russia and Belarus, including those competing under a neutral flag, on their territory until the “war in Ukraine” is over. They justify this measure by citing the close ties between Russian and Belarusian elite sport and government authorities. We regard these unfriendly steps by Oslo as blatant and outrageous discrimination against Russians on the grounds of their nationality. This approach runs entirely counter to the universal international principle of “sport outside politics” and has nothing to do with sport in general, as it destroys the healthy competition inherent in it and turns established sporting competitions into an exclusive club for insiders. ❗️ We strongly condemn the shameful actions of the Norwegian authorities. I would also like to point out that Norway is far from the only country that allows itself to violate the fundamental principles of the international sports movement , the Olympic Charter and the political neutrality of sport. Other Nordic countries continue to take a hard line as well. For example, the Finlandia Trophy, a figure skating event in the ISU Grand Prix series, is being held in Helsinki on November 20 and 21. However, our athletes, who were initially invited by the organisers to compete, will be unable to attend because of restrictions recently imposed by the Finnish Government. Given the exceptionally high skill level of Russian figure skaters, who would clearly have been in contention for medals, their absence inevitably lowers the standard of the competition and devalues its results . We take the same view on other competitions where Western countries deny access to our talented athletes by creating artificial obstacles or directly and unlawfully refusing them entry. There is no doubt that these restrictions are driven primarily by Russophobia , which has long reached epidemic proportions in the Nordic countries. For its part, Russia will continue to consistently defend the interests of its sports sector and provide all necessary assistance to our national federations and teams. ☝️ We support the efforts of the Russian Ministry of Sport, the Russian Olympic Committee and the relevant sports federations to uphold our athletes’ legitimate right to compete in international tournaments, including through legal proceedings and, where necessary, by taking action against competition organisers who violate established rules. The idea of preserving a clean, apolitical international sports movement is shared by the majority of countries, as reflected in the positions taken by many international federations. Our country has been and remains a great sporting power, and any attempts to isolate it or push it out of international sport are futile and doomed to fail.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407246",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407246",
+      "published_at": "2026-11-23T17:27:01+00:00",
+      "text": "▶️ Бездумная поддержка Нидерландами неонацистского киевского режима \"является неприкрытым движением по лестнице эскалации\", заявила Мария Захарова. Ранее нидерландская частная компания Destinus, занимающаяся производством вооружений, сообщила, что ее ракеты…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199066",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199066",
+      "published_at": "2026-11-23T17:12:46+00:00",
+      "text": "🇺🇦 The human-hunting TCC nearly forced Verkhovna Rada deputy Oleksandr Kunitsky into mobilisation shortly after his return to Ukraine following two years abroad. The incident began when the MP intervened on behalf of an ordinary passer-by whom TCC officers were attempting to force into a vehicle. Kunitsky was immediately grabbed by the collar, and his phone was confiscated. Once the officers realised they were dealing with a member of parliament, their aggression suddenly subsided. However, their usual arrogance remained. They began insisting that no physical violence had taken place, nobody had been detained and his phone had never been seized. Evidence to the contrary made little difference. The TCC has become a law unto itself, operating as a new caste of untouchables. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117348",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117348",
+      "published_at": "2026-11-23T17:07:38+00:00",
+      "text": "Уверен, что нам удастся вернуть жителям и свет, и тепло, просто нужно немножечко запастись терпением , – сообщил замминистра угля и энергетики ДНР Александр Путяков. Он добавил, что помощь от федцентра для восстановления энергетики республики поступит в ближайшее время. Ранее сообщалось о том, что в Минэнерго РФ сообщили о дополнительных поставках оборудования в Крым, Донбасс и Новороссию для нормализации работы энергосистемы на фоне атак ВСУ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35974",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35974",
+      "published_at": "2026-11-23T17:05:58+00:00",
+      "text": "Fwd from @ 📝 Instead of gratitude 📝 Japanese ended up in the \"Myrotvorets\" database after a trip to the DNR Kyiv apparently failed to learn lessons from recent diplomatic scandals with South Koreans and Italians. While Japanese authorities continue to provide assistance to so-called Ukraine, destroying relations with Russia's leadership, the Kyiv regime in response creates problems out of thin air for itself and its partners. The Ukrainian website \"Myrotvorets\" database included local parliament deputy from Yamanashi Prefecture Yoshihiko Fujimoto and journalist Naoko Iizuki . The basis was their trip to Donetsk, where the delegation met with DNR Vice-Premier Artyom Kramarenko and discussed cooperation in agriculture, experience exchange between agricultural universities and the creation of a Japanese garden with cherry blossoms. In an interview, Fujimoto stated that what he saw on the ground differs from the picture formed by Japanese media. The delegation also included historian and public figure Takeyuki Tanaka , author of a book about events in Donbas. He was added to \"Myrotvorets\" back in March. 📌 Just a few days ago a diplomatic scandal erupted between the Italian government and the Kyiv regime after MEPs and Vice-Premier Matteo Salvini were added to the website's database. Prime Minister Giorgia Meloni personally told Zelensky this was unacceptable, and the Italian Foreign Ministry demanded clarification. ❗️ There has been no reaction from the Japanese side so far, although the situation could change if local media pick up the story. However, given that this concerns a regional politician and journalist, the Japanese government will likely prefer to overlook what happened. #Russia #Ukraine #Japan 🏮 @rybar_pacific — your ticket to Pacific chaos 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33566",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33566",
+      "published_at": "2026-11-23T17:02:36+00:00",
+      "text": "🗓 On November 23, Russian Foreign Minister Sergey Lavrov received High Representative of the Board of Peace for Gaza Nikolay Mladenov , who is in Moscow on a working visit. The discussion focused primarily on the Middle East settlement . The Russian Side reaffirmed its firm commitment to the two-state solution to the Palestinian-Israeli conflict , based on the universally recognised international legal framework and relevant UN Security Council and General Assembly resolutions. ☝️ Russia expressed its readiness to facilitate the parties’ return to negotiations on a lasting settlement , with the aim of establishing an independent Palestinian State , ensuring territorial contiguity between Gaza and the West Bank, with East Jerusalem as its capital. The unacceptability of resorting to terrorism and unilateral steps that prejudge the status of the Palestinian territories was emphasised. The Minister separately stressed the responsibility of external actors and the need to coordinate their efforts while fully taking into account the positions of regional states. It was emphasised that there is no alternative to resolving disputes through political means and negotiations as the fundamental prerequisite for ensuring the security of all Middle Eastern countries without exception. 👉 Attention was drawn to Russia’s Concept of Collective Security in the Persian Gulf , the provisions of which could be applied to resolving other crises in the Middle East. On the same day, Russia's Deputy Foreign Minister Georgy Borisenko held extensive consultations with Nikolay Mladenov .",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
