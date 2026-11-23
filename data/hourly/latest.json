@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T05",
-  "generated_at_utc": "2026-11-23T06:30:21.965781+00:00",
-  "window_start_utc": "2026-11-23T05:00:00+00:00",
-  "window_end_utc": "2026-11-23T06:00:00+00:00",
+  "hour_id": "2026-11-23T06",
+  "generated_at_utc": "2026-11-23T07:27:12.690585+00:00",
+  "window_start_utc": "2026-11-23T06:00:00+00:00",
+  "window_end_utc": "2026-11-23T07:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,13 +15,13 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
@@ -39,19 +39,19 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 9
+      "raw_count": 7
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 5
     },
     {
       "handle": "rybar_in_english",
@@ -69,7 +69,7 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
@@ -99,56 +99,37 @@
       "handle": "donbassr",
       "name": "Donbass Decides (Донбасс решает)",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 4
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 25,
-    "relevant_posts": 9,
-    "deduplicated_posts": 9,
-    "candidate_posts": 9
+    "raw_posts": 24,
+    "relevant_posts": 14,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
   },
   "posts": [
     {
-      "id": "donbassr/117308",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117308",
-      "published_at": "2026-11-23T05:50:52+00:00",
-      "text": "❗️ В результате вчерашней атаки БПЛА ВСУ в Петровском районе Донецка ранен подросток 2012 года рождения , сообщает глава города Кулемзин ◾️ Также в результате ночной атаки повреждено остекление медицинского учреждения в Будённовском районе. Донбасс решает в MАX",
+      "id": "AussieCossack/53511",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53511",
+      "published_at": "2026-11-23T06:51:20+00:00",
+      "text": "❗️ Jared Kushner: Trump is prepared to offer Ukraine serious security guarantees, provided he is convinced that the risk of another conflict is extremely low. Kushner said the goal is to establish a security framework in which Ukraine remains secure, Europe becomes stronger, Russia has confidence that NATO is not seeking confrontation. He added that Ukraine’s security guarantees must be addressed as part of a broader European security architecture. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "drone",
-        "strike"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407129",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407129",
-      "published_at": "2026-11-23T05:42:01+00:00",
-      "text": "Удары ВС РФ по мостам через Днепр кратно снизили трафик ВСУ в Донбасс и Новороссию, сообщил военный эксперт Марочко. В настоящее время из шести мостов Киева полноценно работают лишь три.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234410",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234410",
-      "published_at": "2026-11-23T05:30:08+00:00",
-      "text": "Наступ ВСУ в Сумской области Тут украинские формирования решили порадовать публику «отборным контентом», заявив, что они выбили российские войска с нескольких населенных пунктов в приграничье. По данным укроресурсов, они забрали Новониколаевку, Юнаковку, Алексеевку, Яблоновку, Варачино и двигаются в сторону Беловод. И якобы они обладают тотальным преимуществом. В Юнаковке они действительно пытаются, это факт. НО населенный пункт сейчас под активным огнем дронов с двух сторон. И сам населенник фактически превратился в серую зону. Что касается других сел, которые ВСУ указали, как свои, все иначе. Российские подразделения дали активный отпор. В Яблоновке, Новониколаевке и Варачино 1434 полк Ахмат выбил ВСУ, а в Беловодах 83 гв ОДШБр ВДВ. Ну а на видео все прекрасно видно, кто и как контролирует приграничные районы Сумской области. На этом направлений у российских подразделений все под более четким контролем. @arx_spn",
+      "id": "dva_majors/102384",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102384",
+      "published_at": "2026-11-23T06:48:15+00:00",
+      "text": "✍️ Наступ ВСУ в Сумской области Тут украинские формирования решили порадовать публику «отборным контентом», заявив, что они выбили российские войска с нескольких населенных пунктов в приграничье. По данным укроресурсов, они забрали Новониколаевку, Юнаковку, Алексеевку, Яблоновку, Варачино и двигаются в сторону Беловод. И якобы они обладают тотальным преимуществом. В Юнаковке они действительно пытаются, это факт. НО населенный пункт сейчас под активным огнем дронов с двух сторон. И сам населенник фактически превратился в серую зону. Что касается других сел, которые ВСУ указали, как свои, все иначе. Российские подразделения дали активный отпор. В Яблоновке, Новониколаевке и Варачино 1434 полк Ахмат выбил ВСУ, а в Беловодах 83 гв ОДШБр ВДВ. ❗️ Ну а на видео все прекрасно видно, кто и как контролирует приграничные районы Сумской области. На этом направлений у российских подразделений все под более четким контролем. 🤙 Архангел Спецназа ! ❗️ 🤙 Если не грузит видео - смотрите у нас в MAX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -157,88 +138,154 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350304",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350304",
-      "published_at": "2026-11-23T05:27:09+00:00",
-      "text": "Украинские БПЛА атаковали резервуары для хранения нефти в Татарстане, оперативные службы ликвидируют последствия. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117306",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117306",
-      "published_at": "2026-11-23T05:23:16+00:00",
-      "text": "❗️ ВС РФ ночью поразили электроподстанцию 330 кВ в Днепропетровске, обеспечивающую работу предприятий ВПК Украины — сообщили в Минобороны ▪️ Также в порту Измаил поражены объекты портовой инфраструктуры, задействованные в доставке военного имущества для украинских боевиков. ▪️ Поражен сухогруз в море юго-западнее Одессы, доставлявший грузы военного назначения. ▪️ Кроме того, в районе железнодорожной станции «Днепродзержинск» Днепропетровской области поражены два железнодорожных локомотива, используемых в интересах перевозки вооружения и военной техники для ВСУ. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350303",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350303",
-      "published_at": "2026-11-23T05:20:15+00:00",
-      "text": "Российские войска ударили по электроподстанции в Днепропетровске, сообщили в Минобороны. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407123",
+      "id": "tass_agency/407136",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407123",
-      "published_at": "2026-11-23T05:16:55+00:00",
-      "text": "Премьер Пакистана прибудет в Россию 30 ноября с трехдневным визитом, сообщает газета Dawn. Шариф планирует обсудить с Путиным вопросы безопасности, торговли и энергетики. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "url": "https://t.me/tass_agency/407136",
+      "published_at": "2026-11-23T06:47:42+00:00",
+      "text": "❗️ В Крыму задержан мужчина, сообщивший ГУР МО Украины данные об экс-сотруднике Министерства госбезопасности ДНР для его ликвидации, сообщает ФСБ. ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy"
+        "crimea"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "wargonzo/38579",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38579",
-      "published_at": "2026-11-23T05:08:01+00:00",
-      "text": "⚡️ Фронтовая сводка на утро 23.11.26 ⚡️ Запорожский фронт На Каменском направлении продолжаются столкновения на рубеже Степногорск – Приморское, а также в районе Лукьяновского. (Рис. 1.1) На Гуляйпольском направлении ВС РФ ведут наступательные действия в районах Любицкого, Новосолошино, Воздвижевки и Рождественского. (Рис. 1.2) Донецкий фронт На Добропольском направлении идут бои в районе Сергеевки. Сообщается об успехах ВС РФ в Новоявленке. (Рис. 2.1) На Константиновском направлении войска РФ расширяют зону контроля и закрепляются в районе Николайполья. Продолжаются бои на рубеже между Райским и Алексеево-Дружковкой. На Краснолиманском направлении продолжаются бои в районах населённых пунктов Диброва, Ямполь и Озёрное. ВС РФ улучшают позиции севернее Рай-Александровки. (Рис. 2.2) Харьковский фронт ВС РФ ведут бои в Купянске и расширяют зону контроля западнее города. (Рис. 3.1) На Волчанском направлении МО РФ сообщило об освобождении населённого пункта Сосновый Бор. Войска РФ продолжают продвижение на юг вдоль трассы Волчанск – Харьков, где ведут бои в районе Бугаевки и Шевченково Первого. (Рис. 3.2) Сумской фронт Идут бои в районах Юнаковки, Садков, Хотени и Груновки. В Шосткинском районе ВС РФ производят зачистку лесного массива в районе населённого пункта Коренёк. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kharkiv",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407121",
+      "id": "tass_agency/407135",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407121",
-      "published_at": "2026-11-23T05:03:29+00:00",
-      "text": "Главные новости к этому часу: ◾️ Песков в комментарии \"Ведомостям\" объяснил , почему РФ не спешит назначать послов в Лондон и Париж. ◾️ Кушнер заявил о стремлении США убедить Россию в мирных намерениях НАТО. ◾️ В США задержаны почти 6 тыс. авиарейсов, свидетельствуют данные FlightAware. ◾️ Демократы получат рекордное число мест в Палате представителей, сообщило Associated Press. ◾️ В МВД сообщили, что мошенники рекламируют ИИ для обработки фотографий. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "url": "https://t.me/tass_agency/407135",
+      "published_at": "2026-11-23T06:42:01+00:00",
+      "text": "Вопрос мира на Украине полностью \"завяз в политике европейского болота\" , заявил Медведчук. \"Большинство нынешних европейских руководителей не придерживается мирных принципов ЕС и рассматривают Евросоюз как глобальную империю, которая будет продвигаться силой оружия\", — отметил он.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234416",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234416",
+      "published_at": "2026-11-23T06:40:10+00:00",
+      "text": "Боевая работа 50-й отдельной бригады «Варяг» по уничтожению техники противника на Ореховском тактическом направлении Операторы FPV-дронов продолжают уничтожать технику противника, поражая НРТК и другой автотранспорт ВСУ. «Варяг» успешно работает на своём направлении, срывая подвоз продовольствия и затрудняя поставки боеприпасов на передовую.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198972",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198972",
+      "published_at": "2026-11-23T06:26:07+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation delivered strikes by UAVs against power facilities, logistics and port infrastructure, as well as ships used in the interests of the AFU. 💥 As a result of the strikes, the following targets were hit : ▫️ a 330 kV electrical substation in Dnepropetrovsk, which supports the operation of Ukraine's defence industry enterprises; ▫️ port infrastructure facilities involved in the delivery of military equipment for the Ukrainian armed forces in the port of Izmail (Odessa region); ▫️ a dry cargo ship , which delivered military-purpose cargo, was hit at sea south-west of Odessa. 🔥 In addition, two railway locomotives used for transporting armament and military hardware for the AFU were hit near the Dneprodzerzhinsk railway station in Dnepropetrovsk region. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/mod_russia_en/30740"
+      ],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117312",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117312",
+      "published_at": "2026-11-23T06:25:17+00:00",
+      "text": "Системные удары ВС России по мостам через реку Днепр кратно снизили военный трафик ВСУ в Донбасс и Новороссию , сообщил военный эксперт Андрей Марочко. \"Удары ВС РФ по украинским тылам серьезно усугубили положение боевиков. По полученной информации, стало известно, что удары ВС РФ по энергетической инфраструктуре Киева серьезно повлияли на отгрузку военных грузов, а в Кривом Роге остановлено одно из предприятий, работающее на нужды украинской армии\", - написал он. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117311",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117311",
+      "published_at": "2026-11-23T06:24:43+00:00",
+      "text": "❗️ ПВО за ночь сбила 192 украинских беспилотника над регионами России, сообщает Минобороны РФ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350308",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350308",
+      "published_at": "2026-11-23T06:21:07+00:00",
+      "text": "Ситуацию с исчезновением россиянина на Пхукете выясняют дипломаты. Пропавшего на острове 74-летнего мужчину ищут волонтеры и полиция. Россиянин вышел вчера утром из кондоминимума и не вернулся. Телефона у него с собой нет. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234415",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234415",
+      "published_at": "2026-11-23T06:15:05+00:00",
+      "text": "Сегодня ночью Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетики, логистической и портовой инфраструктуры, а также морским судам, задействованным в интересах ВСУ. В результате ударов поражены: электроподстанция 330 кВ в Днепропетровске, обеспечивающая работу предприятий военной промышленности Украины; в порту Измаил Одесской области − объекты портовой инфраструктуры, задействованные в доставке военного имущества для украинских вооруженных сил; морское судно типа «сухогруз» на переходе морем юго-западнее Одессы, доставлявшее грузы военного назначения. Кроме того, в районе железнодорожной станции «Днепродзержинск» Днепропетровской области поражены два железнодорожных локомотива, используемых в интересах перевозки вооружения и военной техники для ВСУ. (С) МО РФ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407133",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407133",
+      "published_at": "2026-11-23T06:14:57+00:00",
+      "text": "🚨 Средства ПВО за ночь сбили 192 украинских беспилотника над регионами РФ, сообщает Минобороны.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350305",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350305",
+      "published_at": "2026-11-23T06:05:04+00:00",
+      "text": "Пять сессий пройдут в первый день инвестиционного форума ВТБ \"Россия зовет!\" 1 декабря. Среди тем – международное сотрудничество, перспективы промышленной кооперации, макроэкономические тренды и влияние нейросетей на трансформацию инвестиций. В первый день также состоится \"пленарка\", ее модератор - глава ВТБ Андрей Костин. Во второй день форума участники обсудят инвестиционные стратегии и инструменты для долгосрочного роста капитала. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407130",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407130",
+      "published_at": "2026-11-23T06:04:01+00:00",
+      "text": "В базу экстремистского сайта \"Миротворец\" внесли делегацию из Японии, посетившую ДНР . Об этом свидетельствуют данные ресурса, с которыми ознакомился ТАСС. Авторы, в частности, обвинили депутата Фудзимото и журналиста Иидзуку в покушении на территориальную целостность Украины. На днях скандал из-за включения в базу евродепутатов и вице-премьера разгорелся в Италии. Глава МИД страны потребовал разъяснений от Киева. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
       "possible_duplicate_urls": []
     }
   ]
