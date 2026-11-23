@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T09",
-  "generated_at_utc": "2026-11-23T10:25:25.142714+00:00",
-  "window_start_utc": "2026-11-23T09:00:00+00:00",
-  "window_end_utc": "2026-11-23T10:00:00+00:00",
+  "hour_id": "2026-11-23T10",
+  "generated_at_utc": "2026-11-23T11:22:17.339504+00:00",
+  "window_start_utc": "2026-11-23T10:00:00+00:00",
+  "window_end_utc": "2026-11-23T11:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
-      "pages": 1,
-      "raw_count": 8
+      "pages": 2,
+      "raw_count": 7
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 3
     },
     {
       "handle": "bricsnews",
@@ -27,13 +27,13 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 12
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 4
     },
     {
       "handle": "rybar_in_english",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 4
     },
     {
       "handle": "WarGonzo",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 6
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "nab_ukraine",
@@ -93,136 +93,101 @@
       "handle": "sap_gov_ua",
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "donbassr",
       "name": "Donbass Decides (Донбасс решает)",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 4
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 28,
-    "relevant_posts": 16,
-    "deduplicated_posts": 16,
-    "candidate_posts": 16
+    "raw_posts": 48,
+    "relevant_posts": 27,
+    "deduplicated_posts": 27,
+    "candidate_posts": 27
   },
   "posts": [
     {
-      "id": "MFARussia/33546",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33546",
-      "published_at": "2026-11-23T09:59:56+00:00",
-      "text": "#MartyrsForTruth Boris Maksudov 1985–2023 Journalist. Worked as a correspondent for the Vesti programme on VGTRK Rossiya and the Rossiya 24 TV channel. From the very first days of the special military operation, he reported from the combat zone. ▪️ He was killed three years ago, on 23 November 2023, from injuries sustained the previous day when a Ukrainian drone attacked him in the Zaporozhye Region while he was filming a report. Posthumously awarded the Order of Courage. #NoStatuteOfLimitations #KievRegimeCrimes",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/mod_russia_en/30745"
-      ]
-    },
-    {
-      "id": "bricsnews/19781",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19781",
-      "published_at": "2026-11-23T09:55:56+00:00",
-      "text": "JUST IN: 🇷🇺 NATO reportedly believes Russia is preparing to launch a nuclear-armed satellite. @BRICSNews",
+      "id": "AussieCossack/53514",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53514",
+      "published_at": "2026-11-23T10:58:17+00:00",
+      "text": "❗️ Marine Le Pen on calling Vladimir Putin a war criminal: Such sweeping statements are actually ridiculous, and they run counter to the need for peace. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117325",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117325",
-      "published_at": "2026-11-23T09:47:47+00:00",
-      "text": "Видя успехи российской армии на линии фронта, к аргументам России на переговорах уже стали прислушиваться, - сказала депутат Народного Совета ДНР Елена Шишкина. «Но хочу отметить, что Российская Федерация в дипломатических переговорах никогда не делала ставку на силовой сценарий», - подчеркнула она. Донбасс решает в MАX",
+      "id": "mod_russia_en/30747",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30747",
+      "published_at": "2026-11-23T10:54:01+00:00",
+      "text": "Hunting the vulnerable: odium and baseness of AFU militants 💬 One of the rescued residents of Konstantinovka described the cruelty of Ukrainian nationalists. ▫️ While the civilians hid in half-ruined houses and basements, the AFU deliberately attacked them with drones , trying to make their attacks look like the work of the Russian army. 'The AFU begins to stick red tape to batteries, Mavics, drones, like Russia does everything. And they burn houses,' the civilian told. ▫️ At least twenty such drones were lying around his house. Local residents saw all these provocations by AFU militants with their own eyes. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "negotiation"
+        "drone",
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "mod_russia_en/30745",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30745",
-      "published_at": "2026-11-23T09:43:45+00:00",
-      "text": "🎖 🎖 by Russian Defence Ministry on progress of special military operation as of 23 November 2026 Part 2 ( 👉 see Part 1 ) ↗️ The Vostok Group of Forces continued to advance into the depths of the enemy's defence. Manpower and hardware of two mechanised brigades, one assault brigade, and one assault regiment of the AFU have been hit near Mayak, Tikhoye (Dnepropetrovsk region), Veseloye, and Odarovka (Zaporozhye region). ▪️ The AFU losses amounted to more than 195 troops, one armoured fighting vehicle, one 155-mm Bogdana howitzer, and two motor vehicles. 📍 The Dnepr Group's units improved the situation along the front line. Formations of two AFU mechanised brigades were neutralised near Kirovo (Zaporozhye region) and Belozerka (Kherson region). ▪️ Up to 20 troops, 16 motor vehicles, and three electronic warfare stations were neutralised. ✈️ Operational-tactical aviation, attack drones, missile troops, and artillery of the Russian Groups of Forces inflicted damage on power and transport infrastructure used in the interests of the AFU, production and storage areas of unmanned aerial vehicles and ground robotic systems,ammunition depots, military airfields, air surveillance radars, as well as temporary deployment areas of Ukrainian armed formations and foreign mercenaries in 142 areas. ▫️ Air defence systems shot down four guided aerial bombs, one HIMARS-made MLRS projectile, and 819 fixed-wing unmanned aerial vehicles. 📊 In total, since the beginning of the special military operation, the enemy has lost: ▫️ 674 aircraft, ▫️ 284 helicopters, ▫️ 296,103 unmanned aerial vehicles, ▫️ 672 anti-aircraft missile systems, ▫️ 31,755 tanks and other armoured fighting vehicles, ▫️ 1,797 MLRS combat vehicles, ▫️ 36,979 field artillery guns and mortars, ▫️ 77,915 special military vehicles. 🔹 Russian Defence Ministry",
+      "id": "rian_ru/350322",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350322",
+      "published_at": "2026-11-23T10:51:42+00:00",
+      "text": "Путин встретился с главой ФНС Егоровым. Поступления налогов в бюджетную систему России за 10 месяцев 2026-го выросли на 11%, до 54,6 триллиона рублей, следует из материалов к встрече. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117329",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117329",
+      "published_at": "2026-11-23T10:50:29+00:00",
+      "text": "Завод нефтепродуктов в Ростовской области приостановил деятельность в результате массированной атаки украинских БПЛА, сообщил губернатор региона. «В ходе массированной комбинированной атаки БПЛА и ракетами, продолжавшейся более 6 часов, АО НЗНП приостановило свою деятельность. Экстренные службы на месте происшествия ведут работы по локализации последствий ночной вражеской атаки» , - уточнил Юрий Слюсарь. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
         "missile",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/MFARussia/33546"
-      ]
-    },
-    {
-      "id": "mod_russia_en/30744",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30744",
-      "published_at": "2026-11-23T09:43:45+00:00",
-      "text": "❗️ The Armed Forces of the Russian Federation continue the special military operation. ↗️ The units of the Sever Group of Forces improved the tactical situation. They inflicted losses on manpower and hardware of one mechanised brigade, two assault regiments of the AFU, and one national guard brigade close to Veseloye, Makarovo, Ploskoye, and Golubovka (Kharkov region). 💥 In Sumy region, formations of three mechanised brigades, one airmobile brigade of the AFU, and one territorial defence brigade have been hit near Spasskoye, Pushkarevka, Vakalovshchina, Simonovka, and Novaya Sloboda (Sumy region). ▪️ The AFU losses amounted to up to 160 troops, one armoured fighting vehicle, 12 motor vehicles, one electronic reconnaissance station, and nine counter-fire and electronic warfare stations. ⏩ The Zapad Group of Forces improved the situation along the front line. Russian troops engaged manpower and hardware of one mechanised brigade, one assault brigade of the AFU and two territorial defence brigades near Peski-Radkovskiye, Khomino (Kharkov region), Raygorodok, and Mayaki (Donetsk People's Republic). ▪️ The AFU losses amounted to more than 220 troops, one field artillery gun, and nine motor vehicles. ↗️ The Yuzhnaya Group of Forces took more advantageous lines and positions. The Group's elements engaged formations of four mechanised brigades, two airmobile brigades, and one assault regiment of the AFU close to Nikolayevka, Druzhkovka, and Belenkoye (Donetsk People's Republic). ▪️ The AFU lost more than 175 troops, four armoured fighting vehicles, 22 motor vehicles, and three electronic warfare stations. 📍 The Tsentr Group's units continued to carry out active offensive operations. Strikes were delivered at manpower and hardware of three mechanised brigades, one infantry fighting brigade of the AFU, and two national guard brigades near Rayskoye, Viktorovka, Mikhaylovka, Novopavlovka, Sergeyevka, Kamenka and Ocheretino (Donetsk People's Republic). ▪️ The AFU losses amounted to up to 340 troops, four armoured fighting vehicles, one artillery gun, ten motor vehicles, and five electronic warfare stations. 👉 See Part 2 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kharkiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407162",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407162",
-      "published_at": "2026-11-23T09:31:12+00:00",
-      "text": "🚨 Один человек погиб в ЛНР из-за атак ВСУ, еще шестеро ранены, в том числе трое детей, сообщил Пасечник. ✔ Подпишись на ТАСС в \"Максе\"",
+      "id": "dva_majors/102407",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102407",
+      "published_at": "2026-11-23T10:50:12+00:00",
+      "text": "Ядерка от России: научная статья Медведва Д.А. Медведев написал статью , слова из которой надергали журналюги. На момент нашего изучения первоисточника было 14 просмотров статьи. Это к вопросу о том, что именно и как становится основанием инфоповода нынче. Статья рассматривает вопрос суверенитета государства в аспекте его права применить ЯО для защиты. Содержит следующие тезисы, с которыми мы согласны лишь отчасти: ▪️ Формально в ряде случаев коллективно противостоящая нам сторона (Украина, страны НАТО и ряд западных стран, которые не входят в блок) уже создавала ситуации, при которых Россия допускает нанесение ядерного удара. Другое дело, что при принятии подобных решений уполномоченное лицо, которым в соответствии с законом является Верховный..., всегда руководствуется комплексным анализом всех факторов, соразмерностью между реально причиненным вредом и ответными мерами. Очевидно, что пока развитие событий в ходе украинского кризиса не соз- давало состояния прямой необходимости использовать ядерное оружие [ ❓ ]\" ▪️ \"Несмотря на то что действующая редакция « Основ государственной политики Российской Федерации в области ядерного сдерживания » не предполагает напрямую превентивного применения ядерного оружия, надлежит прийти к выводу, что поставки (открытые или тайные) Западом ядерного оружия киевскому режиму могут вынудить Россию на принятие упреждающего решения для нейтрализации этой опасности. Наряду с этим в упомянутых Основах создание противником военных угроз Российской Федерации, в том числе путем массированного использования неядерных средств воздушно-космического нападения, которые могут привести к техногенным, экологическим или социальным катастрофам ‼️ , также по сути означает перевод в практическую плоскость вопроса о применении упреждающего ядерного удара . Иными словами, в Основах фактически допускается нанесение превентивного ядерного удара, когда под угрозу поставлено само существование нашего государства или нашей стране причинен неприемлемый [ запомнили - ⚡️ ] ущерб. ▪️ \"Понятно и то, что доктрина во многом выполняет сигнальную функцию, обозначая для противника предполагаемую цену выхода за так называемые красные линии [ 😁 ], о которых принято рассуждать в публицистике. Вместе с тем правомерность и условия перехода нашего государства к применению ядерного оружия прямо и недвусмысленно установлены названным Указом Президента. Именно поэтому у киевского режима и его спонсоров не должно быть опасных иллюзий. При наступлении описанных выше сценариев Глава государства не только вправе, но и обязан использовать ядерное оружие. Это должны в полной мере осознать все, кто сегодня играет с огнем.\" ✨ То есть несмотря на все катастрофы, вызыванные ударами Киева, пока поводы для применения ЯО недостаточны, по мнению автора статьи, получается. То есть пока статья публично подчеркивает, что пока Россия не будет поставлена на грань выживания, Украине и Зеленскому бояться нечего. Кто бы что ни писал в интернетах про апокалипсис. Сначала поугрожали и так всем известной Ядерной доктриной, а после свысока плюнули в хохлов со словами, что их удары Россию на колени не поставят, но если что - то мы сразу как бахнем, что весь мир в труху. Но потом. Два майора ✨ Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/198992",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198992",
-      "published_at": "2026-11-23T09:29:37+00:00",
-      "text": "🇪🇪 NATO fighter jets are preparing for intensive low-altitude and supersonic flights over Estonia, just kilometres from Russia’s borders. Tallinn is bringing the Alliance’s military activity close to Russia’s northwestern borders. From November 23 to 29, NATO combat aviation from the Emari airbase (supported by aircraft from Šiauliai, Lithuania) will conduct intensive flights over the entire territory of Estonia daily from 9:00 to 22:00 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234428",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234428",
-      "published_at": "2026-11-23T09:25:01+00:00",
-      "text": "Атаки на российские суда в Бенгази — это часть попыток Украины расширить географию противостояния на морские районы, удалённые от зоны боевых действий. Об этом заявил RT посол России в Ливии. Айдар Аганин отметил, что Москва рассмотрит возможные варианты реагирования на эти инциденты. Нападения не останутся без ответа. Посол охарактеризовал их как террористические. По его словам, Киев пытается втянуть в свои авантюры третьи стороны. Аганин также обвинил западных покровителей Украины в оказании логистической и разведывательной поддержки подобным операциям.",
+      "id": "donbassr/117328",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117328",
+      "published_at": "2026-11-23T10:47:01+00:00",
+      "text": "Москва намерена инициировать общение с европейцами, чтобы понять, насколько они являются коалицией желающих мира , заявил Дмитрий Песков. Другие заявления пресс-секретаря российского президента: ▪️ Москва обратила внимание на заявления Киева про атаки на российские суда у берегов Ливии. ▪️ Инициатива Москвы по гуманитарной операции в Константиновке сохраняет актуальность, несмотря на отсутствие реакции киевского режима. ▪️ Заявления Зеленского и других представителей Киева скорее свидетельствуют о нежелании Украины продолжать гуманитарные операции. ▪️ Россия надеется, что страны Балтии используют влияние на Киев, чтобы предостеречь от расширения террористической активности на Балтике. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -230,70 +195,33 @@
         "moscow",
         "strike"
       ],
-      "possible_duplicate_urls": []
+      "possible_duplicate_urls": [
+        "https://t.me/rian_ru/350321"
+      ]
     },
     {
-      "id": "DDGeopolitics/198991",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198991",
-      "published_at": "2026-11-23T09:23:03+00:00",
-      "text": "🇺🇦 Head of the Darnytskyi District Administration, Alexander Kovtunov, stated that traffic across the South Bridge in Kiev will likely not resume by the end of the year. He described the damage following the strikes by the Russian Armed Forces as serious and was unable to provide exact timelines for restoration. 🔴 @DDGeopolitics",
+      "id": "boris_rozhin/234439",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234439",
+      "published_at": "2026-11-23T10:43:02+00:00",
+      "text": "50 Бригада БПС ВГК «Варяг» - Итоги Недели 16.11.2026 - 22.11.2026 За прошедшую неделю операторы Гераней поразили 49 целей, среди которых объекты логистики, склады боеприпасов и БПЛА, а также нанесли ощутимый удар по энергетической инфраструктуре противника. Кроме того, был уничтожен комплекс РЛС П-18, количество которых у ВСУ сильно ограничено. Силами ПВО бригады было сбито 365 дронов, из них 238 - в рамках операции по защите трассы Р280 \"Новороссия\". Помимо прочего, суммарно за неделю бойцы бригады сбили более 245 разведывательно-ударных и ударных летательных аппаратов. В ходе боевой работы было уничтожено 678 различных целей, от средств связи до живой силы противника. Более 509 объектов инфраструктуры было обнаружено и оперативно выведено из строя. Подразделения бригады продолжают проводить операцию \"Вена\", в ходе которой эффективно уничтожают как личный состав, так и технику нацформирований ВСУ, нанося 3-му армейскому корпусу поражение за поражением, лишая его путей снабжения и затрудняя их реабилитацию. За все время операции нашими операторами БпЛА были уничтожены более 200 единиц вражеских дронов различных модификаций, 40 систем связи, 130 образцов военной техники, свыше 400 объектов критической инфраструктуры врага, 13 автомобилей, использовавшихся в интересах ВСУ и около 50 единиц живой силы противника. Враг будет повержен! Победа будет за нами!",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
+        "drone",
+        "energy",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117324",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117324",
-      "published_at": "2026-11-23T09:22:01+00:00",
-      "text": "ВС РФ поразили за сутки места производства и хранения беспилотников для ВСУ, сообщили в Минобороны. ▪️ ПВО за сутки сбили 819 БПЛА, а также снаряд Хаймарс; ▪️ ВСУ за сутки потеряли более 1 110 боевиков. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/198990",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/198990",
-      "published_at": "2026-11-23T09:20:30+00:00",
-      "text": "🇩🇪 German Foreign Minister Obergruppenführer Wadephul: “We are meeting just a kilometre away from the Brandenburg Gate, where former US President Ronald Reagan said: ‘Mr Gorbachev, open this gate. Tear down this wall.’ I’m saying now: Mr Putin, stop this war. Come to the negotiating table. Make peace in Europe.” Perhaps someone should remind him that not too far away, on the Reichstag, the Soviet Red Army raised the Victory Banner in 1945. History has a funny way of being forgotten when it’s inconvenient. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407160",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407160",
-      "published_at": "2026-11-23T09:18:58+00:00",
-      "text": "Чиновники Евросоюза будут вести ожесточенную борьбу за принятие бюджета на 2028-2034 годы, сообщает Politico. Отмечается, что \"за кулисами\" слышится много недовольства. Страны — члены блока скептически относятся ко многим аспектам будущего бюджета, включая вопрос вокруг кредитования Украины, субсидии сельскому хозяйству и введение цифрового налога.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234427",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234427",
-      "published_at": "2026-11-23T09:17:46+00:00",
-      "text": "Сотрудниками ФСБ задержан агент военной разведки Украины, передавший сведения о нахождении в Крыму экс-сотрудника министерства госбезопасности ДНР.",
+      "id": "sap_gov_ua/4556",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4556",
+      "published_at": "2026-11-23T10:40:16+00:00",
+      "text": "​​ 150 млн грн застави, внесеної за фігуранта справи «Мідас», передано в управління АРМА 23 листопада 2026 року Апеляційна палата ВАКС задовольнила апеляційну скаргу прокурора САП та передала в управління АРМА попередньо арештовані 150 млн грн, внесених як застава за одного з підозрюваних у справі «Мідас» – колишнього Міністра енергетики України. У межах розслідування кримінального провадження щодо злочинної організації, до складу якої входили чинний та колишній нардепи, а також високопосадовці Офісу Президента України, крім іншого, встановлено факти легалізації коштів, одержаних злочинним шляхом. Зокрема, з’ясовано, що в червні 2026 року колишній нардеп за попередньою змовою з представниками та службовими особами одного з державних банків ввів у легальний обіг 150 млн грн через низку банківських рахунків підконтрольних юридичних осіб. Фінальним етапом легалізації стало внесення цих коштів як застави за учасника злочинної організації у справі «Мідас». Оскільки ці кошти є предметом кримінального правопорушення, сторона обвинувачення визнала їх речовим доказом та ініціювала накладення на них арешту з подальшою передачею в управління АРМА. Деталі справи: https://cutt.ly/pyDtXNGO . Операція «Форест Гамп»: https://youtu.be/q3UmdUOh5OY . 📌 Відповідно до ст. 62 Конституції України особа вважається невинуватою у вчиненні кримінально караного проступку і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -302,47 +230,286 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234426",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234426",
-      "published_at": "2026-11-23T09:02:19+00:00",
-      "text": "Штурм Хрипунов обстановка на Бурлукском направлении Окружение восточнее Волчанска постепенно сжимается, несмотря на попытки контратак ВСУ. Российские войска подтверждают присутствие в ранее освобождённых сёлах и занимают новые рубежи. Некоторое время назад появились свидетельства занятия бойцами группировки войск «Север» территории Хрипунов. Вероятно, кадры сняты в конце сентября или в конце октября — как раз в даты, когда об освобождении населённого пункта заявили в Минобороны России. Штурмовики подняли государственные флаги в нескольких точках села и достигли берегов расположенного рядом пруда. При этом в окрестностях населённого пункта пока сохраняется присутствие украинских формирований. Они пытаются не допустить наращивания российскими войсками устойчивых маршрутов снабжения со стороны Малой Волчьей и удержать позиции в районе Варваровки. Помимо этого штурмовики «Севера» подняли государственные флаги в Волоховке. Это свидетельствует о сохранении устойчивого плацдарма на правом берегу реки Волчья, который позволяет снабжать подразделения ВС РФ в районе Белого Колодца. Однако на центральном участке направления обстановка остаётся сложной. Появившиеся в Сети кадры говорят о сохранении ВСУ позиций на подступах к Симоновке. Верхняя Писаревка и Лосевка остаются в зоне боёв, где действуют штурмовые группы обеих сторон. Присутствие украинских формирований на участке ограничивается отдельными группами просачивания. Тем не менее ввиду разреженности позиций на фронте вполне вероятно, что ВСУ будут и дальше пытаться углубляться в порядки ВС РФ с целью создать угрозу коммуникациям на рубеже Графское — Белый Колодец. @rybar",
+      "id": "intelslava/98462",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98462",
+      "published_at": "2026-11-23T10:39:55+00:00",
+      "text": "🇺🇸 🇺🇦 🇷🇺 ⚡️ — Trump is not willing to risk a war with Russia for the sake of security guarantees for Ukraine – Jared Kushner. @Intelslava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407159",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407159",
-      "published_at": "2026-11-23T09:01:57+00:00",
-      "text": "Главные новости к этому часу: ▪ Российские войска поразили электроподстанцию и портовую инфраструктуру. ТАСС собрал основное о ударах ВС РФ. ▪ Резервуары для хранения нефти вблизи Альметьевска в Татарстане подверглись налету БПЛА. Последствия атак на российские регионы — в материале ТАСС. ▪ В Прикамье при атаке БПЛА погиб человек. ▪ В Крыму задержали агента Киева за госизмену. Главное о деле — в материале ТАСС. ▪ Премьер-министр Пакистана совершит визит в Россию, сообщила газета Dawn. ▪ Правительство направит около 50 млрд рублей на паромы для срыва блокады Калининграда, сообщил Мишустин. ▪ Медведев назвал условие для упреждающего ядерного удара. ▪ Пашинян сообщил о публикации проекта новой конституции Армении. ТАСС собрал основное о документе. ▪ Российские бойцы на себе выносили мирных жителей из Константиновки. ▪ Балканский циклон принесет в Московский регион резкое ухудшение погоды, сообщили ТАСС в Гидрометцентре. ✔ Подпишись на ТАСС в \"Максе\"",
+      "id": "DDGeopolitics/199004",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199004",
+      "published_at": "2026-11-23T10:39:54+00:00",
+      "text": "🇺🇦 The aftermath of the strike on the site of the former Gamma factory in Zaporozhye. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "crimea",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98461",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98461",
+      "published_at": "2026-11-23T10:39:20+00:00",
+      "text": "🇺🇦 🇷🇺 🇱🇾 ⚡️ — Ukraine attacked Russian ships in Benghazi, Libya – Zelenskyy. He called it \"a model Ukrainian operation in response to Russia's war\" and stated that seven Bayraktar drones were used. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
         "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30746",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30746",
+      "published_at": "2026-11-23T10:34:31+00:00",
+      "text": "Road to life: the Yuzhnaya Group's servicemen evacuated nine civilians from Konstantinovka. ▫️ First, the group was led along cleared paths under drone protection. When the weather turned, servicemen of the 78th Sever-Akhmat Regiment came out to meet them: the elderly were supported by the arm, and when their strength ran out, fighters carried them on their backs. 'Ali carried an old lady 15 km on his back. Through mud like that. They are iron men! We'll be praying for them for the rest of our lives,' one of the evacuees shares. 🤝 The final part of the journey they finished on an Ulan ATV, and safely reached a temporary accommodation. The worst is now behind – these people are safe and warm. ▫️ And our lads head out for another task – they are needed in the city. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199002",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199002",
+      "published_at": "2026-11-23T10:32:50+00:00",
+      "text": "🇷🇺 Russian authorities to invest nearly 50 billion (€556 million) rubles in defending Kaliningrad Prime Minister Mikhail Mishustin announced the allocation of nearly 47 billion rubles –including from the National Wealth Fund for the construction of two new railway ferries at Russian shipyards. By 2030, they will strengthen the strategic Ust-Luga Baltiysk line to guarantee uninterrupted supply to the Kaliningrad region, bypassing unfriendly neighbors. The decision was made against the backdrop of escalating tensions in the Baltic: after Lithuanian restrictions on land transit, the adversary moved to direct attacks on shipping. On November 21, drones struck the Russian cargo ship Sparta II in the Gulf of Finland, which was heading to Kaliningrad, and an air raid alert was declared for the first time in the region due to a suspicious object from the direction of Lithuania. Previously, the Chairman of the Maritime Council, Patrushev, and President Putin warned NATO: any attempt at a military or transport blockade of the Kaliningrad region will result in an immediate response from the aggressors using all weapons available to Russia. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234438",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234438",
+      "published_at": "2026-11-23T10:31:01+00:00",
+      "text": "Россия может нанести превентивный ядерный удар в случае открытой или тайной передачи Украине ядерного оружия западными странами, заявил Дмитрий Медведев.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407171",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407171",
+      "published_at": "2026-11-23T10:28:54+00:00",
+      "text": "❗️ Атака на российский сухогруз на Балтике ведет к нагнетанию напряженности в регионе, заявил Песков. Он рассчитывает, что балтийские государства используют свое влияние на Киев, чтобы пресечь терроризм на Балтике.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
         "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117323",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117323",
-      "published_at": "2026-11-23T09:01:05+00:00",
-      "text": "Российское наступление на Запорожье идет по кратчайшему пути , заявил военные эксперт Алексей Рамм. В центральной части линии боевого соприкосновения на этом участке оборона развалилась. И ВС РФ наступают на Запорожье широким фронтом по кратчайшему направлению, - подчеркивает эксперт. «Прикрывающий областной центр 255-й штурмовой полк противника понес большие потери, а 160-я бригада теробороны угодила в «карман» и перестала существовать. Силы ВФУ, которые теоретически можно было бы перебросить на проблемный участок фронта, связаны боями под Ореховом и Покровским», - обращает внимание Алексей Рамм. В это же время в районе Омельника группировка «Восток» зажала в «кармане» подразделения трех бригад и отдельные батальоны противника. Тем временем ВС РФ приблизились к Камышевахе, а это уже пригород Запорожья. Как выправить положение, противник не знает, и у него всё меньше возможностей сдержать российское наступление. Донбасс решает в MАX",
+      "id": "DDGeopolitics/199001",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199001",
+      "published_at": "2026-11-23T10:27:17+00:00",
+      "text": "🇺🇦 The Narcoführer is high as a kite again. Many are not ready to say this out loud” – The Drug addict assures that everyone wants to “be friends with Ukraine” and awaits its accession to NATO. “Today we all see that being friends with Ukraine, cooperating with it, and jointly building our security is reasonable and necessary. In essence, a kind of tacit consensus has now formed. Many understand this, but many are still not ready to say it out loud. And I am grateful to all those leaders, deputies, public figures, and, especially importantly, representatives of the armed forces of NATO countries, who speak about this openly and directly: Ukraine must be in NATO. And this is needed not only by Ukraine. It is also needed by NATO itself. NATO needs Ukraine.” 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350321",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350321",
+      "published_at": "2026-11-23T10:25:21+00:00",
+      "text": "Москва намерена инициировать общение с европейцами, чтобы понять, насколько они являются коалицией желающих мира, заявил Песков. Другие тезисы: 🔹 Москва обратила внимание на заявления Киева про атаки на российские суда у берегов Ливии. 🔹 Инициатива Москвы по гуманитарной операции в Константиновке сохраняет актуальность, несмотря на отсутствие реакции киевского режима. 🔹 Заявления Зеленского и других представителей киевского режима скорее свидетельствуют о нежелании Украины продолжать гуманитарные операции. 🔹 Россия надеется, что страны Балтии используют влияние на Киев, чтобы предостеречь от расширения террористической активности на Балтике. 🔹 Тема газопровода \"Сила Байкала\" предметно не обсуждалась в Шэньчжэне, обсуждения ведутся на рабочем и экспертном уровнях. 🔹 Путин сегодня примет главу ФНС Егорова. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "zaporizhzhia"
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/donbassr/117328"
+      ]
+    },
+    {
+      "id": "tass_agency/407167",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407167",
+      "published_at": "2026-11-23T10:22:58+00:00",
+      "text": "▶️ Мужчин, которые пытаются бежать от мобилизации с Украины, отстреливают на границе, рассказал пленный из ВСУ Сергей Григоренко. Видео: Минобороны России/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
       ],
       "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198999",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198999",
+      "published_at": "2026-11-23T10:19:05+00:00",
+      "text": "🇳🇱 🇪🇺 Dutch politician Anna Strolenberg seems to think Europe and Ukraine are the victims maybe she should be reminded of the following : Attacking the Kerch Bridge, invading Kursk ( didn’t end well),Daily NATO Reconnaissance flights over Kaliningrad & the Black Sea, attacking Russian ships in international waters,the list goes on. She suggests a peace plan Funded by of course stolen Russian assets. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78117",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78117",
+      "published_at": "2026-11-23T10:17:45+00:00",
+      "text": "Новошахтинский НПЗ приостановил работу после массированной атаки со стороны ВСУ. Информацию подтвердил губернатор Ростовской области Юрий Слюсарь. Противник более шести часов бил по объекту при помощи ракет и БпЛА. В данный момент экстренные службы ликвидируют последствия атаки. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407166",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407166",
+      "published_at": "2026-11-23T10:15:58+00:00",
+      "text": "Одесса осталась без электричества, тепла и воды после повреждений объектов энергетики в минувшие выходные, заявил глава городской военной администрации Лысак. Ранее издание \"Общественное. Новости\" сообщило, что из-за отсутствия электричества в Одессе прекратил…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234436",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234436",
+      "published_at": "2026-11-23T10:15:06+00:00",
+      "text": "Трамп не намерен рисковать войной с Россией ради гарантий безопасности Украине (с) Кушнер",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198997",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198997",
+      "published_at": "2026-11-23T10:13:04+00:00",
+      "text": "🇩🇪 🇪🇺 Obergruppenführer Wadephul’s second obsession is to make all of Europe pay for the war in Ukraine. According to Reuters, Germany has already spent 30.8 billion euros. Spain, for example, has spent only 2.6 billion. “It is important that we share this burden evenly. I call on all of you to ensure that our allied countries make the necessary efforts to achieve this common goal. And I expect that all our countries will continue to support Ukraine. This is something we can all be somewhat proud of. We have not let Ukraine down, and we will not let it down in the future. The message to Putin is crystal clear: we will not back down. So stop the war immediately.” 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98460",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98460",
+      "published_at": "2026-11-23T10:06:06+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Operators of Lancet loitering munitions strike Ukrainian Armed Forces' Buk (FrankenSAM) surface-to-air missile system. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198996",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198996",
+      "published_at": "2026-11-23T10:05:26+00:00",
+      "text": "#SupportDonbass 📍 A photo exhibition about Donbass has been set up in Emir Kusturica’s village in Serbia 🇷🇸 As part of the international festival \"RT.Doc: Time of Our Heroes,\" a unique photo exhibition titled \"The Return of Light: Restored Churches of Donbass\" greeted guests at the entrance to Drvengrad—the ethno-village created by the legendary filmmaker. The photographs showcase churches of Donbass that were damaged by Ukrainian militants and subsequently restored by Russia. 🎥 The festival program featured the premiere of the film \"Saving Sofia,\" directed by Olga Kiriy. The documentary tells the story of how the Russian military spent several weeks rescuing 10-year-old Sofia Androsova from Konstantinovka . Video by Rodion Miroshnik 🇷🇺 Subscribe | Feedback | X | TikTok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234434",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234434",
+      "published_at": "2026-11-23T10:03:01+00:00",
+      "text": "23 ноября 2026 года. · 00:15 Полтава — взрыв. Герань. · 00:37 Одесса — взрывы. Герани. · 02:05 Вилково Одесской области — взрывы. Герани. · 02:05 Запорожская область — взрывы. УМПК. · 02:10 Изюм Харьковской области — взрывы. Герани. · 02:15 Песковка и Дымер Киевская области — взрывы. Герани. · 02:25 Днепропетровская область — взрывы. УМПК. · 02:45 Харьковская область — взрывы. УМПК. Изюм. · 02:50 Измаил Одесской области и Новомосковск Днепропетровской области — взрывы. Герани. · 03:00 Харьковская область — взрывы. УМПК. · 04:45 Белая Церковь Киевской области — взрыв. Герань. · 05:10 Киев — взрывы. Герани. · 05:20 Окрестности Житомира — взрыв. Герань. · 05:25 Скала-Подольская Тернопольской области — взрыв. Герань. · 06:10 Запорожье — взрыв. Герань. На фото последствия ударов Гераней в Люботине Харьковской области. На видео удар Герани в Днепропетровске. https://t.me/lost_armour/12345",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234432"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234432",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234432",
+      "published_at": "2026-11-23T10:02:15+00:00",
+      "text": "Хроника ударов по территории Украины 22 ноября 2026 – 23 ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Винницкой, Житомирской, Киевской, Николаевской, Одесской, Полтавской, Ровенской, Черкасской и Черниговской областях (Герани) 22 ноября 2026 года. · 08:30 Днепропетровская область и Шостка Сумской области — взрывы. Герани. · 08:35–09:05 Шостка Сумской области — взрывы. Герани. · 09:20–09:30 Днепропетровск — взрывы. Герани. · 09:35 Донбасс — взрывы. УМПК. · 09:45 Днепропетровск — взрыв. Герань. · 09:50–10:05 Харьковская область — взрывы. УМПК. · 10:05 Вознесенск Николаевской области — взрыв. Герань. · 10:33–10:37 Днепропетровск — взрывы. Герани. · 10:50 Шостка Сумской области — взрыв. Герань. · 10:57 Харьковская область — взрывы. УМПК. · 11:00 Окрестности Харькова — взрыв. Торнадо-С. · 12:25 Окрестности Запорожья — взрывы. УМПК. · 12:35 Запорожье — взрывы. УМПК. · 12:47 Прилуки Черниговской области — взрыв. Герань. · 12:50 Запорожская область — взрывы. УМПК. · 13:47 Харьков — взрыв. Герань. · 14:05 Тузлы Одесской области — взрыв. Герань. · 14:15 Окрестности Киева — взрыв. Герань. · 15:10 Полтавская область — взрыв. Дань-Т. · 15:25 Днепропетровск — взрыв. Герань. · 15:37 Черкассы — взрывы. Герани. · 15:55 Сумская область — взрывы. УМПК. · 16:05 Первомайский Харьковской области — взрыв Дань-Т. · 16:15 Харьковская область — взрывы. УМПК. · 16:20 Калиновка Винницкой области — взрыв. Герань. · 16:35 Полтава — взрыв. Герань. · 16:37 Киев и Дымер Киевской области — взрывы. Герани. · 16:47 Днепропетровск — взрыв. Герань. · 16:55 Фастов Киевской области — взрыв. Герань. · 17:03 Борисполь Киевской области — взрыв. Герань. · 17:10 Днепропетровск — взрыв. Герань. · 17:15 Карловка Полтавской области — взрыв. Дань-Т. · 17:17 Костополь Ровенской области — взрыв. Герань. · 17:20 Днепропетровск — взрыв. Герань. · 17:20 Мироновка Киевской области — взрыв. Герань. · 17:30 Днепропетровск — взрыв. Герань. · 17:50–18:02 Днепропетровск и Киев — взрывы. Герани. · 18:20 Днепропетровск и Белая Церковь Киевской области — взрывы. Герани. · 18:40 Киев — взрыв. Герань. · 18:45 Каменское Днепропетровской области и Погребище Винницкой области — взрывы. Герани. · 19:00 Казатин Винницкой области — взрыв. Герань. · 19:00 Днепропетровск — взрыв. Герань. · 19:45 Любар Житомирской области — взрыв. Герань. · 20:40 Днепропетровская область — взрывы. УМПК. · 20:41 Люботин Харьковской области — взрыв. Герань. · 20:45–20:55 Днепропетровская область — взрывы. УМПК. · 21:05 Запорожская область — взрывы. УМПК. · 21:15 Сумская область — взрывы. УМПК. · 21:35 Сумская и Днепропетровская область — взрывы. УМПК. · 21:58 Харьков — взрыв. Герань. · 22:05–22:08 Мерефа Харьковской области — взрывы. Герани. · 22:15 Запорожская область — взрывы. УМПК. · 22:30–22:35 Днепропетровск — взрыв. Герань. · 22:45 Берестин Харьковской области — взрыв. Герань. · 23:15 Люботин Харьковской области — взрыв. Герань. · 23:50 Харьков — взрыв. Герань. · 23:55 Харьков, Днепропетровск и Ладыжин Винницкой области — взрывы. Герани. На фото и видео последствия ударов Гераней в Днепропетровске. https://t.me/lost_armour/12343",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234434"
+      ]
     }
   ]
 }
