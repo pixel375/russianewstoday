@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T20",
-  "generated_at_utc": "2026-11-23T21:13:38.175488+00:00",
-  "window_start_utc": "2026-11-23T20:00:00+00:00",
-  "window_end_utc": "2026-11-23T21:00:00+00:00",
+  "hour_id": "2026-11-23T21",
+  "generated_at_utc": "2026-11-23T22:25:33.808706+00:00",
+  "window_start_utc": "2026-11-23T21:00:00+00:00",
+  "window_end_utc": "2026-11-23T22:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 1
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "bricsnews",
@@ -45,19 +45,19 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
@@ -75,7 +75,7 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "voenkorKotenok",
@@ -105,122 +105,61 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 17,
-    "relevant_posts": 8,
-    "deduplicated_posts": 8,
-    "candidate_posts": 8
+    "raw_posts": 14,
+    "relevant_posts": 4,
+    "deduplicated_posts": 4,
+    "candidate_posts": 4
   },
   "posts": [
     {
-      "id": "voenkorKotenok/78136",
+      "id": "voenkorKotenok/78139",
       "channel": "voenkorKotenok",
       "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78136",
-      "published_at": "2026-11-23T20:56:08+00:00",
-      "text": "Министр обороны этнической ОПГ, захватившей Украину по фамилии Хмара снова пугал европейцев и американцев во время выступления на на Парламентской ассамблее НАТО в Берлине. Как сообщают западные СМИ, представитель нелегитимный киевской верхушки заявил, что Россия наращивает удары баллистическими и крылатыми ракетами по Украине, а также увеличивает производство этих средств поражения. По его словам, только за октябрь Россия запустила 153 баллистические ракеты по Украине: «Каждые пять часов враг запускает одну баллистическую ракету и продолжает ускорять этот темп…». Ранее украинская разведка сообщала, что по состоянию на октябрь 2026 г. резервы Москвы включали до 700 баллистических ракет и 1 тыс. крылатых ракет. По данным ГУР ВСУ, Россия может производить до 110 баллистических ракет в месяц, то есть, примерно по одной каждые шесть с половиной часов, включая модели 9М723 \"Искандер-М\" и РМ-48У. Последняя ракета запускается с пусковых установок ПВО С-400 и составляет более половины русских резервов. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "missile",
-        "moscow",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234479",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234479",
-      "published_at": "2026-11-23T20:54:50+00:00",
-      "text": "ТУНИС, 23 ноября. / ТАСС /. Заместитель председателя Президентского совета Ливии Муса аль-Куни назвал действия Украины, заявившей об ответственности за теракт в порту Бенгази, равносильными объявлению войны ливийскому государству. \"Мы возлагаем на украинскую сторону всю полноту ответственности за эти террористические действия, которые <...> Владимир Зеленский признал, о которых открыто заявил и которыми похвалялся. Эти действия равносильны объявлению войны ливийскому государству <...>. Посягательство на суверенитет ливийского государства, его национальную безопасность и ресурсы - это то, с чем нельзя мириться или обращаться снисходительно\", - подчеркнул аль-Куни в официальном заявлении",
+      "url": "https://t.me/voenkorKotenok/78139",
+      "published_at": "2026-11-23T21:48:01+00:00",
+      "text": "​​ Русские солдаты молились перед боем испокон веков . Перед сражением офицеры строили солдатские полки, выносили полковую икону, штандарты, полковой священник, читал молебен, прося у Бога помощи в победе и благословлял воинов на битву. Священник Митрофан Серебрянский в «Дневниках полкового священника» описывал, что перед наступлением, генерал Алексей Николаевич Куропаткин приглашал священников служить в полках молебны. Сам о. Митрофан служил молебен о победе у саперов и в полку инженеров, а после молебна произносил проповедь с пожеланием усерднее молиться о том, чтобы Бог помог в сражении. Речь он заканчивал краткой молитвой: «Благослови нас, Господи, победой!» И еще одна краткая молитва встречалась в его дневнике перед описанием боевых действий: «Господи, умилосердись над грешными нами, благослови и помоги нам!» Во время I Мировой войны в императорской армии каждому казаку и солдату была роздана «Памятка русскаго солдата», которая предварялась эпиграфом полководца Александра Васильевича Суворова о том, что русский солдат должен бояться Бога, слушать начальство, помнить о присяге и держаться храбро, и тогда все падет перед нашим оружием. Молитва же была такой: «Спаситель мой! Ты положил за нас душу Свою, чтобы спасти нас. Ты заповедал и нам полагать души своя за друзей наших, за близких нам. Радостно иду я исполнить святую волю Твою и положить жизнь свою за Царя и Отечество. Вооружи меня крепостию и мужеством на одоление врагов наших и даруй мне умереть с твёрдой верою и надеждою вечной блаженной жизни в Твоём царстве. Пресвятая Богородице, сохрани мя под кровом твоим». Именно эту молитву читали Сибирские казаки перед каждым сражением с немцами, - об этом пишет потомственный казак Дмитрий Валентинович Игнатьев",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234478",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234478",
-      "published_at": "2026-11-23T20:51:18+00:00",
-      "text": "Анимированная схема ударов по территории Украины 07:30 22 ноября 2026 – 07:30 23 ноября 2026 года. Изменения выявленные в процессе создания схемы: 02:15 Малин Житомирской области и Дымер Киевская области — взрывы. Герани.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199077",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199077",
-      "published_at": "2026-11-23T20:39:14+00:00",
-      "text": "🇩🇪 Germany will stop paying Ukraine and stop sending it weapons if the Alternative for Germany (AfD) wins power, says party co-leader Alice Weidel. \"We will cut excessive defense spending by tens of billions, significantly reduce payments to the European Union, and stop payments and arms deliveries to Ukraine,\" Weidel said. \"We can't keep redistributing money to Ukraine or to some billion-euro Brazilian rainforest fund. It seems there's enough money for everyone, everywhere, for every country and for NGOs, but not for our own citizens. Not for pensioners, not for taxpayers, not for those paying into social security. Only for foreign states.\" The next German federal election is officially due in 2029, but it could be called early. 🔴 @DDGeopolitics",
+      "id": "voenkorKotenok/78138",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78138",
+      "published_at": "2026-11-23T21:39:56+00:00",
+      "text": "Один из отечественных экспертов в рамках антикриза решил придумать свою версию угрозы изъятия $250-300 млрд. российских замороженных активов («вполне приемлемая плата…», по его выражению) западом в пользу Украины. Дальше — феерия, заставляющая задуматься, а все ли в порядке в голове автора и, вообще, как в «Фитиле», «А наши ли наши?»: «Я не удивлюсь, если когда-нибудь мы узнаем, что Россия специально накануне войны оставила там эту сумму, зная, что мелкие воришки не смогут удержаться. И сами себя в итоге похоронят». Э, нет, мил человек. Не лепи горбатого. Не надо России приплетать чисто украинские методы гадить назло москалям в собственные шаровары. Это же идиотия! Беда в то, что пишут подобное. Ведь по факту: 1) оправдание открытого грабежа российских денег; 2) игнорирование факта, что на конфискованные средства противник будет покупать оружие и боеприпасы для убийства граждан РФ — военных и мирных жителей. На мой взгляд, вещать о том, что это Россия как бы сама подстроила такое, можно в двух случаях — по злому умыслу или скудоумию. Первое я отвергаю. Неужели второе? Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234477",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234477",
-      "published_at": "2026-11-23T20:35:08+00:00",
-      "text": "Моя статья для ТАСС на тему размещения регулярных войск НАТО на Украине. https://tass.ru/opinions/28346381",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199076",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199076",
-      "published_at": "2026-11-23T20:27:20+00:00",
-      "text": "🇱🇾 🇺🇦 Libya accuses Ukraine of declaring war and demands that Zelensky be placed on a terrorism watchlist Musa al-Koni, a member of Libya’s Presidential Council, has placed full responsibility on Ukraine for the reported strike on the port of Benghazi, threatening Kiev with international legal and diplomatic action. In an official statement, al-Koni said: “We hold the Ukrainian side fully responsible for these terrorist acts, which Zelensky has acknowledged, openly declared and even boasted about. These actions amount to a declaration of war against the Libyan state. Any violation of Libya’s sovereignty, national security and resources is unacceptable and will not be tolerated.” Libya intends to take the matter to the International Court of Justice, the UN Security Council and other international organisations, seeking accountability for those responsible. Al-Koni also called for an emergency meeting of the UN Security Council, demanded that Zelensky be added to the list of individuals suspected of terrorism, and urged immediate measures to prevent further attacks. He separately called for emergency meetings of Libya’s joint military committees to discuss the country’s response to the situation. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407258",
+      "id": "tass_agency/407261",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407258",
-      "published_at": "2026-11-23T20:24:04+00:00",
-      "text": "За атакой на российское судно в Балтийском море, вероятнее всего, стоит Украина, заявил директор по коммуникациям Сил обороны Финляндии полковник Хухтинен, его слова приводит Yle. Он добавил, что неизвестно, почему по судну был нанесен удар.",
+      "url": "https://t.me/tass_agency/407261",
+      "published_at": "2026-11-23T21:16:04+00:00",
+      "text": "Премьеры Словакии, Венгрии, Польши и Чехии раскритиковали представленный Коштой проект бюджета ЕС на 2028-2034 годы , сообщает телеканал ТА-3. ЕС должен прежде всего найти средства на снижение стоимости энергии в Европе, а не направлять десятки миллиардов евро Украине, отметил Фицо. В проекте долгосрочного бюджета ЕС заложены €130 млрд для Киева, добавил премьер Чехии Бабиш, отметив, что Европа деструктивно ведет себя по отношению к самой себе.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "strike"
+        "energy",
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/35976",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35976",
-      "published_at": "2026-11-23T20:00:46+00:00",
-      "text": "📝 Rybar's Main Points 📝 digest of materials for November 23 We analyzed how events near Benghazi actually unfolded, and how similar lessons need to be applied in the Black Sea waters. ❗ Read more about these and other topics in our digest. ➡ Rybar @rybar — we talk about complex things simply. The main resource of our think tank. The most important and interesting materials. ▪ Chronicles of the SMO, the course of the blockade of Ukrainian shipping, attack on a Russian convoy off the coast of Libya, AFU strike on Russian regions ▪ Rybar explains: how real are the threats from the EU ▪ A place for an alternative point of view in Serbia ▪ The struggle for Armenia's new constitution ▪ How political failures are being drawn into the media ➡ ASIABAR @rybar_Pacific Japanese citizens were added to the Myrotvorets database after a trip to the DNR. In the US, Jensen Huang was returned to Nvidia so as not to lose the technological race to China. And in Indonesia, they are choosing a new vice president. ➡ AMERICABAR @rybar_america The head of US intelligence was burdened with duties, the Democratic Party is starting the 2028 race, Jensen Huang is being returned to Nvidia, and the triumph of GTA VI turns into a scandal. ➡ AFRICABAR @rybar_Africa In the Sahel, the struggle against radical Islamism is in full swing, and leaked documents indicate that both the French and the Americans are actively building their own \"fronts\" in West Africa. ➡ BALKANBAR @balkanar Aleksandar Vučić announced preparations for an assassination attempt on his life, and in Europe they continue to search for those who set fire to Starlink terminals. ➡ EUROBAR @evropar At the civilian airport in Polish Wrocław, construction of a military transport hub for the US Air Force has started. In Germany, they took a legal day off for GTA VI. ➡ CAUCASUSBAR @caucasar In Yerevan, they announced the launch of TRIPP, and in Baku they approved the project of Armenia's new Constitution. ➡ LATINBAR @rybar_latam In Panama, they are revising maritime strategy in favor of the US, in Colombia they are trying to rein in the former president, and in Venezuela there was an attack on a military academy. ➡ ORIENTBAR @rybar_mena Iranians are shooting down drones in batches, but they are sitting without electricity and waiting for a revolution, and in Iraq civil war has already been canceled.",
+      "id": "intelslava/98499",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98499",
+      "published_at": "2026-11-23T21:00:40+00:00",
+      "text": "🇪🇺 🇷🇺 ⚡️ — The European Commission has proposed banning Russian teams and athletes from competing under the Russian flag at sporting events in the EU. The proposal would also prohibit the display of official Russian symbols and restrict Russian sponsorships and representation within European sports organizations. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
