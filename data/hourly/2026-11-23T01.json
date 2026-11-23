@@ -1,0 +1,136 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-23T01",
+  "generated_at_utc": "2026-11-23T02:24:51.088419+00:00",
+  "window_start_utc": "2026-11-23T01:00:00+00:00",
+  "window_end_utc": "2026-11-23T02:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 5,
+    "relevant_posts": 2,
+    "deduplicated_posts": 2,
+    "candidate_posts": 2
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19776",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19776",
+      "published_at": "2026-11-23T01:40:22+00:00",
+      "text": "JUST IN: 🇷🇺 🇺🇦 Russian warship sinks off the coast of Libya following Ukrainian drone attack. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407106",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407106",
+      "published_at": "2026-11-23T01:10:01+00:00",
+      "text": "▶️ Украинская экономика давно разрушена и может только обслуживать внешние дотации, заявил в разговоре с ТАСС Родион Мирошник. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
