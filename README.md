@@ -57,7 +57,7 @@ from a neutral event or conceal essential contradictory facts.
 1. GitHub Actions is scheduled at 09 and 14 minutes past each UTC
    hour on standard ubuntu-latest runners, using the second slot as
    a retry if GitHub drops the first schedule. It collects public
-   Telegram pages from 15 monitored channels (listed in
+   Telegram pages from 16 monitored channels (listed in
    config/sources.json), including the Ukrainian-language NABU and SAPO
    anti-corruption feeds, Russian-language TASS, RIA Novosti,
    Two Majors, WarGonzo, Colonelcassad and Voenkor Kotenok, as well
