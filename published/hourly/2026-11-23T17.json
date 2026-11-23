@@ -1,0 +1,67 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    184
+  ],
+  "published_at_utc": "2026-11-23T18:26:06.856750+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-23T17",
+  "items": [
+    {
+      "item_id": "2026-11-23T17:1",
+      "title": "Finnish defence official says Ukraine likely behind Baltic Sea ship attack",
+      "summary": "Finnish Defence Forces communications director Colonel Huhtinen said Ukraine was most likely responsible for an attack on a Russian vessel in the Baltic Sea, according to Yle. He said the reason for targeting the ship was unknown.",
+      "post_url": "https://t.me/russianewstodayofficial/184",
+      "category": "other",
+      "hour_id": "2026-11-23T17",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T17:2",
+      "title": "Ukrainian lawmaker reportedly confronted by mobilisation officers",
+      "summary": "A report alleges that mobilisation officers grabbed lawmaker Oleksandr Kunitsky and took his phone after he intervened during an attempt to detain a passer-by. The officers reportedly backed off after recognising him as a member of parliament; the account does not establish an official finding of misconduct.",
+      "post_url": "https://t.me/russianewstodayofficial/184",
+      "category": "other",
+      "hour_id": "2026-11-23T17",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T17:3",
+      "title": "Donetsk energy official promises further assistance to restore power and heating",
+      "summary": "Deputy energy minister Alexander Putyakov said residents would eventually have electricity and heating restored, while asking for patience. He said additional federal assistance was expected soon amid disruptions attributed to Ukrainian attacks.",
+      "post_url": "https://t.me/russianewstodayofficial/184",
+      "category": "other",
+      "hour_id": "2026-11-23T17",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T17:4",
+      "title": "Russian military report describes contested fighting near Lyman",
+      "summary": "A Russian battlefield account claims its forces regained territory north of Torske and resumed attacks in woodland northwest of Zarichne. It also describes unsettled positions around Dibrova, Yampil and Ozerne, with fighting continuing and no stable frontline established in nearby forest.",
+      "post_url": "https://t.me/russianewstodayofficial/184",
+      "category": "other",
+      "hour_id": "2026-11-23T17",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T17:5",
+      "title": "Russia claims 87 Ukrainian drones intercepted across several regions",
+      "summary": "Russia's Defence Ministry said air defences destroyed 87 Ukrainian drones over regions including Belgorod, Bryansk, Kursk, Oryol, Perm, Crimea and Tatarstan, as well as the Black Sea. The figure is the ministry's reported interception count.",
+      "post_url": "https://t.me/russianewstodayofficial/184",
+      "category": "other",
+      "hour_id": "2026-11-23T17",
+      "source_handles": [
+        "donbassr"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
