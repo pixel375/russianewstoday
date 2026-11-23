@@ -611,6 +611,28 @@
       "source_handles": [
         "tass_agency"
       ]
+    },
+    {
+      "item_id": "2026-11-23T04:1",
+      "title": "Russian strike reportedly hits Kharkiv machine-tool factory",
+      "summary": "A Russian military correspondent reported two strikes about five minutes apart on workshops at the Harverst machine-tool factory at 277 Heroiv Kharkova Avenue in Kharkiv. The report did not provide a damage or casualty assessment.",
+      "post_url": "https://t.me/russianewstodayofficial/170",
+      "category": "other",
+      "hour_id": "2026-11-23T04",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T04:2",
+      "title": "Ukrainian drones reportedly attack central Luhansk",
+      "summary": "Local reports cited by a Donbas news outlet say Ukrainian drones were attacking central Luhansk. The account did not specify targets, damage or casualties.",
+      "post_url": "https://t.me/russianewstodayofficial/170",
+      "category": "other",
+      "hour_id": "2026-11-23T04",
+      "source_handles": [
+        "donbassr"
+      ]
     }
   ]
 }
