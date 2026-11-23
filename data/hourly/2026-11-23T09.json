@@ -1,0 +1,348 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-23T09",
+  "generated_at_utc": "2026-11-23T10:25:25.142714+00:00",
+  "window_start_utc": "2026-11-23T09:00:00+00:00",
+  "window_end_utc": "2026-11-23T10:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 28,
+    "relevant_posts": 16,
+    "deduplicated_posts": 16,
+    "candidate_posts": 16
+  },
+  "posts": [
+    {
+      "id": "MFARussia/33546",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33546",
+      "published_at": "2026-11-23T09:59:56+00:00",
+      "text": "#MartyrsForTruth Boris Maksudov 1985–2023 Journalist. Worked as a correspondent for the Vesti programme on VGTRK Rossiya and the Rossiya 24 TV channel. From the very first days of the special military operation, he reported from the combat zone. ▪️ He was killed three years ago, on 23 November 2023, from injuries sustained the previous day when a Ukrainian drone attacked him in the Zaporozhye Region while he was filming a report. Posthumously awarded the Order of Courage. #NoStatuteOfLimitations #KievRegimeCrimes",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30745"
+      ]
+    },
+    {
+      "id": "bricsnews/19781",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19781",
+      "published_at": "2026-11-23T09:55:56+00:00",
+      "text": "JUST IN: 🇷🇺 NATO reportedly believes Russia is preparing to launch a nuclear-armed satellite. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117325",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117325",
+      "published_at": "2026-11-23T09:47:47+00:00",
+      "text": "Видя успехи российской армии на линии фронта, к аргументам России на переговорах уже стали прислушиваться, - сказала депутат Народного Совета ДНР Елена Шишкина. «Но хочу отметить, что Российская Федерация в дипломатических переговорах никогда не делала ставку на силовой сценарий», - подчеркнула она. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30745",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30745",
+      "published_at": "2026-11-23T09:43:45+00:00",
+      "text": "🎖 🎖 by Russian Defence Ministry on progress of special military operation as of 23 November 2026 Part 2 ( 👉 see Part 1 ) ↗️ The Vostok Group of Forces continued to advance into the depths of the enemy's defence. Manpower and hardware of two mechanised brigades, one assault brigade, and one assault regiment of the AFU have been hit near Mayak, Tikhoye (Dnepropetrovsk region), Veseloye, and Odarovka (Zaporozhye region). ▪️ The AFU losses amounted to more than 195 troops, one armoured fighting vehicle, one 155-mm Bogdana howitzer, and two motor vehicles. 📍 The Dnepr Group's units improved the situation along the front line. Formations of two AFU mechanised brigades were neutralised near Kirovo (Zaporozhye region) and Belozerka (Kherson region). ▪️ Up to 20 troops, 16 motor vehicles, and three electronic warfare stations were neutralised. ✈️ Operational-tactical aviation, attack drones, missile troops, and artillery of the Russian Groups of Forces inflicted damage on power and transport infrastructure used in the interests of the AFU, production and storage areas of unmanned aerial vehicles and ground robotic systems,ammunition depots, military airfields, air surveillance radars, as well as temporary deployment areas of Ukrainian armed formations and foreign mercenaries in 142 areas. ▫️ Air defence systems shot down four guided aerial bombs, one HIMARS-made MLRS projectile, and 819 fixed-wing unmanned aerial vehicles. 📊 In total, since the beginning of the special military operation, the enemy has lost: ▫️ 674 aircraft, ▫️ 284 helicopters, ▫️ 296,103 unmanned aerial vehicles, ▫️ 672 anti-aircraft missile systems, ▫️ 31,755 tanks and other armoured fighting vehicles, ▫️ 1,797 MLRS combat vehicles, ▫️ 36,979 field artillery guns and mortars, ▫️ 77,915 special military vehicles. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/MFARussia/33546"
+      ]
+    },
+    {
+      "id": "mod_russia_en/30744",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30744",
+      "published_at": "2026-11-23T09:43:45+00:00",
+      "text": "❗️ The Armed Forces of the Russian Federation continue the special military operation. ↗️ The units of the Sever Group of Forces improved the tactical situation. They inflicted losses on manpower and hardware of one mechanised brigade, two assault regiments of the AFU, and one national guard brigade close to Veseloye, Makarovo, Ploskoye, and Golubovka (Kharkov region). 💥 In Sumy region, formations of three mechanised brigades, one airmobile brigade of the AFU, and one territorial defence brigade have been hit near Spasskoye, Pushkarevka, Vakalovshchina, Simonovka, and Novaya Sloboda (Sumy region). ▪️ The AFU losses amounted to up to 160 troops, one armoured fighting vehicle, 12 motor vehicles, one electronic reconnaissance station, and nine counter-fire and electronic warfare stations. ⏩ The Zapad Group of Forces improved the situation along the front line. Russian troops engaged manpower and hardware of one mechanised brigade, one assault brigade of the AFU and two territorial defence brigades near Peski-Radkovskiye, Khomino (Kharkov region), Raygorodok, and Mayaki (Donetsk People's Republic). ▪️ The AFU losses amounted to more than 220 troops, one field artillery gun, and nine motor vehicles. ↗️ The Yuzhnaya Group of Forces took more advantageous lines and positions. The Group's elements engaged formations of four mechanised brigades, two airmobile brigades, and one assault regiment of the AFU close to Nikolayevka, Druzhkovka, and Belenkoye (Donetsk People's Republic). ▪️ The AFU lost more than 175 troops, four armoured fighting vehicles, 22 motor vehicles, and three electronic warfare stations. 📍 The Tsentr Group's units continued to carry out active offensive operations. Strikes were delivered at manpower and hardware of three mechanised brigades, one infantry fighting brigade of the AFU, and two national guard brigades near Rayskoye, Viktorovka, Mikhaylovka, Novopavlovka, Sergeyevka, Kamenka and Ocheretino (Donetsk People's Republic). ▪️ The AFU losses amounted to up to 340 troops, four armoured fighting vehicles, one artillery gun, ten motor vehicles, and five electronic warfare stations. 👉 See Part 2 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407162",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407162",
+      "published_at": "2026-11-23T09:31:12+00:00",
+      "text": "🚨 Один человек погиб в ЛНР из-за атак ВСУ, еще шестеро ранены, в том числе трое детей, сообщил Пасечник. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198992",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198992",
+      "published_at": "2026-11-23T09:29:37+00:00",
+      "text": "🇪🇪 NATO fighter jets are preparing for intensive low-altitude and supersonic flights over Estonia, just kilometres from Russia’s borders. Tallinn is bringing the Alliance’s military activity close to Russia’s northwestern borders. From November 23 to 29, NATO combat aviation from the Emari airbase (supported by aircraft from Šiauliai, Lithuania) will conduct intensive flights over the entire territory of Estonia daily from 9:00 to 22:00 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234428",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234428",
+      "published_at": "2026-11-23T09:25:01+00:00",
+      "text": "Атаки на российские суда в Бенгази — это часть попыток Украины расширить географию противостояния на морские районы, удалённые от зоны боевых действий. Об этом заявил RT посол России в Ливии. Айдар Аганин отметил, что Москва рассмотрит возможные варианты реагирования на эти инциденты. Нападения не останутся без ответа. Посол охарактеризовал их как террористические. По его словам, Киев пытается втянуть в свои авантюры третьи стороны. Аганин также обвинил западных покровителей Украины в оказании логистической и разведывательной поддержки подобным операциям.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198991",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198991",
+      "published_at": "2026-11-23T09:23:03+00:00",
+      "text": "🇺🇦 Head of the Darnytskyi District Administration, Alexander Kovtunov, stated that traffic across the South Bridge in Kiev will likely not resume by the end of the year. He described the damage following the strikes by the Russian Armed Forces as serious and was unable to provide exact timelines for restoration. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117324",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117324",
+      "published_at": "2026-11-23T09:22:01+00:00",
+      "text": "ВС РФ поразили за сутки места производства и хранения беспилотников для ВСУ, сообщили в Минобороны. ▪️ ПВО за сутки сбили 819 БПЛА, а также снаряд Хаймарс; ▪️ ВСУ за сутки потеряли более 1 110 боевиков. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198990",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198990",
+      "published_at": "2026-11-23T09:20:30+00:00",
+      "text": "🇩🇪 German Foreign Minister Obergruppenführer Wadephul: “We are meeting just a kilometre away from the Brandenburg Gate, where former US President Ronald Reagan said: ‘Mr Gorbachev, open this gate. Tear down this wall.’ I’m saying now: Mr Putin, stop this war. Come to the negotiating table. Make peace in Europe.” Perhaps someone should remind him that not too far away, on the Reichstag, the Soviet Red Army raised the Victory Banner in 1945. History has a funny way of being forgotten when it’s inconvenient. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407160",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407160",
+      "published_at": "2026-11-23T09:18:58+00:00",
+      "text": "Чиновники Евросоюза будут вести ожесточенную борьбу за принятие бюджета на 2028-2034 годы, сообщает Politico. Отмечается, что \"за кулисами\" слышится много недовольства. Страны — члены блока скептически относятся ко многим аспектам будущего бюджета, включая вопрос вокруг кредитования Украины, субсидии сельскому хозяйству и введение цифрового налога.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234427",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234427",
+      "published_at": "2026-11-23T09:17:46+00:00",
+      "text": "Сотрудниками ФСБ задержан агент военной разведки Украины, передавший сведения о нахождении в Крыму экс-сотрудника министерства госбезопасности ДНР.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234426",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234426",
+      "published_at": "2026-11-23T09:02:19+00:00",
+      "text": "Штурм Хрипунов обстановка на Бурлукском направлении Окружение восточнее Волчанска постепенно сжимается, несмотря на попытки контратак ВСУ. Российские войска подтверждают присутствие в ранее освобождённых сёлах и занимают новые рубежи. Некоторое время назад появились свидетельства занятия бойцами группировки войск «Север» территории Хрипунов. Вероятно, кадры сняты в конце сентября или в конце октября — как раз в даты, когда об освобождении населённого пункта заявили в Минобороны России. Штурмовики подняли государственные флаги в нескольких точках села и достигли берегов расположенного рядом пруда. При этом в окрестностях населённого пункта пока сохраняется присутствие украинских формирований. Они пытаются не допустить наращивания российскими войсками устойчивых маршрутов снабжения со стороны Малой Волчьей и удержать позиции в районе Варваровки. Помимо этого штурмовики «Севера» подняли государственные флаги в Волоховке. Это свидетельствует о сохранении устойчивого плацдарма на правом берегу реки Волчья, который позволяет снабжать подразделения ВС РФ в районе Белого Колодца. Однако на центральном участке направления обстановка остаётся сложной. Появившиеся в Сети кадры говорят о сохранении ВСУ позиций на подступах к Симоновке. Верхняя Писаревка и Лосевка остаются в зоне боёв, где действуют штурмовые группы обеих сторон. Присутствие украинских формирований на участке ограничивается отдельными группами просачивания. Тем не менее ввиду разреженности позиций на фронте вполне вероятно, что ВСУ будут и дальше пытаться углубляться в порядки ВС РФ с целью создать угрозу коммуникациям на рубеже Графское — Белый Колодец. @rybar",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407159",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407159",
+      "published_at": "2026-11-23T09:01:57+00:00",
+      "text": "Главные новости к этому часу: ▪ Российские войска поразили электроподстанцию и портовую инфраструктуру. ТАСС собрал основное о ударах ВС РФ. ▪ Резервуары для хранения нефти вблизи Альметьевска в Татарстане подверглись налету БПЛА. Последствия атак на российские регионы — в материале ТАСС. ▪ В Прикамье при атаке БПЛА погиб человек. ▪ В Крыму задержали агента Киева за госизмену. Главное о деле — в материале ТАСС. ▪ Премьер-министр Пакистана совершит визит в Россию, сообщила газета Dawn. ▪ Правительство направит около 50 млрд рублей на паромы для срыва блокады Калининграда, сообщил Мишустин. ▪ Медведев назвал условие для упреждающего ядерного удара. ▪ Пашинян сообщил о публикации проекта новой конституции Армении. ТАСС собрал основное о документе. ▪ Российские бойцы на себе выносили мирных жителей из Константиновки. ▪ Балканский циклон принесет в Московский регион резкое ухудшение погоды, сообщили ТАСС в Гидрометцентре. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117323",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117323",
+      "published_at": "2026-11-23T09:01:05+00:00",
+      "text": "Российское наступление на Запорожье идет по кратчайшему пути , заявил военные эксперт Алексей Рамм. В центральной части линии боевого соприкосновения на этом участке оборона развалилась. И ВС РФ наступают на Запорожье широким фронтом по кратчайшему направлению, - подчеркивает эксперт. «Прикрывающий областной центр 255-й штурмовой полк противника понес большие потери, а 160-я бригада теробороны угодила в «карман» и перестала существовать. Силы ВФУ, которые теоретически можно было бы перебросить на проблемный участок фронта, связаны боями под Ореховом и Покровским», - обращает внимание Алексей Рамм. В это же время в районе Омельника группировка «Восток» зажала в «кармане» подразделения трех бригад и отдельные батальоны противника. Тем временем ВС РФ приблизились к Камышевахе, а это уже пригород Запорожья. Как выправить положение, противник не знает, и у него всё меньше возможностей сдержать российское наступление. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
