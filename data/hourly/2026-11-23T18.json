@@ -1,0 +1,339 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-23T18",
+  "generated_at_utc": "2026-11-23T19:24:14.121434+00:00",
+  "window_start_utc": "2026-11-23T18:00:00+00:00",
+  "window_end_utc": "2026-11-23T19:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 23,
+    "relevant_posts": 15,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407254",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407254",
+      "published_at": "2026-11-23T18:57:57+00:00",
+      "text": "В Ливии назвали действия Украины равносильными объявлению войны. Нападение на морской порт Бенгази причинило материальный ущерб и привело к ранениям среди мирного населения, отметил заместитель председателя Президентского совета Ливии Муса аль-Куни. Ранее Киев взял на себя ответственность за теракт в порту.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98492",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98492",
+      "published_at": "2026-11-23T18:57:28+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡ Russia produces one ballistic missile every five hours and continues to increase production rates — Ukraine's Defense Minister. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98491",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98491",
+      "published_at": "2026-11-23T18:54:37+00:00",
+      "text": "🇺🇦 ⚡ Zelensky says the services inform him that Russia is preparing the next massive attack on Ukraine. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98490",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98490",
+      "published_at": "2026-11-23T18:51:39+00:00",
+      "text": "🇷🇴 🇷🇺 🇲🇩 🇪🇺 People from Kadyrov’s inner circle and a former top manager of Gazprom obtained Romanian passports using forged documents, according to an international investigation. Some of them pretended to be Ukrainians in order to get EU citizenship. Journalists from the French newspaper Le Monde, the Moldovan outlet Cu Sens and other media examined 55 court cases on the annulment of Romanian documents that had been issued on the basis of forgeries. In more than 30 cases the recipients turned out to be Russians, including businessmen under EU sanctions and people connected to organized crime. At least eight Russian citizens used Ukrainian passports and fake certificates of Romanian citizenship to obtain genuine Romanian documents in 2023–2024. The scheme exploited a law that allows descendants of residents of former Romanian territories to restore their Romanian citizenship. According to Le Monde’s sources, this service could cost from 50 to 70 thousand euros. Middlemen in Romania and notaries in Moldova were involved in arranging the paperwork. Some of the recipients were registered only on paper in the small Romanian village of Vârful Câmpului, which had around three thousand residents in 2011 but now has more than 12 thousand people registered. One local resident admitted to journalists that he registered foreigners at his house for 50 euros. At one point, thousands of people were listed at a single address. Among the figures mentioned in the investigation is the former general director of Gazprom Mezhregiongaz, Kirill Seleznev, who is under US and UK sanctions. In December 2023 his documents were entered into the Romanian registries on the basis of a forged citizenship certificate. In February 2026 a court in Bucharest annulled these records. Another figure is Mayrbek Abdulazizov from Ramzan Kadyrov’s entourage. He works as an adviser to his brother, who heads the territorial compulsory health insurance fund of Chechnya, and in 2024 he received the Kadyrov Order. To obtain Romanian documents, Abdulazizov used a Ukrainian passport and a citizenship certificate supposedly issued by the Romanian consulate in Istanbul, but bearing the stamp of the embassy in Bratislava. The address in Kyiv that he provided turned out not to exist — journalists found an empty lot there. The journalists also found documents belonging to Nurutdin Dadaev, a native of Dagestan who is regarded as a “thief in law” both in Russia and in Ukraine. The documents obtained allowed their holders to move freely around the European Union, open bank accounts and register companies. The Romanian authorities are investigating hundreds of similar cases and are trying to annul the illegally issued documents. More than 800 court cases related to their cancellation are currently being examined.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30753",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30753",
+      "published_at": "2026-11-23T18:50:31+00:00",
+      "text": "📆 Top News Today 🎯 Crushing the enemy's rear: delivered strikes against power facilities , logistics and port infrastructure, as well as ships used in the interests of the AFU. 🤝 Road to life: the Yuzhnaya Group's servicemen evacuated nine civilians from Konstantinovka. One of the rescued residents of Konstantinovka described the cruelty of Ukrainian nationalists. ▫️ Taken aback : the Vostok Group's assaultmen mopped up an AFU stronghold in Zaporozhye region. 🔥 Flattened the shack : the Yuzhnaya Group's drone operators of the 85th Separate Motorised Rifle Brigade obliterated the AFU UAV control posts in Slavyansk-Kramatorsk agglomeration. 💥 A deadly 'surprise' for the enemy : the Tsentr Group's EOD specialists eliminated the AFU infantry by means of remote mining. 🎮 Had a ride – that's enough : UAV operators of the Vostok Group of Forces disrupted an AFU rotation in Zaporozhye region. The day is done, the tasks are completed. We keep working ▫️ #TopNews 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102435",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102435",
+      "published_at": "2026-11-23T18:45:13+00:00",
+      "text": "Кадры налета противника на морское судно Киевская хунта бомбит мирный балкер дронами FP-2 Размах крыла — 2,5 м. Вес боевой части — до 105 кг. Тип боеприпаса — осколочно-фугасные ОФАБ-100-110-ТУ. Наведение — автономное (для неподвижных целей), ручное управление оператором по радиоканалу (для движущихся целей). Пуск — стационарная платформа / мобильная ПУ на базе грузовика. Стоимость аппарата — более $55 тыс. ✨ Мы месяцами писали про необходимость организации морских ЧОП/ЧВК в промышленном количестве. Решение, по всей видимости, принято не было. Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234471",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234471",
+      "published_at": "2026-11-23T18:40:58+00:00",
+      "text": "Сегодня днем Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам транспортной инфраструктуры и морским судам , задействованным в интересах ВСУ. В результате ударов поражены : — поражен железнодорожный локомотив , задействованный в интересах перевозки вооружения и военной техники; — в акватории Черного моря восточнее Одессы поражено морское судно типа «сухогруз» , доставлявшее грузы двойного назначения для обеспечения ВСУ. МО РФ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234470",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234470",
+      "published_at": "2026-11-23T18:33:00+00:00",
+      "text": "Боевая доктрина 3С/4С: Как учения \"Центр-2026\" показали войну будущего В войсках начали внедрять новую российскую доктрину планирования современных боевых действий - 3С/4С. Она уже прошла \"обкатку\" на учениях \"Центр‑2026\" на Чебаркульском полигоне. Ее основной принцип: сегодня побеждает не тот, у кого больше танков, а тот, кто быстрее связывает разведку, огонь и управление в единую систему. Еще недавно исход битвы решало простое правило: у кого армия больше, тот и сильнее. Боевая модель 3С/4С рассматривает войну как единую систему из четырех элементов: Средства, способы, среда и управление. Сегодня побеждает не тот, кто вывел на поле больше солдат, а тот, кто раньше увидел, быстрее решил и точнее ударил. Смысл доктрины в том, что сегодня для победы недостаточно иметь в большом количестве самую современную технику и вооружение. Необходимо видеть картину целиком, и управлять всей системой боя, не забывая про киберпространство и информационное поле. Ядерное оружие не упускается из виду, в доктрине оно рассматривается только как крайний случай, если система работает на пределе. Эту логику можно было увидеть в действии на учениях \"Центр-2026\". Впервые был применен тяжелый роботизированный штурмовой комплекс \"Штурм\". Это беспилотный танк на шасси Т-72 или Т-90, который управляется операторами из специальной мобильной машины. Танк без экипажа шел в прорыв, работая по позициям противника прямой наводкой. Рядом действовал боевой лазерный комплекс \"Заря\". Он поражал средние и тяжелые беспилотники на дальностях до 6 километров. В небе стоял гул сотен дронов. В учениях задействовали более 500 аппаратов различных модификаций. Наземные роботы расчищали заграждения, прокладывали мосты, вели разминирование, доставляли боеприпасы передовым группам. В том, как эти машины взаимодействовали друг с другом, проявляется иной подход к войне. Лазер \"Заря\" получал целеуказания от радиолокационных станций и программного комплекса \"Узор-К\". Он работал как элемент единой сети. Разведывательные дроны \"Суперкам-350\" корректировали огонь танковых подразделений. Ударные беспилотники и наземные роботы с пулеметами поддерживали штурмовиков. Каждый из этих элементов по отдельности не был бы столь эффективен. Связанные в единый контур, они создавали то, что в доктрине 3С/4С называется системным эффектом. Доктрина 3С/4С показывает то, что уже происходит в армии. Минобороны России назвало особенностью учений массированное применение беспилотной авиации, наземных робототехнических комплексов и средств РЭБ. Это и есть переход от платформо-центричного мышления к системному. На Западе также разрабатывают похожие концепции. К примеру, многодоменные операции, или MDO, заключаются в синхронном ударе по противнику из разных сфер. Подавить ПВО кибератакой и одновременно нанести удар с земли и из космоса. Это позволяет создать временные окна превосходства. Принципиальная разница между подходами состоит в том, что MDO работает с отдельными платформами, такими как истребители, корабли, ракетные комплексы. В свою очередь, доктрина 3С/4С предлагает управлять не платформами, а всей системой взаимодействий. Побеждает тот, кто быстрее адаптирует связку \"Средство-Способ-Среда\" и опередит противника в скорости решений. MDO представляет собой продвинутую инструкцию по координации видов и родов войск. Доктрина 3С/4С в свою очередь является полноценной философией системной войны. Она формирует новый подход к долгосрочному военному строительству и проектированию систем управления будущего. https://rg.ru/2026/10/13/boevaia-doktrina-3s4s-kak-ucheniia-centr-2026-pokazali-vojnu-budushchego.html источник",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53518",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53518",
+      "published_at": "2026-11-23T18:28:41+00:00",
+      "text": "❗️ According to Merz the rejection of Ukraine's membership in NATO in 2008 was a mistake. \"If Ukraine had become a member of NATO, this war might have been avoided,\" he said. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102433",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102433",
+      "published_at": "2026-11-23T18:07:18+00:00",
+      "text": "Теперь у берегов Ливии атаковано и иранское судно. Там же, где ранее украинские БЭКи атаковали российские суда. Совпадение? БС в TG ✊ | БС в МАХ 🤫",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33568",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33568",
+      "published_at": "2026-11-23T18:05:42+00:00",
+      "text": "Russia's Ministry of Finance : 🇷🇺 🇨🇳 On November 23, Moscow hosted the 12th Russia-China Financial Dialogue , co-chaired by Russia's Deputy Prime Minister and Minister of Finance Anton Siluanov and China's Minister of Finance Lan Fo’an . 🤝 The Sides exchanged views on key areas of bilateral economic and fiscal cooperation . They discussed the macroeconomic situation, ways to ensure fiscal sustainability under current conditions, shared experiences in introducing modern technologies in public finance management, and outlined steps to coordinate their efforts at multilateral financial forums. 💬 Anton Siluanov , opening the meeting: Good relations between Russia and China are a valuable asset that must be further strengthened. Over the past 10 months, bilateral trade has grown to nearly $240 billion. More than 90 joint investment projects are being implemented in energy, transport, industry and high-tech sectors. Tourism, cultural and scientific exchanges are also expanding. On the sidelines of the Financial Dialogue, Anton Siluanov and Lan Fo’an also held a bilateral meeting to discuss cooperation on matters of mutual interest. 📄 Following the 12th Russia-China Financial Dialogue, a joint statement was adopted . #RussiaChina",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98488",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98488",
+      "published_at": "2026-11-23T18:05:31+00:00",
+      "text": "⚡ 🇷🇺 🇺🇦 Map by French analyst Clément Molin of Ukrainian attacks carried out against Russian ships in the Mediterranean between 2025 and 2026. In total, 3 Russian tankers have already been hit by Ukrainian drones in December 2025, March 2026, and September 2026. A naval drone was even found in Greece, which forced Kyiv to apologize to Athens. @medmannews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98486",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98486",
+      "published_at": "2026-11-23T18:04:01+00:00",
+      "text": "🇺🇦 ⚡ Ukrainian farmers face bankruptcy as early as spring. Financial reserves are being exhausted — Bloomberg. According to the president of one of the largest grain traders, farmers have exhausted the financial buffers that helped them hold on during the war. Unsold grain stocks are putting pressure on local prices, and banks are reluctant to lend to the sector. \"Grain exports this season have fallen by about a third. Fuel and fertilizer are getting more expensive, and Russia is increasingly attacking processing facilities.\" @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350343",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350343",
+      "published_at": "2026-11-23T18:01:01+00:00",
+      "text": "Спецоперация. Обстановка и главные события на 23 ноября : ▪️ ВСУ за сутки потеряли 1 110 военнослужащих и 819 беспилотников, сообщили в Минобороны. ▪️ Задержан агент ГУР, передавший куратору сведения о нахождении в Крыму экс-сотрудника министерства государственной безопасности ДНР, сообщили в ФСБ. ▪️ Инициатива Москвы по гуманитарной операции в Константиновке сохраняет актуальность, несмотря на отсутствие реакции киевского режима, заявил Песков. ▪️ Комментируя сообщения про атаки на российские суда у берегов Ливии, он сказал, что этим вопросом занимается Минобороны. ▪️ Прямой необходимости в применении Россией ядерного оружия в ходе конфликта на Украине пока не возникало, несмотря на то что Киев и страны Запада уже создавали для этого формальные поводы, заявил Медведев. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407252",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407252",
+      "published_at": "2026-11-23T18:00:00+00:00",
+      "text": "Главные новости к этому часу: ▪️ В МВД подтвердили задержание губернатора Мурманской области Андрея Чибиса. ▪️ Россия заявила протест Эстонии из-за решения закрыть границу. ▪️ ВС РФ поразили железнодорожный локомотив с вооружением в Харьковской области. ▪️ Европейская делегация не готова к двусторонним консультациям с Россией и хочет вести переговоры по Украине только в многостороннем формате. ТАСС собрал основное о ситуации. ▪️ Дженсена Хуанга восстановили в должности главы Nvidia. ▪️ ЕК представила проект 22-го пакета санкций. ▪️ Посольство РФ в Нидерландах запросило разъяснить роль Destinus по Украине. ▪️ Российский адвокат Жорин экстренно госпитализирован в Италии, сообщил ТАСС источник в медицинских кругах. ▪️ В посольстве РФ отвергли инсинуации СМИ ФРГ по планам России в космосе. ▪️ Обыски прошли в Федеральном агентстве по делам национальностей в Москве, сообщает газета \"Известия\". ▪️ Бастрыкин запросил согласие ВКСС завести дело против судьи из Тувы. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "moscow",
+        "negotiation",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
