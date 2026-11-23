@@ -63,6 +63,10 @@
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "coverage": "ukraine_anticorruption",
       "filter": "loose"
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)"
     }
   ],
   "timezone": "America/Winnipeg",
