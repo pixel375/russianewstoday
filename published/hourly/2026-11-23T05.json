@@ -1,0 +1,56 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    172
+  ],
+  "published_at_utc": "2026-11-23T06:31:32.254636+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-23T05",
+  "items": [
+    {
+      "item_id": "2026-11-23T05:1",
+      "title": "Donetsk mayor reports teenager wounded in Ukrainian drone attack",
+      "summary": "Donetsk Mayor Alexei Kulemzin said a teenager born in 2012 was injured in a Ukrainian drone attack on the city's Petrovsky district on Sunday. He also reported damaged windows at a medical facility in the Budyonnovsky district during overnight attacks.",
+      "post_url": "https://t.me/russianewstodayofficial/172",
+      "category": "other",
+      "hour_id": "2026-11-23T05",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T05:2",
+      "title": "Ukrainian drones reportedly strike oil storage tanks in Tatarstan",
+      "summary": "Ukrainian drones reportedly attacked oil storage tanks in Russia's Tatarstan region, with emergency services responding to the aftermath. The report did not specify the facility, the extent of damage or any casualties.",
+      "post_url": "https://t.me/russianewstodayofficial/172",
+      "category": "other",
+      "hour_id": "2026-11-23T05",
+      "source_handles": [
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T05:3",
+      "title": "Russian military expert claims bridge strikes have disrupted Ukrainian logistics",
+      "summary": "Russian military analyst Andrey Marochko claimed strikes on bridges over the Dnipro have substantially reduced Ukrainian military traffic toward Donbas and Russian-controlled southern territories. He also asserted that only three of Kyiv's six bridges remain fully operational.",
+      "post_url": "https://t.me/russianewstodayofficial/172",
+      "category": "other",
+      "hour_id": "2026-11-23T05",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T05:4",
+      "title": "Russia claims strikes on Izmail port and military rail transport",
+      "summary": "Russia's Defence Ministry said its forces struck port infrastructure in Izmail allegedly used for military deliveries, two locomotives near the Dniprodzerzhynsk railway station and a cargo ship southwest of Odesa allegedly carrying military supplies. The ministry did not provide detailed damage assessments.",
+      "post_url": "https://t.me/russianewstodayofficial/172",
+      "category": "other",
+      "hour_id": "2026-11-23T05",
+      "source_handles": [
+        "donbassr"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
