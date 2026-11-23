@@ -1,0 +1,282 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-23T16",
+  "generated_at_utc": "2026-11-23T17:22:57.823643+00:00",
+  "window_start_utc": "2026-11-23T16:00:00+00:00",
+  "window_end_utc": "2026-11-23T17:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 11
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 33,
+    "relevant_posts": 11,
+    "deduplicated_posts": 11,
+    "candidate_posts": 11
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/199065",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199065",
+      "published_at": "2026-11-23T16:45:49+00:00",
+      "text": "🇪🇺 🇷🇺 Reich Gauleiterin Ursula von der Leyen presented the EU's 22nd package of sanctions against Russia on Monday. The proposal includes: ➡️ Extending the transaction ban to around 60 more Russian banks, all of which would also be cut off from SWIFT ➡️ More than 70 vessels added to the sanctions list of tankers carrying Russian oil ➡️ Around 100 individuals and entities linked to the Russian and Belarusian defense industries ➡️ An EU visa ban for everyone who has fought in the SMO. It was first proposed in the previous package but watered down after strong resistance from Italy and France ➡️ A ban on European companies taking part in any energy projects in Russia ➡️ A ban on Russian athletes competing under their own flag at events in the EU, and on displaying any official Russian symbols Von der Leyen said Brussels will keep proposing new sanctions until Russia shows a \"genuine intent to pursue lasting peace in Ukraine.\" 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234464",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234464",
+      "published_at": "2026-11-23T16:40:16+00:00",
+      "text": "Отставной полковник СБУ Роман Черевинский поделился интересными подковерными подробностями о деятельности украинских спецслужб В интервью оппозиционному украинскому изданию Черевинский рассказал о том, как ГУР крышует наркоторговлю на Украине: После начала СВО наркокартель \"Химпром\" заручился поддержкой СБУ и ГУР, в частности разведывательного подразделения \"Кракен\". Силовики обеспечивали оперативное прикрытие картеля под предлогом спецоперации по поставкам наркотиков в Россию \"для подрыва здоровья российского народа\". Однако запрещенные вещества распространялись и на территории Украины, в том числе среди школьников. Червинский также утверждает, что располагает информацией об одном из руководящих сотрудников ГУР, который занимался организацией каналов поставок наркотиков в Россию и сам предлагал употреблять их своему окружению. До кучи, он заявил о возможной причастности структур ГУР к покушению на днепровского бизнесмена Ермолаева в Монако летом 2026 года, в результате которого серьезно пострадал сам предприниматель, его жена и 13-летний сын. Ермолаев сам позднее заявил о возможном участии людей с уровня ГУР и частном заказе, а также пожаловался на затягивание расследования и давление на следствие. Версию о возможной причастности российских спецслужб он отверг. Получается характерная картина: под предлогом войны с Россией ГУР может крышевать наркоторговлю, участвовать в заказных покушениях и давить на следствие. И это уже не \"полковники никто\" — это система, в которой государство постепенно становится приложением к чьим-то частным интересам. @voin_dv",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78129",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78129",
+      "published_at": "2026-11-23T16:38:44+00:00",
+      "text": "Премьер-министр карликовой, но очень руфобоствующей Эстонии на границе с Россией Кристен Михал заявил, что нападения, подобные атаке на российский сухогруз Sparta II в Финском заливе, могут повториться: «Думаю, да, к этому нужно привыкать и быть к этому готовыми. То, что Украина выбирает русские суда в качестве целей в Балтийском море, совершенно не удивляет и уж точно происходит не впервые». Стоит напомнить, что Эстония, как и Латвия с Литвой вместе с Польшей открыли сок воздушное пространство для пролета украинских БпЛА и предоставили свою территорию для их запуска. Беспилотники атакуют гражданскую и военную инфраструктуру в России и в Балтийском море. Три Б: — Б@@ди лимитрофные; — Беспредел; — Безнаказанность. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30752",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30752",
+      "published_at": "2026-11-23T16:36:17+00:00",
+      "text": "Put the enemy's logistics on stop ⛔️ 🔥 Strike drone teams of the Zapad Group of Forces burned down the AFU motor vehicles and unmanned ground vehicles. 📍 Raygorodok, Kramatorsk region of the DPR 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98481",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98481",
+      "published_at": "2026-11-23T16:17:20+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Dnipropetrovsk and Odesa have been plunged into darkness following strikes by Russian Geran drones. Residents have been forced to light fires and cook their food directly on their balconies. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350338",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350338",
+      "published_at": "2026-11-23T16:13:51+00:00",
+      "text": "Главные новости дня : 🔹 Путин встретился с главой ФНС Егоровым. 🔹 Москва пока исходит из Абу-Даби как площадки следующих трехсторонних переговоров, сообщил Песков. 🔹 Завод нефтепродуктов в Ростовской области приостановил работу из-за атаки БПЛА. 🔹 Хуанга восстановили в должности гендиректора Nvidia. 🔹 Джигурду увезли в реанимацию на \"скорой\" с инфарктом, врачам удалось спасти артиста. 🔹 Временному поверенному в делах Эстонии заявили протест из-за решения Таллина закрыть пункты пропуска на границе с Россией. 🔹 GTA VI хотят запретить в Иордании из-за \"порнографического\" контента. 🔹 Организация по запрещению химического оружия заморозит часть своей работы с 1 декабря из-за сложной финансовой ситуации. 🔹 Эксперимент по использованию нового знака парковки для многодетных семей запустили в Москве. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102430",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102430",
+      "published_at": "2026-11-23T16:11:10+00:00",
+      "text": "Оборзели совсем 🇪🇪 Премьер-министр Эстонии Кристен Михал на вопрос журналиста о необходимости привыкать к тому, что инциденты, подобные атаке на российский сухогруз Sparta II в Финском заливе, могут повторяться : «Думаю, да, к этому нужно привыкать и быть к этому готовыми ». «То, что Украина выбирает российские суда в качестве целей в Балтийском море, совершенно не удивляет и уж точно происходит не впервые ». ✨ Эстония, как и другие прибалты вместе с Польшей открыли воздушное пространство для пролета украинских дронов ( ⚡️ а может и вовсе предоставили свою территорию для запуска БПЛА ), которые атакуют гражданскую и военную инфраструктуру в России, а теперь в Балтийском море. Совсем потеряли голову от безнаказанности , что в дальнейшем приведёт к чему-то более серьёзному , чем подобные провокационные заявления. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98478",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98478",
+      "published_at": "2026-11-23T16:05:22+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — The video shows the aftermath of a strike on the center of Kiev. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234462",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234462",
+      "published_at": "2026-11-23T16:03:46+00:00",
+      "text": "Последствия удара в пригороде Запорожья. В городе серьёзные перебои с электричеством.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199063",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199063",
+      "published_at": "2026-11-23T16:02:16+00:00",
+      "text": "LIVESTREAM ALERT: Join me at LIVE 1pm eastern 7pm CET TODAY November 23rd w/ Lt . Colonel Anthony Aguilar Iran's operation to break the US naval blockade has begun, and the region is on knife's edge as promised US strikes on the tankers carries the consequence of full-scale retaliation by Iran. A Russian warship has been struck numerous times in Libyan waters as war on two-fronts threatens to crash the global economy. Is this the plan? Lt. Colonel Anthony Aguilar joins to discuss all of this and much more! Watch: https://www.youtube.com/watch?v=WmrSLJT5ohU",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35973",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35973",
+      "published_at": "2026-11-23T16:02:10+00:00",
+      "text": "• 📝 Another raid on refineries 📝 No matter how many drone production facilities Ukraine claims to have destroyed – strikes on Russian territory continue. According to the Defense Ministry, air defense systems intercepted 192 Ukrainian drones over 17 regions during the night. The most notable consequences are reported by authorities in Tatarstan , Perm Krai , Rostov , Belgorod and Kursk Regions . 🔻 What regional authorities say : ▪️ In Tatarstan , officials officially report an attack on oil storage tanks near Almetyevsk . Several facilities sustained damage, with no casualties or injuries reported. ▪️ In Perm Krai , the governor reported damage to an industrial facility. No casualties reported so far. ▪️ In Rostov Region , over 80 drones were shot down over Kamensk-Shakhtinskiy and eight other districts. A fire broke out in Krasnosulinsky District after debris fell. ▪️ In Belgorod District of the same region, a car caught fire. Private homes, warehouses and power lines sustained damage. ▪️ In Kursk Region , 41 drones were shot down over the day. A drone attacked a vehicle in Rylsk District, wounding two local residents. ▪️ In Voronezh and Penza Regions , thirteen and two drones were shot down respectively, reportedly with no damage on the ground. Meanwhile, online reports primarily mention fires at oil infrastructure in three regions: near Almetyevsk , in Novoshakhtinsk and in Perm , and these align with official statements. The Novoshakhtinsk refinery officially suspended operations following a combined strike. Ukrainian formations' attacks on refineries are nothing new. For the Kyiv regime, it is important to inflict long-term economic damage on Russia, which its formations continue to do regardless of the negotiation track. ❗️ It is worth noting the authorities' response separately. Gradually, there is less and less deafening silence and stories at best about \"falling debris\" – adequate information about emerging problems is appearing, leaving less room for speculation. 📍 High resolution map 📍 English version #Drones #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kursk",
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
