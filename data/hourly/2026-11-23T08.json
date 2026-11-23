@@ -1,0 +1,291 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-23T08",
+  "generated_at_utc": "2026-11-23T09:08:10.499244+00:00",
+  "window_start_utc": "2026-11-23T08:00:00+00:00",
+  "window_end_utc": "2026-11-23T09:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 10
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 36,
+    "relevant_posts": 12,
+    "deduplicated_posts": 12,
+    "candidate_posts": 12
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407158",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407158",
+      "published_at": "2026-11-23T08:55:25+00:00",
+      "text": "Главное из нового брифинга Минобороны России: ▪️ ВС РФ поразили за сутки места производства и хранения беспилотников для ВСУ; ▪️ Потери ВСУ в результате действий российских группировок войск составили порядка 1 110 военных за сутки; ▪️ Средства ПВО за сутки уничтожили 819 украинских БПЛА и снаряд HIMARS. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198983",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198983",
+      "published_at": "2026-11-23T08:50:26+00:00",
+      "text": "🇺🇦 “Dan-T” cruise missiles struck Kharkov. Smoke is rising from the impact sites. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198980",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198980",
+      "published_at": "2026-11-23T08:40:56+00:00",
+      "text": "🇷🇺 🌍 Western intelligence agencies believe that Russia may launch a satellite with a nuclear warhead into space by the end of the year, according to an investigation by German television channels WDR, NDR, and the newspaper Süddeutsche Zeitung. According to their data, NATO countries recently exchanged information that such an object, named “Sputnik-S,” has been stored in a ready state in the suburbs of Moscow for several years and could be launched into space within the next 60 days. According to an assessment by the Bundeswehr’s Space Command, “Sputnik-S” could be launched as early as December. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117322",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117322",
+      "published_at": "2026-11-23T08:40:47+00:00",
+      "text": "💥 Донецк вновь атакуют вражеские БПЛА, в городе работает ПВО , сообщил Алексей Кулемзин. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/donbassr/117321"
+      ]
+    },
+    {
+      "id": "voenkorKotenok/78116",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78116",
+      "published_at": "2026-11-23T08:40:05+00:00",
+      "text": "Просроченный наркофюрер официально заявил об ответственности Киева за удар по российским кораблям у берегов Ливии. Говорит, что атака на корвет \"Меркурий\" и сухогруз \"Ангара\" была совместной операцией СБУ и ВСУ. По словам Зеленского, в ней были задействованы семь БЭКов украинского производства. Что касается американского разведчика Bombardier Artemis II , который, по ряду признаков, также участвовал в координации удара, то в ближайшее время крайне вероятно его появление у границ Калининградской области. Именно этот район является для \"Артемиса\" основной зоной мониторинга. К берегам Ливии борт был переброшен лишь на несколько дней — прямо перед атакой на российские суда. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33536",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33536",
+      "published_at": "2026-11-23T08:30:00+00:00",
+      "text": "📆 On November 18–22, BRICS Women Leaders Summit was held in Banasthali Vidyapith University (Rajasthan), bringing together more than 100 women leaders from 13 countries, including Russia and India. The event was organised with the support of the Senezh Management Workshop of the “Russia — Land of Opportunity” Presidential Platform and the Council of the Eurasian Women’s Forum within the framework of the Federation Council of the Federal Assembly of the Russian Federation. 🇷🇺 🇮🇳 A message from Russian Ambassador to India Denis Alipov was read to the participants. 📢 Maria Zakharova, Director of the Information and Press Department of the Russian Foreign Ministry , addressed the delegates online. She stressed that diplomacy largely draws on qualities traditionally associated with women and highlighted the special role of intercultural dialogue in strengthening cooperation among BRICS countries. 🎓 Lok Sabha Speaker Om Birla and Professor Ina Aditya Shastri, Director of Banasthali Vidyapith University , also delivered their speeches at the opening ceremony. 🤝 On the sidelines of the forum, participants exchanged experiences and established professional contacts to strengthen Russia–India ties and multilateral cooperation within BRICS. #RussiaIndia #BRICS #Senezh #RussiaLandOfOpportunity",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407153",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407153",
+      "published_at": "2026-11-23T08:28:58+00:00",
+      "text": "ЕК завершила подготовку 22-го пакета санкций против России, в него войдут 150 физических лиц и компаний, сообщил глава МИД Эстонии. Его слова приводит газета Postimees. По словам Цахкны, в рамках подготовленных мер будет введен полный запрет на въезд в Шенгенскую…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117321",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117321",
+      "published_at": "2026-11-23T08:22:01+00:00",
+      "text": "❗️ В результате ночной атаки БПЛА ВСУ в Моспино ранены девушка 2007 г.р. и женщина 1969 г.р., сообщил глава Донецка Алексей Кулемзин. ◾️ Пострадавшим оказана квалифицированная медицинская помощь. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/donbassr/117322"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234423",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234423",
+      "published_at": "2026-11-23T08:21:01+00:00",
+      "text": "1. Славянск - Рай-Александровка Позиционные боевые действия в районе Славянска. ВС РФ возобновили атакующие действия в районе Рай-Александровки, расширяя зону контроля на южных подступах к населённому пункту. 2. Великий Бурлук - Должанка Позиционные боевые действия в Харьковской зоне безопасности. Позиция ВС РФ в Должанке подверглась обстрелу ВСУ. ВС РФ удерживают позиции в населённом пункте под огнём противника. Уточнение зоны контроля ВС РФ. врезки: @creamy_caprice",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53512",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53512",
+      "published_at": "2026-11-23T08:17:59+00:00",
+      "text": "❗️ The decision to use nuclear weapons during the special military operation was not made because there was no need to do so - Dmitry Medvedev. The supply of nuclear weapons by the West to the Kiev regime could force Russia to take preemptive measures to neutralize this threat. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117320",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117320",
+      "published_at": "2026-11-23T08:05:17+00:00",
+      "text": "Решение о применении Россией ядерного оружия в ходе СВО не принималось из-за отсутствия прямой необходимости , заявил Дмитрий Медведев. Другие заявления зампредседателя Совбеза РФ: ▪️ Россия начала СВО из-за прямой угрозы боевых действий, связанных с курсом Киева на вступление в НАТО. В этом отличие от атаки США на Иран; ▪️ Массированное применение неядерных средств, вызывающее катастрофы, делает возможным упреждающий ядерный удар России; ▪️ Тайные или скрытые поставки ядерного оружия Западом Киеву вызовут законный превентивный ядерный удар со стороны России; ▪️ Киев и его единомышленники должны помнить, что Россия не только вправе, но и в ряде ситуаций обязана применить ядерное оружие; ▪️ Киев и НАТО уже создавали ситуации, при которых Россия могла применить ядерное оружие, однако решение принимается по итогам комплексной оценки. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/35954",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/35954",
+      "published_at": "2026-11-23T08:00:07+00:00",
+      "text": "📝 Truth Conspirators 📝 \"Time of Our Heroes\" in Serbia Our team again visited the RT-Doc @rtdocu festival \"Time of Our Heroes\" in Serbia , where documentary films from the SMO zone and other hotspots were presented. Emir Kusturica called the festival a \"club of conspirators,\" and in the current conditions, this is an accurate definition. When Western media broadcast the same picture for years, showing a different one is already considered a conspiracy. Nothing is more convincing than reality that you see with your own eyes. Such stories don't need explanation: the fate of a child from a frontline city or the daily life of a fighter are understandable to viewers in any country. And that is precisely why they have a stronger effect on foreign audiences than the propagandistic statements of Western politicians. And there is already part of victory in the information war in this. ❗️ Serbia has already become a platform where an alternative point of view is accepted and people are willing to listen. The next step is to bring such screenings to Latin America, Africa, and Asia, involve independent authors and war correspondents, and give films a life after the festival. The more such \"truth conspirators\" there are, the harder it will be to pretend that the other side doesn't exist. #Russia #Serbia ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
