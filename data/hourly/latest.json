@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T12",
-  "generated_at_utc": "2026-11-23T13:23:28.761359+00:00",
-  "window_start_utc": "2026-11-23T12:00:00+00:00",
-  "window_end_utc": "2026-11-23T13:00:00+00:00",
+  "hour_id": "2026-11-23T13",
+  "generated_at_utc": "2026-11-23T14:25:28.479918+00:00",
+  "window_start_utc": "2026-11-23T13:00:00+00:00",
+  "window_end_utc": "2026-11-23T14:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 9
+      "raw_count": 10
     },
     {
       "handle": "intelslava",
@@ -27,31 +27,31 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
-      "pages": 1,
-      "raw_count": 12
+      "pages": 2,
+      "raw_count": 16
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
@@ -69,19 +69,19 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -93,76 +93,164 @@
       "handle": "sap_gov_ua",
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "donbassr",
       "name": "Donbass Decides (Донбасс решает)",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 37,
-    "relevant_posts": 11,
-    "deduplicated_posts": 11,
-    "candidate_posts": 11
+    "raw_posts": 41,
+    "relevant_posts": 15,
+    "deduplicated_posts": 14,
+    "candidate_posts": 14
   },
   "posts": [
     {
-      "id": "MFARussia/33558",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33558",
-      "published_at": "2026-11-23T12:59:57+00:00",
-      "text": "🗓 On November 23, Russia's Foreign Minister Sergey Lavrov held a meeting with Patriarch John X of Antioch and All the East , who is in Moscow to attend events marking the 80th birthday of Patriarch Kirill of Moscow and All Russia . They exchanged views on the situation in the Middle East, with a focus on the Christians living there. Russia reaffirmed its commitment to working closely with the Orthodox Church of Antioch on a range of issues and its readiness to provide Christian communities with the assistance they need as the military and political situation deteriorates in their historic homelands. ☝️ They also discussed the Western-inspired church schism in Ukraine and the ongoing persecution of the canonical Ukrainian Orthodox Church. *** 🎙 Sergey Lavrov's opening remarks : 💬 We are pleased to see you, especially at a time when your See is at the heart of major developments in the Middle East . In Syria, efforts to bring the nation together continue. We very much hope that, despite numerous provocations, genuine national unity can be achieved with the participation of all ethnic and religious communities. In Lebanon, the situation remains deeply worrying and shows no sign of improvement. Much to our regret, the Israeli army’s continued operations are increasing the risk of another military confrontation, which we want to do everything we can to avoid. We believe it is essential to preserve the structure of the Lebanese state and safeguard the delicate balance among its three main communities. In our discussions with Syrian President Ahmed al-Sharaa, we have welcomed his commitment to a similarly inclusive approach. One example is the formation of the People’s Assembly, where Orthodox Christians serve, including in leadership positions. Orthodox Christians are also represented in the Government of Syria. 🤝 Your Beatitude, we greatly value the efforts of your Church and your Patriarchate to foster unity across the region and preserve its historical roots. I would welcome your assessment of the situation and any ideas we could actively support to help restore stability throughout the region .",
+      "id": "tass_agency/407209",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407209",
+      "published_at": "2026-11-23T13:58:06+00:00",
+      "text": "❗️ Эстония негласно предоставляет свое воздушное пространство для пролетов украинских дронов с целью осуществления атак на Северо-Запад России, заявили в МИД РФ.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199031",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199031",
-      "published_at": "2026-11-23T12:54:03+00:00",
-      "text": "🇳🇱 Rutti Frutti is scaremongering “What I would counsel against is to have all the nations having their own military working together in NATO, and then on top of that having a big European structure. Because then, if Putin attacks, we will first need two or three weeks to agree who will do what, and then he will probably end up in Rotterdam before we have decided. There is no principal problem against a European military. But again, I don’t see it happening soon. I don’t think there is a big push for it.” 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
+        "drone",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199029",
+      "id": "DDGeopolitics/199042",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199029",
-      "published_at": "2026-11-23T12:36:37+00:00",
-      "text": "🇳🇱 🇪🇺 The company that claimed responsibility for the attack on the Crimean Bridge has received hundreds of millions of euros from the EU. The company in question is Destinus, which is promoting itself through the missile strikes on the Crimean Bridge. The firm is linked to a fugitive Russian citizen, Mikhail Kokorich, the former owner of “Technosila.” In Russia, he is accused of treason. According to RT’s investigation, Destinus alone received hundreds of millions of euros from EU countries in the last year, including for military contracts for drone production. The firm is fulfilling a contract with the Dutch Ministry of Defense to supply drones to the Ukrainian Armed Forces. Specifically, deliveries under this contract amounted to €291.9 million (approximately 26 billion rubles) this year. This is evidenced by the ministry’s annual report, which RT reviewed. The company also secured a contract to supply Ruta Block 2 cruise missiles to Kiev, according to the Dutch newspaper NRC. Additionally, the firm is involved in the development and testing of Hornet B2 interceptor drones for Royal Navy warships. No tender was held for this contract; the client cited national security interests. The program’s budget is estimated to range from €250 million to €1 billion (22 billion to 90 billion rubles). Destinus also has other major backers in European countries. Last December, the firm received a €50 million (4.5 billion rubles) loan from German bank Commerzbank, 12.7% of which is owned by the German government. Destinus’ Kyiv division is 100% owned by the French entity Destinus SAS. Previously, RT reported on the origins of the firm Destinus and the schemes of Mikhail Kokorich, the former owner of “Technosila,” whose partner became a former advisor to the Ukrainian Minister of Defense. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199042",
+      "published_at": "2026-11-23T13:44:15+00:00",
+      "text": "🇺🇦 Debris from the Russian strike has caused a car to catch on fire in Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199041",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199041",
+      "published_at": "2026-11-23T13:43:01+00:00",
+      "text": "🇺🇦 Strikes in Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/DDGeopolitics/199039"
+      ],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407204",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407204",
+      "published_at": "2026-11-23T13:41:37+00:00",
+      "text": "ЕК отказалась от двусторонних консультаций с Россией по евробезопасности. Европейская делегация получила предложение приехать в Москву, но не готова к двусторонним консультациям с РФ и хочет вести переговоры по Украине только в многостороннем формате, заявила…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199040",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199040",
+      "published_at": "2026-11-23T13:41:28+00:00",
+      "text": "🇺🇦 A Russian Drone struck a gas station in Kryvyi Rih 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234450",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234450",
+      "published_at": "2026-11-23T13:40:17+00:00",
+      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки За минувшие сутки существенных изменений в обстановке на фронте не зафиксировано — враг продолжает контратаковать мелкими группами. За линией боевого соприкосновения уничтожена бронемашина ВСУ, 5 автомобилей и квадроциклов, а также пешие боевики. Около 10 групп инфильтрации вскрыто и уничтожено на освобожденной территории. На северо-западном участке забайкальцы вскрыли и уничтожили САУ, квадроцикл и 3 НРТК. Огневое поражение было сосредоточено в районах н.п. Новоукраинка, Малиновка, Старокосьяновское и Диброва. На левом фланге группировки \"Восток\" подразделения 35 армии продолжают продвигаться на запад, нанося удары по позициям боевиков в районе Таврийского, Кирово и Блакитного. Уничтожено 2 блиндажа, пункт управления БПЛА, а также пикап и 3 НРТК. Нанесен удар по нескольким группам боевиков в ходе попытки усиления позиций — враг потерял до 9 военнослужащих ВСУ убитыми. Всего уничтожено свыше роты живой силы ВСУ, САУ, ББМ, 5 единиц авто-мототехники, склад материальных средств, разрушено 25 пунктов управления БПЛА. @voin_dv",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407200",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407200",
+      "published_at": "2026-11-23T13:26:58+00:00",
+      "text": "Премьер Италии Джорджа Мелони упрекнула Зеленского за включение итальянцев в базу украинского экстремистского сайта \"Миротворца\". Об этом сообщила газета Il Fatto Quotidiano. Ранее в Италии разгорелся скандал, когда стало известно о включении в базу итальянских…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199038",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199038",
+      "published_at": "2026-11-23T13:21:59+00:00",
+      "text": "🇺🇦 ⚔️ 🇮🇷 BREAKING! Ukraine reportedly attacks Iranian ship off Libya Iranian vessel Alvan was hit by naval drones in Libyan territorial waters. It's the third attack of this kind there, after earlier strikes on Russian ships off Benghazi. Zelensky has already admitted that Ukraine was behind the strike on the Russian warship in Benghazi. Kiev is now carrying out its naval drone attacks in the Mediterranean, inside the territorial waters of a third country. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
         "kyiv",
-        "missile",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117334",
+      "id": "donbassr/117336",
       "channel": "donbassr",
       "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117334",
-      "published_at": "2026-11-23T12:27:58+00:00",
-      "text": "По уточненной информации, в результате прямого удара дрона украинских террористов по пассажирскому автобусу в Никитовском районе Горловки утром 22 ноября ранены два мирных жителя, – сообщил глава города Иван Приходько. Донбасс решает в MАX",
+      "url": "https://t.me/donbassr/117336",
+      "published_at": "2026-11-23T13:21:58+00:00",
+      "text": "26 мирных жителей ранены, два погибли в ДНР за неделю в результате атак ВСУ, – сообщили в аппарате уполномоченного по правам человека в регионе. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117335",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117335",
+      "published_at": "2026-11-23T13:21:49+00:00",
+      "text": "❗️ Три мирных жителя ранены при атаках БПЛА ВСУ на Белгородскую область, сообщает оперштаб региона . Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -172,97 +260,57 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407188",
+      "id": "tass_agency/407198",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407188",
-      "published_at": "2026-11-23T12:25:01+00:00",
-      "text": "Москва по дипломатическим каналам предложила европейцам приехать в Россию и обозначить свои позиции относительно обеспечения безопасности, сообщил Путин.",
+      "url": "https://t.me/tass_agency/407198",
+      "published_at": "2026-11-23T13:13:02+00:00",
+      "text": "The Guardian назвала три причины исключения Каллас из переговоров с Россией. Одно из объяснений, которое циркулирует в дипломатических кругах Брюсселя, — чрезмерно открытая и жесткая позиция, которую занимает эстонский дипломат. Во-вторых, крупнейшие страны…",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow"
+        "negotiation"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234445",
+      "id": "DDGeopolitics/199036",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199036",
+      "published_at": "2026-11-23T13:12:29+00:00",
+      "text": "🇺🇦 ⚡️ Four DTEK energy facilities were damaged in the Dnepropetrovsk region over two days According to Ukrainian media, equipment was damaged as a result of repeated strikes, and fires broke out at several facilities. About 353 thousand homes were left without power supply. Mass outages affected Dnepropetrovsk, Novomoskovsk, and adjacent areas 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234447",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234445",
-      "published_at": "2026-11-23T12:21:01+00:00",
-      "text": "Развитие ракетного вооружения истребителей Су-30СМ и СМ2 выходит на новый этап реализации Главный конструктор ОКБ Сухого Олег Панков подтвердил наличие проработок, направленных на интеграцию в систему вооружения авиационных комплексов тяжёлых противокорабельных и многоцелевых ракет класса «воздух — поверхность». Речь может идти о 2-маховых тактических ракетах 3М55 «Оникс» и об их индийской версии PJ-10. Техническая возможность такой модернизации обусловлена минимальным объёмом доработок планера и узлов подвески, что делает задачу вполне выполнимой в среднесрочной перспективе при наличии соответствующего запроса со стороны заказчика. Актуальность интеграции таких средств поражения продиктована необходимостью повышения оперативной гибкости истребительной авиации при решении ударных задач на значительном удалении от аэродромов базирования. Основой для внедрения этих решений выступает богатый опыт интеграции ракет семейства «Брамос» (PJ-10), разработанных совместно НПО машиностроения и индийской стороной, которые успешно прошли цикл натурных испытаний на платформе Су-30МКИ в период с 2017 по 2019 год. Логическим продолжением этой работы становится адаптация отечественных сверхзвуковых ракет 3М55 «Оникс» и их модернизированной версии 3М55М. Последние, обладая крейсерской скоростью около 2,0 Маха в низковысотном режиме и до 2,5 Маха — в высотном, доказали свою эффективность при поражении наземных объектов в ходе текущих боевых действий. Важным техническим преимуществом изделий 3М55М является оснащение обновлённой активной радиолокационной головкой самонаведения с селекцией радиоконтрастных наземных целей, а также интеграция высокоточных инерциальных навигационных систем, дополненных новыми помехозащищёнными модулями ГНСС, что кратно повышает вероятность успешного поражения стационарных целей в условиях плотного радиоэлектронного противодействия. Адаптация ракет 3М55М к узлам подвески Су-30СМ обеспечит принципиально новые возможности по применению авиационного компонента в рамках концепции загоризонтного поражения. Реализация пуска при высотном профиле полёта носителя позволит существенно увеличить дальность действия ракетного комплекса, расчётное значение которой достигает 800 км. Такие показатели обеспечивают возможность нанесения ударов по объектам в глубоком тылу противника (включая цели на Западной Украине) без входа самолёта в зону действия объектовых систем ПВО большой дальности. Таким образом, внедрение тяжёлых сверхзвуковых ракет в боекомплект Су-30СМ трансформирует этот истребитель из платформы тактического назначения в эффективный инструмент оперативно-стратегического уровня, способный осуществлять высокоточное огневое воздействие по всей глубине обороны противника с использованием комбинированных профилей полёта ракеты. источник",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199028",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199028",
-      "published_at": "2026-11-23T12:18:16+00:00",
-      "text": "🇷🇺 🇪🇪 Estonian Chargé d’Affaires summoned to the Russian Foreign Ministry Estonian Chargé d’Affaires Marek Juhthegi has arrived at the Russian Foreign Ministry after being summoned by Moscow. The summons follows Tallinn’s decision to close the remaining border crossing points with Russia from December 1. Moscow has described the move as openly confrontational, accusing Estonia of using an alleged attempted arson attack on an Estonian defence industry facility, which Tallinn claims was organised by Russian special services, as a pretext. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199026",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199026",
-      "published_at": "2026-11-23T12:08:13+00:00",
-      "text": "🇪🇺 “The question is how long” – Sean Clancy, Chairman of the Military Committee of the European Union, stated that Europe will be able to wage war against Russia without the United States. — Can Europe defend itself from Russia without the United States? — Europe has very, very significant capabilities. It has very, very many combat-ready and competent armed forces. It has a numerical advantage. Therefore, I see no reason for concern from the standpoint of our readiness. We are ready to defend Europe and ensure its security. The question is how long we will be able to do so. And I am fully confident that defense and deterrence in the Euro-Atlantic region, including Europe, is the responsibility of NATO 🔴 @DDGeopolitics",
+      "url": "https://t.me/boris_rozhin/234447",
+      "published_at": "2026-11-23T13:04:29+00:00",
+      "text": "Марин Ле Пен - заявила , что Украине не место в Евросоюзе: \"Много лет назад я предупреждала, что Евросоюз настолько враждебно настроен по отношению к России в принципе, ещё до войны в Украине, до всех этих событий, что это толкнёт Россию в объятия Китая. И я не считаю, что для Европы и даже для всего мира было бы хорошо толкать Россию в объятия Китая и допускать создание очень прочного союза между этими двумя огромными странами.\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "sap_gov_ua/4558",
-      "channel": "sap_gov_ua",
-      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
-      "url": "https://t.me/sap_gov_ua/4558",
-      "published_at": "2026-11-23T12:05:43+00:00",
-      "text": "✅️ ️️️️️️ САП запускає власний офіційний сайт Новини, результати роботи та можливості приєднатися до команди тепер будуть доступні на окремому офіційному вебпорталі Спеціалізованої антикорупційної прокуратури. На сайті можна знайти: 📌 офіційні новини та повідомлення САП; 📌 звіти про роботу й фінансову звітність; 📌 інформацію про вакансії, міжнародну діяльність та інші важливі напрямки роботи. Ми хочемо, щоб інформацію про нашу роботу було простіше знаходити, перевіряти та використовувати. Сайт розроблено за підтримки Антикорупційної ініціативи ЄС в Україні (EUACI). ➡️ Переходьте за посиланням та додавайте до закладок: https://www.sap.gov.ua/",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199024",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199024",
-      "published_at": "2026-11-23T12:03:29+00:00",
-      "text": "🇫🇮 Finland intends to wall itself off from Russia with anti-tank ditches Finnish deputies propose the construction of fortifications, anti-tank ditches, and barriers on the border with Russia. As Bloomberg reports, they intend to base this on the experience of the Ukrainian conflict and prepare for a possible confrontation even in peacetime. Heikki Autto, head of the parliamentary defense committee, stated that lost territories are extremely difficult to recover. It seems Finland is adopting the Ukrainian experience not only in digging trenches, but also in military hysteria with paranoia to boot. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35961",
+      "id": "rybar_in_english/35962",
       "channel": "rybar_in_english",
       "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35961",
-      "published_at": "2026-11-23T12:02:07+00:00",
-      "text": "• 📝 First, close off the sea! 📝 The attack in the Mediterranean Sea clearly demonstrated that threats to Russia exist worldwide, and it is naive to assume that everything is limited only to the SMO zone. Given strikes in the Baltic and near Libya, Russia needs to act comprehensively, and it can start with the Black Sea. There, Russian command has been conducting a blockade campaign against Ukrainian shipping for several months, and the results are indeed evident. Current estimates are only approximate, since the Ukrainian side does not publicize current import/export data. 📌 But certain conclusions can be drawn. ➡️ If we look at the level of vessel traffic to the ports of Greater Odesa (Odesa, Pivdennyi, Chornomorsk) in March 2026, monthly transit amounted to approximately 270-300 vessels . Quite impressive numbers, wouldn't you say? But by October, the number of vessels heading in that direction dropped to 10-15 per month . ➡️ Essentially, the movement of tankers and dry cargo ships with bulk carriers simply came to a halt. Individual brave souls continued attempting breakthroughs, and Geranium drones flew at them. All of this impacted cargo turnover through the Black Sea, as the Danube ports, to which routes were redirected, simply cannot handle such volumes. ➡️ And this costs the so-called Ukrainian economy over 285 million dollars per month by the most rough estimates. Total damage already exceeds 1.2 billion. BUT! This is only based on Ukrainian sources, and in reality things are somewhat worse. 🖍️ The so-called Ukraine does not account for the overall increase in insurance payments and freight rates, which have increased several times compared to spring. This is hardly surprising when you consider that over the past several months, Geranium drones have attacked no fewer than 109 vessels of various types. This led to a significant increase in security expenses and crew wages. And that's not even mentioning the bottleneck at the Sulina Canal , which has grown to enormous proportions, causing regular delays and downtime—in other words, additional expenses. The sinkings of vessels that began in October hit even harder, as fewer were willing to venture toward the so-called Ukraine. And Black Sea basin countries have fully assessed the consequences for their own economies. Dry cargo ships are sinking, and recently a gas tanker joined them, which led to a sharp increase in logistics costs and changes to standard routes. ❗️ And for complete effect, the only remaining route for the so-called Ukraine needs to be closed, which runs through the Danube . This can be done by intensifying strikes on shipping on the Danube, which we discussed on Taktika . How will the economies of Bulgaria and Romania react if vessels of the Ukrainian shadow fleet start sinking in territorial waters? 📍",
+      "url": "https://t.me/rybar_in_english/35962",
+      "published_at": "2026-11-23T13:02:19+00:00",
+      "text": "• 📝 Attack on Russian Navy convoy off Libya 📝 what really happened and what comes next? The Libya events – another occasion to think about what Russian command should undertake far from the SMO zone. Yesterday's strike was planned for more than a day, preparations for it took quite a while, as indicated by NATO aviation flights and active satellite tracking of Russian ship movements. 🔻 So what is known about the situation? ▪️ The choice of attack area is no accident: if you look at vessel traffic density, it is precisely in this \"pocket\" between Libya , Malta and Greece that a large stretch of neutral waters lies, where it is very convenient to deploy groups of attack USVs to intercept needed tankers or cargo ships (even past attacks occurred there). ▪️ In Libya, on the territory of Misrata, Az-Zawiya, and also Sirte, Ukrainian forces deployed both final assembly workshops for USVs and FPV-drones (local militarized units of the so-called \"Government of National Unity\" are actively trained to operate the latter, by the way) . Two Bayraktar UAVs and 4 PD-2 UAVs were also transported there. It was precisely from the Bayraktar that objective control of the Ukrainian operation was provided. The supply of drones and components has long been organized through the same vessels of the Ukrainian shadow fleet, which freely sails the Mediterranean, ensuring both rotation and covert deliveries to Libya from so-called Ukraine. ▪️ The strike involved not 7 USVs, as Zelensky claimed. In reality, 12 to 14 units sortied, and the attack was carried out in two waves. The first 5 drones departed from the Sirte area in the direction of the moving convoy, which was heading to Tobruk . The Merkuriy crew destroyed three USVs, causing the rest to retreat. Due to the attack, a decision was made to head to Benghazi, where another 7-9 USVs struck the naval base. Four USVs were destroyed on the approach to the corvette, but 2 hit the ship. Other drones provided objective control, and then one of them struck the Angara vessel. 🖍️ The entire complex of measures undertaken by the Ukrainian side together with NATO countries shows that the operation was planned well in advance. It is no coincidence that the targets became specific vessels that supply the needs of the Russian Armed Forces' African Corps in the Mediterranean Sea and Atlantic Ocean. Could such a scenario have been foreseen? Absolutely, considering that only the lazy did not speak about the presence of a Ukrainian contingent in western Libya. And all these stories about an \"Albanian trail\" in this situation are not worth any attention, at least because the primary source came from a biased Turkish publication . ❗️ Without an adequate response from Russian leadership to such actions by the Ukrainian regime, attacks and sabotage will continue to repeat, and AFU operations in the Baltic and Mediterranean seas will only increase. And fighting this needs to be done roughly in a similar manner as in the",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "odesa",
         "strike"
       ],
       "possible_duplicate_urls": []
