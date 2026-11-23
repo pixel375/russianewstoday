@@ -1,0 +1,23 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    187
+  ],
+  "published_at_utc": "2026-11-23T21:26:45.060716+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-23T20",
+  "items": [
+    {
+      "item_id": "2026-11-23T20:1",
+      "title": "AfD co-leader says party would halt German payments and weapons deliveries to Ukraine",
+      "summary": "Alternative for Germany co-leader Alice Weidel said her party would stop German payments and arms deliveries to Ukraine if it came to power. She also called for cuts to defence spending and Germany's contributions to the European Union; these are party proposals, not current government policy.",
+      "post_url": "https://t.me/russianewstodayofficial/187",
+      "category": "other",
+      "hour_id": "2026-11-23T20",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
