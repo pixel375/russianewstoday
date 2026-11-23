@@ -1,39 +1,39 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T14",
-  "generated_at_utc": "2026-11-23T15:22:59.010723+00:00",
-  "window_start_utc": "2026-11-23T14:00:00+00:00",
-  "window_end_utc": "2026-11-23T15:00:00+00:00",
+  "hour_id": "2026-11-23T15",
+  "generated_at_utc": "2026-11-23T16:22:45.579335+00:00",
+  "window_start_utc": "2026-11-23T15:00:00+00:00",
+  "window_end_utc": "2026-11-23T16:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 10
+      "raw_count": 6
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "mod_russia_en",
@@ -45,55 +45,55 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 13
+      "raw_count": 8
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 6
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "nab_ukraine",
       "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "sap_gov_ua",
       "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "donbassr",
@@ -105,46 +105,159 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 54,
-    "relevant_posts": 20,
-    "deduplicated_posts": 19,
-    "candidate_posts": 19
+    "raw_posts": 39,
+    "relevant_posts": 18,
+    "deduplicated_posts": 18,
+    "candidate_posts": 18
   },
   "posts": [
     {
-      "id": "DDGeopolitics/199056",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199056",
-      "published_at": "2026-11-23T14:59:12+00:00",
-      "text": "🇺🇦 Odessa may remain without power for up to three weeks, writes Ukrainian Forbes. Strikes by the RF Armed Forces damaged the power line from the South Ukraine NPP. In particular, three pylons were affected. Because of this, the city was left without a source of electricity over the weekend. Ukrenergo previously emphasized: key infrastructure in the Odessa region has been damaged. 🔴 @DDGeopolitics",
+      "id": "boris_rozhin/234461",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234461",
+      "published_at": "2026-11-23T15:55:09+00:00",
+      "text": "📌 Вечер на Радио Sputnik с Борисом Рожиным Активность НАТО на Балтике повышает риск конфликта с Россией; в Финляндии возведут противотанковые заграждения на границе с Россией; Еврокомиссия отказалась от двусторонних консультаций с Россией по безопасности ЕС ✅ В 19:05 подключайтесь на 91.2FM в Москве и 91.5FM в Петербурге. Смотрите трансляцию в ВК | Rutube | ОК | Telegram 📌 Подписаться на Радио Sputnik в МАКС",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "odesa",
-        "strike"
+        "moscow"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199055",
+      "id": "rian_ru/350337",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350337",
+      "published_at": "2026-11-23T15:54:30+00:00",
+      "text": "Запретить российским спортсменам участвовать в соревнованиях под национальным флагом предлагает Еврокомиссия. Что еще рассказала фон дер Ляйен о подготовке нового пакета европейских санкций: 🔹 отключение от SWIFT еще 60 российских банков; 🔹 ограничения против криптовалютных и платежных платформ; 🔹 запрет на обслуживание российской энергетической инфраструктуры, включая нефтеперерабатывающие заводы и электроэнергетику; 🔹 запрет на въезд в ЕС для бывших российских военных; 🔹 отказ от российских спонсоров для европейских спортивных и культурных организаций; 🔹 запрет занимать руководящие должности в российских компаниях для граждан ЕС. Чтобы меры вступили в силу, их должны одобрить страны ЕС. В России неоднократно заявляли, что страна справляется с санкционным давлением. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30751",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30751",
+      "published_at": "2026-11-23T15:42:31+00:00",
+      "text": "❗️ Today, the Armed Forces of the Russian Federation delivered UAV strikes against transport infrastructure facilities and ships used in the interests of the AFU. 💥 As a result of the strikes, the following targets were hit: ▫️ near Merefa (Kharkov region) – a railway locomotive, used for transporting armaments and military hardware; ▫️ in the Black Sea waters east of Odessa – a dry cargo ship delivering dual-use cargo to support the AFU. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/donbassr/117341"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/199062",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199055",
-      "published_at": "2026-11-23T14:57:06+00:00",
-      "text": "✈️ A NATO reconnaissance aircraft spent more than seven hours over the Black Sea, a source in air traffic control services told TASS. The source noted that the Bombardier ARTEMIS II made turns over Romania, flying over areas bordering Ukraine. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199062",
+      "published_at": "2026-11-23T15:40:34+00:00",
+      "text": "🇳🇱 Rutti Frutti repeats this so often now he’s starting to believe it. ‘“As we speak, Ukraine is killing or seriously wounding up to 50,000 Russian, primarily men, each month. When you compare that to the war in Vietnam, in 14 years the United States lost, tragically, 56,000 people.” 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199053",
+      "id": "boris_rozhin/234459",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234459",
+      "published_at": "2026-11-23T15:37:37+00:00",
+      "text": "Вице-премьер правительства Италии Сальвини потребовал убрать всех итальянцев с Миротворца и закрыть эту помойку. В противном случае грозится заблокировать любую военную помощь Украине. Таеже Сальвини требует персональных извинений за то, что его раньше записали на Миротворец.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199061",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199053",
-      "published_at": "2026-11-23T14:55:27+00:00",
-      "text": "🇺🇦 Financial Times journalist Miller reports “Russian drone attack near the office of the President of Ukraine and Maidan. Fire and black smoke are rising at the scene”. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199061",
+      "published_at": "2026-11-23T15:35:26+00:00",
+      "text": "🇪🇺 A new absurd play in the EU: banning the Russian flag, entry restrictions for Russians, and other “political diarrhea” European Commission President Ursula von der Leyen presented the 22nd package of restrictions against Russia. Former participants of the Special Military Operation are intended to be banned from obtaining European visas, while Russian teams will be prohibited from competing in EU tournaments with national symbols. The Russian flag itself is also to be banned from being displayed at sporting events. Another 60 Russian banks will fall under the new restrictions. EU citizens will be prohibited from holding positions in Russian companies, and European businesses will be barred from participating in the construction, repair, and operation of Russian energy infrastructure. All that’s left is to ban Russians from winning at chess , just in case that also threatens European security. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4561",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4561",
+      "published_at": "2026-11-23T15:35:11+00:00",
+      "text": "​​ 1,1 млн євро за «допомогу» у вимаганні коштів: ВАКС застосував запобіжний захід до працівника столичного карного розшуку Слідчий суддя ВАКС застосував запобіжний захід у вигляді тримання під вартою з альтернативою внесення 3 млн грн застави до одного із заступників керівника відділу Управління карного розшуку ГУ НП в м. Києві, який сприяв вимаганню 2 млн євро на користь колишньої власниці компаній-постачальниць продуктів для Міноборони. У разі внесення застави на підозрюваного будуть покладені відповідні процесуальні обов’язки. На виконання рішення суду його взято під варту в залі суду. Нагадаємо, що в межах досудового розслідування встановлено, що наприкінці 2025 року правоохоронець вступив у злочинну змову з колишньою власницею компаній-постачальниць через її довірених осіб. За домовленістю, він мав забезпечити кримінальне переслідування особи, обізнаної зі злочинними схемами постачання продуктів для ЗСУ, щоб заволодіти 2 млн євро, які перебували в її розпорядженні. Слідством задокументовано одержання правоохоронцем понад 100 тис. євро. Ще 1 млн євро він мав отримати після того, як правоохоронці розшукають та вилучать для власниці 2 млн євро. 📌 Відповідно до ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407229",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407229",
+      "published_at": "2026-11-23T15:33:01+00:00",
+      "text": "Посольство РФ подтвердило ТАСС гибель двух россиян в ДТП в Чили. Еще двоим, получившим травмы, была оказана медицинская помощь.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199060",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199060",
+      "published_at": "2026-11-23T15:32:04+00:00",
+      "text": "🇺🇦 The Narcoführer stated that the hatred between Ukrainians and Russians can only be washed away by reparations In response to a journalist’s question about whether hatred exists between Ukrainians and Russians, the head of Ukraine stated: “As of today, of course, complete hatred reigns. And they started it. In the sense that they attacked. They unleashed this war. That is the problem.” Money money money 💰 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407228",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407228",
+      "published_at": "2026-11-23T15:26:02+00:00",
+      "text": "Мерц заявил, что Европа готова к переговорам с Россией по урегулированию конфликта на Украине, и выразил надежду, что новый раунд пройдет уже в скором времени. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234457",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234457",
+      "published_at": "2026-11-23T15:20:58+00:00",
+      "text": "Главное из заявлений МИД РФ: — Закрытие границы с РФ нанесет удар эстонской экономике и бумерангом обернется как для самого Таллина, так и для его союзников по ЕС и НАТО; — Голословные попытки обвинить РФ в поджоге предприятия ВПК под Таллином показывают ярую русофобскую сущность эстонского режима; — Эстония негласно предоставляет свое воздушное пространство для пролетов украинских дронов с целью осуществления атак на Северо-Запад России; — Провокационные и чрезвычайно опасные действия Эстонии находятся на грани развязывания открытой войны с Россией; — Таллин для решения “русского вопроса” прибегает не только к запрету русского языка, но и к уголовным преследованиям, депортациям; — Таллин пытается чинить препятствия для передвижения российских грузовых судов в Балтийском море с целью введения против РФ морской блокады; — РФ оставляет за собой право на принятие комплексных политико-дипломатических мер для защиты национальных интересов.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -154,53 +267,12 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407223",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407223",
-      "published_at": "2026-11-23T14:54:01+00:00",
-      "text": "✈️ Самолет-разведчик НАТО провел над Черным морем более семи часов, сообщил ТАСС источник в авиадиспетчерских службах. Bombardier ARTEMIS II делал развороты над Румынией, пролетая в том числе над пограничными с Украиной районами, отметил источник.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199052",
+      "id": "DDGeopolitics/199059",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199052",
-      "published_at": "2026-11-23T14:53:01+00:00",
-      "text": "🇩🇪 🇪🇺 Europe is ready to hold negotiations with Russia, German Chancellor Friedrich Merz stated. Intensive negotiations on the situation in the Baltic Sea are necessary to avoid escalation, he added. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117340",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117340",
-      "published_at": "2026-11-23T14:49:58+00:00",
-      "text": "Последствия ночной атаки украинского беспилотника на центр Донецка. Повреждено остекление подземного перехода и магазина по продаже мобильных телефонов. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30750",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30750",
-      "published_at": "2026-11-23T14:39:05+00:00",
-      "text": "A deadly 'surprise' for the enemy ▫️ Military EOD specialists of the Tsentr Group of Forces eliminate the AFU infantry by means of remote mining. ▫️ Drone operators covertly get closer to enemy positions and drop mines directly on the Ukrainian militants' routes. 🔹 Russian Defence Ministry",
+      "url": "https://t.me/DDGeopolitics/199059",
+      "published_at": "2026-11-23T15:17:47+00:00",
+      "text": "🇺🇦 The Azov Nazis rolling out the Cringe with the latest recruitment video. No respawn when you get hit by a Russian drone 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -209,180 +281,103 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407219",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407219",
-      "published_at": "2026-11-23T14:37:32+00:00",
-      "text": "❗️ Ударами ВС РФ у Мерефы Харьковской области поражен железнодорожный локомотив, задействованный в перевозке вооружения, сообщили в МО.",
+      "id": "DDGeopolitics/199058",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199058",
+      "published_at": "2026-11-23T15:12:38+00:00",
+      "text": "🇮🇪 🇺🇦 The Irish Soy Boy is at the scene of a Russian drone attack in Kiev and ironically says “ Russia can’t fight this war alone” when finding a foreign component in the debris. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/MFARussia/33563"
+      ]
+    },
+    {
+      "id": "donbassr/117341",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117341",
+      "published_at": "2026-11-23T15:09:58+00:00",
+      "text": "Беспилотники ВС России сегодня ударили по объектам транспортной инфраструктуры и морским судам, задействованным в интересах ВСУ , – сообщили в Минобороны РФ. В результате ударов, по данным ведомства, поражены: 💥 в Харьковской области в районе города Мерефа железнодорожный локомотив, задействованный в интересах перевозки вооружения и военной техники; 💥 в акватории Черного моря восточнее Одессы сухогруз, доставлявший грузы двойного назначения для обеспечения ВСУ. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "kharkiv",
+        "odesa",
         "strike"
       ],
-      "possible_duplicate_urls": []
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30751"
+      ]
     },
     {
-      "id": "bricsnews/19785",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19785",
-      "published_at": "2026-11-23T14:37:08+00:00",
-      "text": "JUST IN: 🇩🇪 🇷🇺 German Chancellor Merz says Europe is ready to negotiate with Russia. @BRICSNews",
+      "id": "DDGeopolitics/199057",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199057",
+      "published_at": "2026-11-23T15:09:28+00:00",
+      "text": "🇺🇸 🇺🇦 Something tells me he won’t need a Ukrainian bank account anymore when he gets hit by a Russian drone. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "negotiation"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "nab_ukraine/4299",
-      "channel": "nab_ukraine",
-      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
-      "url": "https://t.me/nab_ukraine/4299",
-      "published_at": "2026-11-23T14:35:02+00:00",
-      "text": "​​ ⚖️ ВАКС оголосив вирок нардепу, якого викрили на спробі підкупу топпосадовців у сфері відновлення 23 листопада 2026 року колегія суддів ВАКС оголосила вирок чинному народному депутату України та його спільнику. В листопаді 2023 року САП та НАБУ викрили їх на наданні неправомірної вигоди Віце-прем'єр-міністру з відновлення України – Міністру розвитку громад, територій та інфраструктури України й Голові Державного агентства відновлення та розвитку інфраструктури України. Вироком суду нардепа та його спільника визнано винуватими за ч. 4 ст. 369 КК України. Нардепу призначено покарання у вигляді 7 років позбавлення волі. Його спільника засуджено до 6 років позбавлення волі. Також суд застосував 10,7 млн грн штрафу до акціонерного товариства та спецконфіскацію до неправомірної вигоди. Вирок суду набирає законної сили через тридцять днів із дня проголошення, якщо його не буде оскаржено в апеляційному порядку. Деталі: У межах досудового розслідування, яке здійснювали детективи НАБУ, встановлено, що народний депутат України, діючи за попередньою змовою з директором акціонерного товариства, запропонував топпосадовцям неправомірну вигоду за виділення 1 млрд грн додаткового фінансування робіт, які виконувало підконтрольне їм зазначене товариство. Сума неправомірної вигоди мала становити 3 % – 5 % від обсягу фінансування. У подальшому особи надали частину цієї неправомірної вигоди в розмірі 150 тис. доларів США (деталі: https://youtu.be/-VzgFSnSO90 ).",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/sap_gov_ua/4559"
-      ],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "nab_ukraine/4298",
-      "channel": "nab_ukraine",
-      "source": "National Anti-Corruption Bureau of Ukraine (NABU)",
-      "url": "https://t.me/nab_ukraine/4298",
-      "published_at": "2026-11-23T14:35:02+00:00",
-      "text": "👩‍⚖️ 👩‍⚖️ 👩‍⚖️ 7 і 6 років позбавлення волі: ВАКС оголосив вирок чинному народному депутату України та його спільнику 👨‍⚖️ Їх визнано винними в наданні неправомірної вигоди Віцепрем'єр-міністру з відновлення України – Міністру розвитку громад, територій та інфраструктури України й Голові Державного агентства відновлення та розвитку інфраструктури України. Докладніше #вирок",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98474",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98474",
-      "published_at": "2026-11-23T14:33:03+00:00",
-      "text": "🇺🇦 🇷🇺 ⚡ Massive attack by Ukrainian drones on Russia. Also another attempt to attack the Crimean Bridge, unsuccessful. @IntelSlava",
+      "id": "voenkorKotenok/78125",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78125",
+      "published_at": "2026-11-23T15:03:11+00:00",
+      "text": "На Подоле дрон попал в крышу 6-этажного жилого дома, доложил ротовым отвестием боксер. ПеПеО этнической ОПГ, захватившей Украине, сбивая с курса дроны ВС РФ, перенацеливает их на исторические здания в самом центре Киева, лишая его достопримечательных строений прошлых веков. Идолищу Поганому, орудующему в Киеве, древнего русского города не жалко и не жалко киевлян. Интересно, для чего и кого банда расчищает историческое пространство? Какие новые \"молельные дома\" и торжища будут возводить на месте разрушенных зданий? Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "strike"
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98473",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98473",
-      "published_at": "2026-11-23T14:31:55+00:00",
-      "text": "🇷🇺 ⚡ One person was killed in the LNR due to attacks by the Ukrainian Armed Forces, and six others were injured, including three children. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199051",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199051",
-      "published_at": "2026-11-23T14:27:20+00:00",
-      "text": "🇺🇦 Strikes in Central Kiev 🔴 @DDGeopolitics",
+      "id": "sap_gov_ua/4560",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4560",
+      "published_at": "2026-11-23T15:02:30+00:00",
+      "text": "​​ ВАКС визнав необґрунтованими активи колишнього заступника начальника Київського РТЦК та СП м. Одеси 23 листопада 2026 року ВАКС підтримав позицію прокурора САП та ухвалив рішення, яким визнав необґрунтованими активи колишнього заступника начальника Київського РТЦК та СП м. Одеси В. Байштана. Посадовець впродовж 2022 року набув квартиру в житловому комплексі в м. Одесі та автомобіль «HONDA HR-V» загальною вартістю близько 2,9 млн гривень. Проте аналізом майнового стану колишнього заступника начальника РТЦК та СП і члена його сім’ї встановлено неможливість набути це майно за рахунок законних доходів. Зазначимо, що позов ґрунтувався на матеріалах ДБР.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "kyiv",
-        "strike"
+        "odesa"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98471",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98471",
-      "published_at": "2026-11-23T14:27:04+00:00",
-      "text": "⚡ 🇷🇺 🇺🇦 Targets attacked overnight in Ukraine, summary from the Russian Ministry of Defense: 🔵 A 330 kV electrical substation in Dnepropetrovsk; 🔵 In the port of Izmail, Odesa region — port infrastructure facilities; 🔵 A sea vessel of the \"dry cargo\" type on passage southwest of Odesa; 🔵 In the area of the \"Dneprodzerzhinsk\" railway station in Dnepropetrovsk region, two railway locomotives were hit. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117339",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117339",
-      "published_at": "2026-11-23T14:22:58+00:00",
-      "text": "Куйбышевский, Киевский и Ленинский районы Донецка завтра останутся без света , – предупредили в минугля и энергетики ДНР. Правда, отключение запланировано частичное, и по времени продлится с 9:00 до 18:00. Отключение также затронет Мариуполь, прилегающие к нему районы, Волновахский и Новоазовский округа. ✔️ В ведомстве объяснили: провести необходимые ремонтные работы без временного отключения части потребителей невозможно. Это необходимо для безопасности специалистов и восстановления стабильного электроснабжения. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "energy",
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78122",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78122",
-      "published_at": "2026-11-23T14:18:02+00:00",
-      "text": "1. Знаковый момент — на Балтике начались атаки БпЛА противника на наши корабли. Предупреждения о том, что боевые действия враг перенесет на Балтику, сбылись. Еще одно доказательство того, что Россия не вернётся в так называемую «семью народов» Европы в версии правителей ЕС. Для них мы в первую очередь — экзистенциальный враг. Там антихристовое царство строят люди. Каким образом можем с ними замириться? Никаким. Только нашей победой. До неё не близко. Нужно четко понимать что европейские санкции даже после мира в полном объёме сняты не будут. Не надо заблуждений — никакого возврата в формат «до 2014-го», даже в «до 2022-го» не будет. В лучшем случае они, пользуясь перемирием, будут ожидать ухода Президента РФ по физическим причинам. Мы же не вечные. Господь всех призовёт. Враг просто будет ждать турбулентности в России, связанной с уходом Президента, продолжая вести с нами активную, в т.ч. вооружённую борьбу не только на «серых» территориях, но и в «материковой» России. Проводить диверсионные операции, теракты, заходы групп со стороны Украины/Финлянции/Прибалтики, диверсии на предприятиях и экономических маршрутах. Читать полностью — 👇 👇 👇 «Восстань и бей первым!» Мост и мосты как маркер вместе с атаками наших кораблей Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "id": "MFARussia/33563",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33563",
+      "published_at": "2026-11-23T15:00:59+00:00",
+      "text": "⚡️ On November 23, Estonia’s Chargé d’Affaires a.i. in Moscow Marek Uhtegi was summoned to the Russian Foreign Ministry, where he was issued a strong protest over Estonia’s unfounded accusations against Russia in connection with a failed arson attack on a defence industry facility near Tallinn and the Estonian government’s subsequent decision to close border crossing points on the Russian-Estonian border from December 1. The Estonian diplomat was told that such hasty accusations, entirely unsupported by evidence , once again expose the Estonian regime’s deeply Russophobic nature . Tallinn appears to have given little serious thought to the consequences of this move. Closing the state border will primarily deal another blow to the Estonian economy and backfire on Tallinn itself , as well as its EU and NATO allies. This latest anti-Russian stunt by Estonia adds to the long list of hostile actions undertaken by this Baltic state over the years. Estonia continues to actively support the Kiev regime, covertly allowing Ukrainian drones to use its airspace to carry out attacks on northwestern Russia , something the Russian Side has repeatedly documented with objective evidence. ☝️ The Estonian diplomat was once again warned that such provocative and extremely dangerous actions are on the brink of triggering an open war with Russia. Estonia’s hostile actions do not end there. Tallinn is attempting to obstruct the movement of Russian cargo vessels in the Baltic Sea , seeking to inspect, seize and detain them with the aim of imposing a naval blockade on our country. In October, Estonia introduced a complete ban on the transit of Russian and Belarusian grain through its territory. Estonia is stepping up repressive measures against Russian-speaking and dissenting residents who refuse to blindly follow the authorities’ official narratives aimed at comprehensively vilifying Russia. To resolve the so-called \"Russian question\" , Tallinn has resorted not only to banning the Russian language at all levels , but also to criminal prosecution and deportation of those who sympathise with our country and seek to preserve their right to access their native language and culture. In pursuing their police-state methods, the authorities do not even shy away from coercive measures and threats to dissolve the Estonian Orthodox Christian Church altogether. The head of the Estonian diplomatic mission was informed that this unjustified policy of fostering all-encompassing hostility towards our country will continue to destabilise the situation in the region and adversely affect both the well-being of Estonia’s residents and the already dire economic situation in this Baltic state . ❗️ During the meeting, it was emphasised that Russia reserves the right to take a comprehensive range of political and diplomatic measures to protect its national interests and the legitimate rights of Russian citizens.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "sanctions",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199044",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199044",
-      "published_at": "2026-11-23T14:02:26+00:00",
-      "text": "🇺🇦 🇮🇹 🇯🇵 Ukraine's \"non-state\" Myrotvorets site removes Italy's deputy PM, adds two Japanese citizens Kiev has always said Myrotvorets, the website that publishes the personal details of people it calls \"enemies of Ukraine,\" has nothing to do with the Ukrainian government. Ukraine's embassy in Italy said the same thing again recently. That was after Italian Deputy Prime Minister Matteo Salvini found his name on the site. His League party said it would only vote to extend arms deliveries to Ukraine if Zelensky apologized, and Prime Minister Giorgia Meloni called the listing unacceptable. Soon after, Salvini's entry was removed. For a site Kiev supposedly has no control over, it was taken care of very quickly once Italian weapons were at stake. Now Myrotvorets has added two Japanese citizens: Yoshihiko Fujimoto, a member of the Yamanashi prefectural assembly, and journalist Naoko Iizuka. Their entries accuse them of supporting \"Russian aggression and the killing of Ukrainian citizens\" and call them \"accomplices of Russian-fascist invaders and terrorists.\" What they actually did was visit Donetsk and meet local officials to discuss agricultural cooperation and planting a Japanese cherry blossom garden in the city. Japan's government hasn't responded yet. It's not the only partner Kiev has upset lately. South Korea recalled its ambassador from Kiev after Zelensky publicly revealed at the UN that Ukraine had handed two North Korean POWs over to Seoul, which South Korea says was agreed to stay secret. Zelensky keeps asking Italy, Japan and South Korea for weapons and money, while a site his government says it doesn't run lists their politicians and journalists as enemies. When it starts to threaten the weapons, the entries get removed. Just a coincidence... 🤷‍♂️ 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407212",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407212",
-      "published_at": "2026-11-23T14:01:01+00:00",
-      "text": "Главные новости к этому часу: ▪️ Инициатива РФ по гуманитарной миссии в Константиновке актуальна, позиция не менялась, заявил Песков. ТАСС собрал ключевые заявления представителя Кремля. ▪️ Временного поверенного Эстонии вызвали в МИД РФ, сообщили ТАСС в российском дипведомстве. ▪️ НПЗ в Ростовской области приостановил работу после атаки ВСУ. ▪️ Арестованный в Индии танкер Unity официально передан под управление индийской команды, сообщили ТАСС в генконсульстве РФ. ▪️ Таджикистан уведомил ООН о выходе из МУС. ▪️ Чиновники Евросоюза будут вести ожесточенную борьбу за принятие бюджета на 2028-2034 годы, сообщает Politico. ▪️ Пашинян объявил о начале реализации \"Маршрута Трампа\". ▪️ В Москве начали тестировать новые парковочные знаки для многодетных. ▪️ В РФ запустили единый цифровой ресурс дошкольного образования. ▪️ Жителя Ставрополья осудили за надругательство над двумя детьми. ▪️ Джигурда сообщил , что находится в реанимации. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
+        "kyiv",
         "moscow",
         "strike"
       ],
-      "possible_duplicate_urls": []
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199058"
+      ]
     }
   ]
 }
