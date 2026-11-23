@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    182
+  ],
+  "published_at_utc": "2026-11-23T16:23:37.730672+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-23T15",
+  "items": [
+    {
+      "item_id": "2026-11-23T15:1",
+      "title": "EU outlines proposed sanctions on 60 more Russian banks and energy services",
+      "summary": "European Commission President Ursula von der Leyen outlined proposed restrictions including disconnecting another 60 Russian banks from SWIFT, curbs on payment and cryptocurrency platforms, and bans on servicing Russian energy infrastructure. The package also proposes entry restrictions for former Russian military personnel and limits on Russian participation in European sporting events; EU member states must approve the measures.",
+      "post_url": "https://t.me/russianewstodayofficial/182",
+      "category": "other",
+      "hour_id": "2026-11-23T15",
+      "source_handles": [
+        "ddgeopolitics",
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T15:2",
+      "title": "Salvini reportedly threatens to block Ukraine military aid over Myrotvorets listings",
+      "summary": "Italian Deputy Prime Minister Matteo Salvini reportedly demanded the removal of Italian citizens from Ukraine's Myrotvorets database and an apology for his own listing. He threatened to block further military assistance to Ukraine unless the issue is addressed.",
+      "post_url": "https://t.me/russianewstodayofficial/182",
+      "category": "other",
+      "hour_id": "2026-11-23T15",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T15:3",
+      "title": "Zelensky says reparations are needed to overcome hostility between Ukrainians and Russians",
+      "summary": "President Volodymyr Zelensky said deep hostility between Ukrainians and Russians stems from Russia's invasion and argued that reparations are necessary to overcome it. His remarks came in response to a journalist's question about relations between the two populations.",
+      "post_url": "https://t.me/russianewstodayofficial/182",
+      "category": "other",
+      "hour_id": "2026-11-23T15",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
