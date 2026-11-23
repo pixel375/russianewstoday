@@ -1,0 +1,23 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    188
+  ],
+  "published_at_utc": "2026-11-23T22:26:21.846293+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-23T21",
+  "items": [
+    {
+      "item_id": "2026-11-23T21:1",
+      "title": "Central European leaders criticize EU budget proposal allocating €130 billion to Ukraine",
+      "summary": "The prime ministers of Slovakia, Hungary, Poland and the Czech Republic criticized the EU's proposed 2028–2034 budget, according to a report. Slovak Prime Minister Robert Fico urged the bloc to prioritize lowering European energy costs, while Czech Prime Minister Andrej Babis said the proposal earmarks €130 billion for Ukraine.",
+      "post_url": "https://t.me/russianewstodayofficial/188",
+      "category": "other",
+      "hour_id": "2026-11-23T21",
+      "source_handles": [
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
