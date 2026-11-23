@@ -1,0 +1,67 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    185
+  ],
+  "published_at_utc": "2026-11-23T19:25:10.691331+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-23T18",
+  "items": [
+    {
+      "item_id": "2026-11-23T18:1",
+      "title": "Libyan official says Benghazi port attack injured civilians and damaged property",
+      "summary": "Libya's Presidential Council deputy chairman Musa al-Koni said the attack on Benghazi's seaport caused material damage and civilian injuries. He described Ukraine's actions as tantamount to a declaration of war, following reports that Kyiv accepted responsibility for an attack at the port.",
+      "post_url": "https://t.me/russianewstodayofficial/185",
+      "category": "other",
+      "hour_id": "2026-11-23T18",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T18:2",
+      "title": "Ukraine's defence minister says Russia produces a ballistic missile every five hours",
+      "summary": "Ukraine's defence minister said Russia is producing roughly one ballistic missile every five hours and continues to increase its production rate. The statement highlights Kyiv's concern about Russia's capacity to sustain long-range strikes.",
+      "post_url": "https://t.me/russianewstodayofficial/185",
+      "category": "other",
+      "hour_id": "2026-11-23T18",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T18:3",
+      "title": "Zelensky warns Russia is preparing another large-scale attack",
+      "summary": "President Volodymyr Zelensky said Ukrainian security services have informed him that Russia is preparing another massive attack on Ukraine. He did not specify a date or intended targets in the reported remarks.",
+      "post_url": "https://t.me/russianewstodayofficial/185",
+      "category": "other",
+      "hour_id": "2026-11-23T18",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T18:4",
+      "title": "Ukrainian farmers face growing bankruptcy risk as exports decline",
+      "summary": "A report citing Bloomberg says Ukrainian farmers could face bankruptcies by spring as financial reserves run out, unsold grain depresses local prices and banks restrict lending. Grain exports reportedly fell by about a third this season, while fuel and fertilizer costs and Russian attacks on processing facilities add pressure.",
+      "post_url": "https://t.me/russianewstodayofficial/185",
+      "category": "other",
+      "hour_id": "2026-11-23T18",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T18:5",
+      "title": "Russia claims strike on cargo ship east of Odesa and military railway locomotive",
+      "summary": "Russia's Defence Ministry said its forces struck a dry cargo vessel in the Black Sea east of Odesa that it alleged was delivering dual-use goods for Ukrainian forces. It also claimed a strike on a locomotive used to transport weapons and military equipment.",
+      "post_url": "https://t.me/russianewstodayofficial/185",
+      "category": "other",
+      "hour_id": "2026-11-23T18",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
