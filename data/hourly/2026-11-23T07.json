@@ -1,0 +1,348 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-23T07",
+  "generated_at_utc": "2026-11-23T08:22:22.177054+00:00",
+  "window_start_utc": "2026-11-23T07:00:00+00:00",
+  "window_end_utc": "2026-11-23T08:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 12
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 6
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 32,
+    "relevant_posts": 17,
+    "deduplicated_posts": 16,
+    "candidate_posts": 16
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19779",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19779",
+      "published_at": "2026-11-23T07:54:59+00:00",
+      "text": "JUST IN: 🇷🇺 Russia's Dmitry Medvedev says international law allows nuclear weapons to be used when needed to save a country. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407147",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407147",
+      "published_at": "2026-11-23T07:47:02+00:00",
+      "text": "Прямое вступление НАТО в конфликт на Украине приведет к третьей мировой войне , считает кандидат в президенты Франции Марин Ле Пен: \"По Украине есть только три исхода: либо НАТО вступит в конфликт, и это будет третья мировая война, либо конфликт затянется на годы, либо все страны поймут последствия\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30742",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30742",
+      "published_at": "2026-11-23T07:45:23+00:00",
+      "text": "'Vostok' express delivers strike to enemy 🔥 The Vostok Group's 152mm Msta-B howitzer crews buried the AFU heavy hexacopter control posts along with the equipment deployed there. 📍 Zaporozhye region 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/198973",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/198973",
+      "published_at": "2026-11-23T07:44:47+00:00",
+      "text": "🇷🇺 💬 The decision to use nuclear weapons by Russia during the special military operation was not made due to the absence of a direct necessity, wrote Dmitry Medvedev in an article for the \"Moscow Journal of International Law.\" Other key points from the Deputy Chairman of the Russian Security Council: ➡️ Russia launched the special military operation due to a direct threat of military action related to Kiev's course towards joining NATO. This is different from the US attack on Iran; ➡️ The massive use of non-nuclear weapons that cause catastrophes makes a preemptive nuclear strike by Russia possible; ➡️ Secret or covert supplies of nuclear weapons by the West to Kiev would trigger a legitimate preemptive nuclear strike by Russia; ➡️ Kiev and its like-minded individuals must remember that Russia not only has the right, but in a number of situations is obligated to use nuclear weapons; ➡️ Kiev and NATO have already created situations in which Russia could have used nuclear weapons, but the decision is made after a comprehensive assessment of the situation. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407146",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407146",
+      "published_at": "2026-11-23T07:42:05+00:00",
+      "text": "\"Не смогла удержаться\" . Женщина украла золото из церковной лавки в Москве, сообщили в МВД. Она зашла внутрь как покупательница и спросила, можно ли приобрести икону святой Агафии. Узнав, что такого образа нет, женщина попросила оформить заказ. Пока продавец заполняла документы, задержанная взяла с витрины золотые изделия. Видео: Telegram-канал представителя МВД России Ирины Волк/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407145",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407145",
+      "published_at": "2026-11-23T07:34:01+00:00",
+      "text": "Одесса осталась без электричества, тепла и воды после повреждений объектов энергетики в минувшие выходные, заявил глава городской военной администрации Лысак. Ранее издание \"Общественное. Новости\" сообщило, что из-за отсутствия электричества в Одессе прекратил работу общественный транспорт.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117317",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117317",
+      "published_at": "2026-11-23T07:31:30+00:00",
+      "text": "❗️ В Брянской области в селе Брахлов в результате атаки дрона ВСУ погиб 65-летний мужчина , сообщил губернатор Ковальчук. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234418",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234418",
+      "published_at": "2026-11-23T07:22:01+00:00",
+      "text": "Джаред Кушнер о конфликте на Украине и архитектуре безопасности: \"Надёжные гарантии по образцу статьи 5 могли бы существенно снизить риск новой войны. Такие обязательства — одни из самых серьёзных, которые могут взять на себя Соединённые Штаты, и они требуют тщательного рассмотрения. Гарантии безопасности для Украины нельзя окончательно согласовать в отрыве от послевоенной архитектуры европейской безопасности. Эти два вопроса необходимо рассматривать вместе. Мы стремимся к будущему, в котором Украина будет в безопасности, Европа станет сильнее, Россия будет уверена, что НАТО не стремится к конфронтации, а НАТО и его партнёры — в том, что Россия будет уважать суверенитет и безопасность своих соседей. Для этого необходимы чёткие заявления о намерениях, подкреплённые заслуживающими доверия и поддающимися проверке обязательствами. Любая система договорённостей должна сохранять суверенитет всех участвующих стран и их право самостоятельно принимать решения. В ближайшие недели в ходе закрытых бесед и многосторонних обсуждений мы намерены работать с Украиной, нашими европейскими партнёрами и Россией, чтобы попытаться выработать общее понимание этой архитектуры. Как подчеркнул президент Трамп в разговоре с лидерами «коалиции желающих», сотни миллиардов, которые сейчас расходуются на эту войну, можно было бы вместо этого инвестировать в наши экономики — создавать рабочие места, стимулировать рост, снижать цены на энергоносители и укреплять инфраструктуру.\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117316",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117316",
+      "published_at": "2026-11-23T07:20:21+00:00",
+      "text": "Сводка основных боевых действий утром 23 ноября на Слобожанщине, в Донбассе и Таврии. Слобожанщина ▪️ Сумское направление: здесь разворачиваются очень ожесточенные бои. Российские штурмовики при поддержке артиллерии и «Солнцепеков» зачистили участок леса возле села Коренек. Малые группы ВСУ продолжают проникать в южную часть Юнаковки и даже севернее, в Локню. ▪️ Харьковское направление: ГрВ «Север» сообщила о тяжёлых встречных боях на Липцовском участке в направлении Шопино и южнее Новой Казачьей. На Волчанском и Великобурлукском направлениях российские подразделения установили контроль над селом Сосновый Бор, о чём 22 ноября объявило Минобороны России. ▪️ Купянское направление: ВС РФ продвинулись от Купянска на запад, заняв урочище и выйдя к Соболевке с востока. На севере российские штурмовые группы действуют в тылу противника в районе Рогозянка-Андреевка. Донбасс ▪️ Краснолиманское направление: продолжаются бои в районах населённых пунктов Диброва, Ямполь и Озёрное. ВКС работают по вражеской логистике, переправам. ВСУ продолжают насыщать небо дронами. ▪️ Славянское направление: ВС РФ возвращают позиции на востоке от Николаевки. ▪️ Дружковское направление: ожесточенное противостояние продолжается на флангах Райского и Алексеево-Дружковки. Есть успехи в районе Веролюбовки. ▪️ Добропольское направление: поступили предварительные сведения о взятии Новоявленки. У Сергеевки и Шиловки продолжаются контратаки ВСУ. Таврия ▪️ Днепропетровское направление: ВС РФ продвигаются на северо-запад по возвышенности и до важной точки ВСУ – Очеретино – остаётся ~10 км, а до выхода на северную границу ДНР 15 км. При этом соседняя Староварваровка, к которой наши подходят с юга, находится в низине, что делает уязвимой позиции ВСУ в селе. ▪️ Ореховское направление: продолжаются встречные бои на подступах к Орехову. В районах Терсянки и Заливного сообщают о попытках расширения зоны контроля, украинские подразделения предпринимают контратаки. Основная борьба идёт за лесополосы, опорные пункты и маршруты снабжения ▪️ Запорожское направление: продолжаются позиционные бои на рубеже Степногорск – Приморское, а также в районе Лукьяновского. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407143",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407143",
+      "published_at": "2026-11-23T07:20:17+00:00",
+      "text": "Киев и НАТО уже доводили до ситуаций, когда РФ могла бы применить ЯО, но решение об этом принимается по итогам комплексной оценки, заявил Медведев.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38586",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38586",
+      "published_at": "2026-11-23T07:20:03+00:00",
+      "text": "ФСБ задержала мужчину за передачу Украине данных об экс-сотруднике МГБ ДНР Силовики задержали агента военной разведки Украины, который передавал сведения о нахождении в Крыму экс-сотрудника министерства государственной безопасности ДНР, сообщил ЦОС ФСБ. По данным следствия, задержанный установил контакт с сотрудником Главного управления разведки министерства обороны Украины для сбора информации с целью нанесения ущерба безопасности России. По заданию куратора он выяснил адрес проживания бывшего сотрудника Министерства государственной безопасности ДНР. В дальнейшем его планировалось ликвидировать. Силовики задержали подозреваемого. Против него возбуждено уголовное дело по статье 275 УК РФ – государственная измена. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407142",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407142",
+      "published_at": "2026-11-23T07:18:00+00:00",
+      "text": "Тайные или скрытые поставки ядерного оружия Западом Киеву вызовут законный превентивный ядерный удар со стороны России, заявил Медведев.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407139",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407139",
+      "published_at": "2026-11-23T07:14:58+00:00",
+      "text": "❗️ В Крыму задержан мужчина, сообщивший ГУР МО Украины данные об экс-сотруднике Министерства госбезопасности ДНР для его ликвидации, сообщает ФСБ. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/donbassr/117315"
+      ],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30741",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30741",
+      "published_at": "2026-11-23T07:10:39+00:00",
+      "text": "Flattened the shack 🔥 : the Yuzhnaya Group's drone operators of the 85th Separate Motorised Rifle Brigade engaged the AFU UAV control posts. 📍 Slavyansk-Kramatorsk agglomeration 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102388",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102388",
+      "published_at": "2026-11-23T07:00:35+00:00",
+      "text": "✨ Сбор на Запорожский фронт ✨ ⚡️ Десантникам необходима народная поддержка! Противник активно применяет дистанционное минирование, создавая угрозу для передвижения личного состава и техники. Бойцам приходится обследовать протяжённые маршруты, выявлять опасные участки и обеспечивать безопасное движение подразделений. ▪️ Mavic 3Pro -4шт- 980 000 ₽ ▪️ Mavic 3Classic -3шт- 540 000 ₽ ▪️ Инкубатор 3.30 - 380 000 ₽ Необходимо: 1 900 000 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117314",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117314",
+      "published_at": "2026-11-23T07:00:31+00:00",
+      "text": "Системой «Купол Донбасса» за неделю предотвращены 113 террористических атак В Киевском и Будёновском районах Донецка сбиты ударные дроны «Костыль» и «Б-2», вооруженные осколочно-фугасными боезарядами с общей массой взрывчатых веществ 5 кг. Под Шахтерском ликвидированы вражеские самолётные БПЛА «Hornet» и «ХР» с осколочно-фугасными боеголовками. В Горловке перехвачены FPV-дроны с самодельными взрывными устройствами на базе гранатомётных выстрелов. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
