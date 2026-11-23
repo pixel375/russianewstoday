@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    189
+  ],
+  "published_at_utc": "2026-11-23T23:26:35.109981+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-23T22",
+  "items": [
+    {
+      "item_id": "2026-11-23T22:1",
+      "title": "Drone reportedly enters Polish airspace before returning to Ukraine",
+      "summary": "Reports said an unidentified drone entered eastern Polish airspace, prompting an air alert, and crossed back into Ukraine's Volyn region after about eight minutes. Ukrainian monitoring accounts alleged that Polish forces attempted to intercept it but were unsuccessful.",
+      "post_url": "https://t.me/russianewstodayofficial/189",
+      "category": "other",
+      "hour_id": "2026-11-23T22",
+      "source_handles": [
+        "ddgeopolitics",
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-23T22:2",
+      "title": "Albania denies its territory was used to launch drones in Benghazi port attack",
+      "summary": "Albania's Foreign Ministry denied allegations that drones used in the reported attack on Libya's Benghazi port were launched from Albanian territory. The denial adds a new diplomatic dimension to the dispute over the strike, which Libyan officials have condemned.",
+      "post_url": "https://t.me/russianewstodayofficial/189",
+      "category": "other",
+      "hour_id": "2026-11-23T22",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
