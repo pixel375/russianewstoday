@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T23",
-  "generated_at_utc": "2026-11-24T00:25:27.190808+00:00",
-  "window_start_utc": "2026-11-23T23:00:00+00:00",
-  "window_end_utc": "2026-11-24T00:00:00+00:00",
+  "hour_id": "2026-11-24T00",
+  "generated_at_utc": "2026-11-24T01:25:24.032406+00:00",
+  "window_start_utc": "2026-11-24T00:00:00+00:00",
+  "window_end_utc": "2026-11-24T01:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -21,7 +21,7 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
@@ -33,7 +33,7 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 6
     },
     {
       "handle": "rian_ru",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -105,34 +105,90 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 11,
-    "relevant_posts": 2,
-    "deduplicated_posts": 2,
-    "candidate_posts": 2
+    "raw_posts": 12,
+    "relevant_posts": 6,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
   },
   "posts": [
     {
-      "id": "DDGeopolitics/199088",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199088",
-      "published_at": "2026-11-23T23:37:48+00:00",
-      "text": "#SupportDonbass 🟥 The history of Donbass from 2014 to 2022 in one minute 🇬🇧 British-born blogger Nick Darlison , who moved to Russia, gave a brief account of the history of the Ukrainian conflict for an international audience. Russia is not the aggressor. 8 years - that's how long conflict was already part of life in Donbass before 2022. <...> When I talk about Donbass, I'm talking about people who have endured war for almost 12 years, Darlison said. 🇷🇺 Subscribe | Feedback | X | TikTok",
+      "id": "tass_agency/407276",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407276",
+      "published_at": "2026-11-24T00:24:04+00:00",
+      "text": "📹 Эффективность российских снайперов на СВО была сравнима с Великой Отечественной войной, заявил ТАСС оружейник-конструктор Лобаев. Видео: ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199087",
+      "id": "tass_agency/407275",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407275",
+      "published_at": "2026-11-24T00:17:04+00:00",
+      "text": "Лазерный комплекс Ростеха в приграничье сбил почти 1 тысячу украинских дронов за два месяца, сообщил глава госкорпорации Чемезов корреспонденту ТАСС.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199090",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199087",
-      "published_at": "2026-11-23T23:19:04+00:00",
-      "text": "🇺🇦 ⚰️ The inevitable end of another darling/carrier of EU values. Very sad. Project Ukraine continues - to the last Wolfsangel. @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199090",
+      "published_at": "2026-11-24T00:08:51+00:00",
+      "text": "🇰🇷 🇷🇺 🇰🇵 Several Russian military aircraft entered South Korea's air defense identification zone (KADIZ) over the Sea of Japan near Ulleung Island this morning. South Korea's Joint Chiefs of Staff confirmed the planes were Russian and said they did not violate South Korean airspace. No North Korean aircraft entered South Korean airspace. Reports saying so are false. They came from South Korea's Interior Ministry, which sent Ulleung residents to shelters, first said a Russian plane had breached airspace, then said it was \"possibly North Korean.\" The military later corrected both claims. The alert lasted only a few minutes. Russian jets entering KADIZ is routine. A KADIZ is not sovereign airspace, and the last time this happened was one week ago, on November 17. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199089",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199089",
+      "published_at": "2026-11-24T00:04:51+00:00",
+      "text": "🇷🇺 🇺🇸 Vladimir Putin presented Jared Kushner with archival documents detailing the involvement of the American special envoy’s grandfather in the Jewish partisan resistance during the Holocaust, New York Magazine reports. According to the publication, Kushner interpreted the gesture as a subtle reminder of the shared history between Russia and the United States in the fight against Nazi Germany. The documents reportedly record how Kushner’s grandfather escaped from a Nazi labour camp before taking refuge in the forests, where he joined the Jewish partisan resistance during World War II. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234489",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234489",
+      "published_at": "2026-11-24T00:03:01+00:00",
+      "text": "Боевая работа 50-й отдельной бригады «Варяг» по уничтожению живой силы противника на Ореховском тактическом направлении Неотъемлемой частью боевой работы наших операторов БПЛА является поражение живой силы противника. Принимая во внимание положение дел на фронте, враг пытается перемещаться исключительно малыми группами, стараясь оставаться незамеченным для российских войск. Однако от взора «Варягов» не ускользает ни один военнослужащий ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407273",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407273",
+      "published_at": "2026-11-24T00:02:13+00:00",
+      "text": "▶️ Киев избегает прямых ударов по ЗАЭС только потому, что на Западе боятся радиации. Но число ударов по Энергодару кратно усилилось, заявил в интервью ТАСС Мирошник. Видео: ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "strike"
+      ],
       "possible_duplicate_urls": []
     }
   ]
