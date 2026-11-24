@@ -1,0 +1,56 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    192
+  ],
+  "published_at_utc": "2026-11-24T22:49:34.179267+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-24T21",
+  "items": [
+    {
+      "item_id": "2026-11-24T21:1",
+      "title": "Drone debris reportedly causes fire at Kyiv residential building",
+      "summary": "A report said falling drone debris caused a fire on a lower floor of a residential building in Kyiv's Shevchenkivskyi district. No casualty information was provided in the report.",
+      "post_url": "https://t.me/russianewstodayofficial/192",
+      "category": "other",
+      "hour_id": "2026-11-24T21",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-24T21:2",
+      "title": "Temporary airport restrictions reported in Samara and Ulyanovsk",
+      "summary": "Russian military reporting described temporary airport restrictions in Samara and Ulyanovsk amid alleged Ukrainian drone activity.",
+      "post_url": "https://t.me/russianewstodayofficial/192",
+      "category": "other",
+      "hour_id": "2026-11-24T21",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-24T21:3",
+      "title": "Russian sources allege Ukraine is considering tighter mobilization rules",
+      "summary": "Unnamed Russian security sources claimed Ukrainian recruitment officials could receive expanded powers. The report did not provide confirmation from Ukrainian authorities.",
+      "post_url": "https://t.me/russianewstodayofficial/192",
+      "category": "other",
+      "hour_id": "2026-11-24T21",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-24T21:4",
+      "title": "Russian strikes reported near Artsyz in Odesa region",
+      "summary": "A Russian military correspondent reported airstrikes near Artsyz and described damage and a fire. The nature of the targets and extent of damage were not established in the report.",
+      "post_url": "https://t.me/russianewstodayofficial/192",
+      "category": "other",
+      "hour_id": "2026-11-24T21",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
