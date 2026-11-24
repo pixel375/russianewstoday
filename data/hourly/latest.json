@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-24T16",
-  "generated_at_utc": "2026-11-24T17:29:57.387360+00:00",
-  "window_start_utc": "2026-11-24T16:00:00+00:00",
-  "window_end_utc": "2026-11-24T17:00:00+00:00",
+  "hour_id": "2026-11-24T20",
+  "generated_at_utc": "2026-11-24T21:06:25.341757+00:00",
+  "window_start_utc": "2026-11-24T20:00:00+00:00",
+  "window_end_utc": "2026-11-24T21:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 7
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 14
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 2
     },
     {
       "handle": "rian_ru",
@@ -57,7 +57,7 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 4
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 4
     },
     {
       "handle": "nab_ukraine",
@@ -99,227 +99,186 @@
       "handle": "donbassr",
       "name": "Donbass Decides (Донбасс решает)",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 0
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 28,
-    "relevant_posts": 13,
-    "deduplicated_posts": 13,
-    "candidate_posts": 13
+    "raw_posts": 38,
+    "relevant_posts": 12,
+    "deduplicated_posts": 12,
+    "candidate_posts": 12
   },
   "posts": [
     {
-      "id": "intelslava/98543",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98543",
-      "published_at": "2026-11-24T16:57:31+00:00",
-      "text": "🇺🇸 🇺🇦 ⚡️ — The US is delaying the transfer of 60 missiles for Ukraine's Patriot air defense systems, the Financial Times reports, citing Ukrainian officials. According to the delivery schedule, Ukraine was due to receive 8 PAC-3 missiles in September and another 10 in October, followed by 10 in November and 12 in December. Additionally, the transfer of 20 PAC-2 missiles allocated to Ukraine requires Pentagon approval. The deliveries are funded by European countries, some of which are also storing the missiles in their own arsenals. @IntelSlava",
+      "id": "DDGeopolitics/199202",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199202",
+      "published_at": "2026-11-24T20:48:05+00:00",
+      "text": "🇺🇦 The Narcoführer refused Lukashenko’s proposal for a joint flight to Moscow. “Let Lukashenko take Putin and fly to Kiev . We also guarantee them a safe reception. These are negotiations,” he stated. “He is proposing to pick me up. Am I a suitcase to him? To pick me up on a plane and fly away. To Moscow , why? This is simply a serious conversation,” Zelensky also said. “We are in a state of war, we cannot meet in Moscow, we cannot meet in Kiev . We all understand this perfectly... Such unconstructive initiatives only clutter the information space and do not bring us closer to ending the war,” he added. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "kyiv",
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234574",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234574",
+      "published_at": "2026-11-24T20:32:28+00:00",
+      "text": "Кокаиновый фюрер отказался выводить войска с оккупированных ВСУ остатков Донбасса. Соответственно, дипломатические шевеления по поводу переговоров особого смысла не имеют. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407443",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407443",
+      "published_at": "2026-11-24T20:28:01+00:00",
+      "text": "Венгрия не будет участвовать в кредите ЕС Украине на €45 млрд, сообщил премьер страны Мадьяр после встречи с Зеленским. Он отметил, что Венгрия оказывает Украине финансовую и гуманитарную помощь, однако Венгрия находится в тяжелом финансовом положении. В связи и необходимостью сокращения бюджетного дефицита с 8,3% до 4,9% к весне 2027 года, страна не может увязать семилетний бюджет ЕС с финансированием Украины.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98568",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98568",
+      "published_at": "2026-11-24T20:14:31+00:00",
+      "text": "🇷🇺 🇬🇧 🇺🇦 ⚡ The Russian Embassy in London claims that Russia does not plan to attack British companies producing weapons for Ukraine. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199198",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199198",
+      "published_at": "2026-11-24T20:14:13+00:00",
+      "text": "🇬🇧 🇷🇺 Russia has no intention of attacking British defense companies that supply military equipment to Ukraine, the Russian Embassy in London said. The statement came after the UK's domestic intelligence agency MI5 and the Ministry of Defence warned companies that send products to Ukraine to prepare for possible sabotage. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199197",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199197",
+      "published_at": "2026-11-24T20:12:30+00:00",
+      "text": "🇭🇺 🇺🇦 Hungary won't help fund Ukraine and says there's no fast track to EU membership Hungarian Prime Minister Péter Magyar said Hungary will not take part in the EU's financing of Ukraine. He told a joint press conference with Ukrainian Commander-in-Sniff Zelensky that his government inherited a difficult budget situation. Magyar also said there is no accelerated path into the EU. Budapest no longer objects to opening all of Ukraine's negotiating clusters with the bloc. However, he warned that other member states' positions could cause trouble on agriculture. He pointed out that Hungary's own accession talks took 13 years and that Serbia's have been going on for 15. According to Magyar, Kiev has committed to restoring all educational rights of the Hungarian community in Transcarpathia by the end of 2027, and Zelensky promised to speed this up. The two sides also agreed that Hungarians there can use their national symbols during celebrations and their own language in healthcare and services. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102484",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102484",
+      "published_at": "2026-11-24T20:12:04+00:00",
+      "text": "📝 Проблемы не закончились 📝 Описывая ситуацию на Лиманском направлении , мы отмечали стабилизацию обстановки и осторожные попытки контратак в Лимане . Несмотря на очевидную сложность, ожесточенные бои за сам город позволяют решать две задачи. ➖ Во-первых, это заставляет командование ВСУ тратить силы на городские столкновения и попытки зачисток на окраинах, куда постоянно заходят новые малые группы. ➖ Во-вторых, пока в Лимане продолжает сохраняться активность российских штурмовиков — в город не затягивают артиллерию и не оседает большое количество операторов БЛА. 📌 Но подобные накаты сильно зависят от флангов, а как раз там накапливаются проблемы. В районе Озерного и Дибровы , несмотря на множественные удары, украинские формирования копят силы и размещают операторов БЛА, которые воздействуют на логистику ВС РФ как на Лиманском , так и на Славянском направлениях . При этом непосредственно атак по земле оттуда особо не происходит — за Ямполь и окрестности идут позиционные бои. А вот севернее ситуация ухудшается. ВСУ закрепляются в Колодезях , откуда пытаются выйти к реке и взять контроль над переправами не только дронами, но и пехотой. В случае неудачи ВС РФ в обороне у ВСУ откроется возможность штурмовать Терны и Ямполовку . Однако куда более вероятной выглядит атака на юг – к Заречному . В случае усиления натиска на Заречное украинские формирования, заняв этот населенный пункт, смогут продвигаться дальше на юг с выходом к лесному массиву. Это поставит под угрозу возможность сохранения захода в Лиман и в целом сильно ухудшит позиции в треугольнике Лиман — Заречное — Ямполь . ❗️ Тревоги добавляет тот факт, что расхождение реальной обстановки и докладов, похоже, никуда не делось. Видео с перемещениями силуэтов людей, на которым в редакторах добавлены российские флаги, худо-бедно годятся для информационки, однако ими же подкрепляется отчётность о контроле тех или иных населённых пунктов. Хотя на кадрах даже не всегда российские бойцы. В таких условиях высока вероятность ошибочной оценки ситуации и, как следствие, неверных решений, которые ведут к высоким потерям. И если размен личного состава на отсутствие тяжелого вооружения и артиллерии украинских формирований в Лимане отчасти оправдан тактически, то механизированные атаки к городу без прикрытия с флангов и воздуха — уже неоправданный расход людей и матчасти. Если у Вас есть дополнения по обстановке, Вы хотите, чтобы мы подсветили успехи Вашего подразделения, — Вы всегда можете написать нам в бот обратной связи @rybar_feedback_bot 📍 Карта в высоком разрешении 📍 English version 📍 Онлайн-карты доступны по подписке на map.rybar.ru #Лиман #Россия #Славянск #Украина ✉ MAX 💸 Поддержать нас",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350410",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350410",
+      "published_at": "2026-11-24T20:08:42+00:00",
+      "text": "Венгрия не хочет участвовать в кредите Киеву на €45 млрд, заявил Мадьяр. Он считает, что, как и прошлый кредит, его может обеспечить не весь ЕС, а только 24 страны объединения. Премьер подчеркнул, что категорически против того, чтобы семилетний бюджет Евросоюза увязывали с финансированием Украины. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36000",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36000",
+      "published_at": "2026-11-24T20:05:27+00:00",
+      "text": "📝 Rybar's Main Points 📝 digest of materials for November 24 It's time again to discuss Lyman. Just when things seemed to be settling down, but that's not how it turned out. New problems have emerged, but they haven't reached a critical point yet, and we can resolve them with minimal losses. ❗ Read more about these and other topics in our digest. ➡ Rybar @rybar — discussing the complex simply. The main resource of our think tank. The most important and interesting materials. ▪️ Chronicles of the SMO, strikes on highways in Novorossiya, situation in the Lyman direction ▪️ RYBAR EXPLAINS: where are the five-ton FABs ? ▪️ Air defense systems for so-called Ukraine still haven't arrived ▪️ Europeans' budget deadlock ▪️ On the detention of a terrorist in Kislovodsk and the ethnic factor ▪️ Germans are taking control of drone technologies ▪️ The British have been supplying Ukrainians with defective ammunition for years ▪️ Are men from Oleshky being handed draft notices? ▪️ Romanians still haven't found a Russian trace ➡ ASIABAR @rybar_Pacific In China, Chen Jining, a member of the Politburo of the CCP Central Committee and Shanghai Party Secretary, came under investigation . In Japan, they expect to enter the ranks of world leaders in AI. And the Australian government is trying to contain Chinese influence in Oceania. ➡ AMERICABAR @rybar_america US Congressmen are being banned from trading stocks, no one believes in Anthropic's creditworthiness anymore, and Nvidia after Huang's return started resembling a state-run corporation. ➡ AFRICABAR @rybar_Africa Reuters predicted war in Libya, blaming Russia and portraying the US as a peacemaker. Trump, Putin and Xi condemned the ICC, whose employee in the CAR was paying militants under the guise of a humanitarian mission. ➡ BALKANBAR @balkanar Bulgaria and Romania are seriously",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98557",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98557",
+      "published_at": "2026-11-24T20:04:31+00:00",
+      "text": "🇺🇸 🇺🇦 ⚡️ — The Pentagon is delaying the delivery of approximately 60 Patriot interceptors to Ukraine, including missiles from European stockpiles already paid for by Kyiv's allies. Defense Secretary Pete Hegseth has yet to approve the transfers, while a separate agreement allowing Ukraine to manufacture its own Patriot interceptors remains under Pentagon review. Ukrainian officials suspect the Trump administration is withholding military assistance to pressure Kyiv into accepting territorial concessions to Russia. The Pentagon maintains that its policy toward Ukraine has not changed. — Financial Times. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
         "missile"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "AussieCossack/53537",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53537",
-      "published_at": "2026-11-24T16:46:47+00:00",
-      "text": "❗️ Kiev continues to strike at energy infrastructure facilities in Russia, despite calls from Trump - Putin. @AussieCossack",
+      "id": "MFARussia/33584",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33584",
+      "published_at": "2026-11-24T20:03:39+00:00",
+      "text": "📰 Comment by Ambassador Albert P. Khorev on an article by Romanian Ambassador (published in “The Nation” newspaper on November 24, 2026) ✍️ I took note of the article published by the Romanian Ambassador to Pakistan on the occasion of Romania’s Armed Forces Day. The article extols the role of the Romanian Army in liberating the country from Nazi occupation during World War II, yet makes not a single mention of the Soviet Army, which made the decisive contribution to liberating Romania from German forces. It would appear that this “oversight” was not an innocent mistake, but rather a deliberate attempt to rewrite history in line with current foreign policy considerations. I do not in any way seek to diminish the contribution of Romanian citizens who, following Romania’s decision to join the anti-Hitler coalition in August 1944, took part in the fight against Nazi Germany. At the same time, I consider it my duty to remind readers that it was the Red Army that bore the brunt of the fighting to liberate Romanian territory from Nazi occupation. ❗️ Soviet forces suffered a total of 286,000 casualties during the battles for Romania’s liberation. To overlook their sacrifice in this context is simply outrageous and hypocritical. It is noteworthy that, unlike the current head of Romania’s diplomatic mission in Pakistan, Romania’s wartime leadership openly acknowledged the Soviet Union’s contribution to the liberation of their country. ✍️ In March 1945, King Michael I of Romania wrote: “I turn my thoughts to the glorious Soviet soldiers who sacrificed their lives for our sacred land. Their sacrifices will forever remain indelibly etched in the memory of all Romanians and will forever strengthen the bonds of friendship between our peoples.” To this day, Soviet soldiers who gave their lives for the freedom of the Romanian people lie buried in cemeteries in 171 localities across Romania. I have no doubt that the Ambassador is well aware of this fact. ❗️ Equally hypocritical are the Romanian diplomat’s accusations that Russia is engaged in “aggression,” particularly given Bucharest’s support for NATO’s concept of forward defence on the alliance’s eastern flank – or, put more plainly, the deliberate expansion of NATO’s military activity near Russia’s borders. 👉 I would like to remind readers that it was NATO’s eastward expansion, in violation of guarantees given to Moscow, rather than any mythical “Russian aggression,” that undermined the European security architecture. The expansion of the alliance’s military infrastructure, the staging of large-scale anti-Russian military exercises and NATO’s persistent efforts to stoke military hysteria are the real causes of the current crisis in Europe, the repercussions of which are being felt far beyond the continent, including in South Asia. In conclusion, I would like to emphasize that disagreements over current political issues cannot justify the distortion of historical truth. The memory of those who gave their lives to liberate Romania must not be held hostage to political expediency. We know that many Romanians continue to honor that memory, particularly those who reject the events that took place before August 1944.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "energy",
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/rian_ru/350399",
-        "https://t.me/voenkorKotenok/78177",
-        "https://t.me/DDGeopolitics/199169"
-      ]
-    },
-    {
-      "id": "AussieCossack/53536",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53536",
-      "published_at": "2026-11-24T16:46:16+00:00",
-      "text": "❗️ Russia's response to Ukrainian strikes on energy infrastructure facilities is inevitable, and everyone should be aware of this – Putin. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "strike"
+        "moscow"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "AussieCossack/53535",
+      "id": "AussieCossack/53539",
       "channel": "AussieCossack",
       "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53535",
-      "published_at": "2026-11-24T16:43:29+00:00",
-      "text": "❗️ The EU will have less of our oil and gas, and more problems – Putin on the decisions of European leaders. @AussieCossack",
+      "url": "https://t.me/AussieCossack/53539",
+      "published_at": "2026-11-24T20:00:55+00:00",
+      "text": "❗️ Hungary will not participate in the EU's funding of Ukraine – Magyar At a joint press conference with Zelensky, the Hungarian Prime Minister explained this by the difficult state of the country's budget In response to pressure from Hungary Zelensky also pledged to restore rights for the Hungarian community in Transcarpathia. PS. Instead of lobbying for the rights of Hungarians in Transcarpathia - Hungary should just invade and annexe the whole region! Russia will not oppose such a move! @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199171",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199171",
-      "published_at": "2026-11-24T16:35:51+00:00",
-      "text": "🇺🇦 The Naroführer: Ukraine needs at least €115 billion next year to withstand the war. Ukraine will receive €90 billion next year. We need to find another €25 billion. That is a manageable task. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234545",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234545",
-      "published_at": "2026-11-24T16:19:58+00:00",
-      "text": "Трипольская ТЭС под Киевом после серии ударов. У главного корпуса обрушилась часть наружной стены. Крупная панель накренилась внутрь пролёта, кровли над ней нет, видны деформированные металлические фермы. Кровля обрушилась сверху вниз, воронкой. Это говорит о попадании в кровлю и подрыве внутри зала. На кадрах из машзала видна рыжая от ржавчины кольцевая деталь с радиальными пазами, клиньями и вентиляционными отверстиями. Внешне она очень похожа на торцевую зону статора генератора: нажимную плиту и зубцы с пазовыми клиньями. Если это действительно статор, генератор этого блока фактически потерян. Изготовление нового генератора занимает годы, а ремонтом на месте его не восстановить. Трипольскую ТЭС уже выводили из строя в апреле 2024 года. С тех пор станцию пытались вернуть в строй, а весной 2026-го власти объявили о подготовке к её восстановлению. Нынешние разрушения отбрасывают эти планы: прежде чем ремонтировать турбины, придётся разбирать обрушенный каркас машзала и заново оценивать стоимость работ. @Warhronika",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350399",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350399",
-      "published_at": "2026-11-24T16:15:36+00:00",
-      "text": "Главные новости дня : 🔹 Ответные действия на атаки Киева по объектам ТЭК неизбежны, заявил Путин на совещании по развитию энергетического комплекса. 🔹 Президент обсудил с Совбезом итоги переговоров с Си Цзиньпином и Трампом, сообщил Песков. 🔹 Газ взорвался в пятиэтажке в Кулунде Алтайского края, один человек погиб, двое могут быть под завалами. 🔹 ФСБ предотвратила подрыв синагоги в Кисловодске. 🔹 Госдума утвердила федеральный бюджет на 2027-2029 годы. 🔹 Запись на ЕГЭ-2027 открыли на\" Госуслугах\", 🔹 Создать в России \"Семейный банк отпусков\" предложил депутат Чернышов. 🔹 Комбинация цифр 123456 вновь возглавила рейтинг самых популярных паролей. 🔹 Снегопад начался в Москве - синоптики ждут, что он станет сильнейшим в сезоне. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "kyiv",
-        "moscow",
-        "negotiation",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/AussieCossack/53537",
-        "https://t.me/voenkorKotenok/78177",
-        "https://t.me/DDGeopolitics/199169"
-      ]
-    },
-    {
-      "id": "tass_agency/407427",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407427",
-      "published_at": "2026-11-24T16:13:49+00:00",
-      "text": "МИД Албании опроверг утверждения о запуске с ее территории дронов для теракта в Ливии. Ранее Украина заявила об ответственности за теракт в порту Бенгази. Заместитель председателя Президентского совета Ливии аль-Куни назвал эти действия равносильными объявлению…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117398",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117398",
-      "published_at": "2026-11-24T16:12:28+00:00",
-      "text": "Владимир Путин: Киев не прекращает удары по объектам ТЭК России, несмотря на призывы Трампа. Ответные действия России на удары ВСУ по объектам ТЭК неизбежны. « Об этом все должны знать », – подчеркнул Президент. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78177",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78177",
-      "published_at": "2026-11-24T16:11:47+00:00",
-      "text": "❗️ Главное из заявлений Президента на совещании по развитию ТЭК и экологической безопасности: — Ключевыми задачами на внутреннем топливном рынке являются обеспечение стабильности поставок и гарантия надежного снабжения топливом; — После пикового значения цены на бензин в РФ стабилизировались; — Защиту объектов ТЭК необходимо усилить; — Противник, несмотря на призывы Трампа, продолжает наносить по ним удары; — Ответные действия России неизбежны , об этом все должны знать; — Эскалационная активность со стороны Киева, в т.ч. так называемый \"План 40 дней\", неспособны нанести России критический ущерб; — Попытки ограничить поставки российского топлива на внешние рынки будут иметь последствия для самих европейцев, в то время как Москва будет и дальше расширять рынки сбыта своих энергоресурсов. Также среди приоритетных направлений, упомянутых Владимиром Путином: 1) Развитие нефтепереработки и нефтехимии на востоке страны; 2) Дальнейшее развитие Трансарктического транспортного коридора; 3) Укрепление сотрудничества с предсказуемыми и ответственными партнерами. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "kyiv",
-        "moscow",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/AussieCossack/53537",
-        "https://t.me/rian_ru/350399",
-        "https://t.me/DDGeopolitics/199169"
-      ]
-    },
-    {
-      "id": "DDGeopolitics/199170",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199170",
-      "published_at": "2026-11-24T16:10:30+00:00",
-      "text": "🇷🇺 💬 🇪🇺 They will have less oil and gas, and more problems - Putin about the EU 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199169",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199169",
-      "published_at": "2026-11-24T16:08:51+00:00",
-      "text": "🇷🇺 💬 🇺🇦 Kiev continues to strike at energy infrastructure facilities in Russia, despite calls from Trump — Putin. Russia's response to Ukrainian strikes on energy infrastructure facilities is inevitable, and everyone should be aware of this – Putin. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/AussieCossack/53537",
-        "https://t.me/rian_ru/350399",
-        "https://t.me/voenkorKotenok/78177"
-      ]
-    },
-    {
-      "id": "boris_rozhin/234544",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234544",
-      "published_at": "2026-11-24T16:01:01+00:00",
-      "text": "Сводка Минобороны России о ходе СВО на 24 ноября 2026 г. Подразделения группировки войск «Север» улучшили тактическое положение. Поражены живая сила и техника двух механизированных бригад, двух штурмовых полков ВСУ, бригады теробороны и бригады нацгвардии у Радьково, Гонтаровки, Кирилловки и Колодезного (Харьковская обл.). В Сумской области поражены формирования механизированной и двух аэромобильных бригад ВСУ у Вакаловщины, Битицы, Радьковки, Вакулок и Великой Чернетчины (Сумская обл.). – Потери ВСУ: до 170 военных, 1 БТР, 15 автомобилей, 4 РЭБ-станции. Группировка войск «Запад»: улучшено положение по переднему краю. Поражены механизированная, штурмовая бригады ВСУ, бригада морпехов и бригада теробороны у Гороховатки, Староверовки, Моначиновки, Осадьковки (Харьковская обл.), Райгородка и Маяков (ДНР). – Потери ВСУ: свыше 220 военных, 1 танк, 1 БТР, 8 автомобилей, 1 арторудие, 5 РЭБ-станций. Группировка войск «Юг»: заняты более выгодные рубежи и позиции. Поражены четыре механизированные, две аэромобильные бригады и штурмовой полк ВСУ у Краматорска, Николаевки, Дружковки и Стародубовки (ДНР). – Потери ВСУ: свыше 155 военных, 2 ББМ, 18 автомобилей, 2 арторудия. Группировка войск «Центр»: продолжено ведение активных наступательных действий. Поражены две механизированные, воздушно-десантная, егерская, штурмовая бригады, три штурмовых полка ВСУ, бригада морпехов и три бригады нацгвардии у Веровки, Нововикторовки, Курицыно, Андреевки, Михайловки, Новопавловки, Сергеевки и Калинино (ДНР). – Потери ВСУ: до 335 военных, 5 ББМ, 11 автомобилей, 3 РЭБ-станции. Группировка войск «Восток»: продолжено продвижение в глубину обороны, освобождён н.п. Барвиновка (Запорожская обл.). Поражены две десантно-штурмовые, штурмовая бригады и штурмовой полк ВСУ у Коломийцев, Гавриловки, Зелёной Долины (Днепропетровская обл.), Новотроицкого, Жёлтой Кручи, Весёлого и Счастливого (Запорожская обл.). – Потери ВСУ: свыше 205 военных, 1 БТР, 3 автомобиля. Группировка войск «Днепр»: улучшено положение по переднему краю. Поражены две механизированные бригады ВСУ у Кирово и Преображенки (Запорожская обл.). – Уничтожено: до 25 военных ВСУ, 12 автомобилей, 1 РЭБ-станция. Удары ВКС РФ: оперативно-тактической авиацией, ударными БПЛА, ракетными войсками и артиллерией поражены объекты энергетической и транспортной инфраструктуры, используемые в интересах ВСУ, военные аэродромы, а также пункты временной дислокации украинских формирований и иностранных наёмников в 143 районах. ПВО : сбито 1047 БПЛА самолётного типа.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "energy",
-        "kharkiv",
-        "missile",
-        "strike",
-        "zaporizhzhia"
-      ],
       "possible_duplicate_urls": []
     }
   ]
