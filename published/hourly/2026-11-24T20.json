@@ -1,0 +1,58 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    191
+  ],
+  "published_at_utc": "2026-11-24T21:07:35.627033+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-24T20",
+  "items": [
+    {
+      "item_id": "2026-11-24T20:1",
+      "title": "Hungary rejects participation in proposed €45 billion EU loan to Ukraine",
+      "summary": "Hungarian Prime Minister Peter Magyar cited domestic budget pressures in explaining his refusal to participate in the loan. He also said Budapest no longer objects to opening Ukraine's EU accession negotiating clusters, but ruled out an accelerated membership process.",
+      "post_url": "https://t.me/russianewstodayofficial/191",
+      "category": "other",
+      "hour_id": "2026-11-24T20",
+      "source_handles": [
+        "ddgeopolitics",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-24T20:2",
+      "title": "Zelensky rejects Lukashenko's proposal to travel to Moscow for talks",
+      "summary": "President Volodymyr Zelensky rejected the proposed joint trip to Moscow, saying wartime negotiations should not take place in either Moscow or Kyiv. He described the initiative as unconstructive.",
+      "post_url": "https://t.me/russianewstodayofficial/191",
+      "category": "other",
+      "hour_id": "2026-11-24T20",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-24T20:3",
+      "title": "Russian embassy denies plans to attack British defence companies",
+      "summary": "Russia's embassy in London said Moscow has no intention of attacking British companies supplying military equipment to Ukraine. The statement followed warnings from British intelligence and defence authorities about possible sabotage.",
+      "post_url": "https://t.me/russianewstodayofficial/191",
+      "category": "other",
+      "hour_id": "2026-11-24T20",
+      "source_handles": [
+        "ddgeopolitics",
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-24T20:4",
+      "title": "Pentagon reportedly delays transfer of Patriot interceptors to Ukraine",
+      "summary": "A report citing the Financial Times says approximately 60 Patriot interceptors are awaiting US approval, including missiles from European stocks. Ukrainian officials suspect political pressure over territorial concessions, while the Pentagon maintains its Ukraine policy has not changed.",
+      "post_url": "https://t.me/russianewstodayofficial/191",
+      "category": "other",
+      "hour_id": "2026-11-24T20",
+      "source_handles": [
+        "intelslava"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
