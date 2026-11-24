@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-24T14",
-  "generated_at_utc": "2026-11-24T15:25:26.286458+00:00",
-  "window_start_utc": "2026-11-24T14:00:00+00:00",
-  "window_end_utc": "2026-11-24T15:00:00+00:00",
+  "hour_id": "2026-11-24T16",
+  "generated_at_utc": "2026-11-24T17:29:57.387360+00:00",
+  "window_start_utc": "2026-11-24T16:00:00+00:00",
+  "window_end_utc": "2026-11-24T17:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 5
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 3
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 4
     },
     {
       "handle": "MFARussia",
@@ -39,13 +39,13 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 10
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
@@ -57,7 +57,7 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
@@ -69,7 +69,7 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "nab_ukraine",
@@ -105,175 +105,191 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 36,
-    "relevant_posts": 18,
-    "deduplicated_posts": 18,
-    "candidate_posts": 18
+    "raw_posts": 28,
+    "relevant_posts": 13,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
   },
   "posts": [
     {
-      "id": "DDGeopolitics/199165",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199165",
-      "published_at": "2026-11-24T14:59:26+00:00",
-      "text": "🇺🇦 🤰 In the AFU, pregnancy does not mean exemption from frontline duties: Ukrainian women are expected to serve almost until childbirth. Ukrainian Major Bihar has spoken about special uniforms for pregnant women serving in the Armed Forces of Ukraine (AFU). According to her, women are expected to remain in service until the third trimester of pregnancy, meaning potentially just weeks before giving birth. They are reportedly told that they must be able to run fast enough to escape drone attacks, otherwise they risk being killed. In other words, pregnancy is not necessarily grounds for reassignment or exemption from frontline duties, but an occasion to issue a different uniform and remind women to “try not to die”. Meanwhile, Ukraine’s Ministry of Defence is purchasing 150,000 women’s winter jackets, while the AFU has already received 2,000 women’s bulletproof vests. Former Defence Minister Oleksii Reznikov has even raised the possibility of discussing female mobilisation. What’s next? Giving birth at a TCC recruitment centre, with a military summons waiting for the newborn before the midwives have even finished their work. 🔴 @DDGeopolitics",
+      "id": "intelslava/98543",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98543",
+      "published_at": "2026-11-24T16:57:31+00:00",
+      "text": "🇺🇸 🇺🇦 ⚡️ — The US is delaying the transfer of 60 missiles for Ukraine's Patriot air defense systems, the Financial Times reports, citing Ukrainian officials. According to the delivery schedule, Ukraine was due to receive 8 PAC-3 missiles in September and another 10 in October, followed by 10 in November and 12 in December. Additionally, the transfer of 20 PAC-2 missiles allocated to Ukraine requires Pentagon approval. The deliveries are funded by European countries, some of which are also storing the missiles in their own arsenals. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53537",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53537",
+      "published_at": "2026-11-24T16:46:47+00:00",
+      "text": "❗️ Kiev continues to strike at energy infrastructure facilities in Russia, despite calls from Trump - Putin. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
         "strike"
       ],
-      "possible_duplicate_urls": []
+      "possible_duplicate_urls": [
+        "https://t.me/rian_ru/350399",
+        "https://t.me/voenkorKotenok/78177",
+        "https://t.me/DDGeopolitics/199169"
+      ]
     },
     {
-      "id": "rybar_in_english/35995",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35995",
-      "published_at": "2026-11-24T14:57:08+00:00",
-      "text": "📝 Call yourself a patriot — keep your word 📝 Russian media and Telegram channels once again recall the words of Ukrainian Verkhovna Rada deputy Kozyr about issuing notices to men evacuated from Oleshky. We already reported on the first such case, but the topic has appeared online again. However, while old statements from Kozyr are being discussed, there are still no concrete figures — how many people received notices. This is unsurprising: representatives of the Kyiv regime find it disadvantageous to discourage potential returnees. Telegram sources citing Honcharenko claimed that among the evacuated there was only one man of draft age, and he was given a three-month deferment. One need not dwell on the fact that there were few men brave enough to return to the TCC risk zone. Perhaps that's why they decided not to disclose the figures and ratios. Women and those not subject to conscription went to so-called Ukraine. Political Ukrainian sentiment is more pronounced among women, partly due to relative safety from the TCC for the time being. ❗️ The other fact is far more interesting. A special guaranteed period for settling in for those returning from abroad and \"leaving occupation\" is only being proposed through draft laws No. 16034 and No. 16034-1. They remain under consideration, so the deferment they provide is not in effect. And according to Kozyr, consideration of them was supposed to begin last Monday, November 23. Of course, a man returning to so-called Ukraine may have a deferment on other grounds — for example, due to disability, family circumstances, studies, or reserved occupation status. The return itself does not cancel these grounds. However, there are few returnees, and those willing are even fewer. Once crossing the Tisza , few would want to come back. And isn't it precisely because so-called Ukraine is dragging out consideration of the aforementioned amendments that they understand perfectly well that there won't be many willing to return, and those who do come cannot be given time to disappear? #Ukraine ✉ MAX 💸 Support us Original msg",
+      "id": "AussieCossack/53536",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53536",
+      "published_at": "2026-11-24T16:46:16+00:00",
+      "text": "❗️ Russia's response to Ukrainian strikes on energy infrastructure facilities is inevitable, and everyone should be aware of this – Putin. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "mobilization"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117394",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117394",
-      "published_at": "2026-11-24T14:55:26+00:00",
-      "text": "Аварийные отключения электроэнергии продолжаются в Донецке, Енакиево, Макеевке, Мариуполе, Снежном, а также в Володарском, Тельмановском, Ясиноватском, Волновахском и Новоазовском округах, – сообщили в минугля и энергетики ДНР. « В республике продолжаются восстановительные работы по устранению последствий атак украинских БПЛА », – уточнили в ведомстве. Там подчеркнули, что из-за недостатка доступной мощности вынуждены временно отключать электроэнергию в населенных пунктах региона. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "drone",
         "energy",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199163",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199163",
-      "published_at": "2026-11-24T14:52:01+00:00",
-      "text": "🇷🇺 ⚔️ 🇺🇦 Russian forces have struck three power substations that supply electricity to defense industry enterprises in Ukraine. They are located in Vinnitsa, as well as in Obolon (Chernigov region) and Rakitnoye (Rovno region). Additionally, a cargo ship delivering supplies to the Ukrainian Armed Forces was hit in the Black Sea. 🔴 @DDGeopolitics",
+      "id": "AussieCossack/53535",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53535",
+      "published_at": "2026-11-24T16:43:29+00:00",
+      "text": "❗️ The EU will have less of our oil and gas, and more problems – Putin on the decisions of European leaders. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350393",
+      "id": "DDGeopolitics/199171",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199171",
+      "published_at": "2026-11-24T16:35:51+00:00",
+      "text": "🇺🇦 The Naroführer: Ukraine needs at least €115 billion next year to withstand the war. Ukraine will receive €90 billion next year. We need to find another €25 billion. That is a manageable task. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234545",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234545",
+      "published_at": "2026-11-24T16:19:58+00:00",
+      "text": "Трипольская ТЭС под Киевом после серии ударов. У главного корпуса обрушилась часть наружной стены. Крупная панель накренилась внутрь пролёта, кровли над ней нет, видны деформированные металлические фермы. Кровля обрушилась сверху вниз, воронкой. Это говорит о попадании в кровлю и подрыве внутри зала. На кадрах из машзала видна рыжая от ржавчины кольцевая деталь с радиальными пазами, клиньями и вентиляционными отверстиями. Внешне она очень похожа на торцевую зону статора генератора: нажимную плиту и зубцы с пазовыми клиньями. Если это действительно статор, генератор этого блока фактически потерян. Изготовление нового генератора занимает годы, а ремонтом на месте его не восстановить. Трипольскую ТЭС уже выводили из строя в апреле 2024 года. С тех пор станцию пытались вернуть в строй, а весной 2026-го власти объявили о подготовке к её восстановлению. Нынешние разрушения отбрасывают эти планы: прежде чем ремонтировать турбины, придётся разбирать обрушенный каркас машзала и заново оценивать стоимость работ. @Warhronika",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350399",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350393",
-      "published_at": "2026-11-24T14:50:50+00:00",
-      "text": "Российские войска ударили по трем обеспечивавшим работу предприятий ВПК Украины электроподстанциям. Они расположены в Виннице, а также в Оболонье (Черниговская область) и Ракитном (Ровенская область). Также в море поражен сухогруз, доставлявший грузы для ВСУ, сообщили в Минобороны. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/rian_ru/350399",
+      "published_at": "2026-11-24T16:15:36+00:00",
+      "text": "Главные новости дня : 🔹 Ответные действия на атаки Киева по объектам ТЭК неизбежны, заявил Путин на совещании по развитию энергетического комплекса. 🔹 Президент обсудил с Совбезом итоги переговоров с Си Цзиньпином и Трампом, сообщил Песков. 🔹 Газ взорвался в пятиэтажке в Кулунде Алтайского края, один человек погиб, двое могут быть под завалами. 🔹 ФСБ предотвратила подрыв синагоги в Кисловодске. 🔹 Госдума утвердила федеральный бюджет на 2027-2029 годы. 🔹 Запись на ЕГЭ-2027 открыли на\" Госуслугах\", 🔹 Создать в России \"Семейный банк отпусков\" предложил депутат Чернышов. 🔹 Комбинация цифр 123456 вновь возглавила рейтинг самых популярных паролей. 🔹 Снегопад начался в Москве - синоптики ждут, что он станет сильнейшим в сезоне. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "energy",
+        "kyiv",
+        "moscow",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53537",
+        "https://t.me/voenkorKotenok/78177",
+        "https://t.me/DDGeopolitics/199169"
+      ]
+    },
+    {
+      "id": "tass_agency/407427",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407427",
+      "published_at": "2026-11-24T16:13:49+00:00",
+      "text": "МИД Албании опроверг утверждения о запуске с ее территории дронов для теракта в Ливии. Ранее Украина заявила об ответственности за теракт в порту Бенгази. Заместитель председателя Президентского совета Ливии аль-Куни назвал эти действия равносильными объявлению…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117398",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117398",
+      "published_at": "2026-11-24T16:12:28+00:00",
+      "text": "Владимир Путин: Киев не прекращает удары по объектам ТЭК России, несмотря на призывы Трампа. Ответные действия России на удары ВСУ по объектам ТЭК неизбежны. « Об этом все должны знать », – подчеркнул Президент. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199161",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199161",
-      "published_at": "2026-11-24T14:44:41+00:00",
-      "text": "🇺🇦 The Narcoführer has completely written off Trump and is waiting for the “Democrats,” calling them “other people.” “The American team is aiming to end the war by December or January. But I made it clear that this should not happen at the expense of Ukraine alone. If the Russians continue to pretend that they remember nothing and feed us historical context instead of negotiation results, a moment will come when a new political reality will emerge in the United States of America. If the Russians do not want to end the war, they must be forced to do so. If no one is capable of compelling them, then someone else must do it. And for that, other conditions or other people must appear. Either Ukraine must be provided with such powerful support, and such strict sanctions must be imposed against Russia, that it becomes a signal to the Russians: it is time to sit at the negotiating table and see the matter through to the end.” 🔴 @DDGeopolitics",
+      "id": "voenkorKotenok/78177",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78177",
+      "published_at": "2026-11-24T16:11:47+00:00",
+      "text": "❗️ Главное из заявлений Президента на совещании по развитию ТЭК и экологической безопасности: — Ключевыми задачами на внутреннем топливном рынке являются обеспечение стабильности поставок и гарантия надежного снабжения топливом; — После пикового значения цены на бензин в РФ стабилизировались; — Защиту объектов ТЭК необходимо усилить; — Противник, несмотря на призывы Трампа, продолжает наносить по ним удары; — Ответные действия России неизбежны , об этом все должны знать; — Эскалационная активность со стороны Киева, в т.ч. так называемый \"План 40 дней\", неспособны нанести России критический ущерб; — Попытки ограничить поставки российского топлива на внешние рынки будут иметь последствия для самих европейцев, в то время как Москва будет и дальше расширять рынки сбыта своих энергоресурсов. Также среди приоритетных направлений, упомянутых Владимиром Путином: 1) Развитие нефтепереработки и нефтехимии на востоке страны; 2) Дальнейшее развитие Трансарктического транспортного коридора; 3) Укрепление сотрудничества с предсказуемыми и ответственными партнерами. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "negotiation",
-        "sanctions"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38609",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38609",
-      "published_at": "2026-11-24T14:39:51+00:00",
-      "text": "Мужчин из Алешек на Украине встретили повестками – депутат Рады Мужчины, эвакуированные из Алешек Херсонской области и выбравшие возвращение на подконтрольную Киеву территорию, практически сразу после пересечения границы получают повестки. Об этом в эфире украинского телемарафона рассказал народный депутат от партии «Слуга народа» Сергей Козырь. По его словам, возвращенцы шли через пункт пропуска на границе с Белоруссией в Волынской области. Уже на первом или втором украинском блокпосту у мужчин призывного возраста спрашивали, почему они не прошли военно-врачебную комиссию, после чего вручали повестки. Сами мужчины просили дать им время: добраться до родственников, воссоединиться с семьями, восстановить привычный быт и решить накопившиеся бытовые вопросы. Ситуация показательна на фоне законодательной инициативы самого Козыря. Ещё 4 сентября он вместе с другими депутатами зарегистрировал законопроект №16034, который предусматривает 90-дневную отсрочку от мобилизации для украинцев, возвращающихся из-за границы и с неподконтрольных территорий. Однако по состоянию на 24 ноября документ всё ещё находится на рассмотрении профильного комитета Верховной рады и законом не стал. Киев не церемонится с теми, кто вернулся. Вместо обещанной адаптации – проверки и повестки. Депутаты проблему видят, но решать её не спешат: закон об отсрочке застрял в комитете, а блокпосты работают по старой схеме. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
+        "energy",
         "kyiv",
-        "mobilization"
+        "moscow",
+        "strike"
       ],
-      "possible_duplicate_urls": []
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53537",
+        "https://t.me/rian_ru/350399",
+        "https://t.me/DDGeopolitics/199169"
+      ]
     },
     {
-      "id": "MFARussia/33578",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33578",
-      "published_at": "2026-11-24T14:34:45+00:00",
-      "text": "🏔 #OTD in 1730, Alexander #Suvorov was born in Moscow. A soldier of the Imperial Guard who rose to the rank of Generalissimo, he became perhaps the most celebrated commander in Russian military history and one of the best-known generals in the world . As a boy, Alexander loved listening to his father’s stories of Peter the Great , whom he had served, and of Russia’s Northern War with Sweden of 1700-1721 . Small in stature and often in poor health, young Suvorov dreamed of joining the army , though his family doubted he could withstand the demands of a soldier’s life. Nonetheless, he began his career in the Guards and went on to serve in the Seven Years’ War , the wars against the Ottoman Empire , the Polish campaigns and the wars with France . It was during the Russo-Turkish wars under Catherine the Great that Suvorov earned his reputation as Russia’s finest general. His victories at Focsani and Rymnik in 1789 brought him the title of Count Rymniksky and the Order of St George, First Class . Among his honours was a diamond-studded sword bearing the inscription “To the Victor over the Grand Vizier” . Five years later, following the Polish campaign of 1794, he became a field marshal . ✍️ Suvorov was also a gifted teacher who trained a generation of senior Russian officers. In his book The Science of Winning , a practical guide for officers and soldiers, he set down the lessons of a lifetime in the field. He expected his officers to exercise their own judgement and think on their feet when faced with the unexpected. For the ordinary soldier, he summed up the value of rigorous training in a few memorable words: “ Train hard and the march will be easy” . Suvorov is renowned for having fought more than 60 battles without losing a single one. His campaigns took him across what are now at least eight European countries , from the banks of the Rymnik in present-day Romania to the plains of northern Italy. His final military campaign took him across the Swiss Alps. In September 1799, his troops crossed the St Gotthard Pass and fought their way through the Schöllenen Gorge at the Devil’s Bridge. After the Italian and Swiss campaigns, Paul I conferred on him the rank of Generalissimo . Suvorov died in St Petersburg the following year. 🇷🇺 🇨🇭 On September 26, 1898 , the Suvorov Cross, one of the most striking memorials to the Russian commander , was unveiled in Switzerland’s Schöllenen Gorge. Carved into the sheer rock face near the Devil’s Bridge, the 12-metre-high cross commemorates the Russian soldiers who lost their lives crossing the Alps. To this day, Russians living in Switzerland and their Swiss friends gather at the foot of the cross to honour the memory of the great commander and his men. #RussianHistory #MilitaryHistory",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30766",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30766",
-      "published_at": "2026-11-24T14:29:58+00:00",
-      "text": "Grounding enemy drones 💥 The Vostok Group's UAV operators destroyed enemy UAV control posts in Zaporozhye region. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407407",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407407",
-      "published_at": "2026-11-24T14:26:01+00:00",
-      "text": "О схеме мошенников с продажей красной икры в Telegram предупредили в Роскачестве . Выявлена сеть из более чем 30 мошеннических каналов, замаскированных под поставщиков рыбной продукции с Дальнего Востока и Севера России. Злоумышленники предлагают красную икру по ценам ниже рыночных, а после оплаты исчезают, рассказали ТАСС в организации. По аналогичной схеме аферисты также предлагают ягоды, фрукты и свежее мясо. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234539",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234539",
-      "published_at": "2026-11-24T14:20:36+00:00",
-      "text": "Видео от воинов ГрВ «Запад» с Рубцовского направления, которые взяли в плен боевика 3 ошбр ВСУ. По словам пленного военнослужащего ВСУ Приходько, он попал в плен во время ротации, перепутав позиции и случайно выйдя к российским военнослужащим. При этом он утверждает, что передвигался в одиночку, следуя указанному ему направлению. Также Приходько рассказал, что был мобилизован и ранее не имел опыта участия в боевых действиях. @frontline_pvt",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199159",
+      "id": "DDGeopolitics/199170",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199159",
-      "published_at": "2026-11-24T14:19:03+00:00",
-      "text": "🇸🇪 🇺🇦 Sweden to allocate a further €52.5 million in winter aid to Ukraine Stockholm is preparing another aid package for Kiev, with the funds earmarked for the Ukrainian Red Cross and the energy sector. Against the backdrop of Kiev’s admission of responsibility for the attack on the cargo ship Sparta II in the Gulf of Finland, the decision is particularly noteworthy. European backers continue to provide unconditional support to the Kiev regime, pouring money into its continued survival while increasingly facing the consequences of its decisions on their own doorstep. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199170",
+      "published_at": "2026-11-24T16:10:30+00:00",
+      "text": "🇷🇺 💬 🇪🇺 They will have less oil and gas, and more problems - Putin about the EU 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199169",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199169",
+      "published_at": "2026-11-24T16:08:51+00:00",
+      "text": "🇷🇺 💬 🇺🇦 Kiev continues to strike at energy infrastructure facilities in Russia, despite calls from Trump — Putin. Russia's response to Ukrainian strikes on energy infrastructure facilities is inevitable, and everyone should be aware of this – Putin. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -281,92 +297,27 @@
         "kyiv",
         "strike"
       ],
-      "possible_duplicate_urls": []
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53537",
+        "https://t.me/rian_ru/350399",
+        "https://t.me/voenkorKotenok/78177"
+      ]
     },
     {
-      "id": "voenkorKotenok/78170",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78170",
-      "published_at": "2026-11-24T14:17:11+00:00",
-      "text": "В Харькове также прогремели несколько взрывов. Удар был нанесен по складским помещениям. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/35994",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/35994",
-      "published_at": "2026-11-24T14:13:16+00:00",
-      "text": "📝 Counterfeit ammunition for the AFU? 📝 Why not! The longer the SMO continues, the wider the eyes of many in the West open when they begin to delve into the details of various schemes that occurred in the matter of supplying everything under the sun to so-called Ukraine. Manipulations with ammunition , corruption in logistics, or here – tons of counterfeit explosives . 📌 An interesting thing emerged: ➡️ The British purchased large batches of explosive material for so-called Ukraine, which was presented as a more powerful type of C4 explosive. But it turned out to be a cheaper variant, lacking the main component of C4 - RDX, that is, hexogen itself. ➡️ The investigation showed that the supply contract went to Tripwire South LLC, owned by Pennsylvania businessman Ryan Morris. And the documents contained no information about the absence of hexogen in the composition and no warnings about possible detonation at high temperatures. ➡️ Using these documents, Britain repeatedly sent batches of explosives to the combat zone in so-called Ukraine, potentially endangering personnel. ➡️ Contracts worth tens of millions of pounds, concluded for several years, reveal serious shortcomings in Britain's accelerated weapons procurement procedures and raise the question of how the country's defense ministry checks suppliers and controls weapons deliveries. 🖍️ In fact, the journalists themselves answered their own question: how does the British Ministry of Defense check suppliers? Well, basically not at all. Military aid in the Ukrainian conflict became a very convenient source of income, for which accountability was not needed for years. Only now are some testimonies beginning to emerge about how many businessmen, startups and others enriched themselves through such schemes. Probably many no longer remember, but the same \"Czech initiative\" with ammunition purchases – also of this kind . ❗️ In Britain, quite high-ranking individuals close to the British Crown were involved in the process of finding specific suppliers to do business with. Such schemes involving the shipment of counterfeit explosives could not have been organized without approval from above. At the beginning of the SMO it was standard practice for Western countries to send to the AFU's needs everything that had been gathering dust on warehouses for years. First they got rid of old junk, then they started making money on other things. And as the conflict progresses, there will be more and more such investigations. #UAV #Britain #Russia #Ukraine ✉️ MAX 💸 Support us Original msg",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "corruption",
-        "drone",
-        "procurement"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102462",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102462",
-      "published_at": "2026-11-24T14:04:52+00:00",
-      "text": "Украина берет на себя ответственность за удар по сухогрузу Sparta II в нейтральных водах Финского залива — Зеленский ✨ Кто там из наших элит и СМИ нам втирал, что Зеленский \" Выгоден \" России? Кушайте, не обляпайтесь. Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234538",
+      "id": "boris_rozhin/234544",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234538",
-      "published_at": "2026-11-24T14:03:28+00:00",
-      "text": "«Ещё увидим, кому будет хуже». Обыски у генерала СБУ едва не закончились перестрелкой Украинские СМИ опубликовали видео обысков у генерала СБУ Сергея Дуки, которые прошли в начале ноября. На кадрах — жёсткий конфликт между детективами Национального антикоррупционного бюро Украины (НАБУ) и бойцами спецподразделения «Альфа», охранявшими генерала. Охрана не давала детективам войти в дом до приезда подразделения внутренней безопасности. В какой-то момент разговор перешёл на угрозы. — «Не дурите, потому что будет хуже, если начнёте стрелять», — предупредил детектив НАБУ. — «Ещё увидим, кому будет хуже», — ответил один из бойцов СБУ. До перестрелки дело не дошло: конфликт удалось разрешить после переговоров и приезда адвоката. Дуку задержали в рамках антикоррупционной операции «Карфаген». По версии следствия, генерал покровительствовал преступным колл-центрам и получил $3 млн за помощь в снятии ареста со средств наркокартеля «Химпром». Позже его отпустили под залог. @readovkanews",
+      "url": "https://t.me/boris_rozhin/234544",
+      "published_at": "2026-11-24T16:01:01+00:00",
+      "text": "Сводка Минобороны России о ходе СВО на 24 ноября 2026 г. Подразделения группировки войск «Север» улучшили тактическое положение. Поражены живая сила и техника двух механизированных бригад, двух штурмовых полков ВСУ, бригады теробороны и бригады нацгвардии у Радьково, Гонтаровки, Кирилловки и Колодезного (Харьковская обл.). В Сумской области поражены формирования механизированной и двух аэромобильных бригад ВСУ у Вакаловщины, Битицы, Радьковки, Вакулок и Великой Чернетчины (Сумская обл.). – Потери ВСУ: до 170 военных, 1 БТР, 15 автомобилей, 4 РЭБ-станции. Группировка войск «Запад»: улучшено положение по переднему краю. Поражены механизированная, штурмовая бригады ВСУ, бригада морпехов и бригада теробороны у Гороховатки, Староверовки, Моначиновки, Осадьковки (Харьковская обл.), Райгородка и Маяков (ДНР). – Потери ВСУ: свыше 220 военных, 1 танк, 1 БТР, 8 автомобилей, 1 арторудие, 5 РЭБ-станций. Группировка войск «Юг»: заняты более выгодные рубежи и позиции. Поражены четыре механизированные, две аэромобильные бригады и штурмовой полк ВСУ у Краматорска, Николаевки, Дружковки и Стародубовки (ДНР). – Потери ВСУ: свыше 155 военных, 2 ББМ, 18 автомобилей, 2 арторудия. Группировка войск «Центр»: продолжено ведение активных наступательных действий. Поражены две механизированные, воздушно-десантная, егерская, штурмовая бригады, три штурмовых полка ВСУ, бригада морпехов и три бригады нацгвардии у Веровки, Нововикторовки, Курицыно, Андреевки, Михайловки, Новопавловки, Сергеевки и Калинино (ДНР). – Потери ВСУ: до 335 военных, 5 ББМ, 11 автомобилей, 3 РЭБ-станции. Группировка войск «Восток»: продолжено продвижение в глубину обороны, освобождён н.п. Барвиновка (Запорожская обл.). Поражены две десантно-штурмовые, штурмовая бригады и штурмовой полк ВСУ у Коломийцев, Гавриловки, Зелёной Долины (Днепропетровская обл.), Новотроицкого, Жёлтой Кручи, Весёлого и Счастливого (Запорожская обл.). – Потери ВСУ: свыше 205 военных, 1 БТР, 3 автомобиля. Группировка войск «Днепр»: улучшено положение по переднему краю. Поражены две механизированные бригады ВСУ у Кирово и Преображенки (Запорожская обл.). – Уничтожено: до 25 военных ВСУ, 12 автомобилей, 1 РЭБ-станция. Удары ВКС РФ: оперативно-тактической авиацией, ударными БПЛА, ракетными войсками и артиллерией поражены объекты энергетической и транспортной инфраструктуры, используемые в интересах ВСУ, военные аэродромы, а также пункты временной дислокации украинских формирований и иностранных наёмников в 143 районах. ПВО : сбито 1047 БПЛА самолётного типа.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117392",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117392",
-      "published_at": "2026-11-24T14:03:02+00:00",
-      "text": "В результате удара беспилотника ВСУ в Центрально-Городском районе Горловки повреждена квартира , – сообщил глава города Иван Приходько. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407404",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407404",
-      "published_at": "2026-11-24T14:02:50+00:00",
-      "text": "Главные новости к этому часу: ▪️ Российские войска освободили населенный пункт Барвиновка в Запорожской области, сообщает МО РФ. ▪️ Даты следующего раунда переговоров в Абу-Даби еще не назначены, сообщил Песков, отвечая на вопрос ТАСС. Главное из заявлений представителя Кремля. ▪️ Госдума приняла закон о федеральном бюджете. ▪️ Путин назначил Гаглоева спецпредставителем по военно-мемориальным вопросам. ▪️ \"Прогресс МС-36\" с роботом \"Теледроид\" вывели на орбиту. ▪️ Временного поверенного в делах Латвии вызвали в МИД РФ. ▪️ В состав СПЧ включили Тутту Ларсен. ▪️ В РФ зарегистрировали препарат против агрессивной формы рака молочной железы. ▪️ Два чиновника и бизнесмен содержатся под стражей по делу Чибиса, сообщили ТАСС правоохранители. ▪️ Мария Захарова опровергла ТАСС сообщения о высылке двух дипломатов РФ с Кипра. ▪️ Продажу вейпов прекратят в Коми с 1 марта 2027 года. Главное о запретах вейпов в регионах страны — в материале ТАСС. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation",
+        "drone",
+        "energy",
+        "kharkiv",
+        "missile",
+        "strike",
         "zaporizhzhia"
       ],
       "possible_duplicate_urls": []

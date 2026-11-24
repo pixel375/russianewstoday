@@ -1,0 +1,326 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-24T16",
+  "generated_at_utc": "2026-11-24T17:29:57.387360+00:00",
+  "window_start_utc": "2026-11-24T16:00:00+00:00",
+  "window_end_utc": "2026-11-24T17:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 28,
+    "relevant_posts": 13,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
+  },
+  "posts": [
+    {
+      "id": "intelslava/98543",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98543",
+      "published_at": "2026-11-24T16:57:31+00:00",
+      "text": "🇺🇸 🇺🇦 ⚡️ — The US is delaying the transfer of 60 missiles for Ukraine's Patriot air defense systems, the Financial Times reports, citing Ukrainian officials. According to the delivery schedule, Ukraine was due to receive 8 PAC-3 missiles in September and another 10 in October, followed by 10 in November and 12 in December. Additionally, the transfer of 20 PAC-2 missiles allocated to Ukraine requires Pentagon approval. The deliveries are funded by European countries, some of which are also storing the missiles in their own arsenals. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53537",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53537",
+      "published_at": "2026-11-24T16:46:47+00:00",
+      "text": "❗️ Kiev continues to strike at energy infrastructure facilities in Russia, despite calls from Trump - Putin. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rian_ru/350399",
+        "https://t.me/voenkorKotenok/78177",
+        "https://t.me/DDGeopolitics/199169"
+      ]
+    },
+    {
+      "id": "AussieCossack/53536",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53536",
+      "published_at": "2026-11-24T16:46:16+00:00",
+      "text": "❗️ Russia's response to Ukrainian strikes on energy infrastructure facilities is inevitable, and everyone should be aware of this – Putin. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53535",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53535",
+      "published_at": "2026-11-24T16:43:29+00:00",
+      "text": "❗️ The EU will have less of our oil and gas, and more problems – Putin on the decisions of European leaders. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199171",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199171",
+      "published_at": "2026-11-24T16:35:51+00:00",
+      "text": "🇺🇦 The Naroführer: Ukraine needs at least €115 billion next year to withstand the war. Ukraine will receive €90 billion next year. We need to find another €25 billion. That is a manageable task. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234545",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234545",
+      "published_at": "2026-11-24T16:19:58+00:00",
+      "text": "Трипольская ТЭС под Киевом после серии ударов. У главного корпуса обрушилась часть наружной стены. Крупная панель накренилась внутрь пролёта, кровли над ней нет, видны деформированные металлические фермы. Кровля обрушилась сверху вниз, воронкой. Это говорит о попадании в кровлю и подрыве внутри зала. На кадрах из машзала видна рыжая от ржавчины кольцевая деталь с радиальными пазами, клиньями и вентиляционными отверстиями. Внешне она очень похожа на торцевую зону статора генератора: нажимную плиту и зубцы с пазовыми клиньями. Если это действительно статор, генератор этого блока фактически потерян. Изготовление нового генератора занимает годы, а ремонтом на месте его не восстановить. Трипольскую ТЭС уже выводили из строя в апреле 2024 года. С тех пор станцию пытались вернуть в строй, а весной 2026-го власти объявили о подготовке к её восстановлению. Нынешние разрушения отбрасывают эти планы: прежде чем ремонтировать турбины, придётся разбирать обрушенный каркас машзала и заново оценивать стоимость работ. @Warhronika",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350399",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350399",
+      "published_at": "2026-11-24T16:15:36+00:00",
+      "text": "Главные новости дня : 🔹 Ответные действия на атаки Киева по объектам ТЭК неизбежны, заявил Путин на совещании по развитию энергетического комплекса. 🔹 Президент обсудил с Совбезом итоги переговоров с Си Цзиньпином и Трампом, сообщил Песков. 🔹 Газ взорвался в пятиэтажке в Кулунде Алтайского края, один человек погиб, двое могут быть под завалами. 🔹 ФСБ предотвратила подрыв синагоги в Кисловодске. 🔹 Госдума утвердила федеральный бюджет на 2027-2029 годы. 🔹 Запись на ЕГЭ-2027 открыли на\" Госуслугах\", 🔹 Создать в России \"Семейный банк отпусков\" предложил депутат Чернышов. 🔹 Комбинация цифр 123456 вновь возглавила рейтинг самых популярных паролей. 🔹 Снегопад начался в Москве - синоптики ждут, что он станет сильнейшим в сезоне. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "moscow",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53537",
+        "https://t.me/voenkorKotenok/78177",
+        "https://t.me/DDGeopolitics/199169"
+      ]
+    },
+    {
+      "id": "tass_agency/407427",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407427",
+      "published_at": "2026-11-24T16:13:49+00:00",
+      "text": "МИД Албании опроверг утверждения о запуске с ее территории дронов для теракта в Ливии. Ранее Украина заявила об ответственности за теракт в порту Бенгази. Заместитель председателя Президентского совета Ливии аль-Куни назвал эти действия равносильными объявлению…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117398",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117398",
+      "published_at": "2026-11-24T16:12:28+00:00",
+      "text": "Владимир Путин: Киев не прекращает удары по объектам ТЭК России, несмотря на призывы Трампа. Ответные действия России на удары ВСУ по объектам ТЭК неизбежны. « Об этом все должны знать », – подчеркнул Президент. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78177",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78177",
+      "published_at": "2026-11-24T16:11:47+00:00",
+      "text": "❗️ Главное из заявлений Президента на совещании по развитию ТЭК и экологической безопасности: — Ключевыми задачами на внутреннем топливном рынке являются обеспечение стабильности поставок и гарантия надежного снабжения топливом; — После пикового значения цены на бензин в РФ стабилизировались; — Защиту объектов ТЭК необходимо усилить; — Противник, несмотря на призывы Трампа, продолжает наносить по ним удары; — Ответные действия России неизбежны , об этом все должны знать; — Эскалационная активность со стороны Киева, в т.ч. так называемый \"План 40 дней\", неспособны нанести России критический ущерб; — Попытки ограничить поставки российского топлива на внешние рынки будут иметь последствия для самих европейцев, в то время как Москва будет и дальше расширять рынки сбыта своих энергоресурсов. Также среди приоритетных направлений, упомянутых Владимиром Путином: 1) Развитие нефтепереработки и нефтехимии на востоке страны; 2) Дальнейшее развитие Трансарктического транспортного коридора; 3) Укрепление сотрудничества с предсказуемыми и ответственными партнерами. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53537",
+        "https://t.me/rian_ru/350399",
+        "https://t.me/DDGeopolitics/199169"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/199170",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199170",
+      "published_at": "2026-11-24T16:10:30+00:00",
+      "text": "🇷🇺 💬 🇪🇺 They will have less oil and gas, and more problems - Putin about the EU 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199169",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199169",
+      "published_at": "2026-11-24T16:08:51+00:00",
+      "text": "🇷🇺 💬 🇺🇦 Kiev continues to strike at energy infrastructure facilities in Russia, despite calls from Trump — Putin. Russia's response to Ukrainian strikes on energy infrastructure facilities is inevitable, and everyone should be aware of this – Putin. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53537",
+        "https://t.me/rian_ru/350399",
+        "https://t.me/voenkorKotenok/78177"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234544",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234544",
+      "published_at": "2026-11-24T16:01:01+00:00",
+      "text": "Сводка Минобороны России о ходе СВО на 24 ноября 2026 г. Подразделения группировки войск «Север» улучшили тактическое положение. Поражены живая сила и техника двух механизированных бригад, двух штурмовых полков ВСУ, бригады теробороны и бригады нацгвардии у Радьково, Гонтаровки, Кирилловки и Колодезного (Харьковская обл.). В Сумской области поражены формирования механизированной и двух аэромобильных бригад ВСУ у Вакаловщины, Битицы, Радьковки, Вакулок и Великой Чернетчины (Сумская обл.). – Потери ВСУ: до 170 военных, 1 БТР, 15 автомобилей, 4 РЭБ-станции. Группировка войск «Запад»: улучшено положение по переднему краю. Поражены механизированная, штурмовая бригады ВСУ, бригада морпехов и бригада теробороны у Гороховатки, Староверовки, Моначиновки, Осадьковки (Харьковская обл.), Райгородка и Маяков (ДНР). – Потери ВСУ: свыше 220 военных, 1 танк, 1 БТР, 8 автомобилей, 1 арторудие, 5 РЭБ-станций. Группировка войск «Юг»: заняты более выгодные рубежи и позиции. Поражены четыре механизированные, две аэромобильные бригады и штурмовой полк ВСУ у Краматорска, Николаевки, Дружковки и Стародубовки (ДНР). – Потери ВСУ: свыше 155 военных, 2 ББМ, 18 автомобилей, 2 арторудия. Группировка войск «Центр»: продолжено ведение активных наступательных действий. Поражены две механизированные, воздушно-десантная, егерская, штурмовая бригады, три штурмовых полка ВСУ, бригада морпехов и три бригады нацгвардии у Веровки, Нововикторовки, Курицыно, Андреевки, Михайловки, Новопавловки, Сергеевки и Калинино (ДНР). – Потери ВСУ: до 335 военных, 5 ББМ, 11 автомобилей, 3 РЭБ-станции. Группировка войск «Восток»: продолжено продвижение в глубину обороны, освобождён н.п. Барвиновка (Запорожская обл.). Поражены две десантно-штурмовые, штурмовая бригады и штурмовой полк ВСУ у Коломийцев, Гавриловки, Зелёной Долины (Днепропетровская обл.), Новотроицкого, Жёлтой Кручи, Весёлого и Счастливого (Запорожская обл.). – Потери ВСУ: свыше 205 военных, 1 БТР, 3 автомобиля. Группировка войск «Днепр»: улучшено положение по переднему краю. Поражены две механизированные бригады ВСУ у Кирово и Преображенки (Запорожская обл.). – Уничтожено: до 25 военных ВСУ, 12 автомобилей, 1 РЭБ-станция. Удары ВКС РФ: оперативно-тактической авиацией, ударными БПЛА, ракетными войсками и артиллерией поражены объекты энергетической и транспортной инфраструктуры, используемые в интересах ВСУ, военные аэродромы, а также пункты временной дислокации украинских формирований и иностранных наёмников в 143 районах. ПВО : сбито 1047 БПЛА самолётного типа.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kharkiv",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
