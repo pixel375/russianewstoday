@@ -1,0 +1,239 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-24T04",
+  "generated_at_utc": "2026-11-24T05:25:36.297787+00:00",
+  "window_start_utc": "2026-11-24T04:00:00+00:00",
+  "window_end_utc": "2026-11-24T05:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 11
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 20,
+    "relevant_posts": 9,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "donbassr/117354",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117354",
+      "published_at": "2026-11-24T04:59:58+00:00",
+      "text": "🟥 День в истории Донбасса 24 ноября 1956 года реабилитирован поэт Яков Овчаренко (Иван Приблудный) – соратник Сергея Есенина и Михаила Булгакова, в 1985 году посмертно принят в члены Союз писателей СССР. ▪️ Будущий «новокрестьянский» поэт родился в селе Безгиново Старобельского уезда на Луганщине. ▪️ Долгое время входил в окружение Сергея Есенина, которому посвятил свой первый сборник стихов «Тополь на камне». ▪️ Был постоянным участником загулов Есенина, что нашло отражение в некоторых есенинских стихотворениях, в частности, «Никогда я не забуду ночи». ▪️ Приблудному приписывается сочинение одного из «канонических» вариантов текста знаменитой песни «Мурка». ▪️ Существует версия, что он послужил Михаилу Булгакову прототипом для создания образа Ивана Бездомного. ▪️ НКВД обвинил Приблудного в участии в контрреволюционной террористической организации поэтов. 13 августа 1937 года осужден и расстрелян. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407308",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407308",
+      "published_at": "2026-11-24T04:59:04+00:00",
+      "text": "Главные новости к этому часу: ▪️ Песков ответил на вопрос об участии Путина в G20. ▪️ Чибис задекларировал доход более чем на 5 млн рублей и дом в Испании. ▪️ Премьеры стран Вишеградской группы раскритиковали проект бюджета ЕС. ▪️ В селе Кулунда на Алтае в пятиэтажном доме произошел взрыв газа, пострадали по меньшей мере 14 человек. ТАСС собрал главное о происшествии. ▪️ Чемезов заявил об отсутствии в России дефицита любых видов вооружений. ▪️ Республика Корея заявила, что самолеты РФ вошли в \"опознавательную зону\" ПВО. ▪️ Перезагрузка отношений РФ и Европы станет \"главным призом\" переговоров по Украине, заявил Кушнер. ▪️ Состояние Хуанга выросло почти на $34 млрд после возвращения в Nvidia, сообщает Forbes. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117352",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117352",
+      "published_at": "2026-11-24T04:35:58+00:00",
+      "text": "ПВО сбила 10 БПЛА ВСУ, летевших на Москву , сообщил мэр столицы Сергей Собянин. Общее число БПЛА, сбитых над регионом с начала суток, достигло 30. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102442",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102442",
+      "published_at": "2026-11-24T04:35:02+00:00",
+      "text": "Еврокомиссия в 22-м пакете санкций против России предложила запретить въезд участникам и ветеранам специальной военной операции .",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53521",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53521",
+      "published_at": "2026-11-24T04:33:59+00:00",
+      "text": "❗️ Ukraine’s Defense Minister Yevhenii Khmara says Russia produces one ballistic missile every five hours and is accelerating. Khmara also cited a surge in jet-powered drones. Russia launched fewer than 300 a month at the start of the year and more than 4,000 in October, he said @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350358",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350358",
+      "published_at": "2026-11-24T04:21:32+00:00",
+      "text": "\"Главный приз\" переговоров по Украине - это перезагрузка отношений России и Европы, считает Кушнер. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407300",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407300",
+      "published_at": "2026-11-24T04:12:04+00:00",
+      "text": "Перезагрузка отношений РФ и Европы станет \"главным призом\" переговоров по украинскому урегулированию, заявил Кушнер в интервью журналу New York Magazine. Он также выразил надежду, что \"существует путь\", при котором \"люди смогут вместе жить и вести бизнес\", а в отношениях \"не будет постоянной агрессии\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234498",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234498",
+      "published_at": "2026-11-24T04:06:01+00:00",
+      "text": "Архивные кадры . Российский боец точным попаданием уничтожает вражескую «птичку» , на одном из участков фронта.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407298",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407298",
+      "published_at": "2026-11-24T04:03:20+00:00",
+      "text": "▶️ Премьер-министр Болгарии Румен Радев мог бы представлять ЕС в случае переговоров с Россией, заявил ТАСС экс-аналитик разведки Корпуса морской пехоты США Скотт Риттер. Видео: ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
