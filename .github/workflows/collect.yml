@@ -53,6 +53,10 @@ jobs:
             fi
             if [ -n "$hour" ]; then args+=(--hour "$hour"); fi
           fi
+          # Resolve the triggering request first, then collect against live main.
+          # Queued runs may otherwise recreate archives from an outdated checkout.
+          git fetch origin main
+          git reset --hard origin/main
           python -m src.hourly "${args[@]}" --repair-recent
       - name: Commit hourly snapshot and archive
         if: ${{ always() }}
@@ -64,7 +68,13 @@ jobs:
             echo "No new completed hour to commit"
           else
             git commit -m "data: collect last completed Telegram hour"
-            git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
+            # Retry only the Git push, never collection or Telegram delivery.
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; exit 1; }
+              if git push origin HEAD:main; then exit 0; fi
+              sleep "$attempt"
+            done
+            echo "::error::Unable to persist committed pipeline data after three push attempts"
+            exit 1
           fi

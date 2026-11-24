@@ -147,6 +147,9 @@ def main() -> None:
         archive = args.root / "data/hourly" / (key + ".json")
         if archive.exists():
             LOG.info("Already collected %s", key)
+            # Repair a missing or lagging latest pointer from the immutable archive.
+            existing = json.loads(archive.read_text(encoding="utf-8"))
+            write_snapshot(existing, args.root)
             continue
         try:
             result = collect_hour(config, now=datetime.now(timezone.utc), hour_id=key)

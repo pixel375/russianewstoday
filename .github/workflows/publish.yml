@@ -85,7 +85,13 @@ jobs:
             echo "No new published receipts"
           else
             git commit -m "data: log Telegram brief publication"
-            git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
+            # Retry only the Git push, never collection or Telegram delivery.
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; exit 1; }
+              if git push origin HEAD:main; then exit 0; fi
+              sleep "$attempt"
+            done
+            echo "::error::Unable to persist committed pipeline data after three push attempts"
+            exit 1
           fi

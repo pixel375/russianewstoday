@@ -5,6 +5,7 @@ from tempfile import TemporaryDirectory
 from unittest import TestCase
 from unittest.mock import patch
 from src.hourly import collect_hour, hour_start, write_snapshot, health_report
+from src.publish_v2 import validate_hourly, render_hourly
 
 class RecoveryTests(TestCase):
     def test_explicit_hour(self):
@@ -27,3 +28,41 @@ class RecoveryTests(TestCase):
             report = health_report(root, datetime(2026, 11, 24, 23, 5, tzinfo=timezone.utc))
             self.assertEqual(report["hours"][0]["status"], "awaiting_summary")
             self.assertEqual(report["hours"][2]["status"], "missing_snapshot")
+
+    def test_repair_latest_without_rewriting_archive(self):
+        with TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            snapshot = {"hour_id": "2026-11-24T22", "posts": []}
+            latest, archive = write_snapshot(snapshot, root)
+            original = archive.read_bytes()
+            latest.unlink()
+            write_snapshot(snapshot, root)
+            self.assertEqual(latest.read_bytes(), original)
+            self.assertEqual(archive.read_bytes(), original)
+
+    def test_delayed_brief_bounded_and_labeled(self):
+        with TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            key = "2026-11-24T20"
+            stamp = "2026-11-24T21:05:00+00:00"
+            snapshot = {"hour_id": key, "generated_at_utc": stamp,
+                        "window_start_utc": "2026-11-24T20:00:00+00:00",
+                        "window_end_utc": "2026-11-24T21:00:00+00:00",
+                        "posts": [{"url": "https://t.me/example/1"}]}
+            write_snapshot(snapshot, root)
+            path = Path("outbox/hourly") / (key + ".json")
+            (root / path).parent.mkdir(parents=True)
+            digest = {"type": "hourly", "hour_id": key, "snapshot_generated_at_utc": stamp,
+                      "late_recovery": True, "items": [{"title": "Diplomatic meeting planned",
+                      "summary": "Officials discussed preparations for a diplomatic meeting.",
+                      "source_urls": ["https://t.me/example/1"]}]}
+            (root / path).write_text(json.dumps(digest))
+            now = datetime(2026, 11, 24, 23, 25, tzinfo=timezone.utc)
+            valid, source = validate_hourly(path, root, now)
+            self.assertIn("delayed hourly brief", render_hourly(valid, source)[0][0])
+            with self.assertRaises(ValueError):
+                validate_hourly(path, root, datetime(2026, 11, 25, 0, 1, tzinfo=timezone.utc))
+            digest.pop("late_recovery")
+            (root / path).write_text(json.dumps(digest))
+            with self.assertRaises(ValueError):
+                validate_hourly(path, root, now)
