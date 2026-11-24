@@ -1,0 +1,229 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-24T21",
+  "generated_at_utc": "2026-11-24T22:48:43.892842+00:00",
+  "window_start_utc": "2026-11-24T21:00:00+00:00",
+  "window_end_utc": "2026-11-24T22:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 13,
+    "relevant_posts": 8,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
+  },
+  "posts": [
+    {
+      "id": "voenkorKotenok/78189",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78189",
+      "published_at": "2026-11-24T21:59:48+00:00",
+      "text": "Противник снова пытается атаковать российские регионы при помощи БпЛА. В аэропортах Самары и Ульяновска введены временные ограничения. В столичном регионе пока тихо. Массовых запусков в направлении Москвы не фиксируется. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350412",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350412",
+      "published_at": "2026-11-24T21:51:41+00:00",
+      "text": "Мошенники начали предлагать россиянам зимнюю резину со скидкой 40%, предупреждают эксперты. Жулики указывают в объявлении, что активировать скидку можно только при полной предоплате, а после получения средств пропадают и блокируют все контакты. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98570",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98570",
+      "published_at": "2026-11-24T21:51:09+00:00",
+      "text": "🚨 🇪🇺 🇷🇺 🇺🇦 The EU’s €90 billion Ukraine Support Loan was created to finance Ukraine’s military and government needs across 2026–2027 after EU countries failed to agree on directly using frozen Russian assets to fund a reparations loan. The EU instead borrows from capital markets, with the EU budget backing the debt and covering financing costs. The €90 billion loan is divided into €60 billion for defence and €30 billion for budget support, with €45 billion allocated for each year. 🇨🇿 🇭🇺 🇸🇰 Czechia, Hungary, and Slovakia opted out of the loan’s enhanced-cooperation financing arrangement, leaving 24 EU countries participating. The three countries are excluded from the debt-service and guarantee costs of this specific loan, while participating countries' exposure runs through the EU budget and financing structure. Ukraine is expected to repay the loan’s principal only after receiving war reparations from Russia. If Russia never pays, Ukraine is not automatically required to repay the principal from its own budget, but the EU still has to repay bond investors; the EU budget guarantee and participating countries' financing arrangements carry the risk. €8 billion in total windfall profits has been generated by frozen Russian Central Bank assets, with €3.8 billion transferred to Ukraine and another €4.2 billion used or set aside to repay EU–G7 loans supporting Ukraine. The underlying Russian assets remain frozen. The central risk is that Ukraine’s repayment of the loan principal depends on future reparations, while the EU’s debt to bond investors remains an obligation. If reparations never arrive, the EU must still meet its borrowing obligations through the EU-level budget and guarantee structure. Follow: @BreakingGlobalHQ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407447",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407447",
+      "published_at": "2026-11-24T21:49:01+00:00",
+      "text": "Киев планирует ужесточить мобилизацию на Украине из-за больших потерь на фронте. Сотрудникам ТЦК могут дать расширенные полномочия на восполнение живой силы в войсках, сообщили ТАСС в российских силовых структурах.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407446",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407446",
+      "published_at": "2026-11-24T21:42:01+00:00",
+      "text": "Пентагон задерживает поставки ракет Patriot на Украину, сообщает FT со ссылкой на источники. Около 60 ракет-перехватчиков, которые США ранее согласились поставить Украине, в том числе из европейских арсеналов, по-прежнему ожидают одобрения ведомства. Поставку…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78185",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78185",
+      "published_at": "2026-11-24T21:23:24+00:00",
+      "text": "ВКС нанесли удар ФАБами с УМПК по целям в районе н.п. Арцыз Одесской области. Разрушения и пожар. ВКС нанесли удар ФАБами с УМПК по целям в районе н.п. Арцыз Одесской области. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199205",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199205",
+      "published_at": "2026-11-24T21:22:51+00:00",
+      "text": "🇺🇦 A fire broke out on the lower floor of a 16-story building in the Shevchenkivskyi district of Kiev after debris from a “Shahed” drone fell into the courtyard. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234578",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234578",
+      "published_at": "2026-11-24T21:01:01+00:00",
+      "text": "Расчет РУК «Ланцет» за год уничтожил семь комплексов «Бук» ВСУ Расчет РУК «Ланцет» новороссийских десантников уничтожил семь зенитных ракетных комплексов противника за год в Запорожской области. Как отмечают бойцы, ВСУ выдали сами себя. Воздушная разведка обнаружила характерные следы тяжелой техники и вышла по ним на замаскированную в лесополосе позицию украинского ЗРК «Бук». В направлении цели тут же был запущен барражирующий боеприпас «Ланцет» с интеллектуальной системой наведения и распознавания целей ИРРА. В дальнейшем в районе одного из населённых пунктов Запорожья обнаружили ещё один ЗРК противника — его поразили вторым пуском. Через несколько дней, работая в окрестностях Запорожья, оператор «Ланцета» заметил ещё один замаскированный в лесополосе ЗРК и поразил его. «В режиме свободной охоты мы засекли запуски ракет с территории противника и выдвинулись туда, отработали по ЗРК. Мы уничтожили семь ЗРК „Бук“ и хорошо проредили ПВО противника», — рассказал командир отделения с позывным Бурсак. Подробнее – в репортаже ТК «Звезда» @ZalaAero",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

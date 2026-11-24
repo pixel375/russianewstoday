@@ -1,0 +1,229 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-24T19",
+  "generated_at_utc": "2026-11-24T22:48:47.978423+00:00",
+  "window_start_utc": "2026-11-24T19:00:00+00:00",
+  "window_end_utc": "2026-11-24T20:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 2,
+      "raw_count": 5
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 1
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 23,
+    "relevant_posts": 8,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407442",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407442",
+      "published_at": "2026-11-24T19:56:01+00:00",
+      "text": "Россия не собирается атаковать оборонные компании Великобритании, поставляющие военную технику Украине, сообщили в посольстве РФ в Лондоне. Ранее британская служба разведки MI5 совместно с Минобороны страны выпустила сообщение, в котором призвала компании, поставляющие продукцию на Украину, готовиться к возможным диверсиям. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234568",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234568",
+      "published_at": "2026-11-24T19:41:01+00:00",
+      "text": "Ответ России на действия НАТО может последовать не сразу, а через несколько дней, считает Борис Рожин По словам военного эксперта, общественный запрос на конкретные действия в ответ на атаки и угрозы со стороны альянса вполне закономерен. \"Вся практика войны показывает, что у нас с ответами на ответы обычно не торопятся — 2–4 дня, иногда и до недели\", — отметил Рожин, уточнив, что Кремль или Генштаб не будут объяснять, какие это могут быть действия. 👉 Полный выпуск смотрите в ВК и RUTUBE 📌 Подписаться на Радио Sputnik в МАКС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30772",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30772",
+      "published_at": "2026-11-24T19:35:23+00:00",
+      "text": "📆 Top News Today 🚩 Onslaught hits the nail on the head: the Vostok Group's units have liberated the settlement of Barvinovka (Zaporozhye region). 💥 Breaking rears: delivered strikes at power and fuel infrastructure facilities, as well as vessels used in the interests of the AFU. ✈️ Following strategic course: Tu-160 aircraft crews performed a planned flight over the neutral waters of the Sea of Japan. ⚔️ Striking sentence : the Grad MLRS crews of the 27th Guards Motorised Rifle Division (Tsentr Group of Forces) delivered strikes in cooperation with scouts and UAV operators at the AFU positions. 🚫 Uninvited guests aren't welcome here : the Vostok Group's T-80BV tank crews neutralised a sabotage and reconnaissance group of the enemy. 🔥 Blinded and destroyed: artillerymen defeated AFU strongholds and UAV control post in Zaporozhye region and Donetsk People's Republic. #TopNews 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199194",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199194",
+      "published_at": "2026-11-24T19:34:24+00:00",
+      "text": "🇺🇦 Former AFU prisoners of war are being denied medical treatment in Ukraine Former Ukrainian servicemen who have returned to Ukraine are reportedly facing a harsh reality: instead of the promised honours and rehabilitation, they are being denied medical care and subjected to demands for money. Relatives of AFU servicemen have been sharing these allegations on social media. According to their accounts, military medical staff are ignoring the health problems of former prisoners of war. Some are allegedly being refused treatment and pressured into signing new military contracts, forcing them to return to the front with untreated injuries. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234566",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234566",
+      "published_at": "2026-11-24T19:21:01+00:00",
+      "text": "Работа 50-й отдельной бригады \"Варяг\" на Славянском тактическом направлении. Варяги наносят огневое поражение 3-му армейскому корпусу ВСУ. Операторы БПЛА «Варяги» продолжают наносить точные удары FPV-дронами. Огневое воздействие не прекращается ни в тылу, ни на передовой: противник не получает подкрепления и не может пополнить ресурсы. Всё это серьёзно осложняет положение военнослужащих ВСУ, участвующих в операции «Вивальди», которая несёт всё больше потерь в технике и личном составе. @Brigada_VARYAG",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98552",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98552",
+      "published_at": "2026-11-24T19:09:20+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡ Russian forces struck power substations in Vinnitsa, the Chernigov and Rovno Regions that supplied electricity to Ukraine’s military-industrial sector, the Defense Ministry reported. Russian forces also struck a vessel southwest of Odessa in the Black Sea carrying dual-use cargo intended for the Ukrainian army, the ministry reported. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19810",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19810",
+      "published_at": "2026-11-24T19:08:45+00:00",
+      "text": "JUST IN: 🇬🇧 🇺🇦 Former UK Prime Minister Boris Johnson calls for European troops to enter Ukraine immediately. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98550",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98550",
+      "published_at": "2026-11-24T19:04:14+00:00",
+      "text": "🇷🇺 🇺🇦 🇺🇸 ⚡ Kiev does not stop striking Russian fuel and energy sector facilities, despite Trump's calls — Putin. Russia's retaliatory actions to Ukrainian Armed Forces strikes on fuel and energy sector facilities are inevitable, \"everyone should know this,\" he added. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
