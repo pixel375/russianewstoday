@@ -1,27 +1,27 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-23T22",
-  "generated_at_utc": "2026-11-23T23:25:36.706051+00:00",
-  "window_start_utc": "2026-11-23T22:00:00+00:00",
-  "window_end_utc": "2026-11-23T23:00:00+00:00",
+  "hour_id": "2026-11-23T23",
+  "generated_at_utc": "2026-11-24T00:25:27.190808+00:00",
+  "window_start_utc": "2026-11-23T23:00:00+00:00",
+  "window_end_utc": "2026-11-24T00:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
@@ -33,7 +33,7 @@
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "mod_russia_en",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 3
     },
     {
       "handle": "rian_ru",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "nab_ukraine",
@@ -105,53 +105,34 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 14,
-    "relevant_posts": 3,
-    "deduplicated_posts": 3,
-    "candidate_posts": 3
+    "raw_posts": 11,
+    "relevant_posts": 2,
+    "deduplicated_posts": 2,
+    "candidate_posts": 2
   },
   "posts": [
     {
-      "id": "voenkorKotenok/78140",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78140",
-      "published_at": "2026-11-23T22:54:44+00:00",
-      "text": "У поляков опять переполох. Над восточными районами была объявлена воздушная тревога. Заявляется, что в воздушное пространство страны залетел некий дрон, который затем, прокружив около восьми минут, пересек границу с Украиной. Подпишись в MAX @voenkorKotenok",
+      "id": "DDGeopolitics/199088",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199088",
+      "published_at": "2026-11-23T23:37:48+00:00",
+      "text": "#SupportDonbass 🟥 The history of Donbass from 2014 to 2022 in one minute 🇬🇧 British-born blogger Nick Darlison , who moved to Russia, gave a brief account of the history of the Ukrainian conflict for an international audience. Russia is not the aggressor. 8 years - that's how long conflict was already part of life in Donbass before 2022. <...> When I talk about Donbass, I'm talking about people who have endured war for almost 12 years, Darlison said. 🇷🇺 Subscribe | Feedback | X | TikTok",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199084",
+      "id": "DDGeopolitics/199087",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199084",
-      "published_at": "2026-11-23T22:50:49+00:00",
-      "text": "🇦🇱 🇱🇾 🇺🇦 The Albanian Foreign Ministry denied claims that drones were launched from its territory for a terrorist attack in Libya. The Albania claim was first spread by Clash Report, an Istanbul-based news account reportedly run by a media company tied to Turkish government-aligned outlets. Turkey backs the Tripoli-based government, a rival of the authorities in Benghazi. Earlier, Ukraine claimed responsibility for the terrorist attack at the port of Benghazi. Deputy Chairman of the Presidential Council of Libya al-Kuni called these actions equivalent to a declaration of war on the Libyan state. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199087",
+      "published_at": "2026-11-23T23:19:04+00:00",
+      "text": "🇺🇦 ⚰️ The inevitable end of another darling/carrier of EU values. Very sad. Project Ukraine continues - to the last Wolfsangel. @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199083",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199083",
-      "published_at": "2026-11-23T22:46:00+00:00",
-      "text": "🇵🇱 🇺🇦 The drone that flew into Poland, then turned and flew back to Volyn, Ukrainian monitoring channels report. According to the channels, Polish military tried to intercept the drone while it was in Polish airspace but failed. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
