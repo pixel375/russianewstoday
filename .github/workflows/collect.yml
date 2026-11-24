@@ -34,14 +34,28 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 2
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - name: Install dependencies
         run: python -m pip install -r requirements.txt
-      - name: Collect previous complete hour
-        run: python -m src.hourly
+      - name: Collect exact requested hour and recent missing windows
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        shell: bash
+        run: |
+          args=()
+          if [ "$EVENT_NAME" = push ]; then
+            hour="$(python -c 'import json,os; e=json.load(open(os.environ["GITHUB_EVENT_PATH"])); files=[f for c in e.get("commits",[]) for f in c.get("added",[])+c.get("modified",[])]; print(json.load(open("triggers/hourly.json"))["hour_id"] if "triggers/hourly.json" in files else "")')"
+            if [ -z "$hour" ] && git diff-tree --no-commit-id --name-only -r HEAD | grep -qx triggers/hourly.json; then
+              hour="$(python -c 'import json; print(json.load(open("triggers/hourly.json"))["hour_id"])')"
+            fi
+            if [ -n "$hour" ]; then args+=(--hour "$hour"); fi
+          fi
+          python -m src.hourly "${args[@]}" --repair-recent
       - name: Commit hourly snapshot and archive
+        if: ${{ always() }}
         run: |
           git config user.name "russianewstoday-collector"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

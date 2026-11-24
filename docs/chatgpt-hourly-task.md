@@ -1,23 +1,17 @@
 # ChatGPT hourly summarization task
 
-Read pixel375/russianewstoday/data/hourly/latest.json from main.
-
-The snapshot must cover the most recently completed UTC hour exactly:
-hour_id is YYYY-MM-DDTHH (UTC start); window_end_utc is the start of the
-current UTC hour; generated_at_utc must be no more than 45 minutes old.
-If missing or stale, first use the GitHub tools to request ONE recovery
-collection: check triggers/hourly.json, and create/update it on main with
-{"hour_id":"<required previous UTC hour>","requested_at_utc":"<current UTC ISO time>","reason":"stale_snapshot_recovery"}
-only if that exact hour has not already been requested. That monitored
-file triggers the collection workflow on push. Check the resulting GitHub
-Actions collector run, waiting until it COMPLETES, and reread the latest
-snapshot. The collector normally needs 5–20 seconds after triggering.
-IMPORTANT: do not stop after only 1–3 rapid polls; continue checking
-the actual job state and refreshed snapshot for up to roughly 60 seconds.
-A previous ChatGPT task stopped only 2 seconds before the collector
-finished, causing an avoidable missed hourly brief. Only if the job
-fails or the snapshot still cannot be verified after recovery should
-you STOP without creating an outbox file. Do not reuse stale news.
+Read the exact archive data/hourly/H.json on main, not latest.json.
+H is the most recently completed UTC hour. A separate trigger requests collection.
+Do not poll Actions or wait for collection. If H is missing, request it once if
+no trigger for H exists, then consider an earlier unhandled window within the
+last three completed hours. Check exact UTC boundaries and generation time.
+For late recovery use the original archive with "late_recovery": true only
+when window end and generation time are both less than three hours old.
+Never relabel an older window as current. Check outbox, published receipt
+and status/hourly/H.json before writing. If no eligible stories remain,
+create status/hourly/H.json with hour_id, snapshot_generated_at_utc and
+status "no_eligible_stories". Current hour takes priority; at most one
+additional late hour per run in a separate commit. Avoid cross-hour duplicates.
 
 Include consequential news about the Russia–Ukraine war AND clearly
 war-adjacent developments: Ukrainian government accountability and
@@ -101,8 +95,8 @@ In INTERNAL JSON only, source_urls must contain 1–4 EXACT post URLs
 from the hourly source snapshot (posts.url or posts.related_urls). The
 publisher validates them but does not display them.
 
-Check outbox/hourly/<hour_id>.json and published/hourly/<hour_id>.json
-for duplicates before writing. Commit ONLY a new file at
+Check outbox/hourly/<hour_id>.json, published/hourly/<hour_id>.json and status/hourly/<hour_id>.json
+for duplicates before writing. Commit a new file at
 outbox/hourly/<hour_id>.json on main with this format:
 
 {

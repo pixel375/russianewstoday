@@ -82,8 +82,15 @@ def validate_hourly(path: Path, root: Path, now: datetime) -> tuple[dict, dict]:
         raise ValueError("Hourly type/hour ID mismatch")
     if snapshot.get("hour_id") != hour_id or digest.get("snapshot_generated_at_utc") != snapshot.get("generated_at_utc"):
         raise ValueError("Hourly digest must reference the exact archived snapshot")
-    if not 0 <= (now - utc(snapshot["generated_at_utc"])).total_seconds() < 2 * 3600:
+    age = (now - utc(snapshot["generated_at_utc"])).total_seconds()
+    window_age = (now - utc(snapshot["window_end_utc"])).total_seconds()
+    late = digest.get("late_recovery") is True
+    if not 0 <= age < (3 if late else 2) * 3600:
         raise ValueError("Hourly source archive is stale or from the future")
+    if not 0 <= window_age < 3 * 3600:
+        raise ValueError("Hourly window is too old or incomplete")
+    if utc(snapshot["generated_at_utc"]) < utc(snapshot["window_end_utc"]):
+        raise ValueError("Snapshot predates the completed window")
     if utc(snapshot["window_end_utc"]) - utc(snapshot["window_start_utc"]) != timedelta(hours=1):
         raise ValueError("Source snapshot is not an exact one-hour window")
     if utc(snapshot["window_start_utc"]).strftime("%Y-%m-%dT%H") != hour_id:
@@ -165,7 +172,7 @@ def split_entries(header: str, continuation: str, entries: list[str]) -> tuple[l
 
 def render_hourly(digest: dict, snapshot: dict) -> tuple[list[str], list[int]]:
     end = utc(snapshot["window_end_utc"]).strftime("%Y-%m-%d %H:%M UTC")
-    header = "🇷🇺🇺🇦 <b>Russia–Ukraine War | Hourly Brief</b>\n" + end + " · previous hour\n"
+    header = "🇷🇺🇺🇦 <b>Russia–Ukraine War | Hourly Brief</b>\n" + end + (" · delayed hourly brief" if digest.get("late_recovery") is True else " · previous hour") + "\n"
     more = "🇷🇺🇺🇦 <b>Russia–Ukraine War | Hourly Brief (continued)</b>\n" + end + "\n"
     entries = []
     for item in digest["items"]:
