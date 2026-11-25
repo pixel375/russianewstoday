@@ -1,39 +1,39 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-24T22",
-  "generated_at_utc": "2026-11-24T23:05:29.170557+00:00",
-  "window_start_utc": "2026-11-24T22:00:00+00:00",
-  "window_end_utc": "2026-11-24T23:00:00+00:00",
+  "hour_id": "2026-11-24T23",
+  "generated_at_utc": "2026-11-25T00:05:24.034125+00:00",
+  "window_start_utc": "2026-11-24T23:00:00+00:00",
+  "window_end_utc": "2026-11-25T00:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
@@ -51,7 +51,7 @@
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 4
     },
     {
       "handle": "nab_ukraine",
@@ -105,53 +105,51 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 13,
+    "raw_posts": 10,
     "relevant_posts": 3,
     "deduplicated_posts": 3,
     "candidate_posts": 3
   },
   "posts": [
     {
-      "id": "intelslava/98572",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98572",
-      "published_at": "2026-11-24T22:47:01+00:00",
-      "text": "🇺🇦 🇺🇸 ⚡️ — Zelensky says US Secretary of War Pete Hegseth has not yet approved a new arms package for Ukraine, including 48 anti-ballistic missiles. Ukraine also expects missiles for F-16s and NASAMS systems. @IntelSlava",
+      "id": "AussieCossack/53542",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53542",
+      "published_at": "2026-11-24T23:43:49+00:00",
+      "text": "❗️ Belarusian President Alexander Lukashenko, a close ally of Russian leader Vladimir Putin, proposed in an interview published on Tuesday that he and Zelensky fly together to ​Moscow for Kremlin talks to end the war in Ukraine. Lukashenko, who allowed Putin to ‌use his country's territory for the February 2022 SMO, also told the French media outlet Le Point that he believed Russian forces were winning on the battlefield. \"Volodya Zelensky and I could simply go and fly to Moscow. The two of us. As a ​guarantor of his safety, I could sit with him and fly to Moscow,\" Lukashenko said in ​comments reported by Belarus' state Belta news agency. Zelensky responded by rejecting Lukashenko's proposal. PS. Clearly, Zelensky does not want the war to end. The end of war = the end of Zelensky. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "missile"
+        "moscow"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407449",
+      "id": "tass_agency/407452",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407449",
-      "published_at": "2026-11-24T22:44:01+00:00",
-      "text": "Госдеп предостерег американцев от посещения Украины и отметил, что мужчин с двойным гражданством могут не выпустить из этой страны и призвать на военную службу. В уведомлении отмечается, что \"удары с применением ракет и беспилотников\" имеют место \"во всех частях Украины\" и \"в любое время\", иногда без предварительного уведомления. Передвижения сотрудников посольства США по стране ограничены.",
+      "url": "https://t.me/tass_agency/407452",
+      "published_at": "2026-11-24T23:15:01+00:00",
+      "text": "\"Это может стать бомбой, которая взорвется у наших дверей\". Вице-премьер Италии Сальвини обеспокоен атаками Украины в Ливии: \"Я лично крайне обеспокоен этой эскалацией, о которой сообщает Зеленский, в то время как нас просят направить больше помощи\".",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "missile",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199206",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199206",
-      "published_at": "2026-11-24T22:04:08+00:00",
-      "text": "🇺🇦 Kiev plans to tighten mobilization in Ukraine due to heavy losses on the front. TCC employees may be granted expanded powers to replenish manpower TASS was told by Russian security services. 🔴 @DDGeopolitics",
+      "id": "voenkorKotenok/78191",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78191",
+      "published_at": "2026-11-24T23:05:30+00:00",
+      "text": "Случай в Одессе. Молодой человек с девушкой решили расслабиться в машине на заднем сидении. И вдруг в машину ворвались они — звери из ТЦК. Били ногами, прыскали гадостью прямо в лицо. Человек орал (на русском, между прочим!): — Меня убивают! Вера! Звони дяде Андрею! Мне плохо! Не бейте! Я покажу документы! Куда там! Ногами в голову. Как будто дядя Андрей мог помочь в ту минуту… ...В России всё-таки слабо представляют себе, что такое ТЦК, которых на Украине прозвали людоловами. Что-то созвучное людоедам, голодомору, смерти… Это такие же убийцы, только трусливее тех, кто на фронте. Эти отсиживаются в тылу, но ловят других, чтобы отправить на смерть других. Безжалостные крысы... Позорнее и пакостнее работёнки на белом свете отыскать труднее. Мрази конченные. Палачи на фоне их выглядят благороднее… Это Украина, детка. Украина, которую захватила мразь. И эту мразь уговаривают уйти из Донбасса и завершить дело миром. Не уйдёт, и мира не будет. Так что, выбор невелик — или мразь, или русские. Больше унять эту мразь некому… И никакое перемирие дело не решит, а только оттянет мучения доверчивых славян, которые сами себя отдали в рабство и продали своих детей на мясо. Жуткая судьба недогосударства и его обитателей... Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "mobilization"
+        "odesa"
       ],
       "possible_duplicate_urls": []
     }
