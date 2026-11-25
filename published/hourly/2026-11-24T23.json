@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    193
+  ],
+  "published_at_utc": "2026-11-25T00:28:00.238480+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-24T23",
+  "items": [
+    {
+      "item_id": "2026-11-24T23:1",
+      "title": "Italy's Salvini voices concern over Ukrainian operations in Libya",
+      "summary": "Italian Deputy Prime Minister Matteo Salvini expressed concern about the escalation of Ukrainian operations in Libya, warning of potential repercussions close to Italy while Rome faces requests for additional aid to Ukraine.",
+      "post_url": "https://t.me/russianewstodayofficial/193",
+      "category": "other",
+      "hour_id": "2026-11-24T23",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-24T23:2",
+      "title": "Alleged assault by Ukrainian recruitment officers in Odesa",
+      "summary": "A Russian military commentator alleged that Ukrainian military recruitment personnel assaulted a man inside a car in Odesa. The account has not been independently confirmed.",
+      "post_url": "https://t.me/russianewstodayofficial/193",
+      "category": "other",
+      "hour_id": "2026-11-24T23",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
