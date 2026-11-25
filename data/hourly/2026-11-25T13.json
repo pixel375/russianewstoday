@@ -1,0 +1,600 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-25T13",
+  "generated_at_utc": "2026-11-25T14:03:26.885663+00:00",
+  "window_start_utc": "2026-11-25T13:00:00+00:00",
+  "window_end_utc": "2026-11-25T14:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 13
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 38,
+    "relevant_posts": 18,
+    "editorial_pool_posts": 38,
+    "retained_without_keyword_match": 20,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 36,
+    "candidate_posts": 36
+  },
+  "posts": [
+    {
+      "id": "rian_ru/350444",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350444",
+      "published_at": "2026-11-25T13:56:59+00:00",
+      "text": "❗️ Чибиса арестовали на два месяца по делу о хищениях. Его обвинили в растрате и взяточничестве. UPD: временно исполнять обязанности главы Мурманской области будет замгубернатора Аксенова 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407584",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407584",
+      "published_at": "2026-11-25T13:52:58+00:00",
+      "text": "❕ Губернатору Мурманской области Чибису предъявлено обвинение в двух эпизодах растраты и в получении взятки, сообщили в суде. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78213",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78213",
+      "published_at": "2026-11-25T13:51:23+00:00",
+      "text": "В селе Грушевка (Волоконовский округа Белгородской область) украинский FPV-дрон ударил по гражданскому автомобилю. Водитель погиб на месте. Еще девять человек ранены в результате атак ВСУ по приграничным населенным пунктам. Среди них — младенец и беременная женщина. Врачи оперативно оказали ей помощь, но, несмотря на оказанную помощь, сохранить ребенка не удалось. В данный момент атаки продолжаются. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117444",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117444",
+      "published_at": "2026-11-25T13:47:17+00:00",
+      "text": "Сейчас идет процесс согласования порядка компенсации людям, чьи автомобили пострадали или были утрачены в результате украинской агрессии, – сообщил министр труда и соцполитики ДНР Алексей Исаев. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234650",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234650",
+      "published_at": "2026-11-25T13:43:36+00:00",
+      "text": "В Житомирской области уничтожено предприятие, которое занимались изготовлением бумаги для печати гривны на Украине. Также были повреждения других объектов и стоянки грузовиков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102515",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102515",
+      "published_at": "2026-11-25T13:43:09+00:00",
+      "text": "Заместитель Председателя Правительства Российской Федерации Александр Новак: «Ситуация на рынке топлива в России оценивается как напряженнаяиз-за ремонтов НПЗ. Власти делают все возможное для обеспечения внутреннего рынка, в том числе за счет поставок из ближнего и дальнего зарубежья». ✨ Тремя месяцами ранее Новак, на вопрос журналистов нужна ли российским НПЗ защита по аналогии с ОАЭ (где вокруг резервуаров строят высокие металлические каркасы и сетки, похожие на строительные леса) заявил : « Поверьте, у нас не хуже, а может быть, даже и лучше с учетом опыта, который получили за последние несколько месяцев. Наши проектные институты вместе с нефтеперерабатывающими заводами очень плотно работают по защите объектов, и уровень, на мой взгляд, гораздо лучше, потому что рассчитывается исходя из более жесткой модели угроз ».​ Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407583",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407583",
+      "published_at": "2026-11-25T13:42:01+00:00",
+      "text": "▶️ Мужчину обвинили в покушении на теракт в Саратовской области, сообщили в СК РФ. Он попытался поджечь полицейскую машину, но был задержан. Злоумышленник признался в содеянном. Видео: СК России/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234649",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234649",
+      "published_at": "2026-11-25T13:40:15+00:00",
+      "text": "В Китае запустили пилотируемый корабль «Шэньчжоу-24» с двумя тайконавтами и космонавтом из Пакистана: «Ракета «Чанчжэн-2F» стартовала с космодрома Цзюцюань в 03:18 мск. Примерно через 10 минут корабль вышел на заданную орбиту, экипаж чувствует себя хорошо. В программе миссии — научные эксперименты, в том числе совместные проекты Китая и Пакистана в области биотехнологий и материаловедения» @dimsmirnov175",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199262",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199262",
+      "published_at": "2026-11-25T13:35:14+00:00",
+      "text": "🇷🇺 🇺🇦 Ukrainian Terror drone attacks on Russia’s Belgorod Region leave one dead and nine injured, including a one-year-old child A man was killed and nine people injured in a series of Ukrainian drone attacks across the Belgorod Region, according to the regional operational headquarters. The reported incidents include: Grushevka: An FPV drone struck a passenger car, killing a man at the scene. Malomikhailovka: Three people were injured in an attack, including a one-year-old child. Shebekino: Three residents were injured when a minibus came under attack. Novaya Tavolzhanka: One man was wounded. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407582",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407582",
+      "published_at": "2026-11-25T13:34:01+00:00",
+      "text": "Польша попросила НАТО изучить возможность сбивать ракеты, которые направляются в сторону границы альянса со стороны Украины, пишет Bloomberg. Стороны не обсуждали детально, каким должен быть ответ НАТО. Для уничтожения ракет альянсу может потребоваться доступ к воздушному пространству Украины и согласие на это Киева. Однако любой шаг в этом направлении потребовал бы единогласия, а его среди союзников по НАТО нет, отмечает агентство. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199261",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199261",
+      "published_at": "2026-11-25T13:32:21+00:00",
+      "text": "🇺🇦 KAB Strike in Zaporozhye 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38627",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38627",
+      "published_at": "2026-11-25T13:31:01+00:00",
+      "text": "Япония продвинулась еще дальше в разработке электромагнитного оружия Японские разработчики продвинулись ещё на один шаг в создании боевого рельсотрона – электромагнитной пушки, которая вместо порохового заряда использует электромагнитную силу для разгона снарядов до гиперзвуковых скоростей. Агентство ATLA сообщило об успешных испытаниях экспериментальной установки, которой удалось произвести десять последовательных выстрелов с интервалом в десять секунд. Главной особенностью испытаний стало применение новой системы энергоснабжения на основе литий-титанатных аккумуляторов и высоковольтных конденсаторов. Литий-титанатные (LTO) – это разновидность литий-ионных аккумуляторов, в которых в аноде используется титанат лития. Они отличаются высокой скоростью зарядки, способны выдерживать большое количество циклов заряда-разряда и высокие токовые нагрузки. Это ещё не полноценная боевая установка: испытания проводились на уменьшенном 16-мм образце, отдельно от корабельного прототипа , который ранее проходил морские испытания на борту JS Asuka. При этом остаётся и другая серьёзная проблема – износ направляющих рельсов при прохождении мощного электрического импульса и движении снаряда. На предыдущем этапе японцам удалось добиться ресурса в 200 выстрелов, что явно недостаточно для боевой системы, однако дальнейшее увеличение долговечности установки остаётся одной из главных задач. Тем не менее японцы последовательно решают основные инженерные проблемы рельсотронов. Впереди ещё немало работы, но технология, которая совсем недавно казалась фантастикой, постепенно приобретает вполне реальные очертания. Япония несомненно остаётся родиной всего самого странного и необычного. Но именно здесь фантастические технологии порой начинают воплощаться в жизнь. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98586",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98586",
+      "published_at": "2026-11-25T13:29:38+00:00",
+      "text": "🇮🇷 ⚡️ — The IRGC released footage showing vessels engulfed in flames after attempting to transit an unauthorized route through the Strait of Hormuz. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407581",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407581",
+      "published_at": "2026-11-25T13:29:01+00:00",
+      "text": "Говорить о сроках восстановления автомобильной части Крымского моста пока преждевременно, ведется обследование, сообщил министр транспорта РФ Ядров. Он добавил, что сейчас грузовое сообщение между Краснодарским краем и Крымом сохранено в прежнем объеме, а…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199260",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199260",
+      "published_at": "2026-11-25T13:28:55+00:00",
+      "text": "🇷🇺 🇺🇦 🇺🇸 Ukraine has effectively abandoned its efforts to force Spotify, Apple Music and YouTube to ban Russian music, acknowledging that “Ukrainian legislation does not apply to foreign corporations.” The country’s language ombudsman, Elena Ivanovskaya, said that she and National Council Chairwoman Olga Herasymyuk had taken a “sober look at reality” and recognised the limitations of Kiev demands. Ivanovskaya added that international experts have expressed genuine bewilderment at Ukraine’s requests, pointing out that Russian is simply a language of communication. As a result, she admitted, demanding that international platforms block music based solely on the language in which it is performed is a dead end. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407580",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407580",
+      "published_at": "2026-11-25T13:25:52+00:00",
+      "text": "📹 Султан Брунея пригласил Путина совершить государственный визит в его страну. Видео: Раптли/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102514",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102514",
+      "published_at": "2026-11-25T13:25:20+00:00",
+      "text": "Канцлер Германии Фридрих Мерц Россия эскалирует ситуацию в Балтии, Польше, Черном море, космосе, а также у нас в Германии, поэтому Европа должна показать России её границы. ✨ Кучно кладут. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350443",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350443",
+      "published_at": "2026-11-25T13:23:44+00:00",
+      "text": "Администрация Трампа предложила ввести дополнительные пошлины в 20% на ряд товаров из КНР , сообщает Ассошиэйтед Пресс - совокупная ставка может достичь 45%. Также предложили повысить импортные пошлины на товары из Евросоюза и других крупных торговых партнеров США. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102513",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102513",
+      "published_at": "2026-11-25T13:23:11+00:00",
+      "text": "ВВС Британии стали на ночь прятать самолеты в ангары и укрепленные укрытия от российских и иранских дронов, сообщает The Times. А те самолеты, которые остаются на взлетно-посадочной полосе или в других местах без защиты на военных базах, защищают антидроновыми сетями из кевлара. Ранее главком ВВС Харв Смит заявил, что военно-воздушным силам необходимо отрабатывать рассредоточение самолетов по всей стране в рамках подготовки к возможному конфликту, чтобы предотвратить одновременный вывод из строя нескольких самолетов. Смит заявил, что ВВС готовятся к сценарию, при котором «на родине нет безопасного убежища, вы ведёте боевые действия с территории Великобритании, но вам необходимо перемещаться». Лондон планирует к 2030 году подготовить армию к возможной войне. ✨ Что раньше казалось немыслимым, теперь будни подготовки к войне. США в текущем моменте играют роль доброго копа, а ЕС - злого. Вот и вся разница в сортах англосаксов. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199259",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199259",
+      "published_at": "2026-11-25T13:22:41+00:00",
+      "text": "🇺🇦 “Gerans” struck the banknote paper factory of the National Bank of Ukraine in the Zhytomyr region It is reported that this factory is the only producer of banknote paper for the national currency in Ukraine. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407579",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407579",
+      "published_at": "2026-11-25T13:21:45+00:00",
+      "text": "🚨 При атаках ВСУ на Белгородскую область погиб мирный житель, еще девять ранены, в том числе годовалый ребенок, сообщили в оперштабе региона. Отмечается, что ребенок в тяжелом состоянии доставлен в больницу.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407578"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234648",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234648",
+      "published_at": "2026-11-25T13:21:04+00:00",
+      "text": "Командование по заключению контрактов СВ США (ACC) заключило рамочный контракт на $4,17 млрд с 11 подрядчиками на техническое перевооружение семи государственных заводов в шести штатах для наращивания выпуска 155-мм артиллерийских выстрелов. Из-за срыва сроков ввода линий по производству корпусов в Техасе выпуск отстал от графика в 100 тыс. единиц в месяц. К декабрю 2027 года поставлена задача выйти на 140 тыс. комплектов сборки ежемесячно за счет реконструкции мощностей в Айове и развертывания новых сборочных линий в Канзасе и Арканзасе. @poisk_mil",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350442",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350442",
+      "published_at": "2026-11-25T13:20:07+00:00",
+      "text": "Россия не ведет переговоры с Зеленским , подчеркнул Ушаков, комментируя заявления главы киевского режима об отказе вывода войск из Донбасса. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199258",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199258",
+      "published_at": "2026-11-25T13:19:26+00:00",
+      "text": "🇬🇧 The British Air Force has started hiding aircraft in hangars and reinforced shelters overnight to protect them from Russian and Iranian drones, The Times reports. Aircraft that remain on the runway or in other unprotected areas at military bases are shielded by anti-drone nets made of Kevlar. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102512",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102512",
+      "published_at": "2026-11-25T13:18:28+00:00",
+      "text": "🇵🇱 Замминистра национальной обороны Польши Взьонтек в интервью Угроза войны между Россией и Польшей может возникнуть в случае разрыва отношений между странами 24 ноября российский посол Георгий Михно был вызван в МИД Польши из-за \"нарушения Россией польского…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407577",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407577",
+      "published_at": "2026-11-25T13:17:01+00:00",
+      "text": "🚗 Минтранс поддерживает предоставление многодетным семьям права на бесплатный проезд по платным автомобильным дорогам не реже одного раза в год, сообщил Ядров. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36009",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36009",
+      "published_at": "2026-11-25T13:16:45+00:00",
+      "text": "📝 Demons in the Sandbox 📝 The capabilities of neural networks that millions of people use daily provide only a partial picture of AI development levels. In the laboratories of OpenAI and Anthropic, there already exist far more advanced models , which the developers themselves fear releasing into public access. This sounds like another conspiracy theory, but the reasons for concern are quite real. Over the past six months, cases have increased where neural networks breached the isolation of test environments and penetrated third-party information systems. 🔻 What have the neural networks managed to do? ▪️ In May, Google's Gemini model gained unauthorized access to the systems of three companies during testing, mistaking them for part of the test environment. ▪️ In July, OpenAI's experimental models breached isolation and hacked the Hugging Face platform. AI agents gained access to dozens of servers, classified data, and OpenAI's own internal infrastructure. ▪️ In the same month, specialists from the British AI Safety Institute detected an attempt by Claude Mythos 5 to inject malicious code into a real software product. The neural network created fake accounts and tried to convince the developer to accept the changes. ▪️ In August, Meta* admitted that the experimental model Muse Spark 1.1 hacked a third-party website and made changes to its database. ▪️ In September, Anthropic confirmed four more cases of its models penetrating third-party systems during testing. ▪️ In October, an AI agent went beyond the research environment and gained access to commercial data and client correspondence of WorkOS company. ▪️ In November, researchers from Epoch AI described how agents based on Gemini 4 Argon attempted to hack their website and impersonated organization employees. Moreover, the model was publicly available and operated with protective restrictions enabled. 📌 And this is only part of the publicly known incidents. Meanwhile, Anthropic's recent record IPO showed that investors are not yet deterred by safety concerns. Under such competitive conditions, none of the leading laboratories will likely want to be the first to halt development of the next generation of neural networks. ❗️ The acceptable level of risk today is largely determined by the AI companies themselves, who are interested in the fastest possible release of new products and attracting investments. Meanwhile, the consequences of failed experiments fall to third-party organizations to deal with, which have nothing to do with the development of these systems. #AI #technology ✉ MAX 💸",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234647",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234647",
+      "published_at": "2026-11-25T13:15:40+00:00",
+      "text": "Мерц прямо объявил, что денег в бюджете Германии критически не хватает, поэтому расходы будут сильно резать и жить как раньше немцы уже не будут. При этом финансировать войну на Украине продолжат. Соответственно, кризис немецкой промышленности будет усугубляться и далее. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30779",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30779",
+      "published_at": "2026-11-25T13:15:32+00:00",
+      "text": "Drone pilots' high performance ⬆️ Drone operators of the 51st Combined Arms Army of the Tsentr Group of Forces eliminated heavy vehicles and drones of AFU militants. 📍 Dnepropetrovsk direction 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117443",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117443",
+      "published_at": "2026-11-25T13:12:01+00:00",
+      "text": "Ремонтные работы ведутся с утра, часть потребителей уже удалось подключить , – сообщили в минугля и энергетики ДНР. Там уточнили: в результате аварийных отключений без электроснабжения оставались 52 068 абонентов. Основная часть отключений приходится на Донецк и Новоазовский округ. « Часть отключений связана с повреждениями линий электропередачи, в том числе в результате атак БПЛА », – подчеркнули в ведомстве. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone",
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407576",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407576",
+      "published_at": "2026-11-25T13:10:12+00:00",
+      "text": "РФ не получала отказа от европейцев по вопросу поездки в Москву, есть различные публичные заявления, отметил Ушаков в беседе с журналистом \"Вестей\" Зарубиным. Он подчеркнул, что приглашение приехать в Москву остается в силе, РФ надеется получить от европейцев ту или иную реакцию. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407575",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407575",
+      "published_at": "2026-11-25T13:07:56+00:00",
+      "text": "❗️ Ушаков сообщил \"Вестям\", что разговаривал по телефону с Уиткоффом и Кушнером после встречи Путина и Трампа в Шэньчжэне.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407574",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407574",
+      "published_at": "2026-11-25T13:07:34+00:00",
+      "text": "❗️ У РФ есть определенные контакты с представителями ряда европейских стран, заявил Ушаков. Он отметил, что в ходе контактов обсуждается позиция, с которой они бы хотели участвовать в переговорах по Украине.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407573"
+      ],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407572",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407572",
+      "published_at": "2026-11-25T13:06:01+00:00",
+      "text": "Теория Дарвина в конечном итоге исправит ошибочное мышление \"суицидальных бюрократов из ЕС\" , заявил Дмитриев. Так он прокомментировал заявление еврокомиссара по энергетике Йоргенсена, что ЕС не будет импортировать \"ни одной молекулы\" газа из РФ и после окончания конфликта на Украине.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234646",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234646",
+      "published_at": "2026-11-25T13:01:10+00:00",
+      "text": "Предупреждение МИД РФ о риске начала прямой войны с Эстонией.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33606",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33606",
+      "published_at": "2026-11-25T13:00:49+00:00",
+      "text": "🎙 Opening remarks by President of Russia Vladimir Putin at talks in a restricted format with Sultan Hassanal Bolkiah of Brunei Darussalam (Moscow, 25 November 2026) 💬 Vladimir Putin: Your Majesty, allow me to extend a warm welcome to you here in Moscow. We had the opportunity to meet just recently in Shenzhen during the APEC Summit . This October, we marked the 35th anniversary of the establishment of diplomatic relations between our countries. Over those 35 years, we have come a long way in developing our ties across a wide range of areas. 📈 Our trade and economic ties are growing. Although the volume of trade is still modest in absolute terms, the trend is very encouraging. In 2026, our bilateral trade will exceed $1 billion . We have also laid a solid foundation for future growth. I am referring above all to our financial cooperation, which gives us scope to develop ties across the board. I am very pleased to have this opportunity to exchange views on political issues and the situation in the region. Our relations have always been marked by goodwill and mutual trust. Following today’s meeting, as an outcome of your state visit , we will sign a declaration elevating our relations to the level of a strategic partnership . We have always maintained strong people-to-people ties , particularly in culture and education, and we are ready to build on them in all these areas. Strengthening defence capabilities and ensuring security have also long been central to our work and remain so today. We are grateful for your cooperation in this area , including in matters relating to the activities of the Russian Navy. 🤝 Your Majesty, we are delighted to see you and grateful for your decision on visa-free travel for citizens of both countries . This is already boosting tourism and encouraging direct contact between our citizens, and will continue to do so. Overall, I am very pleased to say that our relations continue to grow stronger . 🇷🇺 🇧🇳 #RussiaBrunei",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
