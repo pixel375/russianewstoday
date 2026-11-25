@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-25T08",
+  "snapshot_generated_at_utc": "2026-11-25T09:02:09.060720+00:00",
+  "items": [
+    {
+      "title": "Polish deputy defence minister warns against severing ties with Russia",
+      "summary": "Deputy Defence Minister Stanisław Wziątek warned in a radio interview that breaking diplomatic relations with Russia could create a risk of war. His remarks followed Poland's summoning of the Russian ambassador over an alleged airspace violation.",
+      "source_urls": [
+        "https://t.me/tass_agency/407518"
+      ]
+    },
+    {
+      "title": "US travel advisory warns against visiting Ukraine",
+      "summary": "Reports citing an updated US State Department advisory say Ukraine remains at Level 4, the highest travel warning, citing the risk of missile and drone attacks throughout the country.",
+      "source_urls": [
+        "https://t.me/boris_rozhin/234620"
+      ]
+    },
+    {
+      "title": "Russian-appointed Luhansk officials announce additional school generators",
+      "summary": "The Russian-appointed regional education minister said around 600 generators had already been supplied to educational institutions and more than 100 additional units were planned before year-end.",
+      "source_urls": [
+        "https://t.me/donbassr/117424"
+      ]
+    },
+    {
+      "title": "Russian-appointed Donetsk mayor reports overnight damage",
+      "summary": "The mayor said an alleged Ukrainian drone attack damaged a residential building's roof and destroyed eight vehicles. The account has not been independently verified.",
+      "source_urls": [
+        "https://t.me/donbassr/117425"
+      ]
+    }
+  ]
+}
