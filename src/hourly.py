@@ -55,9 +55,19 @@ def collect_hour(config: dict, now: datetime | None = None, session=None,
         raise RuntimeError(f"Only {len(stats)}/{len(config['sources'])} sources complete; "
                            f"need at least {min_sources}; refusing incomplete collection")
     filtered = [p for p in all_posts if relevant(p["text"], p.get("channel", ""))]
-    unique = dedupe(filtered)
+    # Keyword matching is useful for ranking, not for excluding news.
+    # Short statements and reports in other languages may lack our keywords.
+    # Keep all nonblank collected text for the editorial pass, bounded by the
+    # existing candidate cap. Give keyword-matched posts first priority.
+    eligible = [p for p in all_posts if p.get("text", "").strip()]
+    unique = dedupe(eligible)
+    preferred = [p for p in unique if relevant(p["text"], p.get("channel", ""))]
+    other = [p for p in unique if not relevant(p["text"], p.get("channel", ""))]
+    limit = int(config.get("max_candidates", 150))
+    selected = pick_candidates(preferred, limit)
+    selected += pick_candidates(other, max(0, limit - len(selected)))
     candidates = annotate_possible_translations(
-        pick_candidates(unique, int(config.get("max_candidates", 150))))
+        sorted(selected, key=lambda p: p["published_at"], reverse=True))
     return {
         "schema_version": 2,
         "hour_id": hour_id,
@@ -70,6 +80,9 @@ def collect_hour(config: dict, now: datetime | None = None, session=None,
         "stats": {
             "raw_posts": len(all_posts),
             "relevant_posts": len(filtered),
+            "editorial_pool_posts": len(eligible),
+            "retained_without_keyword_match": sum(not relevant(p["text"], p.get("channel", "")) for p in candidates),
+            "excluded_by_candidate_cap": len(unique) - len(candidates),
             "deduplicated_posts": len(unique),
             "candidate_posts": len(candidates),
         },

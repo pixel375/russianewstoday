@@ -13,6 +13,15 @@ create status/hourly/H.json with hour_id, snapshot_generated_at_utc and
 status "no_eligible_stories". Current hour takes priority; at most one
 additional late hour per run in a separate commit. Avoid cross-hour duplicates.
 
+The hourly collector now retains text even when it misses relevance keywords.
+The AI must assess actual meaning: discard unrelated content, advertisements
+and repetitive commentary, not substantive short reports or political statements.
+A zero keyword-match count does NOT mean zero eligible stories.
+If a current hour is empty or contains no eligible stories, record the skip and
+check the previous two exact archives for one unhandled eligible late brief.
+Use explicit delayed labeling, original timestamps, and the existing three-hour
+limit. Do not manufacture news merely to fill a quiet hour.
+
 Include consequential news about the Russia–Ukraine war AND clearly
 war-adjacent developments: Ukrainian government accountability and
 corruption investigations, procurement, conscription, financial

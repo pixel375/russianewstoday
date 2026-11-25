@@ -66,3 +66,24 @@ class RecoveryTests(TestCase):
             (root / path).write_text(json.dumps(digest))
             with self.assertRaises(ValueError):
                 validate_hourly(path, root, now)
+
+    def test_keyword_misses_reach_editorial_review(self):
+        now = datetime(2026, 11, 25, 5, 5, tzinfo=timezone.utc)
+        posts = [
+            {"id": "x/1", "channel": "x", "url": "https://t.me/x/1",
+             "text": "President announces a date for the next summit.",
+             "published_at": "2026-11-25T04:05:00+00:00", "related_urls": []},
+            {"id": "x/2", "channel": "x", "url": "https://t.me/x/2",
+             "text": "Ukraine officials announce new military aid.",
+             "published_at": "2026-11-25T04:10:00+00:00", "related_urls": []}
+        ]
+        config = {"sources": [{"handle": "x", "name": "X"}], "max_candidates": 10}
+        with patch("src.hourly.crawl_source", return_value=(posts, {"handle": "x", "raw_count": 2, "pages": 1})):
+            result = collect_hour(config, now=now, session=object())
+            self.assertEqual(result["stats"]["relevant_posts"], 1)
+            self.assertEqual(result["stats"]["retained_without_keyword_match"], 1)
+            self.assertEqual(len(result["posts"]), 2)
+            config["max_candidates"] = 1
+            result = collect_hour(config, now=now, session=object())
+            self.assertEqual(result["posts"][0]["id"], "x/2")
+            self.assertEqual(result["stats"]["excluded_by_candidate_cap"], 1)
