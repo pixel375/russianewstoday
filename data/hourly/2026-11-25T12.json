@@ -1,0 +1,578 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-25T12",
+  "generated_at_utc": "2026-11-25T13:04:28.796565+00:00",
+  "window_start_utc": "2026-11-25T12:00:00+00:00",
+  "window_end_utc": "2026-11-25T13:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 15
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 4
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 37,
+    "relevant_posts": 12,
+    "editorial_pool_posts": 37,
+    "retained_without_keyword_match": 24,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 35,
+    "candidate_posts": 35
+  },
+  "posts": [
+    {
+      "id": "donbassr/117442",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117442",
+      "published_at": "2026-11-25T12:58:01+00:00",
+      "text": "Серая куропатка может «выдохнуть». С 7 декабря в Ростовской области на нее закрывается сезон охоты. ▪️ При этом на Дону до 20 января еще можно охотится на уток и гусей, а на зайцев — до 31 января. ▪️ Дольше всего охотникам разрешается отстреливать кабанов и пушных зверей — до 28 февраля. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407571",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407571",
+      "published_at": "2026-11-25T12:57:45+00:00",
+      "text": "▶️ РФ и Бруней приняли декларацию о повышении отношений до стратегического партнерства. Видео: Раптли/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199257",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199257",
+      "published_at": "2026-11-25T12:51:41+00:00",
+      "text": "🇺🇦 🇦🇪 Budanov will be fined for using the Russian language the hydra of Ukrainian linguonationalism decided to bite a Banderite in the wallet Despite previous attempts to justify “their own” for Abu Dhabi, Ukraine’s language ombudsman Elena Ivanovskaya decided not to make an exception for the head of Zelensky’s office and announced that Kyrylo Budanov would receive a fine of $74 USD for using the Russian language while communicating with people. The ombudsman decided not to limit him to a warning and imposed the maximum penalty for a first-time violation. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350441",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350441",
+      "published_at": "2026-11-25T12:51:24+00:00",
+      "text": "Товарооборот России и Брунея в этом году превысит миллиард долларов, сообщил Путин. Президент проводит в Кремле переговоры с султаном Брунея. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407570",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407570",
+      "published_at": "2026-11-25T12:50:04+00:00",
+      "text": "❕ Совмещенная прямая линия и большая пресс-конференция Путина запланирована на декабрь, сообщил ТАСС Песков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407569",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407569",
+      "published_at": "2026-11-25T12:48:01+00:00",
+      "text": "До $15 млн мог заработать Трамп на акциях Nvidia после возвращения Хуанга, сообщает FT. Согласно декларациям о доходах президента США, по состоянию на 30 сентября он мог владеть до 370 тыс. акций Nvidia. На фоне новостей о возвращении Хуанга котировки компании…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407568",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407568",
+      "published_at": "2026-11-25T12:45:07+00:00",
+      "text": "▶️ Путин и султан Брунея выступают перед журналистами с заявлениями по итогам прошедших переговоров. Присоединяйтесь к нашей трансляции . Видео: Раптли/ТАСС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350440",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350440",
+      "published_at": "2026-11-25T12:42:21+00:00",
+      "text": "Цена золота упала на бирже ниже круглой отметки в $3500 за тройскую унцию – впервые более чем за год. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407567",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407567",
+      "published_at": "2026-11-25T12:41:58+00:00",
+      "text": "Десятки тысяч долларов на охоту на экзотических краснокнижных животных в Африке тратил экс-глава администрации Ростова-на-Дону Алексей Логвиненко, находящийся под следствием по делу о превышении должностных полномочий. Об этом ТАСС сообщили в российских силовых…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234644",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234644",
+      "published_at": "2026-11-25T12:40:12+00:00",
+      "text": "Сотрудники ФСБ предотвратили теракт в Мелитополе. Агент спецслужб противника получил взрывчатку с помощью дронов и планировал атаковать чиновника местной администрации с помощью FPV-дронов. Это у него не получилось. @zvezdanews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19821",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19821",
+      "published_at": "2026-11-25T12:39:35+00:00",
+      "text": "JUST IN: 🇯🇵 🇷🇺 Japan reportedly plans to deploy hypersonic missiles on an island near Russia. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407566",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407566",
+      "published_at": "2026-11-25T12:38:26+00:00",
+      "text": "Еще девять детей переезжают к родственникам на Украину и в Германию из России, сообщила Львова-Белова.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117441",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117441",
+      "published_at": "2026-11-25T12:38:01+00:00",
+      "text": "Больше половины Запорожской области обеспечено энергоснабжением нормального качества , заявил губернатор региона Евгений Балицкий. \"Благодаря рабочей группе вице-премьера РФ Марата Хуснуллина, было закуплено огромное количество, тысячи генераторов, газопоршневых, газотурбинных, дизельных, бензиновых на школы, на больницы, на канализации, на канализационные насосные станции. Любая работа, чтобы велась днем и ночью, и чтобы работала там подрядная организация, любая фирма - все равно нужно освещение, нужно электричество\", - подчеркнул глава региона. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "procurement",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407565",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407565",
+      "published_at": "2026-11-25T12:36:01+00:00",
+      "text": "Этапы восстановления Крымского моста определены. Работы по этому направлению идут в ежедневном режиме, сообщил вице-премьер РФ Марат Хуснуллин.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33605",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33605",
+      "published_at": "2026-11-25T12:35:07+00:00",
+      "text": "#PhotoOfTheDay 📸 Foreign Minister of Russia Sergey Lavrov and Foreign Minister of Belarus Maxim Ryzhenkov in a #FamilyPhoto with fellow participants in the joint meeting of the boards of the Russian and Belarusian Foreign Ministries. 📍 Gomel, November 25, 2026 🇷🇺 🇧🇾 #RussiaBelarus",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407564",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407564",
+      "published_at": "2026-11-25T12:31:01+00:00",
+      "text": "▶️ Европа с ее манерами сядет за стол переговоров и тут же \"положит на него ноги\". России этого не надо, заявил Сергей Лавров. Видео: Раптли/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407559"
+      ],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407563",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407563",
+      "published_at": "2026-11-25T12:27:01+00:00",
+      "text": "Правительство Эстонии еще не приняло окончательного решения о судьбе ж/д погранпункта в Нарве, но премьер Кристен Михал допустил возможность его закрытия. Об этом он рассказал в интервью телерадиокомпании ERR. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98584",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98584",
+      "published_at": "2026-11-25T12:25:31+00:00",
+      "text": "🇫🇷 ⚡️ — A political scandal is brewing in France over the deployment of French troops to Ukraine without informing parliament, according to Politico. Today, French Deputy Minister of Defense Alice Puel is scheduled to appear at a closed hearing in the Senate, where she is expected to explain the circumstances surrounding the deployment of the troops. The opposition accuses the government of violating the constitution and creating a risk of France's direct involvement in the war with Russia. The head of the Senate's Defense Committee, Cedric Perrin, accused Macron of disrespecting parliament. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407562",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407562",
+      "published_at": "2026-11-25T12:23:01+00:00",
+      "text": "Власти делают все возможное для обеспечения внутреннего рынка России топливом, в том числе за счет импорта, сообщил Новак.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234642",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234642",
+      "published_at": "2026-11-25T12:21:04+00:00",
+      "text": "Результат ударов Гераней операторов 50-й отдельной бригады БПС «Варяг» в н.п Ковель, Волынская область, этой ночью. @divannyevoini",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407561",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407561",
+      "published_at": "2026-11-25T12:19:01+00:00",
+      "text": "👔 Денег в бюджете ФРГ больше не хватит на все расходы, признал Мерц: \"Нам всем придется отказаться от некоторых полюбившихся представлений. Мы больше не можем за счет налоговых поступлений позволить себе все, к чему мы очень сильно привыкли за долгое время\". Оппозиция страны обвиняет канцлера в том, что, несмотря на урезание соцрасходов, власти Германии продолжают оказывать финансовую помощь Киеву. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117440",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117440",
+      "published_at": "2026-11-25T12:19:01+00:00",
+      "text": "❄️ На Донецк обрушился снеговой шквал. Зима пришла без предупреждения. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350439",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350439",
+      "published_at": "2026-11-25T12:16:11+00:00",
+      "text": "Продажи жилья в России падают, а цены растут, возмутился Володин. По его словам, это противоречит логике рынка. Володин призвал профильные ведомства предложить решение проблемы. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199256",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199256",
+      "published_at": "2026-11-25T12:14:20+00:00",
+      "text": "🇷🇺 🇪🇪 🇱🇻 The Prime Minister of Latvia criticized Estonia for closing the border with Russia without coordinating with other Baltic countries. According to Andris Kulbergs, such a move could negatively affect trade flows in Latvia and Lithuania, so the issue requires coordinated discussion. “A neighboring country rushed to make a decision to close the border during the pre-election period. Such an issue should be discussed in a coordinated manner by all Baltic states, as the redirection of traffic and trade flows could affect both Latvia and Lithuania,” ERR, the Estonian public broadcaster, quoted him on Wednesday, citing Latvian TV3’s “900 Seconds.” 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407560",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407560",
+      "published_at": "2026-11-25T12:13:46+00:00",
+      "text": "Международная федерация хоккея не предоставила достаточных доказательств для недопуска российских сборных на турниры, сообщает CAS.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102511",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102511",
+      "published_at": "2026-11-25T12:12:14+00:00",
+      "text": "🇩🇪 🐽 В Германии начинают «душить» халяву для получающих пособие хохлов Чиновники из центра занятости немецкого круга Грайц (земля Тюрингия) смогли получить данные о доходах украинских граждан , получающих местное пособие (Bürgergeld / Grundsicherung) и одновременно имеющих доходы на Украине (пенсии, с бизнеса, сдачи квартир, с депозитов, удаленной работы и тд.). ⚡️ Смысл заключается в том, что получающие пособие должны подавать данные о своих других доходах , тогда эту сумму вычитают из суммы пособия на одного человека, а если она превышает размер пособия – то его не платят вовсе. Данные впервые получены из украинского сервиса «Дія» (аналог госуслуг) по запросу немцев. В результате полностью прекращены социальные выплаты 16 украинцам и сокращены ещё 38, а экономия составила около 160 тыс евро в год . ✨ Халява потихоньку прикрывается – средства теперь нужны для европейских оружейных компаний , а сами беженцы для возвращения на Украину и пополнение рядов ВСУ. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199255",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199255",
+      "published_at": "2026-11-25T12:12:04+00:00",
+      "text": "🇺🇦 Zaporozhye remains completely without power since last night after strikes on several substations, local media report. The city also lacks heating, and in some areas water supply. Meanwhile, footage of the moment of the strike in Zaporozhye has appeared. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102510",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102510",
+      "published_at": "2026-11-25T12:04:52+00:00",
+      "text": "Глава ЛНР: В Краснодонском муниципальном округе неонацисты нанесли удар по «Газели», пострадал 24-летний экспедитор. Врачи до последнего боролись за его жизнь, но спасти не удалось. На участке дороги Марковка — Луганск вражеский БПЛА атаковал легковой автомобиль. В результате удара погибли мужчина и женщина. В Лисичанске ВФУ атаковали служебный автомобиль медучреждения, ранены двое сотрудников. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234639",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234639",
+      "published_at": "2026-11-25T12:03:02+00:00",
+      "text": "Рубрика — \"Эксклюзивы\" от укр СМИ или информационный корм для жителей остатков Украины: 1. Громкий побег Трампа. 2. Новый Пригожин идёт на Москву. 3. Распад России, Якутия и Бурятия пошли против Москвы. P.S. наконец-то появился Пригожин, который по версии укр СМИ уже несколько месяцев пытается дойти до Москвы 😀 🇷🇺 Канал Colonelcassad в Max",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98583",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98583",
+      "published_at": "2026-11-25T12:02:15+00:00",
+      "text": "🇪🇺 🇺🇦 ⚡️ — The European Union has already spent €235 billion on Ukraine since the start of the conflict, but this is not enough , said Ursula von der Leyen. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33604",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33604",
+      "published_at": "2026-11-25T12:02:13+00:00",
+      "text": "✉️ Russian Foreign Minister Sergey Lavrov’s message of greetings to Executive Secretary of the Intergovernmental Authority on Development Workneh Gebeyehu (November 25, 2026) ✍️ Please accept my sincere congratulations on the 30th anniversary of the Intergovernmental Authority on Development ( #IGAD ), as well as 40 years since the establishment of the Intergovernmental Authority on Drought and Development as IGAD’s predecessor which stood at the roots of promoting integration and cooperation within this region . Over the past decades, your association has emerged as one of the most influential communities on the African continent by making a meaningful contribution to strengthening regional cooperation, preventing and settling conflicts, as well as ensuring food security and environmental safety. 🤝 I would like to reaffirm the Russian Federation’s readiness and commitment to expand its friendly ties with IGAD across various tracks based on the Memorandum of Understanding on the Principles of Relations and Cooperation . Dated July 28, 2023, it supplements the Plan of Action , of February 23, 2026, as well as the outcome documents of the Third Russia – Africa Summit , which took place in Moscow on October 28-29, 2026. I wish the IGAD Secretariat under your leadership every success in your future efforts to deliver on the priority objectives, while wishing your member states peace, stability and prosperity. Best regards, SERGEY LAVROV",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117439",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117439",
+      "published_at": "2026-11-25T12:02:01+00:00",
+      "text": "Воюющий в российской армии американец рассказал, какая часть общества в США поддерживает Украину На стороне ВСУ сражается чуть больше тысячи граждан США. По мнению Эдгара – это немного и не вся Америка их поддерживает. «А те, кто поддерживает Украину – это старые богатые либералы или молодые геи*. Я, как и многие американцы, обладаю критическим мышлением и не имею с ними ничего общего», - рассказал боец на встрече с волонтерами Народного фронта. *ЛГБТ признано экстремистским движением и запрещено в РФ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407558",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407558",
+      "published_at": "2026-11-25T12:01:40+00:00",
+      "text": "Власти оценивают ситуацию на рынке топлива России как напряженную из-за ремонтов НПЗ, заявил Новак. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407557"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38626",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38626",
+      "published_at": "2026-11-25T12:01:01+00:00",
+      "text": "ВСУ ударили по машине с беременной Обычная легковушка, на пассажирском беременная женщина и смертельная «птица» бьёт именно по ней. Машина съехала с трассы и загорелась. На место происшествия оперативно прибыла группа эвакуации «Барс Курск». Действовать приходилось с предельной скоростью, ведь противник продолжал вести наблюдение с неба, создавая реальную угрозу повторного удара. Слава Богу, в этот раз всё обошлось, все живы. Пострадавших эвакуируют в безопасное место для оказания помощи. Смотрите полный репортаж о работе эвакуационной группы «Барс Курск» на @wargonzo сегодня вечером. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350438",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350438",
+      "published_at": "2026-11-25T12:00:29+00:00",
+      "text": "Ситуация на рынке топлива в России сейчас достаточно напряженная, учитывая, что ряд НПЗ в ремонте, сообщил Новак. Главные заявления вице-премьера: 🔹 Власти делают все для обеспечения внутреннего рынка топливом, в том числе за счет поставок из зарубежья. 🔹 Продолжение импорта бензина в Россию зависит от ситуации на внутреннем рынке. 🔹 Минэнерго предложило продлить запрет экспорта авиакеросина. 🔹 Решение о продлении запрета экспорта бензина из России будет приниматься в декабре. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
