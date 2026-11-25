@@ -1,0 +1,67 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    203
+  ],
+  "published_at_utc": "2026-11-25T11:26:04.374955+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-25T10",
+  "items": [
+    {
+      "item_id": "2026-11-25T10:1",
+      "title": "French Senate scrutinizes military mission in Ukraine",
+      "summary": "Deputy Defence Minister Alice Rufo was reportedly summoned to a closed Senate hearing over the deployment of French personnel to Ukraine without parliamentary notification. Opposition lawmakers question the legality of the mission, while the Defence Ministry argues that notification requirements do not apply to noncombat missions.",
+      "post_url": "https://t.me/russianewstodayofficial/203",
+      "category": "other",
+      "hour_id": "2026-11-25T10",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T10:2",
+      "title": "Kremlin says next Abu Dhabi negotiations remain unscheduled",
+      "summary": "Kremlin spokesman Dmitry Peskov said Moscow remains open to negotiations with Ukraine and contacts with Europe, but no date has been set for the next round of talks in Abu Dhabi. He described existing working-level contacts with EU representatives as largely unproductive.",
+      "post_url": "https://t.me/russianewstodayofficial/203",
+      "category": "other",
+      "hour_id": "2026-11-25T10",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T10:3",
+      "title": "Russia allocates additional 20 billion rubles for roads in occupied Ukrainian regions",
+      "summary": "Russian Deputy Prime Minister Marat Khusnullin told the State Duma that the government had approved additional road construction funding last week. He also claimed tax collections in the occupied regions had increased by 11 percent.",
+      "post_url": "https://t.me/russianewstodayofficial/203",
+      "category": "other",
+      "hour_id": "2026-11-25T10",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T10:4",
+      "title": "Germany's Merz and AfD clash over Ukraine policy",
+      "summary": "Chancellor Friedrich Merz accused Russia of escalating tensions beyond Ukraine and pledged a European response. AfD co-leader Tino Chrupalla criticized the allocation of another €11 billion in military aid for Ukraine in 2027, arguing that Germany should prioritize domestic infrastructure and economic needs.",
+      "post_url": "https://t.me/russianewstodayofficial/203",
+      "category": "other",
+      "hour_id": "2026-11-25T10",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T10:5",
+      "title": "EU reportedly considering broader restrictions on Russian tourism",
+      "summary": "A report citing an EU Council document says the bloc intends to substantially reduce Russian tourist arrivals. France, which previously opposed such proposals alongside Italy, is reportedly considering changing its position. No final decision was reported.",
+      "post_url": "https://t.me/russianewstodayofficial/203",
+      "category": "other",
+      "hour_id": "2026-11-25T10",
+      "source_handles": [
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
