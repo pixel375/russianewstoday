@@ -135,6 +135,51 @@
         "rian_ru",
         "tass_agency"
       ]
+    },
+    {
+      "item_id": "2026-11-25T04:1",
+      "title": "Samara governor reports fatal drone attack and power outages",
+      "summary": "Governor Vyacheslav Fedorishchev reported that more than 145 drones were intercepted over Samara region overnight. He said one person died and electricity supplies were disrupted in some areas. The reported figures have not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/196",
+      "category": "other",
+      "hour_id": "2026-11-25T04",
+      "source_handles": [
+        "donbassr",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T04:2",
+      "title": "Rostov governor reports more than 50 Ukrainian drones intercepted",
+      "summary": "Governor Yuri Slyusar said more than 50 Ukrainian drones were destroyed over Rostov region overnight. No injuries or damage had been reported at the time of his statement.",
+      "post_url": "https://t.me/russianewstodayofficial/196",
+      "category": "other",
+      "hour_id": "2026-11-25T04",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T04:3",
+      "title": "Russian citizen pleads guilty in US electronics export case",
+      "summary": "The US Justice Department said a Russian citizen pleaded guilty in New York to illegally exporting dual-use electronic components from the United States to Russia between March 2022 and April 2023. He faces a potential prison sentence of up to 20 years.",
+      "post_url": "https://t.me/russianewstodayofficial/196",
+      "category": "other",
+      "hour_id": "2026-11-25T04",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T04:4",
+      "title": "Damage to commercial buildings reported in Bila Tserkva",
+      "summary": "Reports from Kyiv region said a retail store, a Nova Poshta branch and an infrastructure facility were hit in Bila Tserkva. The extent of damage and any casualties were not established in the report.",
+      "post_url": "https://t.me/russianewstodayofficial/196",
+      "category": "other",
+      "hour_id": "2026-11-25T04",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
     }
   ]
 }
