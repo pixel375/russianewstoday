@@ -1,0 +1,70 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    202
+  ],
+  "published_at_utc": "2026-11-25T10:26:51.461635+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-25T09",
+  "items": [
+    {
+      "item_id": "2026-11-25T09:1",
+      "title": "European Commission proposes additional sanctions on Russia",
+      "summary": "European Commission President Ursula von der Leyen outlined proposed restrictions on Russian-insured tankers and the blacklisting of around 70 vessels suspected of transporting Russian oil. Separate reports describe proposed visa restrictions on current and former Russian military personnel and restrictions on Europeans serving on Russian corporate boards.",
+      "post_url": "https://t.me/russianewstodayofficial/202",
+      "category": "other",
+      "hour_id": "2026-11-25T09",
+      "source_handles": [
+        "bricsnews",
+        "ddgeopolitics",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T09:2",
+      "title": "Estonia rules out allowing Ukrainian strikes from its territory",
+      "summary": "Estonian Prime Minister Kristen Michal reportedly said Estonia would not permit Ukraine to use its airspace, territorial waters or land to attack Russian targets. The remarks follow recent tensions between Moscow and Tallinn.",
+      "post_url": "https://t.me/russianewstodayofficial/202",
+      "category": "other",
+      "hour_id": "2026-11-25T09",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T09:3",
+      "title": "Naftogaz reports shutdown at Poltava gas facility",
+      "summary": "Ukraine's Naftogaz reportedly said operations at a gas extraction facility in Poltava region had stopped following an overnight strike and resulting fire.",
+      "post_url": "https://t.me/russianewstodayofficial/202",
+      "category": "other",
+      "hour_id": "2026-11-25T09",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T09:4",
+      "title": "Russian-appointed authorities report widespread Donetsk power outages",
+      "summary": "The Russian-appointed regional energy ministry said more than 42,000 customers were without electricity across ten districts in occupied Donetsk region, attributing the outages to alleged Ukrainian drone attacks and a power shortage. The account has not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/202",
+      "category": "other",
+      "hour_id": "2026-11-25T09",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T09:5",
+      "title": "Murmansk governor arrested in alleged embezzlement case",
+      "summary": "Russian authorities reported the arrest of Governor Andrei Chibis in a case involving alleged theft of more than 39 million rubles in public funds and alleged misappropriation of more than one billion rubles allocated to road reconstruction. The allegations have not been adjudicated.",
+      "post_url": "https://t.me/russianewstodayofficial/202",
+      "category": "other",
+      "hour_id": "2026-11-25T09",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
