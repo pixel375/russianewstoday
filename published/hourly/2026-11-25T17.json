@@ -1,0 +1,68 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    206
+  ],
+  "published_at_utc": "2026-11-25T18:26:47.071748+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-25T17",
+  "items": [
+    {
+      "item_id": "2026-11-25T17:1",
+      "title": "Poland plans no-fly zone along Ukrainian border",
+      "summary": "Polish Deputy Defence Minister Cezary Tomczyk reportedly said Poland plans to establish a no-fly zone along its border with Ukraine by late December or early January. The announcement follows discussions about protecting NATO airspace.",
+      "post_url": "https://t.me/russianewstodayofficial/206",
+      "category": "other",
+      "hour_id": "2026-11-25T17",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T17:2",
+      "title": "Russia prepares response to possible seizure of frozen assets",
+      "summary": "Russian Foreign Ministry economic cooperation official Dmitry Birichevsky said Moscow has prepared additional measures in case its frozen assets are confiscated. He did not specify the measures in the available report.",
+      "post_url": "https://t.me/russianewstodayofficial/206",
+      "category": "other",
+      "hour_id": "2026-11-25T17",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T17:3",
+      "title": "US-led consortium reportedly prepares bid for Lukoil's overseas assets",
+      "summary": "Reuters reportedly says a consortium led by American businessman Todd Boehly is preparing a deal to acquire Lukoil's foreign assets, with sources expecting an agreement within weeks. No completed transaction was announced.",
+      "post_url": "https://t.me/russianewstodayofficial/206",
+      "category": "other",
+      "hour_id": "2026-11-25T17",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T17:4",
+      "title": "Putin dismisses Murmansk governor following arrest",
+      "summary": "President Vladimir Putin terminated Andrei Chibis's tenure as Murmansk governor by decree. Chibis, who was arrested in a case involving alleged embezzlement and bribery, denies guilt according to his lawyer.",
+      "post_url": "https://t.me/russianewstodayofficial/206",
+      "category": "other",
+      "hour_id": "2026-11-25T17",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T17:5",
+      "title": "Legal experts question legality of reported Ukrainian strike in Libya",
+      "summary": "A report citing international maritime law experts says the reported Ukrainian attack on a vessel in Benghazi likely violated Libya's neutrality and sovereignty. The experts' assessments are not a court ruling.",
+      "post_url": "https://t.me/russianewstodayofficial/206",
+      "category": "other",
+      "hour_id": "2026-11-25T17",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
