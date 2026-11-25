@@ -1,33 +1,33 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-25T21",
-  "generated_at_utc": "2026-11-25T22:03:30.878587+00:00",
-  "window_start_utc": "2026-11-25T21:00:00+00:00",
-  "window_end_utc": "2026-11-25T22:00:00+00:00",
+  "hour_id": "2026-11-25T22",
+  "generated_at_utc": "2026-11-25T23:08:38.043142+00:00",
+  "window_start_utc": "2026-11-25T22:00:00+00:00",
+  "window_end_utc": "2026-11-25T23:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 1
     },
     {
       "handle": "rian_ru",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 4
     },
     {
       "handle": "nab_ukraine",
@@ -105,33 +105,90 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 22,
-    "relevant_posts": 14,
-    "editorial_pool_posts": 22,
-    "retained_without_keyword_match": 8,
+    "raw_posts": 15,
+    "relevant_posts": 6,
+    "editorial_pool_posts": 15,
+    "retained_without_keyword_match": 9,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 20,
-    "candidate_posts": 20
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
   },
   "posts": [
     {
-      "id": "tass_agency/407637",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407637",
-      "published_at": "2026-11-25T21:54:01+00:00",
-      "text": "Источник ТАСС опроверг информацию о снятии Марка Варшавера с должности президента \"Ленкома\". Ранее в СМИ появилась соответствующая информация.",
+      "id": "bricsnews/19832",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19832",
+      "published_at": "2026-11-25T22:55:05+00:00",
+      "text": "JUST IN: 🇦🇪 Tanker explosion reported near Dubai, UAE. @BRICSNews",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78227",
+      "id": "voenkorKotenok/78231",
       "channel": "voenkorKotenok",
       "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78227",
-      "published_at": "2026-11-25T21:51:15+00:00",
+      "url": "https://t.me/voenkorKotenok/78231",
+      "published_at": "2026-11-25T22:47:30+00:00",
+      "text": "В Кривом Роге пожар после ракетного удара. Также сообщается о прилетах в Харькове. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407638",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407638",
+      "published_at": "2026-11-25T22:35:04+00:00",
+      "text": "Экс-гитарист группы Duran Duran Энди Тейлор умер на 66-м году жизни. Об этом говорится в заявлении коллектива. Отмечается, что музыкант на протяжении длительного времени боролся с раком простаты. Он умер 23 ноября в окружении семьи.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199327",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199327",
+      "published_at": "2026-11-25T22:31:47+00:00",
+      "text": "🇺🇦 Footage from the strike in Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78230",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78230",
+      "published_at": "2026-11-25T22:30:37+00:00",
+      "text": "Украинская сеть ТЦ «Эпицентр» передала эстафетную палочку ТЦ «Проспект» в Киеве. Попали туда. Пожар. В Яндексе сидят оптимисты или садисты, но карта показывает, что открытие завтра ровно в 10.00. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78229",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78229",
+      "published_at": "2026-11-25T22:25:56+00:00",
       "text": "Новые взрывы в Киеве. Есть попадания в районе ТЭЦ-4 и ТЭЦ-5. На месте одного из прилетов мощный пожар. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
@@ -141,92 +198,80 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407636",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407636",
-      "published_at": "2026-11-25T21:51:02+00:00",
-      "text": "НАТО рассчитывает, что США отложат решение о выводе части войск из Европы. Об этом сообщило со ссылкой на источники Bloomberg. Собеседники агентства обосновали это тем, что администрация Трампа сосредоточена на урегулировании украинского конфликта. Кроме того, по словам источников Bloomberg, в последние недели отношения США и НАТО улучшились ввиду готовности стран альянса увеличить расходы на оборону.",
+      "id": "AussieCossack/53563",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53563",
+      "published_at": "2026-11-25T22:24:52+00:00",
+      "text": "❗️ Flashback to when Putin warned that Russian media and information operations abroad are just a tiny drop in the ocean when compared to the volume of Western propaganda and influence operations. Putin added that Russian journalists working overseas are constantly harassed, pressured and hindered. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199324",
+      "id": "voenkorKotenok/78228",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78228",
+      "published_at": "2026-11-25T22:22:01+00:00",
+      "text": "Когда боксер перестает ртом только кушать, но и пытается включать голову (получается с трудом), он начинает делать великие географические открытия. Как Кличко, за майдан получивший на кормление мэрию Киева. Сегодня ночью боксер узнал, что в России, существуют города Брянск (оттуда, по его словам, в Киев прилетели ракеты ЗРК С-400) и Курск (из него киевлян, якобы, побаловали \"Цирконами\"). Попали по энергетике и, как разоткровенничался Кличко, по \"нежилому зданию\". А там, оказывается, \"могут быть пострадавшие\". Так и сказал. А могут и не быть. А кто живет в нежилом здании, Кличко не говорит. Молчит, как партизан или как бандеровец. Но известно с древнеримских времен, что обычно в нежилых зданиях обитают бомжи. Наверное, \"Цирконы\" приходили за этой публикой. На самом деле, ларчик открывается просто. \"Могут/не могут\" — это косвенное признание бандеровских \"ихтамнетов\". Говорить о потерях Кличку не велено, а в кого-то попали. Как же сказать, чтоб \"и вашим, и нашим? Отсюда и \"может быть\". Это, конечно, похоже на \"немножко беременна\", но для Виталия, делающего первые шаги в осмыслении бытия, это прорыв. После ночных прилетов у боксёра явно будет прибавляться по одной извилине в мозговом веществе, а после того, как уронят мост, сразу две. Стоит помочь мэру Киева поумнеть… Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kursk",
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350463",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350463",
+      "published_at": "2026-11-25T22:19:15+00:00",
+      "text": "Названы самые популярные имена детей в России в 2026-м. София - самое популярное имя для новорожденных девочек уже шестой год подряд. В пятерку лидеров также входят Анна, Ева, Мария и Варвара. Среди имен для новорожденных мальчиков лидирует Михаил. Также в топ-5 входят Александр, Артем, Матвей и Тимофей. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98619",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98619",
+      "published_at": "2026-11-25T22:13:11+00:00",
+      "text": "🇺🇸 🇷🇺 ⚡️ Jared Kushner stated that Biden’s invitation for Ukraine to join NATO preceded the war and caused the current situation, noting that the US and Russia fought together in WWII. Kushner says a fresh start with a more neutral Russia willing to cooperate and pursue peace could significantly benefit US interests. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199326",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199324",
-      "published_at": "2026-11-25T21:42:23+00:00",
-      "text": "🇺🇦 Another missile strike has been carried out on Kiev. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199326",
+      "published_at": "2026-11-25T22:12:55+00:00",
+      "text": "🇺🇦 Another Warehouse was hit in a secondary strike in Kiev 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "kyiv",
-        "missile",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350462",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350462",
-      "published_at": "2026-11-25T21:39:49+00:00",
-      "text": "Кушнер призвал Зеленского к уважительному диалогу с Трампом ради гарантий США. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53560",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53560",
-      "published_at": "2026-11-25T21:36:22+00:00",
-      "text": "❗️ \"So far, Putin has shown restraint. He has agreed not to use nuclear weapons, which is certainly of great importance,\" - Kushner. Kushner also described Russian President Vladimir Putin as a grandmaster of politics and a historical figure. @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98618",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98618",
-      "published_at": "2026-11-25T21:34:26+00:00",
-      "text": "Reports indicate that up to 70 missiles of various types are reportedly prepared for launch from five locations in Russia, raising the possibility of another attack at any moment. The reported deployments include up to 18 Iskander-M/K missiles, 5 S-400 ballistic missiles and 5 Oniks-M anti-ship missiles in the Bryansk region; 7 Zircon hypersonic missiles and 5 Oniks-M missiles in the Kursk region; 3 Zircon hypersonic missiles and 7 KN-23/24 ballistic missiles in the Voronezh region; 11 Iskander-M ballistic missiles and 3 Zircon hypersonic missiles in Millerovo; and 6 Iskander-M ballistic missiles in Taganrog. 💪 Follow Us | Discussion 💪",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kursk",
-        "missile",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407635",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407635",
-      "published_at": "2026-11-25T21:34:01+00:00",
-      "text": "Президент Московского государственного театра \"Ленком Марка Захарова\" Марк Варшавер не давал подписку о невыезде, свобода его передвижений не ограничивалась. Об этом сообщил ТАСС источник в окружении Варшавера. Ранее в СМИ появилась информация о том, что…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199322",
+      "id": "DDGeopolitics/199325",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199322",
-      "published_at": "2026-11-25T21:33:26+00:00",
-      "text": "🇺🇦 Warehouses have been hit in Kiev 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199325",
+      "published_at": "2026-11-25T22:12:02+00:00",
+      "text": "🇺🇦 The Prospect Shopping mall in Kiev is on fire 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -235,165 +280,40 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407634",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407634",
-      "published_at": "2026-11-25T21:32:01+00:00",
-      "text": "Решение Эстонии закрыть транспортное сообщение на границе с Россией — ошибочное, считает премьер-министр Латвии Кулбергс. Об этом сообщил портал Delfi. Кулбергс призвал учитывать потенциальное перераспределение транспортного потока между странами региона…",
+      "id": "AussieCossack/53561",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53561",
+      "published_at": "2026-11-25T22:06:53+00:00",
+      "text": "❗️ Leaked list of all the \"disinformation\" and \"information integrity\" programs USAID money was really being spent on: - $358M US 2021 foreign media \"disinformation\" spending (USAID 72%) - $158M USAID global media programs - $93.9M Iraq Chemonics \"Community Resilience Initiative\" - $79.8M Ukraine Russian-language TV and digital content - $75M Ukraine Internews Media Program - $60M Ukraine media programs to counter \"disinformation\" - $30.5M Latin America \"Citizens Empowered\" program - $24.7M Ukraine gov't comms, incl masterclasses with Hollywood experts - $20M Europe/Eurasia OCCRP investigative reporting - $19.9M Colombia \"Partners for Transparency\" media (La Silla Vacía) - $19.9M Venezuela IRI independent news - $19M Tunisia Political Transitions Project - $15M Belarus Freedom House, Internews media - $15M Armenia Internews media program - $15M Central Asia Internews MediaCAMP - $14M Serbia IREX MediaInnovation - $14M Ukraine Chemonics \"Confidence Building Initiative\" - $13.4M Mexico journalist/human rights defender protection - $12.8M Venezuela Freedom House news program - $12M Ukraine emergency media activities - $10.65M Kyrgyzstan Internews Media-K - $10.35M Nicaragua \"Voices for All\" media - $10M Bosnia Internews media engagement - $10M Georgia IREX media program - $10M Western Balkans Internews media - $9.7M Tanzania FHI360/Internews media - $9.4M Nicaragua media strengthening - $8.5M Chad FHI 360 civil society - $8.3M Moldova Internews media accountability - $8M Serbia Media Investment Fund - $8M Sri Lanka IREX media (MEND) - $7.5M Georgia \"information integrity\" - $7.5M Eurasia Russian-language news - $7M Philippines media freedom initiative - $6M Mexico ICFJ Reporting Hub - $5.3M German Marshall Fund anti-disinformation - $5M Belarus NDI/IRI political program - $5M Guatemala/Peru/DR youth media \"Voces de la Juventud\" - $4.5M Mali media literacy - $4.4M North Macedonia youth media literacy - $3.9M Central Asia countering disinformation - $3.5M Azerbaijan IREX journalism - $3M Serbia social media influencer training - $2.6M Moldova \"resilience initiative\" - $2.5M Bosnia investigative journalism - $2.35M Peru civic education for schools - $2.1M Belarus \"alternative narratives\" - $2M Mexico Article 19 free expression - $2M India UNICEF COVID messaging - $1.79M Indonesia media literacy via memes, games and influencers - $1.6M Ukraine \"critical media consumption\" - $1.5M Belarus civil society media/disinfo - $1.5M Jordan anti-disinformation - $1.47M Asia/Eurasia IREX Vibrant Information Barometer - $1M Mali radio campaign - $779K Ukraine National Association of Media - $631K Libya anti-disinformation - $500K Internews/YouTube media pilot - $488K Malaysia anti-disinformation - $464K Afghanistan \"Peace Support\" messaging - $200K Cambodia digital monitoring - $61K Kyrgyzstan digital security support - $38K Latin America digital support - $32K OECD \"Mis/Dis Hub\" (plan incl DEIA/LGBTQ+ grants) - $300M Countering Chinese Influence Fund - $20M \"information manipulation\" funding mechanism - $8–10M per year for disinformation fund via Summit for Democracy - $2M \"information manipulation\" monitoring hub - $1.5M staff \"information integrity\" training This is the money USAID spent to manipulate media and disinformation programs all over the world. USAID was never about feeding the hungry. It was used for regime change and manipulation of the masses. @AussieCossack via WallStreetApes",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78226",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78226",
-      "published_at": "2026-11-25T21:26:04+00:00",
-      "text": "Серия взрывов в Киеве. Противник сообщает о \"баллистике\". Как минимум восемь ракет. Предварительно, целью были объекты энергетической инфраструктуры. В бандеровских пабликах ждут \"добавки\" уже этой ночью. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "kyiv",
-        "missile"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/DDGeopolitics/199318"
-      ]
-    },
-    {
-      "id": "DDGeopolitics/199321",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199321",
-      "published_at": "2026-11-25T21:23:22+00:00",
-      "text": "🇺🇦 More footage of the Strikes in Kiev 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/DDGeopolitics/199319"
-      ],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407633",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407633",
-      "published_at": "2026-11-25T21:19:43+00:00",
-      "text": "Обыски прошли в Московском государственном театре \"Ленком Марка Захарова\" в рамках уголовного дела, сообщил ТАСС источник в правоохранительных органах. По делу проходит президент театра Марк Варшавер. Статья не уточняется, но \"речь идет о финансовых вопросах\".",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98617",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98617",
-      "published_at": "2026-11-25T21:17:48+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡ Eight Russian S-400 missiles struck Thermal Power Plant No. 4 in Kiev. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "missile"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407632",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407632",
-      "published_at": "2026-11-25T21:16:13+00:00",
-      "text": "США выступят в поддержку любого варианта украинского урегулирования, который приведет к завершению боевых действий, заявил Кушнер.",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/tass_agency/407631"
-      ],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98613",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98613",
-      "published_at": "2026-11-25T21:14:18+00:00",
-      "text": "🇺🇦 ⚡ In Dnipropetrovsk, residents blocked streets due to the prolonged lack of electricity. There has been no power in their district since Saturday, — local social media pages. A city council deputy reports that in some districts outages last two to three days. Schedules are effectively not working, and generators do not provide full electricity supply and heating for apartment buildings. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199320",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199320",
-      "published_at": "2026-11-25T21:13:39+00:00",
-      "text": "🇺🇦 Mayor “Dr Eisenfaust” Klitschko reported a strike on a warehouse in Kiev 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "MFARussia/33642",
+      "id": "MFARussia/33643",
       "channel": "MFARussia",
       "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33642",
-      "published_at": "2026-11-25T21:05:01+00:00",
-      "text": "🎙 Opening remarks by President of Russia Vladimir Putin during a meeting with President of Kazakhstan Kassym-Jomart Tokayev (Moscow, November 25, 2026) 💬 Vladimir Putin: I am very pleased to see you. We meet regularly – in Kazakhstan , in Russia and on the sidelines of various international events. This time, you have agreed to come to Russia as the guest of honour at the conference on artificial intelligence organised by Sberbank. I know that you devote considerable attention to the development of information technology in Kazakhstan . I am sure you will find the conference interesting. We will have an opportunity to hear from experts, interact with young people – schoolchildren and university students – and discuss cooperation between Russia and Kazakhstan in high-tech industries in general and in artificial intelligence in particular. 📈 Our bilateral trade is growing at a steady pace and is already approaching $30 billion – just over $28 billion, I believe. Settlements are conducted in national currencies, and their share is already substantial – over 90%. The Intergovernmental Commission is working actively on both sides. Overall, everything is progressing at a good pace , and our cooperation is at a good level . 🤝 I believe our regular meetings also help create a favourable atmosphere and give momentum to this entire process , so we are very pleased to see you. 🇷🇺 🇰🇿 #RussiaKazakhstan",
+      "url": "https://t.me/MFARussia/33643",
+      "published_at": "2026-11-25T22:02:17+00:00",
+      "text": "We're back on Instagram & are now also on Threads ! For news on all things Russian and direct access to Russia's perspective on key issues, undistorted by the MSM, follow us on the digital platform of your choosing 👇 • X • Facebook • Instagram • Telegram in Russian • Telegram in English • VK • YouTube • Threads For older photos on Instagram check: Embassy's Legacy Instagram (pre-2021)",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234711",
+      "id": "boris_rozhin/234712",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234711",
-      "published_at": "2026-11-25T21:02:05+00:00",
-      "text": "Анимированная схема ударов по территории Украины 07:30 24 ноября 2026 – 07:30 25 ноября 2026 года.",
+      "url": "https://t.me/boris_rozhin/234712",
+      "published_at": "2026-11-25T22:01:53+00:00",
+      "text": "Боевая работа хуистских операторов FPV в районе Баб-Эль-Мандеба @genshtab24",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199318",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199318",
-      "published_at": "2026-11-25T21:01:10+00:00",
-      "text": "🇺🇦 Energy infrastructure in Kiev was hit by Russian Ballistic Missiles 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy",
-        "kyiv",
-        "missile"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/voenkorKotenok/78226"
-      ]
     }
   ]
 }

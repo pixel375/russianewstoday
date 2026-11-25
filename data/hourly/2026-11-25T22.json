@@ -1,0 +1,319 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-25T22",
+  "generated_at_utc": "2026-11-25T23:08:38.043142+00:00",
+  "window_start_utc": "2026-11-25T22:00:00+00:00",
+  "window_end_utc": "2026-11-25T23:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 15,
+    "relevant_posts": 6,
+    "editorial_pool_posts": 15,
+    "retained_without_keyword_match": 9,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19832",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19832",
+      "published_at": "2026-11-25T22:55:05+00:00",
+      "text": "JUST IN: 🇦🇪 Tanker explosion reported near Dubai, UAE. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78231",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78231",
+      "published_at": "2026-11-25T22:47:30+00:00",
+      "text": "В Кривом Роге пожар после ракетного удара. Также сообщается о прилетах в Харькове. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407638",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407638",
+      "published_at": "2026-11-25T22:35:04+00:00",
+      "text": "Экс-гитарист группы Duran Duran Энди Тейлор умер на 66-м году жизни. Об этом говорится в заявлении коллектива. Отмечается, что музыкант на протяжении длительного времени боролся с раком простаты. Он умер 23 ноября в окружении семьи.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199327",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199327",
+      "published_at": "2026-11-25T22:31:47+00:00",
+      "text": "🇺🇦 Footage from the strike in Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78230",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78230",
+      "published_at": "2026-11-25T22:30:37+00:00",
+      "text": "Украинская сеть ТЦ «Эпицентр» передала эстафетную палочку ТЦ «Проспект» в Киеве. Попали туда. Пожар. В Яндексе сидят оптимисты или садисты, но карта показывает, что открытие завтра ровно в 10.00. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78229",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78229",
+      "published_at": "2026-11-25T22:25:56+00:00",
+      "text": "Новые взрывы в Киеве. Есть попадания в районе ТЭЦ-4 и ТЭЦ-5. На месте одного из прилетов мощный пожар. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53563",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53563",
+      "published_at": "2026-11-25T22:24:52+00:00",
+      "text": "❗️ Flashback to when Putin warned that Russian media and information operations abroad are just a tiny drop in the ocean when compared to the volume of Western propaganda and influence operations. Putin added that Russian journalists working overseas are constantly harassed, pressured and hindered. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78228",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78228",
+      "published_at": "2026-11-25T22:22:01+00:00",
+      "text": "Когда боксер перестает ртом только кушать, но и пытается включать голову (получается с трудом), он начинает делать великие географические открытия. Как Кличко, за майдан получивший на кормление мэрию Киева. Сегодня ночью боксер узнал, что в России, существуют города Брянск (оттуда, по его словам, в Киев прилетели ракеты ЗРК С-400) и Курск (из него киевлян, якобы, побаловали \"Цирконами\"). Попали по энергетике и, как разоткровенничался Кличко, по \"нежилому зданию\". А там, оказывается, \"могут быть пострадавшие\". Так и сказал. А могут и не быть. А кто живет в нежилом здании, Кличко не говорит. Молчит, как партизан или как бандеровец. Но известно с древнеримских времен, что обычно в нежилых зданиях обитают бомжи. Наверное, \"Цирконы\" приходили за этой публикой. На самом деле, ларчик открывается просто. \"Могут/не могут\" — это косвенное признание бандеровских \"ихтамнетов\". Говорить о потерях Кличку не велено, а в кого-то попали. Как же сказать, чтоб \"и вашим, и нашим? Отсюда и \"может быть\". Это, конечно, похоже на \"немножко беременна\", но для Виталия, делающего первые шаги в осмыслении бытия, это прорыв. После ночных прилетов у боксёра явно будет прибавляться по одной извилине в мозговом веществе, а после того, как уронят мост, сразу две. Стоит помочь мэру Киева поумнеть… Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kursk",
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350463",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350463",
+      "published_at": "2026-11-25T22:19:15+00:00",
+      "text": "Названы самые популярные имена детей в России в 2026-м. София - самое популярное имя для новорожденных девочек уже шестой год подряд. В пятерку лидеров также входят Анна, Ева, Мария и Варвара. Среди имен для новорожденных мальчиков лидирует Михаил. Также в топ-5 входят Александр, Артем, Матвей и Тимофей. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98619",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98619",
+      "published_at": "2026-11-25T22:13:11+00:00",
+      "text": "🇺🇸 🇷🇺 ⚡️ Jared Kushner stated that Biden’s invitation for Ukraine to join NATO preceded the war and caused the current situation, noting that the US and Russia fought together in WWII. Kushner says a fresh start with a more neutral Russia willing to cooperate and pursue peace could significantly benefit US interests. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199326",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199326",
+      "published_at": "2026-11-25T22:12:55+00:00",
+      "text": "🇺🇦 Another Warehouse was hit in a secondary strike in Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199325",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199325",
+      "published_at": "2026-11-25T22:12:02+00:00",
+      "text": "🇺🇦 The Prospect Shopping mall in Kiev is on fire 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53561",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53561",
+      "published_at": "2026-11-25T22:06:53+00:00",
+      "text": "❗️ Leaked list of all the \"disinformation\" and \"information integrity\" programs USAID money was really being spent on: - $358M US 2021 foreign media \"disinformation\" spending (USAID 72%) - $158M USAID global media programs - $93.9M Iraq Chemonics \"Community Resilience Initiative\" - $79.8M Ukraine Russian-language TV and digital content - $75M Ukraine Internews Media Program - $60M Ukraine media programs to counter \"disinformation\" - $30.5M Latin America \"Citizens Empowered\" program - $24.7M Ukraine gov't comms, incl masterclasses with Hollywood experts - $20M Europe/Eurasia OCCRP investigative reporting - $19.9M Colombia \"Partners for Transparency\" media (La Silla Vacía) - $19.9M Venezuela IRI independent news - $19M Tunisia Political Transitions Project - $15M Belarus Freedom House, Internews media - $15M Armenia Internews media program - $15M Central Asia Internews MediaCAMP - $14M Serbia IREX MediaInnovation - $14M Ukraine Chemonics \"Confidence Building Initiative\" - $13.4M Mexico journalist/human rights defender protection - $12.8M Venezuela Freedom House news program - $12M Ukraine emergency media activities - $10.65M Kyrgyzstan Internews Media-K - $10.35M Nicaragua \"Voices for All\" media - $10M Bosnia Internews media engagement - $10M Georgia IREX media program - $10M Western Balkans Internews media - $9.7M Tanzania FHI360/Internews media - $9.4M Nicaragua media strengthening - $8.5M Chad FHI 360 civil society - $8.3M Moldova Internews media accountability - $8M Serbia Media Investment Fund - $8M Sri Lanka IREX media (MEND) - $7.5M Georgia \"information integrity\" - $7.5M Eurasia Russian-language news - $7M Philippines media freedom initiative - $6M Mexico ICFJ Reporting Hub - $5.3M German Marshall Fund anti-disinformation - $5M Belarus NDI/IRI political program - $5M Guatemala/Peru/DR youth media \"Voces de la Juventud\" - $4.5M Mali media literacy - $4.4M North Macedonia youth media literacy - $3.9M Central Asia countering disinformation - $3.5M Azerbaijan IREX journalism - $3M Serbia social media influencer training - $2.6M Moldova \"resilience initiative\" - $2.5M Bosnia investigative journalism - $2.35M Peru civic education for schools - $2.1M Belarus \"alternative narratives\" - $2M Mexico Article 19 free expression - $2M India UNICEF COVID messaging - $1.79M Indonesia media literacy via memes, games and influencers - $1.6M Ukraine \"critical media consumption\" - $1.5M Belarus civil society media/disinfo - $1.5M Jordan anti-disinformation - $1.47M Asia/Eurasia IREX Vibrant Information Barometer - $1M Mali radio campaign - $779K Ukraine National Association of Media - $631K Libya anti-disinformation - $500K Internews/YouTube media pilot - $488K Malaysia anti-disinformation - $464K Afghanistan \"Peace Support\" messaging - $200K Cambodia digital monitoring - $61K Kyrgyzstan digital security support - $38K Latin America digital support - $32K OECD \"Mis/Dis Hub\" (plan incl DEIA/LGBTQ+ grants) - $300M Countering Chinese Influence Fund - $20M \"information manipulation\" funding mechanism - $8–10M per year for disinformation fund via Summit for Democracy - $2M \"information manipulation\" monitoring hub - $1.5M staff \"information integrity\" training This is the money USAID spent to manipulate media and disinformation programs all over the world. USAID was never about feeding the hungry. It was used for regime change and manipulation of the masses. @AussieCossack via WallStreetApes",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33643",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33643",
+      "published_at": "2026-11-25T22:02:17+00:00",
+      "text": "We're back on Instagram & are now also on Threads ! For news on all things Russian and direct access to Russia's perspective on key issues, undistorted by the MSM, follow us on the digital platform of your choosing 👇 • X • Facebook • Instagram • Telegram in Russian • Telegram in English • VK • YouTube • Threads For older photos on Instagram check: Embassy's Legacy Instagram (pre-2021)",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234712",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234712",
+      "published_at": "2026-11-25T22:01:53+00:00",
+      "text": "Боевая работа хуистских операторов FPV в районе Баб-Эль-Мандеба @genshtab24",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
