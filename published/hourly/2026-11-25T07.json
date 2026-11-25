@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    200
+  ],
+  "published_at_utc": "2026-11-25T08:26:36.963486+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-25T07",
+  "items": [
+    {
+      "item_id": "2026-11-25T07:1",
+      "title": "Around 100 schools in occupied Luhansk region move to remote learning",
+      "summary": "Russian-appointed education official Yevgeny Miroshnichenko said around 100 schools had moved to remote or hybrid learning, most of them near the front line. He said parental preferences also influenced decisions in some municipalities.",
+      "post_url": "https://t.me/russianewstodayofficial/200",
+      "category": "other",
+      "hour_id": "2026-11-25T07",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T07:2",
+      "title": "Medvedev warns against NATO troop deployment to Ukraine",
+      "summary": "Russian Security Council deputy chairman Dmitry Medvedev warned that former British prime minister Boris Johnson's proposal to deploy NATO troops to Ukraine could lead to direct war with Russia. Medvedev also made a violent threat against Johnson in the event of such a conflict.",
+      "post_url": "https://t.me/russianewstodayofficial/200",
+      "category": "other",
+      "hour_id": "2026-11-25T07",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T07:3",
+      "title": "Russian Foreign Ministry issues warning over Estonia",
+      "summary": "Russia's Foreign Ministry accused Estonia of actions that it said risk provoking an open war with Russia. The available statement did not specify the actions in question or include an Estonian response.",
+      "post_url": "https://t.me/russianewstodayofficial/200",
+      "category": "other",
+      "hour_id": "2026-11-25T07",
+      "source_handles": [
+        "dva_majors"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
