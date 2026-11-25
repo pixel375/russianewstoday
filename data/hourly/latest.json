@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-25T03",
-  "generated_at_utc": "2026-11-25T04:07:15.363527+00:00",
-  "window_start_utc": "2026-11-25T03:00:00+00:00",
-  "window_end_utc": "2026-11-25T04:00:00+00:00",
+  "hour_id": "2026-11-25T04",
+  "generated_at_utc": "2026-11-25T05:03:33.140667+00:00",
+  "window_start_utc": "2026-11-25T04:00:00+00:00",
+  "window_end_utc": "2026-11-25T05:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 9
     },
     {
       "handle": "rian_ru",
@@ -63,7 +63,7 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
@@ -99,30 +99,275 @@
       "handle": "donbassr",
       "name": "Donbass Decides (Донбасс решает)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 3
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 10,
-    "relevant_posts": 1,
-    "deduplicated_posts": 1,
-    "candidate_posts": 1
+    "raw_posts": 19,
+    "relevant_posts": 4,
+    "editorial_pool_posts": 19,
+    "retained_without_keyword_match": 15,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 19,
+    "candidate_posts": 19
   },
   "posts": [
     {
-      "id": "tass_agency/407478",
+      "id": "tass_agency/407491",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407478",
-      "published_at": "2026-11-25T03:32:36+00:00",
-      "text": "📹 ВПК Франции истощает армейские резервы из-за помощи Киеву, сообщил ТАСС экс-офицер французских ВС Ксавье Моро. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "url": "https://t.me/tass_agency/407491",
+      "published_at": "2026-11-25T04:59:01+00:00",
+      "text": "Главные новости к этому часу: ▪️ Трамп засмеялся , услышав слова Зеленского о сроке завершения конфликта. ▪️ Венгрия не будет участвовать в кредите ЕС Украине на €45 млрд, заявил Мадьяр. ▪️ Премьер-министр Эстонии допустил закрытие ж/д погранпункта в Нарве. ▪️ Хакеры проникли в систему анализа данных ЦРУ, пишет NYT. ▪️ В ГД рассказали об изменении пенсии после 80 лет. ▪️ В ЕК заявили о достижении критического рубежа в сфере финансов ЕС. ▪️ На Украине планируют ужесточить мобилизацию , сообщили в силовых структурах РФ. ▪️ Эксперт Балынин рассказал , будет ли 30 декабря сокращенным рабочим днем. ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117407",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117407",
+      "published_at": "2026-11-25T04:55:13+00:00",
+      "text": "❗️ В Ростовской области за минувшую ночь уничтожено более 50 БПЛА ВСУ, сообщил губернатор, Юрий Слюсарь. Беспилотники сбивались в Таганроге, Азовском, Верхнедонском, Каменском, Мясниковском, Неклиновском, Чертковском и Шолоховском районах. Информация о пострадавших и разрушениях не поступала. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117406",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117406",
+      "published_at": "2026-11-25T04:53:17+00:00",
+      "text": "❗️ Более 145 беспилотников сбили над Самарской областью минувшей ночью. Есть погибший , сообщил губернатор Вячеслав Федорищев. ✔️ После атаки в отдельных районах области отключилось электричество, также есть последствия на земле. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407490",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407490",
+      "published_at": "2026-11-25T04:53:01+00:00",
+      "text": "▶️ Украинцы сдают ВС РФ координаты ВСУ, в том числе и зданий ТЦК, поскольку устали от своей власти. Об этом в беседе с ТАСС сообщил начальник разведки \"Ахмата\" с позывным Аид. Видео: Алена Хлевнюк/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407489",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407489",
+      "published_at": "2026-11-25T04:48:11+00:00",
+      "text": "🚨 Над Самарской областью ночью сбито более 145 БПЛА, есть погибший, сообщил губернатор. После атаки БПЛА в Самарской области есть отключения электричества на отдельных территориях, также есть последствия на земле.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350418",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350418",
+      "published_at": "2026-11-25T04:47:32+00:00",
+      "text": "Москвичей ждут 8-балльные пробки вечером в среду. \"Автомобиль - не лучший выбор для поездки на работу и обратно. Советуем воспользоваться метро, чтобы не терять время и не опаздывать\", - подчеркнули в столичном департаменте транспорта. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117405",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117405",
+      "published_at": "2026-11-25T04:45:11+00:00",
+      "text": "☂️ Погода на Юге России утром 25 ноября: ☁️ В Донецке 0°, пасмурно. ⛅️ В Луганске 0°, облачно с прояснениями. ⛅️ В Ростове-на-Дону: +1°, облачно с прояснениями. ☁️ В Херсоне +1°, пасмурно. ☁️ В Запорожье +1°, пасмурно. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199211",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199211",
+      "published_at": "2026-11-25T04:41:29+00:00",
+      "text": "🇷🇺 Big cat palate cleanser 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407488",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407488",
+      "published_at": "2026-11-25T04:39:01+00:00",
+      "text": "Гражданин РФ в нью-йоркском суде признал вину в незаконном экспорте компонентов электроники из США в РФ, сообщает американский Минюст. Ранее проживавший в Швеции 52-летний Суворов признал вину в том, что с марта 2022 по апрель 2023 года он организовывал поставки компонентов электроники двойного назначения. Ему может грозить до 20 лет тюремного заключения и штраф на сумму до $1 млн.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407487",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407487",
+      "published_at": "2026-11-25T04:34:01+00:00",
+      "text": "В Омской области найдено тело мужчины со следами нападения медведя, сообщают ТАСС оперслужбы. Число погибших в России от нападений медведей в 2026 году выросло до 37, следует из подсчетов ТАСС.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199210",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199210",
+      "published_at": "2026-11-25T04:28:02+00:00",
+      "text": "🇺🇸 Trump has welcomed Huang's return, calling him a \"Great Patriot and National Treasure\" and saying the country needs his leadership at Nvidia for the sake of the American economy. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407486",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407486",
+      "published_at": "2026-11-25T04:27:01+00:00",
+      "text": "▶️ Антидроновые патроны Ростеха массово применяются на спецоперации для поражения малых дронов, сообщили в госкорпорации. Видео: Ростех/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407485",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407485",
+      "published_at": "2026-11-25T04:19:01+00:00",
+      "text": "Таксист не обязан принимать заказ с ребенком по обычному тарифу. Если у родителя есть детское автокресло или бустер, решение о поездке будет зависеть от условий договора с агрегатором. Об этом ТАСС сообщила эксперт МГЮА Юлия Мухина.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199209",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199209",
+      "published_at": "2026-11-25T04:17:48+00:00",
+      "text": "🇺🇦 💥 Belaya Tserkov, Kiev region - another store of the chain with the most unfortunate name \"Epicentr\" was hit, as well as a \"Nova Poshta\" branch, and an infrastructure facility. According to Ukrainian monitoring data, at least six drones are currently in the airspace over Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
         "kyiv"
       ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407484",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407484",
+      "published_at": "2026-11-25T04:13:43+00:00",
+      "text": "\"Дворцы за копейки\" и \"жилье-телепорт\" вошли в топ фейков на рынке недвижимости, рассказала в беседе с ТАСС руководитель офисов \"Митино\" и \"Крылатский\" компании \"Инком-недвижимость\" Борзенкова. В объявлении может быть представлена роскошная квартира в Сочи или Краснодаре с видом на море и ремонтом как во дворце по цене старого гаража. На деле это попытка продать сарай или долю в подвале, где нельзя прописаться. Иногда в поиске может стоять адрес в центре Москвы, а в реальности дом стоит на окраине города.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234593",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234593",
+      "published_at": "2026-11-25T04:09:01+00:00",
+      "text": "⠀ 🔴 Доказательства зверств киевского режима в г. Димитров (ДНР). Смотреть на Rutube Смотреть предыдущие свидетельства Наш Международный общественный трибунал по преступлениям украинских неонацистов (председатель — М. С. Григорьев ) из представителей гражданского общества 35 стран мира продолжает сбор свидетельств преступлений киевского режима. Жительница г. Димитров (ДНР) Ольга Абрамова: 00:00 \"Сначала у нас хозяйственные постройки разрушили. Прилетела \"Баба-яга\", попала в дровник, и всё сгорело. Через два дня снова начали летать украинские дроны и разбили дом. 00:35 Украинские дроны били по домам. Через дорогу от моего дома летел украинский дрон и врезался в крышу пустого дома. Через два часа — следующий дом. Ещё через два часа — ещё один. Они кружили рядом, пока дом горел, смотрели, как он догорает, потом улетали. Через некоторое время то же самое происходило с другим домом. 01:27 Муж у меня умер от болезни. На кладбище попасть было нельзя, оно было заминировано. 02:06 Погиб мой сосед. Он ехал домой на своей машине с водой. До своей улицы не доехал километра два-три — в машину попал украинский дрон. Машину разорвало на части, её обломки до сих пор там лежат. Сосед погиб. 02:43 Украинские военные заходили в пустые дома. Вешали на дверь гранату, стреляли по ней, взрывали замок и входили. Из домов забирали технику и другие вещи, а потом отправляли их в свои города. 03:55 Две дочери были эвакуированы на Украину. Связаться с ними невозможно. Я записывала голосовые дочерям. Одна не отреагировала. Вторая прислала сердечко. Потом она объяснила, что боится общаться, Украина их прослушивает\". Проект реализуется при поддержке Леонида Слуцкого, Бориса Рожина, Армена Гаспаряна, Олега Матвейчева, Дмитрия Пучкова, Игоря Коротченко, Сергея Котькало, Егора Холмогорова, Игоря Скурлатова, Александра Малькевича, Михаила Онуфриенко . Прошу сделать репост и распространять данную информацию — важно, чтобы и у нас, и за рубежом знали правду. #МеждународныйОбщественныйТрибунал #Донбасс #СВО #ОПРФ #ПреступленияКиевскогоРежима #ПреступленияВСУ #ЦентрИсторииСВО #Безсрокадавности #ХранитьВечно Подписаться на канал в МАХ Подписаться на канал в ТГ Подписаться на канал в Rutube",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102486",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102486",
+      "published_at": "2026-11-25T04:06:55+00:00",
+      "text": "Лукашенко: 🇧🇾 «Мы с Зеленским могли бы сесть в самолет и прилететь в Москву. Я – как гарант безопасности». 🇧🇾 «Не согласится – пусть воюет. Пусть отправляется сам на фронт с автоматом и воюет. Его согласие… Война идет. Ее надо остановить, и мы могли бы договориться»…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407483",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407483",
+      "published_at": "2026-11-25T04:04:41+00:00",
+      "text": "📹 Посол Пакистана в Москве Тирмизи выступил за введение безвизового режима с РФ. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199208",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199208",
+      "published_at": "2026-11-25T04:03:10+00:00",
+      "text": "🇦🇲 💬 🇷🇺 The Deputy Minister of Foreign Affairs and International Trade of Armenia Kostanyan stated that Armenia does not want to create a crisis in its relations with Russia: \"We have no intention whatsoever of severing ties with Russia, creating a crisis in these relations, or burning bridges with Russia. Russia continues to be an important partner for the Republic of Armenia. Our agenda, as has already been announced, is to review the issues that have accumulated in the relations between Armenia and Russia in recent times or over a longer period. This review is aimed at improving relations and moving forward.\" 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
