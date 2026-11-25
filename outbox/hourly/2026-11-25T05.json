@@ -1,0 +1,23 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-25T05",
+  "snapshot_generated_at_utc": "2026-11-25T06:02:28.985312+00:00",
+  "items": [
+    {
+      "title": "Russia claims overnight strikes on Ukrainian infrastructure",
+      "summary": "Russia's Defence Ministry said overnight strikes targeted Ukrainian energy and transport infrastructure, industrial facilities and a cargo vessel allegedly carrying military supplies. Reports citing local authorities described electricity and heating disruptions in Zaporizhzhia. The claimed military use of the targets and extent of damage have not been independently verified.",
+      "source_urls": [
+        "https://t.me/donbassr/117411",
+        "https://t.me/donbassr/117410",
+        "https://t.me/DDGeopolitics/199216"
+      ]
+    },
+    {
+      "title": "Russian-appointed official outlines possible Zaporizhzhia nuclear plant restart",
+      "summary": "Russian-appointed regional governor Yevgeny Balitsky claimed the nuclear power plant could resume operations within two to three months after hostilities end. He said alternative water sources could provide reactor cooling. The proposed timeline and technical feasibility have not been independently verified.",
+      "source_urls": [
+        "https://t.me/donbassr/117412"
+      ]
+    }
+  ]
+}
