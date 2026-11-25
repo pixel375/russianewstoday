@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-25T10",
-  "generated_at_utc": "2026-11-25T11:04:39.288183+00:00",
-  "window_start_utc": "2026-11-25T10:00:00+00:00",
-  "window_end_utc": "2026-11-25T11:00:00+00:00",
+  "hour_id": "2026-11-25T11",
+  "generated_at_utc": "2026-11-25T12:09:22.022626+00:00",
+  "window_start_utc": "2026-11-25T11:00:00+00:00",
+  "window_end_utc": "2026-11-25T12:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 7
+      "raw_count": 5
     },
     {
       "handle": "intelslava",
@@ -21,13 +21,13 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 5
     },
     {
       "handle": "MFARussia",
@@ -39,13 +39,13 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 9
+      "raw_count": 12
     },
     {
       "handle": "rian_ru",
@@ -57,13 +57,13 @@
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 1
     },
     {
       "handle": "WarGonzo",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 6
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 1
     },
     {
       "handle": "nab_ukraine",
@@ -105,314 +105,75 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 40,
-    "relevant_posts": 14,
-    "editorial_pool_posts": 40,
-    "retained_without_keyword_match": 25,
+    "raw_posts": 45,
+    "relevant_posts": 23,
+    "editorial_pool_posts": 45,
+    "retained_without_keyword_match": 21,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 39,
-    "candidate_posts": 39
+    "deduplicated_posts": 44,
+    "candidate_posts": 44
   },
   "posts": [
     {
-      "id": "intelslava/98580",
+      "id": "DDGeopolitics/199254",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199254",
+      "published_at": "2026-11-25T11:56:54+00:00",
+      "text": "🇫🇷 Marine Le Pen’s victory in the French presidential elections could trigger the largest crisis in the history of the European Union. “France may refuse to recognize many EU laws and agreements, as well as deviate from the union’s common foreign policy line, in particular by drawing closer to Russia,” writes Financial Times columnist Martin Wolf. Due to a public debt of 116% of GDP and a budget deficit of 5.1% at the end of 2025, France may need assistance from the European Central Bank if investors withdraw, but such aid will only be provided if EU budget rules are observed. According to the author, this will force the future authorities to choose between strict spending cuts and the risk of the country leaving the bloc. According to polls, Marine Le Pen is currently gaining about 35% of the votes in the first round of the presidential elections and is leading her opponents in the second round. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407556",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407556",
+      "published_at": "2026-11-25T11:56:46+00:00",
+      "text": "Обвиняющие РФ в нарушении Конвенции о запрещении химического оружия страны в ОЗХО не представляют никаких доказательств и подтасовывают факты, заявил зампостпреда РФ при организации Азар Джиоев. Он также отметил, что страны ЕС и НАТО вмешиваются в процесс назначения представителей от региональных групп в Исполнительный совет ОЗХО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199253",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199253",
+      "published_at": "2026-11-25T11:55:52+00:00",
+      "text": "🇷🇺 🇵🇱 🇺🇦 Poland appears to be pushing NATO toward a direct confrontation with Russia. According to Bloomberg, Warsaw has suggested that NATO member states consider intercepting Russian missiles over Ukraine if those missiles are believed to be heading toward NATO territory. This proposal was discussed at a meeting of ambassadors in Brussels on November 23. While some participants expressed support, the discussion remained preliminary, and no decision was reached. The Russian Foreign Ministry has previously warned that if Poland were to start intercepting Russian missiles over Ukraine, Moscow would reserve the right to respond. It seems that Polish officials are not inclined to pursue de‑escalation; instead, their actions continue to steer NATO into a riskier position. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98582",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98580",
-      "published_at": "2026-11-25T10:58:40+00:00",
-      "text": "🇺🇸 ⚡️ — Trump said he is open to pardoning Nvidia CEO Jensen Huang but does not believe a pardon will be necessary, urging Huang to testify before Congress and “just tell the truth.” Asked about Huang’s alleged affairs, Trump joked that he was more interested in Nvidia’s chip business than Huang’s sex life. He also said he had considered the U.S. government taking an equity stake in Nvidia, citing the company’s importance to American leadership in AI, adding that it was “probably not too late.” — New York Post. @IntelSlava",
+      "url": "https://t.me/intelslava/98582",
+      "published_at": "2026-11-25T11:55:11+00:00",
+      "text": "🇺🇸 ⚡️ — The U.S. Treasury Department’s Financial Crimes Enforcement Network (FinCEN) is investigating a cybersecurity breach after detecting unauthorized access to a limited number of its systems. Several systems have been taken offline as a precaution while the investigation is underway. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350434",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350434",
-      "published_at": "2026-11-25T10:55:00+00:00",
-      "text": "\"Готова ли молодая девочка к этому? Она не готова\" Онищенко раскритиковал шоу \"Беременна в 16\". \"Это, говоря современным языком, хайп. Это уверенный бред непрофессиональных людей. Да, 16 лет - это тот возраст, в котором может произойти зачатие. Но нужно ли это делать? Готова ли молодая девочка к этому? Она не готова. Она не имеет ни образования, ничего Академик считает, что такие шоу не являются медицинскими передачами и способствуют дезинформации населения. Если оно (шоу - ред.) проводится без участия специалистов, а это гинекологи, акушер-гинекологи, перинатологи, то его как минимум надо запретить. Потому что это ради того, чтобы набрать рейтинги 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199249",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199249",
-      "published_at": "2026-11-25T10:54:55+00:00",
-      "text": "🇫🇷 🇺🇦 A political scandal is brewing in France over the deployment of French military personnel to Ukraine without notifying the parliament, writes Politico. Today, Alice Rufo, the Deputy Minister of Defense of France, has been summoned to closed hearings in the Senate, where she is expected to explain the circumstances of the deployment of military personnel. Last week, the French radio station RFI reported that the military personnel are in Ukraine as part of the Volia mission, led by a French general. They are engaged in training Ukrainian military personnel and maintaining the military equipment transferred by Paris. The opposition accuses the government of violating the constitution and creating a risk of direct French involvement in the war with Russia. According to Article 35 of the French constitution, the government is required to notify parliament of the deployment of troops for intervention in a conflict abroad within three days. If the operation lasts more than four months, its continuation must be approved by parliament. However, the French Ministry of Defense claims that this provision does not apply to missions that do not involve participation in combat operations. The opposition disagrees with this. “If these military personnel become involved in combat operations, France will be at war with Russia without a single vote in parliament,” stated Bastien Lachaud, a member of parliament from the “Unbowed France” party. Cedric Perrin, head of the Senate committee on defense, accused Macron of disrespecting parliament. “We cannot accuse Putin of lying while simultaneously hiding information that damages our cause,” the senator stated. The publication notes that two key candidates for the presidential post in France - Le Pen and Mélenchon - are negatively disposed toward aid to Ukraine and demand preventing a war with Russia. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199248",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199248",
-      "published_at": "2026-11-25T10:52:50+00:00",
-      "text": "🇬🇧 🇺🇦 Zaluzhny stated that Ukraine will always be grateful to Johnson for the disruption of peace negotiations. He calls for defeating Russia on the battlefield. ‘In 2022, Boris Johnson showed the resolve to provide weapons to those who needed them for survival. In the modern world, this is a rare instance for which Ukraine and I personally will always be grateful to him. Here, in Churchill’s offices, we discussed what lessons should be drawn for the future. Thanks to Ukrainians, millions of people are not yet dying in Europe. But thousands of kilometers away from here, as in Munich in 1938, someone is already trying to decide the fate of Ukraine and Europe in the interests of ‘friend Vladimir’. Deals will not end the war, which has been raging in the heart of Europe for more than 12 years. The war is ended not by satisfying the appetites of the enemy, but only by depriving it of the ability to fight.’ 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407544",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407544",
-      "published_at": "2026-11-25T10:51:07+00:00",
-      "text": "Почва для переговоров с Украиной есть всегда, Россия открыта к ним, сообщил Песков. Главное из его заявлений: ▪️ Никакой конкретики от ЕС на фоне предложений Путина о визите в Москву не было; ▪️ Россия открыта и готова к контактам с Европой; ▪️ Определенные рабочие контакты с представителями ЕС есть, но они малорезультативны; ▪️ Дата следующего раунда переговоров по украинскому урегулированию в Абу-Даби пока не определена. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow",
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53551",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53551",
-      "published_at": "2026-11-25T10:48:39+00:00",
-      "text": "❗️ Why are Ukrainian police convoys driving around Poland with lights and sirens blasting? Has Poland been colonised? @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117433",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117433",
-      "published_at": "2026-11-25T10:48:01+00:00",
-      "text": "Около 20 млрд рублей дополнительно выделили на дорожное строительство в регионах Донбасса и Новороссии, сообщил зампред правительства РФ Марат Хуснуллин. \"Буквально на прошлой неделе приняли постановление правительства, добавили 20 млрд рублей на дорожное строительство в новых регионах\", - сказал он в ходе планерного заседания в Госдуме. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53550",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53550",
-      "published_at": "2026-11-25T10:47:32+00:00",
-      "text": "❗️ The weak dog Nektary Kotlaroff drops the word \"Russian\" from the name of his Choir in exchange for channel 9 main stream media coverage. \"Sold out\" is an excellent way to describe Nektary Kotlaroff indeed. Recall that the same Nektary Kotalroff told ABC…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199247",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199247",
-      "published_at": "2026-11-25T10:46:59+00:00",
-      "text": "🇩🇪 AfD co-leader Tino Chrupalla: Schools, bridges and railway lines are falling apart. Competitiveness is disappearing every day, and small and medium-sized businesses are disappearing along with it. Yet you boast that another €11 billion in military aid for Ukraine has been allocated for 2027, and you are even promoting investment in Ukraine and its economy — in one of the most corrupt countries in the world. Whose chancellor are you actually, Mr. Merz? 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "corruption"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102508",
+      "id": "dva_majors/102509",
       "channel": "dva_majors",
       "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102508",
-      "published_at": "2026-11-25T10:46:21+00:00",
-      "text": "🇧🇾 Лукашенко : атака украинских беспилотников на резиденцию 🇷🇺 Верховного в декабре 2025 года сорвала договоренность о перемирии по линии фронта. «Путин понял, это я знаю точно, что доверять здесь украинцам, читай — Западу, нельзя. Не думаю, что Зеленский решился бы нанести удар по резиденции Путина, если бы это не одобрили в Европе. Такое у него [Путина] мнение. И это все было разрушено. А так бы уже война остановилась по линии соприкосновения, если бы этого акта не было. И можно было бы дальше договариваться о том, где эта будет граница, как там, что там», - заявил Лукашенко в интервью французскому Le Point. ⚡️ Два майора ⭐️ Два майора в МАХ",
+      "url": "https://t.me/dva_majors/102509",
+      "published_at": "2026-11-25T11:54:06+00:00",
+      "text": "Одесса Немного обесточена из-за прилета по энергетике. В пригороде повреждено частное логистическое предприятие и производство бытовой бумажной продукции. Два майора Два майора в МАХ",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199246",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199246",
-      "published_at": "2026-11-25T10:46:12+00:00",
-      "text": "🇩🇪 Reichskanzler Friedrich Merz on Russia: It cannot be said often enough to the far right and the far left: Russia knows exactly what it wants, and Russia wants more than Ukraine. Whoever doesn’t understand that doesn’t understand this world, or is pursuing completely different goals. Russia is escalating in the Baltic region. Russia is escalating in Poland. Russia is escalating in the Black Sea. Russia is escalating in space, and Russia is escalating massively here in our country too, even accepting the loss of human lives. That is why we as Europeans will show Russia its limits, in both senses of the word. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "MFARussia/33601",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33601",
-      "published_at": "2026-11-25T10:46:03+00:00",
-      "text": "🔴 #LIVE : The signing ceremony of documents and the joint news conference by Russia's Foreign Minister Sergey Lavrov and Foreign Minister of the Republic of Belarus Maxim Ryzhenkov following the joint meeting of the boards of the Russian and Belarusian Foreign Ministries. 📍 Gomel, November 25, 2026 🔴 Ruptly 🔴 Russia's MFA website 🇷🇺 🇧🇾 #RussiaBelarus",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407543",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407543",
-      "published_at": "2026-11-25T10:45:47+00:00",
-      "text": "Кремль готовится к визиту Пашиняна, подробности будут объявлены дополнительно, сообщил Песков. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407542",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407542",
-      "published_at": "2026-11-25T10:44:20+00:00",
-      "text": "\"Я, как гарант его безопасности, мог бы с ним сесть и прилететь в Москву\". Лукашенко заявил о готовности вместе с Зеленским приехать на переговоры к Путину. \"Мы быстрее бы договорились, чем с вами [европейцами], об окончании этой войны и о будущем обустройстве…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow",
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234627",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234627",
-      "published_at": "2026-11-25T10:41:04+00:00",
-      "text": "Момент прилёта по одному из мест дислокации противника в Кривом Роге,",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407541",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407541",
-      "published_at": "2026-11-25T10:37:04+00:00",
-      "text": "Китайские и российские СМИ должны совместно противостоять создаваемой ИИ дезинформации и хаосу, чтобы воспрепятствовать утрате доверия людей к информационным агентствам. Об этом заявил главный редактор агентства Xinhua Люй Яньсун на VII Форуме СМИ России и Китая, организаторами которого являются ТАСС и Xinhua. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117432",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117432",
-      "published_at": "2026-11-25T10:35:32+00:00",
-      "text": "Размещение любых иностранных военных контингентов на Украине абсолютно неприемлемо для Москвы, подчеркнул Дмитрий Песков. Другие заявления пресс-секретаря президента России: ▪️ Комментируя предложение Бориса Джонсона отправить европейских военных до прекращения огня, Песков отметил, что Джонсон помешал прекращению конфликта в 2022 году и по-прежнему не настроен на мир; ▪️ Конкретной информации о визите европейской делегации в Москву пока нет. Песков напомнил, что в Брюсселе публично заявляли об отказе от двусторонних контактов; ▪️ Кремль не будет раскрывать содержание переговоров по Украине; ▪️ Россия будет делать всё необходимое для достижения целей СВО. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow",
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "MFARussia/33598",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33598",
-      "published_at": "2026-11-25T10:33:05+00:00",
-      "text": "🎙 Opening remarks by Russia's Foreign Minister Sergey Lavrov at a meeting with Foreign Minister of Belarus Maxim Ryzhenkov (Gomel, November 25, 2026) 💬 Sergey Lavrov : It is a great pleasure to be in this city, a symbol of our peoples’ shared history , the memory of which is so carefully preserved here. As you have just said, it is fitting that it is here that we will discuss the ways to further deepen our foreign policy partnership and coordinate our joint efforts. We will endorse the draft of a new programme for subsequent approval by our Heads of State at a meeting of the Supreme State Council of the Union State . The warm atmosphere our Belarusian friends and the head of the local administration have created here always sets the tone for productive talks . 🇷🇺 🇧🇾 #RussiaBelarus",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117431",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117431",
-      "published_at": "2026-11-25T10:32:55+00:00",
-      "text": "Сбор налогов в Донбассе и Новороссии вырос на 11% , заявил вице-премьер РФ Марат Хуснуллин. \"У нас, кстати, сумма налогов на новых территориях выросла на 11%. Вообще экономическая жизнь, несмотря ни на что, она развивается\" , - сказал он в ходе правительственного часа в Госдуме. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30778",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30778",
-      "published_at": "2026-11-25T10:32:39+00:00",
-      "text": "🎖 🎖 by Russian Defence Ministry on progress of special military operation as of 25 November 2026 The Armed Forces of the Russian Federation continue the special military operation. 📍 The units of the Sever Group of Forces improved the tactical situation. Russian elements inflicted losses on manpower and hardware of a mechanised brigade, two assault regiments of the AFU, and a territorial defence brigade near Kolodeznoye, Mikhaylovskoye, and Novoselovka in Kharkov region. 💥 In Sumy region, formations of a mechanised brigade and an airmobile brigades of the AFU were neutralised near Vakalovshchina, Katerinovka, Korenek, Novaya Sloboda, Petrovskoye (Sumy region), and in the city of Sumy. ▪️ The enemy lost over 110 troops and three motor vehicles. 📍 The Zapad Group of Forces improved the situation along the front line. Russian troops inflicted losses on manpower and hardware of a mechanised brigade, an assault brigade of the AFU, and a territorial defence brigade close to Vasilevka, Maleyevka, Monachinovka, Nechvolodovka, Osadkovka, Smorodkovka (Kharkov region), and Raygorodok (Donetsk People's Republic). ▪️ The AFU losses amounted to more than 210 troops, one tank, one armoured fighting vehicle, five motor vehicles, and one field artillery gun. 📍 The Yuzhnaya Group of Forces took more advantageous lines and positions. The Group's units hit formations of three mechanised brigades, an airmobile brigade, an assault regiment of the AFU, and a marine brigade close to Druzhkovka, Kramatorsk, Nikolayevka, and Slavyansk of the Donetsk People's Republic. ▪️ The AFU lost up to 150 troops and 13 motor vehicles. ↗️ The Tsentr Group's units continued to carry out intensive offensive operations. Russian troops inflicted losses on manpower and hardware of three mechanised brigades, a jaeger brigade, an assault brigade, two assault regiments of the AFU, a marine brigade, and two national guard brigades near Andreyevka, Belozherskoye, Verovka, Kuritsino, Lvovka, Mikhaylovka, Novoviktorovka, Novokrivorozhye, and Sergeyevka in the Donetsk People's Republic. ▪️ The AFU losses amounted to up to 345 troops, three armoured fighting vehicles, and five motor vehicles. ↗️ The Vostok Group of Forces continued to advance into the depths of the enemy's defence. Russian elements inflicted fire damage on manpower and hardware of two air assault brigades, an assault brigade, and two assault regiments of the AFU close to Gavrilovka, Pokrovskoye, Tsikovo (Dnepropetrovsk region), Novoivanovka, Novonikolayevka, Novorozovka, and Schastlivoye (Zaporozhye region). ▪️ The AFU have lost up to 220 servicemen. 📍 The Dnepr Group's units improved the situation along the front line. Russian troops hit formations of a mountain assault brigade of the AFU near Kamyshevakha and Kirovo of Zaporozhye region. ▪️ Up to 15 troops and five motor vehicles of the enemy were neutralised. ✈️ Operational-Tactical Aviation, attack drones, missile troops, and artillery of the Armed Forces of the Russian Federation inflicted damage on power and transport infrastructure facilities used in the interests of the AFU, production, storage areas of unmanned aerial vehicles and ground robotic systems, as well as temporary deployment areas of Ukrainian armed formations, and foreign mercenaries in 149 areas. ▫️ Air defence systems shot down 863 fixed-wing unmanned aerial vehicles. 📊 In total, since the beginning of the special military operation, the enemy has lost: ▫️ 674 aircraft, ▫️ 284 helicopters, ▫️ 298,013 unmanned aerial vehicles, ▫️ 672 anti-aircraft missile systems, ▫️ 31,771 tanks and other armoured fighting vehicles, ▫️ 1,797 MLRS combat vehicles, ▫️ 36,986 field artillery guns and mortars, ▫️ 78,013 special military vehicles. 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "drone",
-        "kharkiv",
-        "missile",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/wargonzo/38624"
-      ]
-    },
-    {
-      "id": "tass_agency/407540",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407540",
-      "published_at": "2026-11-25T10:31:46+00:00",
-      "text": "Архитектуры безопасности в Европе без России быть не может, заявил Лукашенко в интервью Le Point: \"Ни в коем случае из этого посыла [что не о чем разговаривать с Россией] исходить нельзя. Это моя точка зрения\", — добавил он.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102498",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102498",
-      "published_at": "2026-11-25T10:29:58+00:00",
-      "text": "Рубрика «Будни солдата». Разбавим ленту фронтовыми котиками! — Фронтовики, можете присылать нам фотографии/видео вашего быта: @media_front_bot , и мы их опубликуем (и отредактируем). Два майора ✨ Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78211",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78211",
-      "published_at": "2026-11-25T10:28:46+00:00",
-      "text": "Серия взрывов в Одессе. Предварительно, среди пораженных целей — объект энергетической инфраструктуры, а также издание, используемое СБУ. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/voenkorKotenok/78210"
-      ],
       "event_signals": [
         "energy",
         "odesa"
@@ -420,77 +181,12 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199244",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199244",
-      "published_at": "2026-11-25T10:28:20+00:00",
-      "text": "🇺🇦 Footage of the strike in Odessa 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407539",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407539",
-      "published_at": "2026-11-25T10:24:41+00:00",
-      "text": "Российские цифровые платформы могли бы проводить дни китайского контента, а китайские — дни российского, предложил Шадаев, выступая на VII Форуме СМИ России и Китая, организаторами которого являются ТАСС и Xinhua.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350433",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350433",
-      "published_at": "2026-11-25T10:22:19+00:00",
-      "text": "Отказ европейцев от диалога с Россией для установления мира может привести к третьей мировой войне, заявил Лукашенко. Что еще сказал президент Белорусии: 🔹 Архитектура безопасности в Европе не может существовать без России. 🔹 Эскалация украинского конфликта грозит катастрофой в Европе. 🔹 Украинские элиты понимают, что надо договариваться с Россией. 🔹 Предложил свою площадку для урегулирования на Украине, призвав заинтересованные стороны \"отбросить нюансы\" и приехать в Минск. 🔹 Трамп предотвратил начало Третьей мировой, приложив усилия к урегулированию по Украине. 🔹 Порошенко тоже несет вину за конфликт на Украине, поскольку решил обмануть Россию и не выполнил минские договоренности. 🔹 Рассказал, что советовал Трампу не давить на Путина на переговорах, поскольку это бесполезно. 🔹 Россия возьмет под контроль весь Донбасс, из этого надо исходить. 🔹 Украина пытается осуществлять диверсионные акты с территории Белоруссии, Минск пытается бороться с этим. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234626",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234626",
-      "published_at": "2026-11-25T10:20:15+00:00",
-      "text": "СВОД на всем фронте В «Коммерсанте» вышло интервью замминистра обороны Дмитрия Щербинина, где он рассказал, что система СВОД, которую ранее обкатывали в группировке «Центр», заработала во всех шести группировках войск. Что такое СВОД? По сути, это закрытая экосистема, где бойцы из специального магазина загружают нужные приложения — что-то вроде военного аналога Google Play или App Store для служебных мобильных и стационарных устройств. Система сводит данные со всех средств обнаружения на единую карту (воздушная, инженерная, радиоэлектронная обстановка) и позволяет соседним подразделениям обмениваться целеуказаниями напрямую. Автоматически данные идут и наверх. Сервис допиливают как живой гражданский продукт. Бойцы прямо с мест пишут в чаты и боты, что сбоит и какие функции нужны, а разработчики оперативно выкатывают обновления для всех. Отдельный вызов — кибербезопасность. Нейросети противника уже находят уязвимости за минуты, хотя раньше на это уходили месяцы. В Минобороны отвечают своим ИИ — его внедряют в управление войсками, техникой и повседневную работу. Так в Минобороны заработала локальная нейронка для документов — ею пользуются более 1400 человек: ИИ-агенты сводят таблицы, делают выжимки и готовят проекты документов. Параллельно выстраивают «цифровую вертикаль» и Единую информационную среду (более 15 направлений — от гособоронзаказа и МТО до медицины и соцподдержки), чтобы ускорить оформление льгот и убрать бумажные справки. @DKulko",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407538",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407538",
-      "published_at": "2026-11-25T10:17:46+00:00",
-      "text": "ЕС намерен существенно сократить число российских туристов, посещающих страны сообщества, сообщает Rapporteur со ссылкой на документ Совета ЕС. Ранее такое предложение уже выдвигалось, однако ряд стран, в частности Франция и Италия, его не поддержали. Сейчас Париж склоняется к пересмотру своей позиции. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117430",
+      "id": "donbassr/117438",
       "channel": "donbassr",
       "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117430",
-      "published_at": "2026-11-25T10:17:01+00:00",
-      "text": "Два человека ранены в Шебекинском округе Белгородской области в результате ударов БПЛА ВСУ по микроавтобусу и автомобилю , сообщили в оперштабе региона. Донбасс решает в MАX",
+      "url": "https://t.me/donbassr/117438",
+      "published_at": "2026-11-25T11:52:01+00:00",
+      "text": "В ЛНР за сутки три мирных жителя погибли, еще двое ранены в результате атак ВСУ , – сообщил Леонид Пасечник. ▪️ В Краснодонском округе ВСУ нанесли удар по «Газели», погиб 24-летний экспедитор. ▪️ На участке дороги «Марковка – Луганск» вражеский БПЛА атаковал легковой автомобиль: погибли мужчина и женщина. ▪️ В Лисичанске ВСУ атаковали служебный автомобиль медучреждения, ранены двое сотрудников. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -500,108 +196,99 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199243",
+      "id": "DDGeopolitics/199252",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199243",
-      "published_at": "2026-11-25T10:09:33+00:00",
-      "text": "🇺🇦 New Strikes in Odessa After the explosions, the electricity went out, Ukrainian media report. Local TG channels also write that the building that was hit housed the department for combating economic crimes, and the building itself was used by the SBU. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199252",
+      "published_at": "2026-11-25T11:48:50+00:00",
+      "text": "🇺🇦 Odessa is partially without power due to another strike on energy infrastructure, DTek reports. Critical infrastructure is also operating with interruptions. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "energy",
         "odesa",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350432",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350432",
-      "published_at": "2026-11-25T10:06:18+00:00",
-      "text": "Ввести повышенную импортную пошлину в 15% на хамон, трюфели, морепродукты и ряд других деликатесов предложил Минфин. Сейчас эти товары облагаются по льготной ставке НДС 10%. Повышенная пошлина, согласно предложению, должна заработать с 2027-го. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "tass_agency/407555",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407555",
+      "published_at": "2026-11-25T11:48:46+00:00",
+      "text": "🗓 Астрономическая зима придет в Россию в 23:50 мск 21 декабря , следует из расчетов ученых. Об этом сообщили ТАСС в Московском планетарии. Солнце достигнет самой удаленной точки от экватора в Южном полушарии небесной сферы. Это момент зимнего солнцестояния. ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407537",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407537",
-      "published_at": "2026-11-25T10:06:04+00:00",
-      "text": "Создание и развитие национальных моделей ИИ, обученных на достоверных данных на русском и китайском языках, является вопросом информационного суверенитета и доверия. Об этом заявил гендиректор ТАСС Андрей Кондрашов на VII Форуме СМИ России и Китая в Москве, организаторами которого выступают ТАСС и Xinhua.",
+      "id": "boris_rozhin/234638",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234638",
+      "published_at": "2026-11-25T11:48:05+00:00",
+      "text": "Киевводоканал призвал экономить воду. Жителей Киева просят максимально сократить потребление воды. Тернистый путь в Европу",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow"
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117429",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117429",
-      "published_at": "2026-11-25T10:05:13+00:00",
-      "text": "Более 90 наемников ВСУ из 32 стран осуждены в ДНР с начала года , рассказали в Верховном суде республики. Отмечается, что больше всего приговоров вынесено по отношению наемников из Грузии. В суде указали 20 таких случаев. В отношении граждан США и Колумбии вынесено по 11 приговоров, Великобритании - 8, Бразилии и Франции - по 5. Донбасс решает в MАX",
+      "id": "AussieCossack/53556",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53556",
+      "published_at": "2026-11-25T11:44:42+00:00",
+      "text": "❗️ Elon Musk visits Jensen Huang at Nvidia. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98579",
+      "id": "tass_agency/407554",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407554",
+      "published_at": "2026-11-25T11:44:01+00:00",
+      "text": "Боевики \"Азова\"* пожаловались на нападение родственников узников пыточной под Киевом сразу после отъезда оттуда Кирилла Буданова**. Об этом боевики заявили в своих закрытых группах, сообщили ТАСС в российских силовых структурах. * организация признана террористической…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117437",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117437",
+      "published_at": "2026-11-25T11:43:01+00:00",
+      "text": "Лукашенко упрекнул Европу в нежелании закончить конфликт на Украине. Главное из заявлений президента Беларуси: ▪️ Украинцам не нужно было запрещать русский язык и сжигать людей в Одессе; ▪️ Лукашенко не исключил возможность вывода из Беларуси ракет РФ, которые могут быть оснащены ядерными боеголовками, если это понадобится для мира; ▪️ Франция могла бы играть более миролюбивую роль в урегулировании напряженности в Европе; ▪️ Нужно было организовать “Минск-3” или “Минск-5” для урегулирования конфликта на Украине; ▪️ Порошенко виноват в конфликте больше, чем Зеленский, он решил обмануть Россию; ▪️ Лукашенко назвал полной чепухой домыслы о воинственных планах Беларуси; ▪️ Трамп за два предстоящих года на посту президента выдаст такое, что мало не покажется; ▪️ План по Украине с демилитаризованной зоной был сорван атакой БПЛА на резиденцию Путина; ▪️ Путин — хитрый и умный политик, который не отрицает украинский народ и государство. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234634"
+      ]
+    },
+    {
+      "id": "intelslava/98581",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98579",
-      "published_at": "2026-11-25T10:04:00+00:00",
-      "text": "🇧🇾 🇺🇸 ⚡️ — Belarusian President Alexander Lukashenko says US President Donald Trump prevented World War III by halting escalation between NATO and Russia, crediting him for committing to peace efforts in Ukraine. Lukashenko warned that the conflict could escalate further and urged peace negotiations, while blaming former President Joe Biden’s policies for worsening tensions between NATO and Russia. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234625",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234625",
-      "published_at": "2026-11-25T10:03:44+00:00",
-      "text": "«Мне даже передали привет от друга, с кем мы вместе жили в общежитии при колледже». Войска беспилотных систем — это не только сами операторы БПЛА, но и все те, кто им помогает выполнить боевую задачу. Например, сапёры, которые готовят снаряды для ударных дронов. А также водители, которые доставляют беспилотчикам «птичек», боеприпасы, еду и всё необходимое. Один из них — Антон Неязов , студент Сибирского профессионального колледжа. Сейчас он в академическом отпуске, служит на спецконтракте с конца 2025 года, с февраля выполняет боевые задачи в зоне СВО. Летом уже успел сходить в отпуск на 26 суток. О своей боевой работе Антон рассказал однокашникам, которые доучиваются дома, в Омске. Хотите служить в войсках беспилотных систем? Отправьте заявку через сайт Беспилотныевойска.рф или звоните по телефону 117 (доб. 4). Рассказываем о наших военнослужащих в 📲 MAX , 📱 ВКонтакте и в 📱 Дзен . Подписывайтесь!",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407536",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407536",
-      "published_at": "2026-11-25T10:02:38+00:00",
-      "text": "Главное из заявлений Дмитрия Пескова: ▪️ Размещение каких-либо иностранных военных контингентов на Украине для России абсолютно недопустимо и неприемлемо, прокомментировал Песков слова Джонсона; ▪️ Деструктивная роль экс-премьера Британии Джонсона России известна, он помешал остановить конфликт на Украине еще в 2022 году; ▪️ Из европейских столиц неоднократно звучали планы по размещению войск на Украине, для Москвы это абсолютно неприемлемо; ▪️ РФ будет делать все необходимое для достижения целей СВО; ▪️ Путин сегодня вечером встретится с президентом Казахстана Токаевым; ▪️ Путин даст в Кремле государственный прием в честь визита султана Брунея. Видео: ТАСС/Kremlin. ru ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38624",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38624",
-      "published_at": "2026-11-25T10:02:01+00:00",
-      "text": "Дрон ВСУ ударил по машине медиков в Запорожской области Беспилотник противника атаковал бригаду скорой медицинской помощи, которая ехала на вызов к пострадавшим в результате предыдущей атаки БПЛА. Медсестра ранена, её госпитализировали – состояние средней тяжести. Автомобиль скорой помощи в результате атаки вышел из строя. @wargonzo",
+      "url": "https://t.me/intelslava/98581",
+      "published_at": "2026-11-25T11:42:14+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russian Armed Forces strikes on Ukrainian Armed Forces positions: • 00:01 – FAB-3000 strikes a temporary deployment site (PVD) of the Ukrainian 100th Mechanized Brigade in Druzhkivka. • 00:08 – Four FAB-500 bombs strike a UAV launch site belonging to the Ukrainian 65th Mechanized Brigade in Tavriiske (Kirovo), Zaporizhzhia region. • 00:15 – A rocket strikes a Ukrainian Armed Forces UAV launch site in the area of responsibility of the Sever (North) Group of Forces. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -609,29 +296,428 @@
         "strike",
         "zaporizhzhia"
       ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234636",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234636",
+      "published_at": "2026-11-25T11:42:04+00:00",
+      "text": "25 ноября 2026 года. · 00:15–00:30 Запорожье — взрывы. Герани. · 00:50–00:55 Сумы — взрывы. Герани. · 01:20 Сновск Черниговской области — взрыв. Герань. · 02:15 Харьковская область — взрывы. УМПК. · 03:20 Машевка Полтавской области — взрыв. Герань. · 03:25 Донбасс — взрывы. УМПК. · 03:30–03:35 Запорожье — взрывы. Герани. · 03:35 Донбасс — взрывы. УМПК. · 03:40 Киев и Белая Церковь Киевской области — взрывы. Герани. · 04:05 Донбасс и Днепропетровская область — взрывы. УМПК. · 04:35 Белая Церковь Киевской области — взрыв. Герань. · 04:45–04:50 Запорожская и Днепропетровская области — взрывы. УМПК. · 04:55 Донбасс и Харьковская область — взрывы. УМПК. · 05:20 Малин Житомирской области — взрыв. Герань. · 05:20–05:30 Запорожская область — взрывы. УМПК. · 05:45 Киев — взрыв. Герань. · 05:50-06:10 Запорожская область — взрывы. УМПК. На фото последствия ударов Гераней в Подольске Одесской области. https://t.me/lost_armour/12380",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
       "possible_duplicate_urls": [
-        "https://t.me/mod_russia_en/30778"
+        "https://t.me/boris_rozhin/234634"
       ]
     },
     {
-      "id": "DDGeopolitics/199241",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199241",
-      "published_at": "2026-11-25T10:01:52+00:00",
-      "text": "🇺🇦 “My pro-Russian aunt arrived from Germany. My brother and I are seriously considering handing her over to the SBU,” Hospitality courses delivered by the Ukrainian patriotic public 🔴 @DDGeopolitics",
+      "id": "rybar_in_english/36008",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36008",
+      "published_at": "2026-11-25T11:41:15+00:00",
+      "text": "📝 Tallinn Wall 📝 Estonian authorities close border with Russia While European political circles gradually recognize the need for dialogue with Russia, Estonian leadership moves in the opposite direction. At the Dublin summit, Prime Minister Kaja Kallas opposed a revision of the European security system, and now the government decided to curtail even cross-border traffic. Starting in December, all vehicle and pedestrian border crossings with Russia will cease operations. The reason: 12 incidents that Estonian special services attribute to the Russian side, including two attempted arson attacks on defense facilities. Officially, the crossings close for only six months, but Estonian authorities already doubt their subsequent reopening. In parallel, the government advocates for tightening sanctions and visa restrictions, and intends to spend no less than 5% of GDP on defense annually until 2029. 🖍 Such a policy fits perfectly into the pan-European course on rearmament. Maintaining tension allows governments to justify increased military spending and provide their own defense industry with long-term contracts. ❗️ Under the guise of the Ukrainian crisis, Estonian authorities (like other Europeans) are building a policy of long-term confrontation with Russia . Therefore, even an end to hostilities in so-called Ukraine itself is unlikely to prompt a revision of the anti-Russian course in the Baltic region. #EU #NATO #Russia ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "sanctions",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234634",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234634",
+      "published_at": "2026-11-25T11:41:04+00:00",
+      "text": "Хроника ударов по территории Украины 24 ноября 2026 – 25 ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Винницкой, Волынской, Житомирской, Киевской, Кировоградской, Одесской, Полтавской, Черниговской и Ровенской областях. 24 ноября 2026 года. · 08:10 Винница — взрыв. Герань. · 08:30 Ровенская область — взрыв. Герань. · 08:50 Буялык Одесской области — взрыв. Герань. · 08:55 Донбасс — взрывы. УМПК. · 09:20 Сарны Ровенской области — взрыв. Герань. · 09:25 Березовка Одесской области — взрыв. Герань. · 09:38 Одесса — взрыв. Герань. · 10:05 Рейд Одессы — взрыв. Герань. · 10:25 Коростень Житомирской области — взрыв. Герань. · 10:50 Подлесное Кировоградской области — взрыв. Герань. · 10:50 Донбасс — взрывы. УМПК. · 11:00 Днепропетровская и Запорожская области — взрывы. УМПК. · 11:07 Донбасс — взрывы. УМПК. · 11:10 Житомир — взрыв. Герань. · 11:15 Одесса — взрыв. Герань. · 11:28 Винница — взрыв. Герань. · 11:35 Павлоград Днепропетровской области — взрыв. Герань. · 11:40 Окрестности Житомира — взрыв. Герань. · 11:57 Балаклея Харьковской области — взрыв. Герань. · 12:10 Ракитное Ровенской области — взрыв. Герань. · 12:13 Измаил Одесской области — взрыв. Герань. · 12:30 Одесса — взрыв. Герань. · 12:35 Коростень Житомирской области — взрыв. Герань. · 12:40 В Черном море напротив Одессы — взрыв Герань. · 13:07 Окрестности Одессы и Житомир — взрывы. Герани. · 13:10 Белая Церковь — взрыв. Герань. · 13:40 Тростянец Сумской области — взрыв. Герань. · 13:45 Коростень Житомирской области — взрыв. Герань. · 14:00 Кривой Рог, Чернигов и Киев — взрывы. Герани. · 14:15 Беляевка Одесской области — взрыв. Герань. · 14:17 Окрестности Коростеня Житомирской области — взрыв. Герань. · 14:33 Днепропетровск — взрыв. Герань. · 14:57 Харьков и Белая Церковь Киевской области — взрывы. Герани. · 15:20 Лиманское Одесской области — взрыв. Герань. · 15:25 В окрестностях нп Сарны Ровенской области — взрыв. Герань. · 15:40 Ахтырка Сумской области — взрыв. Герань. · 16:00 Измаил Одесской области — взрыв. Герань. · 16:10 Запорожье — взрывы. Дань-Т. · 16:10 Харьков и Белая Церковь Киевской области — взрывы. Герани. · 16:17 Киев — взрыв. Герань. · 16:25 Днепропетровск — взрыв. Дань-Т. · 16:25 Сарны Ровенской области — взрыв. Герань. · 16:30 Одесса — взрыв. Герань. · 16:37 Запорожье — взрывы. УМПК. · 17:10 Белая Церковь Киевской области — взрыв. Герань. · 17:55 Днепропетровск — взрыв. Герань. · 18:00 Днепропетровск и Ковель Волынской области — взрывы. Герани. · 18:07 Запорожье — взрыв. Герань. · 18:25 Днепропетровск — взрыв. Герань. · 18:37 Запорожье — взрыв. Герань. · 18:38 Днепропетровск — взрыв. Герань. · 18:40 Лозовая Харьковской области — взрыв. Герань. · 19:00 Новомосковск Днепропетровской области — взрыв. Герань. · 20:00 Днепропетровск — взрыв. Герань. · 20:05 Александровка Одесской области — взрыв. Герань. · 20:25 Окрестности Одессы — взрыв. Герань. · 20:55 Первомайский Харьковской области — взрывы. Герани. · 20:55 Мерефа Харьковской области — взрыв. Герань. · 21:00 Днепропетровск — взрыв. Герань. · 21:15 Ковель Волынской области — взрыв. Герань. · 21:27 Днепропетровск — взрыв. Герань. · 21:47 Днепропетровск, Запорожье и Ковель Волынской области — взрывы. Герани. · 22:15–22:30 Ковель Волынской области — взрывы. Герани. · 23:00–23:07 Арциз Одесской области — взрывы. УМПК. · 23:15 Киев и Днепропетровск — взрывы. Герани. · 23:30 Арциз Одесской области — взрывы. УМПК. · 23:30 Запорожье — взрыв. Герань. · 23:55 Днепропетровской — взрыв. Герань. На фото последствия ударов Гераней в окрестностях Житомира и Ковеля Волынской области. https://t.me/lost_armour/12378",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/donbassr/117437",
+        "https://t.me/boris_rozhin/234636"
+      ]
+    },
+    {
+      "id": "voenkorKotenok/78212",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78212",
+      "published_at": "2026-11-25T11:40:01+00:00",
+      "text": "После мощного взрыва в Слободском районе Харькова пропал свет. Предварительно, попадание \"Бандероли\" по энергообъекту. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407553",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407553",
+      "published_at": "2026-11-25T11:39:01+00:00",
+      "text": "▶️ Школьники заснули во время выступления Мерца на заседании Бундестага, сообщил телеканал Phoenix. Видео: Официальный YouTube-канал phoenix ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "dva_majors/102497",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102497",
-      "published_at": "2026-11-25T10:00:19+00:00",
-      "text": "Самая долгожданная Чёрная пятница наконец накрыла и тюменский бренд CaseGuru! Миллион пользователей ждал возможности взять технику именно у CaseGuru — потому что тюменцы внедряют технологии, опережающие время, будто живут в киберпанке! Вы знали, что у этих ребят дрель-шуруповёрт CaseGuru Шурик разобрали сразу после выхода новинки?! Буквально за неделю. А теперь у CaseGuru РАСПРОДАЖА ТЕХНИКИ СО СКИДКАМИ НА САЙТЕ ДО 70% и дополнительные персональные скидки. Ловите самые выгодные условия в году: 🔥 Бонус для быстрых Первые 5 дней промокод PRO2302 даёт дополнительную скидку до 1 000 ₽ . Она СУММИРУЕТСЯ со скидками на сайте. 🔥 Соберите свой комплект Берите от ДВУХ товаров — и получайте ещё одну скидку. Удобно, когда надо себе взять наушники, а маме собирались подарить пылесос. Пользуйтесь! 🔥 Запасы ограничены Успейте взять новинки 2026 года: в CaseGuru вышли смарт-часы, аэрогрили, пылесосы и рабочие инструменты. Они разлетаются со скоростью света! У этих ребят даже есть аэрогриль с ИИ — сам определяет загруженные продукты и предлагает рецепт от поваров Мишлен. А часы используют уникальный тюменский алгоритм «Сенсо́ра», благодаря которому часы CaseGuru имеют рекордную точность и персонализацию рекомендаций — до 90%. Промокод PRO2302 на дополнительную скидку до 1 000 ₽ Выбирайте технику по уникально низким ценам на официальном сайте → https://cgpods.ru/pro2302 Гарантия на всё 1 год + пожизненное обслуживание Доставка по РФ, РБ и Казахстану — от 1 дня Подпишись на канал бренда @cg_pods",
+      "id": "MFARussia/33603",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33603",
+      "published_at": "2026-11-25T11:35:17+00:00",
+      "text": "#Announcement 🇷🇺 🇰🇿 On November 25-26, President of the Republic of Kazakhstan Kassym-Jomart Tokayev will be in Russia on a working visit at the invitation of President of the Russian Federation Vladimir Putin . The Leaders will hold an informal meeting to discuss key issues in the further development of bilateral relations. On November 26, they will attend the 11th AI Journey international conference , held by Sberbank. #RussiaKazakhstan",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407552",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407552",
+      "published_at": "2026-11-25T11:33:47+00:00",
+      "text": "ЕК выдвинула новые предварительные условия для переговоров с Россией, заявила Урсула фон дер Ляйен. Среди них — \"энергетическое перемирие\" на всю зиму и новая сделка по свободному проходу судов в Черном море на Украину.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53555",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53555",
+      "published_at": "2026-11-25T11:32:31+00:00",
+      "text": "❗️ Russian Foreign Minister Sergey Lavrov said Europe needs to make its intentions clear before getting involved in negotiations over Ukraine. He questioned what role European countries actually want to play, saying they often talk about peace but offer no concrete proposals. Lavrov also pointed out that Russia has never held talks with the European Commission on the Ukrainian crisis, adding that Moscow needs to understand Europe's real position before moving forward. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350437",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350437",
+      "published_at": "2026-11-25T11:27:37+00:00",
+      "text": "Товарооборот России и Брунея в этом году превысит миллиард долларов, сообщил Путин. Президент проводит в Кремле переговоры с султаном Брунея. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234633",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234633",
+      "published_at": "2026-11-25T11:27:25+00:00",
+      "text": "Губернатора Мурманской области Чибиса суд арестовал на 2 месяца. По всей видимости к исполнению своих обязанностей он уже не вернется и отпетлять не получится. Обвиняется в растрате 1 000 000 000 рублей и хищении 39 000 000 рублей. Со скромной суммы начали.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407551",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407551",
+      "published_at": "2026-11-25T11:26:33+00:00",
+      "text": "▶️ Путин проводит переговоры с султаном Брунея Хассаналом Болкиахом. Присоединяйтесь к нашей трансляции . Видео: Раптли/ТАСС",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407548"
+      ],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117436",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117436",
+      "published_at": "2026-11-25T11:26:01+00:00",
+      "text": "Японская делегация с миром побывала в Луганске: гости привезли в подарок срез сакуры с надписью «Мир детям Донбасса». Президент Общества российско-японских добрососедских отношений Танаки Такэюки, депутат парламента Ёсихико Фудзимото и политический блогер Лиззи встретились с луганскими школьниками. « В Японии прошли три больших семинара, где я рассказал, как съездил в Донбасс. Моя задача – донести то, что происходит здесь на самом деле. Планирую написать книгу об истории Донбасса », – сказал Танаки Такэюки. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407550",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407550",
+      "published_at": "2026-11-25T11:24:51+00:00",
+      "text": "Постпред России при ОБСЕ Полянский призвал руководство ОБСЕ осудить дискриминацию российских спортсменов со стороны ряда стран — участников организации. Текст его выступления поступил в распоряжение ТАСС. Он пояснил, что на площадке ОБСЕ РФ уже довольно долго…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117435",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117435",
+      "published_at": "2026-11-25T11:21:08+00:00",
+      "text": "Договоренности о встрече с европейцами в Москве пока нет, как и нет решения об их участии в переговорах по Украине , заявил Ушаков. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234631",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234631",
+      "published_at": "2026-11-25T11:21:04+00:00",
+      "text": "Спутниковые снимки показывают ущерб на электростанции «Аш-Шакик» в районе Джизан в Саудовской Аравии после атаки вооруженных сил Йемена; этот комплекс считается одной из крупнейших электростанций в регионе.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53554",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53554",
+      "published_at": "2026-11-25T11:20:14+00:00",
+      "text": "❗️ North Korea has expelled Switzerland’s top diplomatic representative in Pyongyang, Sylvain Astier, declaring him persona non grata and giving him just 48 hours to leave the country. Pyongyang has also called for the closure of Switzerland’s diplomatic office, which only became operational on October 19, putting its diplomatic presence in North Korea under pressure. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350436",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350436",
+      "published_at": "2026-11-25T11:16:25+00:00",
+      "text": "Европа с ее манерами и намерениями сядет за стол переговоров по Украине и тут же положит на него ноги, заявил Лавров. Что еще сказал министр по итогам заседания коллегий МИД России и Белоруссии: 🔹 Еврокомиссия делает регулярные заявления по Украине, не предлагая ничего конкретного. 🔹 Контактов России с ЕК по теме переговоров вокруг украинского кризиса никогда не было. 🔹 Россия сначала должна понять, какую роль Европа собирается играть на переговорах по Украине. 🔹 Россия ценит позицию Белоруссии в поддержку устойчивого урегулирования украинского кризиса на основе устранения его первопричин. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53553",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53553",
+      "published_at": "2026-11-25T11:15:55+00:00",
+      "text": "❗️ German Chancellor Friedrich Merz on Ukraine and the Coalition of the Willing: Americans, who, in my impression, were clearly surprised at how united and unified the Europeans are on this issue. It is precisely this determination that now allows cautious optimism toward peace, a real peace. With our support for Ukraine, we also support and protect ourselves. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407549",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407549",
+      "published_at": "2026-11-25T11:15:46+00:00",
+      "text": "Архитектуры безопасности в Европе без России быть не может, заявил Лукашенко в интервью Le Point: \"Ни в коем случае из этого посыла [что не о чем разговаривать с Россией] исходить нельзя. Это моя точка зрения\", — добавил он.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19820",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19820",
+      "published_at": "2026-11-25T11:15:29+00:00",
+      "text": "JUST IN: 🇮🇷 Iran claims it has tightened its control over the Strait of Hormuz. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199251",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199251",
+      "published_at": "2026-11-25T11:13:09+00:00",
+      "text": "🇺🇦 People in Lvov cannot even tolerate their fellow Ukrainians. A resident of Lvov has complained that newcomers to the city, including refugees from eastern Ukraine whose native and everyday language is Russian, have become increasingly comfortable speaking their own language in public and no longer feel intimidated for doing so. In his view, this is unacceptable. He believes local nationalists should take an even harder line and apply greater pressure to force everyone to conform to their own narrow vision of what a Ukrainian should be. Lvov appears to have developed a new kind of allergy an allergy to the Russian language. Just three words spoken in Russian are apparently enough to trigger a national crisis. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199250",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199250",
+      "published_at": "2026-11-25T11:11:18+00:00",
+      "text": "#HeroesZ ▫️ Junior Sergeant Aleksandr Taskayev, Senior Rifleman of the 4th Guards Military Base, has been awarded the Suvorov Medal for carrying out a mission to evacuate wounded servicemen. 🚁 The evacuation took place under the cover of darkness, with FPV drones and heavy attack hexacopters circling overhead. Despite the darkness, Aleksandr and his comrades managed to shoot down three FPV drones and one Baba Yaga drone , and evacuate two wounded servicemen from the forward edge of the battle area . 🤝 He arrived in the special military operation zone from the city of Georgievsk, where his family is waiting for him in Stavropol Krai. Thanks to Aleksandr’s courage, other families will also be able to see and embrace their loved ones serving on the front line. 🔗 HeroesofZ 🇷🇺 Subscribe | Feedback | X | TikTok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53552",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53552",
+      "published_at": "2026-11-25T11:09:00+00:00",
+      "text": "❗️ The head of Zelensky's office, Budanov, is to be fined for speaking Russian during the events in Petropavlovska Borshchahivka. The amount of the fine will be $74.90, according to Ukraine's language ombudsman, Elena Ivanivska. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407547",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407547",
+      "published_at": "2026-11-25T11:08:46+00:00",
+      "text": "▶️ Пять человек погибли и 265 ранены из-за шторма в Бразилии, сообщила Международная организация по миграции. Крова лишились почти 20 тыс. горожан. Видео: ТАСС/Reuters ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234628",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234628",
+      "published_at": "2026-11-25T11:07:04+00:00",
+      "text": "1. Степногорск Позиционные боевые действия в Степногорске. ВСУ с дрона обстреливают позиции ВС РФ в руинах многоэтажных домов северной части Степногорска. Уточнение зоны контроля ВС РФ в посёлке. 2. Семёновка Уничтожение инфраструктурных объектов Украины. Удар со стороны ВС РФ по электроподстанции в населённом пункте Семёновка Черниговской области. Удаление от демаркационной линии 12 км. 3. Межевая - Дачное Позиционные боевые действия в Днепропетровской зоне безопасности. Обстрел позиций ВСУ неподалёку от Дачного. События лета 2025 или 2026 годов. Сезонные изменения к текущей дате не соответствует изображению на видео. врезки: @creamy_caprice",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117434",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117434",
+      "published_at": "2026-11-25T11:06:01+00:00",
+      "text": "В Макеевке будут строить предприятия по производству кирпича, газобетона и других строительных материалов. Такое предложение озвучили в Едином институте пространственного планирования РФ. Проект предусматривает создание предприятий на единой производственной площадке. Они будут специализироваться на выпуске стеновых блоков, газобетона, кирпича, сухих строительных смесей и другой продукции. Общая площадь застройки составит около 92 тысяч кв. м. ✔️ Это позволит диверсифицировать и переориентировать экономику города. Кроме того, данный проект предусматривает создание около 5,6 тысяч рабочих мест. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33602",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33602",
+      "published_at": "2026-11-25T11:04:07+00:00",
+      "text": "📆 On November 25, during his working visit to Gomel , Belarus, Russia's Foreign Minister Sergey Lavrov took part in a ceremony to unveil a bust of Nikolay Rumyantsev, Foreign Minister and Chancellor of the Russian Empire. Rumyantsev was buried in Gomel’s Cathedral of Saints Peter and Paul 200 years ago. The monument is the work of Vitaly Shanov , a talented sculptor and Honoured Artist of the Russian Federation. It was erected with the support of the Russian Military Historical Society and its chairman, Presidential Aide Vladimir Medinskiy . *** ℹ️ Nikolay Rumyantsev holds a prominent place in Russia's history and came from a distinguished family. He was a descendant of Artamon Matveyev , who headed the Ambassadorial and Little Russian Chancelleries before the reign of Peter the Great , a grandson of Prince Mikhail Golitsyn and a son of the renowned military commander Count Pyotr Rumyantsev-Zadunaisky . Rumyantsev himself served at the courts of three monarchs – Empress Catherine II and Emperors Paul I and Alexander I . In 1809, Rumyantsev successfully concluded the Treaty of Fredrikshamn with Sweden, under which Finland and the Aland Islands passed to the Russian Empire. For this achievement, he was awarded the title of State Chancellor . He played a direct part in expanding the Russian Empire and strengthening its geopolitical position. The Empire acquired what is now Ukraine’s Ternopil Region, the Elisavetpol Governorate, including Karabakh and Ganja, and the khanates of Derbent and Baku. ☝️ Russia secured the exclusive right to maintain warships on the Caspian Sea . The fort built by the first Russian settlers in California, now known as Fort Ross , was named after Rumyantsev. Nikolay Rumyantsev also had the task of conducting particularly difficult diplomatic negotiations in the run-up to and during Napoleon’s invasion of Russia . Read in full",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350435",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350435",
+      "published_at": "2026-11-25T11:03:49+00:00",
+      "text": "Джигурду увезли в реанимацию на \"скорой\" с инфарктом, сообщила РИА Новости его жена. Доставили его в 9:30, сказали, что через пару часов можно позвонить и узнать все, у него телефона с собой нет. Сейчас врачи им занимаются UPD: Джигурда находится в сознании…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407546",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407546",
+      "published_at": "2026-11-25T11:03:46+00:00",
+      "text": "Минфин предложил установить пошлину на импорт деликатесов из недружественных стран в размере 15% с 1 января 2027 года. Инициатива направлена в Минэкономразвития, заявил статс-секретарь — замминистра финансов РФ Сазанов.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38625",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38625",
+      "published_at": "2026-11-25T11:02:01+00:00",
+      "text": "Действия Эстонии находятся на грани развязывания войны с Россией – МИД РФ С 1 декабря правительство Эстонии решило закрыть пункты пропуска на российско-эстонской границе. Такое решение было принято после обвинений в сторону России о поджоге предприятия ВПК под Таллином. Конечно, эти многословные обвинения не были подтверждены достоверными фактами и лишь раскрывают ярую русофобскую сущность эстонских властей. Закрытие границы рассматривается как очередной враждебный шаг по отношению к нашей стране. За время проведения СВО Эстония оказывает поддержку Украине, в том числе, предоставляя свое воздушное пространство для пролета украинских беспилотников, сообщили в МИД РФ. В ответ премьер-министр Эстонии Кристен Михал заявил, что Таллин не допустит использования своего воздушного пространства, территориальных вод и суши для нанесения украинских ударов по российским объектам. Помимо этого, в ведомстве сообщили, что Таллин ведёт подготовку к морской блокаде России. Внутри страны также усиливаются меры, направленные против русскоязычного населения и граждан, не разделяющих официальную позицию властей по отношению к России. Таллин ограничивает использование русского языка. А к нарушителям применяется уголовная ответственность или депортация. МИД РФ предупреждает, что подобные действия могут привести к дальнейшему обострению ситуации и перерастанию текущего противостояния в открытый военный конфликт. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407545",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407545",
+      "published_at": "2026-11-25T11:00:06+00:00",
+      "text": "16-летний подросток умер по неизвестной причине во время учебных сборов в Пермском крае, сообщил глава Чайковского округа Агафонов. Мальчик потерял сознание. На месте ему была оказана помощь, но спасти подростка не удалось. Организована проверка.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
