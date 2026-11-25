@@ -1,9 +1,14 @@
 {
-  "checked_at_utc": "2026-11-25T03:03:25.549301+00:00",
+  "checked_at_utc": "2026-11-25T04:07:20.906186+00:00",
   "hours": [
     {
+      "hour_id": "2026-11-25T03",
+      "status": "awaiting_summary",
+      "candidates": 1
+    },
+    {
       "hour_id": "2026-11-25T02",
-      "status": "no_candidates",
+      "status": "editorially_skipped",
       "candidates": 0
     },
     {
@@ -115,11 +120,6 @@
       "hour_id": "2026-11-24T04",
       "status": "awaiting_summary",
       "candidates": 9
-    },
-    {
-      "hour_id": "2026-11-24T03",
-      "status": "missing_snapshot",
-      "candidates": null
     }
   ]
 }

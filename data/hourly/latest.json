@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-25T02",
-  "generated_at_utc": "2026-11-25T03:03:21.969779+00:00",
-  "window_start_utc": "2026-11-25T02:00:00+00:00",
-  "window_end_utc": "2026-11-25T03:00:00+00:00",
+  "hour_id": "2026-11-25T03",
+  "generated_at_utc": "2026-11-25T04:07:15.363527+00:00",
+  "window_start_utc": "2026-11-25T03:00:00+00:00",
+  "window_end_utc": "2026-11-25T04:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 7
     },
     {
       "handle": "rian_ru",
@@ -105,10 +105,25 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 8,
-    "relevant_posts": 0,
-    "deduplicated_posts": 0,
-    "candidate_posts": 0
+    "raw_posts": 10,
+    "relevant_posts": 1,
+    "deduplicated_posts": 1,
+    "candidate_posts": 1
   },
-  "posts": []
+  "posts": [
+    {
+      "id": "tass_agency/407478",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407478",
+      "published_at": "2026-11-25T03:32:36+00:00",
+      "text": "📹 ВПК Франции истощает армейские резервы из-за помощи Киеву, сообщил ТАСС экс-офицер французских ВС Ксавье Моро. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
 }
