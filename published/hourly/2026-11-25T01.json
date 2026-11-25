@@ -1,0 +1,24 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    195
+  ],
+  "published_at_utc": "2026-11-25T04:47:55.244345+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-25T01",
+  "items": [
+    {
+      "item_id": "2026-11-25T01:1",
+      "title": "Trump rejects fixed deadline for Ukraine peace negotiations",
+      "summary": "In an interview with the New York Post, US President Donald Trump questioned Zelensky's suggestion that Washington sought a peace agreement by December or January. Trump said he was not tied to a particular timetable.",
+      "post_url": "https://t.me/russianewstodayofficial/195",
+      "category": "other",
+      "hour_id": "2026-11-25T01",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
