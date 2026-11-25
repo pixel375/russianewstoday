@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-25T05",
-  "generated_at_utc": "2026-11-25T06:02:28.985312+00:00",
-  "window_start_utc": "2026-11-25T05:00:00+00:00",
-  "window_end_utc": "2026-11-25T06:00:00+00:00",
+  "hour_id": "2026-11-25T06",
+  "generated_at_utc": "2026-11-25T07:04:09.631062+00:00",
+  "window_start_utc": "2026-11-25T06:00:00+00:00",
+  "window_end_utc": "2026-11-25T07:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,19 +15,19 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
@@ -39,19 +39,19 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 8
+      "raw_count": 9
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
@@ -69,19 +69,19 @@
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 5
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "nab_ukraine",
@@ -105,189 +105,169 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 21,
-    "relevant_posts": 8,
-    "editorial_pool_posts": 21,
-    "retained_without_keyword_match": 12,
+    "raw_posts": 34,
+    "relevant_posts": 17,
+    "editorial_pool_posts": 34,
+    "retained_without_keyword_match": 16,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 20,
-    "candidate_posts": 20
+    "deduplicated_posts": 31,
+    "candidate_posts": 31
   },
   "posts": [
     {
-      "id": "donbassr/117412",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117412",
-      "published_at": "2026-11-25T05:53:01+00:00",
-      "text": "Запорожскую АЭС после окончания боевых действий возможно запустить за 2-3 месяца , рассказал губернатор Запорожской области Евгений Балицкий. «Сама по себе станция абсолютно рабочая. Мы ситуацию понимаем. Два-три месяца - и она пойдет работать», - сказал Балицкий. ▪️ Как рассказал Балицкий, несмотря на то, что уровень Днепра в районе Запорожской АЭС снизился, имеются артезианские скважины, которые обеспечат необходимое охлаждение реакторов при возможном запуске станции. ▪️ Кроме того, имеется возможность использовать для этих целей находящуюся неподалеку реку Конка. Донбасс решает в MАX",
+      "id": "tass_agency/407509",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407509",
+      "published_at": "2026-11-25T06:59:01+00:00",
+      "text": "Половина промышленных компаний Европы испытывает серьезные финансовые трудности , пишет газета Financial Times со ссылкой на данные консалтинговой компании McKinsey. Причины кроются в высоких затратах на энергию и оплату труда, а также конкуренции со стороны китайских производителей. Такое положение на рынке ставит под угрозу порядка 3,7 млн рабочих мест. ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "zaporizhzhia"
+        "energy"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407499",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407499",
-      "published_at": "2026-11-25T05:49:01+00:00",
-      "text": "В США ICE задержали мигранта, выигравшего $1 млн в лотерее . Об этом со ссылкой на источники сообщил корреспондент телеканала Fox News Билл Мелугин. Задержанного зовут Ариэль Антонио Веласкез-Моралес. Согласно законам штата Массачусетс, где он выиграл, ему не обязательно было иметь гражданство страны, чтобы участвовать в розыгрыше. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "id": "boris_rozhin/234610",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234610",
+      "published_at": "2026-11-25T06:54:45+00:00",
+      "text": "Стратегические прогнозы от президента Латвии 😀 Переломный момент в украинском конфликте может наступить в 2027 году — заявил Ринкевич",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199218",
+      "id": "donbassr/117418",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117418",
+      "published_at": "2026-11-25T06:50:01+00:00",
+      "text": "В Запорожской области задержан исполнитель теракта в отношении регионального чиновника , сообщили в ФСБ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407508",
+        "https://t.me/tass_agency/407507"
+      ],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199221",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199218",
-      "published_at": "2026-11-25T05:43:54+00:00",
-      "text": "🇷🇺 🔹 Last night the Russian Armed Forces struck targets in Ukraine's transport infrastructure and military industry, as well as naval vessels involved in supporting the Ukrainian Armed Forces. The following targets were hit: ➡️ a 330 kV substation in Zaporozhye…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407498",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407498",
-      "published_at": "2026-11-25T05:39:44+00:00",
-      "text": "Обновление лицензионного соглашения \"Яндекс Браузера\", в новой версии которого больше не упоминаются анонимность данных , связано с уточнением формулировок. Браузер не получает дополнительную информацию о пользователях, сообщили РБК в компании. Ранее в пользовательском соглашении \"Яндекса\" появился пункт, что сервис начал определять домашний адрес на основе закладок, тегов и меток. Как пояснили РБК, \"Яндекс ID\" не присваивает адресу статус домашнего без подтверждения со стороны пользователя.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117411",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117411",
-      "published_at": "2026-11-25T05:34:58+00:00",
-      "text": "Минувшей ночью ВС РФ нанесли удары беспилотниками по объектам транспортной инфраструктуры и военной промышленности, а также морским судам, задействованным в интересах ВСУ , сообщили в Минобороны. В результате поражены : ▪️ электроподстанция 330 кВ в Запорожье, обеспечивающая работу предприятий ВПК Украины; ▪️ два железнодорожных локомотива в Днепропетровске, задействованных для перевозки вооружения и военной техники; ▪️ электроподстанция 330 кВ в н.п. Зеленодольск Днепропетровской области, обеспечивающая работу предприятий военной промышленности Украины; ▪️ промышленное предприятие в Черниговской области, на котором осуществлялось производство комплектующих для БПЛА; ▪️ сухогруз в порту Черноморск, доставивший на Украину грузы военного назначения. Донбасс решает в MАX",
+      "url": "https://t.me/DDGeopolitics/199221",
+      "published_at": "2026-11-25T06:47:44+00:00",
+      "text": "🇷🇺 The FSB announced that a suspect in the bombing targeting a regional official in the Zaporozhye region has been detained. A Kiev agent who was detained in the Zaporozhye region attacked a government official's car with FPV drones; the official was unharmed, according to the FSB. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
+        "kyiv",
         "strike",
         "zaporizhzhia"
       ],
-      "possible_duplicate_urls": []
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/78196",
+        "https://t.me/mod_russia_en/30774"
+      ]
     },
     {
-      "id": "donbassr/117410",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117410",
-      "published_at": "2026-11-25T05:34:01+00:00",
-      "text": "💥 Ночью в Запорожье ВКС РФ нанесли бомбовые удары по объектам ВСУ. По сообщению местных «властей», в городе начались перебои с электроснабжением и отоплением. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38612",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38612",
-      "published_at": "2026-11-25T05:31:01+00:00",
-      "text": "⚡️ Фронтовая сводка на утро 25.11.26 ⚡️ Запорожский фронт На Каменском направлении продолжаются сражения в районе Приморского, Степногорска и Лукьяновского. (Рис. 1.1) На Гуляйпольском направлении ВС РФ продвигаются в районе Терсянки. МО РФ сообщило об освобождении Барвиновки. (Рис. 1.2) Донецкий фронт На Добропольском направлении войска РФ продвинулись к западным окраинам села Сергеевка. Продолжаются бои в Новофёдоровке, а также в районе Белозерского и Грузского. (Рис. 2.1) На Константиновском направлении ВС РФ расширяют зону контроля в районе Николайполья. Есть успехи в районе Веролюбовки. На Краснолиманском направлении войска РФ продвигаются и занимают новые позиции в микрорайоне Масляковка. На Северском участке ВС РФ продвигаются в районе Рай-Александровки в направлении Николаевки. (Рис. 2.2) Харьковский фронт В Купянске ВС РФ продвигаются в юго-западной части города. Идут бои на подступах к Садовому и севернее Осиново. (Рис. 3.1) На Волчанском направлении ВС РФ продвигаются южнее Чугуновки в сторону Зарубинки. Войска РФ продвигаются у Приколотного, есть успехи в районе Ольховатки. Продолжаются бои в районе Казачьей Лопани, войска РФ наступают южнее Новой Казачьей. (Рис. 3.2; Рис. 3.3) Сумской фронт Идут тяжёлые сражения в районе Юнаковки. В Шосткинском районе ВС РФ ведут бои у Коренька, а также в районе Толстодубово и Уланово. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kharkiv",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102487",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102487",
-      "published_at": "2026-11-25T05:29:30+00:00",
-      "text": "Куда наши били ночью. Минобороны России: ▪️ электроподстанция 330 кВ в городе Запорожье, обеспечивающая работу предприятий ВПК Украины; ▪️ два железнодорожных локомотива в Днепропетровске, задействованных для перевозки вооружения и военной техники; ▪️ электроподстанция 330 кВ в н.п. Зеленодольск Днепропетровской области, обеспечивающая работу предприятий военной промышленности Украины; ▪️ промышленное предприятие в н.п. Сновск Черниговской области, на котором осуществлялось производство комплектующих для БПЛА; ▪️ морское судно типа «сухогруз» в порту Черноморск, доставившее на Украину грузы военного назначения. Два майора Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199217",
+      "id": "DDGeopolitics/199220",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199217",
-      "published_at": "2026-11-25T05:19:44+00:00",
-      "text": "🇺🇸 US Attorney General and FBI Director announce a major international operation against cybercriminals 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199220",
+      "published_at": "2026-11-25T06:46:14+00:00",
+      "text": "🇺🇸 💬 🇺🇦 🇷🇺 Trump mocks Zelensky after he said the US wants a peace deal by January 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407497",
+      "id": "rian_ru/350422",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350422",
+      "published_at": "2026-11-25T06:45:42+00:00",
+      "text": "Убить бомбой чиновника администрации Мелитополя пытался агент Киева. Ему сбросили взрывчатку с дрона. Он собрал бомбу и взорвал ее недалеко от места работы чиновника, но исполнить задуманное ему не удалось – тот не пострадал. Российские силовики задержали агента Киева, он признался в содеянном. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234607",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234607",
+      "published_at": "2026-11-25T06:45:15+00:00",
+      "text": "Результат прилёта Герани по хлебзаводу в н.п Новые Петровцы, Киевская область накануне. Сам удар был 19 ноября, последствия опубликовали только сегодня. По этому заводу прилетает уже второй раз, первый был ещё в 2022 году. @divannyevoini",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78196",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78196",
+      "published_at": "2026-11-25T06:44:45+00:00",
+      "text": "В н.п. Белая Церковь Киевской области нанесены удары по терминалу «Новой почты» и ТЦ «Эпицентр». Судя по кадрам с места — БпЛА достигли цели. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199221"
+      ]
+    },
+    {
+      "id": "tass_agency/407506",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407497",
-      "published_at": "2026-11-25T05:19:01+00:00",
-      "text": "Погибший в Омской области охотник смог застрелить напавшего медведя. Туша мертвого хищника найдена в берлоге неподалеку от места гибели мужчины. Тело мужчины нашел его племянник, с которым тот пошел на охоту, сообщили ТАСС в пресс-службе регионального СУ…",
+      "url": "https://t.me/tass_agency/407506",
+      "published_at": "2026-11-25T06:43:44+00:00",
+      "text": "После взрыва газа в доме на Алтае 4 квартиры полностью разрушены и 8 повреждены. Хозяйка квартиры, где произошел взрыв, до сих пор не обнаружена. Разбор завалов продолжается, работает более 190 человек, сообщили в центре управления регионом.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199216",
+      "id": "DDGeopolitics/199219",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199216",
-      "published_at": "2026-11-25T05:18:13+00:00",
-      "text": "🇷🇺 🔹 Last night the Russian Armed Forces struck targets in Ukraine's transport infrastructure and military industry, as well as naval vessels involved in supporting the Ukrainian Armed Forces. The following targets were hit: ➡️ a 330 kV substation in Zaporozhye, which supplies power to Ukrainian defense industry enterprises; ➡️ two railway locomotives in Dnepropetrovsk, used for transporting weapons and military equipment; ➡️ a 330 kV substation in the village of Zelenodolsk, Dnepropetrovsk region, which supplies power to Ukrainian military industry enterprises; ➡️ an industrial enterprise in the Chernigov region, where components for drones were manufactured; ➡️ a dry cargo ship in the port of Chernomorsk, which delivered cargo of military purpose to Ukraine. 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199219",
+      "published_at": "2026-11-25T06:42:40+00:00",
+      "text": "🇺🇸 💬 🇮🇷 Trump says the U.S. war against Iran is funded through the end of January, warning that Democrats could turn a “total win” into “a loss” by ending the conflict. Speaking to the New York Post, Trump said Israel’s goal of regime change in Iran was “probably doable” but was not his objective. “I just don’t want them to have a nuclear weapon. I was never for or against regime change\" 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "drone",
-        "zaporizhzhia"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117409",
+      "id": "donbassr/117417",
       "channel": "donbassr",
       "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117409",
-      "published_at": "2026-11-25T05:17:01+00:00",
-      "text": "ВС России создают плацдарм на реке Верхняя Конка для дальнейшего продвижения к Запорожью, рассказал военный аналитик Данил Петрушин. «Верхнюю Терсу уже прорвали, то же самое происходит с Конкой, которая проходит через Орехов. После взятия Орехова получится выстроить плацдарм по южному берегу реки Конка и дальше наступать в пригороды Запорожья», — пояснил Петрушин. ▪️ Как отметил эксперт, уже сейчас российские бойцы малыми группами заходят в пригороды Запорожья и выполняют там различные задачи. ▪️ Вместе с тем, продолжаются бои за город Орехов, который приобрел для противника символическое значение. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407496",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407496",
-      "published_at": "2026-11-25T05:13:48+00:00",
-      "text": "❗️ ВС РФ поразили промышленное предприятие в Сновске Черниговской области, на котором осуществлялось производство комплектующих для БПЛА, сообщили в Минобороны. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "url": "https://t.me/donbassr/117417",
+      "published_at": "2026-11-25T06:42:13+00:00",
+      "text": "❗️ ПВО за ночь сбила 305 украинских БПЛА над регионами РФ, сообщили в Минобороны. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -296,67 +276,122 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407495",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407495",
-      "published_at": "2026-11-25T05:13:09+00:00",
-      "text": "В Днепропертровске поражены два железнодорожных локомотива, задействованные для перевозки вооружения и военной техники, сообщает МО РФ.",
+      "id": "donbassr/117416",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117416",
+      "published_at": "2026-11-25T06:42:01+00:00",
+      "text": "❗️ 11 мирных жителей получили ранения за прошедший день в результате атак на ДНР со стороны ВСУ, сообщили в управлении по документированию военных преступлений Украины администрации главы и правительства республики. ▪️ В Ворошиловском районе Донецка вследствие атаки по территории автовокзала Южный ранены водитель автобуса - мужчина 1981 г. р., мужчина 1984 г. р., девушка 2008 г. р., пострадали: женщина 1961 г. р., мужчины 1995, 1985, 1979 и 1961 г. р. ▪️ На автодороге Новоазовск - Донецк в Новоазовском муниципальном округе при атаке на грузовой автомобиль ранены водители - мужчины 1984 и 1973 г. р. В ▪️ Никитовском районе Горловки в результате атаки на легковой автомобиль ранена женщина 1967 г. р. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407494",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407494",
-      "published_at": "2026-11-25T05:12:05+00:00",
-      "text": "❗️ Ночью поражена электроподстанция 330 кВ в Зеленодольске Днепропетровской области, сообщили в МО РФ. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407493",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407493",
-      "published_at": "2026-11-25T05:11:19+00:00",
-      "text": "❗️ ВС РФ ночью поразили электроподстанцию 330 кВ в Запорожье, обеспечивающую работу предприятий ВПК Украины, сообщили в Минобороны.",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/tass_agency/407492"
-      ],
       "event_signals": [
-        "zaporizhzhia"
+        "donetsk",
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350419",
+      "id": "donbassr/117415",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117415",
+      "published_at": "2026-11-25T06:40:51+00:00",
+      "text": "💥 За неделю над региональным участком федеральной трассы Р-280 \"Новороссия\" было сбито 89 украинских БПЛА , сообщили в Штабе обороны ДНР. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407505",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407505",
+      "published_at": "2026-11-25T06:40:36+00:00",
+      "text": "🚨 Средства ПВО за ночь сбили 305 украинских беспилотников над регионами РФ, сообщили в Минобороны.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407504",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407504",
+      "published_at": "2026-11-25T06:33:28+00:00",
+      "text": "Сумма замороженных Швейцарией российских активов превысила $10 млрд , сообщает Bloomberg. По данным агентства, увеличение произошло по причине новых заморозок активов, а также роста стоимости некоторых из них в золоте.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234606",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234606",
+      "published_at": "2026-11-25T06:31:07+00:00",
+      "text": "Кокаиновый фюрер заявил, что он не чемодан \"Он предлагает меня взять. Я ему что, чемодан, что ли? Взять меня в самолёт и полететь.\" Накануне Лукашенко предлагал вместе сесть в самолёт и полететь в Москву на переговоры.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350421",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350419",
-      "published_at": "2026-11-25T05:09:58+00:00",
-      "text": "Российские войска ударили по электроподстанции в городе Запорожье, сообщили в Минобороны. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/rian_ru/350421",
+      "published_at": "2026-11-25T06:29:35+00:00",
+      "text": "Пуэрториканка Дженнифер Баррето победила в конкурсе \"Мисс Вселенная\". 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78195",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78195",
+      "published_at": "2026-11-25T06:28:19+00:00",
+      "text": "Из Запорожья сообщают, что часть города и области после ночных атак остались без электричества — поражен объект энергетики. ВС РФ ударили по подстанции. В оккупированном укронацистами Запорожье не работает электротранспорт, в городе — перебои с водоснабжением. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "energy",
         "strike",
         "zaporizhzhia"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "wargonzo/38611",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38611",
-      "published_at": "2026-11-25T05:04:37+00:00",
-      "text": "145 вражеских БПЛА сбили над Самарской областью – один житель погиб Украинские неонацисты массированно атаковали Самарскую область этой ночью. Над регионом было сбито 145 дронов противника. Один человек погиб, сообщил губернатор. В отдельных районах есть отключения электричества. Экстренные службы проводят восстановительные работы. Некоторые школы региона будут работать сегодня по измененному графику. @wargonzo",
+      "id": "tass_agency/407503",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407503",
+      "published_at": "2026-11-25T06:24:47+00:00",
+      "text": "📹 ВС РФ в ответ на попытки атак ВСУ на инфраструктуру России поразили \"Геранями\" объекты на территории одной из ТЭЦ. Видео: Минобороны России/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117414",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117414",
+      "published_at": "2026-11-25T06:21:27+00:00",
+      "text": "❗️ В Белгородской области умер мужчина, раненный при атаке БПЛА ВСУ. Ещё один мирный житель в тяжёлом состоянии, сообщил губернатор региона Всего за минувшие сутки ВСУ 93 раза атаковали девять округов области. Зафиксированы три артиллерийских обстрела и три сброса взрывных устройств с БПЛА. Сбиты и подавлены 100 беспилотников. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -366,26 +401,148 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117408",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117408",
-      "published_at": "2026-11-25T05:03:25+00:00",
-      "text": "🟥 День в истории Донбасса 25 ноября 1917 года. В Юзовке (Донецк) родился полный кавалер ордена Славы Алексей Симонов . ▪️ Из семьи рабочих, окончил 6 классов, трудился на шахте. ▪️ В Красной Армии с мая 1942 года, к 1944-у стал командиром расчета 45-мм пушки. ▪️ С 10 по 15 мая 1944 года в боях на Заднестровском плацдарме гвардии сержант Симонов с расчетом подавил 5 огневых точек, истребил свыше взвода живой силы. ▪️ 20 мая 1944 года награжден Орденом Славы 3-й степени. ▪️ В январе 1945-го в боях у Мезеритца в Польше во главе расчета огнем из орудия поразил 6 вражеских огневых точек, 5 автомашин, подавил 2 пушки, уничтожил свыше отделения пехоты. 21 февраля 1945 года награжден Орденом Славы 2-й степени. ▪️ С 18 на 19 апреля 1945 года в ходе Зееловско-Берлинской операции выкатил орудие на прямую наводку и подавил 5 огневых точек, подбив бронетранспортер, уничтожил много пехотинцев. ▪️ 15 мая 1946 года награжден Орденом Славы 1-й степени. ▪️ Скончался 29 мая 1953 года, похоронен в Донецке. Донбасс решает в MАX",
+      "id": "AussieCossack/53547",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53547",
+      "published_at": "2026-11-25T06:20:47+00:00",
+      "text": "❗️ The U.S. Treasury has reportedly suffered a cyberattack, just hours after separate breaches targeted the CIA and ODNI. Hackers reportedly gained access to FinCEN, the agency that monitors financial transactions and suspicious banking activity, forcing some of its systems offline. Meanwhile, the U.S. Attorney General and FBI Director have announced a major international operation against cybercriminals. It remains unclear whether the operation is connected to the recent attacks. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "donetsk"
+        "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234594",
+      "id": "boris_rozhin/234605",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234594",
-      "published_at": "2026-11-25T05:03:00+00:00",
-      "text": "Пулеметы системы Максима применяются в ходе СВО в составе МОГ по обеим сторонам ЛБС",
+      "url": "https://t.me/boris_rozhin/234605",
+      "published_at": "2026-11-25T06:20:11+00:00",
+      "text": "Блэкаут в Днепропетровске после ударов по энергетике.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30774",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30774",
+      "published_at": "2026-11-25T06:13:34+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation launched strikes with unmanned aerial vehicles against transport infrastructure and defence industry facilities, as well as vessels used in the interests of the AFU. 💥 As a result of the strikes, the following targets were hit: ▪️ a 330 kV power substation in Zaporozhye , which provides support for Ukrainian defence industry enterprises; ▪️ two railway locomotives in Dnepropetrovsk transporting weapons and military hardware; ▪️ a 330 kV power substation in Zelenodolsk of Dnepropetrovsk region supporting the operation of Ukrainian defence industry enterprises; ▪️ an industrial enterprise in the village of Snovsk in Chernigov region , where UAV components were produced; ▪️ a dry cargo ship in the Chernomorsk port, which delivered military cargo to Ukraine. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199221"
+      ]
+    },
+    {
+      "id": "AussieCossack/53546",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53546",
+      "published_at": "2026-11-25T06:09:29+00:00",
+      "text": "❗️ Boris Johnson stated that \"NATO is stronger than Russia\" and proposed sending European troops to Ukraine. Let's be frank about what's happening. We are already fighting a proxy war. We are spending billions, sending ammunition to Ukrainians, and helping them in many different ways,\" the former British Prime Minister said in an interview with Sky News. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407502",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407502",
+      "published_at": "2026-11-25T06:08:06+00:00",
+      "text": "Охотник, который погиб от лап медведя в Тарском районе Омской области, приехал в лес с племянником для добычи песца, сообщили ТАСС в правоохранительных органах. Фото: Пресс-служба СУ СК РФ по Омской области",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19816",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19816",
+      "published_at": "2026-11-25T06:04:39+00:00",
+      "text": "JUST IN: 🇯🇵 Japan set to fall to the world's sixth-largest economy by 2027. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102488",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102488",
+      "published_at": "2026-11-25T06:03:38+00:00",
+      "text": "▶ РЫБАРЬ ПОЯСНЯЕТ: РЭР — СТРАННЫЙ ПРЕДМЕТ. ВРОДЕ БЫ ЕСТЬ. А ВРОДЕ БЫ НЕТ В новом выпуске «Рыбарь поясняет» разбираемся, почему российская РЭР погрязла в бюрократии, как переход ВСУ на Starlink осложнил перехват вражеских радиосетей и что мешает службе адаптироваться к современным условиям войны. Приятного просмотра! #пояснение #эфиры ✉ MAX 💸 Поддержать нас",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98577",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98577",
+      "published_at": "2026-11-25T06:02:13+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — Enemy sources report that the Kuibyshev Oil Refinery was attacked by drones overnight. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/intelslava/98574"
+      ],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407500",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407500",
+      "published_at": "2026-11-25T06:01:01+00:00",
+      "text": "Собака погибшего в Омской области охотника могла спровоцировать нападение медведя, сообщили ТАСС в правоохранительных органах. Когда племянник нашел тело со следами медвежьего нападения, собака была возле него. Родственник ее забрал и пошел за помощью. ✔️ …",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350420",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350420",
+      "published_at": "2026-11-25T06:01:01+00:00",
+      "text": "У России есть средство против супербактерии из Европы, заявил глава НИЦЭМ Гинцбург. У нас есть препарат \"Фтортиазинон\". Сейчас этот препарат, который преодолевает антибиотикорезистентность, потому что Klebsiella pneumoniae не сама по себе страшная, страшны…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234604",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234604",
+      "published_at": "2026-11-25T06:00:00+00:00",
+      "text": "Не мобилизованный робот курьер .",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
