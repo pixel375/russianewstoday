@@ -1,0 +1,67 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    205
+  ],
+  "published_at_utc": "2026-11-25T16:25:42.645077+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-25T15",
+  "items": [
+    {
+      "item_id": "2026-11-25T15:1",
+      "title": "Polish deputy defence minister says NATO opposes interceptions over Ukraine",
+      "summary": "Polish Deputy Defence Minister Cezary Tomczyk said NATO considers intercepting missiles over Ukrainian territory unacceptable. His remarks follow reports that Warsaw had asked allies to examine the possibility.",
+      "post_url": "https://t.me/russianewstodayofficial/205",
+      "category": "other",
+      "hour_id": "2026-11-25T15",
+      "source_handles": [
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T15:2",
+      "title": "Norway restricts entry for Russian and Belarusian athletes",
+      "summary": "Norway's government announced restrictions on entry for Russian and Belarusian athletes. The available announcement did not specify the full scope of the measures.",
+      "post_url": "https://t.me/russianewstodayofficial/205",
+      "category": "other",
+      "hour_id": "2026-11-25T15",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T15:3",
+      "title": "SAPO presents draft policy on corruption plea agreements",
+      "summary": "Ukraine's Specialized Anti-Corruption Prosecutor's Office presented proposed criteria for plea agreements in high-level corruption cases, including cooperation with investigators, proportionality and compensation for losses. The draft also calls for annual publication of aggregate results, including recovered assets.",
+      "post_url": "https://t.me/russianewstodayofficial/205",
+      "category": "other",
+      "hour_id": "2026-11-25T15",
+      "source_handles": [
+        "sap_gov_ua"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T15:4",
+      "title": "Russia and Brunei announce strategic partnership",
+      "summary": "President Vladimir Putin announced a joint declaration elevating bilateral relations to a strategic partnership. He outlined plans to expand energy cooperation, banking links and settlement in national currencies to reduce exposure to international political and market disruptions.",
+      "post_url": "https://t.me/russianewstodayofficial/205",
+      "category": "other",
+      "hour_id": "2026-11-25T15",
+      "source_handles": [
+        "mfarussia"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T15:5",
+      "title": "Belgian court reportedly freezes €115 million in Google Belgium assets",
+      "summary": "According to a report citing a person familiar with the court decision, a Belgian court ordered a precautionary freeze on €115 million in Google Belgium assets at the request of the Russian Google entity. The reported measure concerns dividends.",
+      "post_url": "https://t.me/russianewstodayofficial/205",
+      "category": "other",
+      "hour_id": "2026-11-25T15",
+      "source_handles": [
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
