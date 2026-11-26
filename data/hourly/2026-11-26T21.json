@@ -1,0 +1,384 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T21",
+  "generated_at_utc": "2026-11-26T22:00:46.242617+00:00",
+  "window_start_utc": "2026-11-26T21:00:00+00:00",
+  "window_end_utc": "2026-11-26T22:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 20,
+    "relevant_posts": 9,
+    "editorial_pool_posts": 20,
+    "retained_without_keyword_match": 11,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 20,
+    "candidate_posts": 20
+  },
+  "posts": [
+    {
+      "id": "voenkorKotenok/78271",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78271",
+      "published_at": "2026-11-26T21:58:53+00:00",
+      "text": "#ЭпохаПутина Искусственный интеллект вышел на новый уровень: он начинает работать сам. Об этом Владимир Путин сказал на конференции по ИИ AI Journey в Москве. Ещё пару лет назад нейросети только отвечали на вопросы. Теперь они становятся «мозгом» для ИИ-агентов — программ, которые сами планируют работу, решают задачи и исправляют свои ошибки. ⠀ Президент предложил обновить стратегию развития ИИ до 2036 года и быстрее строить дата-центры вместе с бизнесом. Ещё он сказал, что от тех, кто использует ИИ во вред, нужно защищать людей, бизнес и важные объекты. Но запрещать сами технологии нельзя: «Нужно выстроить эффективную защиту государства, нашей критической инфраструктуры, граждан и бизнеса, но при этом не вводить избыточные запреты, не пытаться блокировать технологии».",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199411",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199411",
+      "published_at": "2026-11-26T21:47:12+00:00",
+      "text": "LIVESTREAM ALERT: Join me at LIVE 7pm eastern 1am CET TODAY November 26th w/ former MEPs Clare Daly and Mick Wallace! In this program we dive into the reckless moves by Europe to fight Washington's wars and how the EU and its NATO militarists have gotten dangerously close to nuclear escalation with Iran and Russia. Plus, they give you insight into their experience within the European Union and what it tells the world about the state of the West and the empire headed in the United States. Watch here: https://www.youtube.com/watch?v=Eg1VjMo2p-0",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98664",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98664",
+      "published_at": "2026-11-26T21:47:07+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡ The intensity of attacks on Odesa in 2026 has increased almost threefold, and the number of air alerts has doubled compared to last year. This was reported by First Deputy Mayor Oleksandr Filatov during a meeting of the Executive Committee. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234831",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234831",
+      "published_at": "2026-11-26T21:34:19+00:00",
+      "text": "Отчетные видео работы Центра БПС \" Рубикон \"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98663",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98663",
+      "published_at": "2026-11-26T21:34:12+00:00",
+      "text": "🇱🇾 🇷🇺 🇺🇦 ⚡️ — The Libyan National Army (LNA) has vowed to retaliate for an attack by Ukrainian unmanned surface vessels (USVs) on the port of Benghazi, which killed two military personnel. The LNA General Staff stated that a response would come “at the appropriate time, in the appropriate place, and by the appropriate means.” However, it did not specify who the threat was directed at: Ukraine or the authorities in western Libya, who are suspected of assisting Kyiv. The western Libyan authorities have denied accusations of cooperating with Ukraine and stated that they were not involved in the attack. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199410",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199410",
+      "published_at": "2026-11-26T21:33:48+00:00",
+      "text": "🇾🇪 ⚔️ 🇸🇦 BREAKING! Yemeni air defenses reportedly shot down a Saudi aircraft over Al-Jawf province in Yemen. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98662",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98662",
+      "published_at": "2026-11-26T21:33:28+00:00",
+      "text": "🇪🇺 🇺🇦 ⚡️ — EU leaders are meeting in Brussels to discuss, among other issues, financing a €45 billion loan to Ukraine. The Czech Republic, Hungary, Slovakia, and Bulgaria have refused to participate in the initiative. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234830",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234830",
+      "published_at": "2026-11-26T21:31:44+00:00",
+      "text": "🗡 Взрывной привет для врага Подготовка расчетов реактивных штурмовых гранат ГВ «Запад» Инструктор с позывным «Водяной» обучает наших воинов применению реактивной штурмовой гранаты. Бойцы занимают исходную позицию, готовят гранатомет к бою и оттачивают приемы прицеливания. Главная цель тренировки – выработать автоматизм действий и строгое соблюдение мер безопасности. Слаженный расчет способен эффективно поражать бронетехнику и укрепления противника на коротких дистанциях. ✌️ Отточенное мастерство – залог эффективного поражения цели Оперативный простор 👻 Мы в MAX!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407809",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407809",
+      "published_at": "2026-11-26T21:27:00+00:00",
+      "text": "Лидеры ЕС провалили дискуссию по бюджету Евросоюза на 2028-2034 годы, переговоры продолжатся в декабре, сообщил европейский дипломатический источник. Предложенный главой Евросовета Коштой бюджетный план в размере €1,52 трлн участники саммита считают неприемлемым…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350521",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350521",
+      "published_at": "2026-11-26T21:24:16+00:00",
+      "text": "Остается пять дней на уплату налогов физлиц в России за 2025 год. 1 декабря истекает срок оплаты уведомлений по имущественному, земельному, транспортному налогам, а также подоходного налога в случаях, если он не был удержан налоговым агентом. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78270",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78270",
+      "published_at": "2026-11-26T21:19:56+00:00",
+      "text": "5. Например, насколько дорого подготовить спецназовца. В таких специалистов вкладывают сумасшедшие деньги, включая покупку оборудования, оружия, тренировки и т.д. И вот этот очень дорогой спецназ используют для захвата наших судов. Пиратство по факту. Дания этим балуется, Великобритания, Франция. А если вдруг эти подлетающие вертолёты будут сбиты и уничтожены непонятно кем? Подлетают досматривать, а их уронили с помощью fpv или из РПГ расстреляли на подлёте. И нет спецназа. Представьте уровень скандала? Западному обществу будет демонстративно показано, что они уязвимы. Просто по факту взяли и убили элитных бойцов. Прилетите ещё раз — убьётесь ещё раз. Высаживать десанты на русских кораблях должно стать больно и дорого. Причём политически дорого. От нас, к сожалению, никто таких действий уже не ожидает. Вот в чём вся фишка. Или, например, жестко ответить обнаглевшему противнику в Африке, где действуют французские, английские и т.д. специалисты? Или если вдруг завтра после нападения на российский транспортник вдруг сгорит в своём доме из-за случайного пожара командир морского спецназа Германии? Кому это предъявлять? России? С чего бы? У них в европах расцвет криминала. Могут же вдруг французские жёлтые жилеты пойти на штурм дома начальника Главного штаба ВМФ Франции и ему при этом разбить башку? Кто будет в этом виноват? Россия, что ли? Уверен, что у нас многие понимают, что и как действовать. Пора наконец принять политическое решение! Читать полностью — 👇 👇 👇 «Восстань и бей первым!» Мост и мосты как маркер вместе с атаками наших кораблей Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53579",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53579",
+      "published_at": "2026-11-26T21:18:51+00:00",
+      "text": "❗️ French President Macron blames the US for \"withdrawing\" from Ukraine since 2025 adding that therefore more EU funding is crucial. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98661",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98661",
+      "published_at": "2026-11-26T21:17:52+00:00",
+      "text": "🇮🇹 🇺🇦 ⚡️ — Italy could supply Ukraine with up to 20 Eurofighter fighter jets, La Repubblica reports. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98660",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98660",
+      "published_at": "2026-11-26T21:16:26+00:00",
+      "text": "🇮🇷 🇰🇼 ⚡️ — Iran is ready to conduct a joint investigation with Kuwait into the drone attack on the emirate’s territory to establish its origin and identify those responsible, Iranian Foreign Minister Abbas Araghchi said during a telephone conversation with his Kuwaiti counterpart, Sheikh Jarrah Jaber Al-Ahmad Al-Sabah, the Iranian Foreign Ministry’s press service reported. According to the ministry, Araghchi categorically rejected accusations that an Iranian drone had attacked Kuwait and stressed that Iran had nothing to do with the incident. The minister also expressed regret over the casualties and damage. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407808",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407808",
+      "published_at": "2026-11-26T21:16:01+00:00",
+      "text": "✈️ Вылетевший из Эдинбурга в Лондон самолет возвращается в аэропорт отправления из-за тревоги на борту. Об этом сообщил ТАСС источник в авиадиспетчерских службах.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53578",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53578",
+      "published_at": "2026-11-26T21:12:30+00:00",
+      "text": "❗️ Czech PM Babis complains: We have given Ukraine $520 BILLION so far. What is the strategy? What is the goal? @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78269",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78269",
+      "published_at": "2026-11-26T21:09:09+00:00",
+      "text": "Оккупационная администрация Запорожья отчиталась о прилете по объекту инфраструктуры. В результате атаки возник пожар в производственном здании, говорится в сообщении. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78267",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78267",
+      "published_at": "2026-11-26T21:05:06+00:00",
+      "text": "Выпрямление Кривого Рога русскими БпЛА не сбавляет обороты, судя по мониторингу местных пабликов. В частности, воздушным ударам подверглись промышленные предприятия, сельскохозяйственная техника, складские помещения и хозяйственные постройки. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234829",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234829",
+      "published_at": "2026-11-26T21:02:01+00:00",
+      "text": "Учения Бундесвера в Литве: миф западной пропаганды Западные СМИ преподнесли отказ Бундесвера от марша бронетехники через Польшу в Литву как «желание не провоцировать Россию», однако реальные причины этой логистической эквилибристики куда прозаичнее . В чём истинная подоплёка происходящего, в эксклюзивном интервью БелВПО рассказал военный эксперт Андрей Богодель . Напомним, в манёврах Grand Eagle 26 и Freedom Shield 26-II в Литве (6 ноября – 3 декабря) задействованы более 6 тыс. военнослужащих из восьми стран альянса. Основу группировки составляют подразделения 10-й тд Бундесвера, в частности 45-я тбр «Литва». «Изначально обсуждался вариант переброски тяжёлой техники по суше через Польшу и Сувалкский коридор. Но в итоге технику отправили паромами по Балтийскому морю в порт Клайпеды, откуда гусеничные машины погрузили на железнодорожные платформы и доставили прямо на полигон в Пабраде – примерно в 10 км от госграницы с Беларусью», – отметил Богодель. Военный эксперт выделил три реальные причины, которые заставили штабы Бундесвера в последний момент перекроить маршрут: Польский фактор и историческая память. Несмотря на громкие союзнические заявления, никакой искренней дружбы между Варшавой и Берлином нет. Появление колонн немецких танков своим ходом на польских дорогах вызвало бы у населения настоящий информационный шок и тяжёлые исторические ассоциации. Для премьера Туска, которого оппозиция и так обвиняет в уступчивости перед Берлином, такие кадры стали бы политической катастрофой и мощнейшим козырем в руках президента Навроцкого. Техническое состояние машин и дефицит кадров. Главным репутационным провалом для Берлина стали бы не заголовки о сломанных Leopard или Puma на польских обочинах и не ДТП с участием неопытных экипажей, а вскрытие реального дефицита запчастей и низкой квалифицированностью кадров. Хрупкость гражданской инфраструктуры, в которую вложены миллиарды евро. Даже при использовании резиновых накладок на гусеницы многотонные машины сильно разбили бы асфальт на поворотах и развязках. Более того, многие мосты и путепроводы в Польше и Прибалтике строились ещё по советским стандартам и не рассчитаны на одновременную нагрузку от тяжёлых западных танков массой свыше 60 т. Свою роль сыграли и чисто логистические барьеры, связанные с шириной колеи железной дороги. «В Германии и Польше используется европейская колея (1435 мм), тогда как в Литве она остаётся широкой (1520 мм). В этих условиях переброска морем в Клайпеду с последующей погрузкой на местные платформы оказалась для Бундесвера единственным способом избежать громкого политического и технического фиаско», – подытожил Богодель. Смотреть на YOUTUBE rutube.ru @Belarus_VPO",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36029",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36029",
+      "published_at": "2026-11-26T21:00:58+00:00",
+      "text": "📝 Rybar's Main Points 📝 digest of materials for November 26 We covered how things stand with heavy drones on the front, and also whether to expect air defense reinforcements after reshuffles in the Aerospace Forces. ❗️ Read more about these and other topics in our digest. ➡️ Rybar @rybar — we talk about complex things simply. The main resource of our think tank. The most important and interesting materials. ▪ Chronicles of the SMO, new exchange of bodies, how much heavy drones are needed ▪ Rybar clarifies: should we continue attacking ▪ Birds conduct reconnaissance ▪ How to achieve changes in the Aerospace Forces ▪ Vigilance prevented a terrorist attack ▪ Pressure from Kyiv authorities on the UOC ➡️ ASIABAR @rybar_Pacific The US is preparing new tariffs for Asian countries. Ukrainian intelligence claims that North Korean authorities have suspended military aid to Russia. And Chinese specialists helped Pakistan in the conflict with India. ➡️ AMERICABAR @rybar_america In Iowa, the military detonated a dangerous lead stockpile and blamed it all on Obama, inflation in the US is accelerating again and pushing the Fed toward a rate hike, and tariffs on Brazilian aircraft hurt American airlines. ➡️ AFRICABAR @rybar_Africa A leak of Senegal's Defense Ministry documents revealed : the counter-terrorism plan is actually aimed at protests. Meanwhile, Dakar coordinates 30 security acts with Paris, confirming French influence. ➡️ BALKANBAR @balkanar In Serbia, the date for presidential elections was announced , and the country continues to see high-profile arrests of media leaders. ➡️ EUROBAR @evropar We analyzed the",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
