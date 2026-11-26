@@ -1,0 +1,43 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-26T16",
+  "snapshot_generated_at_utc": "2026-11-26T17:08:52.806238+00:00",
+  "items": [
+    {
+      "title": "New damage to critical infrastructure reported in Kryvyi Rih",
+      "summary": "A Russian military correspondent reported renewed explosions in Kryvyi Rih, citing local authorities as confirming a strike on critical infrastructure. The extent of the damage remains unclear.",
+      "source_urls": [
+        "https://t.me/voenkorKotenok/78259"
+      ]
+    },
+    {
+      "title": "Ukrainian media reports allegations of military corruption",
+      "summary": "Ukrainian outlet Strana reportedly interviewed soldiers from several units who alleged bribery for transfers away from combat, unofficial payments to commanders and misappropriation of military fuel. The allegations have not been independently verified.",
+      "source_urls": [
+        "https://t.me/DDGeopolitics/199389"
+      ]
+    },
+    {
+      "title": "Moscow issues warning to Western companies supporting Ukrainian attacks",
+      "summary": "Russian Foreign Ministry spokeswoman Maria Zakharova warned that employees of Western companies assisting Ukrainian attacks on Russia could face criminal prosecution and claimed they could become military targets. That claim does not itself establish their status under international humanitarian law.",
+      "source_urls": [
+        "https://t.me/tass_agency/407792",
+        "https://t.me/donbassr/117513"
+      ]
+    },
+    {
+      "title": "CSTO discusses military logistics modernization",
+      "summary": "Russia's Defence Ministry said a conference in Saint Petersburg examined modernization of the alliance's collective logistics system through 2040, drawing on experience from recent armed conflicts and considering greater use of automated systems.",
+      "source_urls": [
+        "https://t.me/mod_russia_en/30798"
+      ]
+    },
+    {
+      "title": "Russian-appointed Horlivka mayor reports civilian death",
+      "summary": "Ivan Prikhodko, the Russian-appointed mayor of occupied Horlivka, reported that a civilian had died in an alleged Ukrainian attack. The account has not been independently verified.",
+      "source_urls": [
+        "https://t.me/donbassr/117515"
+      ]
+    }
+  ]
+}
