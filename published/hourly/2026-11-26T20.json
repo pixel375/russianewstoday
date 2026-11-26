@@ -1,0 +1,45 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    225
+  ],
+  "published_at_utc": "2026-11-26T22:32:02.301887+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-26T20",
+  "items": [
+    {
+      "item_id": "2026-11-26T20:1",
+      "title": "EU leaders reportedly fail to agree on new Ukraine loan",
+      "summary": "EU leaders reportedly ended their Brussels summit without agreement on a proposed €45 billion loan for Ukraine or the bloc's next seven-year budget. Further budget negotiations are expected in December.",
+      "post_url": "https://t.me/russianewstodayofficial/225",
+      "category": "other",
+      "hour_id": "2026-11-26T20",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T20:2",
+      "title": "Former US deputy secretary of state Strobe Talbott reportedly dies",
+      "summary": "Former US deputy secretary of state Strobe Talbott, who advised President Bill Clinton on relations with Russia and other former Soviet states, has reportedly died at age 80.",
+      "post_url": "https://t.me/russianewstodayofficial/225",
+      "category": "other",
+      "hour_id": "2026-11-26T20",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T20:3",
+      "title": "Russia and China hold strategic defence consultations",
+      "summary": "Russia's Defence Ministry said Deputy Defence Minister Vasily Osmakov participated in the first round of strategic consultations between the Russian and Chinese defence departments.",
+      "post_url": "https://t.me/russianewstodayofficial/225",
+      "category": "other",
+      "hour_id": "2026-11-26T20",
+      "source_handles": [
+        "mod_russia_en"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
