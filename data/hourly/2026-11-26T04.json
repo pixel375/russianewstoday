@@ -1,0 +1,332 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T04",
+  "generated_at_utc": "2026-11-26T05:05:40.486652+00:00",
+  "window_start_utc": "2026-11-26T04:00:00+00:00",
+  "window_end_utc": "2026-11-26T05:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 16,
+    "relevant_posts": 8,
+    "editorial_pool_posts": 16,
+    "retained_without_keyword_match": 8,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 16,
+    "candidate_posts": 16
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/199329",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199329",
+      "published_at": "2026-11-26T04:55:25+00:00",
+      "text": "🇺🇦 🍟 Let's see if we understand the message: Ukrainians don't give a damn about strikes as long as there's a McDonald's..? 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117463",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117463",
+      "published_at": "2026-11-26T04:55:11+00:00",
+      "text": "❗️ Спецпосланник президента США Джаред Кушнер анонсировал масштабный обмен пленными РФ и Украины, он пройдет до конца года. Другие заявления: ▪️ Кушнер назвал конфликт опосредованной войной, в которой Европа финансирует и вооружает Украину для борьбы с Россией. ▪️ Россия и Украина должны прийти к соглашению, которое обеспечит долгосрочный мир. ▪️ Территориальный вопрос пока остается главным тупиком на переговорах. ▪️ США не будут принимать решений по Украине без согласия Киева и Европы. ▪️ Кушнер допустил, что согласие Меркель на вступление Украины в НАТО в 2008 году могло как предотвратить конфликт, так и ускорить его начало. ▪️ Вступление Украины в НАТО остается возможным вариантом, однако решение должны выработать сами стороны. ▪️ Путин хочет не только мира на Украине, но и перезагрузки отношений с США. ▪️ Страны могут получить взаимную выгоду от сотрудничества. ▪️ По мнению Кушнера, расширение НАТО на восток при Джордже Буше нанесло ущерб отношениям Москвы и Вашингтона. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350469",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350469",
+      "published_at": "2026-11-26T04:48:10+00:00",
+      "text": "Джигурда снова попал в реанимацию - из-за риска повторного инфаркта. Об этом РИА Новости сообщил сам артист. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117462",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117462",
+      "published_at": "2026-11-26T04:45:09+00:00",
+      "text": "☂️ Погода на Юге России утром 26 ноября: ☁️ В Донецке -1°, пасмурно. 🌧 В Луганске 0°, снег с дождем. ☁️ В Ростове-на-Дону: 0°, пасмурно. ⛅️ В Херсоне -2°, облачно с прояснениями. ☁️ В Запорожье -1°, пасмурно. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407667",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407667",
+      "published_at": "2026-11-26T04:41:01+00:00",
+      "text": "Американский консорциум Боули подтвердил сделку о приобретении зарубежных активов \"Лукойла\", говорится в пресс-релизе инвесткомпании Eldridge. Соглашение было заключено с сохранением полной стоимости активов, сейчас сделка подлежит одобрению со стороны Управления…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53568",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53568",
+      "published_at": "2026-11-26T04:34:44+00:00",
+      "text": "❗️ 40 Australian Defence Force personnel deployed on Operation Legio to Camp Jomsborg in Poland to train forcibly mobilised Ukrainian civilians. The Ukrainian civilians are kidnapped by Zelensky's gangs and then transported to this camp for \"training\" by Australian soldiers before being sent to die on the frontlines. Who voted for this? @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407666",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407666",
+      "published_at": "2026-11-26T04:33:01+00:00",
+      "text": "Более 20 БПЛА и ракеты уничтожены в Ростовской области, сообщил губернатор региона.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117461",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117461",
+      "published_at": "2026-11-26T04:32:04+00:00",
+      "text": "💥 Минувшей ночью уничтожены более 20 украинских БПЛА и ракет над Ростовской областью , сообщил губернатор Юрий Слюсарь. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407665",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407665",
+      "published_at": "2026-11-26T04:31:01+00:00",
+      "text": "▶️ Число французов в рядах ВСУ заметно сократилось, заявил ТАСС военный эксперт Ксавье Моро. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53567",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53567",
+      "published_at": "2026-11-26T04:30:46+00:00",
+      "text": "❗️ Jared Kushner, who is part of the US negotiating team, said Putin had assured Washington that Russia had no intention of using nuclear weapons and agreed not to resort to them. Kushner also acknowledged that discussions over territorial issues had reached a standstill, with negotiators struggling to make progress on the matter. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98626",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98626",
+      "published_at": "2026-11-26T04:24:14+00:00",
+      "text": "🇷🇺 🇺🇸 ⚡️ — Putin agreed not to use nuclear weapons and assured the United States of the absence of such intentions, according to Trump's son-in-law, Kushner. He also stated, as a member of the negotiating group, that negotiations regarding territories had reached a deadlock. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407664",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407664",
+      "published_at": "2026-11-26T04:15:04+00:00",
+      "text": "В Байкале нашли вырабатывающие токсины цианобактерии, которые могут поражать печень и оказывать паралитическое воздействие на нервную систему людей и животных, сообщили \"Известия\". Заведующая лабораторией водной микробиологии ЛИН СО РАН Ольга Белых отметила, что Байкал огромен, и основная часть озера остается чистой.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53566",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53566",
+      "published_at": "2026-11-26T04:12:57+00:00",
+      "text": "❗️ The US State Department has approved a potential $621.9 million package to support Ukraine’s F-16 fleet, with the entire cost covered by Belgium, Denmark, the Netherlands and Norway under the JUMPSTART programme. The deal includes maintenance equipment, laboratory systems and transportation support aimed at keeping Ukraine’s F-16s operational and strengthening its air defence capabilities. No US funding will be used. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19834",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19834",
+      "published_at": "2026-11-26T04:04:58+00:00",
+      "text": "JUST IN: 🇨🇳 🇺🇸 Chinese-made AI chips projected to dominate 88% of its market by 2028 as China prepares to reduce foreign reliance due to US chip export restrictions. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234717",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234717",
+      "published_at": "2026-11-26T04:02:20+00:00",
+      "text": "Друзья, мы вместе с Игорем Гомольским , Владимиром Разиным и Народным фронтом продолжаем наш совместный сбор средств для подразделения специального назначения, которое действует на Донецком направлении! Парни ежедневно прикладывают все усилия для достижения нашей общей Победы. Чтобы им облегчить выполнение боевых задач, парням необходимы специализированное техническое оборудование, средства БПЛА и комплектующие к ним. Помочь бойцам можно через сайт Народного фронта .",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407663",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407663",
+      "published_at": "2026-11-26T04:01:20+00:00",
+      "text": "▶️ В Московском зоопарке впервые в России вылупились птенцы хохлатых гокко. Видео: Пресс-служба Московского зоопарка/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
