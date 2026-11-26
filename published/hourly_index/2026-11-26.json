@@ -296,6 +296,62 @@
         "donbassr",
         "tass_agency"
       ]
+    },
+    {
+      "item_id": "2026-11-26T16:1",
+      "title": "New damage to critical infrastructure reported in Kryvyi Rih",
+      "summary": "A Russian military correspondent reported renewed explosions in Kryvyi Rih, citing local authorities as confirming a strike on critical infrastructure. The extent of the damage remains unclear.",
+      "post_url": "https://t.me/russianewstodayofficial/220",
+      "category": "other",
+      "hour_id": "2026-11-26T16",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T16:2",
+      "title": "Ukrainian media reports allegations of military corruption",
+      "summary": "Ukrainian outlet Strana reportedly interviewed soldiers from several units who alleged bribery for transfers away from combat, unofficial payments to commanders and misappropriation of military fuel. The allegations have not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/220",
+      "category": "other",
+      "hour_id": "2026-11-26T16",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T16:3",
+      "title": "Moscow issues warning to Western companies supporting Ukrainian attacks",
+      "summary": "Russian Foreign Ministry spokeswoman Maria Zakharova warned that employees of Western companies assisting Ukrainian attacks on Russia could face criminal prosecution and claimed they could become military targets. That claim does not itself establish their status under international humanitarian law.",
+      "post_url": "https://t.me/russianewstodayofficial/220",
+      "category": "other",
+      "hour_id": "2026-11-26T16",
+      "source_handles": [
+        "donbassr",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T16:4",
+      "title": "CSTO discusses military logistics modernization",
+      "summary": "Russia's Defence Ministry said a conference in Saint Petersburg examined modernization of the alliance's collective logistics system through 2040, drawing on experience from recent armed conflicts and considering greater use of automated systems.",
+      "post_url": "https://t.me/russianewstodayofficial/220",
+      "category": "other",
+      "hour_id": "2026-11-26T16",
+      "source_handles": [
+        "mod_russia_en"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T16:5",
+      "title": "Russian-appointed Horlivka mayor reports civilian death",
+      "summary": "Ivan Prikhodko, the Russian-appointed mayor of occupied Horlivka, reported that a civilian had died in an alleged Ukrainian attack. The account has not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/220",
+      "category": "other",
+      "hour_id": "2026-11-26T16",
+      "source_handles": [
+        "donbassr"
+      ]
     }
   ]
 }
