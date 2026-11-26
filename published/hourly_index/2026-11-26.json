@@ -203,6 +203,53 @@
         "boris_rozhin",
         "ddgeopolitics"
       ]
+    },
+    {
+      "item_id": "2026-11-26T11:1",
+      "title": "Power outages reported across Crimea and Sevastopol",
+      "summary": "The electricity provider Krymenergo said outages in Russian-occupied Crimea were caused by failures outside the peninsula. Restoration work was underway. The cause of the initial failures was not specified.",
+      "post_url": "https://t.me/russianewstodayofficial/218",
+      "category": "other",
+      "hour_id": "2026-11-26T11",
+      "source_handles": [
+        "boris_rozhin",
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T11:2",
+      "title": "Germany and Ukraine reportedly agree to cooperate on DELTA military software",
+      "summary": "The two countries' defence ministers reportedly signed a declaration of intent on joint development and use of Ukraine's DELTA situational awareness system. Norway has also reportedly agreed to test the software. The reported arrangements do not establish direct German access to Ukrainian operational data.",
+      "post_url": "https://t.me/russianewstodayofficial/218",
+      "category": "other",
+      "hour_id": "2026-11-26T11",
+      "source_handles": [
+        "dva_majors"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T11:3",
+      "title": "Russia claims 872 Ukrainian drones intercepted over 24 hours",
+      "summary": "Russia's Defence Ministry reported intercepting 872 Ukrainian drones over the preceding day and claimed strikes on Ukrainian unmanned-system production and storage facilities. The figures and strike results have not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/218",
+      "category": "other",
+      "hour_id": "2026-11-26T11",
+      "source_handles": [
+        "donbassr",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T11:4",
+      "title": "Georgia proposes alternating venues for talks with Russia",
+      "summary": "Georgian Prime Minister Irakli Kobakhidze expressed support for talks between Georgian and Russian representatives, proposing that meetings alternate between Moscow and Tbilisi.",
+      "post_url": "https://t.me/russianewstodayofficial/218",
+      "category": "other",
+      "hour_id": "2026-11-26T11",
+      "source_handles": [
+        "tass_agency"
+      ]
     }
   ]
 }
