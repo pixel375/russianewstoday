@@ -1,0 +1,394 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T18",
+  "generated_at_utc": "2026-11-26T19:03:47.297903+00:00",
+  "window_start_utc": "2026-11-26T18:00:00+00:00",
+  "window_end_utc": "2026-11-26T19:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 23,
+    "relevant_posts": 5,
+    "editorial_pool_posts": 23,
+    "retained_without_keyword_match": 16,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 21,
+    "candidate_posts": 21
+  },
+  "posts": [
+    {
+      "id": "donbassr/117521",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117521",
+      "published_at": "2026-11-26T18:55:24+00:00",
+      "text": "Численность занесенного в Красную книгу черноголового хохотуна в Приазовье за десять лет выросла на пять тысяч процентов! Помимо этой редкой птицы, в биосферном резервате «Хомутовская степь – Меотида» наблюдается взрывной рост количества и других пернатых. «Например, кудрявый пеликан, который никогда не гнездился в исторический период в северном Причерноморье, у нас начал регулярно гнездиться», – рассказал начальник отдела науки биосферного резервата Геннадий Молодан. Также, по его словам, никогда раньше там не обитали пестроносые крачки. А теперь образовалась колония в 60 тысяч пар. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19844",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19844",
+      "published_at": "2026-11-26T18:52:43+00:00",
+      "text": "JUST IN: 🇸🇦 Saudi Arabia temporarily shuts down its Jazan oil refinery following a projectile attack. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234817",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234817",
+      "published_at": "2026-11-26T18:50:37+00:00",
+      "text": "26 ноября 2026 года в результате авиаудара ВКС РФ по г. Запорожье ликвидировано 4 офицера национальной полиции Украины: подполковник Сирух Руслан, майор Резникова Екатерина, капитан Рисей Оксана и капитан Смыков Евгений. @ukrainian_guide",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350517",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350517",
+      "published_at": "2026-11-26T18:48:49+00:00",
+      "text": "Всех мужчин от 17 до 60 лет собираются проверить на Украине - кабинет министров поручил провести верификацию их военно-учетных данных. Минобороны получит информацию о регистрационном номере налогоплательщика, паспортных данных, записи в демографическом реестре, месте жительства и сведениях о гражданстве. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234816",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234816",
+      "published_at": "2026-11-26T18:40:34+00:00",
+      "text": "Работает батарея противодействия БпЛА 218 гвардейского полка 127 гвардейской мотострелковой дивизии 5 гвардейской армии группировки войск \"Восток\" 10 сбитых воздушных целей противника — 9 БпЛА самолетного типа и один квадрокоптер, замышлявший что-то недоброе. @voin_dv",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98648",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98648",
+      "published_at": "2026-11-26T18:36:00+00:00",
+      "text": "🇷🇺 🇮🇳 ⚡️ — Foreign Minister Lavrov: “We have relations with India that are officially called a special and privileged strategic partnership. We have a strategic partnership, a particularly advanced strategic partnership, with the Islamic Republic of Iran,…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30800",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30800",
+      "published_at": "2026-11-26T18:32:58+00:00",
+      "text": "Artillerymen's precision strikes 🔥 The Tsentr Group's Tornado-S MLRS destroyed a UAV control and storage post of the enemy in Dnepropetrovsk direction. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98646",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98646",
+      "published_at": "2026-11-26T18:31:28+00:00",
+      "text": "🇷🇺 🇪🇺 ⚡️ — Foreign Minister Lavrov: “We sympathize with Europeans who have found themselves under the rule of utterly selfish and unrealistic elites.” @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/AussieCossack/53577"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117520",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117520",
+      "published_at": "2026-11-26T18:31:01+00:00",
+      "text": "На завершившемся в Подмосковье форуме молодёжи Донбасса разработали десять социально значимых проектов развития региона. «Среди созданных проектов – сервис поиска точек доступа с интернетом и генераторами, медицинское приложение по диспансеризации, ИИ-помощник по предметам вне школьной программы, приложение-шпаргалка о военкомате, онлайн-помощь родителям детей с ОВЗ и интерактивная карта подачи воды. Мы обязательно возьмем эти проекты на вооружение и окажем содействие в их реализации», – сказал министр молодёжной политики ДНР Денис Шимановский. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350516",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350516",
+      "published_at": "2026-11-26T18:29:28+00:00",
+      "text": "ИИ заметно упростил анализ обращений на прямую линию президента, заявил Песков : Он нам добавил где-то несколько сотен постов операторских для приема звонков. Человек, в принципе, даже может не понять, что с ним разговаривает машина, но машина помогает человеку сформулировать его мысль. Масштаб работы с поступающими сообщениями значительно вырос, отметил пресс-секретарь президента. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53576",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53576",
+      "published_at": "2026-11-26T18:22:45+00:00",
+      "text": "❗️ Lavrov: In Ukraine, you cannot speak Russian. Yet when nobody sees or hears them, all these Ukrainian leaders communicate with each other in Russian. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234815",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234815",
+      "published_at": "2026-11-26T18:21:01+00:00",
+      "text": "Различные боевые части беспилотника «Шахед-136» на авиакосмической выставке в Мешхеде, Иран. Слева показана исключительно усиленная стальная оболочка, предназначенная для проникновения внутрь сооружений перед взрывом. @parstodayrussian",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19843",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19843",
+      "published_at": "2026-11-26T18:15:24+00:00",
+      "text": "JUST IN: 🇺🇸 🇷🇺 🇪🇺 President Trump says he asked Russian President Putin to \"end military aggression\" in Europe. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407802",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407802",
+      "published_at": "2026-11-26T18:14:06+00:00",
+      "text": "❗️ Прием вопросов на прямую линию с Путиным продлится с 00:00 мск 27 ноября вплоть до окончания программы 10 декабря, сообщает Кремль.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98645",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98645",
+      "published_at": "2026-11-26T18:09:54+00:00",
+      "text": "🇷🇺 🇪🇺 ⚡️ — Foreign Minister Lavrov: “Clearly, the West is not going anywhere. Neither the United States, nor Europe, nor the West's allies in other regions of the world. But they will no longer be able to dictate to everyone else how to live, whom to be friends with and whom to impose sanctions against. They will have to negotiate.” @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/intelslava/98644"
+      ],
+      "event_signals": [
+        "negotiation",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117519",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117519",
+      "published_at": "2026-11-26T18:08:50+00:00",
+      "text": "Расчет РСЗО «Торнадо-С» группировки «Центр» уничтожил пункт управления и хранения БПЛА противника на Днепропетровском направлении. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234809",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234809",
+      "published_at": "2026-11-26T18:05:10+00:00",
+      "text": "Еще немного фотографий с товарищем Ким Чен Ына во время посещения одного из ядерных комплексов, где северные корейцы укрепляют свою кузькину мать, чтобы диктовать свою волю империалистическим собакам и их подсосам с юга. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98643",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98643",
+      "published_at": "2026-11-26T18:04:23+00:00",
+      "text": "🇮🇱 ⚡️ — BIG: Cyberattack. https://t.me/MaxOsintIntel/27024",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350514",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350514",
+      "published_at": "2026-11-26T18:01:01+00:00",
+      "text": "Спецоперация. Обстановка и главные события на 26 ноября : ▪️ Армия России вывела из Константиновки еще 16 мирных жителей, сообщило Минобороны. ▪️ Потери ВСУ на всех направлениях за сутки составили 1110 военнослужащих. ▪️ Дежурные силы ПВО в ночь на четверг сбили 343 украинских беспилотника. ▪️ Бойцы \"Севера\" сбили более 200 дронов \"Баба-Яга\", которыми ВСУ снабжают пехоту. ▪️ Жители Черниговской области чаще стали сопротивляться сотрудникам ТЦК, рассказал источник РИА в силовых структурах. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407801",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407801",
+      "published_at": "2026-11-26T18:00:21+00:00",
+      "text": "Главные новости к этому часу: ▪ Путин предложил разработать систему государственно-частного партнерства для быстрого возведения ЦОДов. Главное из заявлений президента на конференции AI Journey — в материале ТАСС. ▪ ВС РФ поразили судно с грузами двойного назначения для ВСУ. ▪ Путин утвердил новую стратегию развития Арктики. ▪ На Кубани из-за атаки БПЛА загорелся НПЗ. ▪ Мария Захарова осудила спекуляции о планах РФ запустить в космос аппарат с ядерным зарядом. ▪ ЕС потратит €100 млрд в ближайшие семь лет на кредиты для Киева, сообщает источник ТАСС. ▪ В Вологде задержали родителей погибшей от истощения девочки. ▪ Экс-глава Банка Испании Эрнандес де Кос станет новым председателем ЕЦБ, сообщает газета 20 Minutos. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98642",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98642",
+      "published_at": "2026-11-26T18:00:03+00:00",
+      "text": "🇺🇸 🇨🇳 🇷🇺 ⚡️ — President Trump via Truth Social: “During my conversations in China with President Vladimir Putin, of Russia, I spent a lot of time talking about the fact that I would like to see President Putin pull back all Military aggression against territories throughout Europe, in the hopes that a Deal can be made between Russia and Ukraine, and made quickly. I really believe this is a strong possibility — Thousands of people are being killed each and every month, A COMPLETE BLOODBATH — and will be a Great Tribute to everyone! It was an Honor meeting with Secretary General of NATO, Mark Rutte, last night at Mar-a-Lago, where many topics were discussed, and in which I updated him on my talks with President Putin. Thank you for your attention to this matter!” @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
