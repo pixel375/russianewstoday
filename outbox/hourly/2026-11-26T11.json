@@ -1,0 +1,38 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-26T11",
+  "snapshot_generated_at_utc": "2026-11-26T12:10:09.763891+00:00",
+  "items": [
+    {
+      "title": "Power outages reported across Crimea and Sevastopol",
+      "summary": "The electricity provider Krymenergo said outages in Russian-occupied Crimea were caused by failures outside the peninsula. Restoration work was underway. The cause of the initial failures was not specified.",
+      "source_urls": [
+        "https://t.me/tass_agency/407742",
+        "https://t.me/rian_ru/350488",
+        "https://t.me/boris_rozhin/234764"
+      ]
+    },
+    {
+      "title": "Germany and Ukraine reportedly agree to cooperate on DELTA military software",
+      "summary": "The two countries' defence ministers reportedly signed a declaration of intent on joint development and use of Ukraine's DELTA situational awareness system. Norway has also reportedly agreed to test the software. The reported arrangements do not establish direct German access to Ukrainian operational data.",
+      "source_urls": [
+        "https://t.me/dva_majors/102567"
+      ]
+    },
+    {
+      "title": "Russia claims 872 Ukrainian drones intercepted over 24 hours",
+      "summary": "Russia's Defence Ministry reported intercepting 872 Ukrainian drones over the preceding day and claimed strikes on Ukrainian unmanned-system production and storage facilities. The figures and strike results have not been independently verified.",
+      "source_urls": [
+        "https://t.me/tass_agency/407737",
+        "https://t.me/donbassr/117495"
+      ]
+    },
+    {
+      "title": "Georgia proposes alternating venues for talks with Russia",
+      "summary": "Georgian Prime Minister Irakli Kobakhidze expressed support for talks between Georgian and Russian representatives, proposing that meetings alternate between Moscow and Tbilisi.",
+      "source_urls": [
+        "https://t.me/tass_agency/407738"
+      ]
+    }
+  ]
+}
