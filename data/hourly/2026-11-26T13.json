@@ -1,0 +1,638 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T13",
+  "generated_at_utc": "2026-11-26T14:05:22.431031+00:00",
+  "window_start_utc": "2026-11-26T13:00:00+00:00",
+  "window_end_utc": "2026-11-26T14:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 9
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 9
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 4
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 40,
+    "relevant_posts": 16,
+    "editorial_pool_posts": 40,
+    "retained_without_keyword_match": 23,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 38,
+    "candidate_posts": 38
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/199375",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199375",
+      "published_at": "2026-11-26T13:58:27+00:00",
+      "text": "⚽️ Hackers stole over 12 GB of personal and business information from FIFA employees. They gained access to the system by posing as federation employees, writes The Athletic. Stolen items include identity documents, information about the leadership, and financial and legal records. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199374",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199374",
+      "published_at": "2026-11-26T13:57:21+00:00",
+      "text": "🇱🇾 🇺🇦 Libyan National Army vows retaliation following Ukrainian naval drone attack on Benghazi The Libyan National Army (LNA), which controls eastern Libya, has vowed to respond to an attack by Ukrainian unmanned surface vessels on the port of Benghazi, reportedly killing two military personnel. In a statement, the LNA General Staff declared that its response would come “at the appropriate time, in the appropriate place, and with the appropriate means.” Although the statement did not identify those responsible or specify who would be targeted, the potential implications extend beyond Libya. Ukraine itself, or authorities in western Libya suspected of assisting Kiev , could become the focus of the LNA’s response. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199373"
+      ]
+    },
+    {
+      "id": "tass_agency/407765",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407765",
+      "published_at": "2026-11-26T13:56:01+00:00",
+      "text": "Роспотребнадзор предупредил жителей Ямала о поддельной икре, изготовленной предприятиями-призраками из Сахалинской области. Выявлена фальсифицированная продукция следующих изготовителей: ООО \"Персей\", ООО \"Нави\", ООО ПК \"Смак\", ООО \"Сахалинская икра\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199373",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199373",
+      "published_at": "2026-11-26T13:54:57+00:00",
+      "text": "🇺🇦 Part of a building collapsed on Dragomanova Street in Kiev after an explosion. Local telegram channels cite it was not a missile or UAV attack. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199374"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/199372",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199372",
+      "published_at": "2026-11-26T13:54:43+00:00",
+      "text": "🇺🇸 🇮🇱 Iowa blast: who got paid? In March the Army hired MuniRem Environmental, a Georgia company, to chemically neutralize 68 drums of degraded lead azide at the Iowa Army Ammunition Plant. That was the option its own expert panel had recommended. MuniRem handed in its treatment plan in early May. On May 8, then-Army Secretary Dan Driscoll chose detonation instead. A technical meeting requested that same day never took place, and on May 14 MuniRem was told the treatment work was off. On June 12 the Army Corps of Engineers awarded a $3.06 million lead azide remediation order to Cape-Weston, a joint venture of Cape Environmental Management and Weston Solutions. Weston is a client of the lobbying firm Rubin, Turnbull & Associates. The firm's Washington office is run by Caroline Wiles, its vice president of federal affairs. She is the daughter of Susie Wiles, who was Trump's chief of staff until this month. Weston also holds an Army Corps contract to build secure Pentagon facilities across Europe, Africa and Israel. That puts it inside a decades-long program run jointly with the Israeli Ministry of Defense. How far those ties go is anyone's guess. The Army says the crystallized drums could not be opened or moved without risking an explosion. On Wednesday, the day before Thanksgiving, nearly five tons of lead explosive went up over Iowa farmland. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102576",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102576",
+      "published_at": "2026-11-26T13:53:12+00:00",
+      "text": "Нет сообщений - нет прилетов. И не надо никого сажать и карать за слабую организацию ПВО в регионе или на объекте В Госдуму внесли законопроект об уголовной ответственности за незаконное распространение информации о последствиях ударов, терактов и диверсий, а также о размещении военной техники, производстве и хранении вооружений и боеприпасов. Инициативу внесла группа сенаторов, в том числе Андрей Клишас, Владимир Джабаров и Артем Шейкин. За нарушение после административного наказания за аналогичное деяние либо при наличии судимости по новой статье предлагается до трех лет лишения свободы. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117505",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117505",
+      "published_at": "2026-11-26T13:52:01+00:00",
+      "text": "В Запорожской области ВС РФ продвинулись в районе освобожденной Барвиновки. ▪️ Российские штурмовые группы действуют на окраинах соседнего села Васильковое, сообщают военные паблики. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407764",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407764",
+      "published_at": "2026-11-26T13:51:06+00:00",
+      "text": "▶️ На побережье Калифорнии обрушились высокие \"королевские приливы\", сообщает телеканал ABC7. Рухнула бетонная часть пирса, улицы оказались подтопленными, а некоторые жители были вынуждены покинуть дома. Видео: ТАСС/Reuters/Anadolu Agency ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78247",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78247",
+      "published_at": "2026-11-26T13:49:51+00:00",
+      "text": "Теперь враги резко перестанут попадать 😐 https://t.me/mash/79676",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407763",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407763",
+      "published_at": "2026-11-26T13:46:01+00:00",
+      "text": "▶️ Родители из Вологды, в семье которых девочка умерла от истощения, находятся в СУ СК РФ по Вологодской области. С ними проводятся следственные действия, сообщили ТАСС в ведомстве. Видео: Официальный канал СК России в \"Максе\"/ТАСС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350496",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350496",
+      "published_at": "2026-11-26T13:43:48+00:00",
+      "text": "\"Я думала, откормлю\" Кадры с родителями умершей от истощения девочки из многодетной вологодской семьи публикует СК. Следователи ведут допрос. Статуса задержанных у родителей пока нет. О ходе расследования дела запросил доклад Бастрыкин. Дети из этой семьи, по данным властей региона, регулярно пропускали медосмотры, зачастую не ходили в школу и детский сад. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234786",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234786",
+      "published_at": "2026-11-26T13:41:01+00:00",
+      "text": "Блэкаут в Днепропетровске. На левом берегу света нет уже 3 дня. Последствия ударов по подстанциям и генерирующим мощностям в Днепропетровской области и прилегающих областях. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407762",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407762",
+      "published_at": "2026-11-26T13:41:01+00:00",
+      "text": "❗️ В Госдуму внесен проект об уголовной ответственности за незаконное распространение информации об ударах по объектам в РФ, следует из базы данных.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407759"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117504",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117504",
+      "published_at": "2026-11-26T13:37:01+00:00",
+      "text": "В результате атаки беспилотника ВСУ в Никитовском районе Горловки поврежден пассажирский автобус , – сообщил Иван Приходько. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234785",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234785",
+      "published_at": "2026-11-26T13:35:31+00:00",
+      "text": "Кувейт сообщил, что Иран с помощью беспилотников успешно поразил несколько стратегических объектов на территории страны. Кувейт продолжает расплачиваться за соучастие в агрессии против Ирана. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4581",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4581",
+      "published_at": "2026-11-26T13:35:20+00:00",
+      "text": "​​ ⚖️ Верховний Суд поставив крапку у справі про стягнення майже 20 млн грн активів родини екскерівника Держекоінспекції Карпатського округу Касаційний цивільний суд у складі Верховного Суду залишив без задоволення касаційні скарги відповідачів та підтвердив законність визнання необґрунтованими активів на майже 20 млн грн, оформлених на близьких родичів колишнього начальника Державної екологічної інспекції Карпатського округу. Ідеться про три квартири та нежитлове приміщення у центрі м. Івано-Франківська, а також автомобілі «Volkswagen Touareg», 2021 року випуску, і «Mercedez-Benz G 63 AMG», 2023 року випуску. Матеріалами позову встановлено, що посадовець набув це майно під час перебування на посаді, але для приховування реального власника оформив його на членів родини та третіх осіб. Водночас аналізом доходів і видатків колишнього посадовця, членів його сім’ї та осіб, на яких оформлено у власність майно, встановлено неможливість набути ці об’єкти за рахунок законних прибутків. Позов ґрунтувався на матеріалах НАЗК, ДБР та доказах, отриманих прокурором САП у встановленому законом порядку. Рішення Верховного Суду є остаточним та оскарженню не підлягає.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407761",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407761",
+      "published_at": "2026-11-26T13:35:01+00:00",
+      "text": "▶️ Британия публично призналась в том, что определяет список целей для террористических ударов ВСУ по РФ, заявила Мария Захарова. Видео: Раптли/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350495",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350495",
+      "published_at": "2026-11-26T13:32:23+00:00",
+      "text": "Очередная сходка \"коалиции желающих\" показала их настрой на затягивание конфликта на Украине, заявила Захарова. Все их разговоры о готовности к переговорам являются ширмой сохраняющегося в Европе агрессивного настроя по отношению к России 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33656",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33656",
+      "published_at": "2026-11-26T13:31:27+00:00",
+      "text": "🔴 #LIVE : Russia's Foreign Minister Sergey Lavrov ’s remarks at the Khanty-Mansi Autonomous Area presentation 🔴 Russia’s MFA website",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199371",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199371",
+      "published_at": "2026-11-26T13:30:00+00:00",
+      "text": "‘We were sent to the slaughter’: Ukrainian POWs reveal AFU hidden side 💬 The servicemen of the 78th Air Assault Brigade and the 28th Mechanised Brigade of the AFU, captured in Slavyansk-Kramatorsk direction, spoke about the difficult situation on the front line and how their command treated them. ▫️ According to Vladimir Yankov, the AFU's rifleman, the victims' bodies are not evacuated from the roads . The prisoner believes that the command intentionally leaves the corpses there in order to avoid paying compensation to the families and to keep money for themselves. ▫️ His comrade, Aleksandr Tishchenko, complained about a severe food supply shortage : the fighters have been living without food or water for weeks and were forced to search for food in abandoned basements. ▫️ Another prisoner, Dmitry Gorobtsets, the 28th Mechanised Brigade's serviceman, said that company commander sent a group to the position, ensuring that it was safe there, but the servicemen immediately got under heavy fire. Before the deployment, the officer confiscated the subordinates' passports and bank cards and stated sincerely that they would no longer need money, as there was no chance to survive. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/mod_russia_en/30794"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407760",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407760",
+      "published_at": "2026-11-26T13:28:01+00:00",
+      "text": "📹 Показатели бюджета страны превысили прогноз и составили более 29,5 трлн рублей, сообщил Мишустин. Глава правительства заявил о росте ВВП на 0,8% за девять месяцев. Видео: Раптли/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98635",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98635",
+      "published_at": "2026-11-26T13:27:26+00:00",
+      "text": "🇮🇷 ❌ 🇰🇼 — The Kuwaiti Army announced that Iran targeted a “vital site” in Kuwait with several drones, causing material damage and injuries. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117503",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117503",
+      "published_at": "2026-11-26T13:27:01+00:00",
+      "text": "Три представителя ДНР награждены высшей наградой Русского географического общества – золотой медалью имени И. П. Бородина. Награды Роману Кишканю, Геннадию Молодану и Виктору Сиренко вручила руководитель отделения РГО в ДНР Марина Максимчук. « До этого такой медалью были отмечены всего семь человек. И когда в 2026 году сразу три представителя одного региона отмечаются, я считаю, что это значимо и существенно для нашего региона и это признание на общероссийского уровня заслуг людей, которые здесь занимаются охраной природы », – сказал Роман Кишкань, директор филиала «Южный» ВНИИ «Экология». ✔️ Что касается других награжденных, то Геннадий Молодан является начальником отдела науки биосферного резервата «Хомутовская степь – Меотида», а Виктор Сиренко – старшим научным сотрудником заповедника «Степь Донецкая». ✔️ Иван Бородин (1847 – 1930) – основоположник природоохранительного движения в России. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19838",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19838",
+      "published_at": "2026-11-26T13:24:01+00:00",
+      "text": "JUST IN: 🇺🇦 🇷🇺 Ukrainian President Zelensky says Russia is preparing new attacks on Ukraine's energy infrastructure and critical facilities. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102575",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102575",
+      "published_at": "2026-11-26T13:21:02+00:00",
+      "text": "Запорожское направление Операторы дронов отряда \"Фобия\" 392 полка 58 армии зачищают позиции врага в направлении нп.Камышеваха. Уничтожаются скрытые позиции (норы), а также тоннели, которые враг накопал тут еще с 2023 года. Украинских солдат хоронят прямо там. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234784",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234784",
+      "published_at": "2026-11-26T13:21:01+00:00",
+      "text": "У вице-губернатора Кубани Галася изъято в пользу государства имущества на 1 000 000 000 рублей. Не Коробка конечно же, но 1 000 000 000 рублей тоже неплохо. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350494",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350494",
+      "published_at": "2026-11-26T13:19:50+00:00",
+      "text": "Глава многодетной семьи из Вологды, где пятилетняя девочка умерла от истощения, всегда отказывался от продуктовых наборов. По словам министра соцзащиты региона Ершова, отец подростка в такие моменты говорил, что работа есть, денег достаточно, поэтому брать…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407758",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407758",
+      "published_at": "2026-11-26T13:15:24+00:00",
+      "text": "Главное из заявлений Лаврова на встрече с участниками программы \"Диалог во имя будущего\": ▪ Отношения России и Китая доказали свою эффективность на саммите АТЭС, особенно в контексте трехсторонней встречи лидеров РФ, КНР и США; ▪ РФ открыта к диалогу со всеми, но он должен идти между приличными людьми; ▪ В Европе наступила стадия, когда \"цветущий сад\" \"начинает загнивать\"; ▪ США, Европа и их союзники никуда не денутся, но им придется уже не диктовать всем остальным странам, как жить, а договариваться; ▪ Хамство Зеленского в адрес лидеров других государств стало его собственным \"брендом\"; ▪ Запад и без Украины нашел бы повод, чтобы уходить от выполнения договоренностей о равноправном, взаимовыгодном сотрудничестве; ▪ РФ сочувствует европейцам, которые оказались под властью \"абсолютно эгоистичных, нереалистично мыслящих элит\". ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199370",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199370",
+      "published_at": "2026-11-26T13:10:09+00:00",
+      "text": "🇷🇺 🇳🇱 A banner depicting bombs aimed at the Dutch diplomatic mission was displayed on the facade of the Dutch Consulate in Moscow, accompanied by the inscription: “Flowers of Dutch Diplomacy”. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117502",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117502",
+      "published_at": "2026-11-26T13:07:01+00:00",
+      "text": "С 2027 года в ЛНР можно будет оформить биометрический загранпаспорт, сообщили в МВД республики. «Оборудование нами получено, оно восстановлено, каналы связи подведены. Остались организационные моменты работы по документальному сопровождению. Это тоже занимает существенное время, но по планам мы должны выйти на оказание государственной услуги до конца текущего года», — сообщил врио начальника управления по вопросам миграции МВД по ЛНР Андрей Ахмалетдинов. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38650",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38650",
+      "published_at": "2026-11-26T13:06:01+00:00",
+      "text": "Россия и Украина провели обмен телами погибших по формуле «250 на 22» Москва и Киев провели обмен телами погибших военнослужащих, передает белорусское госагентство «Белта». Россия передала 250 тел, Украина – 22. Процедура состоялась в Гомельском районе, в пункте пропуска «Новая Гута» на белорусско-украинской границе. Песков также заявил, что спецслужбы РФ и Украины при участии омбудсменов работают над списками для обмена пленными @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199369",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199369",
+      "published_at": "2026-11-26T13:05:29+00:00",
+      "text": "🇷🇸 Serbia’s former president Aleksandar Vučić says it is “a matter of time” before he goes on a hunger strike. This come after police detained Dragan J. Vučićević, owner of the pro-Vučić Informer TV, on suspicion of spreading panic. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102574",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102574",
+      "published_at": "2026-11-26T13:04:09+00:00",
+      "text": "ЛНР, глава: Тяжелые сутки для нашей республики: четыре человека погибли. Еще одиннадцать получили ранения, среди них подросток. В Северодонецке неонацисты атаковали «Газель». В результате удара погибли двое мужчин, еще трое получили ранения. В Старобельском муниципальном округе противник нанес удар в районе магазина. Погибла 55-летняя женщина, 13-летняя девочка получила ранения. Несколько массированных ударов противник нанес в Антрацитовском муниципальном округе. Одна из атак пришлась по хозяйственной постройке. К несчастью, погиб охранник. В Белокуракинском муниципальном округе вражеский БПЛА ударил по движущейся мототехнике, пострадала семейная пара. В Новопсковском муниципальном округе противник атаковал «Газель», ранение получила 56-летняя женщина. В Лисичанске ВФУ под удар попал гражданский автомобиль, пострадал мужчина. В Сватовском муниципальном округе под атакой оказался легковой автомобиль, ранены две женщины. Еще один удар неонацисты нанесли по жилому дому, пострадала 66-летняя женщина. Всего за сутки под огнем противника оказались 19 муниципалитетов. Повреждены транспортные средства, объекты энергетической, коммунальной и гражданской инфраструктуры. Следователи СУ СК России по ЛНР фиксируют преступления неонацистов. Системами ПВО и силами МОГ над территорией республики уничтожено порядка 90 воздушных целей. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36024",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36024",
+      "published_at": "2026-11-26T13:03:46+00:00",
+      "text": "📝 So what's the situation with heavy drones? 📝 Unanimous opinion from the front At the beginning of the year on TAKTIKARE we published videos to demonstrate the importance of heavy drones on the battlefield. The videos were received positively, which gave certain hopes for changes in approaches to front-line logistics. So how are things at the end of 2026? We quote one commander describing the realities of supplying assault troops sent on a mission. Everything is clear without unnecessary words there. «A soldier thanked me today with tears in his voice for eating for the first time in 16 days. Others are lying and rotting from wounds, in desperation even offering money if I could drop them at least something in terms of medicine and water. People are dying even from lack of water, and I feel like such a […] because I can't do anything at all». One could point to a specific direction and unit, but there's simply no point in doing so. For one simple reason: such problems are virtually ubiquitous due to the near-complete absence of heavy drones in the troops. ❓ Don't believe it? Well, ask any platoon or company commander on any sector of the front about the situation. With high probability his speech will be full of much harsher language mentioning losses. For clarity, you can search for videos of the Russian Armed Forces using heavy drones to supply assault troops. And compare their quantity with the stream of similar videos from the AFU, who had «Baba Yagas» back in 2022, and now they have become the basis of front-line logistics. And this matters not only for offense, but also for defense. An assault trooper loses combat capability if he sits for months without food, ammunition and medicine. And only heavy drones and in part NRTK can deliver all this now. ❗️ Moreover, Vladimir Putin himself raised the problem a year ago. But even public attention and the president's directive did not become a reason to start mass-purchasing heavy drones that had already been tested in combat. Perhaps such an approach explains a lot. #UAV #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199367",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199367",
+      "published_at": "2026-11-26T13:03:21+00:00",
+      "text": "🇺🇦 The Aftermath of today’s Russian strike on Kharkov’s aviation institute 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234775",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234775",
+      "published_at": "2026-11-26T13:02:53+00:00",
+      "text": "⚔️ Тихий аргумент: почему «Варшавянки» рано списывать со счетов ⭐️ «Оружие настоящего и будущего» – онлайн-энциклопедия Донецкого агентства новостей и военно-политического эксперта, автора канала Colonelcassad Бориса Рожина. Рассказываем о вооружениях, меняющих ситуацию на полях сражений в нашем неспокойном мире. ⭐️ Дизель-электрические подлодки нередко называют пережитком прошлого: если есть атомные субмарины, зачем строить корабли, которым приходится подниматься ближе к поверхности для зарядки батарей? Однако неатомные лодки продолжают заказывать и Россия, и страны НАТО. «Варшавянки» помогают понять, почему этот класс сохраняет значение — и где проходят границы его возможностей. ⭐️ Все самое интересное о проекте собрали в наших карточках ⬆️ , а другие подробности можно узнать из текста , который подготовил военный консультант ⚡️ Алексей Кузьмин . ⭐ Не пропустите предыдущие выпуски нашей энциклопедии. Их можно найти по тегу #Оружие_с_Борисом_Рожиным ⚡ Подпишись на нас в MAX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407757",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407757",
+      "published_at": "2026-11-26T13:02:06+00:00",
+      "text": "Семью в Вологде, где девочка умерла от истощения, считали неблагополучной. Многодетная семья была поставлена на учет по следующим причинам: антисанитарные условия жилья, пропуски посещения поликлиники, пропуски школ и детских садов, сообщил министр труда…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199366",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199366",
+      "published_at": "2026-11-26T13:01:32+00:00",
+      "text": "🇷🇺 🇨🇳 🇬🇧 Russia is purchasing inflatable aircraft, tanks, missile systems, and other equipment from China to deceive Ukraine, writes The Telegraph. This “raises serious concerns for Ukraine,” as using expensive missiles to destroy cheap inflatable structures is costly. Ukraine also uses decoys, including plywood tanks. Such decoys “play an increasingly important role for Russia in the war against Ukraine, as reconnaissance drones penetrate deeper into Moscow’s airspace and valuable weaponry is destroyed.” The newspaper found ads on several e-commerce sites based in China and Russia, advertising “inflatable aircraft targets” in Russian and offering custom manufacturing. One of the sites boasts of hundreds of orders already placed. “Once widespread drone surveillance began on the battlefield, hiding equipment became very difficult, and in such cases, having decoys becomes extremely important for diverting enemy strikes. It is difficult to hide large equipment,” says Michael Kofman, a senior fellow and expert on the armed forces of Russia and Ukraine at the Carnegie Endowment for International Peace. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
