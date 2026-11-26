@@ -1,0 +1,29 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-26T08",
+  "snapshot_generated_at_utc": "2026-11-26T09:03:11.479189+00:00",
+  "items": [
+    {
+      "title": "SAPO announces recovery of 909,600 hryvnias in unjustified income",
+      "summary": "Ukraine's Specialized Anti-Corruption Prosecutor's Office said the High Anti-Corruption Court's appeals chamber upheld the recovery of 909,600 hryvnias from a former Justice Ministry regional official and a relative. The case concerns proceeds from the resale of a vehicle previously subject to a confiscation ruling.",
+      "source_urls": [
+        "https://t.me/sap_gov_ua/4579"
+      ]
+    },
+    {
+      "title": "Russian aerospace forces deputy commander reportedly arrested",
+      "summary": "Reports say a Moscow military court ordered the detention of Colonel General Yuri Grekhov, deputy commander of Russia's aerospace forces responsible for armaments, following a request from military investigators. The reported charges remain unknown and the detention has not been independently confirmed.",
+      "source_urls": [
+        "https://t.me/voenkorKotenok/78236"
+      ]
+    },
+    {
+      "title": "Russia reports evacuation of civilians from Kostiantynivka",
+      "summary": "Russia's Defence Ministry said its forces evacuated another 16 civilians from Kostiantynivka and provided assistance to injured people. The account has not been independently verified.",
+      "source_urls": [
+        "https://t.me/donbassr/117483",
+        "https://t.me/boris_rozhin/234737"
+      ]
+    }
+  ]
+}
