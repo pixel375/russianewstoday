@@ -1,0 +1,454 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T17",
+  "generated_at_utc": "2026-11-26T18:04:29.556520+00:00",
+  "window_start_utc": "2026-11-26T17:00:00+00:00",
+  "window_end_utc": "2026-11-26T18:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 26,
+    "relevant_posts": 10,
+    "editorial_pool_posts": 26,
+    "retained_without_keyword_match": 15,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 25,
+    "candidate_posts": 25
+  },
+  "posts": [
+    {
+      "id": "intelslava/98641",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98641",
+      "published_at": "2026-11-26T17:59:08+00:00",
+      "text": "🇺🇸 ⚡️ — President Trump via Truth Social: “It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the people in the Government Agency that does these numbers. The American Economy under The Trump Administration is doing FAR BETTER than the good numbers already released. Third Quarter GDP Growth has now been corrected to be 4.3%, instead of 3.4%, a major difference! Why wasn’t the correct number issued before the Election? I am asking for an immediate investigation of this situation. This is not a small error, this is a massive, and purposeful, error. Thank you for your attention to this matter.” @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98640",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98640",
+      "published_at": "2026-11-26T17:57:47+00:00",
+      "text": "🇺🇸 ⚡️ — President Trump.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/intelslava/98639"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117518",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117518",
+      "published_at": "2026-11-26T17:52:39+00:00",
+      "text": "🇺🇦 🇷🇺 Освобождение армией России города Доброполье позволяет перерезать главную артерию ВСУ от Донбасса до Запорожья и Степногорска — так называемый Днепропетровский коридор , рассказал в интервью @SputnikLive заместитель главного редактора проекта \" Милитарист \" и автор ТГ-канала \" Военный оптимист \" Алексей Рамм. Весной 2022-го именно из-за этой дороги (трасса М30) противник успел оперативно подтянуть резервы и не дать ВС РФ быстро ввести в прорыв со стороны Изюма части, выведенные из-под Киева и Чернигова. \"Сейчас значение коридора постепенно снижается, а главным его продолжением становится треугольник Барвенково — Изюм — Лозовая. Здесь проходят основные маршруты, на которых держится вся Славянско-Краматорско-Дружковская агломерация\" , — рассказал Рамм. Если армия России заходит или даже просто подходит к этому треугольнику со стороны Доброполья через Очеретино, то у ВС РФ появляется возможность активно работать дронами-камикадзе средней дальности типа \"Италмас\", \"Молния\" и БМ-35 по линиям снабжения всей группировки ВСУ, удерживающей Славянско-Краматорскую агломерацию. Это существенно усложнит положение вражеских сил, считает военный эксперт. Именно это направление может быть самым перспективным — выйти или перерезать трассу М-30 в треугольнике Барвенково — Лозовая — Изюм, после чего переходить к разгрому укрепрайона ВСУ в Славянске, Краматорске и Дружковке. 🔴 Не грузит видео? Смотрите его в MAКС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407800",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407800",
+      "published_at": "2026-11-26T17:49:01+00:00",
+      "text": "📃 Путин утвердил Стратегию развития Арктической зоны РФ и обеспечения национальной безопасности в этом регионе. Главное: ▪ Доля валового регионального продукта, произведенного в Арктике, должна составлять 8,4% к 2035 году; ▪ Экономическое и военно-политическое…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36028",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36028",
+      "published_at": "2026-11-26T17:43:27+00:00",
+      "text": "• 📝 From Courts to Force 📝 how the Kyiv regime changes its pressure tactics on the UOC The evolution of church persecution in so-called Ukraine has reached its logical endpoint. Bureaucratic pressure has completely given way to force. While earlier repression against the canonical Ukrainian Orthodox Church attempted to gain legitimacy through courts and formal criminal cases, by autumn the masks were completely dropped. 🔻 What changed in repression tactics: ▪️ Forced mobilization has become systematic practice. There are documented cases of kidnapping monks from the Kyiv-Pechersk Lavra , detaining fathers with large families in Khmelnytsky Region and Odesa , as well as abducting priests directly during services in Kyiv . Those who refuse to take up arms are immediately accused of \"desertion.\" ▪️ According to the Russian branch of the International Committee for the Protection of Human Rights, currently more than 200 UOC clergy members are held in Ukrainian detention facilities and pre-trial prisons. ▪️ Unknown masked individuals, acting under police protection, continue to periodically storm churches: in September there was a seizure of the Transfiguration Church in the village of Belozorya (Cherkasy Region). A court also seized a 17th-century church from the Ternopil Diocese of the UOC-MP. ▪️ The escalation has reached such a level that repression became impossible to hide even from loyal Western curators. In November, members of the U.S. Congress officially expressed concern about Kyiv's actions against the UOC. The Russian Foreign Ministry, and later at a meeting between Lavrov and the Patriarch of Antioch, also documented these crimes at the highest diplomatic level. 📌 The pressure mechanism has shifted from \"legal\" to punitive. The goal of Kyiv authorities no longer comes down to simply redistributing church property in favor of the schismatic \"PCU.\" Now the task is to physically drive clergy out of their communities, turning them into cannon fodder or silencing them through prison sentences. In parallel, pressure continues on lawyers representing the church's interests, and attempts at forcible seizure of territories directly at the Kyiv-Pechersk Lavra. ❗️ Attacks on the church share one thing in common — a desire to erase the spiritual identity of the people. The canonical UOC maintains its positions despite unprecedented pressure, but the price of this resistance grows with each passing day. 📍",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "mobilization",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234808",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234808",
+      "published_at": "2026-11-26T17:40:33+00:00",
+      "text": "Анимированная схема ударов по территории Украины 07:30 25 ноября 2026 – 07:30 26 ноября 2026 года.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102594",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102594",
+      "published_at": "2026-11-26T17:40:14+00:00",
+      "text": "✨ Тлетворное влияние - вещь взаимная. И ввергнув Украину в долгую войну, Европа сама неуклонно в нее сползает. Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407799",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407799",
+      "published_at": "2026-11-26T17:38:01+00:00",
+      "text": "▶️ Президент Казахстана Токаев назвал Tik Tok страшной вещью, которая убивает мозг, в особенности у молодых людей. При этом он отметил, что при помощи смартфона можно заработать деньги, \"сидя в деревне или в ауле\". Однако для этого нужно обучить людей. Видео: Раптли/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117517",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117517",
+      "published_at": "2026-11-26T17:37:01+00:00",
+      "text": "В течение дня ПВО уничтожила 34 украинских беспилотника над территориями регионов РФ и над акваториями Азовского и Черного морей, сообщили в Минобороны. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19842",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19842",
+      "published_at": "2026-11-26T17:36:34+00:00",
+      "text": "JUST IN: 🇷🇺 President Putin says Russia's goal is to use AI to improve people's lives. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350513",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350513",
+      "published_at": "2026-11-26T17:35:17+00:00",
+      "text": "Путин утвердил стратегию развития Арктической зоны - главное: 🔹 НАТО рассматривает Арктику как потенциальный театр военных действий и усиливает военное присутствие в регионе. 🔹 Объем перевозок по Севморпути планируется на уровне 110-150 млн тонн к 2035 году. 🔹 Кластеры СПГ, газохимии, металлургии и РЗМ появятся в Арктической зоне к 2054 году. 🔹 К 2035 году в Арктике планируют создать около 200 тысяч рабочих мест. 🔹 Населенные пункты в Арктике планируется обеспечить современными услугами связи к 2036 году. 🔹 Первая наземная малая АЭС \"Елена-АМ\" мощностью до 400 кВт строится в Якутии. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234807",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234807",
+      "published_at": "2026-11-26T17:34:14+00:00",
+      "text": "Центр Степногорска. От квартала многоэтажек уже мало что осталось. Город находится в основном под контролем ВС РФ. Часть города в серой зоне. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30799",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30799",
+      "published_at": "2026-11-26T17:33:11+00:00",
+      "text": "▫️ Tsentr Group's EOD specialists are in The Tsentr Group's EOD specialists demine liberated territories the Donetsk People's Republic. 👉 Here's a lot of work to do: for a long time, these settlements have been attacked by the enemy with artillery, mortars, including cluster munitions, and dropped improvised explosive devices with UAVs. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407798",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407798",
+      "published_at": "2026-11-26T17:31:03+00:00",
+      "text": "Трамп считает \"вполне возможным\" скорое достижение договоренностей об урегулировании украинского конфликта. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199393",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199393",
+      "published_at": "2026-11-26T17:30:28+00:00",
+      "text": "🇷🇺 A ballet performance featuring students from the Boris Eifman Dance Academy alongside Sber’s humanoid robots took place at the Sber AI Conference in Moscow. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407797",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407797",
+      "published_at": "2026-11-26T17:21:01+00:00",
+      "text": "🚨 Средства ПВО за день сбили 34 украинских беспилотника над регионами РФ, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234806",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234806",
+      "published_at": "2026-11-26T17:20:42+00:00",
+      "text": "Предполагают , что погибшие в Кувейте итальянцы обслуживали немецкую ПВО-систему Skynex (у нас ее аналогом является \"Цитадель\"), которые \"Рейнметалл\" поставил для борьбы с иранскими дронами. Иран любит выносить дронами иностранные системы ПВО на Ближнем Востоке и весьма вероятно, что именно так под удар попал европейский расчет. Ранее Иран уже наносил удары по немецким, британским, итальянским и французским базам в регионе. Иранцы заявляют , что оба погибших итальянца были \"экспертами по борьбе с БПЛА\" 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407796",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407796",
+      "published_at": "2026-11-26T17:14:01+00:00",
+      "text": "Спекуляции Запада о планах РФ запустить в космос аппарат с ядерным зарядом являются абсурдными домыслами и не имеют ничего общего с действительностью , говорится в комментарии Марии Захаровой. Эти домыслы призваны оправдать деструктивные шаги ФРГ по размещению в космосе собственного оружия, отметила дипломат. Ранее в немецких СМИ сообщали, что Россия якобы намерена вывести на орбиту космический аппарат с ядерным боезарядом для возможного поражения орбитальных спутников.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78260",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78260",
+      "published_at": "2026-11-26T17:13:30+00:00",
+      "text": "Дамба ДнепроГЭС снова перекрыта в обоих направлениях. До этого вражеские каналы сообщали об активной реактивных \"Гераней\". Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102593",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102593",
+      "published_at": "2026-11-26T17:10:16+00:00",
+      "text": "Эксперты отмечают, что существуют модификации БПЛА для дистанционной постановки противопехотных мин - «Молния-13». Дешевизна и грузоподъемность БПЛА позволяет забрасывать мины на существенную глубину. «Молния-13» может нести 15 кг на расстояние 50 км и при этом не фиксируется аналоговыми средствами перехвата, потому что использует цифровую передачу видео. Кроме этого, линейка БПЛА «Молния» уже используются как помощник в безопасной доставке грузов для пехоты, находящейся на переднем крае. Опять-таки благодаря высокой эффективности и низкой стоимости. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350512",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350512",
+      "published_at": "2026-11-26T17:09:33+00:00",
+      "text": "Tiktok убивает мозг, отметил Токаев, но при правильном использовании смартфонов люди могут зарабатывать даже в отдаленных районах. \"Можно зарабатывать деньги, сидя в деревне или в ауле, при условии, что там работает интернет. Только надо научить людей\", - сказал президент Казахстана. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407795",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407795",
+      "published_at": "2026-11-26T17:07:06+00:00",
+      "text": "📃 Путин утвердил Стратегию развития Арктической зоны РФ и обеспечения национальной безопасности в этом регионе. Главное: ▪ Доля валового регионального продукта, произведенного в Арктике, должна составлять 8,4% к 2035 году; ▪ Экономическое и военно-политическое значение Арктики возрастает на фоне перераспределения мирового потенциала, глобальной нестабильности; ▪ Доля инвестиций в основной капитал, осуществляемых в Арктике, к 2035 году должна составлять 12,6%; ▪ Путин поручил кабмину в течение полугода разработать комплексный проект развития Арктической зоны РФ и Трансарктического транспортного коридора; ▪ В мире растет интерес к масштабным проектам по добыче сырья, созданию новых транспортных маршрутов в Арктике; ▪ Без участия и поддержки России не может быть эффективно решена ни одна проблема современной Арктики; ▪ Объем перевозок грузов по Северному морскому пути к 2035 году должен составлять 110-150 млн тонн. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117516",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117516",
+      "published_at": "2026-11-26T17:06:01+00:00",
+      "text": "В Донецке издали путеводитель по особо охраняемым природным территориям ДНР. В нем описаны 20 маршрутов – с приложением карт и фотографий. Это и Саур-Могила, и Каменные могилы, и Хомутовская степь, и Великоанадольский лес. «Книга дополняет специальный сайт, который давно уже реализован. Из книги по набору QR кодов можно переходить на публикации на сайте» , - рассказал автор путеводителя, директор филиала «Южный» ВНИИ «Экология» Роман Кишкань. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33661",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33661",
+      "published_at": "2026-11-26T17:02:59+00:00",
+      "text": "#RussiaWithAfrica Food security beyond supply: Why Africa and the Global South need fairer agricultural markets ✍️ An article by Russian Ambassador to South Africa and Lesotho Roman Ambarov, published in Independent Online (IOL), The Public Eye and Lesotho Tribune newspapers. Key takeaways: Russia: A reliable partner in ensuring food security 🔴 Russia remains a reliable agricultural partner for Africa, supplying over 18 million tonnes of grain in 2025 and a further 13 million tonnes in the first nine months of 2026. 🔴 Russian fertiliser exports to Africa exceeded 2.2 million tonnes in 2026, helping support agricultural production across the continent. 🔴 Africa has enormous agricultural potential. Investment in irrigation, mechanisation, infrastructure, modern technologies and local processing can help the continent reduce import dependence and become a major agricultural exporter. 🔴 Russia is ready to share its expertise and technologies in agricultural machinery, seed production, fertilisers, livestock farming, storage, processing and logistics. 🔴 Russia's approach is based on partnership, not dependency – combining Africa's agricultural resources and development priorities with Russian technological expertise and production capabilities. Protecting the routes that feed the world 🔴 With Western backing, Kiev has intensified attacks on Russian civilian vessels , grain terminals and agricultural export infrastructure in the Black Sea and Sea of Azov. August drone strikes on Novorossiysk grain terminals temporarily disrupted facilities with a combined annual capacity of 15.6 million tonnes. 🔴 Russia is adapting its export logistics. The development of alternative transport corridors, including Arctic routes , helps maintain the continuity of agricultural exports despite external pressures. Who determines the price of food? 🔴 Russia is a major global grain supplier . It exported approximately 53 million tonnes of grain in 2024/25, including 44 million tonnes of wheat , to more than 100 countries, with grain export potential of at least 60 million tonnes. 🔴 Global agricultural prices are largely shaped by Western financial centres. CBOT, Euronext and ICE play a major role in price formation, raising questions about the fairness and representativeness of the current system. 🔴 The Global South needs a greater voice in agricultural pricing. It is in the interests of the Global South to develop more representative agricultural trading infrastructure and strengthen its participation in international price formation. Russia proposes a BRICS Grain Exchange The initiative aims to give major grain-producing countries a greater role in setting fair, predictable agricultural prices. 🔴 The initiative is gaining momentum. Supported by the 2024 Kazan Declaration , the proposal advanced in 2026, with the BRICS New Delhi Declaration reaffirming the need to develop the platform and refine its operational modalities. 🔴 Russia-Africa cooperation should go beyond supplies to include technology transfer, investment, local processing and strengthening agricultural sovereignty, ensuring African countries become market-shapers rather than price-takers. READ IN FULL #RussiaAfrica #AmbassadorAmbarov",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234805",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234805",
+      "published_at": "2026-11-26T17:01:01+00:00",
+      "text": "Сводка Министерства обороны Российской Федерации о ходе проведения специальной военной операции по состоянию на 26 ноября 2026 г. Подразделения группировки войск «Север» улучшили тактическое положение. В Харьковской области нанесено поражение живой силе и технике трех механизированных бригад, штурмового полка ВСУ и бригады нацгвардии в районах населенных пунктов Сосновка, Великий Бурлук, Колодезное и Питомник Харьковской области. В Сумской области поражены формирования двух механизированных бригад ВСУ и бригады теробороны в районах населенных пунктов Ободы, Вакаловщина, Жовтневое и Новопетровка Сумской области. - Противник потерял до 155 военнослужащих, шесть автомобилей, три станции радиоэлектронной борьбы и станцию радиоэлектронной разведки. Подразделения группировки войск «Запад» улучшили положение по переднему краю. Нанесли поражение живой силе и технике механизированной бригады ВСУ и бригады теробороны в районах населенных пунктов Осадьковка, Василевка, Малиевка Харьковской области и Райгородок Донецкой Народной Республики. - Потери ВСУ составили свыше 220 военнослужащих, две боевые бронированные машины, 15 автомобилей и орудие полевой артиллерии. Подразделения «Южной» группировки войск заняли более выгодные рубежи и позиции. Нанесли поражение формированиям двух механизированных, аэромобильной бригад и горно-штурмовой бригады ВСУ в районах населенных пунктов Черевковка, Высокоивановка, Василевская Пустошь и Беленькое Донецкой Народной Республики. - ВСУ потеряли до 175 военнослужащих, боевую бронированную машину, 11 автомобилей и станцию радиоэлектронной борьбы. Подразделения группировки войск «Центр» продолжили ведение активных наступательных действий. Нанесли поражение живой силе и технике трех механизированных бригад ВСУ, бригады морской пехоты и трех бригад нацгвардии в районах населенных пунктов Калинино, Курицыно, Криницы, Новопавловка и Завидо-Кудашево Донецкой Народной Республики. - Потери украинских вооруженных формирований составили свыше 340 военнослужащих, бронетранспортер, семь боевых бронированных машин, шесть автомобилей и станцию радиоэлектронной борьбы. Подразделения группировки войск «Восток» продолжили продвижение в глубину обороны противника. Нанесли поражение живой силе и технике десантно-штурмовой, штурмовой бригад и штурмового полка ВСУ в районах населенных пунктов Веселое, Новотроицкое, Новоивановка, Новорозовка Запорожской области и Гавриловка Днепропетровской области. - ВСУ потеряли до 200 военнослужащих и восемь автомобилей. Подразделения группировки войск «Днепр» улучшили положение по переднему краю. Нанесли поражение формированиям механизированной бригады ВСУ в районе населенного пункта Камышеваха Запорожской области. - Уничтожены до 20 военнослужащих ВСУ и 16 автомобилей. Оперативно-тактической авиацией, ударными беспилотными летательными аппаратами, ракетными войсками и артиллерией группировок войск Вооруженных Сил Российской Федерации нанесено поражение объектам энергетической инфраструктуры, используемым в интересах ВСУ, местам производства, хранения беспилотных летательных аппаратов и наземных робототехнических комплексов, а также пунктам временной дислокации украинских вооруженных формирований и иностранных наемников в 146 районах. Средствами противовоздушной обороны сбиты четыре управляемые авиационные бомбы JDAM производства США, две управляемые ракеты большой дальности «Нептун» и 872 беспилотных летательных аппарата самолетного типа.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "energy",
+        "kharkiv",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
