@@ -1,0 +1,224 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T00",
+  "generated_at_utc": "2026-11-26T01:04:20.111895+00:00",
+  "window_start_utc": "2026-11-26T00:00:00+00:00",
+  "window_end_utc": "2026-11-26T01:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 8,
+    "relevant_posts": 2,
+    "editorial_pool_posts": 8,
+    "retained_without_keyword_match": 6,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407647",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407647",
+      "published_at": "2026-11-26T00:42:01+00:00",
+      "text": "▶️ ВСУ намеренно минируют маршруты эвакуации и расстреливают собственное гражданское население, заявил ТАСС Родион Мирошник. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407646",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407646",
+      "published_at": "2026-11-26T00:37:01+00:00",
+      "text": "▶️ Оверчук прибыл с рабочим визитом в Афганистан во главе российской делегации, передает корреспондент ТАСС. Вице-премьер РФ отметил желание талибов торговать с Россией. Они хотят покупать в стране автомобили, энергоносители, продовольствие, зерно, удобрения…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53564",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53564",
+      "published_at": "2026-11-26T00:20:02+00:00",
+      "text": "❗️ The Russian Foreign Ministry warns that Estonia and Russia are on the brink of an open war. The ministry made this statement to the Estonian ambassador, who was summoned due to Tallinn's plans to close border crossing points with Russia starting December 1st. The Russian Foreign Ministry accused Tallinn of allowing its airspace to be used for the passage of Ukrainian drones attacking northwestern Russia, as well as attempting to organize a naval blockade of Russia. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407645",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407645",
+      "published_at": "2026-11-26T00:15:08+00:00",
+      "text": "▶️ Украина не сможет наладить серийный выпуск ракет по лицензиям ЕС, заявил ТАСС военный эксперт Ксавье Моро. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407644",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407644",
+      "published_at": "2026-11-26T00:10:06+00:00",
+      "text": "Причиной уголовного дела правнучки летчика Чкалова Дарьи Богдановой (признана в РФ иноагентом, внесена в перечень террористов и экстремистов) стало ее интервью Олегу Кашину (признан в РФ иноагентом). Об этом сказано в материалах ее дела, с которыми ознакомился…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98622",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98622",
+      "published_at": "2026-11-26T00:05:38+00:00",
+      "text": "🇺🇦 ⚡️ — Residents of Dnipropetrovsk blocked a road in protest over being without electricity since Saturday. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407643",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407643",
+      "published_at": "2026-11-26T00:05:01+00:00",
+      "text": "▶️ Действия Запада против СНГ приводят к обратному, внутри Содружества выросло сопротивление. Об этом заявил генеральный секретарь СНГ Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234714",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234714",
+      "published_at": "2026-11-26T00:02:04+00:00",
+      "text": "«Храбрый Ягуар-26» - подготовка к вооруженному конфликту на восточном фланге С 22 ноября по 2 декабря на полигоне Дравско-Поморске военнослужащие 17-й мбр войска польского проводят учения «Храбрый Ягуар-26». Одним из ключевых элементов маневров является сертификация пилотного проекта минобороны «модель 44», учитывающего возрастающую роль беспилотных систем в современных операциях. Главная цель учений – проверка возможностей мотопехотного батальона, в котором создаётся полноценная рота беспилотных систем. Предварительно такая рота включает разведывательно-наблюдательный взвод, разведывательно-ударный взвод, ударный взвод, разведывательный взвод со средствами усиления и отдельную группу противодействия БПЛА. Таким образом, в механизированном батальоне одновременно создаются возможности воздушной разведки, ударных действий и противодействия беспилотникам противника. При этом также учения являются возможностью протестировать технологические решения, разработанные польскими компаниями. Среди представленных и испытанных систем – БПЛА, устройства обнаружения и нейтрализации дронов, современные устройства связи и передачи данных, технологии РЭБ и маскировки. Особенностью сценария является, что противником выступают военнослужащие 12-й мбр с БМП-1 и танками Т-72. Это техника, имеющаяся у стран постсоветского пространства, в том числе у РФ и Беларуси. Надо полагать, что это позволяет оценить эффективность и боеспособность батальона в контексте подготовки Польши к возможному крупному конфликту на восточном фланге НАТО. @Belarus_VPO",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

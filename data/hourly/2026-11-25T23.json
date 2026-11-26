@@ -1,0 +1,243 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-25T23",
+  "generated_at_utc": "2026-11-26T01:04:25.187778+00:00",
+  "window_start_utc": "2026-11-25T23:00:00+00:00",
+  "window_end_utc": "2026-11-26T00:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 9,
+    "relevant_posts": 1,
+    "editorial_pool_posts": 9,
+    "retained_without_keyword_match": 8,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "rian_ru/350465",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350465",
+      "published_at": "2026-11-25T23:56:52+00:00",
+      "text": "ПВО отражает налет беспилотников на промзону Невинномысска. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407642",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407642",
+      "published_at": "2026-11-25T23:53:51+00:00",
+      "text": "🚨 Силы ПВО отражают атаку БПЛА на промзону Невинномысска. Есть сбитые цели, сообщил губернатор Ставрополья.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350464",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350464",
+      "published_at": "2026-11-25T23:51:53+00:00",
+      "text": "Пентагон хочет внедрить ИИ в бронетехнику и морские дроны для поиска целей. В частности, сухопутные войска планируют оснастить перспективные боевые машины пехоты XM30 датчиками с ИИ. Они будут в реальном времени искать и отслеживать вражеские дроны, чтобы солдаты быстрее реагировали на угрозы. ВМС США внедряют технологии автоматического распознавания целей на безэкипажных морских аппаратах. Одновременно командование специальных операций создает систему CHAOS для совместной автономной работы воздушных и морских дронов. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78233",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78233",
+      "published_at": "2026-11-25T23:44:12+00:00",
+      "text": "Кривой Рог — под ракетно-дроновым ударом ВС РФ. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98620",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98620",
+      "published_at": "2026-11-25T23:36:49+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russia launched at least eight RM-48U ballistic missiles at Kyiv, with energy infrastructure reportedly among the targets. @OSINTWarfare",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407641",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407641",
+      "published_at": "2026-11-25T23:32:01+00:00",
+      "text": "Минздрав обновил стандарт медпомощи взрослым при ВИЧ. Соответствующий приказ министерства изучил ТАСС. В перечень медуслуг для лечения заболевания теперь добавлен прием врача-психиатра-нарколога. Изменился список препаратов для лечения ВИЧ-инфекции. В перечень включены препараты йода, а также лекарства \"Невирапин\", \"Каботегравир\" и \"Фостемсавир\". При этом исключен \"Фосампренавир\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407640",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407640",
+      "published_at": "2026-11-25T23:16:01+00:00",
+      "text": "ВС РФ уничтожили склад и цех по созданию БПЛА, который располагался в недействующей гостинице в Изюме. Об этом ТАСС сообщили в российских силовых структурах. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407639",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407639",
+      "published_at": "2026-11-25T23:04:01+00:00",
+      "text": "Мошенники предлагают ко Дню матери скидки на подарки из фейковых магазинов, рассказали ТАСС в ОП РФ. При переходе по ссылке необходимо оплатить заказ в 100%-ном размере и ввести свои личные данные и данные мамы, сообщил Евгений Машаров. Он уточнил, что после…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234713",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234713",
+      "published_at": "2026-11-25T23:01:53+00:00",
+      "text": "Скоро ли полетят «электрички»? Переход авиации на электрическую тягу — одна из модных тем последних лет. Регулярно сообщается о новом электролёте, которому разработчики сулят близкое и светлое будущее. Однако, несмотря на популярность темы, массовая электрификация неба упирается в фундаментальные ограничения аккумуляторных батарей . Главная проблема - большая разница в удельной энергоемкости. Керосин выдает ~12000 Вт ч/кг, а современные тяговые батареи едва достигают 300–400 Вт ч/кг на уровне ячейки. Даже с учётом низкого к.п.д. турбовинтового двигателя, очень непросто заменить тонны тяжелой химии на борту, сохранив при этом коммерческую загрузку и дальность. Например, проект Eviation Alice (фото в заголовке ), изначально задуманный как 9‑местный самолёт с дальностью 800 км, столкнулся с вынужденным пересмотром концепции из-за веса батарей, сместив фокус на короткие маршруты (а там авиация «в общем случае) проигрывает. Для того, чтобы обеспечить самолёту размерности Eviation Alice приемлемую дальность, нужно переходить на батареи на основе фтора – только они обеспечат сопоставимые с ТВД характеристики. Но, а разработке таких аккумуляторов до реальных результатов ещё далеко. Второй критический фактор электропривода - безопасность . Батареи подвержены тепловому разгону. При постоянных перепадах давления и температур риск возгорания недопустим. Системы терморегулирования добавляют «мертвый» вес силовой установки. Инциденты с повреждением техники и возгорания при наземных испытаниях батарей заставляют производителей (таких как Airbus в рамках программы E‑Fan X), тратить годы и миллионы на создание негорючих электролитов и физически изолированных отсеков, способных сдержать пожар в воздухе. Третья проблема - операционная эффективность . Заправка керосином занимает минуты, а зарядка тяговых батарей уже часы. Даже при использовании сверхбыстрых станций (например, которые тестирует Beta Technologies для своего eVTOL Alia), время простоя на перроне критически возрастает, ломая традиционную экономику перевозок . Кроме того, быстрая зарядка разрушительно влияет на химию ячеек батарей, ускоряя их деградацию. Быстрая замена батарей возможна. Однако она увеличит стоимость программы (несколько комплектов аккумуляторов на каждый самолёт), да и вес самих ЛА при этом возрастёт. Авиационные батареи работают в экстремальных режимах высоких токов разряда при взлете и посадке. Это приводит к быстрой потере емкости и необходимости частой замены. Если автомобильную батарею меняют раз в десять лет, то в авиации срок её жизни ограничивается несколькими тысячами циклов «заряд-разряд». Это делает стоимость владения «электролёта» весьма высокой и требует глубокой переработки отслуживших ячеек. Так что получить сопоставимые с традиционными турбовинтовыми самолётами характеристики ЛА с электроприводом смогут не скоро . До этого авиация будет вынуждена использовать гибридные силовые установки, а область применения «электричек» ограничится нишей коротких грузовых маршрутов и учебной авиации. Алексей Захаров, авиационный эксперт #экспертВО @milinfolive",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
