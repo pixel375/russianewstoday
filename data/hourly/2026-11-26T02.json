@@ -1,0 +1,192 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T02",
+  "generated_at_utc": "2026-11-26T03:04:24.132358+00:00",
+  "window_start_utc": "2026-11-26T02:00:00+00:00",
+  "window_end_utc": "2026-11-26T03:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 6,
+    "relevant_posts": 1,
+    "editorial_pool_posts": 6,
+    "retained_without_keyword_match": 5,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "rian_ru/350467",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350467",
+      "published_at": "2026-11-26T02:49:14+00:00",
+      "text": "Спонсирование терроризма Киева для ЕС важнее своего населения, заявила Захарова. Кризис ЕС налицо. Но вместо решения насущных проблем своего населения брюссельские чиновники будут обсуждать финансирование терроризма, спонсирование войны до последнего украинца. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407656",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407656",
+      "published_at": "2026-11-26T02:45:01+00:00",
+      "text": "Посольство РФ в США поздравило российского нападающего \"Вашингтона\" Александра Овечкина с клубным рекордом по результативным передачам в чемпионатах НХЛ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407655",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407655",
+      "published_at": "2026-11-26T02:15:06+00:00",
+      "text": "▶️ ВСУ не прекращают огонь, даже когда российские военные обращают их внимание на украинских мирных жителей, заявил в разговоре с ТАСС Родион Мирошник. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407654",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407654",
+      "published_at": "2026-11-26T02:10:29+00:00",
+      "text": "После взрыва газа в доме на Алтае 4 квартиры полностью разрушены и 8 повреждены. Хозяйка квартиры, где произошел взрыв, до сих пор не обнаружена. Разбор завалов продолжается, работает более 190 человек, сообщили в центре управления регионом.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407653",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407653",
+      "published_at": "2026-11-26T02:09:01+00:00",
+      "text": "▶️ Каждый успех страны СНГ — это кость в горле Запада, заявил генеральный секретарь СНГ Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407652",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407652",
+      "published_at": "2026-11-26T02:00:01+00:00",
+      "text": "Обеспеченность российского рынка красной рыбой и икрой стабильна, предпосылок для дефицита красной икры нет, сообщает Росрыболовство. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

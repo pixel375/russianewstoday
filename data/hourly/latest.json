@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-26T01",
-  "generated_at_utc": "2026-11-26T02:05:15.988467+00:00",
-  "window_start_utc": "2026-11-26T01:00:00+00:00",
-  "window_end_utc": "2026-11-26T02:00:00+00:00",
+  "hour_id": "2026-11-26T02",
+  "generated_at_utc": "2026-11-26T03:04:24.132358+00:00",
+  "window_start_utc": "2026-11-26T02:00:00+00:00",
+  "window_end_utc": "2026-11-26T03:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -21,13 +21,13 @@
       "handle": "bricsnews",
       "name": "BRICS News",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
@@ -45,7 +45,7 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
@@ -75,7 +75,7 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "voenkorKotenok",
@@ -105,113 +105,87 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 8,
+    "raw_posts": 6,
     "relevant_posts": 1,
-    "editorial_pool_posts": 8,
-    "retained_without_keyword_match": 7,
+    "editorial_pool_posts": 6,
+    "retained_without_keyword_match": 5,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 8,
-    "candidate_posts": 8
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
   },
   "posts": [
     {
-      "id": "tass_agency/407651",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407651",
-      "published_at": "2026-11-26T01:43:01+00:00",
-      "text": "Менеджер паролей 1Password подвергся взлому, сообщила пресс-служба компании. Инцидент произошел 19 ноября. Хакер получил доступ к корпоративному аккаунту одного из сотрудников и с его помощью внедрил вредоносный код в серверные службы, что привело к загрузке административных данных, касающихся клиентов компании. В компании отметили, что, несмотря на утечку, злоумышленник не получил доступа к содержимому хранилища данных клиентов.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350466",
+      "id": "rian_ru/350467",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350466",
-      "published_at": "2026-11-26T01:34:45+00:00",
-      "text": "Почти половина пойманных с наркотиками на Украине в 2026 году оказались военными ВСУ. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407650",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407650",
-      "published_at": "2026-11-26T01:32:01+00:00",
-      "text": "▶️ ВСУ намеренно минируют маршруты эвакуации и расстреливают собственное гражданское население, заявил ТАСС Родион Мирошник. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407649",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407649",
-      "published_at": "2026-11-26T01:18:01+00:00",
-      "text": "Решение Эстонии закрыть транспортное сообщение на границе с Россией — ошибочное, считает премьер-министр Латвии Кулбергс. Об этом сообщил портал Delfi. Кулбергс призвал учитывать потенциальное перераспределение транспортного потока между странами региона…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53565",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53565",
-      "published_at": "2026-11-26T01:09:22+00:00",
-      "text": "❗️ Trump receives phone calls from world leaders on thanksgiving day. 😁 @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407648",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407648",
-      "published_at": "2026-11-26T01:06:01+00:00",
-      "text": "▶️ Действия Запада против СНГ приводят к обратному, внутри Содружества выросло сопротивление. Об этом заявил генеральный секретарь СНГ Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "bricsnews/19833",
-      "channel": "bricsnews",
-      "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19833",
-      "published_at": "2026-11-26T01:03:46+00:00",
-      "text": "JUST IN: 🇺🇸 🇮🇷 US envoy confirms meeting directly with Iranian officials for negotiations. @BRICSNews",
+      "url": "https://t.me/rian_ru/350467",
+      "published_at": "2026-11-26T02:49:14+00:00",
+      "text": "Спонсирование терроризма Киева для ЕС важнее своего населения, заявила Захарова. Кризис ЕС налицо. Но вместо решения насущных проблем своего населения брюссельские чиновники будут обсуждать финансирование терроризма, спонсирование войны до последнего украинца. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "negotiation"
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234715",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234715",
-      "published_at": "2026-11-26T01:03:04+00:00",
-      "text": "Против малых дронов в зоне СВО российские военные стали использовать патроны IGLA-100. Их главное преимущество — 42 грамма дробового снаряда из высокотвердого сплава. Он эффективно поражает как защитные, так и уязвимые элементы беспилотников, включая аккумуляторы, двигатели и проводку. Такие патроны кратно повышают возможности гладкоствольных ружей в борьбе с малыми БПЛА. Высокая твердость дроби и ее кучность позволяют стрелку увереннее работать по быстрым и мелким воздушным целям . @zvezdanews",
+      "id": "tass_agency/407656",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407656",
+      "published_at": "2026-11-26T02:45:01+00:00",
+      "text": "Посольство РФ в США поздравило российского нападающего \"Вашингтона\" Александра Овечкина с клубным рекордом по результативным передачам в чемпионатах НХЛ.",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407655",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407655",
+      "published_at": "2026-11-26T02:15:06+00:00",
+      "text": "▶️ ВСУ не прекращают огонь, даже когда российские военные обращают их внимание на украинских мирных жителей, заявил в разговоре с ТАСС Родион Мирошник. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407654",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407654",
+      "published_at": "2026-11-26T02:10:29+00:00",
+      "text": "После взрыва газа в доме на Алтае 4 квартиры полностью разрушены и 8 повреждены. Хозяйка квартиры, где произошел взрыв, до сих пор не обнаружена. Разбор завалов продолжается, работает более 190 человек, сообщили в центре управления регионом.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407653",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407653",
+      "published_at": "2026-11-26T02:09:01+00:00",
+      "text": "▶️ Каждый успех страны СНГ — это кость в горле Запада, заявил генеральный секретарь СНГ Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407652",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407652",
+      "published_at": "2026-11-26T02:00:01+00:00",
+      "text": "Обеспеченность российского рынка красной рыбой и икрой стабильна, предпосылок для дефицита красной икры нет, сообщает Росрыболовство. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
