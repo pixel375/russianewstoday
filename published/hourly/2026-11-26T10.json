@@ -1,0 +1,70 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    217
+  ],
+  "published_at_utc": "2026-11-26T11:27:10.806257+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-26T10",
+  "items": [
+    {
+      "item_id": "2026-11-26T10:1",
+      "title": "Russia and Ukraine exchange remains of fallen servicemen",
+      "summary": "Russian State Duma deputy Shamsail Saraliev reported an exchange involving the remains of 250 Ukrainian and 22 Russian servicemen. The figures do not establish overall battlefield losses.",
+      "post_url": "https://t.me/russianewstodayofficial/217",
+      "category": "other",
+      "hour_id": "2026-11-26T10",
+      "source_handles": [
+        "donbassr",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T10:2",
+      "title": "Germany reportedly seeks safeguards for future EU funding of Ukraine",
+      "summary": "According to a report citing the Financial Times, Germany wants future financial support for Ukraine embedded in EU budget legislation to make it harder for individual member states to block funding. No final agreement was reported.",
+      "post_url": "https://t.me/russianewstodayofficial/217",
+      "category": "other",
+      "hour_id": "2026-11-26T10",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T10:3",
+      "title": "Ukraine's Supreme Court upholds confiscation of nearly 5.8 million hryvnias in assets",
+      "summary": "Ukraine's Specialized Anti-Corruption Prosecutor's Office said the Supreme Court upheld the confiscation of unjustified assets used by a former local council chairman in Rivne region. The assets include residential property, land, a boat and a vehicle. The ruling is final.",
+      "post_url": "https://t.me/russianewstodayofficial/217",
+      "category": "other",
+      "hour_id": "2026-11-26T10",
+      "source_handles": [
+        "sap_gov_ua"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T10:4",
+      "title": "Armenia plans gradual transfer of border protection to national forces",
+      "summary": "Armenian Prime Minister Nikol Pashinyan said Armenia intends to assume full responsibility for its borders in the coming years, gradually replacing Russian border guards. He also expressed a desire to resolve outstanding bilateral issues with Moscow.",
+      "post_url": "https://t.me/russianewstodayofficial/217",
+      "category": "other",
+      "hour_id": "2026-11-26T10",
+      "source_handles": [
+        "ddgeopolitics",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T10:5",
+      "title": "New damage to energy infrastructure reported in Kharkiv",
+      "summary": "Reports described renewed strikes affecting an aviation institute and an energy facility in Kharkiv. The city's mayor reportedly confirmed damage to an energy facility; the full extent of the damage remains unclear.",
+      "post_url": "https://t.me/russianewstodayofficial/217",
+      "category": "other",
+      "hour_id": "2026-11-26T10",
+      "source_handles": [
+        "boris_rozhin",
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
