@@ -1,0 +1,419 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T20",
+  "generated_at_utc": "2026-11-26T21:06:14.283809+00:00",
+  "window_start_utc": "2026-11-26T20:00:00+00:00",
+  "window_end_utc": "2026-11-26T21:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 24,
+    "relevant_posts": 11,
+    "editorial_pool_posts": 24,
+    "retained_without_keyword_match": 12,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 23,
+    "candidate_posts": 23
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407807",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407807",
+      "published_at": "2026-11-26T20:59:01+00:00",
+      "text": "В возрасте 80 лет умер советник Билла Клинтона по России Строуб Тэлботт, сообщила газета The New York Times. Тэлботт начинал свою карьеру в качестве журналиста в корпункте журнала Time, проработав в издании более 20 лет. Журналист был приятелем Клинтона по Оксфордскому университету и в начале 90-х годов стал в его администрации сначала помощником по новым независимым государствам, а затем заместителем госсекретаря США.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78264",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78264",
+      "published_at": "2026-11-26T20:45:30+00:00",
+      "text": "Бандеровский гауляйтер Харькова Терехов сообщил о прилете по Харьковскому авиационному института (ХАИ) и объекту энергетики. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350520",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350520",
+      "published_at": "2026-11-26T20:45:07+00:00",
+      "text": "На Украине ожидается серьезное похолодание - при этом властям не удалось запустить ни одной резервной котельной взамен Дарницкой ТЭЦ, обслуживавшей около полумиллиона жителей Киева. В других городах ситуация не лучше. На что рассчитывает киевский режим - в материале РИА Новости. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234828",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234828",
+      "published_at": "2026-11-26T20:43:01+00:00",
+      "text": "В Италии металлургические заводы ограничивают деятельность из-за резкого роста цен на электроэнергию. • Acciaierie Beltrame, один из крупнейших производителей, остановил выпуск на остаток ноября и весь декабрь • Acciaierie Venete приостанавливала заводы в Борго-Вальсугана и Сарецо на неделе 12 ноября • ORI Martin в начале ноября останавливал производство на неделю. • 17 ноября о паузах объявили ещё два завода. После остановки завода в Таранто итальянская сталь почти полностью выплавляется в электродуговых печах, которые зависят от цен на электроэнергию. Министр экономики Джанкарло Джорджетти признал, что при таких ценах международная конкуренция фактически невозможна. Отрасль требует долгосрочных мер и предупреждает, что риск не только в сокращении выпуска, но и в потере мощностей. Остановки уже отражаются на рынке лома: Assofermet предупреждает, что сборщики лома близки к лимитам хранения. @energytodaygroup",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98659",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98659",
+      "published_at": "2026-11-26T20:42:05+00:00",
+      "text": "🇮🇷 ⚡ Proving to adversaries that sanctions and pressure on Iran are futile is currently more important than negotiating; however, Tehran has not abandoned the prospect of talks and continues to work in that direction, Foreign Minister Abbas Araghchi has said. \"Negotiations are part of our work; we have not forgotten about them and continue to engage in them. Yet, under current circumstances, there is an even more important mission: to demonstrate to our enemies that the sanctions and pressure they exert on our country will be ineffective. The negotiation process has its own established mechanism and is conducted under the oversight of the Supreme National Security Council,\" he said in comments to the Iranian state broadcasting organization. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78263",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78263",
+      "published_at": "2026-11-26T20:41:25+00:00",
+      "text": "Президент РФ Владимир Путин своим указом утвердил Стратегию развития Арктической зоны. Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98658",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98658",
+      "published_at": "2026-11-26T20:41:17+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Combat operations by the 50th Separate Unmanned Systems Brigade “Varyag” targeting Ukrainian equipment and personnel in the Orikhiv sector. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98657",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98657",
+      "published_at": "2026-11-26T20:40:11+00:00",
+      "text": "⚡ 🇷🇺 🇺🇦 Reports that the AFU are preparing a ground operation in Crimea in spring 2027. Russia allegedly learned about this, and Putin asked Trump to help prevent it, because this escalation would lead to the use of nuclear weapons.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19846",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19846",
+      "published_at": "2026-11-26T20:32:19+00:00",
+      "text": "JUST IN: 🇰🇵 🇷🇺 North Korea's Kim Jong Un halts military support for Russia. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234827",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234827",
+      "published_at": "2026-11-26T20:30:22+00:00",
+      "text": "Севернее Лимана. Корректировка ЛБС . Наши воины вернули часть нп. Грековка и продвинулись северо-восточней села. Также продвинулись восточнее нп. Новомихайловка . Корректировка 20 км². врезка: @zovpobedy",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30801",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30801",
+      "published_at": "2026-11-26T20:30:02+00:00",
+      "text": "📆 Top News Today 💥 Supplies suspended: delivered strikes at enterprises of Ukrainian defence industry and vessels used to deliver military and dual-use cargo 🤝 Saving our own: Yuzhnaya Group's troops evacuated civilians from Konstantinovka. ⚔️ Deadly Grad-borne hail on AFU positions: the Zapad Group's artillerymen wiped out UAV control posts and manpower of the enemy. ▫️ Tsentr Group's EOD specialists are in: the Tsentr Group's EOD specialists demine liberated territories the Donetsk People's Republic. 🏳️ ‘We were sent to the slaughter’: Ukrainian military POWs captured in the Slavyansk-Kramatorsk direction have told about the disastrous situation of the AFU. ⏱️ Moscow and Beijing get aligned: Russian Deputy Defence Minister Vasiliy Osmakov took part in the first round of strategic consultations between the defence departments of Russia and China. 📈 Development of logistics support for CSTO troops discussed in Saint Petersburg: Russian Deputy Defence Minister Colonel General Valery Solodchuk noted , that the main goal is to implement combat experience into the practice of joint exercising and employment of the Collective Forces. #TopNews 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199409",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199409",
+      "published_at": "2026-11-26T20:27:48+00:00",
+      "text": "🇵🇱 🇺🇦 Woman attacks Ukrainian man on Warsaw tram, he believes it was over his Ukrainian coat of arms A woman attacked a young Ukrainian man on a nearly empty Warsaw tram, according to local media outlets. Vitaly Lyalikov, 23, was heading home from MMA training around 10:30 p.m. and had put his backpack on the seat next to him. A woman got on, started a row over the backpack and threw his things on the floor. He didn't react. A few minutes later she came back and hit him on the head. Lyalikov says he trains MMA professionally, so he chose not to fight back and filmed her instead. He says he hadn't spoken to anyone, but he was wearing a jacket with Ukraine's coat of arms. Whether that was the reason for the attack is unclear. They got off at the same stop and she simply walked away. The incident comes a day after a 22-year-old Ukrainian set himself on fire in central Warsaw, reportedly in protest against discrimination against Ukrainians in Poland. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199406",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199406",
+      "published_at": "2026-11-26T20:25:40+00:00",
+      "text": "🇹🇷 🇮🇱 🇬🇪 Georgian police tear-gas Beşiktaş fans over Palestine flag, Europa League match halted Beşiktaş's Europa League game against Israel's Hapoel Be'er Sheva descended into chaos in Batumi, Georgia. UEFA had moved the match out of Istanbul to a neutral venue on security grounds. Before kickoff, the Beşiktaş players refused to shake hands with the Israeli team. In the stands, Turkish fans raised a Palestinian flag and a banner reading \"If you cannot prevent injustice, make it known to everyone.\" Georgian police moved in to remove the flag and clashes broke out. Police used batons, tear gas and pepper spray on the Beşiktaş section. One fan was beaten so badly he was left bleeding heavily and taken to hospital. The match was stopped around the 25th minute and the players left the pitch. Clashes continued outside the stadium. Play resumed at 0–0 after a stoppage of more than 45 minutes. Beşiktaş accused Georgian police of using \"disproportionate force\" against its supporters, and rival club Galatasaray also condemned the crackdown. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234826",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234826",
+      "published_at": "2026-11-26T20:22:01+00:00",
+      "text": "Боевая работа операторов FPV-ПВО батальона противодействия беспилотным системам \"Филин\" 37 ОБр БпС ГВ \"Север\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78262",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78262",
+      "published_at": "2026-11-26T20:20:41+00:00",
+      "text": "«Позишн намбер ту» снизу для кокаиновой карлицы обернулась конфузом. Над просроченным диктатором Киева уже стебется даже ИИ. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199405",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199405",
+      "published_at": "2026-11-26T20:18:24+00:00",
+      "text": "🇪🇺 EU leaders fail to agree on 2028–2034 budget, talks pushed to December EU leaders ended their special summit in Brussels without a deal on the bloc's next seven-year budget. They also failed to agree on a new €45 billion loan for Ukraine. European Council President António Costa's compromise puts the budget at around €1.58 trillion, roughly €200 billion less than the European Commission originally proposed. It still satisfies almost no one, often for opposite reasons. The net contributors (Germany, the Netherlands, Sweden, Austria, Finland and Denmark) want deeper cuts to limit what they pay in. The net beneficiaries in central and southern Europe want more money. German Chancellor Friedrich Merz said the plan was no basis for agreement because the total was still too high, and ruled out any new joint EU borrowing. Italian Prime Minister Giorgia Meloni said the sides are \"light years away\" from a solution. Leaders will try again at the December 17–18 summit. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199403",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199403",
+      "published_at": "2026-11-26T20:17:56+00:00",
+      "text": "🇺🇦 Strikes in Krivoy Rog continue 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/DDGeopolitics/199401"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199402",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199402",
+      "published_at": "2026-11-26T20:12:47+00:00",
+      "text": "🇫🇷 🇷🇺 Micron is upset that Russia is a major agricultural exporter. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78261",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78261",
+      "published_at": "2026-11-26T20:11:49+00:00",
+      "text": "Два мира, два ...Лукашенко. Вангую, что скоро появится третий. Похоже, тихой сапой Минск выиграл конкурс двойников. Может, поэтому там проходила серия переговоров, на которых традиционные и не очень западные \"партнеры\" так и норовили обмануть русских. А Бацька, как всегда, ни при чем. — Саид, почему у тебя седло мокрое? — Стреляли!... Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407806",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407806",
+      "published_at": "2026-11-26T20:10:01+00:00",
+      "text": "▶️ Матч Лиги Европы между израильским \"Хапоэлем\" и турецким \"Бешикташем\" остановили из-за беспорядков. Встреча проходила в Батуми. По информации Anadolu, перед началом матча игроки \"Бешикташа\" отказались пожать руки оппонентам. Во время встречи болельщики турецкой команды развернули флаг Палестины, что могло послужить причиной столкновения между фанатами и полицией. Видео: ТАСС/Reuters/Anadolu Agency ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33668",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33668",
+      "published_at": "2026-11-26T20:04:07+00:00",
+      "text": "🇷🇺 🇰🇿 On November 26, President of Russia Vladimir Putin and President of Kazakhstan Kassym-Jomart Tokayev took part in the plenary session of the Artificial Intelligence Journey conference . Ahead of the plenary session, Vladimir Putin and Kassym-Jomart Tokayev toured an exhibition showcasing the application of AI technologies in Russia and Kazakhstan across various sectors , including education, healthcare, public administration, industry and transport. 💬 Excerpts from President of Russia Vladimir Putin’s remarks at the plenary session of the conference: We will strive to ensure that AI is increasingly widely adopted in Russia, encompassing every sector of the economy and every aspect of people’s lives. Why is this task of fundamental importance ? Almost ten years ago – allow me to recall this – I said that if any country achieved leadership in developing artificial intelligence, that country would rule the world. The situation has indeed changed since then, and radically so. Merely possessing even the latest generation of artificial intelligence no longer guarantees either technological superiority or sustainable, long-term development . To be among the leaders, it is not enough simply to develop cutting-edge solutions. We need to ensure that people and autonomous systems work together as seamlessly as possible, reshaping management and production processes, the economy and the social sphere accordingly. With precisely this approach in mind, I propose updating Russia’s National AI Strategy through 2036 and adopting a National Action Plan in this field . Following the event, Vladimir Putin and Kassym-Jomart Tokayev met with schoolchildren and university students from Russia , India and Kazakhstan – young talents in the field of AI. Read in full #RussiaKazakhstan",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234825",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234825",
+      "published_at": "2026-11-26T20:04:01+00:00",
+      "text": "Нам в руки попал весьма интересный военно-технический бюллетень. И несмотря на то, что он под грифом «Для служебного пользования» мы решили познакомить с этим документом и наших читателей. Несмотря на заявления о развитии собственного ВПК, документ демонстрирует значительную роль зарубежных компонентов, программного обеспечения, спутниковой связи и технологических партнёров. Хотя в вступительном слове украинская инженерная мысль преподносится как законодатель новых правил ведения войны. Но в тоже время Украина продолжает использоваться как большой полигон для НАТО. Этот бюллетень показывает заинтересованность западных стран в украинских технологических разработках и накопленных за годы войны данных. И если раньше иностранные «партнёры» учили украинских военных, то сейчас сами перенимают боевой опыт. То же самое и с производством: всё чаще создаются совместные предприятия в Европе. Это значит, что политическое руководство Украины хочет снизить производственные риски внутри страны. Даже, несмотря на факт долгосрочной зависимости украинского ВПК от иностранных инвесторов. В частности, в бюллетене рассматривается создание совместного предприятия украинской TAF Industries и немецкой Wingcopter на территории Германии. Предполагается использование украинских технологий и производственного опыта в сочетании с немецкой промышленной инфраструктурой. Проект ориентирован не только на потребности Украины, но и на рынки ЕС и НАТО. Рассматривается и развитие российской оборонной промышленности. И тут представители ВСУ отмечают масштабирование производства боеприпасов, развитие беспилотных технологий, роботизированных беспилотных комплексов и собственных систем спутниковой связи России. Итеренесно и то, что институт ВСУ, специализирующийся на испытаниях и сертификации вооружений, в своём научно-техническом бюллетене опирается на журналистские публикации, рекламные заявления производителей и даже переписку в мессенджерах. Так что к некоторым хвалебным публикациям мы бы относились более критично. Отдельный раздел посвящён концепции Eastern Flank Deterrence Line (EFDL) — роботизированной линии обороны вдоль границ России и Беларуси. Там где нет активных боевых действий в ближайшие пару лет планируется переход к автоматизированным оборонным системам. Ну и конечно же одним из главных направлений развития вооружений авторы считают внедрение искусственного интеллекта, машинного зрения, роботизированных платформ и автоматизированных систем управления. Несмотря на повальную бусификацию людей в ВСУ катастрофически не хватает. Мы знаем, что этот документ будет интересно почитать не только специалистам. Мы Берегини ! Мы знаем всё!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350519",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350519",
+      "published_at": "2026-11-26T20:00:17+00:00",
+      "text": "Беспорядки на трибунах начались в Батуми на матче между турецкой и израильской футбольными командами на Лиге Европы. Болельщики турецкого \"Бешикташа\" развернули флаги Палестины и вмешалась грузинская полиция - со стороны фанатов в полицейских полетели кресла. Арбитр остановил матч на 27-й минуте. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
