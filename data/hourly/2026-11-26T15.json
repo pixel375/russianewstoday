@@ -1,0 +1,626 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T15",
+  "generated_at_utc": "2026-11-26T16:07:20.376466+00:00",
+  "window_start_utc": "2026-11-26T15:00:00+00:00",
+  "window_end_utc": "2026-11-26T16:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 13
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 41,
+    "relevant_posts": 14,
+    "editorial_pool_posts": 41,
+    "retained_without_keyword_match": 26,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 39,
+    "candidate_posts": 39
+  },
+  "posts": [
+    {
+      "id": "bricsnews/19839",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19839",
+      "published_at": "2026-11-26T15:59:43+00:00",
+      "text": "JUST IN: 🇰🇵 🇷🇺 North Korea temporarily suspends military aid to Russia following a diplomatic dispute, Ukrainian intelligence claims. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117512",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117512",
+      "published_at": "2026-11-26T15:59:25+00:00",
+      "text": "Жительница Мариуполя добровольно вышла на связь с украинскими спецслужбами и шпионила для них. Оксана Пивоварова задержана сотрудниками УФСБ по ДНР. Кроме шпионажа Пивоварова публиковала в соцсетях комментарии с экстремистскими призывами. Её приговорили к 14 годам лишения свободы в исправительной колонии. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350509",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350509",
+      "published_at": "2026-11-26T15:59:02+00:00",
+      "text": "Главные заявления Марии Захаровой на брифинге: ​ ▪️ Диалога с Западной Европой об архитектуре безопасности в Евразии нет в перспективе. ▪️ Сотрудники зарубежных оборонных предприятий, участвующие в атаках против России, являются законными военными целями, а также могут быть привлечены к уголовной ответственности. ▪️ Россия принимает меры по укреплению обороноспособности на фоне активности Японии с привлечением контингента НАТО вблизи российских границ. ▪️ Решение Эстонии закрыть пункты пропуска на границе нанесет болезненный удар по самой Эстонии. ▪️ Контакт Путина и премьер-министра Японии на АТЭС организовали по просьбе японской стороны. Москва надеется, что это поспособствует улучшению отношений. ▪️ ФРГ уклоняется от контактов по расследованию теракта на \"Северных потоках\". ▪️ Цели СВО будут достигнуты в любом случае, к каким бы террористическим методам ни прибегал киевский режим на суше, на воде и в воздухе. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199386",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199386",
+      "published_at": "2026-11-26T15:58:53+00:00",
+      "text": "🇷🇺 \"To rule the world and take leadership positions now ... one needs to ensure the most harmonious cooperation of man and autonomous system.\" - Vladimir Putin says creating AI alone no longer guarantees global dominance 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30797",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30797",
+      "published_at": "2026-11-26T15:57:51+00:00",
+      "text": "❗️ Today, during the daytime, the Armed Forces of the Russian Federation delivered UAV strikes at power infrastructure facilities, as well as vessels used in the interests of the AFU. 📍 As a result of the strike, a 330 kV power substation in Kharkov, a 150 kV power substation in the settlement of Zeleny Gay (Dnepropetrovsk region), and a 110 kV power substation in the settlement Radomyshl (Zhitomir region) providing operation of defence industry facilities of Ukraine. 📍 In addition, a dry cargo ship delivering dual-use cargo to support the AFU was hit in the Black Sea waters south of Odessa. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199385",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199385",
+      "published_at": "2026-11-26T15:57:05+00:00",
+      "text": "🇺🇦 Strikes on Krivoy Rog continue 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199384",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199384",
+      "published_at": "2026-11-26T15:55:11+00:00",
+      "text": "LIVESTREAM ALERT: Join me at LIVE 1pm eastern 7pm CET TODAY November 26th w/ Mohammad Marandi! On this Thanksgiving, Iran has given Trump a holiday surprise with a strike on US assets in Kuwait and a massive strikes on tankers in the Strait of Hormuz. Israel is now eying a strike on Iran's Supreme Leader. Prof. Seyed Mohammad Marandi discusses Iran's strategy to force US surrender and where all of this fits as the war escalates. Watch here: https://www.youtube.com/watch?v=JgHXPG4scDM",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199383",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199383",
+      "published_at": "2026-11-26T15:46:43+00:00",
+      "text": "🇺🇦 GTA - Odessa City 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407790",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407790",
+      "published_at": "2026-11-26T15:46:35+00:00",
+      "text": "🗣 Нельзя допустить, чтобы ИИ хоть когда-то и кем-то использовался против РФ. Главное из заявлений Путина: ▪ Россия не должна попасть в ситуацию, когда извне \"нажимают кнопку, и все перестает работать\"; ▪ Путин предложил разработать систему государственно-частного партнерства для быстрого возведения ЦОДов; ▪ Без технологий ИИ уже скоро станет невозможно жить; ▪ Если ИИ-модель обучена на чужих ценностях, то она незаметно подсказывает эти ценности миллионам людей, формирует их сознание; ▪ Путин поручил наращивать оцифровку архивных и других данных для обучения ИИ-моделей на российских ценностях; ▪ Для всех мобильных ОС в России должно быть окно выбора из ИИ-приложений, в том числе отечественных; ▪ В мире кратно растет число инцидентов с применением ИИ. Путин поручил выстроить эффективную защиту граждан и инфраструктуры от угроз ИИ, но без избыточных запретов; ▪ Нужно установить пределы полномочий ИИ-агентов — те шаги, которые они не должны выполнять бесконтрольно и без человека; ▪ Путин предложил обновить Нацстратегию развития ИИ до 2036 года; ▪ ИИ-агенты уже становятся участниками общественных и деловых отношений, формируют \"агентную экономику\"; ▪ Все больше сотрудников не хотят работать по старинке и используют ИИ для рабочих задач, но теневое применение нейросетей влечет риски; ▪ Теневое применение ИИ на работе, в том числе зарубежных моделей, несет риски для персональных данных и коммерческой тайны; ▪ Возможности ИИ продолжат расти, перемены в разных отраслях могут быть революционными; ▪ ИИ-технологии могут помочь России преодолеть ограничения демографических и трудовых ресурсов и усилить ее потенциал; ▪ РФ продолжит развивать суверенные фундаментальные модели ИИ, продолжит делать на них ставку. Путин поручил расширять использование ИИ в научных исследованиях; ▪ \"Значение учителя в век роботов будет нарастать\", и поручил разработать для отечественной школы \"дидактику XXI столетия\". Видео: Раптли/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "sap_gov_ua/4583",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4583",
+      "published_at": "2026-11-26T15:45:02+00:00",
+      "text": "​​ Розтрата 6 млн грн бюджетних коштів: справу стосовно голови громади на Волині та підприємця направлено до суду Прокурор САП направив до суду обвинувальний акт у справі стосовно голови однієї з міських рад Волинської області та підприємця, яких обвинувачують у розтраті 6 млн грн бюджетних коштів під час закупівлі спецтехніки. У межах досудового розслідування встановлено, що очільник міськради уклав із підприємством договір на постачання двох вживаних бензовозів «Renault Premium». Проте з’ясувалося, що їхня вартість була значно завищена, внаслідок чого територіальній громаді завдано збитків на понад 6 млн грн. Дії осіб кваліфіковано за ч. 5 ст. 191 КК України. Зазначимо, що в липні 2025 року це кримінальне провадження передано за підслідністю до НАБУ. Наразі обвинувальний акт направлено до Ківерцівського райсуду Волинської області для розгляду по суті. 📌 Відповідно до ч. 1 ст. 62 Конституції України особа вважається невинуватою у вчиненні злочину і не може бути піддана кримінальному покаранню, доки її вину не буде доведено в законному порядку і встановлено обвинувальним вироком суду.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "procurement"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234793",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234793",
+      "published_at": "2026-11-26T15:40:41+00:00",
+      "text": "Сопредседатель партии «Альтернатива для Германии» (АдГ) Тино Хрупалла: - «Школы, мосты и железнодорожные пути разваливаются. Конкурентоспособность с каждым днём снижается, а вместе с ней исчезает и малый и средний бизнес. - Тем временем вы хвастаетесь тем, что на 2027 год заложено ещё 11 миллиардов евро военной помощи Украине, и вдобавок выступаете за инвестиции в Украину и её экономику — экономику одной из самых коррумпированных стран мира. - Чьим канцлером вы вообще являетесь, господин Мерц?» @parstodayrussian",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407789",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407789",
+      "published_at": "2026-11-26T15:40:02+00:00",
+      "text": "Все больше сотрудников не хотят работать по старинке и используют ИИ для рабочих задач, но теневое применение нейросетей влечет риски, заявил президент РФ. Он уточнил, что теневое применение ИИ на работе, в том числе зарубежных моделей, несет риски для персональных…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407788",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407788",
+      "published_at": "2026-11-26T15:37:28+00:00",
+      "text": "Путин поручил выстроить эффективную защиту граждан и инфраструктуры от угроз ИИ, но без избыточных запретов. Нужно установить пределы полномочий ИИ-агентов — те шаги, которые они не должны выполнять бесконтрольно и без человека. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53575",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53575",
+      "published_at": "2026-11-26T15:37:02+00:00",
+      "text": "❗️ Trump on his talks with President Putin during their visit to China. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350507",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350507",
+      "published_at": "2026-11-26T15:36:31+00:00",
+      "text": "Нельзя вводить избыточные запреты при развитии ИИ, подчеркнул Путин. Что еще сказал президент: 🔹 Россия должна выстроить защиту критической инфраструктуры, граждан и бизнеса в защите от инцидентов с использованием ИИ. 🔹 Россия видит кратный рост числа инцидентов в мире с использованием ИИ. 🔹 ИИ может стать еще более мощным оружием в руках человека, в том числе в военной сфере 🔹 Поручил развивать крупные и малые АЭС для развития технологий ИИ. 🔹 Необходимо сформировать единый устойчивый контур цифровой экономики. 🔹 Поручил правительству и бизнесу предложить возможности для развития суверенного ИИ 🔹 Нельзя вводить избыточные запреты при развитии ИИ. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407787",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407787",
+      "published_at": "2026-11-26T15:36:00+00:00",
+      "text": "Для всех мобильных ОС в России должно быть окно выбора из ИИ-приложений, в том числе отечественных, отметил Путин.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407786"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407785",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407785",
+      "published_at": "2026-11-26T15:30:59+00:00",
+      "text": "Нельзя допустить, чтобы ИИ хоть когда-то и кем-то использовался против России, заявил Владимир Путин. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102583",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102583",
+      "published_at": "2026-11-26T15:29:58+00:00",
+      "text": "Рубрика «Будни солдата». Разбавим ленту фронтовыми котиками! — Фронтовики, можете присылать нам фотографии/видео вашего быта: @media_front_bot , и мы их опубликуем (и отредактируем). Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407784",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407784",
+      "published_at": "2026-11-26T15:28:16+00:00",
+      "text": "Если ИИ-модель обучена на чужих ценностях, то она незаметно подсказывает эти ценности миллионам людей, формирует их сознание, отметил президент РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350506",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350506",
+      "published_at": "2026-11-26T15:27:35+00:00",
+      "text": "\"Я думала, откормлю\" Кадры с родителями умершей от истощения девочки из многодетной вологодской семьи публикует СК. Следователи ведут допрос. Статуса задержанных у родителей пока нет. О ходе расследования дела запросил доклад Бастрыкин. Дети из этой…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407783",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407783",
+      "published_at": "2026-11-26T15:27:26+00:00",
+      "text": "Россия не должна попасть в ситуацию, когда извне \"нажимают кнопку, и все перестает работать\", сказал Путин, говоря о развитии ИИ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407782",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407782",
+      "published_at": "2026-11-26T15:26:40+00:00",
+      "text": "ИИ-технологии могут помочь России преодолеть ограничения демографических и трудовых ресурсов и усилить ее потенциал, подчеркнул Путин. Он отметил, что ИИ-агенты уже становятся участниками общественных и деловых отношений, формируют \"агентную экономику\". …",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350505",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350505",
+      "published_at": "2026-11-26T15:26:10+00:00",
+      "text": "Россия при развитии ИИ не должна попасть в ситуацию, когда нам \"нажимают кнопку\" и все перестает работать, подчеркнул Путин. Страна делает ставку на суверенные фундаментальные модели ИИ, продолжит заниматься их развитием, отметил президент. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407781",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407781",
+      "published_at": "2026-11-26T15:24:18+00:00",
+      "text": "▶️ Путин предложил обновить Нацстратегию развития ИИ до 2036 года. Внедрение ИИ в России должно быть все более массовым, охватывать все сферы. Видео: Раптли/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350504",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350504",
+      "published_at": "2026-11-26T15:22:04+00:00",
+      "text": "Обладание новейшим поколением ИИ больше не гарантирует технологического превосходства - теперь нужно обеспечивать гармоничную работу людей и автономных систем, заявил Путин. Другие тезисы: 🔹 ИИ вышел на качественно иной уровень автономности. 🔹 Президент предложил обновить национальную стратегию по ИИ, рассчитанную до 2036-го. 🔹 Россия будет стремиться, чтобы внедрение ИИ в стране было более массовым и охватывало все сферы экономики и жизни людей. 🔹 ИИ-агенты в России становятся участниками общественных и деловых отношений, формируют агентную экономику. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234792",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234792",
+      "published_at": "2026-11-26T15:21:01+00:00",
+      "text": "В России предложили ввести уголовную ответственность за незаконное распространение информации об ударах по объектам на территории страны. Госдума в ближайшее время рассмотрит этот закон. О необходимости таких мер пишу уже далеко не первый год. Текущие меры очевидно недостаточные. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407780",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407780",
+      "published_at": "2026-11-26T15:20:03+00:00",
+      "text": "▶️ #Прямосейчас Путин выступает на конференции Сбера \"Путешествие в мир искусственного интеллекта\". Присоединяйтесь к нашей трансляции . Видео: Раптли/ТАСС",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407778"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199382",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199382",
+      "published_at": "2026-11-26T15:18:49+00:00",
+      "text": "🇺🇸 Stop financing Ukraine and seeking hegemony 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407779",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407779",
+      "published_at": "2026-11-26T15:18:03+00:00",
+      "text": "Москва рассчитывает, что контакт Путина и Такаити на полях саммита АТЭС поспособствует некоторому улучшению отношений РФ и Японии, заявила Мария Захарова. Встреча Путина с Такаити была организована по просьбе японской стороны 18 ноября. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199381",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199381",
+      "published_at": "2026-11-26T15:17:29+00:00",
+      "text": "🇷🇺 💬 🇪🇺 The Danish proposal to tighten visa requirements for Russian citizens did not come as a surprise to Moscow. Such measures are aimed at increasing tensions on the continent, escalating conflicts that are already heated, inciting discord between peoples, and supporting terrorism and extremism in the form of the Kiev regime. This was stated by Maria Zakharova, in response to a question from \"Izvestia.\" \"We view all of this as a manifestation of blatant Russophobia, which has, indeed, been elevated to the level of neo-Nazism. This is blatant discrimination based on national origin,\" emphasized the official representative of the Russian Foreign Ministry. She noted that such an approach is unacceptable for a civilized country that positions itself as a developed democratic state committed to high standards in the field of human rights protection. \"Instead of strength and resolve, the Danish authorities are thereby demonstrating weakness and despair, if not outright foolishness and recklessness. The inability to recognize the futility of this course, to admit their mistakes, and to correct them – that is what all of this demonstrates,\" clarified the diplomat. She added that Russia, unlike European Union states that have embarked on a path of neo-Nazi division of people, does not intend to close itself off and isolate itself. \"We will remain an open, hospitable country. We will always sincerely welcome those who come to our country with peaceful intentions,\" concluded Zakharova. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117511",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117511",
+      "published_at": "2026-11-26T15:17:01+00:00",
+      "text": "Денис Пушилин объяснил, почему при отключениях света работают экраны и вывески. « Это светодиодные конструкции с низким энергопотреблением, многие – с автономными накопителями и источниками питания. Их отключение не решит проблему. При этом на экранах размещена социально значимая информация », – подчеркнул глава ДНР. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350503",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350503",
+      "published_at": "2026-11-26T15:14:23+00:00",
+      "text": "Путин выступает на конференции \"Сбера\" по ИИ – трансляция идет в нашем канале. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350502",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350502",
+      "published_at": "2026-11-26T15:07:39+00:00",
+      "text": "Россия надеется, что контакт Путина и премьера Японии на АТЭС поспособствует некоторому улучшению отношений между странами, если Токио не сорвется в пике, заявила Захарова. Этот контакт организовали по просьбе японской стороны. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199379",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199379",
+      "published_at": "2026-11-26T15:06:20+00:00",
+      "text": "🇺🇦 The Ukrainian Government is preparing cities for possible scheduled water outages The Cabinet of Ministers has instructed local authorities to develop action plans in case of damage or failure of sewage pumping stations. This specifically applies to settlements with a population of over 100,000 people. Following the example of electricity supply schedules, city authorities have been instructed to determine in advance the zones, sequence, and schedules for possible water supply outages. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117510",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117510",
+      "published_at": "2026-11-26T15:05:27+00:00",
+      "text": "Минобороны РФ рассказали, по каким целям на Украине сегодня днем были направлены ударные беспилотники. 💥 Поражены электроподстанции в Харькове, Зеленом Гае Днепропетровской области и Радомышле Житомирской области, обеспечивающие электроэнергией объекты военно-промышленного комплекса Украины. 💥 Южнее Одессы очередной сухогруз, перевозивший груз для ВСУ, попал под удар российских сил. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234790",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234790",
+      "published_at": "2026-11-26T15:04:52+00:00",
+      "text": "Северная Корея не намерена с кем либо обсуждать свой ядерный статус и тем более вопросы \"денуклеаризации\". Попытки поставить под вопрос право КНДР иметь ядерное оружие Пхеньян будет рассматривать как объявление войны. Ранее товарищ Ким Чен Ын давал указание нарастить темпы производства и модернизации ядерного оружия. В целом, КНДР не особо волнует, считают ее официальным членом ядерного клуба или нет. Она таковым является по факту и от ядерного оружия она точно не откажется. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102581",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102581",
+      "published_at": "2026-11-26T15:02:30+00:00",
+      "text": "🔴 🇷🇺 СЛУЖБА В КОЛОМЕНСКОЙ АРТИЛЛЕРИИ 🇷🇺 🔴 ‼️ Ведется набор на военную службу по контракту в войсковую часть 53195 ‼️ Отбираются граждане в возрасте от 18 до 64 лет, имеющие гражданство РФ. ❌ Переводов нет; ❌ Мобилизованных не принимаем; ❌ Офицеров не принимаем; ‼️ Требуются ‼️ : - номера расчета орудия, - номера расчета машин, - ⁠операторы, - ⁠механики, - ⁠водители категорий В,С, - ⁠сварщики, - электрики, - строители и многое другое, уточнять в личном сообщении Грамотное командование, обучение с нуля, сопровождение на всех этапах отбора! 2.600.000 рублей единовременная выплата от пункта отбора на военную службу по Московской области ‼️ 400.000 рублей единовременная федеральная выплата ‼️ ✅ Денежное довольстве 230.000-300.000 рублей в зоне СВО ✅ Списание кредитов 10 млн. ✅ Статус участника СВО ✅ Ветеран боевых действий На выбор: ✔️ самоходная артиллерия; ✔️ ствольная артиллерия; ✔️ реактивная артиллерия ✔️ взвода обеспечения, рмо, связь ✔️ мобильные огневые группы в каждом подразделении ✔️ беспилотные летательные аппараты разведывательные, ударные, ближнего и дальнего действия (вакантных должностей мало, только по согласованию). Круглосуточно ☎️ Специалист отделения кадров +79912374173 +79919550788 (мессенджер Макс) (Пишите в мессенджеры, если не удается дозвониться)",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78249",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78249",
+      "published_at": "2026-11-26T15:02:15+00:00",
+      "text": "Дым после прилета реактивного БпЛА по временно оккупированному Запорожью. Местные каналы сообщают о попадании по объекту транспортной инфраструктуры. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199378",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199378",
+      "published_at": "2026-11-26T15:00:12+00:00",
+      "text": "🇺🇦 “Ukraine above everything” sounds strangely familiar, doesn’t it? Fancy taking a few lessons in distorted Ukrainian history, or perhaps a course on how to speak like a Nazi, here is the man to show you how. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
