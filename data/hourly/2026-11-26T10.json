@@ -1,0 +1,655 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T10",
+  "generated_at_utc": "2026-11-26T11:02:26.282132+00:00",
+  "window_start_utc": "2026-11-26T10:00:00+00:00",
+  "window_end_utc": "2026-11-26T11:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 12
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 5
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 41,
+    "relevant_posts": 19,
+    "editorial_pool_posts": 41,
+    "retained_without_keyword_match": 22,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 41,
+    "candidate_posts": 41
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407736",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407736",
+      "published_at": "2026-11-26T10:58:01+00:00",
+      "text": "Рэпер Джиган задолжал по алиментам более 1,7 млн рублей, их принудительно взыскивают. Это следует из банка приставов. Джиган с 2012 года состоял в браке с Оксаной Самойловой. Весной 2026 года пара официально расторгла брак. У бывших супругов четверо детей.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117492",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117492",
+      "published_at": "2026-11-26T10:56:01+00:00",
+      "text": "В результате атаки БПЛА украинских террористов в Калининском районе Горловки поврежден многоквартирный дом, сообщил глава города Иван Приходько. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78241",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78241",
+      "published_at": "2026-11-26T10:55:38+00:00",
+      "text": "Москва и Киев сегодня обменялись погибшими. На Родину вернулись тела 22 павших русских воинов. Взамен Россия передала украинской стороне трупы 250 боевиков ВСУ. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407735",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407735",
+      "published_at": "2026-11-26T10:52:01+00:00",
+      "text": "Пятилетняя девочка умерла от истощения в Вологде в семье, где воспитывались 12 детей, сообщили в СК. Многодетная семья состояла на профилактическом учете. Девять детей госпитализированы в областную детскую клиническую больницу, заявил губернатор Вологодской…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234760",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234760",
+      "published_at": "2026-11-26T10:50:28+00:00",
+      "text": "Сегодня проводится обмен погибшими по уже привычной схеме. Противник передал нам 22 тела наших погибших бойцов. Противнику было передано 250 убитых ВСУшников. Уже привычное соотношение при таких обменах. Противник много болтает, что он там чего-то переломил и куда-то наступает и казалось бы тогда соотношение при обменах должно было бы меняться, но нет. Оно остается плюс-минус таким же, как и последние несколько лет. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98630",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98630",
+      "published_at": "2026-11-26T10:49:41+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Another exchange of the bodies of deceased servicemen has taken place. The remains of 22 Russian servicemen were returned to Russia, while the remains of 250 Ukrainian servicemen were handed over to Ukraine. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407734",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407734",
+      "published_at": "2026-11-26T10:49:01+00:00",
+      "text": "Пашинян заявил о намерении в ходе визита в Россию найти решение накопившимся в двусторонней повестке вопросам. Также премьер-министр отметил, что позиция Еревана заключается в том, что армянская сторона не должна наносить вреда РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199356",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199356",
+      "published_at": "2026-11-26T10:48:48+00:00",
+      "text": "🇩🇪 🇪🇺 🇺🇦 Instead of defending the interests of the German people, Merz appears more concerned with defending Zelensky’s interests. According to the Financial Times , Germany wants to enshrine future funding for Ukraine in EU budget legislation, making it harder for individual member states to block further financial support. “Germany is seeking to ensure that any additional support for Kyiv cannot be blocked by France or any other member state. According to one official, Germany’s demand is intended to make support for Ukraine ‘invulnerable to Marine Le Pen’.” Once again, the priorities of the German government seem to lie elsewhere than with its own citizens. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350485",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350485",
+      "published_at": "2026-11-26T10:47:12+00:00",
+      "text": "Известный адвокат Сергей Жорин, которого прооперировали в Италии, заявил, что врачи подумывают о второй операции. Сейчас он находится в травматологии. Что стало причиной попадания в больницу, Жорин пока не раскрывает. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407733",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407733",
+      "published_at": "2026-11-26T10:45:12+00:00",
+      "text": "🏅 В Москве впервые показали орден \"Победа\", врученный маршалу Жукову весной 1944 года за освобождение Правобережной Украины. Музей Победы представил высший военный орден СССР в рамках трехдневного Международного открытого форума \"Жуков. Наследие\", передает корреспондент ТАСС. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407732",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407732",
+      "published_at": "2026-11-26T10:41:01+00:00",
+      "text": "❗️ Союзники Киева делают все, чтобы скрыть его преступления с применением отравляющих веществ против граждан России, сообщил постпред РФ при ОЗХО. По его информации, эксперты РФ дадут оценку докладу Украины в ОЗХО по \"расследованию\" химических инцидентов.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234759",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234759",
+      "published_at": "2026-11-26T10:40:27+00:00",
+      "text": "Работа ВС РФ по позициям ВСУ: 00:01 ФАБ-3000 по ПВД 100 омбр ВСУ в Дружковке; 00:08 4 ФАБ-500 по ПУ БпЛА 65 омбр ВСУ в н.п. Таврическое (Кирово) Запорожской области; 00:15 реактивный снаряд по ПУ БпЛА ВСУ в зоне ответственности группировки \"Север\". @The_Wrong_Side",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117491",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117491",
+      "published_at": "2026-11-26T10:39:01+00:00",
+      "text": "Европа подталкивает Киев к продолжению войны, заявил Дмитрий Песков Другие заявления пресс-секретаря президента России: ▪️ Украинские власти всё меньше готовы к мирному процессу, а продолжение конфликта идёт вразрез с интересами граждан Украины и ЕС. ▪️ У Путина и Трампа сложились деловые, прагматичные и дружеские отношения. По словам Пескова, это помогает им обсуждать самые сложные вопросы; ▪️ Евросоюз обсуждает выделение Киеву очередной крупной суммы. Как считает Песков, эти деньги пойдут на продолжение войны; ▪️ Действия Киева в Средиземном и Балтийском морях, которые Песков назвал террористическими, вызывают озабоченность у прибрежных стран, в том числе у членов НАТО Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234758",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234758",
+      "published_at": "2026-11-26T10:38:30+00:00",
+      "text": "В Харькове во время очередной атаки дронов поражено здание Харьковской Авиационного Института. Также гауляйтер Харькова заявил, что в городе поражен объект энергетики.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199355"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234757",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234757",
+      "published_at": "2026-11-26T10:34:47+00:00",
+      "text": "«Военная хроника» : к ноябрю 2026-го на Украине ликвидирован 131 американский наёмник, воевавший на стороне ВСУ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407731",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407731",
+      "published_at": "2026-11-26T10:33:36+00:00",
+      "text": "⚡️ Прошел очередной обмен телами, РФ передала Украине 250 тел военных ВСУ, взамен вернули на родину 22, сообщил военкор Коц.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78240",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78240",
+      "published_at": "2026-11-26T10:33:31+00:00",
+      "text": "В России всё это уже было — и война, и гнилая элита: «Все как будто бы забыли о том, что там, на фронте, почти у каждого сражается за Родину отец, брат, муж или сын. Каждый думает только о себе. Все стремятся к наживе, к обогащению за счёт страданий Родины. А наше высшее общество! Именно тот круг людей, который обязан своим образом действий, своим поведением показывать пример всем другим… Представьте себе — мне стало очень тяжело ездить в Петроград, где меня угнетает атмосфера пошлости, пустоты и эгоизма, которые овладевают там всеми. Сколько там веселья! Обеды, ужины, клубы, театры, почти балы… Все веселятся. Дамы друг друга стараются перещеголять нарядами. Сколько роскоши… Какие деньги тратятся. Я никак не ожидала, что возможно будет что-либо подобное у нас в то время, когда Отечество оказалось в том положении, в каком оно находится теперь. […] Ни я, ни мои дочери ни за что бы не согласились бы теперь надеть какое-нибудь роскошное платье». Слова царицы-мученицы Александры (1916 год). 👇 👇 👇 Читать полностью Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350484",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350484",
+      "published_at": "2026-11-26T10:32:49+00:00",
+      "text": "Механизм, который позволит банкам выявлять карты дропперов и предотвращать операции через их счета, разрабатывает ЦБ. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38648",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38648",
+      "published_at": "2026-11-26T10:31:01+00:00",
+      "text": "Украина рискует исчерпать личный состав к ноябрю 2028 года ВСУ могут столкнуться с нехваткой боеспособных военнослужащих уже в ближайшие годы, об этом заявили в агентстве IntelliNews. Согласно материалам издания, при самом неблагоприятном для киевского режима варианте развития событий ВСУ может полностью исчерпать боеспособный состав к ноябрю 2028 года. Конкретные сроки зависят от размеров потерь и способности восполнять их благодаря новым военнослужащим. Дополнительной проблемой остаётся дезертирство. Согласно приведённой статистике, с января 2022 года по октябрь 2025 года украинская прокуратура зарегистрировала более 311 тысяч уголовных производств, связанных с дезертирством. Как сообщает издание, именно нехватка подготовленных военнослужащих, а не дефицит вооружений или финансирования, может стать определяющим фактором дальнейшего развития конфликта. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199355",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199355",
+      "published_at": "2026-11-26T10:30:48+00:00",
+      "text": "🇺🇦 💥 Strikes were carried out on an energy facility and an aviation institute in Kharkov 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234758"
+      ]
+    },
+    {
+      "id": "sap_gov_ua/4580",
+      "channel": "sap_gov_ua",
+      "source": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "url": "https://t.me/sap_gov_ua/4580",
+      "published_at": "2026-11-26T10:30:24+00:00",
+      "text": "​​ ⚖️ Верховний Суд підтвердив законність конфіскації активів, якими користується колишній голова селищної ради в Рівненській області Касаційний цивільний суд у складі Верховного Суду підтвердив законність рішень судів першої та апеляційної інстанцій ВАКС, якими задоволено позов прокурора САП про визнання необґрунтованими активів, якими користується вже колишній голова селищної ради в Рівненській області Д. Левицький, на суму майже 5,8 млн грн. Мова йде про: ▫️ житловий будинок площею 230 кв. м та земельну ділянку площею 831 кв. м, що розташовані в центральній частині м. Рівного, на суму майже 4,2 млн грн, які наприкінці 2019 року придбала теща посадовця; ▫️ катер вартістю майже 1 млн грн, земельну ділянку площею 0,25 га та спеціальний вантажний автомобіль, які набула у власність сім'я посадовця у 2023 році. Суд погодився з доводами прокурора та відмовив у задоволенні касаційної скарги відповідачів. Рішення Верховного Суду є остаточним та оскарженню не підлягає. Зазначимо, що перевірка вказаної інформації розпочата на основі матеріалів ГУ НП в Рівненській області, а позов подано на підставі матеріалів НАЗК.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102557",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102557",
+      "published_at": "2026-11-26T10:29:57+00:00",
+      "text": "Рубрика «Будни солдата». Разбавим ленту фронтовыми котиками! — Фронтовики, можете присылать нам фотографии/видео вашего быта: @media_front_bot , и мы их опубликуем (и отредактируем). Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199354",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199354",
+      "published_at": "2026-11-26T10:29:20+00:00",
+      "text": "🇷🇺 🇦🇲 Pashinyan moves to end Russian border guard presence in Armenia. Armenian Prime Minister Nikol Pashinyan has confirmed plans to gradually transfer full control of the country’s borders to Armenian forces, bringing the operations of Russian FSB border guards to an end. “We are grateful to the Russian border guards for protecting Armenia’s borders during this period. However, I believe the time has come for us to take full responsibility for our borders in the coming years,” Interfax quoted him as saying. The announcement comes just one week before his scheduled meeting with Vladimir Putin on December 3, amid Armenia’s continued shift towards European integration. Pashinyan has also reiterated that the law initiating the EU accession process will not be repealed, while insisting that Yerevan has no intention of burning its bridges with Moscow. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36022",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36022",
+      "published_at": "2026-11-26T10:27:47+00:00",
+      "text": "📝 Few Reshuffles 📝 On possible changes in the Aerospace Forces Following newly identified air defense problems, arrests followed: yesterday in Moscow, Yuri Grekhov, the deputy commander of the Aerospace Forces for armaments, was detained , accused of receiving a bribe of particularly large proportions. The investigation will later reveal the circumstances of the case, although in any case the air defense situation hardly comes down to one person. Especially since many decisions in this sphere have been made over five years, and some proved quite timely. 📌 The problem lies elsewhere: as we wrote last summer , the cumulative losses sustained by both sides (human, material, and otherwise) mean that reshuffles at the highest level increasingly fail to achieve global positive changes. The less potential available, the harder it becomes to squeeze results through administrative measures. You can appoint a better commander, but his capabilities will be limited by available resources and heavily depend on their volume. ❗️ The air defense situation is similar. There are opportunities for improvement, but personnel changes alone at high positions will not lead, for example, to a significant increase in the number of air defense systems or supplies for them. Not to mention that the number of systems and the density of their deployment depend not only on the arrested deputy commander for armaments. Actually, reshuffles work well when more competent people replace those removed. Moreover, SMO experience demonstrates: if you replace a commander but don't change the intermediate level of executors who will shoulder new tasks, hoping for improvement is highly naive. #RussianArmedForces ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407730",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407730",
+      "published_at": "2026-11-26T10:27:01+00:00",
+      "text": "Нефтяной танкер затонул у берегов Ибицы, один член экипажа погиб, еще шесть пострадали, сообщила служба экстренной помощи автономного сообщества Балеарские острова. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98629",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98629",
+      "published_at": "2026-11-26T10:26:07+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russian Aerospace Forces (VKS) struck the following targets: • The deployment point of a unit of the 475th Separate Assault Regiment (475 OShP) in the settlement of Velykyi Burluk was struck with four FAB-250 guided aerial bombs equipped with UMPK kits. • A road tunnel near the settlement of Odarivka was struck with four FAB-500 guided aerial bombs equipped with UMPK kits. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117490",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117490",
+      "published_at": "2026-11-26T10:25:35+00:00",
+      "text": "❗️ Россия и Украина проводят обмен телами погибших военнослужащих по формуле «250 на 22» Об этом сообщил представитель парламентской координационной группы по вопросам спецоперации, депутат Госдумы Шамсаил Саралиев. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199353",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199353",
+      "published_at": "2026-11-26T10:24:12+00:00",
+      "text": "🇱🇻 🇪🇺 ✈️ Dismissal or exile to Papua New Guinea? AirBaltic staff reportedly face an unusual ultimatum amid mounting financial difficulties. According to Reuters, the Latvian airline has offered pilots and cabin crew three options: voluntary resignation, demotion or transfer to Air Niugini, the national airline of Papua New Guinea, which would mean relocating to the Pacific island nation for work. The proposed transfers are reportedly being made under a cooperation agreement between the two airlines. However, the decisions were not coordinated with the relevant trade union and could raise questions over compliance with Latvian and EU employment legislation. AirBaltic is also planning to reduce its fleet from 54 to 36 Airbus A220-300 aircraft by the end of the year. The airline’s financial troubles have been compounded by rising aviation fuel costs amid the conflict involving the US, Israel and Iran. It has also announced plans to cut between 500 and 700 jobs as part of a wider restructuring programme. The company hopes to complete its restructuring next year, but for some employees, the choices on the table could mean losing their jobs or starting a new life on the other side of the world. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407729",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407729",
+      "published_at": "2026-11-26T10:24:01+00:00",
+      "text": "📃 В Липецкой области полностью прекратят продажу вейпов и жидкостей для них с 1 марта 2027 года, сообщил губернатор региона Артамонов. За несоблюдение ограничения гражданам грозит штраф от 100 до 150 тыс. рублей, должностным лицам от 300 до 500 тыс., а организациям…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117489",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117489",
+      "published_at": "2026-11-26T10:21:01+00:00",
+      "text": "На Краснолиманском направлении артиллеристы группировки «Запад» накрыли пункты управления БПЛА и живую силу противника. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234756",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234756",
+      "published_at": "2026-11-26T10:20:29+00:00",
+      "text": "Полигонные испытания НРТК «Курьер» и «Курьер 2.0», в ходе которых роботизированные комплексы отработали групповое взаимодействие и стрельбу из пулеметов ПКМ, НСВТ, а также гранатомёта АГС-17. 🟢 Подписаться на канал 🟢 Подписаться в MAX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407728",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407728",
+      "published_at": "2026-11-26T10:16:01+00:00",
+      "text": "Каждый ребенок в США получит акцию SpaceX уже в декабре, заявил Маск. Сейчас стоимость одной акции компании составляет примерно $127. Ранее предприниматель заявил, что каждый ребенок в Соединенных Штатах получит по две акции SpaceX — одну от компании и одну от него лично. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407727",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407727",
+      "published_at": "2026-11-26T10:11:13+00:00",
+      "text": "🚨 88 беспилотников ВСУ атаковали Ставропольский край в ночь на 26 ноября, атака длилась 3 часа, сообщил губернатор.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407726",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407726",
+      "published_at": "2026-11-26T10:06:14+00:00",
+      "text": "📹 Народный фронт показал работу кол-центра программы \"Итоги года с Владимиром Путиным\", куда будут поступать обращения россиян со всей страны. Здесь операторы будут принимать звонки граждан, фиксировать их вопросы и передавать обращения в обработку, сообщает…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117488",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117488",
+      "published_at": "2026-11-26T10:03:01+00:00",
+      "text": "Наемник ВСУ из Колумбии Моралез Мендоза Кристиан осужден на 20 лет исправительной колонии за наемничество , сообщили в Верховном суде ДНР. \"Судом установлено, что гражданин Республики Колумбия Моралез Мендоза Кристиан 1993 года рождения с 29 июля по 5 октября 2025 года в составе 60-й отдельной механизированной бригады ВСУ участвовал в вооруженном конфликте против представителей силовых структур ДНР и военнослужащих ВС РФ в качестве наемника, - говорится в сообщении. ◾️ Отмечается, что в собственность государства изъяли более 256 тысяч рублей, которые осужденный получил на Украине за свои услуги. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407725",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407725",
+      "published_at": "2026-11-26T10:03:01+00:00",
+      "text": "▶️ Взрыв произошел на нефтехранилище компании Bangchak в Бангкоке, сообщили в районной администрации. Предварительно, пострадавших нет, ситуацию взяли под контроль. Жителям в окрестностях нефтехранилища рекомендуется немедленно эвакуироваться. Видео: Игорь…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53572",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53572",
+      "published_at": "2026-11-26T10:02:42+00:00",
+      "text": "❗️ The Deputy Commander-in-Chief of the Russian Aerospace Forces for Armaments, Lieutenant General Yuri Grekhov, has just been arrested. The details of the charges against the general have not been disclosed. Grekhov has been in military service since 1979. He held leadership positions in the air defense and anti-missile defense forces. In 2021, he was appointed Deputy Commander-in-Chief of the Aerospace Forces for Armaments and received the rank of Lieutenant General. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102556",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102556",
+      "published_at": "2026-11-26T10:02:39+00:00",
+      "text": "Проблемы с выплатами, ВВК или увольнением по здоровью? « ВоенЮст » — канал военных юристов для военнослужащих и их семей. Разбираем реальные ситуации: — выплаты после ранения; — ВВК и увольнение по здоровью; — выплаты семьям погибших и пропавших без вести; — споры с воинскими частями и госорганами. Публикуем реальные кейсы, изменения законодательства и объясняем, что делать в конкретной ситуации. Консультация бесплатная.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234752",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234752",
+      "published_at": "2026-11-26T10:01:01+00:00",
+      "text": "Обманутая мошенниками пенсионерка могла убить участника СВО в Сочи, но вовремя обратилась в правоохранительные органы. ФСБ удалось предотвратить теракт и обезвредить бомбу — ее в свой дом принесла местная жительница, предполагая, что это устройство для слежки. Этим летом пенсионерка уже попалась мошенникам — тогда ее обманули на крупную сумму денег. Представители украинских спецслужб воспользовались ситуацией и пообещали жительнице \"восстановить справедливость\" и вернуть деньги. Взамен они приказали ей изъять из тайника \"устройство слежения\" и разместить его под автомобилем военнослужащего. @zvezdanews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38647",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38647",
+      "published_at": "2026-11-26T10:01:01+00:00",
+      "text": "Что происходило в высоких кабинетах в последние годы сталинской эпохи? Конец Второй мировой войны, ядерная гонка и борьба за власть в ближайшем окружении. Какими были последние годы правления Сталина? Многосерийный фильм «Сталин» режиссера Владимира Бортко о событиях, которые определили ход мировой истории. Уже на КИОН",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30791",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30791",
+      "published_at": "2026-11-26T10:00:01+00:00",
+      "text": "Worst part is left behind: Yuzhnaya Group's troops evacuate another 16 civilians from Konstantinovka 🤝 For a long time, Russian servicemen provided food and water for people who remained in the city , waiting for the right moment to evacuate. As soon as the weather gave a chance, the servicemen organised an evacuation. ▫️ The enemy attempted to thwart the evacuation attacking people with UAVs. But our lads risked their lives to get civilians to a safe area and help the wounded ones. ‘Thank God we did it, it's okay. Thank Russia's army for such lads,’ the rescued ones shared. ▫️ Now, all evacuees are already in the rear area, in warm and safe conditions, and Russian servicemen continue to save those who remain in the city. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
