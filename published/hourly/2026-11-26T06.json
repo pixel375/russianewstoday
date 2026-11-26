@@ -1,0 +1,68 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    214
+  ],
+  "published_at_utc": "2026-11-26T07:22:53.561578+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-26T06",
+  "items": [
+    {
+      "item_id": "2026-11-26T06:1",
+      "title": "Russia and Belarus sign new foreign policy coordination programme",
+      "summary": "Russia's Foreign Ministry announced that the two countries signed a foreign policy coordination programme for 2027–2029 following talks in Gomel. The programme will be submitted to the Union State's Supreme State Council for approval.",
+      "post_url": "https://t.me/russianewstodayofficial/214",
+      "category": "other",
+      "hour_id": "2026-11-26T06",
+      "source_handles": [
+        "mfarussia"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T06:2",
+      "title": "Lithuania sees no immediate need to close Russian border crossings",
+      "summary": "Lithuanian border service chief Donatas Škarbonis reportedly said that current circumstances do not warrant closing border crossing points with Russia.",
+      "post_url": "https://t.me/russianewstodayofficial/214",
+      "category": "other",
+      "hour_id": "2026-11-26T06",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T06:3",
+      "title": "Russia claims strikes on Ukrainian defence industry and cargo vessel",
+      "summary": "Russia's Defence Ministry said overnight strikes hit Ukrainian defence industry facilities in Kyiv and a cargo vessel in the Black Sea that it alleged was carrying military and dual-use goods. The claims have not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/214",
+      "category": "other",
+      "hour_id": "2026-11-26T06",
+      "source_handles": [
+        "mod_russia_en"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T06:4",
+      "title": "Russia begins compensation payments for war-related equipment damage",
+      "summary": "Russia's Finance Ministry said construction equipment owners have begun receiving compensation for war-related damage under a scheme covering Russian-occupied Ukrainian territories, including Crimea.",
+      "post_url": "https://t.me/russianewstodayofficial/214",
+      "category": "other",
+      "hour_id": "2026-11-26T06",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-26T06:5",
+      "title": "Russian regional authorities report civilian injuries following drone attacks",
+      "summary": "Krasnodar regional authorities reported four people injured in the Slavyansk district, with two hospitalized. Belgorod's governor separately reported one civilian death and 14 injuries over the preceding day.",
+      "post_url": "https://t.me/russianewstodayofficial/214",
+      "category": "other",
+      "hour_id": "2026-11-26T06",
+      "source_handles": [
+        "donbassr",
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
