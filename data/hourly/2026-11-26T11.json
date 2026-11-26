@@ -1,0 +1,598 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T11",
+  "generated_at_utc": "2026-11-26T12:10:09.763891+00:00",
+  "window_start_utc": "2026-11-26T11:00:00+00:00",
+  "window_end_utc": "2026-11-26T12:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 11
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 4
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 36,
+    "relevant_posts": 14,
+    "editorial_pool_posts": 36,
+    "retained_without_keyword_match": 22,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 35,
+    "candidate_posts": 35
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407747",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407747",
+      "published_at": "2026-11-26T11:58:47+00:00",
+      "text": "▶️ Путин и Токаев прибыли на конференцию \"Путешествие в мир искусственного интеллекта\". Видео: Kremlin. ru ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199360",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199360",
+      "published_at": "2026-11-26T11:58:47+00:00",
+      "text": "🇮🇪 🇺🇦 The Irish Soy Boy is going into propaganda over drive to make himself feel better. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350489",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350489",
+      "published_at": "2026-11-26T11:57:03+00:00",
+      "text": "Путин приехал на ежегодную конференцию \"Сбера\" по искусственному интеллекту. Также на конференцию прибыл Токаев – сначала лидеры осмотрят специальную выставку. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98631",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98631",
+      "published_at": "2026-11-26T11:56:50+00:00",
+      "text": "🇷🇺 ⚡️ — Colonel General Yury Grekhov , Deputy Commander-in-Chief of the Russian Aerospace Forces (VKS) for Armaments, has been arrested for accepting a bribe on an especially large scale. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234768",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234768",
+      "published_at": "2026-11-26T11:54:05+00:00",
+      "text": "‼ ‼ ‼ ‼ СЕВАСТОПОЛЬ | ВОЗДУШНАЯ ТРЕВОГА! Сохраняйте спокойствие, соблюдайте меры безопасности, оставайтесь в безопасных местах и не снимайте работу ПВО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407746",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407746",
+      "published_at": "2026-11-26T11:54:01+00:00",
+      "text": "ГД приняла в первом чтении законопроект о конвертации пенсионных накоплений граждан, которые формировались до 2014 года, в программу долгосрочных сбережений. Изменения не затрагивают страховую пенсию, назначаемую и выплачиваемую Соцфондом. Порядок учета ИПК и трудового стажа остается прежним.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199359",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199359",
+      "published_at": "2026-11-26T11:51:19+00:00",
+      "text": "🇺🇦 🇵🇭 The Foreign legion of Ukraine’s reach for the meat grinder has no boundaries. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407745",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407745",
+      "published_at": "2026-11-26T11:48:01+00:00",
+      "text": "▶️ Замеченная в небе над Карелией вспышка была ярким болидом, сообщил астрономический клуб \"Астерион\". Он летел с востока на запад и мог относиться к метеорному потоку Северные Тауриды. Видео: Telegram-канал астрономического клуба \"Астерион\" ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117496",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117496",
+      "published_at": "2026-11-26T11:47:01+00:00",
+      "text": "В ЛНР озвучили средние зарплаты работников культуры. Как сообщил министр культуры республики Роман Олексин, средняя заработная плата работников культуры в ЛНР составляет порядка 55 тысяч руб., а педагогов в школах искусств — 69 тысяч руб. ✔️ Он уточнил, что таким образом размеры зарплат в отрасли приведены в соответствие с плановыми показателями. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234767",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234767",
+      "published_at": "2026-11-26T11:40:30+00:00",
+      "text": "ВСУ готовят провокацию: более 100 российских дронов сосредоточены в «Экспоцентре» Киева В Киеве на территории Национального комплекса «Экспоцентр Украины» сосредоточено более 100 российских ударных беспилотников различных типов. По данным источника, они готовятся к ударам по объектам на территории Евросоюза, в первую очередь Польши. Целями названы логистические, транспортные и энергетические объекты, а также промышленные предприятия. После атак планируется распространить в СМИ информацию о том, что дроны были запущены из Калининградской области. Это позволит возложить ответственность на Россию. Подготовкой аппаратов занимаются специалисты ГУР МО Украины и Сил беспилотных систем ВСУ. Они проводят восстановление и техническое обслуживание дронов. «Экспоцентр Украины» — крупная охраняемая территория с КПП и досмотровым режимом. Отдельные павильоны и ангары имеют обособленное расположение и дополнительную охрану. @inzheneryChF",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/78242"
+      ]
+    },
+    {
+      "id": "tass_agency/407744",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407744",
+      "published_at": "2026-11-26T11:37:01+00:00",
+      "text": "Братья и сестры девочки, умершей в Вологде от истощения, сейчас в безопасности. Нужно искать возможности их семейного устройства, заявила уполномоченный при президенте РФ по правам ребенка Львова-Белова. Она отметила, что держит ситуацию на личном контроле.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117495",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117495",
+      "published_at": "2026-11-26T11:34:57+00:00",
+      "text": "За минувшие сутки поражены места производства, хранения беспилотников и наземных робототехнических комплексов ВСУ, сообщили в Минобороны России. ▪️ ПВО ВС РФ сбили за сутки 4 управляемые авиабомбы JDAM, 2 управляемые ракеты большой дальности \"Нептун\" и 872 БПЛА самолётного типа. ▪️ Потери противника в результате действий российских группировок войск составили более 1,1 тысячи военных Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199358",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199358",
+      "published_at": "2026-11-26T11:34:27+00:00",
+      "text": "📝 Exchange of bodies 📝 Even during fierce fighting, humanitarian actions occasionally occur. Today another exchange of bodies took place: so-called Ukraine received the bodies of 250 AFU members, while Russia received the remains of 22 Russian Armed Forces servicemen. In parallel, the sides are preparing a major prisoner exchange, with news about it emerging after talks in Abu Dhabi. Contacts on this matter are being handled by Yana Lantratova and Ukrainian ombudsman Dmytro Lubinets, who previously participated in the ceasefire in Oleshky . 📌 As practice has shown, such initiatives have so far been the only place where common ground can be found. Therefore, we won't be surprised if further \"negotiation track on the ground\" moves toward such actions as in Oleshky. However, everything could come down to so-called Ukraine's unwillingness to release the population in controlled territories. This concerns not only the Slavyansk-Kramatorsk urban area, but also other frontline regions. Although even here, the negotiating capacity of Kyiv authorities, oddly enough, depends on successful systemic pressure on their economy within the framework of the \" war on cities \". As recent events have shown, the more effective it is, the more compliant they become in Brussels and Kyiv. #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/rybar_in_english/36023"
+      ],
+      "event_signals": [
+        "kyiv",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234766",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234766",
+      "published_at": "2026-11-26T11:33:44+00:00",
+      "text": "В Москве арестован заместитель главкома ВКС генерал-полковник Юрий Грехов. Отвечал за вооружения ВКС РФ. В СМИ заявляют, что приняли за преступления коррупционного характера, но пока без подробностей. Делом занимается СК РФ. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407743",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407743",
+      "published_at": "2026-11-26T11:32:01+00:00",
+      "text": "Глава Роскосмоса и директор управления ООН по вопросам космического пространства обсудили деятельность государств на Луне и равный доступ к данными дистанционного зондирования Земли, сообщает Роскосмос. Во время встречи были намечены перспективы участия РФ в мероприятиях ООН по космосу, отметил Баканов. Фото: Официальный канал Роскосмоса в \"Максе\" ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350488",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350488",
+      "published_at": "2026-11-26T11:28:51+00:00",
+      "text": "Крым и Севастополь обесточены из-за аварии в энергосистеме. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78244",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78244",
+      "published_at": "2026-11-26T11:26:29+00:00",
+      "text": "По Крещатику и Майдану таскают гроб с гражданином США, которого откопали в Камышевахе Запорожской области. Наверное, в колледже преподавал или гуманитарную в подвале раздавал. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407742",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407742",
+      "published_at": "2026-11-26T11:25:02+00:00",
+      "text": "Крым обесточен из-за аварий за пределами полуострова. Энергетики восстанавливают электроснабжение, сообщает госпредприятие \"Крымэнерго\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407741",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407741",
+      "published_at": "2026-11-26T11:22:01+00:00",
+      "text": "Экс-главу Минцифры Смоленской области Андрея Рудометкина обвиняют в мошенничестве на 11 млн рублей при заключении госконтрактов, сообщили ТАСС в СК.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234765",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234765",
+      "published_at": "2026-11-26T11:21:01+00:00",
+      "text": "Чибис улетел досрочно. Путин своим указом снял Чибиса с поста губернатора Мурманской области. Ранее он был арестован на 2 месяца по обвинению в хищениях и растрате. Себя Чибис считает невиновным и эту невиновность собирается доказывать в суде. Но есть мнение, что с такими делами он сядет. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78243",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78243",
+      "published_at": "2026-11-26T11:20:51+00:00",
+      "text": "Бандеровский гауляйтер Харькова Терехов сообщил о прилете по Харьковскому авиационному института (ХАИ) и объекту энергетики. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78242",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78242",
+      "published_at": "2026-11-26T11:18:59+00:00",
+      "text": "Ночью ВС РФ ночью нанесли комбинированные удары по объектам в 9-ти областях Украины. В Киеве — не менее восьми баллистических ракет поразили промышленное предприятие (ОАО «Химволокно»), производящее компоненты для боевых частей БпЛА, и предприятие «Оаклайн»…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234767"
+      ]
+    },
+    {
+      "id": "tass_agency/407740",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407740",
+      "published_at": "2026-11-26T11:18:01+00:00",
+      "text": "Пенсии в следующем году будут расти быстрее, чем в этом году , благодаря двойной индексации, которая составит 6,8 и 3,3%, сообщили в Соцфонде. Там заявили, что размер индексации пенсии в годовом выражении сопоставим с 13-й пенсией. Выплаты в среднем увеличатся на 2,4 тыс. рублей в месяц и составят 30,2 тыс. рублей. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350487",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350487",
+      "published_at": "2026-11-26T11:15:48+00:00",
+      "text": "Мужчина пытался вылечить рану подорожником и чуть не умер – его спасли подмосковные врачи. За пару дней до этого он на рыбалке зацепил ладонью крючок. Рану промыл, подорожник приложил. Но после началась сильная боль в кисти и предплечье, кожа посинела, температура поднялась, выступил гной. В итоге мужчину на \"скорой\" доставили в больницу – там у него выявили тяжелую инфекцию с омертвением тканей. Пациента прооперировали. Теперь мужчине нужна пересадка кожи. Врачи напоминают - самолечение не заменяет антибиотиков и работу хирургов. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199357",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199357",
+      "published_at": "2026-11-26T11:15:11+00:00",
+      "text": "🇷🇺 🇺🇦 Ukrainian militants attacked civilians during an evacuation from Konstantinovka. ‘The Ukrainian side has no intention of letting us evacuate civilians. They are doing everything they can to stop us,’ say Russian fighters. Two civilians were injured in the AFU attack. Russian soldiers carried them to safety on stretchers and then evacuated them. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117494",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117494",
+      "published_at": "2026-11-26T11:14:01+00:00",
+      "text": "Вейпы в ЛНР под запретом! Пока на 5 лет. «В ЛНР на пять лет запретят продажу вейпов. Закон, устанавливающий ограничение на розничную продажу электронных систем доставки никотина и жидкостей для таких систем, был принят Народным Советом на очередном заседании», — проинформировала пресс-служба парламента республики. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407739",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407739",
+      "published_at": "2026-11-26T11:12:01+00:00",
+      "text": "Выборы президента Сербии пройдут 27 декабря, заявил исполняющий обязанности главы государства Чупич.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234764",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234764",
+      "published_at": "2026-11-26T11:10:01+00:00",
+      "text": "В связи с аварией на энергообъектах за пределами нашего региона Севастополь остался без напряжения Энергетики рекомендуют выключить приборы из сети. Специалисты принимают все необходимые меры, чтобы скорее восстановить работу системы.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407738",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407738",
+      "published_at": "2026-11-26T11:06:01+00:00",
+      "text": "Премьер-министр Грузии Кобахидзе выступил за проведение переговоров между спецпредставителем по вопросам отношений с РФ Зурабашвили и замглавы МИД РФ Галузиным в Москве и Тбилиси, но встречи должны устраиваться поочередно.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38649",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38649",
+      "published_at": "2026-11-26T11:04:51+00:00",
+      "text": "Замглавкома ВКС России по вооружению отправили под арест 235-й гарнизонный военный суд Москвы отправил под стражу на два месяца заместителя главнокомандующего Воздушно-космическими силами по вооружению генерал-полковника Юрия Грехова, сообщают СМИ. По данным ряда изданий, его подозревают в получении взятки в особо крупном размере (ч. 6 ст. 290 УК). Он отвечал за оснащение военной авиации вооружением и техникой. Грехов служит в армии с 1979 года. За это время он занимал руководящие должности в войсках ПВО, а в 2021 году стал заместителем главкома ВКС по вооружению. Тогда же ему присвоили звание генерал-полковника. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234761",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234761",
+      "published_at": "2026-11-26T11:04:01+00:00",
+      "text": "После ночных ударов в значительной степени был обесточен Кривой Рог. Противник жалуется, что удары по подстанциям сокращают возможности маневра энергетической системы и грозят распадом единой энергосистемы на острова. И это пока еще ноябрь. В Европе это понимают, поэтому продолжают выпрашивать у России \"энергетическое перемирие\",",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117493",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117493",
+      "published_at": "2026-11-26T11:03:23+00:00",
+      "text": "ПВО России сбила 872 украинских дрона за сутки, сообщили в Минобороны РФ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102567",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102567",
+      "published_at": "2026-11-26T11:02:56+00:00",
+      "text": "🚩 НАТО напрямую интегрирует систему управления украинскими войсками 🇩🇪 🇺🇦 Министры обороны Украины и Германии подписали «декларацию о намерениях» о совместном развитии, внедрении и использовании системы ситуационной осведомлённости DELTA . Германия ( ⚡️ по крайней мере официально) станет первой страной, получившей доступ к системе в рамках инициативы DELTA Lab. 🇳🇴 Кроме того, достигнута договорённость с Норвегией об испытаниях DELTA вооружёнными силами. DELTA – это цифровая защищенная система ситуационной осведомлённости и управления боевыми действиями, которая в реальном времени аккумулирует и обрабатывает разведывательные данные о противнике и своих силах, и позволяет давать целеуказания на поражение/совершения манёвра . Основное достижение в ходе нынешнего конфликта – сокращение времени на поражение цели до 3 минут от выявления. Система используется на всех уровнях от батальона до корпуса и выше. По заявлению, Бундесвер сможет адаптировать систему под свои нужды, участвовать в разработке новых функций и совместно её развивать. Якобы немецкие военные не получат прямой доступ к украинские боевым/оперативные данные ( ⚡️ во что естественно никто не верит ). Показательно, что октябре 2026 Бундесвер уже тестировал DELTA на многонациональных учениях по применению дронов (с участием украинских инструкторов и европейских стран), а в 🇵🇹 Португалии во время военно-морских учений REPMUS система продемонстрировала способность передачи данных по стандарту НАТО STANAG 4817, который определяет порядок обмена данными о командовании, управлении и телеметрии между беспилотным системами в рамках Альянса. ✨ Фактически немецкие, а затем и другие заинтересованные в войне с Россией страны ЕвроНАТО, интегрируют свои органы управления и поражения с системой ВСУ , что позволит им как минимум размещать на Украине отряды операторов БПЛА со своими вооружениями, а в последствии проводить совместные операции против российских войск . ✨ ⭐️ Сам по себе такой сценарий закладывался ещё в далёком 2016 году , когда Пентагон передал Украине первую экспериментальную лайт-версию DELTA для внедрения в войска и создания системы надводной обстановки в Чёрном и Азовском морях. Естественно она изначально создавалась под принцип интероперабельности между странами НАТО . Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407737",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407737",
+      "published_at": "2026-11-26T11:01:47+00:00",
+      "text": "Главное из нового брифинга Минобороны России: ▪️ Суточные потери украинских подразделений в зоне СВО составили порядка 1 110 военнослужащих; ▪️ ВС РФ поразили за сутки места производства, хранения беспилотников и наземных робототехнических комплексов ВСУ; ▪️ Средства ПВО РФ сбили за сутки 4 управляемые авиабомбы JDAM, 2 управляемые ракеты большой дальности \"Нептун\" и 872 БПЛА самолетного типа. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350486",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350486",
+      "published_at": "2026-11-26T11:01:21+00:00",
+      "text": "ПВО России сбила 872 украинских дрона за сутки. О потерях ВСУ – в нашей инфографике. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
