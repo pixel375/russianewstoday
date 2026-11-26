@@ -1,0 +1,653 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-26T09",
+  "generated_at_utc": "2026-11-26T10:09:21.378575+00:00",
+  "window_start_utc": "2026-11-26T09:00:00+00:00",
+  "window_end_utc": "2026-11-26T10:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 15
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 40,
+    "relevant_posts": 16,
+    "editorial_pool_posts": 40,
+    "retained_without_keyword_match": 24,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 40,
+    "candidate_posts": 40
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407724",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407724",
+      "published_at": "2026-11-26T09:56:01+00:00",
+      "text": "🗣 Главное из заявлений Пескова: ▪️ Решение провести прямую линию раньше связано с достаточно напряженным рабочим графиком у президента в декабре; ▪️ ИИ помог сделать безграничным количество станций, которые принимают обращения граждан на прямую линию в этом году; ▪️ Общение Путина и Токаева вчера вечером в Кремле было очень плодотворным; ▪️ У Путина деловые, прагматичные и даже дружеские отношения с Трампом, это помогает им обсуждать самые сложные проблемы; ▪️ ЕС, обсуждая бюджет, планирует выделить крупную сумму на войну, не на мир; ▪️ У граждан европейских стран после выделения средств Украине просто будет меньше денег; ▪️ Поощряемый деньгами киевский режим менее склонен к миру и более настроен на войну; ▪️ Конфликт на Украине наносит ущерб гражданам в ЕС, ведь вместо ремонта школ и больниц деньги уходят на снаряды; ▪️ Трамп, говоря, что РФ не должна допустить расширения конфликта, видимо, имел в виду действия Киева по расширению географии военных действий; ▪️ Действия Киева по расширению географии конфликта потенциально очень опасны, этого никто бы не хотел; ▪️ Путин и Токаев сегодня выступят на конференции \"Сбера\" AI Journey. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407723",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407723",
+      "published_at": "2026-11-26T09:54:24+00:00",
+      "text": "❗️ Песков заявил, что не располагает информацией об аресте заместителя главнокомандующего ВКС по вооружению генерал-полковника Юрия Грехова.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350483",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350483",
+      "published_at": "2026-11-26T09:50:07+00:00",
+      "text": "С Джигана взыскали долг по алиментам в 1,7 миллиона рублей. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407722",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407722",
+      "published_at": "2026-11-26T09:48:22+00:00",
+      "text": "❗️ Спецслужбы РФ и Украины работают над списками для обмена пленными, работа может быть скоро завершена, заявил Песков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407721",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407721",
+      "published_at": "2026-11-26T09:46:37+00:00",
+      "text": "❗️ Террористическая активность Киева в Средиземном море, на Балтике не может не вызывать озабоченность прибрежных государств и НАТО, заявил Песков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407720",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407720",
+      "published_at": "2026-11-26T09:46:00+00:00",
+      "text": "❗️ Выделение дополнительных денег ЕС Украине не очень хорошо для мирного процесса, заявил Песков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407719",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407719",
+      "published_at": "2026-11-26T09:45:40+00:00",
+      "text": "❗️ Путин пока не принял решение о своем участии в саммите G20 в Майами, заявил Песков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350482",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350482",
+      "published_at": "2026-11-26T09:45:28+00:00",
+      "text": "Евросоюз, обсуждая расходы на поддержку Украины, собирается выделить очередную крупную сумму денег на войну, а не на мир, заявил Песков. Другие тезисы: 🔹 Террористическая активность Киева в Средиземном море, на Балтике не может не вызывать озабоченность прибрежных стран, в том числе в НАТО. 🔹 Киев, подстрекаемый Европой, менее склонен к мирному процессу и больше настроен на продолжение войны в ущерб интересам граждан Украины и ЕС. 🔹 Путин еще не принял решение о поездке в США на саммит \"Двадцатки\". 🔹 У Путина и Трампа деловые, прагматичные и дружеские отношения, это помогает им обсуждать самые сложные проблемы. 🔹 Переговоры Путина и Токаева, начавшиеся в среду вечером, завершились далеко за полночь. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117487",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117487",
+      "published_at": "2026-11-26T09:45:28+00:00",
+      "text": "Следователи установили причастность бывшего начальника Генштаба ВСУ Сергея Корнийчука к применению запрещенных методов войны, сообщили в пресс-службе СК РФ. В ведомстве пояснили, что с 2014 года он участвовал в карательных военизированных операциях на территории Донбасса, а впоследствии уже как начальник Генштаба планировал их проведение. Его преступные действия повлекли массовую гибель и ранения мирных жителей ДНР и ЛНР. Корнийчуку заочно предъявлено обвинение, он объявлен в международный розыск. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102555",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102555",
+      "published_at": "2026-11-26T09:44:56+00:00",
+      "text": "10 декабря в 12:00 по московскому времени в эфир выйдет программа «Итоги года с Владимиром Путиным» Глава государства в прямом эфире подведёт итоги уходящего года и ответит на вопросы журналистов и жителей нашей страны. Каждый может задать вопрос через сайт…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78238",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78238",
+      "published_at": "2026-11-26T09:43:10+00:00",
+      "text": "Ночью ВС РФ ночью нанесли комбинированные удары по объектам в 9-ти областях Украины. В Киеве — не менее восьми баллистических ракет поразили промышленное предприятие (ОАО «Химволокно»), производящее компоненты для боевых частей БпЛА, и предприятие «Оаклайн» по производству и хранению БпЛА для компании «Файер Пойнт». Мониторинговые каналы зафиксировали пожар в районе предприятия ОАО «Киевхимволокно» (ВАТ «Київхімволокно») в Днепровском районе Киева. В черноморской акватории юго-восточнее Одессы, БпЛА ВС РФ поразили сухогруз, доставлявший противнику военное имущество. Зафиксированы удары БпЛА в Верхнеднепровске Днепропетровской обл. В Харькове поврежден дворец спорта «Локомотив». Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102551",
+        "https://t.me/tass_agency/407710"
+      ]
+    },
+    {
+      "id": "dva_majors/102554",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102554",
+      "published_at": "2026-11-26T09:42:24+00:00",
+      "text": "10 декабря в 12:00 по московскому времени в эфир выйдет программа «Итоги года с Владимиром Путиным» Глава государства в прямом эфире подведёт итоги уходящего года и ответит на вопросы журналистов и жителей нашей страны. Каждый может задать вопрос через сайт программы moskva-putinu.ru ( москва-путину.рф ), СМС или ММС сообщения на номер 0-40-40 и по телефону 8-800-200-40-40 (звонок бесплатный). Для звонков из-за рубежа выделены специальные номера +7-495-539-40-40 и +7-499-550-40-40. Вопросы будут также приниматься через специальное мобильное приложение (подробнее о нём можно узнать на сайте программы). Текстовые и видеовопросы Президенту могут быть также отправлены через социальные сети «ВКонтакте» и «Одноклассники» . Можно воспользоваться и чат-ботом в мессенджере МАХ – max.ru/moskvaputinu . Приём вопросов будет осуществляться с 00:00 мск 27 ноября и вплоть до окончания программы 10 декабря.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234749",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234749",
+      "published_at": "2026-11-26T09:41:02+00:00",
+      "text": "Актуализация на Очеретинском участке. Данные: @z_arhiv",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407718",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407718",
+      "published_at": "2026-11-26T09:41:01+00:00",
+      "text": "Применение ИИ повышает выявляемость патологий молочной железы практически вдвое, рассказал Михаил Мурашко в интервью \"Вестям\". Кроме того, ИИ помогает создавать препараты для лечения рака. Министр здравоохранения подчеркнул, что Россия входит в пятерку мировых лидеров по развитию ИИ в медицине. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53571",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53571",
+      "published_at": "2026-11-26T09:39:29+00:00",
+      "text": "❗️ The UK Ministry of Defence has reportedly offered around 100,000 former military personnel the opportunity to prepare for a potential call-up in the event of war, according to The Telegraph. The publication reports that this is the first time such letters have been sent since the Cold War. Recipients have been invited to voluntarily participate in training exercises. \"These letters do not mean that reservists are about to be mobilized. It's simply a matter of ensuring we have up-to-date contact information for those who might be called up, and that we have accurate information about their skills and experience,\" explained Minister for Veterans Affairs, Calvin Bailey. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102553",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102553",
+      "published_at": "2026-11-26T09:36:22+00:00",
+      "text": "Суд изъял у первого вице-губернатора Кубани имущество на ₽970 млн Суд в Краснодаре изъял в доход государства по иску Генпрокуратуры имущество первого вице-губернатора Краснодарского края Игоря Галася и его родственников более чем на 970 млн руб. По данным Генпрокуратуры, за более чем 18 лет Галась, его родственники и доверенные лица приобрели права на 63 объекта движимого и недвижимого имущества общей рыночной стоимостью более 970 млн руб. Часть активов к моменту подачи иска уже была отчуждена, а полученные средства, по версии ведомства, обращены в пользу Галася и близких ему лиц По данным прокуратуры, Галась, его родственники и доверенные лица получили в собственность недвижимость в Москве, Краснодаре, Геленджике, станице Каневской и Ростове-на-Дону с указанной ценой общей стоимостью порядка 243 млн руб. Пять автомобилей суммарной стоимостью 39,29 млн руб. ✨ В апреле Ленинский районный суд Краснодара обратил в доход государства имущество другого заместителя губернатора края Вениамина Кондратьева — Андрея Коробки и связанных с ним лиц общей стоимостью свыше 10 млрд руб. Снова замы подставляют начальство. Ай-ай-ай. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350481",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350481",
+      "published_at": "2026-11-26T09:35:20+00:00",
+      "text": "Подъем заболеваемости гриппом идет в России, заявил Мурашко. \"Поэтому надо сейчас там, где можно, маски применять, антисептики вернуть\", - сказал министр. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407717",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407717",
+      "published_at": "2026-11-26T09:34:01+00:00",
+      "text": "📃 Продажу вейпов в Псковской области ограничат с 1 марта 2027 года по 1 марта 2032 года, сообщила пресс-служба регионального парламента. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33653",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33653",
+      "published_at": "2026-11-26T09:33:54+00:00",
+      "text": "🇷🇺 Security Council of the Russian Federation : 🎙 Comment to the media by Secretary of the Russian Security Council Sergey Shoigu regarding Mark Rutte’s statements (November 26, 2026) 💬 We have taken note of the recent statement by NATO Secretary General Mark Rutte , in which he compared the alliance’s estimates of Russia’s casualties over the course of the special military operation – figures plucked out of thin air – with US casualties over 14 years of the Vietnam War . 👉 Yet the NATO chief, for some reason, sheepishly omitted the fact that the conflict instigated by the US claimed the lives of an estimated 3.4 million Vietnamese, more than 2 million of whom were civilians . Around 400,000 people were killed in neighbouring Laos and Cambodia . Apparently, this representative of Europe’s \"blooming garden\" does not regard the people of these countries as human beings . The scale of the aggression is also evidenced by the fact that the Americans dropped some 7.5 million tonnes of bombs on the countries of the region – more than the total tonnage dropped by all sides during World War II. And that is not to mention the US use of the highly toxic substance Agent Orange , which affected between 2 and 5 million people . The people of the region continue to suffer the consequences of these chemical attacks to this day. However, Vietnam is not the only example of Mark Rutte’s \"double standards\" . One need only recall Afghanistan, where more than 200,000 people fell victim to two decades of Western occupation . ☝️ Manipulating figures, however, has long been a favourite tool of the West. It is precisely by touting the mythical \"successes\" of Ukrainian neo-Nazis that Western countries seek to demonstrate the \"effectiveness\" of their blood-soaked investments in prolonging the conflict. ❗️ Yet no amount of money poured into the Kiev junta will save it. The objectives of the special military operation will be achieved.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407716",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407716",
+      "published_at": "2026-11-26T09:29:44+00:00",
+      "text": "⚖️ Суд в Томске взыскал с экс-владельца \"КДВ групп\" Штенгелова 5,44 млрд рублей, передает корреспондент ТАСС. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117486",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117486",
+      "published_at": "2026-11-26T09:27:01+00:00",
+      "text": "У ченые предлагают развивать в ДНР химическую промышленность, опираясь на довоенный опыт «Целевой ориентир восемьдесят миллиардов рублей ранее был в регионе и сейчас его по силам добиться. Весь рынок химической промышленности в России составляет восемь триллионов рублей, а порядка трети – это импортная продукция», - рассказал директор Донецкого института экономических исследований Алексей Половян. ✔️ По его мнению, в Донбассе есть необходимые сырье и отработанные технологии. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199352",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199352",
+      "published_at": "2026-11-26T09:26:43+00:00",
+      "text": "🇷🇺 🇺🇸 🇺🇦 Mr Botox is back, reading from the usual script and he’s angry. Apparently, Russia bombs children’s cancer hospitals, orphanages and even puppy sanctuaries. And then comes the familiar accusation that Russia bans Ukrainians from speaking Ukrainian. But here’s the irony: Ukraine has introduced fines for businesses and public-facing service providers that fail to use Ukrainian under its language laws. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407715",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407715",
+      "published_at": "2026-11-26T09:26:01+00:00",
+      "text": "Трамп и Рютте на встрече в Мар-а-Лаго обсудили урегулирование конфликта на Украине и предотвращение его разрастания. Также поднимались вопросы иранского конфликта и увеличения военных расходов НАТО, следует из заявления Белого дома. Американский лидер и генсек НАТО охарактеризовали встречу как \"очень плодотворную\" и \"превосходную\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407714",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407714",
+      "published_at": "2026-11-26T09:21:03+00:00",
+      "text": "Менее 1% деклараций украинских чиновников за 2026 год составлено без нарушений. Это следует из подсчетов ТАСС на основе данных Национального агентства по предотвращению коррупции. В 429 документах обнаружены признаки внесения недостоверных сведений о доходах на общую сумму $67,7 млн, в 11 выявлено владение необоснованными активами на сумму свыше $1,08 млн, в 12 — признаки незаконного обогащения на более $9,4 млн.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30790",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30790",
+      "published_at": "2026-11-26T09:20:01+00:00",
+      "text": "Deadly Grad-borne hail on AFU positions ⚔️ The Zapad Group's artillerymen wiped out UAV control posts and manpower of the enemy in Krasny Liman direction. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234748",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234748",
+      "published_at": "2026-11-26T09:19:29+00:00",
+      "text": "В Сочи предотвращен теракт. Мошенники с Украины подписали на теракт женщину, но та вовремя одумалась и сообщила в ФСБ. В результате чего СВУ обезвредили, а теракт предотвратили. Как пишут, возможно данная дама сможет избежать уголовки, потому что успела включить мозг. Видео ТАСС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102552",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102552",
+      "published_at": "2026-11-26T09:17:44+00:00",
+      "text": "Замглавкома ВКС России по вооружению генерал-полковник Юрий Грехов арестован , следует из картотеки 235-го гарнизонного военного суда, - Ведомости. Ходатайство Главного военного следственного управления СК рассмотрели 25 ноября. Грехов находится на военной службе с 1979 г. В 2007-2009 гг. он исполнял обязанности начальника штаба – заместителя командира дивизии ПВО Командования специального назначения. В 2013 г. был назначен начальником штаба – первым заместителем командующего войсками противовоздушной и противоракетной обороны. ✨ Ох уж эти замы. А если серьёзно, то к организации работы ПВО ( не путать с пулеметными тачанками ополчения БАРСов ) вопросов накопилось через край. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78237",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78237",
+      "published_at": "2026-11-26T09:15:32+00:00",
+      "text": "Последний бой Андрея Левашова Вячеслав Кот – ветеран Народного ополчения Донбасса и СВО – о гибели в бою героического танкового экипажа Андрея Левашова легендарной 100-й танковой бригады ДНР. Мехвод и наводчик погибли в танке от кумулятивной струи. Командир, пораженный осколками в грудь и сердце, фактически уже убитый, нашел силы покинуть машину и с автоматом в руках пошел навстречу врагу. Пехота пыталась его спасти, но было поздно. Танкисты – герои Русского Донбасса. Царствие Небесное! Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407713",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407713",
+      "published_at": "2026-11-26T09:15:01+00:00",
+      "text": "▶️ Взрыв произошел на нефтехранилище компании Bangchak в Бангкоке, сообщили в районной администрации. Предварительно, пострадавших нет, ситуацию взяли под контроль. Жителям в окрестностях нефтехранилища рекомендуется немедленно эвакуироваться. Видео: Игорь Броварник/ТАСС/Thai Enquirer/Х ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407712",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407712",
+      "published_at": "2026-11-26T09:11:01+00:00",
+      "text": "СК РФ установил причастность экс-начальника Генштаба ВСУ Корнийчука к применению запрещенных методов войны, сообщили ТАСС в ведомстве. С 2014 года он участвовал в карательных военизированных операциях на территории Донбасса. Его действия повлекли массовую гибель и ранения мирных жителей ДНР и ЛНР. Корнийчуку заочно предъявлено обвинение, он объявлен в международный розыск.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102551",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102551",
+      "published_at": "2026-11-26T09:08:26+00:00",
+      "text": "Балицкий, Запорожская область: Ещё одна циничная атака киевских террористов против гражданской инфраструктуры Запорожской области — в районе села Бановка Приморского муниципального округа атаке БпЛА подвергся рейсовый автобус Приморск — Радоловка, который выходил на маршрут. В момент атаки пассажиров в автобусе ещё не было, пострадал водитель, ему оказывается вся необходимая медицинская помощь. Кроме того, в результате атаки БпЛА противника по автомобильной стоянке в пгт Весёлое погибли пять человек, три человека получили ранения. ✨ Потому что в свое время надо было не про \"взятие трассы под контроль\" рапортовать, а просить помощи и организовывать свои БАРСы. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/78238",
+        "https://t.me/tass_agency/407710"
+      ]
+    },
+    {
+      "id": "donbassr/117485",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117485",
+      "published_at": "2026-11-26T09:08:01+00:00",
+      "text": "В ЛНР программа по социальной адаптации в кадровых центрах только с начала года помогла трудоустроиться 135 жителям республики «Этот показатель в два раза превышает результаты аналогичного периода прошлого года, что говорит о высокой эффективности внедряемых механизмов и стабилизации рынка труда в новых субъектах», — сообщила пресс-служба республиканского центра занятости населения. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199350",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199350",
+      "published_at": "2026-11-26T09:05:52+00:00",
+      "text": "🇷🇺 🇺🇦 who’s going to tell her ? 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38646",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38646",
+      "published_at": "2026-11-26T09:04:01+00:00",
+      "text": "Агенты СБУ пытались убить военнослужащего руками пенсионерки В Сочи силовики обезвредили взрывное устройство, при помощи которого украинские спецслужбы планировали подорвать военнослужащего ВС РФ, об этом сообщили в Центре общественных связей ФСБ. По данным спецслужбы, пенсионерка, которую обманули агенты СБУ, должна была заложить взрывчатку под автомобиль участника СВО. Летом женщина уже стала жертвой мошенников и потеряла крупную сумму денег. Впоследствии представители украинских спецслужб воспользовались её положением и пообещали вернуть похищенные средства. Взамен пенсионерке поручили забрать из тайника якобы устройство для слежения и разместить его под автомобилем участника СВО. Действуя по их указаниям, женщина забрала замаскированную взрывчатку из тайника и принесла к себе домой. Но муж убедил её позвонить в полицию и сообщить о своих контактах с «псевдосотрудниками» и неизвестном устройстве, находящемся в ее квартире. Прибывшие на место взрывотехники ФСБ обнаружили вместо «прибора для слежки» самодельное взрывное устройство массой 2 кг. Бомбу обезвредили. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407711",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407711",
+      "published_at": "2026-11-26T09:04:01+00:00",
+      "text": "❗️ Совмещенная прямая линия и большая пресс-конференция Путина пройдет 10 декабря, сообщили в Кремле. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36021",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36021",
+      "published_at": "2026-11-26T09:03:23+00:00",
+      "text": "📝 Spy Pigeons 📝 Biodromes are not just about disposable terrorist operatives: today experiments are underway to implant chips in birds for use as reconnaissance assets. And Russia has had success here. The company Neiry began accepting orders for aerial photography using pigeons with biocompatible electrodes, thanks to which the bird without training \"understands\" commands and flies in the desired direction. The flight duration record is 10 hours with a maximum range of 100 km. Thanks to the neurointerface, you can \"load\" a flight mission into the pigeon, and it can fly anywhere: the bird doesn't need a battery change, and electronic warfare doesn't affect them. 📌 Needless to say what opportunities this opens for reconnaissance. And primarily not frontline, but intelligence — in terms of photographing closed facilities or events in third countries. Unlike the \"Mavic,\" birds don't attract attention. How this will be used is another question. And in any case, one must understand that the same technologies will appear with the CIA and allied structures (if they haven't already). #UAV #Russia #technology #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407710",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407710",
+      "published_at": "2026-11-26T09:01:01+00:00",
+      "text": "Главные новости к этому часу: ▪️ Совмещенная прямая линия и большая пресс-конференция Путина пройдет 10 декабря. ▪️ ВС РФ нанесли массированный удар по объектам ВПК в Киеве. ТАСС собрал основное о пораженных целях. ▪️ Пострадавшие в Невинномысске и 343 БПЛА. Подробнее о последствиях атак — в материале ТАСС. ▪️ ФСБ не допустила теракт против российского военного в Сочи. ▪️ Глава Минздрава Мурманской области Панычев будет исполнять обязанности губернатора. ▪️ В ответ на приглашение приехать в Москву европейцы \"отзываются, но пока ясности это не вносит\", сообщил Песков журналисту \"Вестей\" Зарубину. ТАСС собрал ключевые заявления представителя Кремля. ▪️ Шойгу указал на \"манипуляции с цифрами\" генсека НАТО. ▪️ После взрыва газа в доме на Алтае число погибших выросло до двух. ▪️ Европа рекордно отбирает газ из хранилищ, израсходовав уже более 15% от закачанных летом объемов. Об этом свидетельствуют подсчеты ТАСС на основе данных GIE. ▪️ С экс-владельца бренда \"Кириешки\" взыскали 5,44 млрд рублей. ▪️ \"Аэрофлот\" с 1 декабря открывает продажу билетов по субсидированным тарифам. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/78238",
+        "https://t.me/dva_majors/102551"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234746",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234746",
+      "published_at": "2026-11-26T09:00:56+00:00",
+      "text": "Colonelcassad pinned a video",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234741",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234741",
+      "published_at": "2026-11-26T09:00:33+00:00",
+      "text": "❗️ ❗️ ❗️ ФОНД ПОМОЩИ СВО МОО \"Вече\" продолжает сбор помощи на подразделения, ведущие активные боевые действия на земле в зоне проведения СВО. Сейчас в приоритете Днепропетровское и Сумское направление. Как всегда, требуются БПЛА, обнаружители, средства РЭБ, тактическая медицина и экипировка. Даже скромное пожертвование от каждого из нас позволит обеспечить потребности сбора. Выражаем искреннюю благодарность подписчикам каналов « ColonelCassad » и МОО « Вече », а также всем, кто поддерживает нашу работу не только рублём, но и репостом Помочь Специальной Военной Операции может каждый! 🔻 РЕКВИЗИТЫ ДЛЯ ОКАЗАНИЯ ПОМОЩИ ВОИНАМ: 📄 Расчетный счет МОО «ВЕЧЕ» Скачать Квитанцию | Код QR 💳 +79037001243 | СБП | (Владимир О.) 💸 4276380166806872 | СБЕР 🔹 41001552182739 | ЮMoney 💳 Перевод по любой карте и СБП https://pay.cloudtips.ru/p/636c0868 По вопросам помощи переводами криптовалютой 💸 BTC ; 💸 ETH ; ⬜ USDT , TRX (TRC20); 🔸 XMR (Monero), и другими, пишите в бот, предоставим одноразовый токен. Для предметной помощи пишите в бот: @veche_feedback_bot . Почта: post@veche-info.ru Отчеты : https://veche-info.ru/reports/ МОО «ВЕЧЕ» | Склад в Москве | Канал @MOOVeche | Сайт",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350480",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350480",
+      "published_at": "2026-11-26T09:00:09+00:00",
+      "text": "\"Почему нам кажется, что телефон нас подслушивает?\" Сначала обсуждаешь с коллегой отпуск, а спустя пару часов видишь рекламу авиабилетов – в МВД объяснили , почему такие сюжеты – не криминал, а механизм работы персонализированной рекламы. Портрет пользователя формируется из: 🔹 Истории поисковых запросов и посещённых сайтов. 🔹 Геолокации и сведений о посещаемых местах. 🔹 Взаимодействия с публикациями, видеороликами и рекламными объявлениями. 🔹 Истории покупок и активности в приложениях. 🔹 Сходства интересов и поведения с другими пользователями. В итоге ощущение, что \"нас подслушивают\", появляется из-за двух факторов: Первый – люди видят такую рекламу, которая способна спрогнозировать потребности человека еще до того, как он сам начинает искать этот товар. Второй – психологический аспект, так называемая иллюзия частотности – после разговора на какую-то тему люди сами чаще начинают замечать связанную с ней информацию, которую раньше могли просто игнорировать. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
