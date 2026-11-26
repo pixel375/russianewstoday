@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    209
+  ],
+  "published_at_utc": "2026-11-26T00:29:03.210468+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-25T22",
+  "items": [
+    {
+      "item_id": "2026-11-25T22:1",
+      "title": "Fire reported at Kyiv shopping centre following strikes",
+      "summary": "Reports described a fire at Kyiv's Prospect shopping centre following renewed strikes on the Ukrainian capital. The cause and extent of damage have not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/209",
+      "category": "other",
+      "hour_id": "2026-11-25T22",
+      "source_handles": [
+        "ddgeopolitics",
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-25T22:2",
+      "title": "Further strikes reported in Kryvyi Rih and Kharkiv",
+      "summary": "A Russian military correspondent reported a fire following a strike in Kryvyi Rih and further strikes in Kharkiv. The reports have not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/209",
+      "category": "other",
+      "hour_id": "2026-11-25T22",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
