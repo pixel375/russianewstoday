@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-26T05",
-  "generated_at_utc": "2026-11-26T06:00:59.000475+00:00",
-  "window_start_utc": "2026-11-26T05:00:00+00:00",
-  "window_end_utc": "2026-11-26T06:00:00+00:00",
+  "hour_id": "2026-11-26T06",
+  "generated_at_utc": "2026-11-26T07:07:03.548853+00:00",
+  "window_start_utc": "2026-11-26T06:00:00+00:00",
+  "window_end_utc": "2026-11-26T07:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 4
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "MFARussia",
@@ -39,13 +39,13 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 14
+      "raw_count": 12
     },
     {
       "handle": "rian_ru",
@@ -63,19 +63,19 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "voenkorKotenok",
@@ -99,131 +99,40 @@
       "handle": "donbassr",
       "name": "Donbass Decides (Донбасс решает)",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 6
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 30,
-    "relevant_posts": 15,
-    "editorial_pool_posts": 30,
-    "retained_without_keyword_match": 14,
+    "raw_posts": 35,
+    "relevant_posts": 14,
+    "editorial_pool_posts": 35,
+    "retained_without_keyword_match": 20,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 29,
-    "candidate_posts": 29
+    "deduplicated_posts": 34,
+    "candidate_posts": 34
   },
   "posts": [
     {
-      "id": "rian_ru/350472",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350472",
-      "published_at": "2026-11-26T05:58:27+00:00",
-      "text": "❗️ Пять человек погибли, трое ранены при атаке БПЛА по автомобильной стоянке в Веселом Запорожской области. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407681",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407681",
-      "published_at": "2026-11-26T05:58:10+00:00",
-      "text": "🚨 Пять человек погибли и еще три ранены при атаке ВСУ на автостоянку в Веселом Запорожской области, сообщил Балицкий. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98628",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98628",
-      "published_at": "2026-11-26T05:55:30+00:00",
-      "text": "🇺🇦 🇵🇱 ⚡️ — A video has emerged showing a Ukrainian man setting himself on fire in front of the presidential palace in Warsaw. Media reports indicate that the man took this action to protest the treatment of Ukrainians in Poland. @Intelslava",
+      "id": "AussieCossack/53570",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53570",
+      "published_at": "2026-11-26T06:59:59+00:00",
+      "text": "❗️ A Ukrainian man was filmed setting himself on fire outside the Presidential Palace in Warsaw, Poland. According to media reports, the incident may have been linked to dissatisfaction with the treatment of Ukrainians in Poland, although the exact motive has not been officially confirmed. @AussieCossack",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407680",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407680",
-      "published_at": "2026-11-26T05:55:06+00:00",
-      "text": "🚨 В течение прошедшей ночи над регионами РФ перехвачены и уничтожены 343 украинских БПЛА, сообщили в МО.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407679",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407679",
-      "published_at": "2026-11-26T05:53:30+00:00",
-      "text": "Киев пытался использовать обманутую мошенниками женщину для теракта против военного в Сочи, рассказали в ФСБ. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117468",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117468",
-      "published_at": "2026-11-26T05:52:01+00:00",
-      "text": "По поступившей информации, в результате вчерашней атаки БПЛА в селе Красногоровка ранен местный житель 1981 г.р., сообщил глава Донецка Алексей Кулемзин Также вследствие атак киевского режима в пгт Великая Новоселка Великоновоселковского муниципального округа ранен мужчина 1973 г.р. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "drone",
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/DDGeopolitics/199330",
-        "https://t.me/donbassr/117465"
-      ]
-    },
-    {
-      "id": "dva_majors/102536",
+      "id": "dva_majors/102539",
       "channel": "dva_majors",
       "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102536",
-      "published_at": "2026-11-26T05:50:05+00:00",
-      "text": "▶ РЫБАРЬ ПОЯСНЯЕТ: ДАЛЬШЕ — ТОЛЬКО «СЕРАЯ ЗОНА». МОЖЕТ, ХВАТИТ? В новом выпуске «Рыбарь поясняет» разбираемся, почему наступательные действия сегодня ведутся преимущественно малыми группами, чем переход к обороне может быть выгоднее дальнейшего продвижения и почему заявления о сохранении инициативы всё сильнее расходятся с реальной обстановкой на фронте. Приятного просмотра! #пояснение #эфиры ✉ MAX 💸 Поддержать нас",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98627",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98627",
-      "published_at": "2026-11-26T05:50:02+00:00",
-      "text": "🇾🇪 🇸🇦 ⚡️ In response to the Saudi Arabian Air Force attacks, the Houthis launched a strike on the oil refinery in Ras Tanura . @Intelslava",
+      "url": "https://t.me/dva_majors/102539",
+      "published_at": "2026-11-26T06:59:02+00:00",
+      "text": "💬 Налет на Башкирию и Ставрополье 💬 Прошедшей ночью украинские формирования осуществили новую атаку на российские тыловые территории, и на этот раз целями стали Башкортостан и Ставропольский край. ▪️ В Башкирии под удар противника попала линейная производственно-диспетчерская станция «Субханкулово», которая обеспечивает перекачку нефти. В Ставропольском крае ВСУ атаковали Невинномысск. Конкретных данных нет, и что радует в ресурсах Украины нет такого обилия кадров, в отличие от других инцидентов. Сейчас украинские каналы говорят то ли об ударе по химическому заводу, то ли по Невинномысской ГРЭС. Также ВСУ атаковали Славянск-на-Кубани. ❗️ Атаки противника усиливаются в преддверии зимнего периода. Во многих регионах уже выпал снег, и ВСУ пытаются создать топливный дефицит по-новой, поэтому насыщение ПВО и усиление ударов по Украине (рациональных) – ключ к успеху. 🤙 Архангел Спецназа ! ❗️ 🤙 Если не грузит видео - смотрите у нас в MAX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -232,54 +141,67 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407678",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407678",
-      "published_at": "2026-11-26T05:48:46+00:00",
-      "text": "❗️ ФСБ обезвредила взрывное устройство, с помощью которого Киев планировал убийство военного в Сочи, сообщили в спецслужбе.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350471",
+      "id": "rian_ru/350475",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350471",
-      "published_at": "2026-11-26T05:48:15+00:00",
-      "text": "Убийство участника СВО предотвратили в Сочи, сообщили в ФСБ. Обманутая украинскими спецслужбами пенсионерка-исполнительница планировавшегося преступления вовремя обратилась к силовикам и поэтому избежит наказания. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/rian_ru/350475",
+      "published_at": "2026-11-26T06:53:53+00:00",
+      "text": "ВСУ атаковали мирных жителей, которых российские бойцы эвакуировали из Константиновки. Ранены пожилые женщина и мужчина, их донесли на носилках. Всего во время операции эвакуировали 16 человек, сообщило Минобороны. Еще 30, по данным российских бойцов, ждут эвакуации. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199335",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199335",
+      "published_at": "2026-11-26T06:53:18+00:00",
+      "text": "🇺🇦 Ukrainian media report that there's a big fire on the left bank of Kiev near the Darnitsa metro station. It's not clear if it's related to the strikes 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53569",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53569",
+      "published_at": "2026-11-26T06:50:46+00:00",
+      "text": "❗️ FSB Foils Terrorist Attack Against Russian Military Officer and His Family in Sochi. According to the agency, the attack on the participant in the special military operation was being planned by Ukrainian intelligence services. To carry out the crime, they attempted to involve a local pensioner, who had previously been deceived by scammers: the woman was promised the return of stolen money in exchange for her assistance in exposing an alleged \"traitor to the Motherland.\" She was instructed to retrieve a \"tracking device\" from a hiding place and attach it to the military officer's car. After taking the object, the pensioner spoke to her relatives and decided to contact law enforcement. FSB specialists neutralized the explosive device. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407693",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407693",
+      "published_at": "2026-11-26T06:46:01+00:00",
+      "text": "Европа с первыми холодами рекордно нарастила отбор газа из хранилищ. Об этом свидетельствуют подсчеты ТАСС на основе данных GIE. С начала отопительного сезона 28 октября европейские страны отобрали из хранилищ почти 9 млрд куб. м газа.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407677",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407677",
-      "published_at": "2026-11-26T05:47:34+00:00",
-      "text": "❗️ В Сочи сорвали планы Киева устроить теракт против российского военного и его семьи, сообщили в ФСБ.",
-      "text_truncated": false,
-      "related_urls": [
-        "https://t.me/tass_agency/407676"
-      ],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199331",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199331",
-      "published_at": "2026-11-26T05:46:58+00:00",
-      "text": "🇷🇺 The FSB announced that a planned terrorist attack against a Russian military officer and his family in Sochi has been thwarted. The FSB reported that Kiev attempted to use a woman who had been deceived by scammers to carry out a terrorist attack against a military official in Sochi. The woman avoided criminal charges because she promptly contacted law enforcement agencies, as clarified by the FSB. 🔴 @DDGeopolitics",
+      "id": "mod_russia_en/30787",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30787",
+      "published_at": "2026-11-26T06:45:16+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation carried out a massive strike using high‑precision ground‑based weapons and attack unmanned aerial vehicles. As a result of the strike, enterprises of Ukrainian defence industry have were hit in Kiev.…",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -289,106 +211,175 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199330",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199330",
-      "published_at": "2026-11-26T05:42:58+00:00",
-      "text": "🇷🇺 🔹 The Russian Ministry of Defense: Last night the Russian Armed Forces launched a massive strike with high-precision ground-based weapons and attack drones, hitting enterprises of the military-industrial complex in the city of Kiev. In addition, a vessel of the \"dry cargo\" type was hit in the Black Sea, southeast of Odessa, which was delivering military equipment and dual-use goods to Ukraine. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kyiv",
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/donbassr/117468",
-        "https://t.me/donbassr/117466",
-        "https://t.me/MFARussia/33644"
-      ]
-    },
-    {
-      "id": "tass_agency/407675",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407675",
-      "published_at": "2026-11-26T05:41:01+00:00",
-      "text": "🚨 Силы ПВО отражают атаку БПЛА на промзону Невинномысска. Есть сбитые цели, сообщил губернатор Ставрополья.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407674",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407674",
-      "published_at": "2026-11-26T05:36:02+00:00",
-      "text": "Суд Москвы наложил обеспечительный арест на имущество Штенгелова, а также его отца Николая общей стоимостью более 500 млрд рублей по иску ГП о признании их экстремистским объединением и изъятии их активов. Также им установили временные ограничения на выезд…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117467",
+      "id": "donbassr/117474",
       "channel": "donbassr",
       "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117467",
-      "published_at": "2026-11-26T05:34:01+00:00",
-      "text": "В Запорожской области расчеты самоходных артиллерийских установок «Гиацинт-С» группировки «Восток» уничтожают опорные пункты ВСУ. Донбасс решает в MАX",
+      "url": "https://t.me/donbassr/117474",
+      "published_at": "2026-11-26T06:44:01+00:00",
+      "text": "Расчеты ударных БПЛА группировки «Север» поразили объекты и живую силу ВСУ в Сумской области. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407692",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407692",
+      "published_at": "2026-11-26T06:41:01+00:00",
+      "text": "▶️ Бойцы Южной группировки эвакуировали 16 мирных жителей из Константиновки, сообщили в Минобороны. Видео: Галина Зверева/Игорь Романенков/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407689"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117473",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117473",
+      "published_at": "2026-11-26T06:40:25+00:00",
+      "text": "❗️ ВСУ продолжают атаковать территорию Белгородской области, за минувшие сутки при ударах погиб мирный житель, еще 14 человек получили ранения, в том числе годовалый ребенок , сообщил губернатор региона Александр Шуваев. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407691",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407691",
+      "published_at": "2026-11-26T06:38:47+00:00",
+      "text": "🚨 Четыре человека пострадали в результате атаки БПЛА в Славянском районе Кубани, двое из них госпитализированы, сообщает оперштаб.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102538",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102538",
+      "published_at": "2026-11-26T06:33:07+00:00",
+      "text": "Краснодарский край, оперштаб: Из-за атаки БПЛА в Славянском районе пострадали четыре человека Им оказывают всю необходимую медицинскую помощь. Двоих жителей госпитализировали. В Славянске-на-Кубани повреждены фасады и остекление квартир в четырех многоквартирных домах. Также обломки БПЛА упали в Калининском районе. В станице Старовеличковской на одной из улиц повреждены три частных дома – в них выбило окна. Пострадавших нет. Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407690",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407690",
+      "published_at": "2026-11-26T06:33:01+00:00",
+      "text": "Владельцы строительной техники начали получать компенсации за ущерб от военных рисков, сообщили в Минфине. Механизм компенсации действует на территориях ДНР, ЛНР, Запорожской и Херсонской областей, Крыма и Севастополя.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
         "zaporizhzhia"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407673",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407673",
-      "published_at": "2026-11-26T05:28:02+00:00",
-      "text": "⚖️ Десять объектов элитной недвижимости семьи Блиновской, включая двухэтажный дом в дачном поселке \"Миллениум парк\" под Истрой, перешли государству. Об этом сообщил ТАСС один из участников процесса о банкротстве осужденной. ✔ Подпишись на ТАСС в \"Максе\"",
+      "id": "boris_rozhin/234723",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234723",
+      "published_at": "2026-11-26T06:32:00+00:00",
+      "text": "⠀ 🔴 Свидетельства вернувшихся из плена о зверствах украинских неонацистов. Смотреть на Rutube Смотреть предыдущие свидетельства Наш Международный общественный трибунал по преступлениям украинских неонацистов (председатель — М. С. Григорьев ) из представителей гражданского общества 35 стран мира продолжает сбор свидетельств преступлений киевского режима. Российский военнослужащий с позывным \"Куприян\": 00:00 \"Меня били палками, применяли холодное оружие, хотели отрезать ухо. Это происходило во время допроса. 00:40 Так продолжалось примерно двое суток. Нас передавали от одной группы другой. Какой-то отрезок пути провезут, потом передают дальше, и при этих передачах снова избивали. 01:04 Мне отказали в медицинской помощи. Я был ранен, уже началось нагноение. Около недели я находился в Харьковском СИЗО, медицинской помощи мне не оказали. Потом неделю находился в Киевском СИЗО. Там ситуация была такой же. 01:43 После меня привезли в украинский концлагерь \"Запад-4″ во Львове. Я обратился к медику. Он сказал мне: \"Есть какая-то мазь. Давай я на тебе её попробую, потому что я даже не знаю, что это за мазь и от чего она\". На этом медицинская помощь закончилась\". Проект реализуется при поддержке Леонида Слуцкого, Бориса Рожина, Армена Гаспаряна, Олега Матвейчева, Дмитрия Пучкова, Игоря Коротченко, Сергея Котькало, Егора Холмогорова, Игоря Скурлатова, Александра Малькевича, Михаила Онуфриенко . Прошу сделать репост и распространять данную информацию — важно, чтобы и у нас, и за рубежом знали правду. #МеждународныйОбщественныйТрибунал #Донбасс #СВО #ОПРФ #ПреступленияКиевскогоРежима #ПреступленияВСУ #ЦентрИсторииСВО #Безсрокадавности #ХранитьВечно Подписаться на канал в МАХ Подписаться на канал в ТГ Подписаться на канал в Rutube",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199334",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199334",
+      "published_at": "2026-11-26T06:30:14+00:00",
+      "text": "🇱🇹 🇷🇺 Lithuania does not plan to close its border with Russia - Donatas Škarbonis, head of the republic's border service. \"At the moment, I think there is not yet a situation that would require closing border crossing points,\" he said on LRT. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117466",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117466",
-      "published_at": "2026-11-26T05:24:06+00:00",
-      "text": "Российские военные ночью нанесли массированный удар по предприятиям ВПК в Киеве, сообщает Минобороны РФ. Кроме того, в Черном море юго-восточнее Одессы атакован сухогруз, доставлявший на Украину военное имущество и грузы двойного назначения. Донбасс решает в MАX",
+      "id": "dva_majors/102537",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102537",
+      "published_at": "2026-11-26T06:28:33+00:00",
+      "text": "Жительница Сочи избежала уголовного преследования, так как вовремя обратилась в правоохранительные органы, - ФСБ . В Сочи предотвратили покушение на российского военного, в которое мошенники пытались вовлечь 71-летнюю пенсионерку, — ФСБ. Как сообщили в ведомстве, мошенники представились сотрудниками ФСБ и пообещали женщине «восстановить справедливость» и вернуть ранее похищенные у неё деньги в обмен на содействие. Женщине поручили разместить под автомобилем участника боевых действий взрывчатку под видом устройства слежения. Пенсионерка обратилась в правоохранительные органы. Благодаря этому покушение удалось предотвратить, а женщина избежит наказания , а ФСБ обезвредила взрывное устройство. ✨ Обращайтесь в ФСБ России, если на вас вышли мутные типы. Два майора",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "kyiv",
-        "odesa",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/DDGeopolitics/199330"
-      ]
+      "event_signals": [],
+      "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407672",
+      "id": "donbassr/117472",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117472",
+      "published_at": "2026-11-26T06:27:01+00:00",
+      "text": "ВСУ перебрасывают под Славянск новобранцев из числа принудительно мобилизованных, а также иностранных наемников, рассказали в российских силовых структурах. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407688",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407672",
-      "published_at": "2026-11-26T05:21:49+00:00",
-      "text": "🚨 Возгорание возникло в промзоне в Башкирии в результате падения обломков БПЛА. Пострадавших нет, сообщают власти.",
+      "url": "https://t.me/tass_agency/407688",
+      "published_at": "2026-11-26T06:21:20+00:00",
+      "text": "Жительница Сочи избежала уголовного дела, так как вовремя обратилась в правоохранительные органы, уточнили в ФСБ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350474",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350474",
+      "published_at": "2026-11-26T06:21:18+00:00",
+      "text": "Маск пообещал передать по одной из своих акций SpaceX каждому ребенку в США в следующем году. На бирже одна акция компании сейчас стоит около 146 долларов – в рублях это порядка 12 тысяч. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117471",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117471",
+      "published_at": "2026-11-26T06:20:20+00:00",
+      "text": "ПВО сбила 343 украинских БПЛА течение прошедшей ночи над регионами РФ , сообщили в Минобороны. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -397,57 +388,57 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117465",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117465",
-      "published_at": "2026-11-26T05:17:01+00:00",
-      "text": "❗️ Шесть мирных жителей за минувшие сутки ранены в ДНР из-за атак БПЛА ВСУ , сообщил Родион Мирошник. ▪️ В селе Красногоровка городского округа Донецк ранен мужчина 1981 г.р. ▪️ В поселке городского типа Великая Новоселка Великоновоселковского муниципального округа ранен мужчина 1973 г.р. ▪️ На автодороге Енакиево-Углегорск в городском округе Енакиево при атаке на бензовоз ранен мужчина 1961 г.р. ▪️ На автодороге Дебальцево-Светлодарск в городском округе Дебальцево ранены дорожные рабочие - мужчины 2002, 1992 и 1977 г.р. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/donbassr/117468"
-      ]
-    },
-    {
-      "id": "tass_agency/407671",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407671",
-      "published_at": "2026-11-26T05:14:10+00:00",
-      "text": "▶️ ВС РФ за сутки уничтожили более 40 украинских солдат и 10 пунктов управления беспилотниками ВСУ в Дружковке в ДНР, сообщили ТАСС в Минобороны. Видео: Минобороны России/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350470",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350470",
-      "published_at": "2026-11-26T05:13:32+00:00",
-      "text": "Россия ночью нанесла массированный удар по предприятиям ВПК в Киеве, сообщили в Минобороны. 🔹 Подписаться / Мы в \"Максе\"",
+      "id": "mod_russia_en/30786",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30786",
+      "published_at": "2026-11-26T06:16:48+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation carried out a massive strike using high‑precision ground‑based weapons and attack unmanned aerial vehicles. As a result of the strike, enterprises of Ukrainian defence industry have were hit in Kiev. 💥 In addition, a dry cargo ship delivering military materiel and dual-use cargo to Ukraine was hit in the Black Sea waters south-east of Odessa. 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "kyiv",
+        "odesa",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407670",
+      "id": "DDGeopolitics/199333",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199333",
+      "published_at": "2026-11-26T06:15:42+00:00",
+      "text": "🇷🇺 🔹 The Russian Ministry of Defense reports that the Russian Armed Forces struck a manufacturing facility in Kiev, specifically the \"Khimvolokno\" joint-stock company, which produces components for the combat sections of long- and medium-range unmanned aerial vehicles. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407687",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407670",
-      "published_at": "2026-11-26T05:08:33+00:00",
-      "text": "❗️ В акватории Черного моря юго-восточнее Одессы ВС РФ поразили сухогруз, доставлявший на Украину военное имущество, сообщили в Минобороны.",
+      "url": "https://t.me/tass_agency/407687",
+      "published_at": "2026-11-26T06:12:29+00:00",
+      "text": "❗️ В Киеве поражено место сборки и хранения БПЛА компании \"Файер Пойнт\", сообщили в Минобороны. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407686",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407686",
+      "published_at": "2026-11-26T06:11:53+00:00",
+      "text": "❗️ ВС РФ поразили сухогруз с военным имуществом в акватории Черного моря юго-восточнее Одессы, сообщили в МО.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -456,89 +447,128 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407669",
+      "id": "tass_agency/407685",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407669",
-      "published_at": "2026-11-26T05:08:05+00:00",
-      "text": "⚡️ ВС РФ ночью нанесли массированный удар, поражены предприятия военно-промышленного комплекса в Киеве, сообщили в МО.",
+      "url": "https://t.me/tass_agency/407685",
+      "published_at": "2026-11-26T06:11:22+00:00",
+      "text": "❕ ВС РФ поразили в Киеве промышленное предприятие ОАО \"Химволокно\", производящее компоненты для боевых частей БПЛА большой и средней дальности, сообщает МО.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "strike"
+        "drone",
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "wargonzo/38634",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38634",
-      "published_at": "2026-11-26T05:08:01+00:00",
-      "text": "⚡️ Фронтовая сводка на утро 26.11.26 ⚡️ Запорожский фронт На Каменском направлении идут бои в Приморском и Степногорске. (Рис. 1.1) На Гуляйпольском направлении ВС РФ наступают в районе Терсянки. (Рис. 1.2) Донецкий фронт На Добропольском направлении ВСУ контратакуют у Новофёдоровки и Святогоровки. (Рис. 2.1) На Константиновском направлении продолжаются боестолкновения в районе Николайполья и в самом населённом пункте. На Краснолиманском направлении идут интенсивные бои на рубеже Красный Лиман – Ямполь. На Северском участке есть продвижение в районе Рай-Александровки и в направлении Николаевки. (Рис. 2.2) Харьковский фронт В Купянске войска РФ продолжают продвижение в юго-западной и южной частях города. (Рис. 3.1) На Волчанском направлении идут бои в районе Приколотного и на подступах к Бугаевке. Не стихают бои на рубеже Казачья Лопань – Гоптовка. (Рис. 3.2) Сумской фронт Продолжаются сражения у Юнаковки. ВС РФ отражают контратаки противника на рубеже Алексеевка – Варачино. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "donetsk",
-        "kharkiv",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117464",
+      "id": "donbassr/117470",
       "channel": "donbassr",
       "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117464",
-      "published_at": "2026-11-26T05:03:46+00:00",
-      "text": "🟥 День в истории Донбасса 26 ноября 1910 года в семье рабочего-металлурга родился знаменитый министр внутренних дел СССР Николай Щёлоков. ◽️ Стал самым заметным руководителем ведомства в послесталинские времена. ◽️ При нем значительно – в разы – подняли зарплату в милиции. ◽️ Больше стали платить за звание и выслугу лет, вернули сталинские выплаты пенсий, за госнаграды и ученные звания. ◽️ Резко улучшилось техническое обеспечение милиции. ◽️ Вследствие всего этого вырос престиж органов. ◽️ Щёлоков поощрял работу с писателями и кинодеятелями, стал «отцом» многих фильмов и книг о милиции. ◽️ Вместе с тем, с его именем связывали и «кумовские» порядки в милиции, и громкие дела о коррупции в ней. ◽️ Щёлоков – единственный советский министр после Берии, которого уволили с позором. ◽️ Но до сих пор старые работники советской милиции поминают его добром. Донбасс решает в MАX",
+      "url": "https://t.me/donbassr/117470",
+      "published_at": "2026-11-26T06:10:16+00:00",
+      "text": "💥 Военнослужащие Южной группировки войск уничтожили более 40 украинских солдат и 10 пунктов управления беспилотниками ВСУ в Дружковке в течение минувших суток, сообщили в Минобороны России. ◾️ Помимо этого, согласно данным ведомства, артиллеристы группировки уничтожили 10 пунктов управления БПЛА. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "corruption"
+        "drone"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234718",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234718",
-      "published_at": "2026-11-26T05:02:27+00:00",
-      "text": "На кадрах - российская РСЗО «Ураган-1» на шасси БАЗ-69092 где-то на фронте. Боевая машина отличается от советской 9П140 заменой шасси, то есть бензиновое шасси ЗИЛ-135ЛМ было заменено на дизельное шасси БАЗ-69092 «Вощина-1» с бронированной кабиной. О поставках таких машин в армию РФ стало известно в декабре 2023 года.",
+      "id": "DDGeopolitics/199332",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199332",
+      "published_at": "2026-11-26T06:08:41+00:00",
+      "text": "🇷🇺 👨‍🦲 Vladimir Putin’s combined question-and-answer session and year-end news conference will take place on December 10, the Kremlin announced. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "MFARussia/33644",
+      "id": "tass_agency/407684",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407684",
+      "published_at": "2026-11-26T06:05:35+00:00",
+      "text": "❗️ Совмещенная прямая линия и большая пресс-конференция Путина пройдет 10 декабря, сообщили в Кремле. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407683",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407683",
+      "published_at": "2026-11-26T06:04:29+00:00",
+      "text": "Подготовка к прямой линии Путина уже идет, достаточно скоро начнется сбор вопросов, заявил \"Вестям\" Песков. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33645",
       "channel": "MFARussia",
       "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33644",
-      "published_at": "2026-11-26T05:01:46+00:00",
-      "text": "#KievRegimeCrimes ⚡️ Ambassador-at-Large of the Russian Ministry of Foreign Affairs Rodion Miroshnik : 💬 Last week , as talks at various levels touched directly or indirectly on a settlement of the Ukraine conflict, the Kiev regime sought to create a backdrop of violence for the negotiations . Over the seven days , 21 children were injured and one was killed . Neo-Banderites killed at least 65 civilians that week. In addition to thousands of drones, artillery shells and MLRS rounds, Ukrainian militants used Flamingo and Neptune cruise missiles to strike civilian targets . On November 16-22 , attacks by Ukrainian armed formations killed or injured 290 civilians . Of these, 225 were injured, including 21 children , and 65 were killed, including one child . Over the seven days , Ukrainian militants fired at least 8,408 munitions at civilian targets on Russian territory, averaging 1,200 impacts a day . 👉 PHOTO EVIDENCE of Ukrainian forces’ crimes (November 16-22, 2026)",
+      "url": "https://t.me/MFARussia/33645",
+      "published_at": "2026-11-26T06:03:59+00:00",
+      "text": "🇷🇺 🇧🇾 On November 24-25, Russia's Foreign Minister Sergey Lavrov paid a working visit to Gomel , Republic of Belarus, where he took part in the annual joint meeting of the boards of the Russian and Belarusian Foreign Ministries and held talks with his Belarusian counterpart Maxim Ryzhenkov . During their discussions, the Ministers reviewed current bilateral issues , including diplomatic support for integration processes within the Union State, and exchanged views on international affairs . They agreed to continue close foreign policy coordination , mutual support at multilateral forums and jointly advance their common interests on the global stage. The agenda for the meeting included matters relating to the implementation of the Programme of Coordinated Actions in Foreign Policy for 2024-2026 and the adoption of a new Programme for 2027–2029 , interaction at the #UN and its affiliated organisations, diplomatic support for interregional and cross-border ties, and mutual assistance in crisis and emergency situations. ✍️ Following the meeting, the Sides adopted a resolution , summarising the discussions and agreements reached, as well as a Plan of Consultations between the Foreign Ministries for 2027 . The Programme of Coordinated Actions in Foreign Policy for 2027-2029 was also signed and will be submitted for approval to the Supreme State Council of the Union State. The next joint meeting of the boards of the Russian and Belarusian Foreign Ministries will be held in the Russian Federation in the fourth quarter of 2027 . Read in full #RussiaBelarus",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407682",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407682",
+      "published_at": "2026-11-26T06:03:29+00:00",
+      "text": "🚨 До двух выросло число погибших после взрыва газа в доме на Алтае, сообщили ТАСС в центре управления регионом.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350473",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350473",
+      "published_at": "2026-11-26T06:03:21+00:00",
+      "text": "Программа \"Итоги года с Владимиром Путиным\" выйдет в эфир 10 декабря в 12.00 мск. \"Глава государства в прямом эфире подведёт итоги уходящего года и ответит на вопросы журналистов и жителей нашей страны\", - сообщил Кремль. Прием вопросов начнется в 00.00 мск 27 ноября. Задать их можно в том числе через сайт программы, смс или ммс, по телефону, через специальное мобильное приложение, а также соцсети \"ВКонтакте\" и \"Одноклассники\" и чат-бот в \"Максе\". 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117469",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117469",
+      "published_at": "2026-11-26T06:03:04+00:00",
+      "text": "❗️ Пять человек погибли в результате атаки ВСУ на автостоянку в Запорожской области, еще три человека ранены , сообщил губернатор Евгений Балицкий. Донбасс решает в MАX",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "kyiv",
-        "missile",
-        "negotiation",
-        "strike"
+        "strike",
+        "zaporizhzhia"
       ],
-      "possible_duplicate_urls": [
-        "https://t.me/DDGeopolitics/199330"
-      ]
+      "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407668",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407668",
-      "published_at": "2026-11-26T05:00:47+00:00",
-      "text": "Главные новости к этому часу: ▪️ Кушнер назвал Путина исторической личностью. ▪️ Посольство РФ предупредило о подготовке в Молдавии к провокации. ▪️ Колумбия решила отказаться от присоединения к банку БРИКС. ▪️ Посольство РФ в США поздравило Овечкина с клубным рекордом в НХЛ. ▪️ После взрыва газа в доме на Алтае число погибших выросло до двух. ▪️ Менеджер паролей 1Password подвергся взлому. ▪️ В Байкале нашли вырабатывающие токсины цианобактерии, сообщили \"Известия\". ✔️ Подпишись на ТАСС в \"Максе\"",
+      "id": "boris_rozhin/234722",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234722",
+      "published_at": "2026-11-26T06:01:21+00:00",
+      "text": "«Главное — поддержка. Доброе слово солдату сказать, спасибо за выполненную работу». Командир взвода с позывным «Воронеж» считает себя патриотом своей страны, святая обязанность которого — защищать Родину. Он служит в ВС РФ с осени 2022 года, и для него не было вопроса: идти на фронт или нет. Как воспитали родители, так и поступил. Георгиевским крестом IV степени он награжден за уничтожение трех вражеских танков и командного пункта врага: три крупных цели выявили и ликвидировали за месяц. Рассказываем о наших военнослужащих в 📲 MAX , 📱 ВКонтакте и в 📱 Дзен . Подписывайтесь!",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
