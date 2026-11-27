@@ -1,0 +1,623 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T07",
+  "generated_at_utc": "2026-11-27T08:08:01.830916+00:00",
+  "window_start_utc": "2026-11-27T07:00:00+00:00",
+  "window_end_utc": "2026-11-27T08:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 11
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 5
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 37,
+    "relevant_posts": 16,
+    "editorial_pool_posts": 37,
+    "retained_without_keyword_match": 21,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 37,
+    "candidate_posts": 37
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407892",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407892",
+      "published_at": "2026-11-27T07:59:01+00:00",
+      "text": "На Камчатке запретили розничную продажу вейпов с 1 марта 2027 года, сообщили ТАСС в парламенте края. Ограничения будут действовать до 1 марта 2032 года. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36032",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36032",
+      "published_at": "2026-11-27T07:55:16+00:00",
+      "text": "🖌 Happy Marine Infantry Day! Like many things in the armed forces, Peter I laid the foundation for Russian Marine Infantry: on November 27 (16), 1705 during the height of the Great Northern War, the Russian tsar issued a decree on the formation of the country's first \"regiment of sea soldiers.\" Over three centuries, the history of Russian Marine Infantry has seen many dramatic turns. It was repeatedly disbanded, but each time it was recreated, recognizing the vital necessity of this branch of the military. Although marines are \"designed\" for amphibious landings and beachhead preparation, over the past 30 years they have been involved in almost every war and local conflict that Russia has waged on its near and far approaches. And in the SMO zone they have always been at the forefront — there has not been a single direction where marines from the Baltic Fleet, Northern Fleet, Pacific Fleet, Black Sea Fleet and Caspian Fleet have not made their mark. And each time they became a nightmare for the enemy, writing new glorious pages in their history. High-resolution artwork: 🔸 Where we are - there is victory! 🔸 Greetings from the 155th 🔸 Sea hunt 🔸 Assault from the water 🔸 In the trenches 🔸 After clearing #art #RussianArmedForces ✉ MAX 💸 Support Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199426",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199426",
+      "published_at": "2026-11-27T07:54:10+00:00",
+      "text": "🇮🇪 🇺🇦 You always know things are going badly when this is the best the Irish soy boy can come up with. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407891",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407891",
+      "published_at": "2026-11-27T07:53:55+00:00",
+      "text": "Все больше сотрудников не хотят работать по старинке и используют ИИ для рабочих задач, но теневое применение нейросетей влечет риски, заявил президент РФ. Он уточнил, что теневое применение ИИ на работе, в том числе зарубежных моделей, несет риски для персональных…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350536",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350536",
+      "published_at": "2026-11-27T07:50:33+00:00",
+      "text": "Женщина пострадала в Петербурге при атаке БПЛА, ее госпитализировали . Обломки дронов упали в Приморском и Выборгском районах, в одной из многоэтажек повреждены фасад здания и остекленение. Всего в сторону Петербурга летело 55 БПЛА, из них 10 сбили над Новгородской областью, 45 – над Ленобластью и Петербургом. На местах падения обломков работают экстренные службы. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117539",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117539",
+      "published_at": "2026-11-27T07:50:22+00:00",
+      "text": "Мирный житель Брянской области подорвался на сброшенном с БПЛА ВСУ взрывном устройстве, ему оказана медицинская помощь , сообщил губернатор. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234860",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234860",
+      "published_at": "2026-11-27T07:47:01+00:00",
+      "text": "У нас в Севастополе с 1 марта 2027 года запрещают продажу вейпов. В ряде регионов также принимают аналогичные решения. Интересно, почему этот процесс идет на региональном уровне и требует отдельных решений в каждом регионе, а не реализуется в рамках одного централизованного решения? Сам я никогда не курил (так, в школе чутка попробовал и бросил), да и от вейпов я весьма далек. Тем не менее среди знакомых хватает тех, кто вейпы покуривает. Так что им придется приспосабливаться к новым реалиям. Так то любителей покурить достаточно давно поджимают. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407890",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407890",
+      "published_at": "2026-11-27T07:45:55+00:00",
+      "text": "Ладожский мост в Ленинградской области был временно перекрыт, в ходе атаки БПЛА ВСУ он не поврежден, сообщает губернатор.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407889",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407889",
+      "published_at": "2026-11-27T07:43:01+00:00",
+      "text": "\"Месье шантаж\". Макрон ставит другим лидерам стран ЕС ультиматумы по принятию бюджета сообщества до выборов в республике, сообщает Politico со ссылкой на источники. \"Это здорово, приехать сюда и взять в заложники переговоры из-за ваших национальных выборов\"…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117538",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117538",
+      "published_at": "2026-11-27T07:38:01+00:00",
+      "text": "Над Курской областью за прошедшие сутки сбиты 137 украинских БПЛА различного типа, пострадал один мирный житель , сообщил губернатор Александр Хинштейн. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407888",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407888",
+      "published_at": "2026-11-27T07:37:12+00:00",
+      "text": "🚊 Поезд следованием из Пекина в Иркутск отправился в первый за шесть лет рейс, свидетельствуют данные онлайн-табло. Видео: Раптли/ТАСС/CGTN",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234855",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234855",
+      "published_at": "2026-11-27T07:35:05+00:00",
+      "text": "Поставила скрытую камеру в машину в подголовнике пассажирского сиденья, которая постоянно вела наблюдение за военнослужащим — ФСБ предотвратила теракт в ДНР. По данным следствия, жительница Волновахи 1997 года рождения общалась с представителями украинских спецслужб и передавала им координаты дислокации подразделений ВС РФ. С ними ее связал брат, который является украинским военным. По заданию кураторов женщина переехала в Донецк, где вела слежку за сотрудником одного из силовых ведомств и передавала полученные данные Украине. Ей говорили скрытно гулять с собакой и вести слежку. Она также установила камеру в сиденье автомобиля, который ей пришлось купить для этого задания — украинские кураторы обещали возместить сумму, потраченную на машину, но так этого и не сделали. Противник попытался ударить тремя беспилотниками \"Баба Яга\", начиненными самодельными взрывными устройствами, но их подавили системами РЭБ и обезвредили сотрудники ФСБ. 〰️ Мне было жалко этого человека, я понимала, что его убьют, но мне нужны были деньги 〰️ Пособница задержана. В отношении нее возбуждено уголовное дело по статье о госизмене.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407887",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407887",
+      "published_at": "2026-11-27T07:34:01+00:00",
+      "text": "Минпросвещения определило единый день проведения последних звонков в 2027 году — их планируется провести 26 мая.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350535",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350535",
+      "published_at": "2026-11-27T07:30:36+00:00",
+      "text": "К 11 годам колонии приговорили экс-губернатора Тамбовской области Максима Егорова - по делу о коррупции. Бывший глава региона получил более 80 миллионов рублей от топ-менеджера одной из тамбовских организаций за покровительство. Егорова назначили врио главы Тамбовской области в октябре 2021-го, должность губернатора он занимал с сентября 2022-го по ноябрь 2024-го. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102607",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102607",
+      "published_at": "2026-11-27T07:29:58+00:00",
+      "text": "Элитные войска специального назначения. Отдельная бригада Радиоэлектронной Борьбы, часть не участвует в СВО, все боевые задачи выполняются в районе КТО, прямого подчинения округа, г. Санкт-Петербург. Приглашаем на службу водителей от 18 до 60 лет (категории ВСДЕ), возраст от 18 до 45 лет операторов, электриков и механиков а также тех кто просто хочет служить в РЭБ, много должностей, в том числе и в штабе. В зависимости от должности, обучения в Тамбове 1-2 месяца и получения военно учетной специальности, на выходе получаете военную специальность которая может применятся на гражданке. Полное обеспечение вещевым имуществом по сезону, 3х разовое питание, все государственные льготы для военнослужащих, кредитные каникулы, возможность списать кредиты, получение статуса участника боевых действий (ветерана боевых действий), поддержка от государства вас и членов вашей семьи и многое другое. Служба в части до момента убытия на обучение и если вас не направили в район КТО ЗП от 50 тыс. у рядовых, в зависимости от должности и надбавок, так как проходите службу в ппд, проживание в казарме(есть возможность жить вне казармы),есть возможность выхода в город. После обучения убываете в г.Курск, г. Брянск или г.Белгород для выполнения задач. ЗП в зоне КТО у рядовых от 210 тыс. в месяц. РЭБ это войска специального назначения, мы не участвуем в наступлении и не находимся на первой линии обороны. Бригада служит для подавления БПЛА в тылу на территории РФ, тем самым обеспечивает защиту приграничным городам России и мирному населению. Телеграм : @svoradioel",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30804",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30804",
+      "published_at": "2026-11-27T07:25:17+00:00",
+      "text": "Any task becomes feasible when The Black Berets are in ⚓️ ▫️ The Marines' character is steel, their hearts are big and their sense of humour supports in any situation. 💬 Commander-in-Chief of the Russian Navy Admiral of the Fleet Aleksandr Moiseyev congratulated The Black Berets and noted that the Marines earned the right to be elite of the Armed Forces and act decisively and professionally in the most difficult directions of the special military operation. Happy Marine Day, lads! May the shore always be reliable, the comrade shoulder be strong, and we wish you to be waited for those, for whom you advance. God bless you, have a good luck, get back with Victory! Congratulations 🖤 Press 🔥 to congratulate our lads, so every marine could hear that! 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53587",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53587",
+      "published_at": "2026-11-27T07:24:23+00:00",
+      "text": "❗️ Zelensky is very jealous when he sees Trump posting a picture of himself hugging his \"friend\" Putin. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53586",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53586",
+      "published_at": "2026-11-27T07:23:32+00:00",
+      "text": "Kyiv's false flag is designed to kill US-led push for negotiations More than 100 Russian strike drones of various types have been assembled at the National Complex \"Expocenter of Ukraine\" in Kyiv, according to a leaked source within GUR. The drones are reportedly being prepared for attacks on targets inside the European Union, with Poland as the primary target. The targets include logistics hubs, transport and energy infrastructure, and industrial facilities. After the strikes, the plan allegedly involves spreading information to the media that the drones were launched from Kaliningrad Oblast — a narrative designed to pin the blame on Russia. The timing is what makes this alarming. Washington is pressing both sides toward the negotiating table — and a false flag strike on NATO territory would be precisely the kind of escalation designed to blow up that diplomatic track before it can gain traction. #Ukraineconflict #Ukraine #intelligence Don't miss it, subscribe to 📱 Old Glory Vortex 🇺🇸",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/tass_agency/407885"
+      ]
+    },
+    {
+      "id": "tass_agency/407886",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407886",
+      "published_at": "2026-11-27T07:22:55+00:00",
+      "text": "⚖️ Экс-глава Тамбовской области Максим Егоров приговорен к 11 годам колонии строгого режима по делу о взятках, передает корреспондент ТАСС из зала суда.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199425",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199425",
+      "published_at": "2026-11-27T07:22:05+00:00",
+      "text": "🇺🇦 💬 🇷🇺 🇺🇸 Q: What do you feel like when you see Trump hugging Putin, calling him his friend? Zelensky: It's the same as somebody saying about Hitler during the Second World War that he's a good friend. He is an aggressor and a killer. He can't be a friend. He just cannot be. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117537",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117537",
+      "published_at": "2026-11-27T07:20:20+00:00",
+      "text": "Минюст зарегистрировал приказ директора ФСБ Александра Бортникова, расширяющий перечень сведений в военной и военно-технической сферах, которые не составляют гостайну, но при передаче иностранным источникам могут нанести ущерб безопасности России. В обновленный перечень вошли: ▪️ Сведения о заключивших контракт с Минобороны осужденных, подозреваемых и обвиняемых в совершении преступлений, в том числе данные об их численности. ▪️ Информация о сотрудниках ФСИН, участвовавших в подготовке и отправке указанных лиц на военную службу. ▪️ Не находящиеся в открытом доступе сведения о зарплатах, банковских счетах, вкладах и финансовых обязательствах военнослужащих, работников оборонно-промышленного комплекса и их родственников. Целенаправленный сбор таких сведений в интересах иностранных источников может стать основанием для признания лица иноагентом. При наличии соответствующих признаков состава преступления действия также могут квалифицироваться по ст. 275.1 УК РФ — конфиденциальное сотрудничество с иностранным государством, международной или иностранной организацией. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407885",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407885",
+      "published_at": "2026-11-27T07:19:46+00:00",
+      "text": "Киев для попытки убийства высокопоставленного военного в ДНР задействовал три ударных дрона \"Баба-яга\", они были подавлены, сообщает ФСБ. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/AussieCossack/53586"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234854",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234854",
+      "published_at": "2026-11-27T07:18:57+00:00",
+      "text": "Авиаторы ВС РФ отработали по следующим целям - ПВД подразделения 475 ошп в н.п. Великий Бурлук поражен применением четырех ФАБ-250 с УМПК. - Автодорожный тоннель в районе н.п. Одаровка поражен четырьмя ФАБ-500 с УМПК.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117536",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117536",
+      "published_at": "2026-11-27T07:16:17+00:00",
+      "text": "⚡️ В Донецке без электроэнергии остаются 40 500 абонентов. По информации «Донецкэнерго» филиал АО «Юго-Западная ЭСК», в связи с превышением допустимой нагрузки по сети, частично в Калининском, Киевском и Пролетарском районах обесточено 295 трансформаторных подстанций. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98670",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98670",
+      "published_at": "2026-11-27T07:15:53+00:00",
+      "text": "🇷🇺 ⚡️ — Russia extends its jet fuel export ban from December 1, 2026, to March 31, 2027, effective immediately after the current restriction expires on November 30. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199424",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199424",
+      "published_at": "2026-11-27T07:13:32+00:00",
+      "text": "🇪🇪 Residents of Narva, Estonia, fear the city's decline if the border with Russia is closed for an extended period. This was reported by El Mundo. The newspaper reports that the city received a significant amount of money through tourism and services provided to people crossing the border. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102606",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102606",
+      "published_at": "2026-11-27T07:13:02+00:00",
+      "text": "Даёшь пятничную математику от Двух майоров! Если 100 рублей умножить на 50 тыс. человек, то получится 5 000 000 рублей. Это, примерно, два закрытых сбора! Важна не сумма, а посильное участие каждого! Ведь маленькие ручейки рождают большие реки! С миру по нитке — бойцам оборудование! Всё для фронта! Всё для Победы! ✨ Кто еще не смотрел, посмотрите наш видеоклип с песней, собранные под редакцией Кати Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407884",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407884",
+      "published_at": "2026-11-27T07:11:58+00:00",
+      "text": "▶ Экс-главу Тамбовской области арестовали по делу о взятках от предпринимателей, сообщили в ФСБ. Имущество Максима Егорова и его родственников арестовали на 130 млн рублей, заявили ТАСС в СК. Видео: ЦОС ФСБ России/ТАСС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350534",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350534",
+      "published_at": "2026-11-27T07:11:25+00:00",
+      "text": "Фотографии и сообщения не всегда исчезают сразу после удаления – что на самом деле происходит с данными, рассказали в МВД: ▪️ Корзина. Многие приложения временно сохраняют удалённые файлы, позволяя пользователю восстановить их в течение определённого срока. ▪️ Память устройства. В некоторых случаях при удалении файла система лишь помечает занимаемое им пространство как доступное для записи новых данных. Сама информация может некоторое время сохраняться в памяти устройства. ▪️ Облачные хранилища. Фотографии, документы и переписка могут оставаться в резервных копиях или на других синхронизированных устройствах. ▪️ Серверы цифровых сервисов. Сроки и порядок окончательного удаления информации зависят от архитектуры сервиса, его политики хранения данных и требований законодательства. ▪️ Устройства других пользователей. Удаление сообщения не гарантирует исчезновения его копий, ранее сохранённых получателем. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407883",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407883",
+      "published_at": "2026-11-27T07:09:01+00:00",
+      "text": "Президент Эстонии призвала кабмин к гуманизации закрытия границы с Россией с 1 декабря. Юлле Мадизе отметила, что есть немало людей, которым по объективным причинам необходимо пересекать границу.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407882",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407882",
+      "published_at": "2026-11-27T07:04:01+00:00",
+      "text": "Ряд участников обсуждения бюджета Евросоюза \"в бешенстве\" от подхода Кошты, сообщила газета Politico. Отмечается, что группа стран, выступающих за жесткую экономию (Дания, Германия, Нидерланды, Австрия, Финляндия, Швеция и Бельгия), потребовала, чтобы глава…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33679",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33679",
+      "published_at": "2026-11-27T07:03:25+00:00",
+      "text": "🌟 On November 26, the Victory Museum opened the exhibition Marshal of Victory: 130 Years , marking the 130th anniversary of the birth of Georgy Zhukov . The exhibition features authentic historical artefacts from the family archives of the Marshal’s descendants, as well as items and documents from the collections of the Victory Museum, members of the Association of Historical and Military History Museums , and the country’s largest archives. For the first time in Moscow, visitors will be able to see the first-ever Order of Victory , awarded to Georgy Zhukov in the spring of 1944 for the liberation of Right-Bank Ukraine in the Ukrainian SSR . Also on November 26, the Victory Museum launched the International Open Forum Zhukov: Legacy , the centrepiece of the celebrations marking the 130th anniversary of the legendary military commander’s birth . On November 27, an international academic conference dedicated to the Marshal’s anniversary will open as part of the forum. It will bring together Russian and foreign historians, representatives of research institutions, archives and museums, educators, government officials, representatives of public organisations, university students and schoolchildren. The event was organised with the involvement of the Military History Institute of the Military Academy of the General Staff of the Russian Armed Forces, the Russian Historical Society , the Russian Military Historical Society , the Russian Foreign Ministry and Rossotrudnichestvo . The conference participants include representatives of Italy, India, Brazil, Bulgaria, Serbia, Mongolia and other countries. 🗓 The Marshal of Victory: 130 Years exhibition will run from November 26 to December 18, 2026. #Victory81",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234853",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234853",
+      "published_at": "2026-11-27T07:03:01+00:00",
+      "text": "В ДНР предотвращен теракт против высокопоставленного военнослужащего, сообщили в ФСБ. Задержана местная жительница 1997 года рождения, которая сотрудничала с украинскими спецслужбами и передавала им сведения о местах дислокации подразделений ВС РФ в Волновахском и Мариупольском муниципальных образованиях. Женщина по заданию кураторов участвовала в подготовке покушения на военнослужащего в Донецке. Задействованные для атаки беспилотники были подавлены и обезврежены. Возбуждено уголовное дело по статье о государственной измене.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117535",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117535",
+      "published_at": "2026-11-27T07:02:22+00:00",
+      "text": "Сводка основных боевых действий утром 27 ноября на Слобожанщине, в Донбассе и Таврии. Слобожанщина ▪️ Сумское направление: ГрВ «Север» отмечает снижение интенсивности контратак ВСУ на рубеже Алексеевка — Варачино — Яблоновка. Продолжаются позиционные бои. ▪️ Харьковское направление: здесь также идут тяжёлые позиционные бои южнее Новой Казачьей. На Волчанском и Великобурлукском направлениях есть продвижение в районах Бугаевки и Шевченково Первого, отражены контратаки ВСУ возле Долгенького. ▪️ Купянское направление: ВС РФ фактически зачистили восточную часть Купянска и значительную часть Купянска-Узлового. В более активную фазу вступили бои за Ковшаровку – российские части штурмуют посёлок с разных направлений. Донбасс ▪️ Краснолиманское направление: сообщают о боях в Красном Лимане и локальных боях по всему участку фронта. Инициатива постепенно переходит к ВС РФ. ▪️ Славянское направление: самые ожесточенные бои развернулись на подступах к Николаевке. Идет встречное сражение у Озёрного – Дибровы. ▪️ Дружковское направление: не прекращаются бои в Николайполье и окрестностях. ▪️ Добропольское направление: продолжается противостояние на западном фасе от Сергеевки до Новофёдоровки. Сложные бои продолжаются в районе Белозёрского. ВС РФ занимают позиции дальше на север, но вплоть до Новогригоровки и Райского идет «серая зона». Таврия ▪️ Днепропетровское направление: здесь без особых изменений, идут позиционные бои вдоль ЛБС, обе стороны забрасывают ДРГ, пытаясь закрепиться в тылу противника. У Комара упорное встречное сражение. ▪️ Ореховское направление: в Орехове бои идут в южной части города. На восточном фланге ВС РФ старается расширить подконтрольную территорию у Омельника, Червоного Яра и Барвиновки. ▪️ Запорожское направление: продолжаются вязкие бои за контроль над Приморским и Степногорском. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78276",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78276",
+      "published_at": "2026-11-27T07:02:22+00:00",
+      "text": "Минувшей ночью дежурные средства ПВО перехватили 318 украинских БпЛА самолетного типа. Дроны были сбиты над Брянской, Белгородской, Калужской, Курской, Ленинградской, Новгородской, Орловской, Ростовской, Смоленской и Тульской областями, а также над Республикой Крым. На этом фоне в Эстонии снова объявляли воздушную угрозу из-за \"неизвестных\" беспилотников, причем как раз в тот момент, когда украинские БпЛА атаковали Ленинградскую область. Над ней за ночь были уничтожены 45 воздушных целей. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38662",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38662",
+      "published_at": "2026-11-27T07:01:10+00:00",
+      "text": "Покушение на высокопоставленного военного предотвратили в ДНР Украинские спецслужбы пытались убить высокопоставленного военного в ДНР — для атаки задействовали три ударных дрона «Баба-яга», сообщили в ФСБ. Атака не дошла до цели: все три беспилотника подавили средствами радиоэлектронной борьбы, после чего аппараты обезвредили на земле. Покушению предшествовала разведподготовка. Гражданка России специально переехала в Донецк и передавала украинской стороне данные о местонахождении военного и автомобилях, на которых он передвигается. Подозреваемую задержали. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102605",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102605",
+      "published_at": "2026-11-27T07:00:55+00:00",
+      "text": "✨ Сбор на Запорожский фронт ✨ 413 человек участвовали в сборе за сутки ⚡️ Десантникам необходима народная поддержка! Противник активно применяет дистанционное минирование, создавая угрозу для передвижения личного состава и техники. Бойцам приходится обследовать протяжённые маршруты, выявлять опасные участки и обеспечивать безопасное движение подразделений. ▪️ Mavic 3Pro -4шт- 980 000 ₽ ▪️ Mavic 3Classic -3шт- 540 000 ₽ ▪️ Инкубатор 3.30 - 380 000 ₽ Необходимо: 1 900 000 ₽ Собрано за сутки: 149 062 ₽ Собрано всего: 575 626 ₽ Осталось собрать: 1 324 374 ₽ — Реквизиты для добровольных пожертвований: ✔️ любым удобным способом на сайте «Два майора» - https://dva-majors.ru ✔️ на счет БФ «Два майора» перевод по СБП без комиссии: https://qr.nspk.ru/AS1A002SNGS125GG8HFRLP618Q3H3GRI?type=01&bank=100000000111&crc=DF0D ✔️ T-Банк: https://pay.cloudtips.ru/p/4641cedb ✔️ для юридических лиц (покажите друзьям - бизнесменам!): ИНН: 2365033577 КПП: 236501001 БИК: 040349602 Р/с 40703810530000007491 — Карта Сбербанка физического лица (Е.В.М.), представителя Фонда : 2202206209199178 2202206209199178 Всё для Фронта! 🇷🇺 Наш официальный сайт: https://dva-majors.ru — БФ Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
