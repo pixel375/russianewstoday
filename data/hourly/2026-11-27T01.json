@@ -1,0 +1,289 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T01",
+  "generated_at_utc": "2026-11-27T02:04:02.035509+00:00",
+  "window_start_utc": "2026-11-27T01:00:00+00:00",
+  "window_end_utc": "2026-11-27T02:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 11
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 15,
+    "relevant_posts": 3,
+    "editorial_pool_posts": 15,
+    "retained_without_keyword_match": 10,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407837",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407837",
+      "published_at": "2026-11-27T01:58:01+00:00",
+      "text": "🚨 У берегов Кубы потерпело крушение судно под флагом Панамы с 16 членами экипажа, сообщил портал Cubadebate. Официальных сообщений властей Кубы на эту тему не приводится. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407833"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407836",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407836",
+      "published_at": "2026-11-27T01:53:01+00:00",
+      "text": "Сенатор Артем Шейкин предупредил о мошенничестве в аэропортах со \"скидками на маркетплейсах\". Он рассказал ТАСС, что мошенническая схема начинается с того, что к пассажиру подходит \"человек с бейджем, спрашивает номер рейса и подсказывает, когда начнется регистрация\". Затем злоумышленник предлагает \"скидку на маркетплейсе\", получить которую можно после установки специального приложения. Жертва открывает приложение, а собеседник просит передать ему разблокированный телефон, чтобы \"подключить быстрее\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407835",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407835",
+      "published_at": "2026-11-27T01:41:01+00:00",
+      "text": "❗️ Главы государств и правительств ЕС не достигли договоренности по его следующему семилетнему бюджету, переговоры продолжатся в декабре, заявил Мерц. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350524",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350524",
+      "published_at": "2026-11-27T01:37:10+00:00",
+      "text": "Разрешить водителям тонировку за дополнительную плату предложили в Госдуме. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407834",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407834",
+      "published_at": "2026-11-27T01:30:30+00:00",
+      "text": "▶️ Западные страны напрямую согласовали переход Киева к террористическим методам ведения боевых действий. Об этом в беседе с ТАСС заявил Родион Мирошник. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407832",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407832",
+      "published_at": "2026-11-27T01:19:13+00:00",
+      "text": "🚨 Над Ленинградской областью сбиты четыре БПЛА, сообщил губернатор.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407830"
+      ],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407831",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407831",
+      "published_at": "2026-11-27T01:19:01+00:00",
+      "text": "🚨 Жителям Лудзенского района на востоке Латвии разослали уведомление о возможной воздушной угрозе. Соответствующее сообщение ВС Латвии появилось в соцсети X.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407829",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407829",
+      "published_at": "2026-11-27T01:16:01+00:00",
+      "text": "Сохранение формата G8 с Россией в составе могло бы предотвратить конфликт на Украине, считает Трамп. Президент США также отметил, что формат G8 был гораздо сильнее нынешней \"семерки\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407828",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407828",
+      "published_at": "2026-11-27T01:10:01+00:00",
+      "text": "После выхода из СНГ Молдавия рискует лишиться членства в ЗСТ Содружества, заявил в интервью ТАСС посол РФ в Кишиневе Озеров. Надежды Молдавии сохранить выгоды от сотрудничества в СНГ после выхода из него несбыточны, отметил он.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19850",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19850",
+      "published_at": "2026-11-27T01:07:36+00:00",
+      "text": "JUST IN: 🇺🇸 🇷🇺 President Trump says Russian President Putin is welcome to attend G20 summit in US if he wants. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407827",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407827",
+      "published_at": "2026-11-27T01:04:01+00:00",
+      "text": "Франция потеряла доступ на важные для нее рынки сбыта сельскохозяйственной продукции, а Россия укрепила свои позиции на них, заявил Макрон. По данным Министерства сельского хозяйства Франции, урожай пшеницы и других зерновых в стране в 2026 году сократится на фоне сильной жары, несмотря на увеличение посевных площадей.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33674",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33674",
+      "published_at": "2026-11-27T01:02:16+00:00",
+      "text": "🗓 On November 26, the Cultural Centre of the Foreign Ministry’s Main Administration for Servicing the Diplomatic Corps (GlavUpDK) hosted a presentation of the investment, economic and tourism potential of the Khanty-Mansi Autonomous Area – Yugra , attended by Foreign Minister Sergey Lavrov , Governor of the Khanty-Mansi Autonomous Area – Yugra Ruslan Kukharuk and representatives of the diplomatic corps, the business community, and Russian and foreign media. In his remarks, Sergey Lavrov highlighted the achievements of the Khanty-Mansi Autonomous Area – Yugra and the experience it has gained through its active engagement with foreign partners , particularly in the extraction and supply of energy resources and in tourism . He made special mention of the rich cultural and historical heritage of this constituent entity of the Russian Federation. During the event, those present were introduced to the Area’s natural diversity and distinctive traditions , its unique experience in preserving the way of life of the indigenous peoples of the North and the projects under way in the region, including in digital technologies . The participants expressed confidence that the presentation would provide further impetus for deepening cooperation and diversifying the international ties of the Khanty-Mansi Autonomous Area – Yugra, above all with friendly countries , in the economic, educational, scientific and cultural spheres.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234838",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234838",
+      "published_at": "2026-11-27T01:02:01+00:00",
+      "text": "⠀ 🔴 Доказательства зверств киевского режима в г. Димитров (ДНР). Смотреть на Rutube Смотреть предыдущие свидетельства Наш Международный общественный трибунал по преступлениям украинских неонацистов (председатель — М. С. Григорьев ) из представителей гражданского общества 35 стран мира продолжает сбор свидетельств преступлений киевского режима. Жительница г. Димитров (ДНР) Ирина Агаркова: 00:00 \"Мы жили на краю города. Особо никуда не ходили, старались жить тихо. Но и окна вылетали, и от дронов доставалось. Дома у нас там все пострадали. Украинские дроны целенаправленно влетали в дома мирных жителей. 00:41 Мы сидели во дворе, приехали украинские военные, зашли в дом, а потом уехали. Примерно через две минуты этот дом взорвался. 01:06 Погиб молодой парень, ему было 24 года. Он вышел утром. Потом прилетел украинский дрон. Парня по частям собирали. 01:32 Мы шли по дороге, дрон летел в одном направлении. Потом увидел нас и резко развернулся в нашу сторону. Мы успели заскочить в укрытие. Дрон взорвался у ворот через три дома от нас. Он летел именно на нас. До этого двигался совсем в другую сторону, а когда увидел людей, резко развернулся. 02:29 Люди с Западной Украины Донбасс не любят. Нам говорили уезжать, потому что город сожгут\". Проект реализуется при поддержке Леонида Слуцкого, Бориса Рожина, Армена Гаспаряна, Олега Матвейчева, Дмитрия Пучкова, Игоря Коротченко, Сергея Котькало, Егора Холмогорова, Игоря Скурлатова, Александра Малькевича, Михаила Онуфриенко . Прошу сделать репост и распространять данную информацию — важно, чтобы и у нас, и за рубежом знали правду. #МеждународныйОбщественныйТрибунал #Донбасс #СВО #ОПРФ #ПреступленияКиевскогоРежима #ПреступленияВСУ #ЦентрИсторииСВО #Безсрокадавности #ХранитьВечно Подписаться на канал в МАХ Подписаться на канал в ТГ Подписаться на канал в Rutube",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
