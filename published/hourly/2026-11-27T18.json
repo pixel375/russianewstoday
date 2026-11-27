@@ -1,0 +1,56 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    244
+  ],
+  "published_at_utc": "2026-11-27T19:48:27.326781+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T18",
+  "items": [
+    {
+      "item_id": "2026-11-27T18:1",
+      "title": "Ukraine's household utility arrears reportedly exceed 101 billion hryvnias",
+      "summary": "Figures attributed to Ukraine's state statistics service put outstanding utility payments above 101 billion hryvnias, including 16 billion for electricity and 11 billion for water and sewerage services.",
+      "post_url": "https://t.me/russianewstodayofficial/244",
+      "category": "other",
+      "hour_id": "2026-11-27T18",
+      "source_handles": [
+        "rian_ru"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T18:2",
+      "title": "Russian-appointed authorities report drone attack on ambulance",
+      "summary": "The regional health ministry in Russian-occupied Zaporizhzhia said an ambulance transporting a patient was attacked by a drone. It reported that the medical crew and patient escaped without injury. The account has not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/244",
+      "category": "other",
+      "hour_id": "2026-11-27T18",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T18:3",
+      "title": "Russia launches parliamentary training programme for war veterans",
+      "summary": "A reported training initiative for 39 newly elected State Duma deputies who are veterans of the war in Ukraine focuses on legislative work, parliamentary oversight and communication with constituents.",
+      "post_url": "https://t.me/russianewstodayofficial/244",
+      "category": "other",
+      "hour_id": "2026-11-27T18",
+      "source_handles": [
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T18:4",
+      "title": "Austria presents new counter-drone strategy",
+      "summary": "Austria reportedly unveiled plans to strengthen drone oversight and counter-drone capabilities, including a proposed Interior Ministry coordination centre. Legislative changes are expected next year, while funding and operational responsibilities remain unresolved.",
+      "post_url": "https://t.me/russianewstodayofficial/244",
+      "category": "other",
+      "hour_id": "2026-11-27T18",
+      "source_handles": [
+        "rybar_in_english"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
