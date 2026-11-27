@@ -1,0 +1,69 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    231
+  ],
+  "published_at_utc": "2026-11-27T07:26:44.954580+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T06",
+  "items": [
+    {
+      "item_id": "2026-11-27T06:1",
+      "title": "Zelensky warns of possible departures from Kyiv ahead of winter",
+      "summary": "In a BBC interview, Ukrainian President Volodymyr Zelensky acknowledged that residents could leave Kyiv amid Russian attacks. He also said US air-defence deliveries were being delayed and Ukraine faced a severe shortage of interceptors against ballistic missiles.",
+      "post_url": "https://t.me/russianewstodayofficial/231",
+      "category": "other",
+      "hour_id": "2026-11-27T06",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T06:2",
+      "title": "US and EU reportedly increasingly divided over Ukraine support",
+      "summary": "Politico, citing sources, reported growing disagreements over continued support for Ukraine. Donald Trump reportedly questioned the effectiveness of billions of dollars in assistance during a November 19 conversation with Zelensky.",
+      "post_url": "https://t.me/russianewstodayofficial/231",
+      "category": "other",
+      "hour_id": "2026-11-27T06",
+      "source_handles": [
+        "aussiecossack",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T06:3",
+      "title": "Russian-appointed Luhansk authorities increase war damage compensation",
+      "summary": "The regional administration announced an increase in compensation for destroyed housing from 51,500 to 70,000 rubles per square metre. Payments for lost essential belongings will also rise, with recalculations applying to decisions made since August 8, 2026.",
+      "post_url": "https://t.me/russianewstodayofficial/231",
+      "category": "other",
+      "hour_id": "2026-11-27T06",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T06:4",
+      "title": "Russia extends aviation fuel export ban through March 2027",
+      "summary": "The Russian government has extended its ban on exports of jet fuel until March 31, 2027.",
+      "post_url": "https://t.me/russianewstodayofficial/231",
+      "category": "other",
+      "hour_id": "2026-11-27T06",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T06:5",
+      "title": "Zelensky questioned over energy-sector corruption investigation",
+      "summary": "In a BBC interview, Zelensky declined to directly identify a person referred to in recordings linked to an energy-sector corruption investigation. He said anti-corruption authorities had no questions for him and defended Ukraine's ongoing anti-corruption reforms.",
+      "post_url": "https://t.me/russianewstodayofficial/231",
+      "category": "other",
+      "hour_id": "2026-11-27T06",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
