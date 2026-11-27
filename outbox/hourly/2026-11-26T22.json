@@ -1,0 +1,22 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-26T22",
+  "snapshot_generated_at_utc": "2026-11-26T23:43:44.000082+00:00",
+  "late_recovery": true,
+  "items": [
+    {
+      "title": "Narva officials seek humanitarian corridor across Russian border",
+      "summary": "Anton Nikolayev, chairman of the ruling faction in Narva's city council, reportedly said municipal authorities would ask Estonia's government to establish a humanitarian corridor with Russia.",
+      "source_urls": [
+        "https://t.me/tass_agency/407813"
+      ]
+    },
+    {
+      "title": "Russia reports progress on Crimean Bridge restoration",
+      "summary": "Russian Deputy Prime Minister Marat Khusnullin said restoration work on the bridge linking Russia to occupied Crimea was progressing and that all project documentation had been prepared.",
+      "source_urls": [
+        "https://t.me/tass_agency/407812"
+      ]
+    }
+  ]
+}
