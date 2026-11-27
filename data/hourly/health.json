@@ -1,9 +1,14 @@
 {
-  "checked_at_utc": "2026-11-27T20:03:48.879735+00:00",
+  "checked_at_utc": "2026-11-27T21:00:56.668216+00:00",
   "hours": [
     {
-      "hour_id": "2026-11-27T19",
+      "hour_id": "2026-11-27T20",
       "status": "awaiting_summary",
+      "candidates": 26
+    },
+    {
+      "hour_id": "2026-11-27T19",
+      "status": "published_or_quota_handled",
       "candidates": 24
     },
     {
@@ -115,11 +120,6 @@
       "hour_id": "2026-11-26T21",
       "status": "published_or_quota_handled",
       "candidates": 20
-    },
-    {
-      "hour_id": "2026-11-26T20",
-      "status": "published_or_quota_handled",
-      "candidates": 23
     }
   ]
 }
