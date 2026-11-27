@@ -1,0 +1,509 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T18",
+  "generated_at_utc": "2026-11-27T19:29:19.993148+00:00",
+  "window_start_utc": "2026-11-27T18:00:00+00:00",
+  "window_end_utc": "2026-11-27T19:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 29,
+    "relevant_posts": 16,
+    "editorial_pool_posts": 29,
+    "retained_without_keyword_match": 13,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 29,
+    "candidate_posts": 29
+  },
+  "posts": [
+    {
+      "id": "mod_russia_en/30817",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30817",
+      "published_at": "2026-11-27T18:57:23+00:00",
+      "text": "Vladimir Putin held a meeting on the development of the Russian Navy's fleet of multipurpose nuclear submarines In today's environment, the Navy plays a crucial role in ensuring Russia's sovereignty and security and protecting our national interests. All its components, be it surface vessels and submarines or coastal units and infrastructure, must be ready to repel seaborne threats and possess significant firepower in order to effectively counter enemy naval groups and strike their strategic targets. In addition, the President outlined the key objectives in developing the submarine force: 🔹 modernising and expanding production capacities as well as restoring and improving critical competencies and human resources; 🔹 building new submarines of various types and, crucially, improving their weapons, primarily by consistently enhancing the performance characteristics of long-range precision weaponry and anti-ship missiles; 🔹 using the funding allocated by the government for the development of the Navy rationally via focusing on priority areas and enlisting the cooperation of small and medium high-tech companies.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30815",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30815",
+      "published_at": "2026-11-27T18:57:23+00:00",
+      "text": "The President made a speech at a flag-raising ceremony aboard Perm nuclear-powered ballistic missile submarine Russia is one of the few countries capable of constructing nuclear submarines of such power, a world-class weapon of global importance. Our design bureaus and shipyards have the advanced technologies and engineering solutions, the extensive experience, and the highly qualified workforce to make it happen. A fourth-generation, Yasen-class nuclear submarine, Perm is a multi-purpose missile vessel and the first submarine to carry Zircon hypersonic cruise missiles as standard armament.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36051",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36051",
+      "published_at": "2026-11-27T18:56:09+00:00",
+      "text": "📝 Drones can wait for the budget 📝 In Austria , they presented a strategy for combating drones in a spectacular fashion — with fighter jets flying overhead, drone interception using nets, and the idea of allowing large businesses to independently jam suspicious devices. All flights heavier than 100 grams will be required to register, and a separate center will be created under the Interior Ministry for oversight. However, the necessary laws won't be passed before next year, there's no money in the budget for medium and long-range air defense, and it's even unclear who will give the order in a critical moment. ✉️ Read more about Austria's new strategy and opposition criticism — on our channel at MAX . ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117572",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117572",
+      "published_at": "2026-11-27T18:51:01+00:00",
+      "text": "Что тебе снится... Российские дроноводы наказали сонного вэсэушника за нарушение устава караульной службы. И напоминают украинским военнослужащим: хочешь жить – сдавайся в плен! Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102644",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102644",
+      "published_at": "2026-11-27T18:47:59+00:00",
+      "text": "Губернатор Хабаровского края. Гусары, молчать! Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407987",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407987",
+      "published_at": "2026-11-27T18:47:00+00:00",
+      "text": "МВД откажет в приеме фотографии на загранпаспорт, если человек сам сфотографировал себя на фронтальную камеру. При такой съемке большинство устройств сохраняют изображение в зеркальном отражении. В результате на снимке левая и правая стороны лица меняются местами, сообщили в миграционной службе ведомстве. Там добавили, что сотрудники также откажут в приеме фотографий, на которых человек изменил свое лицо. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234931",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234931",
+      "published_at": "2026-11-27T18:45:04+00:00",
+      "text": "Относительно европейского бюджета и разногласий вокруг него. Уверен, его через некоторое время примут, ломая сопротивляющихся через колено публичными угрозами и посулами, а также скрытым давлением. Глобалисты не могут сейчас позволить себе сохранить бюджетный клинч в ЕС и будут вынуждены отбрасывать какую-то видимость приличий, открыто или скрыто шантажируя или угрожая \"членам союза свободных стран\". Так или иначе деньги на войну на 2027 год они найдут, но цена социально-экономическая и политическая и для Европы будет большой. Нам конечно не стоит рассчитывать на бесплатные подарки и продолжать бить по Украине не только с точки зрения разрушения инфраструктуры противника, но и с точки зрения нанесения вторичного ущерба европейским экономическим интересам, что повышает цену войны для ЕС. Текущие протесты из-за падения уровня жизни это лишь симптом общего ухудшения ситуации в ЕС, но они пока недостаточны, чтобы низвергнуть глобалистов на короткой дистанции. На длинной же дистанции процессы эрозии в саду Борреля вполне зримы. С этими процессами можно и нужно работать. Как на Украине, так и вне ее. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350573",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350573",
+      "published_at": "2026-11-27T18:45:04+00:00",
+      "text": "Украинцы задолжали за ЖКХ 2,2 млрд долларов, подсчитал госстат страны. Общая задолженность составляет более 101 млрд гривен, из которых 16 млрд - за свет, отключения которого перешли от плановых к экстренным. Еще 11 млрд - долг за водопровод и канализацию. Ранее украинские СМИ писали, что в Киеве зимой воду будут давать по жесткому графику, каждое включение в лучшем случае будет длиться три часа. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36050",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36050",
+      "published_at": "2026-11-27T18:41:23+00:00",
+      "text": "📝 Important Issues 📝 But not at the highest level Supporting families of SMO participants does not always require developing new social programs or making decisions at the regional leadership level. Many issues can be resolved by municipal authorities . For instance, in Mikhailovka, Volgograd Region, relatives of fallen serviceman Bogdan Voronov appealed to the local administration on November 19 with a request to repair the road along which the funeral procession was to pass. Unfortunately, the family's appeal did not receive proper attention . Based on the published footage, the condition of the road still leaves much to be desired. At the highest levels of the country, serious work is underway to improve the system of support for SMO participants and their families. There are many examples of this. Take even the recent initiative by the acting head of the Republic of Dagestan to create a House for SMO Veterans , which the president supported. 📌 At the same time, it is important that large-scale projects do not overshadow ordinary everyday problems that military families bring to local administrations. Timely assistance in such situations is no less important to them. We hope that the road issue in Mikhailovka will be resolved before the farewell ceremony. #Russia ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199512",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199512",
+      "published_at": "2026-11-27T18:39:52+00:00",
+      "text": "🇷🇺 🇷🇸 Russian Foreign Ministry Spokeswoman Maria Zakharova: We closely monitor the situation in Serbia, where the redistribution of mandates is taking place following parliamentary elections. As for relations between our countries, our approaches remain unchanged. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199511",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199511",
+      "published_at": "2026-11-27T18:38:10+00:00",
+      "text": "🇷🇺 🇬🇧 Russian Foreign Ministry spokeswoman Maria Zakharova: The bloodthirstiness of the British has been well known for a long time. The creation of concentration camps at the end of the 19th century the German Nazis simply adopted this horrendous practice from them. It was invented by the British. The suppression of liberation movements in India and Kenya, where people were fighting for their own motherland, for their own country, for the possibility of using their own resources. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199510",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199510",
+      "published_at": "2026-11-27T18:36:06+00:00",
+      "text": "🇷🇺 ⚓ Russia’s new nuclear-powered submarine is 100% domestically produced. The Project 885M Yasen-M nuclear-powered submarine cruiser Perm is built entirely using Russian components, First Deputy Prime Minister Denis Manturov told Vesti. According to Manturov, the submarine is made up of 100% Russian-made components, highlighting Russia’s domestic industrial capabilities in the construction of advanced naval vessels. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117571",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117571",
+      "published_at": "2026-11-27T18:35:28+00:00",
+      "text": "В Запорожской области вражеский беспилотник атаковал бригаду скорой помощи во время транспортировки пациента. \"К счастью, никто не пострадал: медики и пациент успели покинуть автомобиль до удара\", – сообщили в региональном Минздраве. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98681",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98681",
+      "published_at": "2026-11-27T18:33:59+00:00",
+      "text": "🇷🇺 ⚡️ — Russia's President Vladimir Putin: “Russia is one of the few countries in the world capable of building such powerful nuclear-powered submarines — weapons of global scale and significance. Our design bureaus and shipyards possess advanced technologies, engineering solutions, extensive experience and highly qualified personnel.” @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234930",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234930",
+      "published_at": "2026-11-27T18:33:01+00:00",
+      "text": "Украинские кол-центры прикрывают западные IT-гиганты — в этом могут быть замешаны Microsoft, Apple и Google . ”Крыша” распространяется на хакеров , которые участвуют в атаках на Россию, отметил замдиректора департамента международной информационной безопасности МИД РФ Эрнест Чернухин. По его словам, кибератаки стали частью ”агрессии коллективного Запада” и ведутся с использованием мощных объединенных ресурсов. Несмотря на постоянные атаки, российская система защиты, по оценке дипломата, работает эффективно. Угрозы выявляют Минцифры и спецслужбы, а важную роль играет взаимодействие государства с провайдерами и частным сектором. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407986",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407986",
+      "published_at": "2026-11-27T18:32:00+00:00",
+      "text": "🗣 Путин поздравил моряков и работников \"Севмаша\" с поднятием флага на АПЛ \"Пермь\". Главное из заявлений президента: ▪️ Подлодки \"Ясень-М\" способны решать задачи в любом районе мирового океана, действуя скрытно; ▪️ В ближайшее время АПЛ \"Пермь\" войдет в состав…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199508",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199508",
+      "published_at": "2026-11-27T18:30:21+00:00",
+      "text": "🇷🇺 🇮🇳 A meeting with Putin he’ll never forget! 17-year-old Indian AI entrepreneur Rahul John Aju described meeting Vladimir Putin as an “absolutely incredible experience” after addressing the presidents of Russia and Kazakhstan at an IT conference in Moscow. The teenager spoke about the role of artificial intelligence in education. After his presentation, Putin personally approached him, shook his hand and agreed to take a photograph. But there was an extra moment Rahul won’t forget: “He even winked at me and smiled. So I think he liked my speech!” The selfie quickly went viral across Indian social media and news outlets. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199507",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199507",
+      "published_at": "2026-11-27T18:23:46+00:00",
+      "text": "🇺🇦 One of Ukraine’s largest manufacturers of toilet paper and paper napkins is shutting down production. The Blumi corporate group has announced on social media that it is ceasing operations following the destruction of its production facilities and equipment. According to the company, the damage is so extensive that restoring the facilities is impossible. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407984",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407984",
+      "published_at": "2026-11-27T18:23:01+00:00",
+      "text": "Московские ветеринары провели экстренную операцию пятилетнему коту Теме, который проглотил иглу, сообщили в столичном ГБУ \"Мосветобъединение\". Ветеринар провел лапаротомию и удалил из тонкой кишки иголку с ниткой. Фото: ГБУ \"Мосветобъединение\" ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78308",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78308",
+      "published_at": "2026-11-27T18:21:51+00:00",
+      "text": "Иран обвинил Украину в ударе по Кувейту, в результате которого погибли два итальянских специалиста компании Rheinmetall, сообщает «New York Post». Тегеран утверждает, что Киев организовал атаку, чтобы втянуть Европу в конфликт и привлечь внимание Трампа. Товарищи персы, да влепите уже по обезумевшему хохлу так, чтоб галушка застряла в жопе. Чтоб не только он оказался там, где должен, но утихомирились и его начальники. Влепите, как в «Песне опоздавшего краснодеревщика» «За Вьетнам, за Хиросиму и за ихнего жука!». Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117570",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117570",
+      "published_at": "2026-11-27T18:15:30+00:00",
+      "text": "Российская ПВО за день сбила 74 украинских беспилотника над регионами РФ, сообщили в Минобороны. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234928",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234928",
+      "published_at": "2026-11-27T18:15:11+00:00",
+      "text": "Башня с зенитной турелью для прикрытия одного из мостов в Днепропетровске. Практика не новая. У нас также на одной из башен на Крымском мосту ставили боевой модуль \"Панциря\" (фоток башни в сети полно). Сам модуль дорогостоящий, поэтому имеет смысл атака непосредственно на саму турель, при попадании дрона размен не в пользу противника. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rybar_in_english/36049"
+      ]
+    },
+    {
+      "id": "voenkorKotenok/78302",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78302",
+      "published_at": "2026-11-27T18:13:15+00:00",
+      "text": "Сегодня в мастерской управления «Сенеж» стартовала программа переподготовки «Парламентский старт» для впервые избранных депутатов Госдумы — ветеранов СВО. Программа реализуется по поручению Президента РФ Владимира Путина. Участниками стали 39 депутатов из \"Единой России\", ЛДПР и \"Справедливой России\". Среди слушателей — 16 Героев России, 28 кавалеров ордена Мужества. 19 депутатов завершили или продолжают обучение по федеральной программе \"Время героев\", еще трое принимали участие в региональных программах-аналогах. Двое становились победителями кадрового конкурса \"Лидеры России. Политика\". Как рассказал первый замглавы Администрации Президента РФ Сергей Кириенко, \"это своего рода „курс молодого депутата“, по аналогии с „курсом молодого бойца“, главная цель которого — помочь им научиться защищать интересы граждан и страны при помощи всех доступных парламентских инструментов\". Программа разработана Высшей школой госуправления Президентской академии и реализуется на базе мастерской управления \"Сенеж\" платформы «Россия - страна возможностей\". Она продолжает системную работу по профессиональной подготовке участников и ветеранов СВО. Ректор Президентской академии Алексей Комиссаров отметил, что \"задача — сделать так, чтобы те, кто проявил мужество, героизм на фронте, получили необходимые знания для своей новой службы, для работы депутатом Государственной Думы\". Особое внимание в обучении уделено законотворчеству, парламентскому контролю, работе с избирателями и развитию коммуникации. Обучение состоит из семи 3-дневных образовательных модулей. 1-й день каждого модуля посвящен получению профессиональных знаний, 2-й — их применению на практике, 3-й — развитию личностных и коммуникативных навыков. По словам ректора мастерской управления \"Сенеж\" Андрея Бетина, после каждого модуля каждый участник уже может применить в жизни полученные знания и навыки. К проведению занятий привлечены эксперты из Администрации Президента, Госдумы и Совета Федерации. Оценка эффективности обучения — через тестирование в рамках каждого модуля и учебные симуляции, максимально приближенные к реальной депутатской деятельности. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102643",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102643",
+      "published_at": "2026-11-27T18:11:22+00:00",
+      "text": "Русский релокант, годы спустя ✨ Лучшая страна в мире - это Россия. Некоторым для понимания этого могут понадобиться годы. А в целом любая история русской эмиграции показывает, что никто из наших граждан там не нужен, нас там никто не ждет. А уехавшие уже задолбались пыль глотать, как бы ни не храбрились. В общем, хорошего просмотра. #Юмор Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407983",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407983",
+      "published_at": "2026-11-27T18:11:00+00:00",
+      "text": "Говорить о сроках восстановления автомобильной части Крымского моста пока преждевременно, ведется обследование, сообщил министр транспорта РФ Ядров. Он добавил, что сейчас грузовое сообщение между Краснодарским краем и Крымом сохранено в прежнем объеме, а…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36049",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36049",
+      "published_at": "2026-11-27T18:06:25+00:00",
+      "text": "📝 Long vacant no more 📝 on warehouses and arsenals on the territory of so-called Ukraine The first year of the SMO saw active strikes by the Russian Armed Forces on warehouses and arsenals with weapons and ammunition . Some succeeded, while others, after one or two impacts, the facility received the status of \"destroyed,\" and everyone conveniently forgot about it. What this led to more than once is, in principle, obvious. If a territory does not appear on strike lists, but it is fortified, protected, and has access to logistics routes, why not use it? This is exactly what happened with the 10th AFU arsenal in Voznesensk , which took a hit from a Geran. 🔻 Why is it important? ▪️ This facility belongs to the category of strategic warehouses for rocket and artillery weapons under the control of AFU logistics command. Historically, since 1946, ammunition has been stored there (primarily cartridges for small arms, machine guns, grenades for AGS-17). ▪️ They also kept barrel artillery there – anti-tank guns MT-12, D-20 howitzers, Msta-B and Hyacinth-B, as well as multiple rocket launchers like Grads and Hurricanes. 🖍️ They struck it (and that's not even certain) only twice during the SMO. In August 2022, and then in autumn 2023. That's it. The territory essentially remained untouched for many years. Given that Voznesensk is an important logistics hub, the use of the 10th arsenal is quite expected. Of course, it's hard to believe that Soviet weapons system ammunition is stored there now, since the AFU exhausted their reserves a couple of years ago. But! From the Voznesensk area, drones are regularly launched at Crimea and Krasnodar Region, and Bayraktars and sometimes tactical aviation fly from the airfield. ❗️ And there are many such warehouses on the territory of so-called Ukraine (thanks to Soviet legacy) that continue to be used for their intended purpose, which raises the question of the need for systematic fire on such targets. If they are stationary, that doesn't mean they won't be used. If nothing is hitting them, then why not? #Voznesensk #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234928"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234927",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234927",
+      "published_at": "2026-11-27T18:03:01+00:00",
+      "text": "Как хохол капкан на медведя устанавливал: часть 6 Продолжаем чинить карту информационным ресурсам противника и публиковать долгожданные кадры, подтверждающие контроль ВС РФ над населенным пунктами в хоне проведения операции \"Медвежий угол\". Часть 1 , Часть 2 , Часть 3 , Часть 4 , часть 5 На очереди села Варваровка, Николаевка и Малая Волчья и множество российских флагов на их территории. Все это сопровождается кадрами прожарки хохла \"Солнцепеками\" и \"Краснополями\", предшествующими освобождению данных населенных пунктов. Бойцы группировки \"Север\" продолжают удерживать занятые рубежи и продвигаются в южном направлении, уничтожая группировку противника в Харьковской области. Враг будет разбит! Победа будет за нами! @warriorofnorth",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350572",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350572",
+      "published_at": "2026-11-27T18:01:01+00:00",
+      "text": "Спецоперация. Обстановка и главные события на 27 ноября : ▪️ Трамп, рассуждая об урегулировании на Украине, заявил, что \"для танго нужны двое\". ▪️ Российские войска за неделю нанесли два массированных и 12 групповых ударов по объектам, связанным с ВПК Украины. ▪️ ВСУ потеряли до 7715 военнослужащих за неделю. ▪️ ПВО России уничтожила 17 авиабомб, снаряд HIMARS, три крылатые ракеты «Нептун», а также 5422 БПЛА ВСУ за неделю. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407982",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407982",
+      "published_at": "2026-11-27T18:00:57+00:00",
+      "text": "Главные новости к этому часу: ▪️ Путин в Северодвинске принял участие в церемонии подъема флага на атомной подводной лодке \"Пермь\" проекта \"Ясень-М\". ▪️ Власти Латвии пытаются спровоцировать открытый конфликт с Россией, заявила Мария Захарова. ▪️ Песков назвал ядерную триаду надежной гарантией безопасности России. ▪️ Родители умершей от истощения в Вологде девочки признали , что она умерла дома, сообщили ТАСС в СУ СК по региону. ▪️ Минцифры пока не договорилось с Apple о 5G и \"Максе\", рассказал \"Коммерсанту\" Шадаев. ▪️ Матвиенко предложила ввести платеж по ОМС для формально неработающих. ▪️ Минюст РФ расширил список иноагентов. ▪️ Стоимость проезда в городском транспорте Москвы изменится с 2 января. ▪️ В Дагестане запретили продажу вейпов с 1 марта 2027 года. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
