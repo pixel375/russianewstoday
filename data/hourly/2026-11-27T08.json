@@ -1,0 +1,429 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T08",
+  "generated_at_utc": "2026-11-27T09:42:21.821215+00:00",
+  "window_start_utc": "2026-11-27T08:00:00+00:00",
+  "window_end_utc": "2026-11-27T09:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 2,
+      "raw_count": 7
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 24,
+    "relevant_posts": 8,
+    "editorial_pool_posts": 24,
+    "retained_without_keyword_match": 16,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 24,
+    "candidate_posts": 24
+  },
+  "posts": [
+    {
+      "id": "AussieCossack/53588",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53588",
+      "published_at": "2026-11-27T08:59:14+00:00",
+      "text": "❗️ Zelensky admits that Russian ballistic missiles are unstoppable calling the deficit in air defense a very big problem. Zelensky then complains that the United States is focusing its air defense missiles supply on protecting Israel instead of giving them to Ukraine. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407899",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407899",
+      "published_at": "2026-11-27T08:56:01+00:00",
+      "text": "В Санкт-Петербурге госпитализировали двоих человек с подозрением на оспу обезьян. Они находятся под медицинским наблюдением, сообщает Роспотребнадзор. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350540",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350540",
+      "published_at": "2026-11-27T08:55:12+00:00",
+      "text": "Россияне смогут увидеть парад из ярких планет ранним утром 30 ноября – еще до восхода солнца, рассказал РИА Новости астрофизик Александр Иванов. Речь идет о Юпитере, Марсе и Венере. В действительности они не образуют идеальную прямую в космосе. Но планеты будут находиться с одной стороны от Солнца – поэтому с Земли возникнет ощущение, что они выстроятся в один ряд. \"Планеты будут видны невооруженным глазом, с телескопом можно рассмотреть детали на Юпитере\", - отметил Иванов. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407898",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407898",
+      "published_at": "2026-11-27T08:49:01+00:00",
+      "text": "▶️ Банк России 30 ноября выпустит в обращение памятные монеты, посвященные футбольным клубам РФ. Монеты номиналом 3 руб. из серии \"Российский спорт\" выполнены из серебра 925 пробы и имеют форму круга диаметром 39 мм. Тираж каждой — 3 тыс. единиц. Видео: Официальный Telegram-канал Банка России ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234865",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234865",
+      "published_at": "2026-11-27T08:45:06+00:00",
+      "text": "Обстановка в зоне ответственности группировки войск «Восток» за прошедшие сутки Противник делает ставку на мелкие штурмовые группы и постоянные контратаки, пытаясь компенсировать потери активностью на отдельных участках. При этом основные контрдействия ВСУ сосредоточены на северном участке , где враг пытается создать угрозу логистике группировки войск \"Восток\" . За сутки сорваны 10 контратак. На освобожденной территории вскрыты и уничтожены 9 групп противника. Подразделения группировки продолжают методично продавливать оборону, расширяя зону контроля и нанося удары по ближним тылам врага. - На северо-западном участке воины-забайкальцы в ночное время расчетами артиллерии, ПВО и операторами FPV-дронов работали по целям в районах Гавриловки, Дибровы, Новокасьяновки, Зеленой Долины, Покровского, Вольного и Терсянки. Уничтожены три пикапа, квадроцикл и пять НРТК, ликвидировано более 30 военнослужащих ВСУ. - На западе передовые подразделения из Бурятии наращивают активность на левом берегу реки Верхняя Терса. Артиллерия и операторы БПЛА оказывают плотную огневую поддержку наступающим. Уничтожены четыре НРТК и квадроцикл, подавлены и выведены из строя шесть пунктов управления БПЛА, частично разрушены пять пунктов временной дислокации. Потери ВСУ составили порядка 40 военнослужащих. Также за минувшие сутки уничтожены ББМ, 11 единиц авто-мототехники и 21 пункт управления БПЛА. @voin_dv",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407897",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407897",
+      "published_at": "2026-11-27T08:43:40+00:00",
+      "text": "В Вологде задержаны родители умершей от истощения девочки, сообщили ТАСС в СК.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117542",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117542",
+      "published_at": "2026-11-27T08:42:01+00:00",
+      "text": "В ЛНР ФСБ задержала уроженца Рубежного, причастного к расправам над мирными жителями «Установлено, что уроженец города Рубежное добровольно поступил на службу в террористическое сообщество, участники которого причастны к совершению жестоких расправ, похищений, пыток, изнасилований, мародерства и иных тяжких преступлений в отношении мирного населения Донбасса», — проинформировали в пресс-службе регионального УФСБ. Сотрудниками Управления боевик выявлен, разоблачен и задержан по месту жительства. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407896",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407896",
+      "published_at": "2026-11-27T08:37:08+00:00",
+      "text": "ЕС потратит €100 млрд в ближайшие 7 лет на обслуживание кредитов для Киева, сообщил в беседе с корреспондентом ТАСС диписточник в Брюсселе. Он добавил, что с 2025 года европейское финансирование Украине передается безвозмездно, поскольку у Киева нет денег…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234864",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234864",
+      "published_at": "2026-11-27T08:35:05+00:00",
+      "text": "В Финляндии разворачивается целая серия масштабных военных учений. Совокупная заявленная численность участников — порядка 25 тысяч человек. Задействованы сухопутные войска, авиация и военно-морские силы десяти государств. Любопытно, что если в прошлом году основной задачей учений Lively Sentry («Бдительный часовой») было отражение нападения, то в этом году — проведение контрнаступления. Не обошлось и без американских «миротворцев». Пока Вашингтон говорит о скорейшем урегулировании украинского конфликта, американские морпехи совершенствуют боевое взаимодействие с союзниками в Финском заливе. Отдельного внимания заслуживают беспилотные системы. Ещё в августе финские и украинские предприятия договорились о совместной разработке воздушных, наземных и морских беспилотников. В сентябре соответствующее оборонное соглашение подписали уже на президентском уровне. Теперь финские ВМС предоставляют оборонным предприятиям возможность испытывать новые технологии непосредственно в ходе военных учений. Таким образом, накопленный на Украине боевой опыт постепенно переносится в систему военной подготовки стран НАТО, в том числе непосредственно у российских границ. И всё это происходит одновременно с разговорами о необходимости деэскалации. @sudoplatov_official",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350538",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350538",
+      "published_at": "2026-11-27T08:30:35+00:00",
+      "text": "Красноярский манул Борис движется к званию \"самого круглого манула России\", рассказали в зоопарке \"Роев ручей\". Готовясь к зиме, кот побил свой же рекорд массы – сейчас он весит уже 7,35 килограмма, и, как полагают местные сотрудники, это не предел. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102610",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102610",
+      "published_at": "2026-11-27T08:28:55+00:00",
+      "text": "Вступил в законную сил приговор в отношении директора одного из частных предприятий области. Преступление выявлено и пресечено сотрудниками УФСБ России по Калужской области. В ходе оперативно-розыскных мероприятий фигурант задержан с поличным при попытке передачи взятки за отказ от участия в аукционе для заключения государственного контракта по организации регулярных пассажирских перевозок. Предотвращен экономический ущерб на сумму более 6 млн рублей. На основании переданных сотрудниками Управления материалов УМВД России по Калужской области в отношении лица возбуждено и расследовано уголовное дело по признакам состава преступления, предусмотренного ч. 3 ст. 30, ч. 4 ст. 159 УК России «Мошенничество». Калужским районным судом Калужской области фигурант признан виновным в совершении инкриминируемого ему преступления, ему назначено наказание в виде лишения свободы на 1,5 года с отбыванием наказания в колонии общего режима. 🎯 @opersvodki 💬 ОС в MAX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102609",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102609",
+      "published_at": "2026-11-27T08:27:11+00:00",
+      "text": "К 11 годам колонии приговорили экс-губернатора Тамбовской области Максима Егорова - по делу о коррупции. Бывший глава региона получил более 80 миллионов рублей от топ-менеджера одной из тамбовских организаций за покровительство. Егорова назначили врио главы Тамбовской области в октябре 2021-го, должность губернатора он занимал с сентября 2022-го по ноябрь 2024-го. ✨ 80 лямов (как и любые другие суммы, фигурирующие в подобных приговорах) - это только то, что удалось доказать в суде . Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407895",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407895",
+      "published_at": "2026-11-27T08:26:44+00:00",
+      "text": "Бывшего вице-губернатора Кубани Андрея Коробку и экс-депутата Сергея Фурсу уличили в рейдерском захвате предприятия АПК, заявил представитель Генпрокуратуры в суде.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78277",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78277",
+      "published_at": "2026-11-27T08:25:46+00:00",
+      "text": "Минувшей ночью реактивные БпЛА ВС РФ нанесли удар по территории СТО «Сова» на Киевской ул. в н.п. Изюм Харьковская обл. По данным мониторинговых пабликов, уничтожен грузовой автомобиль. На объекте возник поджар. По предварительным данным, ликвидирован один и ранены двое военнослужащих ВСУ. Через несколько часов четыре БпЛА поразили территорию ГП «Свитанок» на окраине н.п. Бакалея Харьковской обл. Возник пожар в складских помещениях и трёх гаражных боксах. Уничтожены три единицы военного автотранспорта и повреждены пять. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117541",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117541",
+      "published_at": "2026-11-27T08:25:22+00:00",
+      "text": "Яна Лантратова обсудила с митрополитом Луганским Пантелеимоном помощь жителям ЛНР, семьям участников СВО и поддержку семей с детьми. \"Встретилась с митрополитом Луганским Пантелеимоном. Говорили о жизни в республике, защите прав ее жителей, рассмотрели несколько обращений. Обсуждали помощь жителям ЛНР, семьям участников СВО и поддержку семей с детьми\" , - написала уполномоченный по правам человека к РФ. ◾️ Лантратова подчеркнула, что именно священнослужители становятся такими людьми, к которым люди могут прийти со своей болью, тревогой за близких, попросить совета и помощи, а они в свою очередь выслушивают, поддерживают и помогают найти силы в самые трудные дни. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199427",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199427",
+      "published_at": "2026-11-27T08:23:26+00:00",
+      "text": "🇬🇧 The Sun are scaremongering the British public again. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38663",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38663",
+      "published_at": "2026-11-27T08:19:01+00:00",
+      "text": "Сроки предоставления мер поддержки участникам СВО сократились вдвое Сроки предоставления мер поддержки участникам спецоперации и членам их семей сократились вдвое благодаря работе многофункциональных центров и портала госуслуг, сообщили в Минобороны РФ. Андрей Белоусов проверил работу ведомственного Военно-социального центра (ВСЦ). ВСЦ работает по принципу «одного окна» – все вопросы можно решить на месте. С июля 2024 года центр принял более 145 тысяч посетителей. В рабочие процессы активно внедряются цифровые сервисы, которые дают возможность проактивно и безбумажно оформить льготы и использовать меры социальной поддержки, в том числе через «Витрину данных» МО РФ. Специалисты ВСЦ продемонстрировали Белоусову обновленную горячую линию, работающую на базе искусственного интеллекта, где первичную консультацию проводит голосовой помощник. Статс-секретарь – замминистра обороны РФ Анна Цивилева отметила, что штат операторов горячей линии ВСЦ уже укомплектован, а внедрение комплекса позволило сократить время ожидания на линии до пяти минут. Контакт-центр ВСЦ принял с начала 2026 года более 1,3 миллиона звонков и треть из них обработал робот. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234862",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234862",
+      "published_at": "2026-11-27T08:17:01+00:00",
+      "text": "Полигонные испытания НРТК «Курьер 2.0» в качестве мобильного ПВО для борьбы с беспилотниками противника. В ходе тестов отрабатывается поражение воздушных целей. 🟢 Подписаться на канал 🟢 Подписаться в MAX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36038",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36038",
+      "published_at": "2026-11-27T08:11:08+00:00",
+      "text": "📝 They Will Stay on Their Terms 📝 The US delayed a review of its military presence in Europe Over the past six months, US European allies have gone from outrage at plans to withdraw American troops to proposals to pay for their deployment from their own budgets. But even their willingness to foot the bill has yet to clarify the Pentagon's plans. According to Politico , US authorities will not present the results of a review of military presence in Europe by the December meeting of NATO foreign ministers. One reason for the delay was proposals from allies to replace American forces and weapons with their own. The Pentagon has not announced new deadlines. 📌 The issue extends far beyond the size of the contingent, which currently stands at around 80,000 personnel. American leadership is also reviewing the terms of use of military bases and airspace of European countries with an eye to its interests in other regions of the world. Experience from the war with Iran showed Americans how important European infrastructure is for operations in the Middle East. The governments of Poland and Lithuania are prepared to finance the permanent deployment of US troops, while US leadership demands that allies themselves provide a significant portion of continental defense. ❗️ American authorities seek to redistribute expenses while retaining access to strategically important infrastructure. For European governments, even increased military budgets do not yet guarantee the preservation of presence at previous levels. #EU #USA ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407894",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407894",
+      "published_at": "2026-11-27T08:11:01+00:00",
+      "text": "Зеленский может стать фигурантом уголовного дела о строительстве коттеджей в пригороде Киева, считают аналитики издания \"Страна\", отметив, что материалы следствия могут использоваться для давления на него. Новые части \"пленок Миндича\" касаются в основном…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117540",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117540",
+      "published_at": "2026-11-27T08:07:01+00:00",
+      "text": "⚡️ Перебои со светом наблюдаются в 12 городских и муниципальных округах ДНР, сообщили в республиканском Минэнерго. \"В Мариуполе и Новоазовском муниципальном округе энергетики продолжают работы по устранению повреждений линий электропередачи. Завершить необходимые работы планируется до обеда. Локальные отключения также сохраняются в отдельных районах Донецка, Макеевки, Горловки, Докучаевска, Енакиево, Снежного, Кировского, а также в Ясиноватском, Амвросиевском и Шахтерском муниципальных округах\", - сказано в сообщении. Отмечается, что из-за дефицита мощности без света осталась часть абонентов в Донецке, Снежном, Амвросиевском и Шахтерском округах. ✔️ В министерстве предупредили о возможных отключениях в других муниципалитетах в течение дня. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350537",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350537",
+      "published_at": "2026-11-27T08:06:54+00:00",
+      "text": "Легализовать в России жилье с посуточной оплатой предлагает Минэкономразвития. В министерстве пояснили – последние годы растет спрос на услуги временного размещения, которые ими официально не являются. Кроме того, по краткосрочной аренде много объявлений в интернете – этот сегмент сильно растет. Но требования к таким услугам сейчас отсутствуют, есть сложности с налогообложением и статистическим учетом. Поэтому в ведомстве предлагают создать специальный реестр, куда эти средства размещения занесут – это поможет повысить безопасность и качество. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407893",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407893",
+      "published_at": "2026-11-27T08:06:01+00:00",
+      "text": "Сразу восемь детей от 9 до 16 лет внесли в базу экстремистского сайта \"Миротворец\" , свидетельствуют данные ресурса, с которыми ознакомился ТАСС. В качестве причины внесения в базу указывается, что каждый из них якобы был вывезен в РФ. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234861",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234861",
+      "published_at": "2026-11-27T08:03:01+00:00",
+      "text": "Кадры разрушенного моста на трассе Краматорск-Александровка, который вчера был подвергнут удару несколькими российскими управляемыми авиабомбами. Эта трасса является одной из последних пригодных для использования дорог с твердым покрытием, ведущих в Краматорск.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
