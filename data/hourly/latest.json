@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-26T22",
-  "generated_at_utc": "2026-11-26T23:43:44.000082+00:00",
-  "window_start_utc": "2026-11-26T22:00:00+00:00",
-  "window_end_utc": "2026-11-26T23:00:00+00:00",
+  "hour_id": "2026-11-26T23",
+  "generated_at_utc": "2026-11-27T00:05:15.979621+00:00",
+  "window_start_utc": "2026-11-26T23:00:00+00:00",
+  "window_end_utc": "2026-11-27T00:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 0
     },
     {
       "handle": "intelslava",
@@ -27,13 +27,13 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 5
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "rybar_in_english",
@@ -105,86 +105,34 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 12,
-    "relevant_posts": 1,
-    "editorial_pool_posts": 12,
-    "retained_without_keyword_match": 11,
+    "raw_posts": 9,
+    "relevant_posts": 4,
+    "editorial_pool_posts": 9,
+    "retained_without_keyword_match": 5,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 12,
-    "candidate_posts": 12
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
   },
   "posts": [
     {
-      "id": "tass_agency/407813",
+      "id": "tass_agency/407818",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407813",
-      "published_at": "2026-11-26T22:52:01+00:00",
-      "text": "Власти Нарвы потребуют от правительства Эстонии гуманитарный коридор с Россией. Об этом заявил \"Известиям\" председатель правящей фракции Plaan B Narva в Нарвском горсобрании Антон Николаев. Он отметил, что гуманитарный коридор \"хотя бы для тех, у кого в России…",
+      "url": "https://t.me/tass_agency/407818",
+      "published_at": "2026-11-26T23:53:19+00:00",
+      "text": "Мерц заявил, что в ЕС по-прежнему нет согласия по финансированию помощи Украине.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78273",
+      "id": "voenkorKotenok/78275",
       "channel": "voenkorKotenok",
       "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78273",
-      "published_at": "2026-11-26T22:43:34+00:00",
-      "text": "Объявив декоммунизацию, хохол под управлением кривляки-шинкаря отказался от ДнепроГЭСа, построенного с помощью американцев в советские времена. ДнепроГЭС выходит из чата. Им \"це не потрібно\". Ну, раз так, значит, так. Сами выбрали такой путь. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407812",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407812",
-      "published_at": "2026-11-26T22:37:54+00:00",
-      "text": "❗️ Работа по восстановлению Крымского моста идет полным ходом, все проектные материалы разработаны, заявил ТАСС Хуснуллин. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407811",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407811",
-      "published_at": "2026-11-26T22:31:01+00:00",
-      "text": "❗️ Главы государств и правительств ЕС не достигли договоренности по его следующему семилетнему бюджету, переговоры продолжатся в декабре, заявил Мерц. ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350522",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350522",
-      "published_at": "2026-11-26T22:14:07+00:00",
-      "text": "Маск пообещал, что каждый ребенок в США получит по две акции SpaceX – одну от компании, и одну от него лично. Две акции SpaceX на бирже стоят сейчас порядка 255 долларов – в рублях это чуть больше 21 тысячи. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234834",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234834",
-      "published_at": "2026-11-26T22:10:13+00:00",
-      "text": "🎮 Кадры боевой работы расчёта \"Молнии\" группировки \"Север\" После получения координат цели операторы БпЛА «Молния-2» оперативно (буквально за несколько минут) подготавливают беспилотник к запуску. Команда из двух человек собирает аппарат, устанавливает крылья, силовую установку и системы управления, а также загружает \"подарок\", доставляемый противнику. Беспилотник приводят в движение с помощью пневматической катапульты, после чего оператор берет управление через FPV-камеру. Боевое дежурство подразделением ведётся круглосуточно, а поставленные задачи выполняются независимо от метеоусловий. Военнослужащие каждый новый запуск меняют точку базирования, что позволяет оставаться незамеченными для противника. Трек: Azar Strato, PTF1987 - Произвол 25 @natoptishh",
+      "url": "https://t.me/voenkorKotenok/78275",
+      "published_at": "2026-11-26T23:51:52+00:00",
+      "text": "В Хмельницком пожар после прилета БпЛА. Подпишись в MAX @voenkorKotenok",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -193,82 +141,95 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199415",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199415",
-      "published_at": "2026-11-26T22:08:50+00:00",
-      "text": "🇹🇷 🇮🇱 🇬🇪 Georgia's Interior Ministry says it was UEFA representatives who confiscated the Palestinian flags from Beşiktaş fans in Batumi, not Georgian officials. It did not explain why Georgian police then went into the stands with batons and tear gas. Beşiktaş went on to win the match 2–1. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199414",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199414",
-      "published_at": "2026-11-26T22:08:01+00:00",
-      "text": "🇺🇦 💥 Explosions in Kiev and Kharkov 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kharkiv",
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199412",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199412",
-      "published_at": "2026-11-26T22:06:03+00:00",
-      "text": "🇺🇦 In Kiev two lion cubs were left outside of an animal shelter. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78272",
+      "id": "voenkorKotenok/78274",
       "channel": "voenkorKotenok",
       "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78272",
-      "published_at": "2026-11-26T22:00:50+00:00",
-      "text": "Благодаря форуму « Молоко России — 2026» я узнал, что в Московской области есть город Пересвет, названный в честь героя Куликовской битвы монаха-воина Александра Пересвета. Удивлен. Слава Богу за всё! Помоги Господи нам выстоять и победить! Подпишись в MAX @voenkorKotenok",
+      "url": "https://t.me/voenkorKotenok/78274",
+      "published_at": "2026-11-26T23:48:49+00:00",
+      "text": "…если человек вдруг начинает «моросить» в случае опасности, делать глупости, совершать необдуманные поступки под обстрелом или, что хуже, истерично метаться, это тоже может оказаться заразным и для других. Подобные взбрыки того, кто считает себя военным журналистом, могут характеризовать его, мягко говоря, не с самой лучшей стороны. Ведь люди все видят. Тем более на войне нутро каждого обнажается полностью. Здесь хорошо заметно, бросается в глаза, кто трусит, кто преследует сугубо корыстные цели, а кто без задней мысли пытается вместе со всеми пережить опасность и сохранить жизнь… …Военные люди ценны и важны в первую очередь для тебя, военкора. Они — лепта в твою жизненную копилку. Ты обрастаешь их историями, ты должен пережить вместе с ними еще раз эпизод боя, чудесный случай спасения, потерю боевого товарища. Все эти ситуации с героями твоих материалов должны пройти у тебя — военкора — перед глазами. Только тогда будет толк… Главное в работе военного журналиста — люди. Наши русские люди, оказавшиеся в горниле войны, проявляют свои лучшие качества. Наша задача — сделать все, чтобы об их достойном служении Родине перед лицом смертельной опасности узнали многие, чтобы это стало достоянием общественности и запечатлелось для потомков. Это пропаганда боевого опыта в самом хорошем смысле слова. Мы не лепим героев, мы только фиксируем их действия в критической обстановке. Наших героев… Читать полностью — 👇 👇 👇 Юрий Котенок: «Не моросить на войне» Оружие в руках. Логистика. Поведение на войне. Коммуникация. Люди Сегодня.ру Подпишись в Мах @segodnia_ru",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "MFARussia/33673",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33673",
-      "published_at": "2026-11-26T22:00:22+00:00",
-      "text": "🎙 Foreign Minister Sergey Lavrov’s opening remarks at the presentation of the Khanty-Mansi Autonomous Area (Moscow, November 26, 2026) 💬 Mr Kukharuk, Ladies and gentlemen, colleagues and friends, I am delighted to welcome you to the presentation of the Khanty-Mansi Autonomous Area – Yugra , a distinctive region of the Russian Federation about which you have just been given a brief but, to my mind, highly vivid account. I am convinced that the remainder of the presentation will spark even greater interest among you. Unfortunately, I have visited Khanty-Mansiysk only once. That was long ago, in 2007, when I took part in the Conference on the Development of International Regional Ties of the Constituent Entities of the Russian Federation and attended the opening of the local branch of the Russian Commission for UNESCO there. Almost 20 years have passed, and today it is particularly gratifying for me to highlight the successes achieved by this region of the Russian Federation. ☝️ It is an industrially developed area with immense economic, investment and tourism potential and a most interesting history, culture and traditions. Today, I promised Governor of the Khanty-Mansi Autonomous Area – Yugra Ruslan Ruslan Kukharuk that I would certainly visit next year, all the more so as there will be great reasons to come back. We will certainly follow through – we will continue our close cooperation. The diversification of the regional economy and the creation of an innovative economic architecture, driven by the leadership of Yugra, make it possible to achieve a synergistic effect from the harmonious combination of vast mineral resources, modern technologies, and high-quality human capital. As a result, the Khanty-Mansi Area occupies a prominent place among the regions with a high share of exports and among the leading contributors to the federal budget. <...> Yugra’s unique experience in preserving the culture and traditional way of life of the indigenous peoples of the North – the Khanty, Mansi and Nenets – as well as its efforts to preserve biodiversity, which is so vital for our planet now, deserves particular attention. Representatives of the region’s indigenous peoples are traditionally involved in the work of Russian delegations at specialised UN fora in New York, Geneva and Nairobi . <...> 🤝 On the instructions of President Vladimir Putin , an International Friendship Club has been established in the region, bringing together participants from 44 foreign countries . Moreover, the Club’s key project – the International Arctic Volunteer Corps – has been included in the national Action Plan for the International Year of Volunteers for Sustainable Development. At the end of last year, the Khanty-Mansi Area ranked first among Russian regions in volunteer activity , charity and the non-profit sector, and second in the national rating for the effectiveness of youth policy implementation. All this is in addition to the leading positions the Area occupies in the economy. I strongly believe that today’s presentation will not only provide an account of Yugra’s achievements but will also serve as a starting point for new, interesting and promising joint initiatives involving partners from the countries represented here. I have no doubt that you will recognise the true worth of the advantages and opportunities Yugra offers and will report on them to your governments and economic operators. Our ministry will do everything it can to help establish ties and advance promising, mutually beneficial projects. Read in full",
+      "id": "tass_agency/407817",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407817",
+      "published_at": "2026-11-26T23:38:01+00:00",
+      "text": "Каждый ребенок в США получит акцию SpaceX уже в декабре, заявил Маск. Сейчас стоимость одной акции компании составляет примерно $127. Ранее предприниматель заявил, что каждый ребенок в Соединенных Штатах получит по две акции SpaceX — одну от компании и одну…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407816",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407816",
+      "published_at": "2026-11-26T23:36:01+00:00",
+      "text": "▶️ Экс-посол РФ в Париже Алексей Мешков рассказал ТАСС, что Франция страдает без российских туристов. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53580",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53580",
+      "published_at": "2026-11-26T23:30:28+00:00",
+      "text": "❗️ German Chancellor Merz is pretending that Trump is on the side of the EU against Russia. \"I was very pleased to see that President Trump addressed Russia today and called on Putin to end the hostilities. It is good that he is doing this. In doing so, he is taking a clear position that we all share.\" @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407815",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407815",
+      "published_at": "2026-11-26T23:23:01+00:00",
+      "text": "Минпросвещения определило единый день проведения последних звонков в 2027 году — их планируется провести 26 мая.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407814",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407814",
+      "published_at": "2026-11-26T23:10:01+00:00",
+      "text": "Переход стран СНГ на расчеты в нацвалютах во взаимной торговле стал эффективным решением для преодоления западных санкций. Об этом заявил генеральный секретарь СНГ Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. ✔️ Подпишись на ТАСС в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "moscow"
+        "sanctions"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407810",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407810",
-      "published_at": "2026-11-26T22:00:01+00:00",
-      "text": "Кирилл Дмитриев назвал тайным злом использование соцсетей и медиаплатформ администрацией Байдена для международного вмешательства и цензуры. К публикации он приложил скриншот электронного письма сотрудника Совета нацбезопасности США от 22 декабря 2022 года. В нем говорится, что Google и YouTube финансировали украинские СМИ через Европейский центр журналистики, а также планировали выделять гранты независимым российским изданиям.",
+      "id": "boris_rozhin/234835",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234835",
+      "published_at": "2026-11-26T23:04:01+00:00",
+      "text": "Пролёт крылатой ракеты Герань-5 над Харьковом, и один из ударов БпЛА в Одессе.",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
       "possible_duplicate_urls": []
     }
   ]
