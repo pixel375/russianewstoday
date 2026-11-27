@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-27T20",
-  "generated_at_utc": "2026-11-27T21:00:52.417313+00:00",
-  "window_start_utc": "2026-11-27T20:00:00+00:00",
-  "window_end_utc": "2026-11-27T21:00:00+00:00",
+  "hour_id": "2026-11-27T22",
+  "generated_at_utc": "2026-11-27T23:05:52.884920+00:00",
+  "window_start_utc": "2026-11-27T22:00:00+00:00",
+  "window_end_utc": "2026-11-27T23:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 5
     },
     {
       "handle": "bricsnews",
@@ -39,7 +39,7 @@
       "handle": "mod_russia_en",
       "name": "Russian Ministry of Defence (English)",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "tass_agency",
@@ -51,19 +51,19 @@
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 4
+      "raw_count": 3
     },
     {
       "handle": "rybar_in_english",
       "name": "Rybar in English",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "WarGonzo",
@@ -75,13 +75,13 @@
       "handle": "boris_rozhin",
       "name": "Colonelcassad",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 2
     },
     {
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -105,365 +105,183 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 27,
-    "relevant_posts": 7,
-    "editorial_pool_posts": 27,
-    "retained_without_keyword_match": 19,
+    "raw_posts": 13,
+    "relevant_posts": 3,
+    "editorial_pool_posts": 13,
+    "retained_without_keyword_match": 10,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 26,
-    "candidate_posts": 26
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
   },
   "posts": [
     {
-      "id": "boris_rozhin/234943",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234943",
-      "published_at": "2026-11-27T20:59:01+00:00",
-      "text": "Наш любимый белорусский блогер рассказывает про отношения Тихановской к русскому и белорусскому языку. На Украине ровно точно также. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407993",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407993",
-      "published_at": "2026-11-27T20:53:15+00:00",
-      "text": "▶️ Путин проводит встречу с главой Архангельской области Цыбульским, передает корреспондент ТАСС. ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350580",
+      "id": "rian_ru/350584",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350580",
-      "published_at": "2026-11-27T20:52:31+00:00",
-      "text": "Силы ПВО сбили 11 БПЛА, летевших на Москву, сообщил Собянин. UPD: Уничтожены еще восемь БПЛА. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/rian_ru/350584",
+      "published_at": "2026-11-27T22:44:30+00:00",
+      "text": "ПВО сбила десять беспилотников, летевших на Москву, сообщил Собянин. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
-      "related_urls": [
-        "https://t.me/rian_ru/350577"
-      ],
+      "related_urls": [],
       "event_signals": [
-        "drone",
         "moscow"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78316",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78316",
-      "published_at": "2026-11-27T20:50:48+00:00",
-      "text": "6. Мосты — маркер. Сначала нам «медийные эксперты» долго объясняли, что по ним бить не перспективно, всё равно не получится. Потом — нам самим нужны мосты, чтоб на ту сторону перейти. Эти «мудрецы» до сих пор по ток-шоу ходят. Сейчас нам враг продемонстрировал, как можно уронить Крымский мост. Почему все вдруг «забыли», что противник в течение последнего полугода системно выбивал РЛС и системы ПВО в Крыму? Системно бил по целям, убивая людей в наших МОГах, готовясь к атаке на мост. Да, эта атака на нашу победу не повлияет. Это стопроцентно PR-история, демонстрация возможностей. Противник сейчас практически объединил спецоперацию и дальние удары в одно целое. Попытки нападений БпЛА на наши аэропорты, объекты инфраструктуры глубокого тыла — ни что иное, как диверсионная, специальная операция по факту с использованием новых технологий. Почему мы при этом лупим по всем мостам одновременно преобладая противника в могучести залпа? Ведь можно сконцентрировать имеющиеся средства поражения и выбить любой мост. Сначала один, потом другой. Не торопясь … Системно. О концентрации ударных сил, средств поражения на одном узком участке фронта еще великий фон Клаузевиц говорил еще в XIX веке. 7. Противник не рассуждает, он готовится со стратегией, не торопится к докладу. И наши взвизги про красные линии уже мало кому там интересны. Противник не просто готов, а уже начал осуществлять мероприятия по закупорке Балтийского моря. Его действия далее вполне прогнозируемы — западники уже ищут возможность попытаться оспаривать даже наш Северный морской путь, добиваясь его экстерриториальности, чтобы им могли пользоваться все, несмотря на то, что практически весь Северный морской путь проходит по территориальным водам РФ. Они уже пытались оспорить («отжать») у нас территорию шельфа в международных судах. Задача противника — разорвать Северный морской путь. Это не скрывают и уже публично проговаривают. Читать полностью — 👇 👇 👇 «Восстань и бей первым!» Мост и мосты как маркер вместе с атаками наших кораблей Сегодня.ру Подпишись в Мах @segodnia_ru",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea",
-        "drone",
-        "procurement",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234942",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234942",
-      "published_at": "2026-11-27T20:47:01+00:00",
-      "text": "Работа 50-й отдельной бригады \"Варяг\" на Славянском тактическом направлении. Эксклюзивные кадры уничтожения живой силы и техники 3-го армейского корпуса ВСУ. «Варяги» всегда доводят дело до конца. Нарушив ход операции «Вивальди», мы не стали останавливаться на достигнутом и продолжили уничтожение «элиты» ВСУ. Результат нашей работы — противник несёт потери, которые уже не восполнит. @Brigada_VARYAG",
+      "id": "tass_agency/407998",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407998",
+      "published_at": "2026-11-27T22:42:01+00:00",
+      "text": "Минтранс дорабатывает проект соглашения с Китаем о пересечении границы на личных авто с учетом замечаний профильных ведомств и приграничных регионов. Об этом сообщил в интервью ТАСС министр транспорта РФ Ядров.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98688",
+      "id": "rian_ru/350583",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350583",
+      "published_at": "2026-11-27T22:36:58+00:00",
+      "text": "Мошенники рассылают ссылки на фишинговые сайты под видом открыток ко Дню матери. Сам переход по ссылке не означает автоматического хищения денег или заражения телефона, сообщил РИА Новости эксперт «Мошеловки» Галактион Кучава. Во многих случаях аферистам требуется дополнительное действие пользователя — ввод пароля, передача кода подтверждения, установка приложения либо предоставление разрешений. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98705",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98688",
-      "published_at": "2026-11-27T20:46:08+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡ Drone strikes by Geran drones on Kremenchuk. @IntelSlava",
+      "url": "https://t.me/intelslava/98705",
+      "published_at": "2026-11-27T22:36:28+00:00",
+      "text": "🇦🇹 🇺🇦 Austria has proposed sending Syrian and Afghan refugees to Ukraine after the war. \"The EU has poured hundreds of billions into Ukraine. Including 3.6 billion of Austrian money. Why not demand — when peace comes — as compensation that it host those people whom we cannot send back to their countries of origin? Ukraine owes us something,\" - said Herbert Kickl.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234949",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234949",
+      "published_at": "2026-11-27T22:33:01+00:00",
+      "text": "Китай мобилизует общество Новая идеология перед большой войной Пекин запускает масштабную программу перестройки национального сознания. До 2030 года каждый гражданин должен получить реальные знания и навыки в области обороны . План, утверждённый Отделом пропаганды ЦК КПК и Управлением мобилизации национальной обороны Центрального военного совета, требует внедрить цифровые технологии и новые медиа в систему патриотического и военного воспитания. Документ обязывает усилить координацию армии и гражданского сектора , расширить практическую подготовку и активно использовать военные объекты для обучения населения. Семь направлений охватывают все социальные группы — от школьников до взрослых. Важный акцент сделан на единстве партии, армии и народа и на целостном подходе к национальной безопасности . Закон об оборонном образовании, принятый еще в 2001 году и дважды обновлённый, получает современную технологическую основу. Сентябрь уже закреплён как месяц национальной обороны. В 2026 году по всей стране прошли открытые дни в казармах, на кораблях и военно-морских базах, массовые экскурсии на места революционной славы и показы учебных фильмов. За программой стоит ясный расчёт. Современная война начинается в умах . Без идеологической спайки, без готовности населения поддерживать армию и без высокого престижа военной службы даже самые современные вооружённые силы остаются уязвимыми. Пекин сознательно консолидирует тыл, заставляя общество мобилизоваться прежде всего в своей голове. Повышение имиджа службы, консолидация единства армии и народа, формирование у граждан ощущения личной ответственности за оборону страны — это элементы единой мобилизационной конструкции. НОАК получает не только новое оружие и отработанные совместные действия, но и идеологически подготовленный тыл. Именно такой тыл в современной войне часто решает исход. @china3army",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407997",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407997",
+      "published_at": "2026-11-27T22:17:50+00:00",
+      "text": "Продолжительность зимних каникул для школьников составит 11 дней. Это на один день короче, чем в прошлом учебном году, сообщили ТАСС в Минпросвещения.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350582",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350582",
+      "published_at": "2026-11-27T22:15:27+00:00",
+      "text": "Россиянам рассказали, как правильно ухаживать за новогодней елкой дома. Перед установкой дерево необходимо промыть под душем, подпилить ствол, а затем поставить в емкость с водой, объяснила РИА Новости эксперт Анна Ильяшенко. Она добавила, ставить ель к батарее не стоит, иначе она высохнет за сутки. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98704",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98704",
+      "published_at": "2026-11-27T22:12:20+00:00",
+      "text": "🇷🇺 ⚡ Amid the West’s non-stop attempts to divide Russian society, the Russian people are uniting around the country's common history, Foreign Minister Sergey Lavrov said. “Being a multiethnic civilization, the Russian state has been developing around traditional spiritual and ethic values for centuries. And today, in the midst of this topsy-turvy time in world history, Western countries continue their attempts to divide our society, while we're propped up by the legacy left us by our ancestors, a kind of safeguard for our nation’s unity and independence,” he said in an address to the participants in the plenary session of the 28th World Russian People’s Council. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407996",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407996",
+      "published_at": "2026-11-27T22:05:01+00:00",
+      "text": "Ограничения работы системы Starshield для Украины продолжают действовать, заявил временный поверенный в делах Украины в США Денис Сеник. Он отметил, что ни одна из заинтересованных сторон не смогла выяснить, кто принял решение о введении этих ограничений.…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98703",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98703",
+      "published_at": "2026-11-27T22:04:06+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡ An attack by Ukrainian drones on Moscow is ongoing. Several dozen have already been shot down. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
+        "moscow",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78315",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78315",
-      "published_at": "2026-11-27T20:44:51+00:00",
-      "text": "Мне кажется, Цаликова Шойгу подбросил Ми-6, чтобы дискредитировать Минобороны. Других объяснений у меня нет.",
+      "id": "boris_rozhin/234948",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234948",
+      "published_at": "2026-11-27T22:03:01+00:00",
+      "text": "Первый раз бойцы ВС РФ сожгли новейшую украинскую лазерную установку \"Блиск\" — турбореактивная \"Герань-4\" влетела в нее спустя несколько дней после того, как кадрами её работы похвастался советник наркофюрера Флеш (Бескрестнов).",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78314",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78314",
-      "published_at": "2026-11-27T20:43:34+00:00",
-      "text": "\"Герань\" посещает бандеровский Кременчуг. Радости что-то не видно у врага. Сегодня.ру Подпишись в Мах @segodnia_ru",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78313",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78313",
-      "published_at": "2026-11-27T20:43:10+00:00",
-      "text": "В Днепропетроске — серия взрывов. Город атакован реактивными БпЛА ВС РФ. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350579",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350579",
-      "published_at": "2026-11-27T20:41:00+00:00",
-      "text": "Путин встретился с главой Архангельской области Цыбульским. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rian_ru/350578",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350578",
-      "published_at": "2026-11-27T20:37:38+00:00",
-      "text": "Застрявших в мороз на границе с Эстонией людей спасли в Ленинградской области. Ночь в очереди на улице при минус пяти градусах провели более 50 жителей Нарвы. Они не успели вернуться домой из Ивангорода из-за медленной работы эстонского КПП, сообщил губернатор Александр Дрозденко. \"Этих людей мы, разумеется, не бросим. К пункту пропуска подан автобус, в котором можно согреться. Всю ночь будет работать кафе… оказываем помощь с размещением в местных гостиницах\", – рассказал он. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "rybar_in_english/36055",
-      "channel": "rybar_in_english",
-      "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/36055",
-      "published_at": "2026-11-27T20:35:46+00:00",
-      "text": "📝 Rybar's Main Points 📝 digest of materials for November 27 Today we analyzed the president's statements on sovereign AI, and also discussed the new Arctic development strategy. ❗️ Read more about these and other topics in our digest. ➡️ Rybar @rybar — we talk about complex things simply. The main resource of our think tank. The most important and interesting materials. ▪️ Chronicles of the SMO, another series of strikes on Ukrainian infrastructure and the importance of repeated destruction ▪️ Rybar explains: why the pace of advance has slowed ▪️ Congratulatory artillery for Marine Infantry Day ▪️ Americans cannot make up their minds ▪️ Moldova's government deepens the rift ▪️ Will Serbs impose sanctions against Russia ▪️ How Russian cities find African partners ▪️ New strategy for Arctic development ▪️ NATO does not want to get drawn into the conflict ▪️ Why Russia needs its own neural networks ➡️ ASIABAR @rybar_Pacific Chinese authorities warned the US of retaliatory measures. Japan's government promotes its Trans-Pacific Partnership. And in Kyiv they fabricated a quarrel between Russia's and North Korea's leadership. ➡️ AMERICABAR @rybar_america Trump accused statisticians of cooking GDP figures, Democrats try to block funding for war with Iran, and the Senate demands the resignation of Commerce Secretary Lutnick. ➡️ AFRICABAR @rybar_Africa Rusal builds schools in Guinea, consolidating its position in the mining region, and Algeria refused to mediate for Tuaregs after their alliance with radicals, depriving separatists of diplomatic support.",
+      "id": "intelslava/98702",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98702",
+      "published_at": "2026-11-27T22:02:33+00:00",
+      "text": "🇮🇹 🇱🇾 🇺🇦 ⚡ Meloni is furious that Zelensky did not warn Italy about the strike on ships in Libya. The Ukrainian attack has cooled what were once warm relations between the countries — Bloomberg. There was a tense conversation between them due to Kyiv's lack of coordination with its partners. Meloni is now also facing the domestic political consequences of the Ukrainian attack. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "kyiv",
-        "sanctions",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234941",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234941",
-      "published_at": "2026-11-27T20:35:05+00:00",
-      "text": "Запорожье. Кадры работы разведчиков ВДВ Предложение сдаться было отклонено. Церемониться никто не стал и элитная пехота ВСУ была обнулена. Перемога будэ? @arx_spn",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407992",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407992",
-      "published_at": "2026-11-27T20:34:01+00:00",
-      "text": "Жители эстонской Нарвы опасаются вымирания города, если граница с РФ закроется надолго. Об этом сообщает El Mundo. По информации газеты, город получал большое количество денег благодаря туризму и обслуживанию пересекающих границу людей. ✔️ Подпишись на ТАСС…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199516",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199516",
-      "published_at": "2026-11-27T20:32:33+00:00",
-      "text": "🇩🇪 🇺🇦 Rheinmetall is considering abandoning plans to build an ammunition factory in Ukraine. Rheinmetall CEO Armin Papperger has indicated that the German defence giant could pull the plug on its planned Ukrainian production facility for 155mm artillery shells, citing a lack of progress over the past year. The project, announced in February 2024, was expected to produce around 150,000 shells annually, with production originally scheduled to begin in 2026. There is also an interesting coincidence: two specialists killed in the strike in Kuwait, which Iran blamed on Ukraine, were reportedly employees of Rheinmetall Italia. A project announced with considerable fanfare now appears to be facing an uncertain future. 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199515",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199515",
-      "published_at": "2026-11-27T20:30:21+00:00",
-      "text": "🇺🇦 Geran strike in Kremenchug 🔴 @DDGeopolitics",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407991",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407991",
-      "published_at": "2026-11-27T20:27:51+00:00",
-      "text": "Сбиты восемь летевших на Москву БПЛА, заявил Собянин. Ранее сообщалось еще об 11 сбитых беспилотниках.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234939",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234939",
-      "published_at": "2026-11-27T20:25:09+00:00",
-      "text": "Публикуются видео обстрела противником группы гражданских лиц, которые пытаются выйти из Купянск- Узлового. Также они недавно обстреливали гражданских, которые выходили из Константиновки. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "dva_majors/102649",
-      "channel": "dva_majors",
-      "source": "Two Majors",
-      "url": "https://t.me/dva_majors/102649",
-      "published_at": "2026-11-27T20:21:07+00:00",
-      "text": "Дружковское направление У операторов БПЛА 255-го мотострелкового полка появился пушистый стажёр. Уселся между бойцами и с серьёзным видом наблюдает за происходящим на экране. ✨ Пока к пульту не допускают, но теоретическую часть уже осваивает. Главное, чтобы мышку не перепутал. Два майора ✨ Два майора в МАХ",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30820",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30820",
-      "published_at": "2026-11-27T20:20:25+00:00",
-      "text": "Those who are going to sleep – sleep well. Those, who are on the front line – may the strength and luck be with you. Congratulations, The Black Berets ▫️ 👋 Special respect to the 55th Marine Division's servicemen 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234938",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234938",
-      "published_at": "2026-11-27T20:15:08+00:00",
-      "text": "#мемы #юмор",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30819",
-      "channel": "mod_russia_en",
-      "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30819",
-      "published_at": "2026-11-27T20:10:25+00:00",
-      "text": "📆 Top News Today ⚓️ Russian President Vladimir Putin held a meeting on the development of the multi-purpose nuclear submarine force of the Navy and highlighted the main tasks to develop the submarine forces. 👊 Enemy knocked out: delivered strikes at transport infrastructure and defence industry facilities, as well as vessels used in the interests of the AFU. 🔥 Lighting enemy up : the Solntsepyok heavy flamethrower system of the Zapad Group of Forces wiped out an enemy stronghold in Krasny Liman direction. 💯 Armour has the last word: the Vostok Group's tankmen neutralised AFU drones in Zaporozhye region. ⛔️ ‘We give no opportunity for enemy to advance’: commander of artillery platoon told , how Russian servicemen control all approaches and highways to Duzhkovka, disrupting the enemy's logistics. ▫️ Their character is steel: Marine Day is celebrated in the Armed Forces of the Russian Federation, Commander-in-Chief of the Russian Navy Admiral of the Fleet Aleksandr Moiseyev congratulated The Black Berets. #TopNews 🔹 Russian Defence Ministry",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike",
-        "zaporizhzhia"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98687",
+      "id": "intelslava/98700",
       "channel": "intelslava",
       "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98687",
-      "published_at": "2026-11-27T20:09:01+00:00",
-      "text": "🇷🇺 ⚡️ Russian President Vladimir Putin states that expanding serial ship production and modernizing naval weapons will ensure stable operations for shipbuilders and suppliers. He adds that these initiatives will strengthen the shipbuilding and defense sectors, promote advanced technologies and employment, and reinforce Russia’s defense and technological sovereignty. @Intelslava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234937",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234937",
-      "published_at": "2026-11-27T20:05:08+00:00",
-      "text": "Глава Кильского института мировой экономики Мориц Шуларик предложил продать автоконцерн Volkswagen китайцам, пока за него еще можно выручить деньги. Поводом стали спад поставок VW в Китай на 30,2% (за январь–сентябрь) и планы сократить около 100 000 рабочих мест к 2030 году. При операционной прибыли в €8,8 млрд экономист видит в сделке шанс продать стареющий флагман до его окончательного обвала. @banksta",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78312",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78312",
-      "published_at": "2026-11-27T20:03:42+00:00",
-      "text": "Украинские дроны прямо сейчас пытаются прорваться к Москве. На подступах к столице активно работает ПВО. Много перехваченных воздушных целей. Аэропорты Домодедово и Внуково принимают и отправляют рейсы по согласованию с соответствующими органами. Подпишись в MAX @voenkorKotenok",
+      "url": "https://t.me/intelslava/98700",
+      "published_at": "2026-11-27T22:00:37+00:00",
+      "text": "🇫🇮 ⚡ On 26 November 2026, Finland’s Ministry of Defence approved the purchase of 160 CV9035 Mk IV Nordic Edition light combat vehicles from the Swedish company BAE Systems Hägglunds AB under the joint IFV 2030 procurement programme, which includes Sweden, Norway, Lithuania, and the Netherlands. The cost of Finland’s share of the deal is 3.07 billion dollars, with an option to acquire another 100 vehicles. The total order of the five countries will exceed 430 light combat vehicles. Part of the financing will be provided through EU loans under the SAFE programme. The new version of the CV90 light combat vehicle will be equipped with a 35 mm Bushmaster cannon, the ability to use Spike LR2 anti-tank missiles, enhanced armor protection, and an active protection system. Capabilities for countering drones and other aerial targets have also been improved. The drivetrain includes a Scania engine and a Perkins X300 transmission. @IntelSlava",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
         "drone",
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78311",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78311",
-      "published_at": "2026-11-27T20:00:38+00:00",
-      "text": "Зеленский в телефонном разговоре с итальянским премьером Мелони признал, что удар по российским кораблям в Ливии был проведен без предварительной координации с «европейскими партнерами». Просроченный вкрадчиво щебетал о «приверженности тому, чтобы наши соответствующие органы делились всей необходимой информацией и поддерживали прямую, регулярную и эффективную коммуникацию». Другими словами: «Успокойтесь. О том, как мы будем топить и убивать русских, мы вам обязательно расскажем и покажем в следующий раз». Наверное, чтобы взбодрить их перед переговорами с разозлившимся Мединским. Подпишись в MAX @voenkorKotenok",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "negotiation",
-        "strike"
+        "missile",
+        "procurement"
       ],
       "possible_duplicate_urls": []
     }

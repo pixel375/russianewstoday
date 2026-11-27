@@ -1,0 +1,403 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T21",
+  "generated_at_utc": "2026-11-27T23:05:56.591214+00:00",
+  "window_start_utc": "2026-11-27T21:00:00+00:00",
+  "window_end_utc": "2026-11-27T22:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 22,
+    "relevant_posts": 12,
+    "editorial_pool_posts": 22,
+    "retained_without_keyword_match": 10,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 21,
+    "candidate_posts": 21
+  },
+  "posts": [
+    {
+      "id": "intelslava/98698",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98698",
+      "published_at": "2026-11-27T21:59:41+00:00",
+      "text": "🇺🇦 ⚡ At the crematorium in Lvov, the furnaces are already being tested: construction is in its final stage. It is noted that urns with ashes will make it possible to significantly save space at the Holosko cemetery. In the place of one traditional burial, up to 20 urns can be placed. It should be recalled that earlier the city council reported that at the Lychakiv cemetery in Lvov, where fallen servicemen of the Armed Forces of Ukraine are buried, only 20 plots remain. The city is looking for a new site. Recently, the mayor of Lvov, Sadovyi, sold the first certificate for cremation in the new crematorium for 25,000 hryvnias at a charity auction during a stand-up performance by comedian Anton Tymoshenko. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407995",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407995",
+      "published_at": "2026-11-27T21:59:01+00:00",
+      "text": "Порядок взимания сбора за возврат ж/д билетов изменится с 1 декабря. При возврате за 45 суток и более до отправления сбор составит 1%, от 30 до 44 суток — 3%, от 10 до 29 суток — 5%, за 9 и менее суток до отправления — 10%.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98697",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98697",
+      "published_at": "2026-11-27T21:56:40+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡ A map of Russian strikes on Ukrainian power infrastructure facilities for August–October 2026. Recorded strikes by month: 🟢 August – 76; 🟢 September – 93; 🟢 October – 227. In addition to power plants and large trunk substations, thanks to loitering UAVs the Russian Armed Forces have begun to more actively attack small substations and power transmission lines. Whereas in August the main targets were frontline and border regions, from September–October the strikes spread to central and western regions. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98694",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98694",
+      "published_at": "2026-11-27T21:56:00+00:00",
+      "text": "🇵🇱 🇺🇦 ⚡ Queues lasting two to three days have formed massive traffic jams on the Ukrainian‑Polish border. At the “Shehyni–Medyka” checkpoint, neither buses nor passenger cars are practically moving. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234947",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234947",
+      "published_at": "2026-11-27T21:45:07+00:00",
+      "text": "Герои СВО: позывной Нохчо. Часть 1 Работал в «Вагнере», в 2024 году подписал контракт с «Ахматом», а сейчас служит старшим мобильной огневой группы на Харьковском направлении . Нохчо вместе с сослуживцами залетает на машинах на вражеские позиции, куда другие не рискуют. Об этом военнослужащий рассказал военкору RT Юлии Мартовалиевой @MartovalievaTG . Во время одной из боевых задач Нохчо атаковали сразу пять дронов ВСУ. Три он смог сбить, один беспилотник попал в него и сильно ранил. До штаба боец не доехал 100 м. Перед тем как потерять сознание, военнослужащий успел открыть дверь машины. Его заметили и спасли сослуживцы, они же сбили последний вражеский дрон, который всё это время преследовал его. 🟩 Подписаться | Рассылка | Сайт RT",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199521",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199521",
+      "published_at": "2026-11-27T21:42:19+00:00",
+      "text": "🇺🇦 Apartment sales in Kiev’s new-build market have collapsed tenfold compared with 2021, according to Ukrainian media. Citing Igor Raikov, founder of the Kiev School of Development, Ukrainian media report that monthly sales of newly built apartments in the capital have fallen to just $20 million. That compares with approximately $200 million in September 2021 and $38.4 million in August this year. Several factors are putting potential buyers off, including power outages, Russian strikes, exchange-rate fluctuations and limited access to government housing programmes. The downturn has left Kiev developers sitting on an estimated 17,000 unsold apartments. At the current rate of sales, it could take more than eight years to clear the existing inventory. A stark indication of the pressure facing Ukraine’s property market. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199520",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199520",
+      "published_at": "2026-11-27T21:37:08+00:00",
+      "text": "🇷🇺 🇪🇪 “We will not abandon people”: Russia assists more than 50 people stranded at the Estonian border in freezing temperatures. More than 50 residents of Narva, Estonia, have found themselves stranded at the border with Russia, facing a night outdoors in temperatures expected to fall to -5°C. According to Leningrad Region Governor Alexander Drozdenko, the group had crossed the Narva Bridge to visit relatives ahead of the planned introduction of border restrictions. He accused the Estonian side of deliberately obstructing their passage while Russian border services continued to operate normally. In response to the situation, Russian authorities have arranged emergency assistance. A bus has been sent to provide shelter, while local cafés will remain open throughout the night. Hotels are preparing accommodation, and emergency services are on standby to establish additional warming centres and provide hot meals if needed. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199519",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199519",
+      "published_at": "2026-11-27T21:35:55+00:00",
+      "text": "🇮🇹 🇺🇦 Meloni is furious that Zelensky didn't warn her before Ukraine's strike on Russian ships in Libya, according to Bloomberg Bloomberg says the two had a tense phone call over Kiev's failure to coordinate with its partners. Meloni, until now one of Zelensky's most loyal backers in Europe, is facing political fallout at home over the attack. A source familiar with the call said the strike has cooled once-warm relations between Rome and Kiev. Italy's official readout of the call is blunt: the Ukrainian operation in the port of Benghazi violated Libya's sovereignty and risks spreading the war to the Mediterranean. Meloni told Zelensky that Italy's support for Ukraine does not extend to actions that put Italy's security at risk. Zelensky had first claimed that Ukraine never carries out such operations without coordinating with its partners. Italian Foreign Minister Antonio Tajani rejected this, and Defence Minister Guido Crosetto said Zelensky had \"said something false\" and that none of the allies knew anything. After the call, Zelensky changed his story and admitted the operation in Libya was carried out without prior coordination with European partners. According to Italian daily Il Foglio, Zelensky also apologised to Meloni and promised that Ukrainian intelligence would give Italy more details of future operations in advance. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19864",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19864",
+      "published_at": "2026-11-27T21:33:58+00:00",
+      "text": "JUST IN: 🇨🇳 China sentences former regional government chief to death for accepting bribes. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350581",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350581",
+      "published_at": "2026-11-27T21:33:29+00:00",
+      "text": "В Иране считают , что за атакой дронов по Кувейту возможно стоит Киев. По мнению профессора Тегеранского университета Маранди, атака Украины направлена на демонстрацию своего потенциала Трампу. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234946",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234946",
+      "published_at": "2026-11-27T21:33:01+00:00",
+      "text": "Боевая работа операторов Центра \"Рубикон\" за 27 ноября 2026 года 00:05 - Донбасс 02:03 - Сумское направление 02:36 - Славянское направление 03:15 - Доставка снабжения союзным подразделениям 03:43 - Взаимодействие с ВКС РФ по поражению целей ВСУ 04:11 - Дистанционное минирование логистических маршрутов ВСУ 05:00 - Боевая работа ночных расчетов FPV-ПВО по БПЛА ВСУ 05:25 - Боевая работа дневных расчетов FPV-ПВО по БПЛА ВСУ 06:15 - Боевая работа расчетов FPV-перехватчиков \"Молния-ПВО\" по БПЛА ВСУ 07:00 - Боевая работа расчетов FPV-ПВО по дальнобойным БПЛА ВСУ Опубликовано эпизодов : 181",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199517",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199517",
+      "published_at": "2026-11-27T21:29:19+00:00",
+      "text": "🇷🇺 ⛸️ One of the Russia’s largest ice rinks has opened at VDNKh in Moscow. Guests were offered Skating classes, performances by musicians and acrobats, and DJ sets accompanied by a light show. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19862",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19862",
+      "published_at": "2026-11-27T21:23:23+00:00",
+      "text": "JUST IN: 🇨🇳 Chinese black markets are selling banned $550k Nvidia $NVDA servers for $3,000,000 @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98693",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98693",
+      "published_at": "2026-11-27T21:21:32+00:00",
+      "text": "🇷🇺 🇺🇸 ⚡️ — President Putin’s envoy Kirill Dmitriev: “It is very important that dialogue with the U.S. continues. It is based on the successes we have already achieved, which Jared Kushner also spoke about. This dialogue is extremely important because it contrasts…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98692",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98692",
+      "published_at": "2026-11-27T21:19:43+00:00",
+      "text": "🇷🇺 ⚡️ — President Vladimir Putin: “We will continue to strengthen Russia's position in the world's oceans.” @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407994",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407994",
+      "published_at": "2026-11-27T21:17:28+00:00",
+      "text": "▶️ Путин и Пашинян обсудят вопросы безопасности и российской базы, заявил Песков. Отношения с Арменией широкие, несмотря на сложности, на повестке предстоящих переговоров с Пашиняном вопрос выбора ориентации между РФ и ЕС. Видео: Алексей Голенищев/ТАСС …",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98691",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98691",
+      "published_at": "2026-11-27T21:17:18+00:00",
+      "text": "🇷🇺 🇨🇳 🇺🇸 ⚡️ — President Putin’s envoy Kirill Dmitriev: “The trilateral meeting between Russia, China and the U.S. was indeed extremely important, partly because everyone recognized the leadership of these countries in many spheres around the world. Therefore…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78318",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78318",
+      "published_at": "2026-11-27T21:15:20+00:00",
+      "text": "Поздним вечером в н.п. Люботин Харьковской области в электричку прилетел БпЛА. Его не пустили и он расстроился. Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234944",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234944",
+      "published_at": "2026-11-27T21:15:07+00:00",
+      "text": "ВНезапно. Иранские СМИ заявляют, что Украина организовала удар по Кувейту и убила двух граждан Италии (те самые \"эксперты ПВО\" обслуживавшие ПВО-систему Skynex). Жирно так набросили.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98690",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98690",
+      "published_at": "2026-11-27T21:13:34+00:00",
+      "text": "🇷🇺 🇺🇸 ⚡️ — President Putin’s envoy Kirill Dmitriev: “The entire team of President Trump is oriented towards peace, towards a peace process, and the Russian president often speaks about this. Therefore, both Steve Witkoff and Jared Kushner are peacemakers, people who are trying to resolve things and find a peaceful solution.” @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/intelslava/98689"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78317",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78317",
+      "published_at": "2026-11-27T21:00:11+00:00",
+      "text": "В оккупированном Славянске идут повальные грабежи квартир и гаражей со стороны ВСУ Местные паблики пишут о тотальном мародерстве в оккупированном Славянске (ДНР) со стороны бандформирований Киева. Спасаясь от боевых действий, город покинуло огромное число…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

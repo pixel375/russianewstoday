@@ -1,0 +1,289 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T22",
+  "generated_at_utc": "2026-11-27T23:05:52.884920+00:00",
+  "window_start_utc": "2026-11-27T22:00:00+00:00",
+  "window_end_utc": "2026-11-27T23:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 13,
+    "relevant_posts": 3,
+    "editorial_pool_posts": 13,
+    "retained_without_keyword_match": 10,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 13,
+    "candidate_posts": 13
+  },
+  "posts": [
+    {
+      "id": "rian_ru/350584",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350584",
+      "published_at": "2026-11-27T22:44:30+00:00",
+      "text": "ПВО сбила десять беспилотников, летевших на Москву, сообщил Собянин. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407998",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407998",
+      "published_at": "2026-11-27T22:42:01+00:00",
+      "text": "Минтранс дорабатывает проект соглашения с Китаем о пересечении границы на личных авто с учетом замечаний профильных ведомств и приграничных регионов. Об этом сообщил в интервью ТАСС министр транспорта РФ Ядров.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350583",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350583",
+      "published_at": "2026-11-27T22:36:58+00:00",
+      "text": "Мошенники рассылают ссылки на фишинговые сайты под видом открыток ко Дню матери. Сам переход по ссылке не означает автоматического хищения денег или заражения телефона, сообщил РИА Новости эксперт «Мошеловки» Галактион Кучава. Во многих случаях аферистам требуется дополнительное действие пользователя — ввод пароля, передача кода подтверждения, установка приложения либо предоставление разрешений. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98705",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98705",
+      "published_at": "2026-11-27T22:36:28+00:00",
+      "text": "🇦🇹 🇺🇦 Austria has proposed sending Syrian and Afghan refugees to Ukraine after the war. \"The EU has poured hundreds of billions into Ukraine. Including 3.6 billion of Austrian money. Why not demand — when peace comes — as compensation that it host those people whom we cannot send back to their countries of origin? Ukraine owes us something,\" - said Herbert Kickl.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234949",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234949",
+      "published_at": "2026-11-27T22:33:01+00:00",
+      "text": "Китай мобилизует общество Новая идеология перед большой войной Пекин запускает масштабную программу перестройки национального сознания. До 2030 года каждый гражданин должен получить реальные знания и навыки в области обороны . План, утверждённый Отделом пропаганды ЦК КПК и Управлением мобилизации национальной обороны Центрального военного совета, требует внедрить цифровые технологии и новые медиа в систему патриотического и военного воспитания. Документ обязывает усилить координацию армии и гражданского сектора , расширить практическую подготовку и активно использовать военные объекты для обучения населения. Семь направлений охватывают все социальные группы — от школьников до взрослых. Важный акцент сделан на единстве партии, армии и народа и на целостном подходе к национальной безопасности . Закон об оборонном образовании, принятый еще в 2001 году и дважды обновлённый, получает современную технологическую основу. Сентябрь уже закреплён как месяц национальной обороны. В 2026 году по всей стране прошли открытые дни в казармах, на кораблях и военно-морских базах, массовые экскурсии на места революционной славы и показы учебных фильмов. За программой стоит ясный расчёт. Современная война начинается в умах . Без идеологической спайки, без готовности населения поддерживать армию и без высокого престижа военной службы даже самые современные вооружённые силы остаются уязвимыми. Пекин сознательно консолидирует тыл, заставляя общество мобилизоваться прежде всего в своей голове. Повышение имиджа службы, консолидация единства армии и народа, формирование у граждан ощущения личной ответственности за оборону страны — это элементы единой мобилизационной конструкции. НОАК получает не только новое оружие и отработанные совместные действия, но и идеологически подготовленный тыл. Именно такой тыл в современной войне часто решает исход. @china3army",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407997",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407997",
+      "published_at": "2026-11-27T22:17:50+00:00",
+      "text": "Продолжительность зимних каникул для школьников составит 11 дней. Это на один день короче, чем в прошлом учебном году, сообщили ТАСС в Минпросвещения.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350582",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350582",
+      "published_at": "2026-11-27T22:15:27+00:00",
+      "text": "Россиянам рассказали, как правильно ухаживать за новогодней елкой дома. Перед установкой дерево необходимо промыть под душем, подпилить ствол, а затем поставить в емкость с водой, объяснила РИА Новости эксперт Анна Ильяшенко. Она добавила, ставить ель к батарее не стоит, иначе она высохнет за сутки. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98704",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98704",
+      "published_at": "2026-11-27T22:12:20+00:00",
+      "text": "🇷🇺 ⚡ Amid the West’s non-stop attempts to divide Russian society, the Russian people are uniting around the country's common history, Foreign Minister Sergey Lavrov said. “Being a multiethnic civilization, the Russian state has been developing around traditional spiritual and ethic values for centuries. And today, in the midst of this topsy-turvy time in world history, Western countries continue their attempts to divide our society, while we're propped up by the legacy left us by our ancestors, a kind of safeguard for our nation’s unity and independence,” he said in an address to the participants in the plenary session of the 28th World Russian People’s Council. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407996",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407996",
+      "published_at": "2026-11-27T22:05:01+00:00",
+      "text": "Ограничения работы системы Starshield для Украины продолжают действовать, заявил временный поверенный в делах Украины в США Денис Сеник. Он отметил, что ни одна из заинтересованных сторон не смогла выяснить, кто принял решение о введении этих ограничений.…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98703",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98703",
+      "published_at": "2026-11-27T22:04:06+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡ An attack by Ukrainian drones on Moscow is ongoing. Several dozen have already been shot down. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234948",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234948",
+      "published_at": "2026-11-27T22:03:01+00:00",
+      "text": "Первый раз бойцы ВС РФ сожгли новейшую украинскую лазерную установку \"Блиск\" — турбореактивная \"Герань-4\" влетела в нее спустя несколько дней после того, как кадрами её работы похвастался советник наркофюрера Флеш (Бескрестнов).",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98702",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98702",
+      "published_at": "2026-11-27T22:02:33+00:00",
+      "text": "🇮🇹 🇱🇾 🇺🇦 ⚡ Meloni is furious that Zelensky did not warn Italy about the strike on ships in Libya. The Ukrainian attack has cooled what were once warm relations between the countries — Bloomberg. There was a tense conversation between them due to Kyiv's lack of coordination with its partners. Meloni is now also facing the domestic political consequences of the Ukrainian attack. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98700",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98700",
+      "published_at": "2026-11-27T22:00:37+00:00",
+      "text": "🇫🇮 ⚡ On 26 November 2026, Finland’s Ministry of Defence approved the purchase of 160 CV9035 Mk IV Nordic Edition light combat vehicles from the Swedish company BAE Systems Hägglunds AB under the joint IFV 2030 procurement programme, which includes Sweden, Norway, Lithuania, and the Netherlands. The cost of Finland’s share of the deal is 3.07 billion dollars, with an option to acquire another 100 vehicles. The total order of the five countries will exceed 430 light combat vehicles. Part of the financing will be provided through EU loans under the SAFE programme. The new version of the CV90 light combat vehicle will be equipped with a 35 mm Bushmaster cannon, the ability to use Spike LR2 anti-tank missiles, enhanced armor protection, and an active protection system. Capabilities for countering drones and other aerial targets have also been improved. The drivetrain includes a Scania engine and a Perkins X300 transmission. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "procurement"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
