@@ -1,0 +1,546 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T17",
+  "generated_at_utc": "2026-11-27T18:05:49.090941+00:00",
+  "window_start_utc": "2026-11-27T17:00:00+00:00",
+  "window_end_utc": "2026-11-27T18:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 32,
+    "relevant_posts": 9,
+    "editorial_pool_posts": 32,
+    "retained_without_keyword_match": 23,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 32,
+    "candidate_posts": 32
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/199506",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199506",
+      "published_at": "2026-11-27T17:59:20+00:00",
+      "text": "🇺🇸 💥 🇮🇷 US pirates have attacked an Iranian cargo ship that was trying to break the blockade of the Strait of Hormuz. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117569",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117569",
+      "published_at": "2026-11-27T17:57:27+00:00",
+      "text": "🇷🇺 Российские ДРГ активно работают в Рогозянке Харьковской области — этот населенный пункт находится глубоко в тылу группировки украинских войск, действующих в районе поселка Великий Бурлук. \" Это логистический кошмар для ВСУ, отчасти блокирующий снабжение великобурлукского гарнизона \", — констатировал военный эксперт Александр Хроленко в программе \"Время Ч\" на @SputnikLive . 🔴 Не грузит видео? Смотрите его в MAКС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19861",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19861",
+      "published_at": "2026-11-27T17:52:17+00:00",
+      "text": "JUST IN: 🇫🇷 🇺🇸 France opposes proposed US export restrictions on ASML over chip sales to China. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407981",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407981",
+      "published_at": "2026-11-27T17:52:00+00:00",
+      "text": "Бывший главный нарколог РФ Евгений Брюн умер на 77-м году жизни из-за хронического онкологического заболевания, сообщил ТАСС источник в окружении врача. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234926",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234926",
+      "published_at": "2026-11-27T17:47:01+00:00",
+      "text": "Латвия передала ВСУ десятки тысяч БПЛА для организации регулярных атак по территории России , заявили в МИД РФ. Москва оставляет за собой право на решительные политико-дипломатические меры в ответ на враждебный курс Латвии. Латвия готова принести в жертву свою экономику и безопасность населения, чтобы остаться форпостом провоцирования войны в Европе, подчеркнули в ведомстве.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407980",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407980",
+      "published_at": "2026-11-27T17:45:43+00:00",
+      "text": "Средства ПВО за день сбили 74 украинских беспилотника над регионами РФ, сообщили в МО РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30812",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30812",
+      "published_at": "2026-11-27T17:45:32+00:00",
+      "text": "The President made a speech at a flag-raising ceremony aboard Perm nuclear-powered ballistic missile submarine Russia is one of the few countries capable of constructing nuclear submarines of such power, a world-class weapon of global importance. Our design bureaus and shipyards have the advanced technologies and engineering solutions, the extensive experience, and the highly qualified workforce to make it happen. A fourth-generation, Yasen-class nuclear submarine, Perm is a multi-purpose missile vessel and the first to carry Zircon hypersonic cruise missiles as standard armament.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199505",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199505",
+      "published_at": "2026-11-27T17:44:17+00:00",
+      "text": "🇮🇪 🇺🇦 “Into the Stable”: Ireland ends hotel accommodation for Ukrainian refugees and moves them into former equestrian centres. Irish authorities have announced that they will no longer provide hotel accommodation to Ukrainian refugees who arrived before March 2024. Those who have been unable to secure alternative accommodation have reportedly been transferred to converted former equestrian facilities. Some refugees have complained about windowless rooms, cramped bedrooms and shared living spaces resembling communal apartments. The relocation has also prompted a small protest in Dublin, although demonstrators have so far failed to secure any changes to the policy. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53594",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53594",
+      "published_at": "2026-11-27T17:42:32+00:00",
+      "text": "❗️ The Russian Navy must be prepared to counter threats and possess sufficient striking power to effectively confront enemy naval formations, Putin stated. Currently, two strategic submarines of the \"Borei-A\" class and five multi-purpose submarines of the \"Yasene-M\" class are under construction. Furthermore, according to him, the construction of four diesel-electric submarines is also underway. Russia will continue to increase the combat potential of its submarines, Putin said. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117568",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117568",
+      "published_at": "2026-11-27T17:36:01+00:00",
+      "text": "Наша артиллерия громит врага за Алексеево-Дружковкой и в самой Дружковке в ДНР. \"Производим огневые налеты, тем самым обеспечиваем продвижение наших штурмовых групп\", – рассказал командир артвзвода \"Агро\". Военнослужащий уточнил, что наши бойцы взяли под контроль все подъезды к городу и нарушили логистику противника. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407979",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407979",
+      "published_at": "2026-11-27T17:33:06+00:00",
+      "text": "Правительство установило единый тариф на электроэнергию для жителей СНТ, сообщили в ФАС. Теперь к тарифам будет применяться понижающий коэффициент в диапазоне от 0,7 до 1 вне зависимости от местоположения участка и формы договора.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234925",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234925",
+      "published_at": "2026-11-27T17:33:01+00:00",
+      "text": "Иранцы сообщили, что отбили у американцев 2 ранее захваченных иранских танкера. Американская армия похитила 2 иранских нефтяных танкера, однако бойцы морского спецназа ВМС, когда американцы спали, оказались прямо у них над головой и вернули суда. Американская армия сначала получает деньги от владельцев судов за проведение судов через Ормузский пролив, а когда суда подвергаются атакам, снимает с себя ответственность и не возвращает деньги (с) командующий ВМС Ирана Танкерная война с захватами и потоплениями судов продолжается. Иран в этой борьбе чувствует себя достаточно уверенно, особенно видя, как последствия этой войны ударили по Трампу внутри США. В этом плане для дем.партии сопротивление Ирана очень выгодно, даже несмотря на то, что США несут серьезные издержки. Их они готовы принять, если это ослабит Трампа. Что собственно и происходит весь 2026 год. Такое вот ситуативное пересечение интересов.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102642",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102642",
+      "published_at": "2026-11-27T17:32:47+00:00",
+      "text": "❗️ Как проехать относительно безопасно трассу Новороссия Р-280 после 27 ноября: Самые активные участки ударов БПЛА от Мелитополь до Бердянска, Осипенко и от Мелитополь до Новоалексеевка, Чонгар. МОГов везде много, наблюдательные посты каждые 200-1000 метров. При появлении БПЛА начинают работать пулеметы - не попадите под огонь. 1. Перемещение исключительно в светлое время суток. Ночью вы едете играть в салки со смертью . Это не шутка. 2. Двигайтесь в потоках легковых автомобилей. С одинаковой скоростью. Дистанция +-100 метров. Страшно одним - езжайте за аналогичной машиной на расстоянии ста метров. Не пытайтесь проскочить всю трассу на скорости 150-160 км/ч. На двухполосной дороге с повреждёнными мостами, ремонтами и плотным встречным потоком такая гонка может закончиться раньше, чем вы встретите первый дрон. 3. Аккуратно на объездах мостов, не врежетесь в блоки. На объездных участках глубокие ямы, под лужами в дождливую погоду на видно. Аккуратно, не оставьте в яме картер или колеса. С 25 ноября НЕ ЕХАТЬ на летней резине - появились снег, заморозки и гололёд. На мокром асфальте и объездах мостов особенно скользко. Заранее проверьте запаску, домкрат, компрессор и буксировочный трос. 4. Длительные и временные остановки только в крупных населенных пунктах , на организованных стоянках, АЗС. Там же в туалет. Не останавливаться на обочинах и полях (могут быть мины, боезаряды дронов, БПЛА-\"ждуны\")! Если автомобиль неисправен, остановиться, оттолкать подальше на обочину и покинуть автомобиль. Звонить и дожидаться помощи в стороне от машины. 5. Объезжать горящие и подбитые транспортные средства по встречной полосе . Ни в коем случае не по обочине, либо по направлению, указанному военными. На дороге встречаются обломки, повреждённые автомобили и последствия пожаров. Не приближайтесь к горящим грузовикам. Если движение регулируют военные или ДПС, следуйте их указаниям. 6. Команды на блокпостах и МОГов выполнять беспрекословно. На автомобилях МОГов и постах выставляются флаги: Белый - обстановка спокойная Жёлтый - внимание, опасность по БПЛА, возможны фиксации Красный - тревога по БПЛА. В данном районе замечены БПЛА. 7. С собой иметь аптечку . Если вы обыватель - штатную автомобильную. Если умеете пользоваться - тгуты или турникеты, перевязочные пакеты, гемостатические средства. Желательно иметь один или два порошковых огнетушителя (5 кг). 8. С собой вода, продукты питания на весь путь . Дополнительно - фонарь, заряженные телефоны, пауэрбанки, лекарства, необходимые пассажирам. При перекрытии КПП, ремонте моста или воздушной тревоге можно простоять несколько часов. 9. Бензин дефицит, дизельное топливо есть , по 120-140 рублей. Но рекомендуем полный бак + 20-50 литров запас с собой. По ДОПОГ разрешено провозить в металлических и пластмассовых (любых) канистрах до 60 литров по 240 литров топлива . В реальности на количества топлива и канистры не смотрят . Возьмите наличные. 10. ОБЯЗАТЕЛЬНО включать фары или габариты! Дроны не смотрят и не видят на свет фар (они видят тепло, силуэты, и т.д), но без него вы рискуете смертельным ДТП. Ранее расставленные таблички \"Выключи фары\" были установлены для того, чтобы не слепили МОГ. Сейчас они устарели, но местами не сняты. Встречные машины без света появляются из-за фур практически перед капотом. 11. Военных не снимать на фото и видео, работу МОГов не снимать. 12. Если понимаете, что до наступления темноты полностью трассу не пересечёте (участок трассы), необходимо остановиться на ночлег в больших населенных пунктах. Без идей навроде \"тут близко, доедем\" и \"притопим и проскочим\". Некоторые не проскочили, началась темнота - началась жесть. Ночевка в крупных городах или поселках значительно безопаснее. В конце ноября темнеет рано. Рассчитывайте дорогу не по обещаниям навигатора, а по световому дню. 13. На трассе ремень безопасности отстегнуть , чтобы можно было своевременно покинуть автомобиль. 14. Если видите БПЛА , рядом с трассой, примерно над вами, паниковать не нужно. Просто продолжайте движение и наблюдайте, чтобы не взял траекторию или снижение на вас. Если БПЛА летит навстречу с высотой примерно столкновения с вами, необходимо отвернуть в сторону обочины примерно за 50 метров до возможного столкновения. Если БПЛА летит за вами, необходимо попытаться уйти в отрыв. Если успеваете остановится и покинуть автомобиль, то сделать это быстро и отбежать в поле на 50-100 метров. 15. К обломкам БПЛА не приближаться , к лежащим на дороге и обочине сбитым БПЛА не приближаться. Не трогайте подозрительные предметы, детали боеприпасов и неизвестные устройства. Не пытайтесь самостоятельно убрать обломки с проезжей части. НЕ КЛАЛ - НЕ ПОДНИМАЙ. 16. Исключительно оригиналы документов паспорт, (загранпаспорт), свидетельство о рождении детей до 14 лет, техпаспорт, страховка, ВУ, СТС. При наличии ор",
+      "text_truncated": true,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350571",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350571",
+      "published_at": "2026-11-27T17:30:39+00:00",
+      "text": "Правительство утвердило правила расчета техсбора на электронику - что рассказали в Минпромторге: 🔹 Закон вступает в силу с 1 декабря. 🔹 На первом этапе сбор распространяется только на продукцию, для которой уже действует обязательная маркировка: ноутбуки, смартфоны и телефоны. 🔹 Базовая ставка для ноутбуков или планшетных компьютеров составит 746 рублей, для смартфонов - 373 рубля, а для некоторых телефонов - 37 рублей. 🔹 Компании должны оплатить технологический сбор не позднее десятого рабочего дня с момента получения уведомления. 🔹 Отдельных штрафов за неуплату не установлено. 🔹 Средства от сбора служат источником инвестиций в разработку и производство российской техники. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98680",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98680",
+      "published_at": "2026-11-27T17:28:24+00:00",
+      "text": "🇮🇷 🇺🇦 ⚡️ — Iran has accused Ukraine of launching a drone attack on Kuwait, resulting in the deaths of two Italian military specialists from Rheinmetall Italia and injuries to two others, according to the New York Post. The Kuwaiti Ministry of Defense reported that on Thursday, debris from intercepted Iranian drones struck a military facility, initially injuring four people. Later, two Italian citizens died from their injuries. Kuwait and Italy have accused Iran of being behind the attack, but Iran denies any involvement and claims it was a Ukrainian operation conducted \"under a false flag.\" Mohammad Marandi, a former advisor to Iran's nuclear negotiating team, stated that Ukraine carried out the attack disguised as Tehran in order to demonstrate its usefulness to Trump. The Iranian embassy in Italy, however, claims that Kyiv was responsible in an attempt to escalate the conflict in the Persian Gulf and draw Europe into it. \"In Iran, there is a widespread belief that the attack on Kuwait was a false flag operation, likely carried out by the Ukrainian regime, as its agents are currently present throughout the region, including in northern Iraq and Syria. Ukraine is trying to demonstrate its potential to Trump,\" Marandi said. The New York Post notes that Ukraine has sent drone specialists and interceptor drones to the Middle East to assist in defending against Iranian attacks, specifically to Kuwait, Qatar, the UAE, and Saudi Arabia. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "negotiation",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102641",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102641",
+      "published_at": "2026-11-27T17:21:15+00:00",
+      "text": "🇷🇺 Что же есть законное распространение? Вчера в Госдуму был внесен законопроект об ответственности за незаконное распространение информации. Несмотря на радостные заявления, что теперь будет меньше публикаций прилетов со стороны местных жителей, законопроект несет куда большие последствия. Во-первых, скорее всего видео меньше не станет. Зачем дебилу снимать прилет, я не знаю. Если он работает на врага - это понятно, он предатель, но большая часть видео сняты обычными зеваками. Зачем это делать, какая логика - без понятия. Если говорить про обычных людей, то видео от них в руки хохлов попадают не только через дырявыю мессенджеры (whataspp, конечно же), но также через домовые чаты, комментарии малых и больших групп, взломанные камеры на улице и многие другие источники. Добавьте сюда нейросеть и процесс нахождения такого материала станет еще легче. Подобный запрет действует на Украине с 2022 года, но братский народ все равно снимает прилеты и выкладывает их. Видео оттуда меньше, но и наших людей, занимающихся поиском прилетов, тоже меньше. Возвращаясь к законопроекту. Во-вторых, формулировка \"незаконное распространение информации и т.д.\" максимально размыта и универсальна. То есть под нее можно подвести что захочешь - не только прилеты, но и действия на фронте, атаки по ближнем тылу (логистике) и спутниковые снимки. А что есть законное? Получается только официальная информация, которая в большинстве своем выгляди так: ▪️ \"Сбито N беспилотников\" ▪️ \"Возгорание в результате падения обломков\" ▪️ \"Крымский мост поврежден\". К несчастью законодателей, сегодня 21 век и даже 2026 год! Люди сегодня живут информацией и попытки оградить их от нее только приводят к обратному. Если человек слышит взрывы за окном, то он не ограничится выше написанными фразами и пойдет искать в интернете информацию, что произошло. Далее возникает следующая ситуация: российский источник молчит - говорить нельзя, куда тогда идти? К хохлам или им сочувствующим, кто бы мог подумать! И вот житель Российской Федерации идет узнавать информацию у вражеского источника, где он подвергается пропаганде. И например, пораженный гараж Иванова превращается в \"пораженный склад боеприпасов ВС РФ\". И не каждый человек будет сидеть, изучать правда это или нет - просто может не хватать времени и другие причины. Но и это еще не все. Любопытствующий идет изучать информацию на вражеский ресурс и мы вспоминаем другой \"замечательный\" закон ( который не смогли объяснить люди его предлагающие ) о заведомом поиске экстремисткой информации. А еще и происходит это скорее всего в Тг при помощи VPN, что является отягчающим обстоятельством. Ну браво! Всё это можно внести в учебник с пометкой \"как делать не надо, если вы не хотите все проебать\". И проебать в том числе доверие к власти. Одним из печальных примеров \"молчи и озвучивай только официальную информацию\" является вторжение в Курскую область. Жители приграничных территорий в первые часы не знали что им делать - оставаться или эвакуироваться. Они видят заявления, что \"все хорошо\", \"три бомжа ВСУ на границе, это ДРГ\", \"не нужно паниковать\", а потом попадают под оккупацию и чистки . И никто за это не понес ответственность. Ну и в конце предвижу идиотов в комментариях, которые будут писать, что данный закон \"отберет хлеб\" у каналов и \"публиковать нечего будет\". На что отвечу, что вообще без разницы - меньше работы будет , админ информацию найдет, а читатель канала останется в вакууме, который будет заполняться врагом. Подписаться на канал | наш МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407978",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407978",
+      "published_at": "2026-11-27T17:21:00+00:00",
+      "text": "▶️ \"Госуслуги\" могут стать национальным ИИ-агентом , заявил Шадаев: \"Национальный агент будет. Почему? Потому что мы все знаем про пользователя, уже много чего, не все, но много чего знаем\". Видео: ПАО \"СБЕРБАНК\"/Раптли/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199504",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199504",
+      "published_at": "2026-11-27T17:20:24+00:00",
+      "text": "🇰🇵 🇷🇺 North Korean television aired a segment about a concert featuring Larisa Dolina. At the end of the performance ,Kim Jong Un took the stage, talked with the artists, thanked them for the performance , and shook their hands. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78301",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78301",
+      "published_at": "2026-11-27T17:20:16+00:00",
+      "text": "Центральное командование США (CENTCOM) после паузы сообщает о поражении очередного судна, связанного с иранским теневым флотом. Заявляется, что военный самолет нанес удар по сухогрузу \"M/V Pacific Archer\", который следовал под флагом Палау и пытался прорвать блокаду иранских портов. То, что это именно сухогруз, действительно важно. Речь о том, что Штаты пытаются поддерживать блокаду в обоих направлениях — не только препятствуя вывозу нефти, но и создавая трудности иранскому импорту, от которого зависит значительная часть промышленности. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78299",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78299",
+      "published_at": "2026-11-27T17:20:03+00:00",
+      "text": "Украинские твари открыли огонь по мирным жителям в районе пгт Купянск-Узловой в Харьковской области, которые пытались выйти из-под обстрела в сторону российских военных. Люди были одеты в белое специально для того, чтобы не стать мишенями и выделяться на сером фоне разрушенных зданий и дороги, но это, наоборот, стало ориентиром для противника. На гражданских сначала пошли сбросы с «Бабы-Яги» ВСУ. Затем по беженцам повела огонь крупнокалиберная украинская артиллерия, посылая 155-мм снаряды в место скопления людей в районе железнодорожного полотна. Бандеровские ублюдки готовы убивать только за то, что люди выбирают Россию, а не эту блевотную отрыжку, оккупировавшую Киев. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38669",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38669",
+      "published_at": "2026-11-27T17:17:01+00:00",
+      "text": "Эмир Кустурица о художественном осмыслении событий на Донбассе Международный фестиваль документального кино « RT.Док: Время наших героев» вновь собрал документалистов, военкоров, писателей и музыкантов в этнодеревне Дрвенград. Уникальном городке, созданным сербским режиссером Эмиром Кустурицей как декорации к своему фильму. В рамках фестиваля прозвучал важный вопрос: возможно ли создание художественных игровых фильмов, основанных на историях о защитниках Донбасса, волонтерах и других участниках событий? Эмир Кустурица дал на него однозначный и утвердительный ответ: «Да, можно!» Сербский мастер кинематографа подчеркнул, что создание игрового фильма о войне на Донбассе не только возможно, но и необходимо. Сморите эксклюзивный репортаж с фестиваля «RT.Док» в Сербии, который уже доступен на наших площадках: 👉🏻 Смотреть на RUTUBE 👉🏻 Смотреть в ВК 👉🏻 Смотреть на ДЗЕН 👉🏻 Смотреть в МАХ @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199503",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199503",
+      "published_at": "2026-11-27T17:17:00+00:00",
+      "text": "🇺🇦 Video of a conflict between TCC employees and civilians in Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117567",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117567",
+      "published_at": "2026-11-27T17:14:01+00:00",
+      "text": "Новогодние елки установят во всех муниципалитетах ЛНР, сообщил Леонид Пасечник. Глава региона уточнил, что жители смогут посещать елки индивидуально, в том числе приходить с детьми, гулять, фотографироваться. При этом организовывать массовые гуляния не планируется. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234924",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234924",
+      "published_at": "2026-11-27T17:10:05+00:00",
+      "text": "С 1 по 4 декабря в Ростове-на-Дону пройдет III Международный фестиваль документального кино, медиапроектов и ИИ-проектов «Ханжонков ДОК: линия фронта». Значительная часть программы фестиваля посвящена событиям на Донбассе и СВО, работе военных корреспондентов и фронтовых документалистов. Из мероприятий, на которые стоит обратить внимание: 1 декабря, 19:00 — открытие фестиваля и премьерный показ документального фильма Руслана Кечеджияна «Полина. Танец вопреки». История юной спортсменки из Горловки, которая в 2022 году получила тяжелейшее ранение в результате обстрела, но смогла вернуться к танцам. 3 декабря, 17:30 — показ документального фильма «Приграничье» о боевой работе подразделения специального назначения «Анвар» в Курской области. После показа состоится встреча с режиссером фильма Владиславом Рытковым. 3 декабря, 19:00 — мастер-класс студии REAL.DOC «Реальность как поле боя: от изображения войны — к войне изображений». Максим Фадеев и Сергей Белоус, авторы документального фильма «У края бездны», расскажут о фронтовой документалистике и роли визуальных свидетельств в современной войне. Все мероприятия пройдут в кинотеатре «Горизонт Cinema&Emotion». Вход свободный. Полная программа фестиваля и регистрация на показы: https://frontlinefest.ru/programm2026/",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33704",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33704",
+      "published_at": "2026-11-27T17:10:02+00:00",
+      "text": "🗓 On November 27, Foreign Minister Sergey Lavrov took part in a ceremony for opening an exhibition marking the 5️⃣ 5️⃣ th anniversary of diplomatic relations between Russia and the United Arab Emirates (December 8, 1971) at the Foreign Ministry. The exhibition featured materials from the Foreign Policy Archives of the Russian Federation and the UAE National Archives, ranging from copies of the first credentials to photographs of recent meetings and talks. These documents vividly illustrate the key milestones of multifaceted Russian-Emirati cooperation, which has now reached the level of a strategic partnership. In his welcoming remarks, Sergey Lavrov emphasised that regular contacts between President Vladimir Putin and UAE President Mohamed bin Zayed Al Nahyan provide the main boost for bilateral cooperation. The two leaders discussed in detail current bilateral issues and global and regional issues during the talks in Moscow on January 29, 2026. The Minister spoke highly of close coordination with Abu Dhabi through the Foreign Ministries, including at international fora, as well as the intensive exchange of delegations at the level of executive authorities. 🤝 Sergey Lavrov highlighted the dynamic development of trade and economic ties, with the Russian-Emirati Intergovernmental Commission on Trade, Economic and Technical Cooperation playing a coordinating role. He underscored the important contribution of the Russian-Emirati Business Council to strengthening cooperation between the two countries’ business communities. Sergey Lavrov drew attention to the significant expansion of bilateral contacts in the cultural, humanitarian and educational spheres, as well as growing tourism ties. He noted the successful work of the Sheikha Fatima Centre for International Cooperation with the UAE, which was officially opened at the Yevgeny Primakov Regional Gymnasium in October 2024 in the presence of the two countries’ leaders. He also noted the high-profile Russian Culture Days held in Abu Dhabi in November 2025 and the UAE Culture Days held in Moscow in August 2026. The event was attended by UAE Ambassador to Russia Mohammed Al Jaber, heads of diplomatic missions accredited in Moscow, members of both chambers of the Federal Assembly of the Russian Federation, and representatives of Russia’s academic and expert communities. 🇷🇺 🇦🇪 #RussiaUAE",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407977",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407977",
+      "published_at": "2026-11-27T17:09:00+00:00",
+      "text": "▶️ Ким Чен Ын с супругой посетил концерт с участием Ларисы Долиной в Пхеньяне, передает корреспондент ТАСС. Перед публикой также выступил Национальный академический оркестр народных инструментов имени Н. П. Осипова. Зрители встретили российских исполнителей…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36048",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36048",
+      "published_at": "2026-11-27T17:06:19+00:00",
+      "text": "Fwd from @ 📝 Ceasefire under threat 📝 China warns US of retaliatory measures Trade confrontation between the world's two largest economies is escalating again. Although neither Washington nor Beijing are interested in completely abandoning previous agreements, continuing negotiations will be difficult. Chinese authorities warned of their readiness to take retaliatory measures after the Trump administration announced new tariffs against major US trading partners. China's Ministry of Commerce called the fight against excess industrial capacity a pretext for protectionism and urged the American side to return to negotiations. 📌 New American tariffs on China could reach 20%. Moreover, Washington believes that such measures do not contradict existing trade agreements. At the same time, US authorities are ready to exempt certain categories of Chinese goods worth about $30 billion from tariffs, as demanded in Beijing. ❗️ The situation is complicated by the approaching deadline for the trade ceasefire concluded by Donald Trump and Xi Jinping in October 2025. The agreement expires on January 10, and the next round of negotiations is scheduled for December at the G20 summit in the US. However, chances of their success are dwindling . #China #USA 🏮 @rybar_pacific — your ticket to Pacific chaos 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78298",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78298",
+      "published_at": "2026-11-27T17:05:37+00:00",
+      "text": "Я помню войну. Прежде всего помню бомбежки. В сорок втором, когда немцы рвались с юга на Рязань, мне было пять лет. Но Рязань не сдалась, и Москва устояла! Помню вечер. В окне красный закат. Красные полоски по небу – от наших зениток. Немцы летят бомбить Рязань. И мы, каким-то образом, сразу различаем звук немецких самолетов. У них был гул особенный, прерывистый. Наши летели так: «Ууууууу!», а фашистские: «Уу! Уу! Уу! Уу!»… Мы понимали, что иначе звучит тип немецких моторов. Страшновато от них было – жутко! Но мы четко замечали и их, немецкий страх. Наших зениток они побаивались и, бывало, разворачивались назад, сбросив свои бомбы где-то в поля, а не на город. Мы, мальчишки, тогда ликовали! А еще помнится мне, бывало, вот-вот начнут бомбить, мама тащит меня в подвал, в бомбоубежище, а я – рвусь к окну: «Мама, обожди, дай мне в окошечко посмотреть!»… Игрушки, помню, у меня в детстве были особые. Мне приспособили под них специально деревянный ящик. Но я вместо каких-то обычных игрушек собирал в него осколки снарядов… У меня таких осколков было много, всех размеров и форм. Целое богатство по меркам моего детства! Если такой осколочек в человека попадал, его пробивало насквозь. Утром эти осколки, остывшие, валялись в Москве повсюду, прямо на дорогах. И вот насобираешь их и у тебя сразу много диковинных игрушек! Я представлял себе, что это оловянные солдатики. Те, что поменьше, были солдатами, покрупнее – капитаны, самые большие – те уж ни дать ни взять – генералы. К сожалению, семья пережила много переездов и мой ящик с этими «игрушками» военного детства не сохранился. Меню тех лет тоже накрепко запомнилось мне, оно не менее замечательное было, чем «игрушки». В меню – клейстер, которым сейчас оклеивают окна в морозы. В клейстер добавляли сахарин, с каким-то свинцовым привкусом, чтоб в итоге получалось что-то более-менее сладкое. И вот эту химию мы ели… Ну, это в городе когда жили, конечно! А когда приехали в деревню, там нас спасал натурпродукт – турнепс. Самая что ни на есть настоящая еда была! А еще с малобойного завода, где жали подсолнечное масло, нам перепадал жмых, наша военная вкуснятина. Жмых – это то, что остается после отжима масла. Мы даже научились подразделять этот жмых на два вида: один коричневый, рассыпчатый, а второй черный, более плотный. Иногда, конечно, была особая еда, как в мирное время. Мама работала в госпитале, она врачом была, и ей на семью изредка выдавали по два куриных яичка. Это был праздник, о котором можно было мечтать! Самое желанное было, чтоб мама сварила яйцо так, чтобы белочек был уже твердый, а желточек еще жидкий. Это называлось – «в мешочек». Это был деликатес высшего класса, просто сказка наяву! И у меня тогда появилось такое выражение: «Если бы я был товарищем Сталиным, я бы каждое утро ел яйцо в мешочек!» Мне, ребенку, это кушанье казалось настолько заоблачно недосягаемым, что только великий вождь, представлялось мне, мог позволить его себе ежедневно. И только в порядке особого исключения! Ведь яйцо в мешочек – это же верх человеческих возможностей, не иначе! Спорить со мной было бессмысленно, да никто и не спорил. Время было такое. Люди были – другие. 👀 История. Исторические факты",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234923",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234923",
+      "published_at": "2026-11-27T17:03:31+00:00",
+      "text": "Colonelcassad pinned a video",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234922",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234922",
+      "published_at": "2026-11-27T17:01:35+00:00",
+      "text": "Сбор на автоколонну 7 По заявкам подразделений необходима техника повышенной проходимости под МОГи. Желательно пикапы , на них же и будем устанавливать турели. Автоколонна 6 состоялась, машины розданы в войска. Сбер: 2202206862634560 Валентина К СБП: +79185778057 Валентина К (сбер/альфа/втб) Канал в ТГ https://t.me/katya_valya_dnr Канал в МАХ https://max.ru/katya_valya_dnr",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407976",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407976",
+      "published_at": "2026-11-27T17:01:14+00:00",
+      "text": "На различных этапах строительства сейчас находятся 2 стратегических подводных ракетоносца \"Борей-А\" и 5 многоцелевых подлодок \"Ясень-М\", заявил Путин. Также, по его словам, идет строительство 4 дизель-электрических подлодок.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350570",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350570",
+      "published_at": "2026-11-27T17:00:24+00:00",
+      "text": "Путин собрал совещание по развитию группировки атомных подводных лодок - главное: 🔹 Все составляющие военно-морского флота должны быть готовы к отражению угроз с морских и океанских направлений. 🔹 На разных этапах строительства находятся два стратегических ракетных крейсера \"Борей-А\" и пять подлодок проекта \"Ясень-М\". 🔹 В состав ВМФ за последние восемь лет приняты 5 АПЛ \"Борей-А\", и 5 подлодок \"Ясень-М\", также 8 дизель-электрических подлодок 🔹 Россия будет системно и последовательно наращивать боевой потенциал группировок подводного флота. 🔹 ВМФ России должен обладать ударной мощью, чтобы эффективно противостоять морским группировкам противника и поражать его стратегические объекты. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
