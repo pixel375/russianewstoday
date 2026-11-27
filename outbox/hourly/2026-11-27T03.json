@@ -1,0 +1,22 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-27T03",
+  "snapshot_generated_at_utc": "2026-11-27T04:06:28.858991+00:00",
+  "items": [
+    {
+      "title": "Russia reports increased drone interceptions over Leningrad region",
+      "summary": "Russian media reported that air defences had intercepted 30 Ukrainian drones over the Leningrad region, following an earlier report citing the regional governor's figure of 18. The figures have not been independently verified.",
+      "source_urls": [
+        "https://t.me/rian_ru/350526",
+        "https://t.me/tass_agency/407846"
+      ]
+    },
+    {
+      "title": "Alleged forced mobilization incident reported in Kyiv region",
+      "summary": "A report circulating on Russian social media alleges that Ukrainian military recruitment personnel assaulted a man and forced him into a vehicle in the Kyiv region. The circumstances and authenticity of the allegation have not been independently verified.",
+      "source_urls": [
+        "https://t.me/boris_rozhin/234841"
+      ]
+    }
+  ]
+}
