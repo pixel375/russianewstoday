@@ -1,0 +1,45 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    240
+  ],
+  "published_at_utc": "2026-11-27T15:50:01.088691+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T13",
+  "items": [
+    {
+      "item_id": "2026-11-27T13:1",
+      "title": "Preferential reconstruction loans introduced in occupied Donetsk region",
+      "summary": "The head of a Russian-appointed regional microcredit company said businesses affected by shelling have begun receiving reconstruction loans at an interest rate of 0.1%. He said the company had provided more than 230 million rubles in support to 73 small and medium-sized businesses this year.",
+      "post_url": "https://t.me/russianewstodayofficial/240",
+      "category": "other",
+      "hour_id": "2026-11-27T13",
+      "source_handles": [
+        "donbassr"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T13:2",
+      "title": "Novorossiysk authorities report damage to 70 apartments following drone attack",
+      "summary": "Regional emergency authorities reported damage to windows in 70 apartments following a drone attack on November 27. Municipal teams were assessing damage and assisting residents, while gas services had restored supply to two entrances of an affected apartment building.",
+      "post_url": "https://t.me/russianewstodayofficial/240",
+      "category": "other",
+      "hour_id": "2026-11-27T13",
+      "source_handles": [
+        "dva_majors"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T13:3",
+      "title": "Italian MEP criticizes proposed additional EU funding for Ukraine",
+      "summary": "Italian European Parliament member Roberto Vannacci criticized further financial support for Ukraine during a parliamentary speech, arguing that European taxpayers would bear the cost of borrowing. He also criticized the European Commission's response to Ukrainian blacklisting of European politicians.",
+      "post_url": "https://t.me/russianewstodayofficial/240",
+      "category": "other",
+      "hour_id": "2026-11-27T13",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
