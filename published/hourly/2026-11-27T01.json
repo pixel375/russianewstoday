@@ -1,0 +1,56 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    227
+  ],
+  "published_at_utc": "2026-11-27T02:26:58.147679+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T01",
+  "items": [
+    {
+      "item_id": "2026-11-27T01:1",
+      "title": "Trump says retaining Russia in G8 might have prevented Ukraine war",
+      "summary": "US President Donald Trump argued that keeping Russia in the G8 could have prevented the conflict in Ukraine. He also described the former eight-member format as stronger than the current G7.",
+      "post_url": "https://t.me/russianewstodayofficial/227",
+      "category": "other",
+      "hour_id": "2026-11-27T01",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T01:2",
+      "title": "Trump says Putin would be welcome at US-hosted G20 summit",
+      "summary": "President Donald Trump said Russian President Vladimir Putin would be welcome to attend the G20 summit in the United States if he wished to participate.",
+      "post_url": "https://t.me/russianewstodayofficial/227",
+      "category": "other",
+      "hour_id": "2026-11-27T01",
+      "source_handles": [
+        "bricsnews"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T01:3",
+      "title": "Latvia issues possible air threat warning in eastern district",
+      "summary": "Latvia's armed forces announced that residents of the eastern Ludza district had been sent a warning about a possible aerial threat. The origin of the threat was not specified in the announcement.",
+      "post_url": "https://t.me/russianewstodayofficial/227",
+      "category": "other",
+      "hour_id": "2026-11-27T01",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T01:4",
+      "title": "Russian governor reports drone interceptions in Leningrad region",
+      "summary": "The governor of Russia's Leningrad region reported that four drones had been intercepted over the region.",
+      "post_url": "https://t.me/russianewstodayofficial/227",
+      "category": "other",
+      "hour_id": "2026-11-27T01",
+      "source_handles": [
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
