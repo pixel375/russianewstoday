@@ -1,0 +1,68 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    234
+  ],
+  "published_at_utc": "2026-11-27T10:22:15.106411+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T09",
+  "items": [
+    {
+      "item_id": "2026-11-27T09:1",
+      "title": "Hungary objects to proposed €100 billion EU aid allocation for Ukraine",
+      "summary": "Hungarian Prime Minister Magyar said Hungary disagrees with the proposed volume of assistance for Ukraine in the EU budget, objecting to demands for increased support under centralized directives.",
+      "post_url": "https://t.me/russianewstodayofficial/234",
+      "category": "other",
+      "hour_id": "2026-11-27T09",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T09:2",
+      "title": "Ukrainian court reportedly orders discharge of unlawfully mobilized man",
+      "summary": "A court in Poltava reportedly ruled a military medical commission's decision unlawful and ordered a man's discharge after six months of military service. His medical records were allegedly altered to make him eligible for mobilization.",
+      "post_url": "https://t.me/russianewstodayofficial/234",
+      "category": "other",
+      "hour_id": "2026-11-27T09",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T09:3",
+      "title": "Russia proposes seafood import duties of up to 35%",
+      "summary": "Finance Minister Anton Siluanov said a proposal to impose duties of up to 35% on seafood from countries designated unfriendly by Moscow had been submitted to relevant government departments for coordination.",
+      "post_url": "https://t.me/russianewstodayofficial/234",
+      "category": "other",
+      "hour_id": "2026-11-27T09",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T09:4",
+      "title": "Energy and railway infrastructure reportedly damaged in Vinnytsia region",
+      "summary": "Local authorities reportedly confirmed damage to energy and railway infrastructure following an attack in Ukraine's Vinnytsia region. Damage to critical infrastructure was also reported in Kirovohrad region.",
+      "post_url": "https://t.me/russianewstodayofficial/234",
+      "category": "other",
+      "hour_id": "2026-11-27T09",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T09:5",
+      "title": "Russian embassy warns of deteriorating relations with Moldova",
+      "summary": "Russia's embassy in Chișinău reportedly warned of an unspecified possible provocation that could worsen bilateral relations. The warning follows Moldovan protests over alleged drone incursions and discussions of regional air-defense cooperation. Moscow disputes that the drones' origin was established.",
+      "post_url": "https://t.me/russianewstodayofficial/234",
+      "category": "other",
+      "hour_id": "2026-11-27T09",
+      "source_handles": [
+        "rybar_in_english"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
