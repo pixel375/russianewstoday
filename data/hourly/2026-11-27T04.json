@@ -1,0 +1,328 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T04",
+  "generated_at_utc": "2026-11-27T07:06:03.111895+00:00",
+  "window_start_utc": "2026-11-27T04:00:00+00:00",
+  "window_end_utc": "2026-11-27T05:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 2,
+      "raw_count": 11
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 19,
+    "relevant_posts": 2,
+    "editorial_pool_posts": 19,
+    "retained_without_keyword_match": 13,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 15,
+    "candidate_posts": 15
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407861",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407861",
+      "published_at": "2026-11-27T04:57:19+00:00",
+      "text": "💥 В небе над Ленинградской областью ликвидированы 44 БПЛА ВСУ, сообщил губернатор. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/donbassr/117522"
+      ],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117524",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117524",
+      "published_at": "2026-11-27T04:55:13+00:00",
+      "text": "Минувшей ночью в ходе отражения воздушной атаки на Ростовскую область БПЛА ВСУ уничтожены в городе Каменске-Шахтинском, а также Каменском и Тарасовском районах области , сообщает губернатор Слюсарь Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407860",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407860",
+      "published_at": "2026-11-27T04:55:01+00:00",
+      "text": "🚨 До 5 выросло число погибших в ДТП с автобусом и грузовиками в Красноярском крае, сообщили ТАСС в Минздраве региона.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407856"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350529",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350529",
+      "published_at": "2026-11-27T04:49:30+00:00",
+      "text": "Три человека пострадали в Новороссийске из-за атаки беспилотников. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407859",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407859",
+      "published_at": "2026-11-27T04:47:30+00:00",
+      "text": "🚨 В Новороссийске из-за атаки БПЛА пострадали три человека, госпитализация им не потребовалась, сообщили в оперштабе Кубани.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407858"
+      ],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117523",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117523",
+      "published_at": "2026-11-27T04:45:11+00:00",
+      "text": "☂️ Погода на Юге России утром 27 ноября: ☁️ В Донецке -3°, пасмурно. ☁️ В Луганске -2°, пасмурно. ❄️ В Ростове-на-Дону: -1°, снег с дождем. 🌧 В Херсоне +3°, дождь. ❄️ В Запорожье -1°, снег с дождем. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102601",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102601",
+      "published_at": "2026-11-27T04:44:19+00:00",
+      "text": "В Новороссийске из-за атаки БПЛА пострадали три человека, - оперштаб Им оказали всю необходимую медицинскую помощь без госпитализации. Из-за падения обломков БПЛА в многоквартирном доме выбиты окна. Также произошло возгорание в двух частных домах. На местах работают оперативные и специальные службы. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350528",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350528",
+      "published_at": "2026-11-27T04:37:19+00:00",
+      "text": "Московская биржа с 1 декабря запустит торги криптовалютами 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407857",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407857",
+      "published_at": "2026-11-27T04:35:01+00:00",
+      "text": "▶️ Украина не участвует в работе СНГ, но не демонстрирует позывов выйти. Об этом сообщил генеральный секретарь организации Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407852"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407855",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407855",
+      "published_at": "2026-11-27T04:18:01+00:00",
+      "text": "Выезд автобуса на встречку мог стать причиной смертельного ДТП под Красноярском, сообщили в ГУ МВД по Красноярскому краю.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407854",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407854",
+      "published_at": "2026-11-27T04:15:01+00:00",
+      "text": "🚨 Над территорией Ленинградской области сбиты 30 БПЛА, сообщил губернатор.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407853",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407853",
+      "published_at": "2026-11-27T04:13:01+00:00",
+      "text": "Четверо погибших в крупном ДТП в Красноярском крае были пассажирами автобуса, сообщили ТАСС в ГУ МВД.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53584",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53584",
+      "published_at": "2026-11-27T04:10:24+00:00",
+      "text": "❗️ EU leaders have gathered in Brussels for talks on several issues, with financial assistance to Ukraine among the key topics. One of the main points of discussion is a proposed €45 billion loan to Kiev and how the funding will be arranged. However, the initiative has faced opposition from several member states. The Czech Republic, Hungary, Slovakia and Bulgaria have refused to take part in the financing plan. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234842",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234842",
+      "published_at": "2026-11-27T04:02:01+00:00",
+      "text": "Расчёты БПЛА Сибирского объединения группировки войск «Центр» срывают попытки снабжения позиций противника, уничтожая его технику, НРТК, беспилотники и живую силу @Sib_army",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407851",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407851",
+      "published_at": "2026-11-27T04:02:01+00:00",
+      "text": "✈️ Временные ограничения введены в аэропорту Пулково, сообщили в Росавиации.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

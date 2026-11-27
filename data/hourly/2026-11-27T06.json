@@ -1,0 +1,545 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T06",
+  "generated_at_utc": "2026-11-27T07:05:51.638540+00:00",
+  "window_start_utc": "2026-11-27T06:00:00+00:00",
+  "window_end_utc": "2026-11-27T07:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 4
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 31,
+    "relevant_posts": 11,
+    "editorial_pool_posts": 31,
+    "retained_without_keyword_match": 19,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 30,
+    "candidate_posts": 30
+  },
+  "posts": [
+    {
+      "id": "mod_russia_en/30803",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30803",
+      "published_at": "2026-11-27T06:57:01+00:00",
+      "text": "❗️ Last night, the Armed Forces of the Russian Federation delivered UAV strikes at transport infrastructure and defence industry facilities, as well as vessels used in the interests of the AFU. 💥 As a result of the strikes, the following targets were hit: 📍 the Termoplast industry enterprise involved in the production of attack UAVs in Letichev (Khmelnitsky region); 📍 the Mpka-Ukraine plant producing and supplying electrotechnical equipment for the AFU in Zaporozhye; 📍 a 330 kV power substation in Krivoy Rog (Dnepropetrovsk region) and a 330 kV electric substation in Zhitomir, that support the operation of Ukrainian defence industry facilities; 📍 a logistics centre storing components to produce solid missile fuel in the settlement of Belaya Tserkov (Kiev region); 📍 a transport infrastructure facility in Zaporozhye; 📍 four railway locomotives used to transport weapons and military hardware in Krivoy Rog, Pershotravensk, and Bogdanovka (Dnepropetrovsk region); 📍 a dry cargo ship delivering military cargo to Ukraine in the Black Sea waters south-west of Odessa. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199423",
+        "https://t.me/DDGeopolitics/199418",
+        "https://t.me/rian_ru/350533"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/199423",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199423",
+      "published_at": "2026-11-27T06:56:55+00:00",
+      "text": "🇺🇦 ❄️ Zelensky acknowledged that people would be leaving Kiev ahead of a difficult winter. In an interview with the BBC, he stated that Russia's attacks are aimed at forcing residents to leave the Ukrainian capital. \"People may leave, but we will strive to protect our capital in every possible way. We need our capital. Without a capital, you don't have a country\" According to him, the United States is delaying the delivery of Patriot systems, prioritizing the Middle East. Ukraine is already shooting down about 70% of the fastest Russian drones, but is experiencing a severe shortage of missiles for intercepting ballistic missiles. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30803",
+        "https://t.me/DDGeopolitics/199418",
+        "https://t.me/rian_ru/350533"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/199422",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199422",
+      "published_at": "2026-11-27T06:54:59+00:00",
+      "text": "❔ 🇺🇦 😁 In an interview with the BBC, Zelensky did not directly answer whether he knew who “Vova” was on the Mindich tapes. He noted, however, that anti-corruption agencies had no questions for him. The interviewer said her colleagues had suggested the question because no Ukrainian journalist had been able to ask Zelensky about the Dynasty cooperative. The recordings are linked to a NABU and SAP investigation into a large-scale corruption scheme in the energy sector. “You can ask the anti-corruption institutions. They have publicly said that they have no questions for me. I think that is the answer.” Zelensky also denied that he was losing the “war on corruption.” On the contrary, he said, Ukrainians are fighting corruption, which is why such cases come to light. “This isn’t about any friends. We have a huge anti-corruption infrastructure and all these reforms that we have passed and voted for in parliament. So we are doing a lot of things during the war. But there are many different challenges during the war and, of course, many different cases, including corruption cases. We must not stop; we must fight corruption.” 🐻 You can't lose a war you're not fighting 😁 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption",
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199419",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199419",
+      "published_at": "2026-11-27T06:50:49+00:00",
+      "text": "🇺🇦 💥 The left bank of Kiev this morning 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234850",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234850",
+      "published_at": "2026-11-27T06:49:01+00:00",
+      "text": "Утро на левом берегу Киева после прилета.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199418",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199418",
+      "published_at": "2026-11-27T06:48:20+00:00",
+      "text": "🇷🇺 An attack against a high-ranking military official has been thwarted in the DPR, according to the FSB. Kiev used three \"Baba Yaga\" attack drones in an attempt to assassinate a high-ranking military official in the DPR, but the drones were neutralized 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30803",
+        "https://t.me/DDGeopolitics/199423",
+        "https://t.me/rian_ru/350533"
+      ]
+    },
+    {
+      "id": "donbassr/117534",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117534",
+      "published_at": "2026-11-27T06:47:21+00:00",
+      "text": "❗️ В ДНР предотвращен теракт против высокопоставленного военнослужащего, сообщили в ФСБ. Для атаки Киев направил три ударных беспилотника «Баба-яга». Все они были сбиты. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407881",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407881",
+      "published_at": "2026-11-27T06:45:49+00:00",
+      "text": "❗️ В ДНР предотвращен теракт против высокопоставленного военнослужащего, сообщает ФСБ.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407880"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350533",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350533",
+      "published_at": "2026-11-27T06:45:44+00:00",
+      "text": "Убить высокопоставленного российского военного в ДНР пытались украинские спецслужбы – ФСБ предотвратила теракт. Россиянка передавала Киеву данные о его местонахождении и том, на каких авто он ездит – для слежки она специально переехала в Донецк. Убить военного пытались тремя ударными беспилотниками \"Баба Яга\" со взрывчаткой – запущенные дроны подавила российская система РЭБ, специалисты их обезвредили. Россиянку задержали и арестовали. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30803",
+        "https://t.me/DDGeopolitics/199423",
+        "https://t.me/DDGeopolitics/199418"
+      ]
+    },
+    {
+      "id": "donbassr/117533",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117533",
+      "published_at": "2026-11-27T06:42:01+00:00",
+      "text": "Правительство ЛНР увеличило выплаты за утраченное в результате боевых действий жилье и имущество Как сообщила пресс-служба республиканского кабмина, размеры компенсаций увеличатся: ▪️ за утраченное жилье — с 51,5 тысяч до 70 тысяч рублей за один кв. метр; ▪️ за полную утрату имущества первой необходимости — со 100 тысяч до 110 тысяч рублей; ▪️ за частичную утрату имущества — с 50 тысяч до 55 тысяч рублей. «Согласно внесенным изменениям, перерасчету подлежат выплаты, решения по которым приняты с 8 августа 2026 года», — уточнили в правительстве ЛНР. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407879",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407879",
+      "published_at": "2026-11-27T06:41:02+00:00",
+      "text": "Великобритания призвала резервистов участвовать в маневрах впервые со времен холодной войны, сообщает The Daily Telegraph. По информации издания, около 100 тыс. резервистов предложено добровольно принять участие в учениях, таких как натовские Steadfast Defender.…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36031",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36031",
+      "published_at": "2026-11-27T06:36:08+00:00",
+      "text": "Fwd from @ 📝 Unfounded 📝 What happened in Russian-North Korean relations Cooperation between Russian and North Korean authorities has long caused discontent among the Kyiv regime and its Western partners. Therefore, claims about alleged disagreements pursue a clearly defined information goal. Ukrainian intelligence claims that Kim Jong Un suspended deliveries to Russia of KN-23 missiles and artillery ammunition, banned aircraft from using North Korean airspace, and rejected a request to increase the North Korean contingent from 8,500 to 50,000 troops. The alleged reason was a statement in October by Russian Deputy Foreign Minister Andrey Rudenko about Russia's readiness to facilitate de-escalation of relations between South and North Korea. In response, the North Korean Foreign Ministry demanded clarification and announced a temporary suspension of military support. 🖍 The key problem is that Andrey Rudenko never made such statements at all. His only October comment concerned exclusively Russia's relations with South Korea and did not touch on inter-Korean issues. There is also no data that the North Korean Foreign Ministry sent corresponding complaints. 🚩 Moreover, such a scandal would certainly have affected bilateral relations. However, just today a Russian delegation arrived in Pyongyang without any problems to participate in the 13th meeting of the Intergovernmental Commission on Trade-Economic and Scientific-Technical Cooperation. ❗️ In the end, this is exclusively a one-sided statement from Ukrainian intelligence without any confirmation from third parties, satellite data, statements from South Koreans or Western intelligence services. All of this should be viewed as another information-psychological operation , designed to create the impression of a split between Russia and North Korea. #Russia #NorthKorea #Ukraine 🏮 @rybar_pacific — your ticket to Pacific confusion 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350532",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350532",
+      "published_at": "2026-11-27T06:35:51+00:00",
+      "text": "Мошенники в период подготовки к прямой линии с Путиным могут использовать ряд схем, предупредили эксперты: 🔹 Звонки \"от организаторов сбора обращений\". Легенда может быть любой: \"уточните данные, чтобы обращение дошло\", \"подтвердите заявку\". Маркер всегда один: если просят деньги или коды из смс, это мошенники. 🔹 Фальшивые чат-боты в мессенджерах. Их легко перепутать с настоящими. Данные, собранные через такого бота, становятся основой для последующих атак, в том числе адресных. 🔹 Фишинговые сайты-сборщики, которые визуально повторяют официальную площадку для отправки вопросов – там просят ФИО, адрес, телефон, иногда даже номер карты. Об официальных ресурсах, через которые можно отправить вопросы на программу, мы писали тут. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234849",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234849",
+      "published_at": "2026-11-27T06:35:03+00:00",
+      "text": "В течение прошедшей ночи дежурными силами ПВО перехвачены и уничтожены 318 украинских беспилотных летательных аппаратов самолетного типа над территориями Брянской, Белгородской, Калужской, Курской, Ленинградской, Новгородской, Орловской, Ростовской, Смоленской, Тульской областей и Республики Крым.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407878",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407878",
+      "published_at": "2026-11-27T06:33:01+00:00",
+      "text": "Европа продолжает активно отбирать газ из подземных хранилищ, израсходовав уже 13% от закачанных летом объемов. Об этом свидетельствуют подсчеты ТАСС на основе данных GIE. После достижения пика заполнения ПХГ в Европе (74,96%) прошло более трех недель, а…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102604",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102604",
+      "published_at": "2026-11-27T06:30:38+00:00",
+      "text": "В данном ролике вы можете наблюдать наглый пиздеж. На видео уничтожение бпла нашими расчетами с нашей турелью. Которые они выдают за работу автоматической турели (Зубр) . Эта турель полное говно, раз приходится пиздить видео чужой работы и замыливать водяные знаки.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407877",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407877",
+      "published_at": "2026-11-27T06:24:02+00:00",
+      "text": "▶️ В США в День благодарения из-за шторма отменили и задержали свыше 1 тыс. рейсов, свидетельствуют данные портала FlightAware. Непогода также привела к отключению электричества в нескольких штатах. Видео: ТАСС/Reuters/StringersHub/USA TODAY Network ✔ …",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117532",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117532",
+      "published_at": "2026-11-27T06:23:01+00:00",
+      "text": "Масштабные молодежные мероприятия временно не проводят в ЛНР из-за сложившейся оперативной обстановки , сообщил глава Минмолодежи республики Михаил Голубович. \" Безопасность участников остается безусловным приоритетом. Ни одно событие не оправдывает неоправданного риска\" , - сказал он. В качестве примера Голубович привел День молодежи - в текущем году в регионе были вынуждены отказаться от изначально задуманного масштабного формата празднования. Акцент сделали на менее массовых мероприятиях: награждении активистов и занятиях в молодежных центрах с соблюдением требований безопасности. \"Наша задача - сохранить возможности для общения, развития и участия в общественной жизни, но выбирать форматы с учетом обстановки и требований компетентных служб\", - отметил он. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102603",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102603",
+      "published_at": "2026-11-27T06:17:03+00:00",
+      "text": "▶ РЫБАРЬ ПОЯСНЯЕТ: ТОПТАНИЕ НА МЕСТЕ. ПОЧЕМУ УПАЛИ ТЕМПЫ ПРОДВИЖЕНИЯ? В новом выпуске «Рыбарь поясняет» разбираемся, почему беспилотники затрудняют наступление и зачистку территорий, как расширение серой зоны влияет на темпы продвижения и почему необходимость защищать тыл от дронов отвлекает от фронта людей, технику и вооружение. Приятного просмотра! #пояснение #эфиры ✉ MAX 💸 Поддержать нас",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234846",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234846",
+      "published_at": "2026-11-27T06:17:01+00:00",
+      "text": "Видео и фото ударов БПЛА по объектам в Кривом Роге.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407876",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407876",
+      "published_at": "2026-11-27T06:16:01+00:00",
+      "text": "С актера Артура Смольянинова* не смогли взыскать долги по кредиту на 101 тыс. рублей, по остальным долгам исполнительные производства закрыты после погашения. Об этом ТАСС сообщили в правоохранительных органах. * признан в РФ иноагентом, внесен в перечень…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30802",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30802",
+      "published_at": "2026-11-27T06:15:01+00:00",
+      "text": "Lighting enemy up 💥 At night, the Solntsepyok heavy flamethrower system of the NBC Protection unit of the 25th Combined Arms Army of the Zapad Group of Forces wiped out an enemy stronghold. 📍 Krasny Liman direction 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98669",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98669",
+      "published_at": "2026-11-27T06:14:40+00:00",
+      "text": "🌐 🇺🇦 🇷🇺 ⚡️ — The entire drone attack by the Ukrainian Armed Forces is being accompanied by a NATO Boeing E-3 Sentry, a long-range radar detection and targeting aircraft. It initially circled over Latvia, and now it has flown into Estonian airspace, where it…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53585",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53585",
+      "published_at": "2026-11-27T06:10:13+00:00",
+      "text": "❗️ Disagreements between the EU and the United States over continued support for Ukraine are reportedly deepening, Politico reports, citing sources. During a conversation with Zelensky on November 19, Trump reportedly argued that billions of dollars were being spent on Ukraine with little to no result. However, according to the publication, European leaders may not have been fully aware of Washington's position. Tensions between the two sides are also growing over a separate issue: the proposed digital tax on multinational companies. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407875",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407875",
+      "published_at": "2026-11-27T06:04:42+00:00",
+      "text": "Правительство РФ продлило до 31 марта 2027 года запрет на экспорт топлива для реактивных двигателей. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "MFARussia/33677",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33677",
+      "published_at": "2026-11-27T06:04:15+00:00",
+      "text": "🇷🇺 🇸🇾 On November 26, 2026, Ambassador Extraordinary and Plenipotentiary of the Russian Federation to the Syrian Arab Republic H.E. Mr. Dmitry Dogadkin presented copies of his credentials to Minister of Foreign Affairs and Expatriates of the Syrian Arab Republic H.E. Mr. Asaad al-Shaibani. 🤝 During the discussion, the two sides held a detailed exchange of views on the current state and prospects for the development of the full range of traditionally friendly Russian-Syrian relations.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234845",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234845",
+      "published_at": "2026-11-27T06:04:01+00:00",
+      "text": "«Стране нужна помощь. Поэтому и пришел». Дмитрий Гребенников , командир группы огневой поддержки расчёта тяжелой огнеметной системы, пришел защищать Родину в 2023 году, по зову сердца. Его задача — организовывать защиту боевой машины (ТОС БМ-2М) на марше и во время выполнения боевой задачи: в первую очередь, отстреливать вражеских «птиц». «Все ребята уже работают давно. Мы уже семья! Уже, как выходим в отпуск, друг по другу скучаем», — делится наш герой. Рассказываем о наших военнослужащих в 📲 MAX , 📱 ВКонтакте и в 📱 Дзен . Подписывайтесь!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117531",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117531",
+      "published_at": "2026-11-27T06:04:01+00:00",
+      "text": "Участник кадрового конкурса \"Донбасс. СВОи Герои\" Дмитрий Попов назначен советником министра промышленности и торговли ДНР, сообщил глава ведомства Гурген Малхасян. Министр отметил, прошедшие отбор кандидаты ориентированы на достижение результата и обладают качествами, необходимыми для работы на государственной службе. ▪️ Региональный кадровый конкурс \"Донбасс. СВОи Герои\" был запущен в ДНР как аналог президентского проекта \"Время Героев\". ▪️ По данным главы республики Дениса Пушилина, за 2025 год для участия в программе поступило около 2 тысяч заявок, по итогам отбора в финал вышли 75 человек. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407874",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407874",
+      "published_at": "2026-11-27T06:02:01+00:00",
+      "text": "Между ЕС и США усиливаются разногласия по вопросу дальнейшей поддержки Украины , сообщает Politico со ссылкой на источники. По данным издания, во время разговора Трампа и Зеленского 19 ноября президент США заявил, что \"миллиарды долларов\" тратятся на поддержку Украины \"впустую\". Однако, как пишет газета, эта позиция \"едва ли была услышана\" лидерами ЕС. Помимо этого, растет конфронтация по вопросу цифрового налога на транснациональные компании.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350531",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350531",
+      "published_at": "2026-11-27T06:00:51+00:00",
+      "text": "Запрет на экспорт авиакеросина продлили в России до 31 марта. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

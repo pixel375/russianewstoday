@@ -1,0 +1,524 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T05",
+  "generated_at_utc": "2026-11-27T07:05:56.769021+00:00",
+  "window_start_utc": "2026-11-27T05:00:00+00:00",
+  "window_end_utc": "2026-11-27T06:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 2,
+      "raw_count": 12
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 6
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 28,
+    "relevant_posts": 12,
+    "editorial_pool_posts": 28,
+    "retained_without_keyword_match": 16,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 27,
+    "candidate_posts": 27
+  },
+  "posts": [
+    {
+      "id": "intelslava/98668",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98668",
+      "published_at": "2026-11-27T05:54:27+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — 96 drones have already been shot down since nightfall in the sky over the Leningrad region, according to Governor Drozdenko. The local airport was almost completely closed for a long time, approximately from around 3 a.m., when the attack began.…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407873",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407873",
+      "published_at": "2026-11-27T05:54:02+00:00",
+      "text": "Три женщины, подросток и водитель автобуса погибли в ДТП в Красноярском крае, сообщили ТАСС в ГСУ СК по региону.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98667",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98667",
+      "published_at": "2026-11-27T05:53:59+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — 96 drones have already been shot down since nightfall in the sky over the Leningrad region, according to Governor Drozdenko. The local airport was almost completely closed for a long time, approximately from around 3 a.m., when the attack began. Currently, Pulkovo Airport has resumed operations. There is currently no information about the targets of the attack. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117530",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117530",
+      "published_at": "2026-11-27T05:53:01+00:00",
+      "text": "❗️ Вследствие атаки БПЛА ВСУ вечером 26 ноября в Центрально-Городском районе Горловки погибли два мирных жителя, сообщил глава города Иван Приходько. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199417",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199417",
+      "published_at": "2026-11-27T05:52:51+00:00",
+      "text": "🇷🇺 🔹 Key takeaways from the Russian Defense Ministry's morning report: ➡️ Russian forces struck the Termoplast enterprise in Ukraine’s Khmelnitsky Region involved in the production of attack UAVs ➡️ Russian forces struck the MPKA-Ukraine plant in Zaporozhye that produced and supplied electrical products for the Ukrainian army ➡️ Power substations in Krivoy Rog, Zhitomir were also hit ➡️ A bulk carrier with supplies for the Ukrainian army was hit in the Black Sea ➡️ A logistics center storing solid propellant components was hit in Belaya Tserkov in the Kiev Region ➡️ Russian forces hit a transport infrastructure facility in the city of Zaporozhye last night ➡️ Russian forces struck four locomotives carrying equipment for the Ukrainian army in the Dnepropetrovsk Region. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/dva_majors/102602",
+        "https://t.me/boris_rozhin/234843",
+        "https://t.me/rian_ru/350530"
+      ]
+    },
+    {
+      "id": "bricsnews/19852",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19852",
+      "published_at": "2026-11-27T05:51:32+00:00",
+      "text": "JUST IN: 🇺🇳 🇱🇧 United Nations peacekeepers prepare to exit southern Lebanon with no plan. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199416",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199416",
+      "published_at": "2026-11-27T05:45:36+00:00",
+      "text": "🇺🇦 💥 Drone strike in Khmelnitsky 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117529",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117529",
+      "published_at": "2026-11-27T05:45:14+00:00",
+      "text": "ВС России взяли под контроль все трассы и подступы к Дружковке , рассказал командир огневого взвода гаубичного артиллерийского дивизиона 89-го танкового полка 6-й мотострелковой дивизии с позывным Агро. «Расчеты у нас уже слаженные, каждый боец знает свою работу, действуем в унисон. Подходы и трассы к Дружковке - все контролируем, каждое орудие имеет дежурную цель. При первом же появлении противника разведчики дают команду, и мы наносим огневое поражение» , - сказал он. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102602",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102602",
+      "published_at": "2026-11-27T05:44:20+00:00",
+      "text": "Ночью над регионами сбито 318 украинских БПЛА, Минобороны России. Наши в свою очередь били: 📍 промышленное предприятие «Термопласт» в населенном пункте Летичев Хмельницкой области, задействованное в производстве ударных БПЛА; 📍 завод «Мпка-Украина» в городе Запорожье , производитель и поставщик электротехнической продукции для ВСУ; 📍 электроподстанция 330 кВ в городе Кривом Роге Днепропетровской области и электроподстанция 330 кВ в городе Житомире , обеспечивающие работу предприятий ВПК Украины; 📍 логистический центр в населенном пункте Белая Церковь Киевской области, на площадях которого осуществлялось хранение компонентов для изготовления твердого ракетного топлива; 📍 объект транспортной инфраструктуры в городе Запорожье ; 📍 четыре железнодорожных локомотива в Кривом Роге, Першотравенске и Богдановке Днепропетровской области, задействованные для перевозки вооружения и военной техники; 📍 морское судно типа «сухогруз» в акватории Черного моря юго-западнее Одессы , доставлявшее на Украину грузы военного назначения. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199417",
+        "https://t.me/boris_rozhin/234843",
+        "https://t.me/rian_ru/350530"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234844",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234844",
+      "published_at": "2026-11-27T05:43:01+00:00",
+      "text": "Последствия прилета БПЛА в Хмельницком",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117528",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117528",
+      "published_at": "2026-11-27T05:41:45+00:00",
+      "text": "💥 ПВО сбила 318 украинских БПЛА за ночь над регионами РФ, сообщает Минобороны. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407872",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407872",
+      "published_at": "2026-11-27T05:40:05+00:00",
+      "text": "🚨 Средства ПВО за ночь сбили 318 украинских беспилотников над регионами РФ, сообщает МО РФ. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234843",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234843",
+      "published_at": "2026-11-27T05:30:01+00:00",
+      "text": "❗️ Минувшей ночью ВС России нанесены удары беспилотными летательными аппаратами по объектам транспортной инфраструктуры и военной промышленности, а также морским судам, задействованным в интересах ВСУ, сообщили в Минобороны. В результате ударов поражены: ▪️ промышленное предприятие «Термопласт» в населенном пункте Летичев Хмельницкой области, задействованное в производстве ударных БПЛА; ▪️ завод «Мпка-Украина» в городе Запорожье, производитель и поставщик электротехнической продукции для ВСУ; ▪️ электроподстанция 330 кВ в городе Кривой Рог Днепропетровской области и электроподстанция 330 кВ в городе Житомире, обеспечивающие работу предприятий ВПК Украины; ▪️ логистический центр в населенном пункте Белая Церковь Киевской области, на площадях которого осуществлялось хранение компонентов для изготовления твердого ракетного топлива; ▪️ объект транспортной инфраструктуры в городе Запорожье; ▪️ четыре железнодорожных локомотива в Кривом Роге, Першотравенске и Богдановке Днепропетровской области, задействованные для перевозки вооружения и военной техники; ▪️ морское судно типа «сухогруз» в акватории Черного моря юго-западнее Одессы, доставлявшее на Украину грузы военного назначения. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/donbassr/117527"
+      ],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199417",
+        "https://t.me/dva_majors/102602",
+        "https://t.me/rian_ru/350530"
+      ]
+    },
+    {
+      "id": "rian_ru/350530",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350530",
+      "published_at": "2026-11-27T05:29:40+00:00",
+      "text": "Российские войска ударили по предприятию \"Термопласт\" в Хмельницкой области, задействованному в производстве БПЛА, сообщили в Минобороны. Что еще поразили: ▪️ Завод \"МПКА-Украина\" в городе Запорожье, производящий и поставляющий электротехнику для ВСУ. ▪️ Логистический центр, где хранились компоненты для твердого ракетного топлива, в Киевской области. ▪️ Электроподстанции в Кривом Роге и Житомире. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199417",
+        "https://t.me/dva_majors/102602",
+        "https://t.me/boris_rozhin/234843"
+      ]
+    },
+    {
+      "id": "tass_agency/407871",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407871",
+      "published_at": "2026-11-27T05:28:07+00:00",
+      "text": "ВС РФ поразили 4 локомотива, перевозившие военную технику ВСУ, в Днепропетровской области, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407870",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407870",
+      "published_at": "2026-11-27T05:27:47+00:00",
+      "text": "ВС РФ ночью поразили объект транспортной инфраструктуры в городе Запорожье, сообщает МО. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407869",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407869",
+      "published_at": "2026-11-27T05:27:19+00:00",
+      "text": "❕ Поражен логистический центр в Белой Церкви Киевской области, где хранились компоненты для изготовления твердого ракетного топлива, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407868",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407868",
+      "published_at": "2026-11-27T05:26:39+00:00",
+      "text": "ВС РФ поразили сухогруз с грузами для ВСУ в акватории Черного моря, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407867",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407867",
+      "published_at": "2026-11-27T05:24:48+00:00",
+      "text": "Поражены электроподстанции в городах Кривой Рог и Житомир, сообщает МО РФ. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407866",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407866",
+      "published_at": "2026-11-27T05:24:24+00:00",
+      "text": "ВС РФ поразили завод \"МПКА-Украина\" в Запорожье, являющийся производителем и поставщиком электротехнической продукции для ВСУ, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407865",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407865",
+      "published_at": "2026-11-27T05:22:38+00:00",
+      "text": "❕ ВС РФ поразили предприятие \"Термопласт\" в Хмельницкой области, задействованное в производстве ударных БПЛА, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117526",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117526",
+      "published_at": "2026-11-27T05:17:01+00:00",
+      "text": "25 военнослужащих ВСУ осуждены очно и заочно в ДНР с начала года, при этом шестеро осужденных получили пожизненные сроки, сообщили в Верховном суде республики. Отмечается, что в прошлом году были осуждены 69 украинских военных, в том число 50 - очно. Трое приговорены к пожизненным срокам. ✔️ Ранее в Верховном суде ДНР сообщили о вынесении приговоров наемникам ВСУ из более чем 30 стран. Как и в прошлом году, больше всего воевавших за киевский режим иностранцев - граждане Грузии, США и Колумбии. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407864",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407864",
+      "published_at": "2026-11-27T05:16:01+00:00",
+      "text": "Губернатор Тульской области подписал закон о запрете продажи вейпов с 1 марта 2027 года до 1 марта 2032 года. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38654",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38654",
+      "published_at": "2026-11-27T05:08:01+00:00",
+      "text": "⚡️ Фронтовая сводка на утро 27.11.26 ⚡️ Запорожский фронт На Каменском направлении не стихают бои за Приморское и Степногорск. (Рис. 1.1) На Гуляйпольском направлении продолжается продвижение в районе Терсянки. Идут бои у Барвиновки. (Рис. 1.2) Донецкий фронт На Добропольском направлении идут боестолкновения у Юрьевки, Каменки, на подступах к Новофёдоровке, а также в районе Белозёрского. Есть успехи в населённом пункте Весна. (Рис. 2.1) На Константиновском направлении ВС РФ атакуют в районе Долгой Балки и Новопавловки. На Краснолиманском направлении ВСУ контратакуют в районе Колодезей. Идут бои на подступах к Николаевке, а также на участке Диброва – Ямполь – Озёрное. (Рис. 2.2) Харьковский фронт На Купянском направлении идут бои за Ковшаровку, а также в районе Кондрашовки и Радьковки. Идут сражения в районе Боровской Андреевки. (Рис. 3.1) На Волчанском направлении продолжаются тяжёлые боестолкновения в районе Приколотного и на подступах к Бугаевке. Не стихают бои на рубеже Казачья Лопань – Гоптовка. (Рис. 3.2) Сумской фронт Об изменениях в ЛБС не сообщается. (Рис. 4) Смотрите ежедневные сводки от аналитического отдела проекта @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117525",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117525",
+      "published_at": "2026-11-27T05:04:35+00:00",
+      "text": "🟥 День в истории Донбасса 27 ноября 1958 года в Сталино (сегодня Донецк) открыта центральная площадь – имени В. И. Ленина. ▫️ До революции на этом месте была одноэтажная застройка северной окраины Юзовки. А площадь тогда носила названия Сенной или Базарной. ▫️ Временем появления прообраза главной площади можно считать 1926-1927 годы, когда Юзовка стала называться городом Сталино. ▫️ Еще до начала Великой Отечественной войны один из основных разработчиков первого Генплана Сталино Петр Головченко занимался планировкой площадей областного центра, каковым город стал в 1932 году. ▫️ Сталино был освобожден от фашистов 8 сентября 1943 года. Здания, выстроенные до войны вокруг намеченной Административной площади, были разрушены. Но от идеи создать такую площадь не отказались. ▫️ 7 ноября 1958 года исполкомом Сталинского горсовета утвержден акт Госкомиссии по приему в эксплуатацию Административной площади им. Ленина. ▫️ Завершающим этапом формирования главной площади Донецка стало возведение памятника Ленину. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407863",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407863",
+      "published_at": "2026-11-27T05:02:37+00:00",
+      "text": "🚨 За ночь в Ленинградской области было сбито 45 БПЛА, сообщил губернатор.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407862",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407862",
+      "published_at": "2026-11-27T05:00:28+00:00",
+      "text": "Главные новости к этому часу: ▪️ Второй день саммита ЕС отменен из-за провала переговоров, сообщил источник. ▪️ Трамп удивил Рютте, добавив в заявление предостережение для Киева, сообщила газета Politico. ▪️ Лидеры ЕС не достигли договоренности по следующему семилетнему бюджету, заявил Мерц. ▪️ Три страны ЕС не поддержали допфинансирование Киева на €45 млрд, сообщил Кошта. ▪️ Президент Эстонии призвала кабмин к гуманизации закрытия границы с Россией. ▪️ В Санкт-Петербурге госпитализировали двоих человек с подозрением на оспу обезьян. ▪️ Названа дата последних звонков в школах в 2027 году. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
