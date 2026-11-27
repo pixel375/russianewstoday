@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    229
+  ],
+  "published_at_utc": "2026-11-27T04:22:43.232369+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T03",
+  "items": [
+    {
+      "item_id": "2026-11-27T03:1",
+      "title": "Russia reports increased drone interceptions over Leningrad region",
+      "summary": "Russian media reported that air defences had intercepted 30 Ukrainian drones over the Leningrad region, following an earlier report citing the regional governor's figure of 18. The figures have not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/229",
+      "category": "other",
+      "hour_id": "2026-11-27T03",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T03:2",
+      "title": "Alleged forced mobilization incident reported in Kyiv region",
+      "summary": "A report circulating on Russian social media alleges that Ukrainian military recruitment personnel assaulted a man and forced him into a vehicle in the Kyiv region. The circumstances and authenticity of the allegation have not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/229",
+      "category": "other",
+      "hour_id": "2026-11-27T03",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
