@@ -1,0 +1,35 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    233
+  ],
+  "published_at_utc": "2026-11-27T08:44:00.050818+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T05",
+  "items": [
+    {
+      "item_id": "2026-11-27T05:1",
+      "title": "Russia claims 318 Ukrainian drones intercepted overnight",
+      "summary": "Russia's Defence Ministry said its air defences intercepted 318 Ukrainian drones overnight. The figure has not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/233",
+      "category": "other",
+      "hour_id": "2026-11-27T05",
+      "source_handles": [
+        "donbassr",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T05:2",
+      "title": "Russian-installed court reports sentences against Ukrainian servicemen",
+      "summary": "The supreme court in Russian-occupied Donetsk said 25 Ukrainian servicemen had been convicted since the beginning of the year, including six sentenced to life imprisonment. Some convictions were issued in absentia.",
+      "post_url": "https://t.me/russianewstodayofficial/233",
+      "category": "other",
+      "hour_id": "2026-11-27T05",
+      "source_handles": [
+        "donbassr"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
