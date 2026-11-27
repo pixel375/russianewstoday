@@ -1,0 +1,38 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-27T15",
+  "snapshot_generated_at_utc": "2026-11-27T16:03:51.400870+00:00",
+  "late_recovery": true,
+  "items": [
+    {
+      "title": "Crimean authorities expect electricity restrictions to end next week",
+      "summary": "Russian-installed energy authorities in Crimea say electricity restrictions introduced on November 25 could be lifted by the end of next week. Repairs to generating facilities and high-voltage networks are continuing, with longer outages affecting some consumers.",
+      "source_urls": [
+        "https://t.me/boris_rozhin/234914",
+        "https://t.me/voenkorKotenok/78295"
+      ]
+    },
+    {
+      "title": "EU military mobility plans reportedly target 2027",
+      "summary": "A report on the November 25 meeting of EU military chiefs says discussions focused on reducing administrative and customs barriers to military transport by 2027, including arrangements for sharing transport resources and involving civilian logistics companies.",
+      "source_urls": [
+        "https://t.me/dva_majors/102640"
+      ]
+    },
+    {
+      "title": "Putin attends commissioning ceremony for nuclear-powered submarine",
+      "summary": "President Vladimir Putin attended the flag-raising ceremony for the Perm submarine in Severodvinsk. The Kremlin also announced a meeting on the development of Russia's multipurpose nuclear-powered submarine fleet.",
+      "source_urls": [
+        "https://t.me/rian_ru/350559",
+        "https://t.me/tass_agency/407960"
+      ]
+    },
+    {
+      "title": "Russian-installed Kherson governor reports civilian casualties",
+      "summary": "Russian-installed governor Vladimir Saldo said 11 civilians were killed and 20 injured in attacks he attributed to Ukrainian forces over the past week. The figures have not been independently verified.",
+      "source_urls": [
+        "https://t.me/donbassr/117562"
+      ]
+    }
+  ]
+}
