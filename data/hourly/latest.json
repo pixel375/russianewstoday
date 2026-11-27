@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-26T23",
-  "generated_at_utc": "2026-11-27T00:05:15.979621+00:00",
-  "window_start_utc": "2026-11-26T23:00:00+00:00",
-  "window_end_utc": "2026-11-27T00:00:00+00:00",
+  "hour_id": "2026-11-27T00",
+  "generated_at_utc": "2026-11-27T01:04:22.357378+00:00",
+  "window_start_utc": "2026-11-27T00:00:00+00:00",
+  "window_end_utc": "2026-11-27T01:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -15,7 +15,7 @@
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -27,7 +27,7 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 3
     },
     {
       "handle": "MFARussia",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 8
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
@@ -81,7 +81,7 @@
       "handle": "voenkorKotenok",
       "name": "Voenkor Kotenok",
       "pages": 1,
-      "raw_count": 2
+      "raw_count": 0
     },
     {
       "handle": "nab_ukraine",
@@ -105,34 +105,22 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 9,
-    "relevant_posts": 4,
-    "editorial_pool_posts": 9,
-    "retained_without_keyword_match": 5,
+    "raw_posts": 14,
+    "relevant_posts": 5,
+    "editorial_pool_posts": 14,
+    "retained_without_keyword_match": 9,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 9,
-    "candidate_posts": 9
+    "deduplicated_posts": 14,
+    "candidate_posts": 14
   },
   "posts": [
     {
-      "id": "tass_agency/407818",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407818",
-      "published_at": "2026-11-26T23:53:19+00:00",
-      "text": "Мерц заявил, что в ЕС по-прежнему нет согласия по финансированию помощи Украине.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "voenkorKotenok/78275",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78275",
-      "published_at": "2026-11-26T23:51:52+00:00",
-      "text": "В Хмельницком пожар после прилета БпЛА. Подпишись в MAX @voenkorKotenok",
+      "id": "intelslava/98665",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98665",
+      "published_at": "2026-11-27T00:59:30+00:00",
+      "text": "🇺🇦 ❌ 🇷🇺 — Earlier, Ukrainian drones targeted the Efremov Synthetic Rubber Plant, a chemical and petrochemical facility in Tula Oblast, Russia. @OSINTWarfare",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -141,95 +129,164 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "voenkorKotenok/78274",
-      "channel": "voenkorKotenok",
-      "source": "Voenkor Kotenok",
-      "url": "https://t.me/voenkorKotenok/78274",
-      "published_at": "2026-11-26T23:48:49+00:00",
-      "text": "…если человек вдруг начинает «моросить» в случае опасности, делать глупости, совершать необдуманные поступки под обстрелом или, что хуже, истерично метаться, это тоже может оказаться заразным и для других. Подобные взбрыки того, кто считает себя военным журналистом, могут характеризовать его, мягко говоря, не с самой лучшей стороны. Ведь люди все видят. Тем более на войне нутро каждого обнажается полностью. Здесь хорошо заметно, бросается в глаза, кто трусит, кто преследует сугубо корыстные цели, а кто без задней мысли пытается вместе со всеми пережить опасность и сохранить жизнь… …Военные люди ценны и важны в первую очередь для тебя, военкора. Они — лепта в твою жизненную копилку. Ты обрастаешь их историями, ты должен пережить вместе с ними еще раз эпизод боя, чудесный случай спасения, потерю боевого товарища. Все эти ситуации с героями твоих материалов должны пройти у тебя — военкора — перед глазами. Только тогда будет толк… Главное в работе военного журналиста — люди. Наши русские люди, оказавшиеся в горниле войны, проявляют свои лучшие качества. Наша задача — сделать все, чтобы об их достойном служении Родине перед лицом смертельной опасности узнали многие, чтобы это стало достоянием общественности и запечатлелось для потомков. Это пропаганда боевого опыта в самом хорошем смысле слова. Мы не лепим героев, мы только фиксируем их действия в критической обстановке. Наших героев… Читать полностью — 👇 👇 👇 Юрий Котенок: «Не моросить на войне» Оружие в руках. Логистика. Поведение на войне. Коммуникация. Люди Сегодня.ру Подпишись в Мах @segodnia_ru",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407817",
+      "id": "tass_agency/407826",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407817",
-      "published_at": "2026-11-26T23:38:01+00:00",
-      "text": "Каждый ребенок в США получит акцию SpaceX уже в декабре, заявил Маск. Сейчас стоимость одной акции компании составляет примерно $127. Ранее предприниматель заявил, что каждый ребенок в Соединенных Штатах получит по две акции SpaceX — одну от компании и одну…",
+      "url": "https://t.me/tass_agency/407826",
+      "published_at": "2026-11-27T00:56:01+00:00",
+      "text": "Владимир Путин освободил Андрея Келина от должности посла в Великобритании.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/407816",
+      "id": "tass_agency/407825",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/407816",
-      "published_at": "2026-11-26T23:36:01+00:00",
-      "text": "▶️ Экс-посол РФ в Париже Алексей Мешков рассказал ТАСС, что Франция страдает без российских туристов. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "AussieCossack/53580",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53580",
-      "published_at": "2026-11-26T23:30:28+00:00",
-      "text": "❗️ German Chancellor Merz is pretending that Trump is on the side of the EU against Russia. \"I was very pleased to see that President Trump addressed Russia today and called on Putin to end the hostilities. It is good that he is doing this. In doing so, he is taking a clear position that we all share.\" @AussieCossack",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407815",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407815",
-      "published_at": "2026-11-26T23:23:01+00:00",
-      "text": "Минпросвещения определило единый день проведения последних звонков в 2027 году — их планируется провести 26 мая.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/407814",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/407814",
-      "published_at": "2026-11-26T23:10:01+00:00",
-      "text": "Переход стран СНГ на расчеты в нацвалютах во взаимной торговле стал эффективным решением для преодоления западных санкций. Об этом заявил генеральный секретарь СНГ Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "url": "https://t.me/tass_agency/407825",
+      "published_at": "2026-11-27T00:54:29+00:00",
+      "text": "Три страны ЕС не поддержали дополнительное финансирование Киева на 2027 год в размере €45 млрд, заявил Кошта.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "sanctions"
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234835",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234835",
-      "published_at": "2026-11-26T23:04:01+00:00",
-      "text": "Пролёт крылатой ракеты Герань-5 над Харьковом, и один из ударов БпЛА в Одессе.",
+      "id": "tass_agency/407824",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407824",
+      "published_at": "2026-11-27T00:51:26+00:00",
+      "text": "🚨 Жителям Лудзенского района на востоке Латвии разослали уведомление о возможной воздушной угрозе. Соответствующее сообщение ВС Латвии появилось в соцсети X.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407823",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407823",
+      "published_at": "2026-11-27T00:36:01+00:00",
+      "text": "Трамп выразил уверенность в том, что Путин добивается урегулирования конфликта на Украине, и отметил необходимость такого же настроя у всех сторон.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407822",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407822",
+      "published_at": "2026-11-27T00:27:01+00:00",
+      "text": "▶️ Действия ВСУ, которые издеваются даже над собственным населением у линии фронта, говорят и об их отношении к пленным из РФ. Об этом в беседе с ТАСС заявил Родион Мирошник. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407821",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407821",
+      "published_at": "2026-11-27T00:22:01+00:00",
+      "text": "Трамп склоняется к возобновлению ударов по Ирану после Нового года, если не будут достигнуты договоренности с Тегераном о прекращении конфликта. При этом американский лидер заявил Fox News, что США и Иран продолжают вести непрямые переговоры.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "kharkiv",
-        "missile",
-        "odesa",
+        "negotiation",
         "strike"
       ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53583",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53583",
+      "published_at": "2026-11-27T00:20:02+00:00",
+      "text": "❗️ Trump: \"We GOT Greenland\". 😁 Does Greenland know about this? @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407820",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407820",
+      "published_at": "2026-11-27T00:16:01+00:00",
+      "text": "Трамп и Рютте на встрече в Мар-а-Лаго обсудили урегулирование конфликта на Украине и предотвращение его разрастания. Также поднимались вопросы иранского конфликта и увеличения военных расходов НАТО, следует из заявления Белого дома. Американский лидер и генсек…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234837",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234837",
+      "published_at": "2026-11-27T00:16:01+00:00",
+      "text": "Уничтоженная САУ «Гвоздника» ВСУ где-то в прифронтовых районах.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350523",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350523",
+      "published_at": "2026-11-27T00:06:46+00:00",
+      "text": "Женщина и три ребенка погибли при пожаре в Салехарде. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53582",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53582",
+      "published_at": "2026-11-27T00:05:07+00:00",
+      "text": "❗️ Trump on the G7: \"If Putin stayed a member of the G8, you might not have the Ukraine war right now.\" @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407819",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407819",
+      "published_at": "2026-11-27T00:05:01+00:00",
+      "text": "▶️ Товарооборот России со странами СНГ составляет $110 млрд. Об этом сообщил генеральный секретарь Содружества Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53581",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53581",
+      "published_at": "2026-11-27T00:04:17+00:00",
+      "text": "❗️ Trump: \"Putin would like to see the war end. The other side would like to see the war end. NATO would like to see the war end.\" PS. Seems like everyone involved wants the war to end except for Zelensky. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
