@@ -1,0 +1,30 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-27T21",
+  "snapshot_generated_at_utc": "2026-11-27T23:05:56.591214+00:00",
+  "late_recovery": true,
+  "items": [
+    {
+      "title": "Kyiv new-build apartment sales reportedly fall tenfold from 2021",
+      "summary": "Ukrainian media, citing Kyiv School of Development founder Igor Raikov, report that monthly sales of newly built apartments have fallen to around $20 million, compared with $200 million in September 2021. Power outages, Russian strikes, currency fluctuations and limited access to housing programmes were cited as contributing factors.",
+      "source_urls": [
+        "https://t.me/DDGeopolitics/199521"
+      ]
+    },
+    {
+      "title": "Russian envoy emphasizes continued dialogue with Washington",
+      "summary": "Russian presidential envoy Kirill Dmitriev stressed the importance of maintaining dialogue with the United States and described American negotiators Steve Witkoff and Jared Kushner as committed to seeking a peaceful resolution.",
+      "source_urls": [
+        "https://t.me/intelslava/98693",
+        "https://t.me/intelslava/98690"
+      ]
+    },
+    {
+      "title": "Lviv reportedly nears completion of new crematorium amid burial space shortages",
+      "summary": "Reports indicate that testing is underway at Lviv's new crematorium as construction approaches completion. The city has also been seeking additional burial space amid pressure on existing cemeteries.",
+      "source_urls": [
+        "https://t.me/intelslava/98698"
+      ]
+    }
+  ]
+}
