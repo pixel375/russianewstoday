@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T03",
+  "generated_at_utc": "2026-11-27T04:06:28.858991+00:00",
+  "window_start_utc": "2026-11-27T03:00:00+00:00",
+  "window_end_utc": "2026-11-27T04:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 11,
+    "relevant_posts": 3,
+    "editorial_pool_posts": 11,
+    "retained_without_keyword_match": 7,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 10,
+    "candidate_posts": 10
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407850",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407850",
+      "published_at": "2026-11-27T03:55:01+00:00",
+      "text": "🚨 Четыре человека погибли и восемь пострадали в ДТП с пассажирским автобусом и грузовиками в Красноярском крае, сообщили в ГУ МВД.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407849"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350527",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350527",
+      "published_at": "2026-11-27T03:39:51+00:00",
+      "text": "Четыре человека погибли в ДТП с автобусом в Красноярском крае, восемь пострадали. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407848",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407848",
+      "published_at": "2026-11-27T03:33:03+00:00",
+      "text": "▶️ Генсек СНГ Сергей Лебедев рассказал в интервью гендиректору ТАСС Андрею Кондрашову, как ему помогает прошлое разведчика. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407847",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407847",
+      "published_at": "2026-11-27T03:32:01+00:00",
+      "text": "Мошенники под видом визовых центров выманивают персональные данные россиян. Это следует из материалов МВД, с которыми ознакомился ТАСС. Аферисты создают сайты или Telegram-каналы под видом турагентств или визовых центров. Гражданам предлагается без очередей и отказов оформить загранпаспорт или получить визу. При этом для оказания услуги мошенники просят прислать сканы всех документов и внести 100% оплату. После внесения средств и отправки документов, \"агентство\" исчезает.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102598",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102598",
+      "published_at": "2026-11-27T03:20:48+00:00",
+      "text": "ПОДЪЁМ! Поёт Борзовский клуб ✨ ⚓️ 27 ноября отмечается 321-я годовщина образования морской пехоты. С праздником, мужики! Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350526",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350526",
+      "published_at": "2026-11-27T03:19:42+00:00",
+      "text": "ПВО сбила 30 дронов ВСУ над Ленинградской областью. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407846",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407846",
+      "published_at": "2026-11-27T03:16:50+00:00",
+      "text": "🚨 18 БПЛА сбили над Ленинградской областью, сообщил губернатор.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407845",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407845",
+      "published_at": "2026-11-27T03:10:01+00:00",
+      "text": "▶️ Молдавия после выхода из СНГ может остаться примерно в 26 договорах. Об этом сообщил генеральный секретарь организации Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234841",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234841",
+      "published_at": "2026-11-27T03:05:14+00:00",
+      "text": "Земобилизация в Киевской области: ТЦКуны пачкой отлупили мужика и паканули в машину. Уже даже не на бусиках катаются, а на обычные легковушки пересели. М - мобильность... Одних украинцев ловят, избивают и отправляют на войну. Другие годами обеспечивают этот конвейер, не покидая тыла. Кто же будет рассуждать о воинском долге, если не они? Чужом, разумеется – свою службу они предпочитают нести там, где можно толпой скрутить безоружного мужчину, а не встретиться с вооруженным противником. @HersonVestnik",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407844",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407844",
+      "published_at": "2026-11-27T03:05:07+00:00",
+      "text": "Россиянин выжил после падения с 15-го этажа в Таиланде. Он приземлился в расположенный на четвертом этаже открытый бассейн. Об этом сообщила газета Daily News.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
