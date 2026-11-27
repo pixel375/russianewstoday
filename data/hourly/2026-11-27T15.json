@@ -1,0 +1,549 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T15",
+  "generated_at_utc": "2026-11-27T16:03:51.400870+00:00",
+  "window_start_utc": "2026-11-27T15:00:00+00:00",
+  "window_end_utc": "2026-11-27T16:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 12
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 35,
+    "relevant_posts": 9,
+    "editorial_pool_posts": 35,
+    "retained_without_keyword_match": 24,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 33,
+    "candidate_posts": 33
+  },
+  "posts": [
+    {
+      "id": "voenkorKotenok/78296",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78296",
+      "published_at": "2026-11-27T15:56:55+00:00",
+      "text": "От подписчика. \"Тут скорее не МИД, а контролирующие органы и Комитет по этике нужны… Насколько это этично ? И может, все-таки лишить персонажа, как минимум, руководящих ролей в Госдуме? Все-таки секретные документы читает периодически… А тут такой рычаг в стране НАТО. И еще интересно, он оплачивает коммунальные платежи в стране НАТО… Как, если SWIFT закрыт? Получается, незаконно?\". Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78295",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78295",
+      "published_at": "2026-11-27T15:56:16+00:00",
+      "text": "В Крыму продолжают бороться с последствиями вражеских ударов по энергетике и аварийными отключениями. Как сообщил Олег Царев (ему, крымчанину, это тем более важно), в Минтопэнерго республики обещают полностью снять ограничения электроснабжения в Крыму до конца следующей недели. «Сейчас свет отключают дольше обычного, потому что энергетики ремонтируют станции и высоковольтные сети. Надеюсь, что осталось потерпеть совсем немного», - добавил бывший депутат Верховной рады, заочно осужденный киевским режимом на 12 лет. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "energy",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199478",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199478",
+      "published_at": "2026-11-27T15:55:52+00:00",
+      "text": "🇺🇸 🇺🇦 The Ukrainian Foreign Legion have officially maxed out the cringe-o-meter with their latest recruitment video. Apparently, when you’re trying to convince people to sign up for the meat grinder, a healthy dose of Hollywood-style propaganda is exactly what’s needed. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234916",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234916",
+      "published_at": "2026-11-27T15:55:09+00:00",
+      "text": "Сегодня днем Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам транспорта и морским судам , задействованным в интересах ВСУ. В результате ударов в районах населенных пунктов Першотравенск, Каменское и Морозовское Днепропетровской области поражены три железнодорожных локомотива , используемых для перевозки грузов военного назначения. Кроме того, в акватории Черного моря юго-западнее Одессы поражено морское судно типа «сухогруз» , доставлявшее грузы двойного назначения в интересах ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350560",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350560",
+      "published_at": "2026-11-27T15:53:55+00:00",
+      "text": "Путин принял участие в церемонии подъема флага на атомном подводном крейсере \"Пермь\". Подлодка проекта \"Ясень-М\" оснащена гиперзвуковым комплексом \"Циркон\", это первый штатный носитель этих ракет. Президент поздравил моряков и строителей с ее передачей в…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407966",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407966",
+      "published_at": "2026-11-27T15:51:59+00:00",
+      "text": "▶ Путин в Северодвинске принимает участие в церемонии подъема флага на подлодке \"Пермь\". Присоединяйтесь к нашей трансляции . Видео: Раптли/ТАСС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407965",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407965",
+      "published_at": "2026-11-27T15:48:02+00:00",
+      "text": "Путин уверен, что национальные интересы РФ во всех районах Мирового океана будут надежно обеспечены.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19858",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19858",
+      "published_at": "2026-11-27T15:47:54+00:00",
+      "text": "JUST IN: 🇮🇷 Iran's Supreme Leader adviser says the Strait of Hormuz will remain closed and Iran will not allow the blockade to continue. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407964",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407964",
+      "published_at": "2026-11-27T15:46:24+00:00",
+      "text": "РФ — одна из немногих стран мира, способная строить мощные атомные подлодки, заявил Путин.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30810",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30810",
+      "published_at": "2026-11-27T15:45:24+00:00",
+      "text": "👊 ‘We give no opportunity for enemy to advance,’ commander of artillery platoon with the call sign ‘Agro’ tells about neutralisation of enemy in Druzhkovka. ‘We're working in Druzhkovka, right beyond Alekseyevo-Druzhkovka, we carry out fire assaults in order to make our assault groups advance,’ the serviceman said. ▫️ He told, how Russian servicemen control all approaches and highways to the city , disrupting the enemy's logistics. ❌ The serviceman also noted, that the AFU has no more tube artillery left in this area. The enemy uses only mortars shooting at a range of 1-2 kilometres. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234915",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234915",
+      "published_at": "2026-11-27T15:45:10+00:00",
+      "text": "Россия продолжит поставки газа в Турцию до 2030 года. Соответствующие договоры заключены. Поставки будут осуществлять \"Газпром\" и \"Новатэк\". В правительстве России предложили Грузии стать энергетическим хабом. Фактически, Турция закупает российский газ в больших объемах. РФ при этом сохраняет возможность продавать большие объемы газа за рубеж и частично обходит санкции, Турция снимает маржу за счет перепродажи части этого газа третьим странам, в результате чего российский газ продолжает поступать в Европу. Европа делает вид, что она отказалась покупать российский газ, при этом она прекрасно знает, что она продолжает покупать российский газ у Турции и третьих стран, фактически формируя для Турции и прочих ту самую газовую маржу. После этого выходит министров финансов США Бассент и заявляет, что Европа ставит рекорды по закупкам российского газа и заплатила России с 2022 года больше денег за газ, чем потратила на финансирование войны на Украине. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "procurement",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350559",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350559",
+      "published_at": "2026-11-27T15:43:15+00:00",
+      "text": "Путин принял участие в церемонии подъема флага на атомном подводном крейсере \"Пермь\". Подлодка проекта \"Ясень-М\" оснащена гиперзвуковым комплексом \"Циркон\", это первый штатный носитель этих ракет. Президент поздравил моряков и строителей с ее передачей в состав ВМФ - что он еще сказал: 🔹 Россия одна из немногих стран мира, способных строить мощные атомные подводные лодки. 🔹 АПЛ проекта \"Ясень-М\" отвечают всем современным и перспективным требованиям. 🔹 Путин уверен, что все планы по созданию мощного военно-морского флота будут выполнены в срок и в полном объеме. 🔹 Путин пожелал экипажу подлодки \"семь футов под килем\". 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407963",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407963",
+      "published_at": "2026-11-27T15:42:21+00:00",
+      "text": "Путин поздравил моряков и работников \"Севмаша\" с поднятием флага на АПЛ \"Пермь\". Он назвал АПЛ \"Пермь\" оружием глобального уровня и значения.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407962"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102640",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102640",
+      "published_at": "2026-11-27T15:40:18+00:00",
+      "text": "🇪🇺 🚩 ЕС ускоряет создание «военного Шенгена» На заседании Военного комитета Европейского союза (EUMC) на уровне начальников генеральных штабов вооружённых сил стран ЕС, состоявшемся 25 ноября в 🇧🇪 Брюсселе, обсуждался вопрос формировании в 2027 году единого пространства перемещения военной техники по территории ЕС, неофициально называемого «военным Шенгеном». Главным направлением этой работы станет устранение административных и таможенных препятствий для военных перевозок к 2027 году . Для этого предполагается создать механизм European Military Mobility Enhanced Response System (EMERS), который предусматривает ускоренные административные процедуры, приоритетное использование транспортной инфраструктуры и переход в определённых чрезвычайных ситуациях от разрешительного к уведомительному порядку . Предлагается также привлекать гражданские транспортные компании. Для этого предлагается сформировать Military Mobility Catalogue – каталог гражданских транспортных и логистических возможностей, доступных для военных нужд . Коммерческие предприятия смогут «добровольно» регистрировать имеющиеся возможности двойного назначения. Параллельно предусмотрено создание Military Mobility Solidarity Pool – механизма совместного использования транспортных ресурсов государств ЕС . Это представляет собой дальнейшую институциональную интеграцию гражданского логистического бизнеса в европейскую военную систему. Кроме того, будет продолжена унификация военных стандартов и совместной подготовки в сфере военной логистики. ✨ Военная логистика – это ключевой аспект военных действий . Показательно, что все усилия Европы направлены на ускорение перемещения воинских контингентов с запада на восток – к границам 🇷🇺 России и 🇧🇾 Белоруссии. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199477",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199477",
+      "published_at": "2026-11-27T15:40:10+00:00",
+      "text": "Join Danny Haiphong LIVE today Nov 27th 1pm eastern 7pm CET w/ Scott Ritter! Iran has blown the lid off a US-Israeli operation meant to trigger a broader war in the region against Iran as the alarms are sounding in NATO over Russia's message that its acts of aggression will not go unanswered. Scott Ritter joins back from Russia to discuss the latest developments and how they speak to the context and root causes for the geopolitical chaos and crises facing the world today. Watch here: https://www.youtube.com/watch?v=r4Y1tiENSAc",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38668",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38668",
+      "published_at": "2026-11-27T15:39:35+00:00",
+      "text": "Иран глазами милитари-сюрреалиста: центр Тегерана 18 километров Вали Аср – от старых южных кварталов до престижного севера – и площадь, которая в этом году снова стала точкой сбора вечерних демонстраций: здесь падали израильские ракеты, здесь же стихийно праздновали ответный удар по базе США в Катаре. Google Maps на время вернул улице дореволюционное название «Пехлеви», уличные торговцы проводят параллели между СВО и Ближним Востоком, а корреспондента @wargonzo Валентина Некенова угощают грушами со словами «Ирон ва Росийе – ОК!». Смотрите наш новый тегеранский репортаж – заодно узнаете, как здесь переходить дорогу и подзывать кошек на персидском. 👉🏻 Смотреть эксклюзивно в МАХ @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407961",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407961",
+      "published_at": "2026-11-27T15:39:19+00:00",
+      "text": "🚨 Пять человек пострадали в результате ДТП на Комсомольском проспекте в Москве, четверо госпитализированы, сообщили в Депздраве.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117563",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117563",
+      "published_at": "2026-11-27T15:38:01+00:00",
+      "text": "В ДНР уже почти 59 тысяч предприятий малого и среднего бизнеса, их количество в этом году выросло почти на четыре процента. \"Мы с большим удовольствием отмечаем и качественную тенденцию развития наших предприятий. Из микропредприятия они переходят в разряд малого, из малого – в среднее, а из среднего уже выходят некоторые предприятия в большой бизнес\", – рассказала руководитель центра «Мой бизнес» в ДНР Любовь Луговая. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407960",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407960",
+      "published_at": "2026-11-27T15:37:44+00:00",
+      "text": "Путин сегодня в Северодвинске примет участие в церемонии подъема флага на подлодке \"Пермь\", сообщил Песков. Президент РФ также проведет совещание о развитии группировки многоцелевых атомных подводных лодок. Видео: Алексей Голенищев/ТАСС",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407956"
+      ],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407959",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407959",
+      "published_at": "2026-11-27T15:36:10+00:00",
+      "text": "В Черном море юго-западнее Одессы поражен сухогруз с грузами двойного назначения для ВСУ, сообщает МО РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407958",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407958",
+      "published_at": "2026-11-27T15:35:54+00:00",
+      "text": "❗️ ВС РФ днем поразили в Днепропетровской области три железнодорожных локомотива, используемых для перевозки грузов военного назначения, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234914",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234914",
+      "published_at": "2026-11-27T15:35:03+00:00",
+      "text": "Свет в Крыму вернут до конца следующей недели Ограничения подачи электроэнергии, введённые с 25 ноября, планируется отменить до конца следующей недели. Об этом сообщили в республиканском Минтопэнерго со ссылкой на пресс-службу «Крымэнерго». — Сейчас технические работы ведутся на объектах генерации и высоковольтных сетях; — После восстановления энергосистемы потребителей вернут к регламентированным графикам, а затем электроснабжение полностью нормализуют; — Из-за плановых работ графики отключений скорректированы, а период отсутствия света у потребителей увеличен — в каждом подразделении «Крымэнерго» разработаны дополнительные графики. Важно: при аварийных ситуациях решения о запуске резервных генераторов принимаются по согласованию с администрациями муниципалитетов. Свет в приоритетном порядке подаётся туда, где электричества нет дольше всего или его подача минимальна. Крыминформ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102630",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102630",
+      "published_at": "2026-11-27T15:33:50+00:00",
+      "text": "Рубрика «Будни солдата». Разбавим ленту фронтовыми котиками! — Фронтовики, можете присылать нам фотографии/видео вашего быта: @media_front_bot , и мы их опубликуем (и отредактируем). Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199476",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199476",
+      "published_at": "2026-11-27T15:30:40+00:00",
+      "text": "🇷🇺 President Vladimir Putin is set to attend the flag-raising ceremony aboard the nuclear-powered submarine Perm . The Kremlin also announced that Putin will hold a meeting in Severodvinsk focusing on the development of the Russian Navy’s fleet of multi-purpose nuclear-powered submarines. The visit highlights Russia’s continued focus on strengthening and modernising its submarine fleet. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407957",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407957",
+      "published_at": "2026-11-27T15:27:52+00:00",
+      "text": "РФ сейчас существует в весьма враждебном окружении, а ядерная триада является надежной гарантией ее безопасности , заявил Песков. Он подчеркнул, что ядерная триада каждый день подтверждает свое значение в нынешних геополитических условиях, это невозможно переоценить. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199475",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199475",
+      "published_at": "2026-11-27T15:26:59+00:00",
+      "text": "🇷🇺 Russia’s most stylish female pilot! By day, she works in an office. At weekends, she takes to the skies performing spectacular aerobatic manoeuvres. Meet 27-year-old Elena Dikolenko, lead female pilot of the Barsy, Russia’s only all-female aerobatic team. Flying above Surgut, Elena performs daring loops and precision manoeuvres, even finding time to apply her lipstick while at the controls! 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199474",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199474",
+      "published_at": "2026-11-27T15:23:58+00:00",
+      "text": "🇷🇺 “All my teeth are still intact!” Dagestani strongman Omar Khanapiyev has set his 68th world record after pulling a 125-tonne locomotive 15 metres using nothing but a rope held between his teeth. And he did it at the age of 62! 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350558",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350558",
+      "published_at": "2026-11-27T15:18:04+00:00",
+      "text": "Путин проведет совещание по развитию группировки многоцелевых атомных подводных лодок ВМФ сегодня в Северодвинске, сообщил Песков. Россия сегодня существует во враждебной обстановке, поэтому ядерная триада является надежной гарантией ее безопасности, отметил пресс-секретарь президента. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234913",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234913",
+      "published_at": "2026-11-27T15:17:01+00:00",
+      "text": "Минцифры РФ предложило предоставить ИИ-моделям доступ к госданным для обучения Ведомство разработало подзаконные акты, предусматривающие доступ ИИ-моделей к государственным данным, за исключением сведений, охраняемых законом. Меры планируют ввести с 1 марта 2027 года. Также Минцифры предлагает установить порядок присвоения моделям суверенного и национального статусов. Проверять их соответствие требованиям закона и традиционным ценностям будет Институт системного программирования РАН. После согласования с органами безопасности решение о присвоении статуса примет комиссия по цифровому развитию. Это также неизбежность. Свои модели надо учить самостоятельно на своих данных. Но вопросы безопасности никто не отменял.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117562",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117562",
+      "published_at": "2026-11-27T15:10:28+00:00",
+      "text": "В Херсонской области за неделю в результате атак ВСУ погибли 11 мирных жителей, еще 20 были ранены, сообщил губернатор Владимир Сальдо. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36046",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36046",
+      "published_at": "2026-11-27T15:04:31+00:00",
+      "text": "📝 Head in the sand 📝 AFU support has its limits Despite solid military and political support for the Kyiv regime, NATO still maintains its notorious red lines and attempts to avoid outright escalation of the conflict, roughly understanding the consequences for itself. Ahead of the European Council summit, Romanian President Klaus Iohannis stated that attempts by NATO forces to shoot down targets in Ukrainian airspace, if they are heading toward alliance territory, \"would mean joining military operations.\" Bucharest considers such a scenario equivalent to direct entry into the war . The Romanian president responded this way to reports from Bloomberg sources that Poland allegedly proposed that allies consider shooting down missiles over so-called Ukraine when they are heading toward NATO territory. However, Warsaw itself confirmed that such a proposal does not have alliance support . Instead, the Poles plan to establish a no-fly zone near the Ukrainian border. 📌 Alliance countries are mostly willing to respond only to threats in their own airspace, but not in Ukrainian airspace. However, given the level of support they provide to the Kyiv regime, it is unsurprising that some projectiles do reach them . And this benefits primarily Ukrainian authorities themselves, who seek to expand the scope of confrontation at any cost. #NATO #Poland #Romania #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407955",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407955",
+      "published_at": "2026-11-27T15:04:02+00:00",
+      "text": "Позиции стран ЕС по бюджету после саммита \"еще больше отдалились друг от друга\". Нет гарантий, что следующая встреча по семилетнему финансовому плану принесет какие-то результаты, заявил премьер-министр Венгрии Мадьяр.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234912",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234912",
+      "published_at": "2026-11-27T15:01:19+00:00",
+      "text": "Нужны глаза и уши по городам и селам Украины Где находятся иностранные наемники, подразделения нац.батов, а также военнослужащих ВСУ в тыловых районах; * адреса их компактного размещения и численность; * места размещения и ремонта техники; * склады ГСМ и боеприпасов; * Маршруты передвижения техники; * любая полезная информация. А также не забываем про ТЦК: * Личные данные на сотрудников. * Посты ТЦК. * Случаи бесчинства. Пишите в бот https://t.me/USSSR2_bot обратной связи имеющуюся у вас информацию и не забывайте чистить историю на своём устройстве Строго анонимно. Вместе - мы сила 💪",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
