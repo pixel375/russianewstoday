@@ -1,0 +1,56 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    243
+  ],
+  "published_at_utc": "2026-11-27T18:28:36.661973+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T17",
+  "items": [
+    {
+      "item_id": "2026-11-27T17:1",
+      "title": "Ireland reportedly ends hotel accommodation for some Ukrainian refugees",
+      "summary": "Irish authorities have reportedly ended hotel accommodation for Ukrainian refugees who arrived before March 2024. Some people unable to secure alternative housing have been relocated to converted equestrian facilities, prompting complaints about living conditions and a protest in Dublin.",
+      "post_url": "https://t.me/russianewstodayofficial/243",
+      "category": "other",
+      "hour_id": "2026-11-27T17",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T17:2",
+      "title": "Russia reports intercepting 74 Ukrainian drones during the day",
+      "summary": "Russia's Defence Ministry said its air defences intercepted 74 Ukrainian drones over Russian regions during the day. The figure has not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/243",
+      "category": "other",
+      "hour_id": "2026-11-27T17",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T17:3",
+      "title": "Iran disputes responsibility for deadly Kuwait incident and accuses Ukraine",
+      "summary": "Iranian representatives alleged Ukrainian involvement in a deadly incident at a military facility in Kuwait. Kuwait and Italy attributed the incident to Iran, which denies responsibility. The Iranian allegation remains unverified.",
+      "post_url": "https://t.me/russianewstodayofficial/243",
+      "category": "other",
+      "hour_id": "2026-11-27T17",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T17:4",
+      "title": "Serbian filmmaker advocates feature films about the Donbas war",
+      "summary": "Speaking at a documentary film festival in Serbia, director Emir Kusturica argued that fictional feature films based on experiences of people involved in the Donbas conflict should be produced.",
+      "post_url": "https://t.me/russianewstodayofficial/243",
+      "category": "other",
+      "hour_id": "2026-11-27T17",
+      "source_handles": [
+        "wargonzo"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
