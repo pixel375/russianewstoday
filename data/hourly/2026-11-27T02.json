@@ -1,0 +1,214 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T02",
+  "generated_at_utc": "2026-11-27T03:09:11.685861+00:00",
+  "window_start_utc": "2026-11-27T02:00:00+00:00",
+  "window_end_utc": "2026-11-27T03:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 8,
+    "relevant_posts": 1,
+    "editorial_pool_posts": 8,
+    "retained_without_keyword_match": 6,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 7,
+    "candidate_posts": 7
+  },
+  "posts": [
+    {
+      "id": "rian_ru/350525",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350525",
+      "published_at": "2026-11-27T02:48:33+00:00",
+      "text": "Киевский режим с 2022-го переименовал 96% улиц, связанных с Россией и СССР, в рамках \"декоммунизации\". При этом имена пособников нацистов Бандеры и Шухевича украинские власти присвоили более чем тысяче мест. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407843",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407843",
+      "published_at": "2026-11-27T02:47:01+00:00",
+      "text": "🚨 Над Ленинградской областью ликвидированы 10 БПЛА, сообщил губернатор.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/407839"
+      ],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407842",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407842",
+      "published_at": "2026-11-27T02:40:01+00:00",
+      "text": "▶️ Молдавия ведет переговоры, чтобы при выходе из СНГ сохранить ряд договоров. Об этом сообщил генеральный секретарь Содружества Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407841",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407841",
+      "published_at": "2026-11-27T02:35:12+00:00",
+      "text": "Более 8,2 млн рублей штрафа взыскивают с Моргенштерна* в России за уклонение от исполнения обязанностей иноагента. Это следует из судебных и других материалов, с которыми ознакомился ТАСС. * Внесен в реестр иноагентов в РФ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407840",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407840",
+      "published_at": "2026-11-27T02:20:05+00:00",
+      "text": "▶️ Экс-посол РФ в Париже Алексей Мешков рассказал ТАСС, что Франция страдает без российских туристов. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407838",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407838",
+      "published_at": "2026-11-27T02:10:01+00:00",
+      "text": "▶️ Выход Молдавии из СНГ — большой минус для нее самой. Об этом заявил генеральный секретарь организации Сергей Лебедев в интервью гендиректору ТАСС Андрею Кондрашову. Видео: ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234839",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234839",
+      "published_at": "2026-11-27T02:03:01+00:00",
+      "text": "1. Работа 50-й отдельной бригады \"Варяг\" на Славянском тактическом направлении. Варяги наносят огневое поражение 3-му армейскому корпусу ВСУ. 2. Дальние удары 50-й отдельной Бригады «ВАРЯГ» по противнику . Операторы БПЛА «Герань» продолжают уничтожать объекты противника. Бригада преследует цель не только сорвать энергоснабжение, но и подорвать логистику противника на наиболее опасных для ВСУ направлениях. @Brigada_VARYAG",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
