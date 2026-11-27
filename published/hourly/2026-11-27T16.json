@@ -1,0 +1,58 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    242
+  ],
+  "published_at_utc": "2026-11-27T17:27:02.179861+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-27T16",
+  "items": [
+    {
+      "item_id": "2026-11-27T16:1",
+      "title": "Moscow warns Latvia of possible diplomatic countermeasures",
+      "summary": "Russian Foreign Ministry spokeswoman Maria Zakharova accused Latvia of escalating tensions with Russia, citing its military support for Ukraine, NATO exercises and restrictions on Russian grain transit. She warned that Moscow reserves the right to respond politically and diplomatically. Her allegations concerning Ukrainian drone operations were not independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/242",
+      "category": "other",
+      "hour_id": "2026-11-27T16",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T16:2",
+      "title": "Russia begins forming military construction units",
+      "summary": "Deputy Defence Minister Pavel Fradkov reportedly announced the formation of military construction units staffed by conscripts and contract personnel. The initiative is intended to reduce reliance on commercial contractors for military infrastructure, with dedicated training arrangements planned.",
+      "post_url": "https://t.me/russianewstodayofficial/242",
+      "category": "other",
+      "hour_id": "2026-11-27T16",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T16:3",
+      "title": "Dnipro residents reportedly protest prolonged electricity outages",
+      "summary": "Residents reportedly blocked a road in Dnipro to protest prolonged power cuts. One participant said their household had been without electricity for five days. The report illustrates mounting pressure on civilians amid disruptions to essential services.",
+      "post_url": "https://t.me/russianewstodayofficial/242",
+      "category": "other",
+      "hour_id": "2026-11-27T16",
+      "source_handles": [
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-27T16:4",
+      "title": "Russia claims strikes on Ukrainian railway locomotives",
+      "summary": "The Russian Defence Ministry said its forces struck three railway locomotives in Ukraine's Dnipropetrovsk region, alleging they were used to transport military cargo. The claim has not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/242",
+      "category": "other",
+      "hour_id": "2026-11-27T16",
+      "source_handles": [
+        "ddgeopolitics",
+        "donbassr"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
