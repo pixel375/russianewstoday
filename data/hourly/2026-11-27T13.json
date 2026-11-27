@@ -1,0 +1,441 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T13",
+  "generated_at_utc": "2026-11-27T15:00:35.804906+00:00",
+  "window_start_utc": "2026-11-27T13:00:00+00:00",
+  "window_end_utc": "2026-11-27T14:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 24,
+    "relevant_posts": 9,
+    "editorial_pool_posts": 24,
+    "retained_without_keyword_match": 15,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 24,
+    "candidate_posts": 24
+  },
+  "posts": [
+    {
+      "id": "tass_agency/407947",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407947",
+      "published_at": "2026-11-27T13:56:01+00:00",
+      "text": "Бывшему замначальника ГУ МВД России по Подмосковью Сергею Малькову, которого обвиняют в хищении служебного моторного топлива, добавили обвинения в получении особо крупной взятки и в незаконном создании фирмы. Об этом сказано в материалах дела генерала, с которыми…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117559",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117559",
+      "published_at": "2026-11-27T13:52:59+00:00",
+      "text": "Предприятиям ДНР, пострадавшим от обстрелов, начали выдавать льготные кредиты для восстановления поврежденных объектов и товарных запасов. «Такие кредиты мы выдаем под процентную ставку 0,1 процента», - рассказал руководитель Государственной микрокредитной компании Алексей Серый. Всего в этом году компания оказали поддержку 73 субъектам малого и среднего предпринимательства на общую сумму более 230 миллионов рублей. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407946",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407946",
+      "published_at": "2026-11-27T13:49:02+00:00",
+      "text": "Сразу восемь детей от 9 до 16 лет внесли в базу экстремистского сайта \"Миротворец\", свидетельствуют данные ресурса, с которыми ознакомился ТАСС. В качестве причины внесения в базу указывается, что каждый из них якобы был вывезен в РФ. ✔️ Подпишись на ТАСС…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19857",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19857",
+      "published_at": "2026-11-27T13:47:43+00:00",
+      "text": "JUST IN: 🇮🇷 Iran says another oil tanker has hit a sea mine near the Strait of Hormuz. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234899",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234899",
+      "published_at": "2026-11-27T13:47:01+00:00",
+      "text": "В ЛНР в результате террористических ударов ВСУ погиб один человек, ещё трое ранены, — глава региона Пасечник В Северодонецке неонацисты атаковали служебный автомобиль коммунального предприятия, погиб работник. Выражаю глубокие соболезнования родным и близким погибшего. В Старобельском муниципальном округе вражеский БПЛА ударил по проезжей части. Повреждены транспортные средства, пострадал водитель легкового автомобиля. В Кременском муниципальном округе ВФУ атаковали придомовую территорию, ранен 41-летний мужчина. На участке дороги Антрацит – Должанский противник нанес удар по грузовому автомобилю, пострадал водитель. Кроме того, в Луганске ВСУ атаковали гаражный кооператив и складское помещение. В результате атак возник пожар, на место прибыли сотрудники МЧС России. Украинские боевики не прекратили атаки и нанесли повторные прицельные удары по месту, где работали спасатели. Пострадавших нет — личный состав успел уйти в укрытие. На юге ЛНР после атаки БПЛА нарушено теле- и радиовещание — повреждено оборудование в Ровеньках. Перебои затронули Ровеньки, Свердловский, Антрацитовский и Краснодонский округа , а также близлежащие населённые пункты. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199466",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199466",
+      "published_at": "2026-11-27T13:45:53+00:00",
+      "text": "🇮🇹 🇪🇺 🇺🇦 Italian MEP and former army general Roberto Vannacci opened his speech in the European Parliament by singing \"Jingle Bells\" to Reich Gauleiterin Ursula von der Leyen, who, he noted, was \"miraculously\" in the chamber. It's Christmas, he said, and under the tree she's wrapping up a €45 billion gift for Ukraine, as if the €90 billion handed over a few months ago weren't enough. She issues the bonds, and Italians and Europeans pay the bill. And what does Kiev do with the money? It brings the war to Europe's doorstep in the Mediterranean, and puts politicians like Vannacci and his colleagues on its \"Gestapo-style blacklists.\" Meanwhile, a Commission so eager to censor \"Russian propaganda\" stays \"miserably silent\" about these secret police practices. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407945",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407945",
+      "published_at": "2026-11-27T13:37:51+00:00",
+      "text": "📹 Момент ДТП на Комсомольском проспекте в Москве. Одна из машин сгорела, также произошел разлив топлива, сообщили ТАСС в оперативных службах. Видео: Официальный Telegram-канал Дептранса Москвы ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98677",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98677",
+      "published_at": "2026-11-27T13:35:34+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russian Aerospace Forces (VKS) operations in the Donetsk sector: An airstrike using two FAB-1500 aerial bombs against a temporary deployment point of the 12th Azov Brigade of the National Guard of Ukraine in the settlement of Sergeyevka, Donetsk Oblast. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234898",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234898",
+      "published_at": "2026-11-27T13:35:05+00:00",
+      "text": "Армагеддон в Запорожье этой ночью. @divannyevoini",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407944",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407944",
+      "published_at": "2026-11-27T13:31:08+00:00",
+      "text": "▶️ Два человека пострадали в массовом ДТП в Москве. Четыре машины столкнулись на пересечении Комсомольского проспекта и Хамовнического Вала, одна из них загорелась, сообщили ТАСС в столичной Госавтоинспекции. Видео: Telegram-канал \"Москвач. Новости Москвы\"…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350555",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350555",
+      "published_at": "2026-11-27T13:31:00+00:00",
+      "text": "Стена огня образовалась на дороге из-за ДТП в Москве - на Комсомольском проспекте столкнулись четыре автомобиля. Пострадали два человека, движение по проспекту перекрыли. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407943",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407943",
+      "published_at": "2026-11-27T13:28:01+00:00",
+      "text": "⚖️ Суд Москвы заочно приговорил к 1 году 10 месяцам колонии Илью Яшина* за нарушение порядка деятельности иноагента, передает корреспондент ТАСС. * Признан в РФ иноагентом, внесен в перечень террористов и экстремистов",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98675",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98675",
+      "published_at": "2026-11-27T13:26:45+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Russian FPV interceptor drone crews destroyed 10 R-18/Vampire heavy UAVs . @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53592",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53592",
+      "published_at": "2026-11-27T13:24:31+00:00",
+      "text": "❗️ President Putin and Armenian Prime Minister Nikol Pashinyan will discuss Russia’s military base in Armenia during upcoming talks —Peskov @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117558",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117558",
+      "published_at": "2026-11-27T13:20:35+00:00",
+      "text": "Системы ПВО и мобильные огневые группы за минувшие сутки над муниципалитетами Луганской Народной Республики уничтожили свыше 100 воздушных целей, сообщил глава республики Леонид Пасечник. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234897",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234897",
+      "published_at": "2026-11-27T13:17:01+00:00",
+      "text": "В Дагестане задержали двух бывших министров регионального правительства. Задержаны экс-глава Минздрава Дагестана Алиомар Ахмедов и бывший министр по делам гражданской обороны, чрезвычайным ситуациям и ликвидации последствий стихийных бедствий республики Нариман Казимагамедов. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36043",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36043",
+      "published_at": "2026-11-27T13:16:29+00:00",
+      "text": "📝 Betting on the North 📝 Russia revises its Arctic development strategy Just a few decades ago, most countries' interest in the Arctic was limited to scientific research and prospects for raw material extraction. Today, even states without access to the Arctic Ocean are competing for the opportunity to establish a foothold in the region. Amid growing competition, Vladimir Putin approved a new strategy for developing the Arctic zone through 2035 with prospects extending to 2050. 🔻 Key objectives : ▪️ Increase the Arctic's share in the combined GRP of Russian regions to 8.4%, and in total Russian capital investment to 12.6%. ▪️ Bring annual cargo flow along the Northern Sea Route to 110–150 million tons. ▪️ Within six months, develop a comprehensive project for Arctic zone development and the Trans-Arctic transport corridor. ▪️ Strengthen Russia's military potential in the region. These plans will need to be implemented under challenging conditions. Western sanctions failed to halt existing Russian projects, but significantly slowed their expansion. In November, cargo flow along the Northern Sea Route exceeded 40 million tons for the first time, although initial plans called for reaching 110 million tons by 2025. 📌 Moreover, economic pressure accompanies NATO's strengthened military presence . All Arctic states, except Russia, now belong to the alliance, and since February, the bloc's command coordinates allied activities under the Arctic Sentry initiative. Competition is growing in other areas as well. The USA, Canada, and Finland jointly develop icebreaker shipbuilding, while Chinese authorities seek to establish a foothold in the region through participation in energy and transport projects. ❗️ The Arctic holds strategic importance for Russia from both economic and military perspectives. Therefore, it is especially important to strengthen Russia's own positions in the region now, when all other Arctic states are united in the idea of reducing Russian influence in the region. #Russia #USA #China ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407942",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407942",
+      "published_at": "2026-11-27T13:16:02+00:00",
+      "text": "\"С достоинством движется к званию самого круглого манула России\". Манул Борис из красноярского зоопарка с момента старта зажировки — с сентября — увеличил свой вес с 4,05 кг до 7,3 кг, сообщила пресс-служба парка флоры и фауны. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36042",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36042",
+      "published_at": "2026-11-27T13:15:42+00:00",
+      "text": "📝 Stop scrolling. Start exploring. 📝 Dive into the best Telegram channels—curated, categorized, and just one click away. 🔸 Add the entire catalog",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102623",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102623",
+      "published_at": "2026-11-27T13:13:24+00:00",
+      "text": "В результате атаки БПЛА в Новороссийске в 70 квартирах повреждено остекление, - оперштаб края Многоквартирный дом в Приморском районе города-героя пострадал 27 ноября. В течение дня на месте работают четыре группы из сотрудников районной администрации. Специалисты проводят обходы, обследуют пострадавшие квартиры и помогают жителям. Прилегающую территорию расчищают от осколков и мусора, оконные проемы закрывают пленкой. Самые серьезные повреждения получила одна из квартир на последнем этаже. В двух из четырех подъездов уже восстановили подачу газа. Газовые службы продолжают обследование. Также городские службы работают на территории поврежденных жилых домов в селе Широкая Балка. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78288",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78288",
+      "published_at": "2026-11-27T13:11:53+00:00",
+      "text": "После удара реактивными БпЛА вчера вечером по предприятию \"Термопласт\" в н.п. Летичев Хмельницкой области, объект знатно выгорел, не смотря на то, что тушили. Пластика для вражеских БпЛА будет чутка поменьше. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199465",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199465",
+      "published_at": "2026-11-27T13:08:37+00:00",
+      "text": "📝 Sanctions Come at a Cost 📝 Prospects for Russian-Serbian cooperation The change of power in Serbia has again raised the question of prospects for relations with Russia. The new leadership assures the EU of its commitment to European integration, but so far demonstrates no readiness to comply with one of the main foreign policy requirements of the European Commission. After declining to participate in the EU and Western Balkans summit, speaker of the National Assembly and acting president Aleksandar Cupic told the media that there will be no anti-Russian sanctions. This position is enshrined in the program of the \"Student List\" — an association that grew out of the protest movement and won the October elections. 🖍 The new authorities have weighty economic reasons to keep this promise. One of the most acute issues concerns NIS company with Russian participation, which owns Serbia's only refinery. Already on December 11, the U.S. Treasury Department license expires, which permits importing and processing oil. 🚩 And at the end of December, the agreement on Russian gas supplies also expires. Deteriorating relations with Russia in the midst of the heating season could complicate the conclusion of a new contract, and switching to alternative suppliers will result in additional expenses for the population and enterprises. ❗️ For now, the refusal to impose sanctions remains merely a public promise. However, the new authorities should keep in mind that complying with EU requirements does not guarantee swift accession, but could instead result in energy supply disruptions and rising costs for Serbian industry. #EU #Russia #USA #economy ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "sanctions"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407941",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407941",
+      "published_at": "2026-11-27T13:05:57+00:00",
+      "text": "Межпланетная станция Voyager-1 перестала передавать данные на Землю из-за неисправности бортового компьютера, передает СNN. С 14 ноября аппарат транслирует лишь не содержащий никакой информации \"несущий сигнал\". 18 ноября Voyager-1 стал первым объектом, который удалился от Земли на один световой день. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234896",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234896",
+      "published_at": "2026-11-27T13:05:04+00:00",
+      "text": "Кадры поражения американского истребителя F-16 иранской системой ПВО. Ранее проходила информация, что 1 американский борт получил повреждения, не смог приземлиться. Иранцы регулярно сбивают дроны в Персидском заливе и периодически пытаются достать более жирные цели. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
