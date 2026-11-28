@@ -1,0 +1,37 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-28T12",
+  "snapshot_generated_at_utc": "2026-11-28T14:05:15.019885+00:00",
+  "late_recovery": true,
+  "items": [
+    {
+      "title": "Russia says Crimean Bridge restoration plans are finalized",
+      "summary": "Russian Deputy Prime Minister Marat Khusnullin said all design decisions for restoring the Crimean Bridge have been made, with schedules, responsibilities and required materials determined.",
+      "source_urls": [
+        "https://t.me/donbassr/117601"
+      ]
+    },
+    {
+      "title": "Four reported dead following strike in occupied Makiivka",
+      "summary": "Russian-appointed authorities and emergency services reported that four people died after a residential building collapsed following a strike in Makiivka. The circumstances have not been independently verified.",
+      "source_urls": [
+        "https://t.me/tass_agency/408058",
+        "https://t.me/donbassr/117599"
+      ]
+    },
+    {
+      "title": "Meloni reportedly warns Ukraine of growing opposition to military aid",
+      "summary": "According to Italian press reporting, Prime Minister Giorgia Meloni warned President Volodymyr Zelensky that the reported incident off Libya could make continued Italian assistance more difficult amid parliamentary opposition.",
+      "source_urls": [
+        "https://t.me/rybar_in_english/36066"
+      ]
+    },
+    {
+      "title": "Poland reportedly signs $300 million military AI agreement",
+      "summary": "Poland reportedly signed a five-year agreement with US technology company Palantir to integrate artificial intelligence into its armed forces.",
+      "source_urls": [
+        "https://t.me/intelslava/98728"
+      ]
+    }
+  ]
+}
