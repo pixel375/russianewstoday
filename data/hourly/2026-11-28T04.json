@@ -1,0 +1,362 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T04",
+  "generated_at_utc": "2026-11-28T06:08:57.389570+00:00",
+  "window_start_utc": "2026-11-28T04:00:00+00:00",
+  "window_end_utc": "2026-11-28T05:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 8
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 18,
+    "relevant_posts": 6,
+    "editorial_pool_posts": 18,
+    "retained_without_keyword_match": 12,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 18,
+    "candidate_posts": 18
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/199523",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199523",
+      "published_at": "2026-11-28T04:58:14+00:00",
+      "text": "🇦🇹 🇺🇦 Two employees of Ukrainian military intelligence were arrested in Austria two weeks after their release. They are suspected of espionage, the ORF television and radio company reported. It is noted that the reason for the second arrest may have been the analysis of the mobile phones and computers seized from them. Evidence of preparations for intelligence operations in the United Kingdom was found on the devices. The goal may have been to transport individuals accused of economic crimes to Ukraine. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408025",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408025",
+      "published_at": "2026-11-28T04:54:01+00:00",
+      "text": "В Австрии арестовали двух сотрудников украинской военной разведки спустя две недели после освобождения. Их подозревают в шпионаже, сообщила телерадиокомпании ORF. Отмечается, что причиной повторного ареста мог стать анализ изъятых у них мобильных телефонов и компьютеров. На устройствах были обнаружены доказательства подготовки разведывательных операций в Великобритании. Целью мог стать вывоз на Украину людей, обвиняемых в экономических преступлениях.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117574",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117574",
+      "published_at": "2026-11-28T04:49:01+00:00",
+      "text": "Ночью в ходе отражения воздушной атаки на Ростовскую область более 50 украинских БПЛА уничтожены в Новошахтинск и 7 районах области, – сообщил глава региона Юрий Слюсарь. Он добавил, что информация о пострадавших и разрушениях уточняется. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408024",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408024",
+      "published_at": "2026-11-28T04:47:01+00:00",
+      "text": "В случае разрыва Польшей дипотношений с РФ может возникнуть угроза войны, заявил замминистра национальной обороны республики Станислав Взьонтек в интервью Polskie Radio 24. 24 ноября российский посол Георгий Михно был вызван в МИД Польши из-за якобы нарушения…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117573",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117573",
+      "published_at": "2026-11-28T04:45:09+00:00",
+      "text": "☂️ Погода на Юге России утром 28 ноября: ☁️ В Донецке -4°, пасмурно. ☁️ В Луганске -4°, пасмурно. ❄️ В Ростове-на-Дону: -2°, снег с дождем. ☁️ В Херсоне -2°, пасмурно. ☁️ В Запорожье -2°, пасмурно. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408023",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408023",
+      "published_at": "2026-11-28T04:41:01+00:00",
+      "text": "❗️ Еще один случай заболевания оспой обезьян выявлен в Петербурге у вернувшегося из турпоездки гражданина, сообщает Роспотребнадзор. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98706",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98706",
+      "published_at": "2026-11-28T04:39:34+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — FAB strikes on positions of the Ukrainian Armed Forces' 225th Separate Assault Regiment (225th OSR) in the vicinity of Zhovta Krucha, Zaporozhye Oblast. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199522",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199522",
+      "published_at": "2026-11-28T04:39:27+00:00",
+      "text": "🇺🇦 🚨 Air raid alert in Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234967",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234967",
+      "published_at": "2026-11-28T04:33:01+00:00",
+      "text": "Атомный подводный ракетоносец \"Пермь\" сегодня вступил в состав ВМФ РФ. В текущих реалиях страна безусловно должна продолжать укреплять ядерную дубинку за счет носителей всех типов. Да, это дорого, но это по сути главный и единственный гарант выживания страны и народа. Если бы у нас не было ядерного оружия мы бы уже давно напрямую воевали с НАТО. А пока с нами воюют в прокси-формате.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408022",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408022",
+      "published_at": "2026-11-28T04:33:01+00:00",
+      "text": "Рекордное число чиновников США живут на охраняемых военных объектах из соображений безопасности, сообщает CNN. Порядка шести членов администрации перебрались туда в связи с угрозами из-за рубежа и внутреннего насилия на почве политики. Среди них — Рубио, Хегсет, глава Минфина Бессент, министр юстиции Бланш и руководитель аппарата сотрудников Белого дома Миллер. Как отмечается, это \"исторически высокий показатель\", поскольку при предшественниках Трампа чиновники редко жили на военных базах.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408021",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408021",
+      "published_at": "2026-11-28T04:25:06+00:00",
+      "text": "▶️ В бригаде \"Невский\" испытания FPV-дронов с упрощенным управлением проходят успешно. Об этом ТАСС сообщил специалист Добровольческого корпуса бригады в составе Южной группировки с позывным Кок. Видео: Бригада \"А. Невский\" Добровольческого корпуса/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408020",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408020",
+      "published_at": "2026-11-28T04:18:01+00:00",
+      "text": "Разговор премьера Италии Мелони и Зеленского после атаки в Ливии был напряженным , сообщает Bloomberg. Как отмечается, в ходе беседы поднимался вопрос отсутствия координации действий Киева с его союзниками. Атака ВСУ на ливийский порт Бенгази привела к охлаждению отношений между Украиной и Италией, заявил источник, осведомленный о содержании беседы.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408019",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408019",
+      "published_at": "2026-11-28T04:12:41+00:00",
+      "text": "🚨 В период с 23:00 мск 27 ноября по 07:00 мск 28 ноября в сторону Московского региона летели 462 БПЛА, сообщил Собянин. На подлете к Москве были уничтожены 123 беспилотника, большинство из них ликвидировано на дальних подступах, отметил он.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53597",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53597",
+      "published_at": "2026-11-28T04:12:20+00:00",
+      "text": "❗️ 🇨🇳 Former Guangxi regional chairman Lan Tianli has been sentenced to death after being found guilty of corruption involving more than $82 million in bribes. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408018",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408018",
+      "published_at": "2026-11-28T04:11:49+00:00",
+      "text": "▶️ Протесты во Франции продолжатся, но вряд ли приведут к результату. Об этом заявил в интервью ТАСС экс-посол РФ в стране Алексей Мешков, отвечая на вопрос, могут ли французские власти пойти на уступки протестующим. Видео: ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53596",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53596",
+      "published_at": "2026-11-28T04:08:30+00:00",
+      "text": "❗️ The international rating agency S&P has downgraded the credit rating outlook for France from stable to negative. Among the reasons for the change, the agency cited the increase in government debt, restrained prospects for economic growth, and a weak political consensus on addressing the budget deficit. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350590",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350590",
+      "published_at": "2026-11-28T04:08:13+00:00",
+      "text": "123 беспилотника сбили на подлете к Москве, сообщил Собянин. Всего ночью в сторону столичного региона летели 462 БПЛА. Большая часть нейтрализована на дальних подступах. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234966",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234966",
+      "published_at": "2026-11-28T04:03:01+00:00",
+      "text": "130 метров стали и ядерной мощи: атомная подлодка \"Пермь\" проекта \"Ясень-М\" способна погружаться на глубину до 600 метров, развивать скорость до 31 узла и находиться в автономном плавании до 100 суток. Cубмарина оснащена ядерным водо-водяным реактором КТП-6-185СП. Ее экипаж составляет 64 человека. На борту установлены 10 торпедных аппаратов калибра 533 мм и универсальные вертикальные пусковые установки. Арсенал \"Перми\" включает крылатые ракеты \"Калибр\", противокорабельные \"Оникс\" и гиперзвуковые \"Циркон\". Комплекс вооружения позволяет субмарине выполнять широкий спектр задач.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

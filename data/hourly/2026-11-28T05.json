@@ -1,0 +1,367 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T05",
+  "generated_at_utc": "2026-11-28T06:08:52.355135+00:00",
+  "window_start_utc": "2026-11-28T05:00:00+00:00",
+  "window_end_utc": "2026-11-28T06:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 4
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 18,
+    "relevant_posts": 7,
+    "editorial_pool_posts": 18,
+    "retained_without_keyword_match": 11,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 18,
+    "candidate_posts": 18
+  },
+  "posts": [
+    {
+      "id": "MFARussia/33709",
+      "channel": "MFARussia",
+      "source": "Russian Ministry of Foreign Affairs",
+      "url": "https://t.me/MFARussia/33709",
+      "published_at": "2026-11-28T05:59:58+00:00",
+      "text": "🎙 Foreign Ministry Spokeswoman Maria Zakharova ’s answer to a media question about the outcomes of the 31st session of the Conference of the Parties to the UN Framework Convention on Climate Change (November 27, 2026) ❓ Question: The 31st session of the Conference of the Parties to the UN Framework Convention on Climate Change concluded in Antalya on November 2. How do you assess its outcomes? 💬 Maria Zakharova: The 31st session of the Conference of the Parties to the UN Framework Convention on Climate Change (UNFCCC COP31) was marked by a highly revealing episode: the European Union, which portrays itself as the foremost champion of international climate cooperation, blocked the adoption of the Conference’s political decision, the Antalya Pact. Its refusal to support a compromise that would have taken into account the interests of all participants was justified by claiming that the document lacked sufficient “ambition.” In reality, this meant that the text did not contain a provision calling for a phase-out of fossil fuels. In other words, the desire to secure the inclusion of a single formulation of political significance to Brussels proved more important than the consensus that the parties had spent two weeks working hard to achieve. It is telling that the dramatic statements in Western media about the lack of ambition in the outcome of COP31 have overshadowed the fact that the parties nevertheless managed to reach agreements on a number of complex and practically important issues, including the Adaptation Fund, mechanisms for implementing the Paris Agreement, and other key areas of international climate cooperation. Questions of direct relevance to the practical implementation of the Convention and the Paris Agreement, such as the provision of funding, technology transfer, adaptation, a just transition, and ensuring that developing countries have access to the means of implementation, were pushed into the background. 👉 In other words, precisely where high-profile declarations need to give way to concrete action and the fulfilment of commitments, European enthusiasm and ambition simply evaporated. The EU seems to have become so much convinced of its own exceptional role as the leading champion of the fight against climate change that it has completely confused multilateral negotiations with the process of approving its own internal directives. Perhaps the greatest disappointment was not even the absence of the desired wording from the final document, but the realisation that the international community is capable of finding practical solutions without accepting European political prescriptions as binding guidelines for action. 🤷‍♀️ Consensus is welcome when everyone agrees with Brussels. When they do not, the outcomes of negotiations are declared “inadequate.” Against this backdrop, the role of the Turkish Presidency stood out in particularly sharp contrast. Despite the pressure brought to bear, Ankara demonstrated a mature and responsible approach to conducting the negotiating process, reaffirming its commitment to multilateralism not as a mere declaration, but as painstaking diplomatic work based on finding a balance, respecting different national positions, and being prepared to take into account the legitimate interests of all Parties. Diplomacy is the art of coming to terms, not of making everyone collectively repeat one’s own slogans. And if the sole criterion for the “success” of a Conference of the Parties is the inclusion of one coveted phrase, the problem lies in the inability to distinguish a genuine outcome from a symbolic victory that can conveniently be sold to the domestic European audience. Ultimately, UNFCCC COP31 has taught Brussels a valuable lesson: those who turn negotiations into a campaign to impose their own wording risk going down in history not as leaders of the climate process, but as its main obstacle.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "negotiation"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98708",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98708",
+      "published_at": "2026-11-28T05:59:14+00:00",
+      "text": "🚨 iPhone users are being hacked on a massive scale. If your iOS is even slightly outdated, all your data is at risk. Just opening a website can be enough to get you hacked. We're sending this warning to all our users on older iOS versions:",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117578",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117578",
+      "published_at": "2026-11-28T05:58:01+00:00",
+      "text": "Ночью 462 украинских беспилотника пытались атаковать Московский регион , – сообщил Сергей Собянин. Большая часть из них уничтожена на дальних подступах. 123 беспилотника сбиты на подлете к Москве. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408032",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408032",
+      "published_at": "2026-11-28T05:54:40+00:00",
+      "text": "🚨 За ночь над регионами РФ сбиты 1 246 украинских БПЛА, сообщает Минобороны. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408031",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408031",
+      "published_at": "2026-11-28T05:49:55+00:00",
+      "text": "В акватории Черного моря южнее Одессы ударами ВС РФ поражен сухогруз, доставлявший на Украину грузы военного назначения, сообщает МО РФ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408030",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408030",
+      "published_at": "2026-11-28T05:48:31+00:00",
+      "text": "В Одесской области ВС РФ поразили резервуар с горючим, в котором хранилось топливо для ВСУ, сообщает МО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408029",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408029",
+      "published_at": "2026-11-28T05:48:14+00:00",
+      "text": "ВС РФ поразили четыре железнодорожных локомотива в Днепропетровской, Житомирской, Харьковской областях, сообщает Минобороны.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408028",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408028",
+      "published_at": "2026-11-28T05:47:52+00:00",
+      "text": "ВС РФ поразили электроподстанцию \"Заречье\" 110 кВ в городе Белая Церковь Киевской области, сообщает МО. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408027",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408027",
+      "published_at": "2026-11-28T05:45:40+00:00",
+      "text": "❗️ ВС РФ ночью нанесли удары по объектам энергетической, топливной инфраструктуры, задействованным в интересах ВСУ, сообщает Минобороны.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350592",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350592",
+      "published_at": "2026-11-28T05:40:07+00:00",
+      "text": "Россияне при покупке смартфона за границей должны будут зарегистрировать его в базе IMEI-номеров. Она заработает с 1 марта 2027 года в рамках закона о новых мерах защиты от телефонных и интернет-мошенников, рассказал РИА Новости Сергей Боярский. IMEI — это уникальный 15-значный номер устройств с поддержкой сотовой связи. Набор цифр присваивается устройству на заводе-изготовителе, его нельзя изменить. Данный код позволяет однозначно идентифицировать устройство в сети оператора. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117577",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117577",
+      "published_at": "2026-11-28T05:37:01+00:00",
+      "text": "К утру сохраняются локальные нарушения электроснабжения в отдельных районах Донецка и Макеевки, Ясиноватском и Амвросиевском округах, в Енакиево, Снежном и Торезе, – сообщили в минугля и энергетики ДНР. Из-за недостатка мощности в течение дня могут применяться вынужденные временные отключения электроэнергии в республике. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234969",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234969",
+      "published_at": "2026-11-28T05:33:01+00:00",
+      "text": "USAID напрямую участвовало в поощрении революционных процессов в Грузии, премьер страны Кобахидзе о скандальной публикации Илона Маска. Ранее Маск рассказал о финансировании агентства цветных революций в разных странах, включая Грузию. \"То, что нам было известно, еще раз получило подтверждение. USAID напрямую участвовало в поощрении революционных процессов в Грузии и нападении на ЦИК. Это не новость, просто опубликованные документы еще раз пролили свет на эти обстоятельства\", — приводит слова грузинского премьера @SputnikGeorgia .",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98707",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98707",
+      "published_at": "2026-11-28T05:31:20+00:00",
+      "text": "🇺🇸 ⚡️ — Hackers have breached the US Air Force's flagship cloud computing platform, potentially exposing sensitive military, personnel, and logistics data. The hack was discovered within the past month during efforts to upgrade the platform. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408026",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408026",
+      "published_at": "2026-11-28T05:19:01+00:00",
+      "text": "Слепакова* оштрафовали на 45 тыс. рублей за нарушение деятельности иноагента, сообщили ТАСС в Мосгорсуде. * Признан в РФ иноагентом",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117576",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117576",
+      "published_at": "2026-11-28T05:17:01+00:00",
+      "text": "Пять мирных жителей ДНР ранены вчера в результате атак беспилотников ВСУ и детонации взрывчаток , – сообщили власти региона. ▪️ В Углегорске ранена женщина 1964 года рождения и мужчина 1990 года рождения. ▪️ В поселке Нижняя Крынка под Макеевкой при атаке на легковой автомобиль ранена женщина 2005 года рождения. ▪️ В Кировском районе Донецка в результате детонации взрывчатки ранен мужчина 1972 года рождения. ▪️ На дороге «Углегорск – Дебальцево» из-за детонации взрывчатки ранен мужчина 1981 года рождения. ▪️ Поврежден объект гражданской инфраструктуры, два грузовых и три легковых автомобиля в Донецке, Макеевке, Горловке, Харцызске, Старобешевском округе. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350591",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350591",
+      "published_at": "2026-11-28T05:10:06+00:00",
+      "text": "Всероссийский Дед Мороз назвал самые необычные просьбы детей. В их числе — говорящий кот, волшебная палочка, живая кукла, суперсилы — умение летать и читать мысли, рассказал он в интервью РИА Новости. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117575",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117575",
+      "published_at": "2026-11-28T05:04:59+00:00",
+      "text": "🟥 День в истории Донбасса 28 ноября 1930 года состоялась первая лекция в Сталинском медицинском институте. ▪️ К концу 1920-х годов на Украине подготовку врачебных кадров, которых остро не хватало, осуществляли всего 4 мединститута – в Киеве, Харькове, Одессе и Днепропетровске. ▪️ Решение о создании в Сталино (ныне Донецк) медицинского института было принято Советом Народных Комиссаров УССР 12 июня 1930 года. ▪️ 22 июня вуз возглавил заведующий окружным отделом здравоохранения Иван Яковлевич Олимпиев. ▪️ Первые кафедры мединститута расположились в помещении бывшего окружного финотдела. ▪️ Под студенческие общежития выделили палаты 2-й районной больницы. ▪️ Необходимое оборудование для кафедр вуза привезли из Харькова, Одессы, Киева и Москвы. ▪️ На лечебно-профилактический факультет было принято 138 студентов дневной формы обучения и 290 рабфаковцев. ▪️ Первую лекцию (по анатомии) для студентов 1-го курса прочел уроженец Харькова, доктор медицинских наук, профессор Николай Дмитриевич Довгялло. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "kyiv",
+        "moscow",
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234968",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234968",
+      "published_at": "2026-11-28T05:03:01+00:00",
+      "text": "🐷 \"Помогите\" - надпись на картонке спасла боевика ВСУ 🅾️ Прокопенко Леонид Владимирович, военнослужащий 17 бригады НГУ, на даст соврать. Признаться, Леонид сложил оружие не заблаговременно, а когда уже было, как говорится, \"всё!\", но как бы то ни было, именно в миг его раскаяния на картонке на его жизненном пути попался расчёт FPV ЦЕНТРа в крайне благодушном расположении духа, и Прокопенко не был ликвидирован. \"Черт знает, где-то возле Доброполья попал в плен. Ну, как попал, сдался. Был ранен, свои кинули, остался один. Выйти никуда не мог. Делать... связи нет, делать нечего, ну и сделал картонку, на которой написал: \"Помогите кто-нибудь, пожалуйста, сдаюсь\". Показал ее (картонку) вашему дрону. Ну, я не знал, что это ваш дрон, получилось так, что вашему дрону (показал). Потом на меня вышли и забрали уже ваши бойцы. Дали еды, помогли, оказали медицинскую помощь, все хорошо. Если бы знал, раньше бы сдался\" 🤔 Советую остальным друзьям Прокопенко не тянуть до конца, уповая на картонку. Шанс, что вы встретите добросердечный расчет FPV ничтожно мал, лучше сразу скинуть с себя всё, поднять руки к высоко и широко и идти сдаваться - шансы возрастут кратно! ✅ Подписывайтесь на нас в MAX @btr80",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
