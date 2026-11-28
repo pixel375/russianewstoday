@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    255
+  ],
+  "published_at_utc": "2026-11-28T07:24:37.979410+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-28T06",
+  "items": [
+    {
+      "item_id": "2026-11-28T06:1",
+      "title": "Russia and North Korea reaffirm economic cooperation",
+      "summary": "Russia and North Korea reportedly signed a protocol following an intergovernmental commission meeting in Pyongyang, reaffirming cooperation in energy, trade, agriculture, education and healthcare.",
+      "post_url": "https://t.me/russianewstodayofficial/255",
+      "category": "other",
+      "hour_id": "2026-11-28T06",
+      "source_handles": [
+        "intelslava"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T06:2",
+      "title": "Bryansk governor reports nine injured in bus attack",
+      "summary": "Regional authorities attributed an attack on a company employee bus to a Ukrainian drone, reporting nine injuries. The account has not been independently verified.",
+      "post_url": "https://t.me/russianewstodayofficial/255",
+      "category": "other",
+      "hour_id": "2026-11-28T06",
+      "source_handles": [
+        "rian_ru",
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T06:3",
+      "title": "Austria reportedly rearrests two Ukrainian intelligence employees",
+      "summary": "Austrian broadcaster ORF reportedly said two Ukrainian military intelligence employees were rearrested on suspicion of espionage. The allegations have not been established in court.",
+      "post_url": "https://t.me/russianewstodayofficial/255",
+      "category": "other",
+      "hour_id": "2026-11-28T06",
+      "source_handles": [
+        "aussiecossack"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
