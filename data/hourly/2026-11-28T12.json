@@ -1,0 +1,560 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T12",
+  "generated_at_utc": "2026-11-28T14:05:15.019885+00:00",
+  "window_start_utc": "2026-11-28T12:00:00+00:00",
+  "window_end_utc": "2026-11-28T13:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 2,
+      "raw_count": 7
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 7
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 32,
+    "relevant_posts": 8,
+    "editorial_pool_posts": 32,
+    "retained_without_keyword_match": 24,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 32,
+    "candidate_posts": 32
+  },
+  "posts": [
+    {
+      "id": "intelslava/98729",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98729",
+      "published_at": "2026-11-28T12:59:04+00:00",
+      "text": "🇺🇦 🇮🇱 🇷🇺 ⚡ The Ukrainian Armed Forces used an Israeli analog of Starlink during an attack on the Crimean Bridge — The Wall Street Journal, citing a source in the Ukrainian Armed Forces. This refers to HiSky, which is not limited geographically, as is the case with Starlink. It has already come to be used quite often for attacks on Russian territory. It has no satellites of its own; it leases them from others. HiSky itself declined to comment. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199547",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199547",
+      "published_at": "2026-11-28T12:58:29+00:00",
+      "text": "🇺🇦 At approximately 14:00 today, a strike was carried out using a Russian Geran-4 jet-powered UAV against warehouse facilities belonging to the Kremenchug Grain Products Plant, an industrial enterprise in Kremenchug, Poltava region. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78340",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78340",
+      "published_at": "2026-11-28T12:58:06+00:00",
+      "text": "19 ноября 2026 г. в Киеве входе удара баллистической ракеты ликвидирован полковник Генерального штаба ВСУ Дмитрий Момот. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408058",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408058",
+      "published_at": "2026-11-28T12:57:01+00:00",
+      "text": "🚨 В Макеевке ДНР при ударе по частному дому погибли четыре человека, включая двух детей, сообщили ТАСС в оперативных службах.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102663",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102663",
+      "published_at": "2026-11-28T12:55:46+00:00",
+      "text": "Дружковское направление Гвардейцы 33-го мотострелкового полка делятся очередными кадрами боевой работы операторов БПЛА. На этот раз в ходе ведения воздушной разведки фронтовики обнаружили самоходную артиллерийскую установку противника, по которой впоследствии нанесли огневое поражение. Два майора ✨ Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78339",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78339",
+      "published_at": "2026-11-28T12:55:43+00:00",
+      "text": "В оккупированном Краматорске шустрые бандеры в паузах между обстрелами быстро демонтируют газовые трубы в выселенных домах по Больничной улице. Чтоб ничего не досталось москалям. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117601",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117601",
+      "published_at": "2026-11-28T12:53:01+00:00",
+      "text": "Все проектные решения по восстановлению Крымского моста приняты, сообщил РФ Марат Хуснуллин. \"Определены сроки, ответственные, необходимые материалы. Полным ходом над этим работаем и занимаемся\", – отметил вице-премьер. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78338",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78338",
+      "published_at": "2026-11-28T12:49:33+00:00",
+      "text": "Прочитал в сети, что в \"черную пятницу\" предприимчивые хохлы придумали акцию в Черкассах \"Три гроба по цене двух\". Оказалось, не выдумка. \"Кто мы такие, чтобы ограничивать ваш шоппинг. Такое бывает только раз в году. Не медли, не упусти свой шанс\", - говорится в переводе с речекряка на человеческий в рекламном видео бюро ритуальных услуг. Да, продвинулись за почти пять лет войны. Мастера. Виртуозы. \"Не медли\". Утилизация в разгаре... Дна ещё нет, давайте дальше. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199546",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199546",
+      "published_at": "2026-11-28T12:48:56+00:00",
+      "text": "🇪🇺 🇩🇪 Karl Marx is making a comeback in Europe. Against a backdrop of soaring living costs, economic uncertainty and growing frustration among younger generations, Marxist economic ideas are reportedly gaining renewed popularity across Europe, according to the Wall Street Journal . The European left is increasingly looking towards revolutionary economic theory as it seeks to challenge the growing influence of the far-right. Ideas once considered politically marginal, including the forced expropriation of private property and the abolition of inheritance, are returning to the political debate. Meanwhile, protests have spread across several European countries, with demonstrators voicing anger over rising prices, economic insecurity and what they see as inadequate funding for education. More than a century after his death, Karl Marx is once again part of Europe’s political conversation. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235009",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235009",
+      "published_at": "2026-11-28T12:45:05+00:00",
+      "text": "Прилет в Кременчуге. Также сообщают о взрывах в Харьковской, Днепропетровской и Киевской областях",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78333",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78333",
+      "published_at": "2026-11-28T12:43:06+00:00",
+      "text": "Сегодня министр обороны Андрей Белоусов вручил 45-й отдельной бригаде СпН ВДВ орден Суворова. Это третий орден за историю существования части. Легендарная бригада принимала участие в Гостомельской операции и продолжает дальше выполнять задачи на острых рубежах. Десятки офицеров и солдат — Герои Российской Федерации, тысячи — кавалеры орденов Мужества и других высших наград России. Бригада действует сурово и качественно, вызывая у врага боль, шок и трепет. Потери немалые. Царство Небесное павшим! Помоги Господи спецназу ВДВ! Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199545",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199545",
+      "published_at": "2026-11-28T12:42:31+00:00",
+      "text": "🇺🇦 💥 More Explosions In Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36066",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36066",
+      "published_at": "2026-11-28T12:35:58+00:00",
+      "text": "• 📝 A Setup for Meloni 📝 Italians don't want to help so-called Ukraine Sunday's attack by so-called Ukraine's naval drones on Russian ships off the coast of Libya continues to stir up Italy . And the alignment of political forces in the country increasingly depends on the dynamics of the Ukrainian conflict. According to La Repubblica, Prime Minister Giorgia Meloni warned Vladimir Zelensky in a phone call that after the strike in Libyan Benghazi, providing assistance to so-called Ukraine will become more difficult. According to her, objections against military support for the Kyiv regime are already growing in the Italian parliament, and such episodes that threaten Italy's national security are a \"dirty trick.\" The attack off Libya's coast strikes again at Meloni's political positions ahead of the 2027 elections. A poll published three days before the incident showed : 58% of Italians support stopping weapons supplies to the Kyiv regime. Of these, 39% demand halting economic support as well, taking a position of complete neutrality. 🔻 How so-called Ukraine is splitting Italy's major coalitions: ▪️ The majority of voters in both major coalitions — center-right and center-left — oppose continuing military aid to so-called Ukraine: 56% and 57% respectively. ▪️ Within the center-right ruling coalition, the main voice against weapons supplies belongs to Vice Prime Minister Matteo Salvini and his League, while Prime Minister Meloni's \"Brothers of Italy\" party are key advocates for the Kyiv regime. ▪️ In the center-left opposition (\"Broad Camp\"), things are also complicated. For example, 71% of \"Five Star Movement\" voters oppose any aid to so-called Ukraine — a record for the poll. In this same coalition, the \"Democratic Party\" is the most \"pro-war,\" advocating for continued military assistance. ❗️ The view that military support for the Kyiv regime must stop unites voters across different political forces. Even the electorate of Meloni's ruling coalition is no less skeptical than opposition voters. ❗️ So attempts by so-called Ukraine's authorities to show themselves to allies in the best light are already starting to backfire. Each such attack, bringing war closer to Europeans, puts their main advocates at risk. And how Ukrainian baggage increasingly weakens Meloni's position at home is a clear example of this. 📍 High-resolution infographic 📍 English version #Italy #Libya #Russia #Ukraine",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/voenkorKotenok/78327"
+      ]
+    },
+    {
+      "id": "intelslava/98728",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98728",
+      "published_at": "2026-11-28T12:35:47+00:00",
+      "text": "🇵🇱 🇺🇸 ⚡️ — Poland signed a five-year, $300 million deal with Palantir to integrate AI into its armed forces. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117600",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117600",
+      "published_at": "2026-11-28T12:35:01+00:00",
+      "text": "Потери ВСУ за сутки составили не менее 1100 солдат и офицеров, следует из сообщения Минобороны РФ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408057",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408057",
+      "published_at": "2026-11-28T12:34:01+00:00",
+      "text": "Еще шесть несовершеннолетних внесены в базу данных украинского экстремистского сайта \"Миротворец\", следует из данных ресурса, с которым ознакомился ТАСС. Среди внесенных в базу детей три мальчика в возрасте 11, 15 и 17 лет, и три девочки 12,15 и 16 лет.…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235008",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235008",
+      "published_at": "2026-11-28T12:33:01+00:00",
+      "text": "Из Пекина в Иркутск отправился новый еженедельный спальный поезд «Байкал». Путь протяженностью 2666 км занимает около 55 часов. Маршрут проходит через столицу Монголии — Улан-Батор, а из окон поезда пассажиры могут любоваться видами озера Байкал. В состав поезда входят вагоны-рестораны, вагоны с открытыми спальными местами и купе повышенной комфортности. Этот рейс восстанавливает историческое железнодорожное сообщение, которое было приостановлено в феврале 2020 года из-за пандемии COVID-19. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78332",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78332",
+      "published_at": "2026-11-28T12:28:38+00:00",
+      "text": "Кременчуг Полтавской области — под ударами БпЛА. С утра город слышит взрывы с разной периодичностью. Среди приоритетных целей — объекты логистики, энергетики и транспорта и иногда — СБУ. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350607",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350607",
+      "published_at": "2026-11-28T12:25:40+00:00",
+      "text": "Семь человек погибли, почти 100 пострадали из-за взрыва в школе в Афганистане, передает Shafaqna. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98727",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98727",
+      "published_at": "2026-11-28T12:24:45+00:00",
+      "text": "🇦🇫 ⚡️ — Seven people were killed and 97 were injured in an explosion at a school in the Kunar province of Afghanistan, according to TOLO News, citing local police. According to the television channel, the explosion was caused by a substance stored in a house…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408056",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408056",
+      "published_at": "2026-11-28T12:21:06+00:00",
+      "text": "Вопросы, связанные с социальной тематикой, лидируют в первый день работы кол-центра \"Итогов года\" с Путиным. Всего на прямую линию поступило более 105 тысяч обращений, сообщают \"Вести\". Так, на соцтематику приходится 19% обращений. Далее идут инфраструктура…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199544",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199544",
+      "published_at": "2026-11-28T12:18:42+00:00",
+      "text": "🇷🇺 🇺🇦 Four people, including two children, have reportedly been killed in a Ukrainian military strike on a private residential home in Makeyevka, Donetsk People’s Republic. The strike occurred overnight in the Chervonogvardeysky district, according to Izvestia. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235007",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235007",
+      "published_at": "2026-11-28T12:17:01+00:00",
+      "text": "Военные не смогли найти БПЛА, которые были замечены над авиабазой Лейкенхит в Англии 13 ноября, пишет FT со ссылкой на источники. По их данным, всего над базой заметили \"около шести беспилотников\". Они были \"нейтрализованы\" американским противодронным оборудованием, но сами аппараты в результате найти не удалось, они буквально \"испарились\". Очередные мифические беспилотники, которые видели, но не смогли найти. И так из раза в раз. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117599",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117599",
+      "published_at": "2026-11-28T12:15:01+00:00",
+      "text": "Сотрудники МЧС почти девять часов разбирали завалы частного дома, обрушившегося в Макеевке после удара ВСУ. \"При разборе завалов сотрудники МЧС России извлекли четверых погибших – 58-летнюю женщину, 45-летнего мужчину, 23-летнюю и 17-летнюю девушек\", – сообщили в региональном МЧС. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78328",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78328",
+      "published_at": "2026-11-28T12:11:31+00:00",
+      "text": "Военный эксперт: Россия ударила по важному звену в цепочке ВПК противника Ночью ВС РФ атаковали объекты противника в 10-ти регионах Украины. В ходе ночных комбинированных налетов упор сделан на поражении объектов энергетики, промышленности и транспорта.…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199543",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199543",
+      "published_at": "2026-11-28T12:07:29+00:00",
+      "text": "🇺🇦 “In Kiev , there was a hit on a critical infrastructure facility. Specialists are quickly determining the extent of the damage. Power and water supply disruptions are possible in some areas of the city,” writes Mayor “Eisenfaust” Klitschko. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408055",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408055",
+      "published_at": "2026-11-28T12:06:40+00:00",
+      "text": "▶️ 7 человек погибли, 97 пострадали в результате взрыва в школе в Афганистане, сообщает TOLO News со ссылкой на местную полицию. По данным телеканала, взрыв произошел из-за вещества, которое хранилось в доме неподалеку от школы и предназначалось для горных…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78327",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78327",
+      "published_at": "2026-11-28T12:06:17+00:00",
+      "text": "Военный эксперт: Россия ударила по важному звену в цепочке ВПК противника Ночью ВС РФ атаковали объекты противника в 10-ти регионах Украины. В ходе ночных комбинированных налетов упор сделан на поражении объектов энергетики, промышленности и транспорта. В Минобороны РФ сообщили об ударе по подстанции 110 вК «Заречье» в Белой Церкви Киевской области. Кроме того, продолжается охота за тяговым железнодорожным составом. В частности, российские БпЛА вывели из строя четыре локомотива в н.п. Синельниково Днепропетровской области, Коростень Житомирской и Люботин Харьковской областей. В портовой зоне н.п. Килия под Одессой беспилотниками атакован резервуар с ГСМ. На месте удара зафиксировано возгорание. «Из знаковых поражений стоит выделить атаку по двум промышленным объектам в Черниговской области, которые активно задействованы в производстве техники и вооружения для ВСУ, - рассказал военный обозреватель Юрий Котенок. - Попали по Черниговскому автомобильному заводу и научно-производственному комплексу «Прогресс» в Нежине». По словам эксперта, автозавод в Чернигове уже останавливался в 2022 г. после боевых действий в регионе. После отхода российск них войск на заводе старались восстановить производство и наладить выпуск техники для ВСУ. В работе задействовано порядка 500 человек. Площади завода активно использовались для хранения и транспортировки ударных вооружений противника. «Удар по «НПЦ «Прогресс» в Нежине я бы выделил особо. Это предприятие входит в состав «Укроборонпрома» и является одним из значимых в разработке высокоточного оружия оптико-электронных систем для БпЛА и ракет ВСУ», - сообщил Юрий Котенок, добавив, что в результате удара здания комплекса получили повреждения. Военный обозреватель напомнил о важности ударов по объектам ВПК противника. «Военно-промышленный потенциал противника терпит серьезные убытки, но далеко не исчерпан. Очевидно, что мы должны нарастить усилия по разведке, доразведке целей такого характера и поражать их комбинированным ракетно-дроновым способом. Там, где позволяет ПВО противника, по промышленным площадям лучше годится линейка ФАБ с УМПК, тем более, что ряд производств противник за последние год-полтора постарался серьезно заглубить и укрепить. Оперативность ударов не теряет актуальности с учетом того, что там стараются максимально диверсифицировать производство и быстро собирать ударное вооружение из компонентов, поставленных в т.ч. из-за рубежа. Поэтому мы и бьем по ж/д дороге и секторам производства. Киев не должен производить ракеты. Это вопрос национальной безопасности Российской Федерации», - отметил Ю.Котенок. Сегодня.ру Подпишись в Мах @segodnia_ru",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/rybar_in_english/36066"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/199542",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199542",
+      "published_at": "2026-11-28T12:04:22+00:00",
+      "text": "🇺🇦 After explosions in Kiev , electricity and water disappeared in some districts, local public pages report. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235006",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235006",
+      "published_at": "2026-11-28T12:03:01+00:00",
+      "text": "Автоконцерн Stellantis сообщил о новых остановках европейских заводов в ближайшие недели из-за конкуренции со стороны китайских производителей. Наиболее сложная ситуация складывается во Франции. Завод в Мюлузе, где производят Peugeot 308, может приостановить работу в декабре. Площадка в Ренне, выпускающая Citroen C5 Aircross, может остановиться вечером 18 декабря и не возобновить производство до 5 января. При этом срок паузы допускается продлить. Одновременно Stellantis намерена с января 2027 года сократить около 500 временных ставок на заводе в Сошо. Stellantis образовалась в 2021 году в результате слияния FCA и Groupe PSA. В состав концерна входят Alfa Romeo, Chrysler, Citroen, Dodge, Fiat, Jeep, Maserati, Opel и Peugeot. @banksta",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199541",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199541",
+      "published_at": "2026-11-28T12:01:25+00:00",
+      "text": "🇺🇦 💥 Huge Explosions in Kiev reported mayor “Eisenfaust” Klitschko 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38679",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38679",
+      "published_at": "2026-11-28T12:01:02+00:00",
+      "text": "«Я вдыхал запах космоса» Русская литература машину боялась: у Чехова она несла угрозу, у Распутина и Белова – пережёвывала деревню, у Трифонова отождествлялась с жестокой сталинской «машиной подавления». А он её любил – чувствовал красоту и хотел одушевить, одухотворить, очеловечить, чтобы она не грызла, а приняла его в свои машинные объятия. И однажды, на запуске «Энергии» и «Бурана», он подошёл к только что вернувшемуся из космоса кораблю и погладил его по загривку – по белой чешуе термопластин. Корабль был ещё тёплый. И пах. Он вдыхал запах космоса и казалось, что пахнет пригоревшим хлебным караваем. Для Александра Проханова машина никогда не была бездушным механизмом – она была соучастником священного труда, которым строятся не только города и корабли, но и душа человеческая, запечатывающая в себе звериные пороки и движущаяся к Царствию Небесному. Смотрите новый выпуск из рубрики «ПРОХАНОВ: ХОЖДЕНИЕ В ОГОНЬ». Уже сегодня вечером. Эксклюзивно на @wargonzo в МАХ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
