@@ -1,0 +1,221 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-27T23",
+  "generated_at_utc": "2026-11-28T00:09:39.173830+00:00",
+  "window_start_utc": "2026-11-27T23:00:00+00:00",
+  "window_end_utc": "2026-11-28T00:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 8,
+    "relevant_posts": 1,
+    "editorial_pool_posts": 8,
+    "retained_without_keyword_match": 7,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
+  },
+  "posts": [
+    {
+      "id": "boris_rozhin/234951",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234951",
+      "published_at": "2026-11-27T23:33:01+00:00",
+      "text": "Наши операторы БПЛА активно уничтожают транспорт с личной силой врага @ZParaBellumMD",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53595",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53595",
+      "published_at": "2026-11-27T23:29:30+00:00",
+      "text": "❗️ A former NSW deputy mayor and Order of Australia Medal (OAM) recipient is accused of using artificial intelligence to add adult breasts onto photographs of a nine-year-old child, and authoring eight documents outlining child sexual abuse carried out by a far older man. John Anderson, an 83-year-old former Shoalhaven deputy mayor and councillor who was recognised for his public contribution to the South Coast, appeared in court on Friday after being arrested by federal investigators at his Nowra home on Thursday. via Sydney Morning Herald",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408001",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408001",
+      "published_at": "2026-11-27T23:27:24+00:00",
+      "text": "Сбиты восемь летевших на Москву БПЛА, заявил Собянин. Ранее сообщалось еще об 11 сбитых беспилотниках.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19865",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19865",
+      "published_at": "2026-11-27T23:22:43+00:00",
+      "text": "JUST IN: 🇷🇺 President Vladimir Putin vows to strengthen Russia's navy and secure its interests in all the world's oceans. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408000",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408000",
+      "published_at": "2026-11-27T23:14:01+00:00",
+      "text": "ОДКБ не ставит вопрос об исключении Армении. Республика сохраняет гарантии безопасности, заявил в интервью ТАСС и журналу \"Евразимут\" генсек организации Таалатбек Масадыков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/407999",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/407999",
+      "published_at": "2026-11-27T23:09:01+00:00",
+      "text": "❗️ Гражданин Украины, предположительно, участвовавший в подрыве \"Северных потоков\", задержан в Хорватии, сообщает Генпрокуратура ФРГ. ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350585",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350585",
+      "published_at": "2026-11-27T23:04:47+00:00",
+      "text": "В Общественной палате предложили увеличить родовой сертификат при рождении двойни и тройни. Необходимо повысить размер с 12 тысяч до 45 тысяч рублей и продлить его действие до достижения ребенком двух лет, считает председатель комиссии ОП по вопросам семьи Сергей Рыбальченко. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234950",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234950",
+      "published_at": "2026-11-27T23:03:01+00:00",
+      "text": "\"Ну всё, два из двух, приём...\" Кинетический перехват БПЛА противника дроном-ПВО \"Ёлка\". Статистика \"Ёлок\" @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
