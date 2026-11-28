@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-28T00",
-  "generated_at_utc": "2026-11-28T01:03:28.864511+00:00",
-  "window_start_utc": "2026-11-28T00:00:00+00:00",
-  "window_end_utc": "2026-11-28T01:00:00+00:00",
+  "hour_id": "2026-11-28T01",
+  "generated_at_utc": "2026-11-28T02:08:05.880739+00:00",
+  "window_start_utc": "2026-11-28T01:00:00+00:00",
+  "window_end_utc": "2026-11-28T02:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 4
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 1
     },
     {
       "handle": "rybar_in_english",
@@ -105,46 +105,60 @@
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 9,
+    "raw_posts": 8,
     "relevant_posts": 2,
-    "editorial_pool_posts": 9,
-    "retained_without_keyword_match": 7,
+    "editorial_pool_posts": 8,
+    "retained_without_keyword_match": 6,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 9,
-    "candidate_posts": 9
+    "deduplicated_posts": 8,
+    "candidate_posts": 8
   },
   "posts": [
     {
-      "id": "tass_agency/408007",
+      "id": "tass_agency/408011",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/408007",
-      "published_at": "2026-11-28T00:55:40+00:00",
-      "text": "📹 Всероссийский Дед Мороз из Великого Устюга назвал мир во всем мире своим главным желанием. Об этом он рассказал ТАСС. Видео: Ксения Плакунова/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "url": "https://t.me/tass_agency/408011",
+      "published_at": "2026-11-28T01:52:01+00:00",
+      "text": "Командование ВСУ инициирует мобилизацию украинских студентов с законной бронью, которым исполнилось 25 лет. Такие решения связаны с катастрофическим положением ВСУ на линии фронта. На сегодняшний день число таких студентов может превысить 200 тыс. человек, сообщили ТАСС в российских силовых структурах.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234963",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234963",
+      "published_at": "2026-11-28T01:33:01+00:00",
+      "text": "Белорусские правоохранители пресекли случаи вербовки школьников для массовых убийств сверстников По словам министра внутренних дел страны Ивана Кубракова, несмотря на то, что ситуация в республике полностью находится под контролем, наметилась тенденция, когда детей вовлекают в преступную деятельность через интернет. @sputnikby",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "bricsnews/19866",
+      "id": "bricsnews/19867",
       "channel": "bricsnews",
       "source": "BRICS News",
-      "url": "https://t.me/bricsnews/19866",
-      "published_at": "2026-11-28T00:38:07+00:00",
-      "text": "JUST IN: 🇨🇴 Colombian peso on track for its worst month in more than four years. @BRICSNews",
+      "url": "https://t.me/bricsnews/19867",
+      "published_at": "2026-11-28T01:31:34+00:00",
+      "text": "JUST IN: 🇦🇫 Taliban bans women's names from official documents in Balkh province, replacing them with \"granny\" and, in some cases, referring to women as \"goat\" or \"cow.\" @BRICSNews",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/408006",
+      "id": "tass_agency/408010",
       "channel": "tass_agency",
       "source": "TASS",
-      "url": "https://t.me/tass_agency/408006",
-      "published_at": "2026-11-28T00:34:31+00:00",
-      "text": "ЕК предложила новую программу финансирования Киева на €45 млрд в 2027 году, еще €25 млрд она ожидает \"от партнеров\", заявила Урсула фон дер Ляйен. Этот проект будет рассмотрен странами ЕС на экстренном саммите 26-27 ноября.",
+      "url": "https://t.me/tass_agency/408010",
+      "published_at": "2026-11-28T01:24:01+00:00",
+      "text": "💲 Запад с начала 2026 года выделил Киеву около $69,9 млрд финансовой поддержки, не считая поставок вооружений и военной техники. Об этом свидетельствуют подсчеты ТАСС на основе данных Минфина Украины.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -153,83 +167,53 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/234954",
+      "id": "rian_ru/350587",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350587",
+      "published_at": "2026-11-28T01:19:29+00:00",
+      "text": "Лерчек вернули 45 миллионов рублей и ювелирные украшения, изъятые во время обыска в 2024 году, сообщил РИА Новости ее адвокат Константин Третьяков.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408009",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408009",
+      "published_at": "2026-11-28T01:19:01+00:00",
+      "text": "▶️ Запад делает вид, что его не касаются нормы международного гуманитарного права и положения документов, которые они сами же подписывали. Об этом в разговоре с ТАСС заявил Мирошник. Видео: ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408008",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408008",
+      "published_at": "2026-11-28T01:07:12+00:00",
+      "text": "👔 Джо Байден рассказал о безнаказанности олигархов на Украине. \"В стране царила коррупция, и эта гниль проникла в украинскую судебную систему, где богатые и влиятельные люди зачастую могли просто откупиться от ответственности. <...> Олигархи часто жили в собственной…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234956",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234954",
-      "published_at": "2026-11-28T00:33:01+00:00",
-      "text": "\"Энергия декоммунизации\". Cезон \"Осень-Зима 2026-2027\". Выпуск 52 . Инфографика доступности* электроэнергии на территории Украины по областям на 27 ноября 2026. * Инфографика отражает картину плановых отключений электроэнергии. Аварийные отключения не учитываются. @lost_armour",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "energy"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/408005",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/408005",
-      "published_at": "2026-11-28T00:25:19+00:00",
-      "text": "Премьер Британии Бернэм глубоко убежден в необходимости возвращения в ЕС, пишет The Times со ссылкой на неназванного близкого к главе правительства высокопоставленного человека. Это его настоящая позиция, а не просто продуманный политический ход или тактический…",
+      "url": "https://t.me/boris_rozhin/234956",
+      "published_at": "2026-11-28T01:03:01+00:00",
+      "text": "Моменты СВО. Будни фронта. @Ugolok_Sitha",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/408004",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/408004",
-      "published_at": "2026-11-28T00:17:01+00:00",
-      "text": "💲 Поддержка Украины обошлась Евросоюзу в ноябре в $15 млрд. Общий объем финансовой помощи, оказанной западными странами Киеву с февраля 2022 года, достиг $227,9 млрд. Об этом свидетельствуют подсчеты ТАСС на основе данных украинского Минфина. Финансовая помощь от других стран и международных институтов для Киева в ноябре составила менее $1 млрд.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/408003",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/408003",
-      "published_at": "2026-11-28T00:09:01+00:00",
-      "text": "С 1 декабря некоторые категории граждан смогут претендовать на льготный автокредит, рассказал ТАСС депутат Говырин (\"Единая Россия\"): ▪️ программа позволит приобрести новый автомобиль российского производства с софинансированием из бюджета; ▪️ скидка 20% доступна…",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/408002",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/408002",
-      "published_at": "2026-11-28T00:03:33+00:00",
-      "text": "▶️ Киев реализует целенаправленную стратегию точечной эскалации каждый раз, как только намечается прогресс в урегулировании. Об этом заявил в интервью ТАСС Мирошник. Видео: ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/234953",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/234953",
-      "published_at": "2026-11-28T00:03:01+00:00",
-      "text": "⠀ 🔴 Свидетельства вернувшихся из плена о зверствах украинских неонацистов. Смотреть на Rutube Смотреть предыдущие свидетельства Наш Международный общественный трибунал по преступлениям украинских неонацистов (председатель — М. С. Григорьев ) из представителей гражданского общества 35 стран мира продолжает сбор свидетельств преступлений киевского режима. Российский военнослужащий с позывным \"Меломан\": 00:00 \"На яме нас избивали и допрашивали. Били руками и ногами. Надевали пакет на голову. Били плёткой, палками. 00:29 Травили собаками, пытали электричеством, срезали с кожи татуировки. 00:57 За нарушение наказывали всю камеру. Кто-то что-то громко или не так сказал — доставалось всем. Если заснул или лёг на кровать, наказывали тоже всех. Заставляли заниматься физическими упражнениями до изнеможения\". Проект реализуется при поддержке Леонида Слуцкого, Бориса Рожина, Армена Гаспаряна, Олега Матвейчева, Дмитрия Пучкова, Игоря Коротченко, Сергея Котькало, Егора Холмогорова, Игоря Скурлатова, Александра Малькевича, Михаила Онуфриенко . Прошу сделать репост и распространять данную информацию — важно, чтобы и у нас, и за рубежом знали правду. #МеждународныйОбщественныйТрибунал #Донбасс #СВО #ОПРФ #ПреступленияКиевскогоРежима #ПреступленияВСУ #ЦентрИсторииСВО #Безсрокадавности #ХранитьВечно Подписаться на канал в МАХ Подписаться на канал в ТГ Подписаться на канал в Rutube",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kyiv"
-      ],
       "possible_duplicate_urls": []
     }
   ]
