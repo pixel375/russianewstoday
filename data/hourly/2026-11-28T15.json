@@ -1,0 +1,379 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T15",
+  "generated_at_utc": "2026-11-28T16:08:11.346255+00:00",
+  "window_start_utc": "2026-11-28T15:00:00+00:00",
+  "window_end_utc": "2026-11-28T16:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 20,
+    "relevant_posts": 9,
+    "editorial_pool_posts": 20,
+    "retained_without_keyword_match": 11,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 20,
+    "candidate_posts": 20
+  },
+  "posts": [
+    {
+      "id": "wargonzo/38683",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38683",
+      "published_at": "2026-11-28T15:51:14+00:00",
+      "text": "Скончалась Тамара Захарченко, мать первого главы ДНР Ушла из жизни Тамара Фёдоровна Захарченко – мать первого Главы ДНР Александра Захарченко. О кончине стало известно сегодня. Совсем недавно, всего несколько дней назад, Тамара Фёдоровна была удостоена премии «Лицо Нации. МАМА» – и это было признанием той тихой, но огромной роли, которую она сыграла в жизни многих людей. Светлая память доброму и чуткому человеку. Выражаем искренние соболезнования родным и близким. @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199573",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199573",
+      "published_at": "2026-11-28T15:48:57+00:00",
+      "text": "🇺🇦 Ukrainian MPs propose allowing infants into parliament. Ukrainian MPs have reportedly proposed allowing children under the age of two to accompany their parents inside the Verkhovna Rada. The stated justification is to help MPs balance parliamentary duties with childcare responsibilities. However, the proposal has prompted speculation about the potential security implications, with critics suggesting that having infants inside parliament could complicate any military strike against the building. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235028",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235028",
+      "published_at": "2026-11-28T15:45:05+00:00",
+      "text": "Подъехали более детальные обьяснения Смартфоны, уже подключенные к российским сетям, будут внесены в базу IMEI автоматически с 1 марта 2027 года, никаких дополнительных действий от владельцев телефонов не потребуется, рассказал в интервью РИА Новости глава комитета Госдумы по информационной политике Сергей Боярский. Российская база IMEI-номеров заработает с 1 марта 2027 года в рамках закона о новых мерах защиты россиян от телефонных и интернет-мошенников. Отдельный переходный период, как пояснил глава комитета, не потребуется. Он подчеркнул, что все телефоны до 1 марта следующего года независимо от места их покупки будут зарегистрированы автоматически.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408066",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408066",
+      "published_at": "2026-11-28T15:42:26+00:00",
+      "text": "Ощущаемое землетрясение магнитудой 6,2 произошло на Камчатке . Эпицентр располагался на суше, сообщили ТАСС в Камчатском филиале Геофизической службы РАН. Как передает корреспондент ТАСС, несмотря на позднее время суток и пургу, многие жители края покинули квартиры и вышли на улицу в целях безопасности.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98744",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98744",
+      "published_at": "2026-11-28T15:37:57+00:00",
+      "text": "More images of the J-35AE.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117608",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117608",
+      "published_at": "2026-11-28T15:36:01+00:00",
+      "text": "Уход из жизни мамы первого главы ДНР Александра Владимировича Захарченко – это огромная боль для всех, кто знал эту замечательную женщину, подчеркнул Иван Приходько. \"Тамара Федоровна навсегда останется в памяти как человек удивительной стойкости, мужества и безграничной любви. В эти трудные времена, когда наша земля переживает испытания, такие светлые люди, как Тамара Фёдоровна, служили примером несгибаемости духа\", – отметил мэр Горловки. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38682",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38682",
+      "published_at": "2026-11-28T15:35:13+00:00",
+      "text": "Миллиарды для Киева: с первой попытки не удалось. Как вылечить европейских лидеров от заукраинского психоза? Макс Литвинов специально для подписчиков @wargonzo в МАХ Сходка лидеров Евросоюза закончилась безрезультатно: не смогли договориться ни о долгосрочном бюджете ЕС, ни о дополнительном кредите для Украины на 2027 год. Три страны – Чехия, Словакия и Венгрия – отказались финансировать Киев, а для выделения 45-миллиардного кредита требуется согласие всех членов ЕС. Повторная попытка найти решение назначена на 17-18 декабря. Скорее всего, сопротивление стран-диссидентов будет сломлено. Главная причина: они финансово уязвимы. Государства ЕС делятся на доноров и реципиентов (получателей). Доноры – те, кто вносит в европейский «общак» больше, чем получают из него. Реципиенты, соответственно, наоборот: получают больше, чем вносят. Понятно, что у доноров есть рычаги влияния. Кто платит, тот заказывает музыку. Главным донором Евросоюза является… 👉🏻 Читать дальше в МАХ @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36069",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36069",
+      "published_at": "2026-11-28T15:35:10+00:00",
+      "text": "📝 Attrition Count 📝 when the AFU runs out of people Russian television usually predicts rapid personnel depletion or a freezing Kyiv (and Europe with it). But now Western analysts increasingly name specific dates for the end of Ukrainian army combat capability. This time, IntelliNews predicted complete AFU combat capability exhaustion by November 2028 — and names the main reason not money or weapons, but lack of manpower. ➡️ According to the publication's assessment , the Ukrainian army's monthly losses range from 3 to 9 thousand killed. But the front is not the only channel of attrition: desertion claims another 10–15 thousand people per month, more than combat losses. Official data confirms the scale of the problem: from January 2022 to October 2025, the so-called Ukraine's prosecutor's office registered over 311 thousand criminal cases related to desertion. ➡️ Replenishing such losses becomes increasingly difficult for the Kyiv regime. 20–25 million people remain on controlled territory, about half of them are of retirement age. The potential mobilization reserve ranges from one to five million men against ten million before the conflict began. Moreover, most estimates lean toward the lower end. ❗️ However, the Kyiv regime's disregard for its own population also depletes the mobilization resource faster than it can be replenished. And foreign mercenaries from Latin America no longer surprise anyone. But on the other hand — it makes no sense and is even harmful to assume that the AFU or so-called Ukraine is on the brink of collapse. The \"manpower intensity\" of the front line is falling even accounting for offensives, and so they will continue to trade the lives of residents in Kyiv-controlled territory for damage to Russia for a long time yet. #Russia #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235027",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235027",
+      "published_at": "2026-11-28T15:33:01+00:00",
+      "text": "В Киеве в течении дня продолжаются прилеты. Город частично обесточен. как и большая часть области.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350614",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350614",
+      "published_at": "2026-11-28T15:32:41+00:00",
+      "text": "Во Франции запретили пиротехнику из-за протестов. В стране нельзя будет продавать и использовать такие товары до 27 ноября. Запрет не касается профессиональной пиротехники, но для нее потребуется разрешение. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199571",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199571",
+      "published_at": "2026-11-28T15:32:05+00:00",
+      "text": "🇺🇦 Geran strike in Dnepropetrovsk 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199570",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199570",
+      "published_at": "2026-11-28T15:24:18+00:00",
+      "text": "✈️ A NATO reconnaissance aircraft spent nearly five hours in the area of the Kaliningrad region, a source in air traffic control services told TASS. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30834",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30834",
+      "published_at": "2026-11-28T15:23:02+00:00",
+      "text": "Have you ever been in an operating theatre right on the front line ❓ ▶️ Forward medical group commander with the call sign 'Sibay' gave an inside tour of the facility where medics of the 341st Separate Medical Battalion save wounded soldiers in Dnepropetrovsk direction. 🩺 Inside, everything is within arm's reach – from portable ventilators to blood stocks, because when dealing with battle wounds, every second counts. 'Sibay' explained how his unit's work is organised . 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102668",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102668",
+      "published_at": "2026-11-28T15:22:02+00:00",
+      "text": "🇨🇿 Чехия законопроект: работоспособных украинцев которые получают помощь обяжут официально работать, вести бизнес или находится на учете в службе занятости. Кроме того, для получения выплат будет необходимо находится в Чехии не меньше 16 дней в месяц - а за пребывание вне шенгенской зоны больше 30 дней предлагается отзывать временную защиту. ❗️ Министр внутренних дел Чехии Любомир Метнар пояснил, что изменения должны предотвратить злоупотребления. По его словам, госорганы сталкивались с так называемым \"социальным туризмом\", когда иностранцы претендовали на выплаты, фактически не проживая в стране. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235021",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235021",
+      "published_at": "2026-11-28T15:17:45+00:00",
+      "text": "Последствия прилета БПЛА в частный жилой дом в Червоногвардейском районе Макеевки сегодня ночью, в результате которого погибла семья из 4 человек, в том числе 2 детей. @WarInMyEyes",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408065",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408065",
+      "published_at": "2026-11-28T15:11:01+00:00",
+      "text": "✈️ Самолет-разведчик НАТО почти пять часов провел в районе Калининградской области, сообщил ТАСС источник в авиадиспетчерских службах. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117607",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117607",
+      "published_at": "2026-11-28T15:10:25+00:00",
+      "text": "Очередные кадры ударов \"Геранями\" по железнодорожному подвижному составу на Украине. Поражены два локомотива районе Днепропетровска, по одному – в районе Кривого Рога, Богдановки и Першотравенска в Днепропетровской области. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102666",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102666",
+      "published_at": "2026-11-28T15:09:08+00:00",
+      "text": "Киев На первом видео - пожар на парковке от работы украинского ПВО: упала \"Герань\" На втором - прилет реактивного русского дрона. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350613",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350613",
+      "published_at": "2026-11-28T15:05:49+00:00",
+      "text": "Умер писатель Александр Каневский, брат актера Леонида Каневского. Он писал тексты для знаменитого в СССР дуэта Юрия Тимошенко и Ефима Березина (Тарапунька и Штепсель) и был автором сценариев известного \"Кабачка \"13 стульев\". 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235020",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235020",
+      "published_at": "2026-11-28T15:03:01+00:00",
+      "text": "В Кременчуге Полтавской области БПЛА Герань нанесли удар по частному предприятию, задействованному в интересах ВСУ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

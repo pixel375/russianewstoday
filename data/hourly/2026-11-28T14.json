@@ -1,0 +1,503 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T14",
+  "generated_at_utc": "2026-11-28T16:08:15.724432+00:00",
+  "window_start_utc": "2026-11-28T14:00:00+00:00",
+  "window_end_utc": "2026-11-28T15:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 28,
+    "relevant_posts": 10,
+    "editorial_pool_posts": 28,
+    "retained_without_keyword_match": 17,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 27,
+    "candidate_posts": 27
+  },
+  "posts": [
+    {
+      "id": "DDGeopolitics/199569",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199569",
+      "published_at": "2026-11-28T14:59:20+00:00",
+      "text": "🇦🇱 Thousands of protesters are out full force in the streets of Tirana, Albania demanding an end to state corruption and the resignation of Prime Minister Edi Rama. Riot police are violently trying to control the situation. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/DDGeopolitics/199566"
+      ],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235019",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235019",
+      "published_at": "2026-11-28T14:55:31+00:00",
+      "text": "‼ ‼ ‼ ‼ СЕВАСТОПОЛЬ | ВОЗДУШНАЯ ТРЕВОГА! Сохраняйте спокойствие, соблюдайте меры безопасности, оставайтесь в безопасных местах и не снимайте работу ПВО.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53608",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53608",
+      "published_at": "2026-11-28T14:55:06+00:00",
+      "text": "❗️ Germany has allocated €11.6 billion in its 2027 federal budget to support Ukraine, according to the Deutschlandfunk radio station. According to a statement from the German parliament, the total expenditure of the federal budget will be €555.94 billion – €31.4 billion more than in 2026. The bill was approved by 316 deputies, with 260 voting against. Defense spending, including funds from the Bundeswehr's special fund, will reach almost €140 billion. This is a record figure since the end of the Cold War. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98743",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98743",
+      "published_at": "2026-11-28T14:52:43+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — More than 300,000 Ukrainian drones have been shot down by Russian air defences since the beginning of the Special Military Operation (SMO). @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102665",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102665",
+      "published_at": "2026-11-28T14:50:16+00:00",
+      "text": "Крымский рубеж Передали «НАБАТ V.3» для защитников Крыма с антенной и экраном для перехвата видеосигнала ФПВ Спасибо всем, кто участвует в помощи фронту. Благодаря вашей поддержке мы можем и дальше оперативно помогать подразделениям, выполняющим важные, боевые задачи. — Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30833",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30833",
+      "published_at": "2026-11-28T14:49:51+00:00",
+      "text": "❗️ Today, the Armed Forces of the Russian Federation delivered UAV strikes against power infrastructure facilities and ships used in the interests of the AFU. 💥 As a result of the strikes, the following targets were hit: ▫️ Nivki 330 kV electrical substation in Kiev and Belotserkovskaya combined heat and power plant in Kiev region, which support the operation of Ukraine's defence industry enterprises; ▫️ a dry cargo ship in the Black Sea waters east of Odessa, which delivered military-purpose cargo to Ukraine. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/235018",
+        "https://t.me/donbassr/117606"
+      ]
+    },
+    {
+      "id": "intelslava/98742",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98742",
+      "published_at": "2026-11-28T14:45:19+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡️ — The Ukrainian Armed Forces used an Israeli analogue of Starlink in the attack on the Crimean Bridge, according to The Wall Street Journal, citing a source within the Ukrainian Armed Forces. The system in question is HiSky, which is not geographically restricted like Starlink. It has been used increasingly frequently for attacks within Russian territory. HiSky does not own its own satellites; instead, it rents them from other companies. The HiSky company itself declined to comment. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235018",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235018",
+      "published_at": "2026-11-28T14:45:01+00:00",
+      "text": "Сегодня днем Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетической инфраструктуры и морским судам, задействованным в интересах ВСУ. В результате ударов поражены: - электроподстанция «Нивки» 330 кВ в Киеве и теплоэлектроцентраль «Белоцерковская» в Киевской области, обеспечивающие работу предприятий ВПК Украины; - морское судно типа «сухогруз» в акватории Черного моря восточнее Одессы, доставлявшее на Украину грузы военного назначения.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kyiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30833",
+        "https://t.me/donbassr/117606",
+        "https://t.me/DDGeopolitics/199563"
+      ]
+    },
+    {
+      "id": "bricsnews/19869",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19869",
+      "published_at": "2026-11-28T14:43:03+00:00",
+      "text": "JUST IN: 🇾🇪 Armed hijackers leave cargo ship after seizing it off Yemen's coast. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199565",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199565",
+      "published_at": "2026-11-28T14:40:47+00:00",
+      "text": "🇺🇦 💥 Explosions in Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199564",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199564",
+      "published_at": "2026-11-28T14:39:16+00:00",
+      "text": "🇫🇷 France is officially in recession On Friday, France's national statistics office INSEE released its detailed figures. They cut third-quarter GDP to -0.2% and show a slight contraction in the second quarter as well. Two straight quarters of decline put the eurozone's second-largest economy in a technical recession. Growth for all of 2026 now stands at just 0.1%, and inflation hit a three-year high of 3.8% in October. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117606",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117606",
+      "published_at": "2026-11-28T14:39:01+00:00",
+      "text": "ВС России поразили электроподстанцию \"Нивки\" в Киеве и теплоэлектроцентраль \"Белоцерковская\" в Киевской области, которые обеспечивали работу предприятий ВПК Украины, сообщили в Минобороны. Также удар нанесен по сухогрузу с грузами военного назначения в акватории Черного моря восточнее Одессы. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/mod_russia_en/30833",
+        "https://t.me/boris_rozhin/235018"
+      ]
+    },
+    {
+      "id": "dva_majors/102664",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102664",
+      "published_at": "2026-11-28T14:38:02+00:00",
+      "text": "Отличное размещение рекламы всу (плакат справа). Похоронное бюро - залетай до них Блокнот пропагандиста",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36068",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36068",
+      "published_at": "2026-11-28T14:37:41+00:00",
+      "text": "Fwd from @ 📝 Political reshuffle 📝 The Chen Jining case reshapes personnel arrangements in the CCP Twenty years ago, Shanghai became the starting point for the rapid rise of China's current leader Xi Jinping . Now history may repeat itself, although the political conditions in the country have changed significantly. An investigation into Shanghai's municipal party committee secretary Chen Jining will almost inevitably lead to his resignation. This means that the balance of power is shifting ahead of major personnel reshuffles expected at the CCP's XXI Congress in 2027. The post of Shanghai's municipal party committee secretary is traditionally considered one of the most important steps in the careers of Chinese leaders. Of the last ten heads of the city, eight subsequently entered the Standing Committee of the Politburo of the CCP Central Committee, and two — Jiang Zemin and Xi Jinping — ultimately became the country's leaders. 🖍 The current situation resembles events in 2006, when the previous municipal party committee secretary Chen Liangyu was removed as a result of a corruption scandal. In March of the following year, Xi Jinping took the post. By October, he entered the Standing Committee of the Politburo, and in 2012 he became the supreme leader of the PRC. 🚩 However, personnel appointments in China have become less predictable . The Chinese leader himself is in no hurry to fill the vacant leadership positions until he determines his further priorities. ❗️ In any case, the candidacy of Shanghai's next party committee secretary will provide better insight into the balance of power within the CCP and Xi Jinping's plans for the upcoming personnel reshuffles. At the same time, in the current political system, this post carries not only career opportunities but also additional risks. #China 🏮 @rybar_pacific — your ticket to Pacific chaos 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "corruption"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408064",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408064",
+      "published_at": "2026-11-28T14:37:17+00:00",
+      "text": "❗️ ВС РФ поразили электроподстанцию \"Нивки\" 330 кВ в Киеве и теплоэлектроцентраль \"Белоцерковская\" в Киевской области, сообщили в Минобороны.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408063",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408063",
+      "published_at": "2026-11-28T14:34:54+00:00",
+      "text": "❗️ ВС РФ поразили сухогруз в акватории Черного моря восточнее Одессы, доставлявший на Украину грузы военного назначения, сообщили в Минобороны.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "odesa"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350612",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350612",
+      "published_at": "2026-11-28T14:34:24+00:00",
+      "text": "ВС России поразили электроподстанцию \"Нивки\" в Киеве и теплоэлектроцентраль \"Белоцерковская\" в Киевской области. Они обеспечивали работу предприятий ВПК Украины, заявили в Минобороны. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235017",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235017",
+      "published_at": "2026-11-28T14:33:01+00:00",
+      "text": "Четыре человека, включая двух детей, погибли при ударе ВСУ по частному дому в Макеевке ДНР. Инцидент произошел этой ночью в Червоногвардейском районе, уточнил корреспондент \"Известий\" Евгений Быковский.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350611",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350611",
+      "published_at": "2026-11-28T14:28:53+00:00",
+      "text": "Финансовую пирамиду под видом торговой сети раскрыли в Дагестане, сообщили в МВД. Преступники арендовали офисы в республике и предлагали людям открыть бизнес с высоким доходом от имени международной сети QNet Limited*. Схема работала с 2022 года. С новичков требовали взнос не менее 180 тысяч рублей. Если денег не было, убеждали взять кредит. Взамен выдавали товары, клубные карты и скидки на отдых. Дальше участникам предлагали приводить новых клиентов за вознаграждение в 100 долларов с каждого. *Внесена Банком России в перечень организаций с признаками нелегальной деятельности 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408062",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408062",
+      "published_at": "2026-11-28T14:19:01+00:00",
+      "text": "💲 Состояние Илона Маска за сутки выросло на $39,7 млрд. Оно увеличилось на 4,8% и составило $859 млрд, следует из \"Индекса миллиардеров\" агентства Bloomberg. В пятницу акции SpaceX на бирже Nasdaq выросли на 4,83%, а котировки Tesla закрылись ростом на 5,22%. Маск занимает первое место в \"Индексе миллиардеров\" Bloomberg. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117605",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117605",
+      "published_at": "2026-11-28T14:19:01+00:00",
+      "text": "Почти два десятка библиотек созданы и модернизированы в ЛНР за четыре года, сообщил Леонид Пасечник. \"Останавливаться на этом не планируем. Еще четыре наши библиотеки уже прошли федеральный отбор на предоставление субсидии\", – отметил глава региона. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235016",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235016",
+      "published_at": "2026-11-28T14:17:01+00:00",
+      "text": "Мелони предупредила Зеленского, что после украинского удара в Ливии помощь будет оказывать сложнее, сообщает La Repubblica. Во время телефонного разговора премьер Италии указала, что в парламенте страны уже растут возражения против военной поддержки Украины. А такими эпизодами, как в Бенгази, ставящими под угрозу нацбезопасность Италии, Киев «подставляет подножку». По данным издания, Мелони достаточно раздражена враньём и некомпетентностью Зеленского.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199563",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199563",
+      "published_at": "2026-11-28T14:15:05+00:00",
+      "text": "🇺🇦 In Odessa Oblast, an energy facility was hit by a Geranium strike 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/235018"
+      ]
+    },
+    {
+      "id": "voenkorKotenok/78343",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78343",
+      "published_at": "2026-11-28T14:13:43+00:00",
+      "text": "Честь и вера Эта песня посвящается тем, кто сегодня находится на передовой. Тем, кто вдали от дома, кто хранит в сердцах лица родных, веру и надежду. Пусть музыка согревает душу, напоминает о любви близких и о том, что Бог всегда рядом. Пусть каждый дождётся возвращения домой. ❤️ 🙏",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78342",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78342",
+      "published_at": "2026-11-28T14:03:20+00:00",
+      "text": "Британские СМИ сообщают о том, что Киев приготовился полностью уничтожить Крымский мост, называя его \"любимым проектом\" Владимира Путина, \"которым он так дорожит\". В частности, об этом пишет The Telegraph со ссылкой на \"хорошо информированные военные источники\", которые сообщили, что Зеленский дал прямое указание командующим — он хочет видеть все остальные пролеты моста полностью уничтоженными. Британцы напоминают, что 10 дней назад украинские дроны и крылатые ракеты нанесли удар по мосту, в результате чего в воды Керченского пролива рухнул четырехполосный участок дороги со своей опорной аркой. Кроме того, сообщалось и то, что украинские ракеты \"Нептун\" также повредили укрепленный железнодорожный пролет моста. \"Президент хочет, чтобы его полностью разрушили\", - сообщил военный источник, добавив, что готовятся новые удары. \"Брифинги в Украине отражают растущую уверенность в собственных военных возможностях, а также желание поддерживать уровень давления и угроз\", - уровень оптимизма в британских СМИ просто зашкаливает. Смею напомнить, что Президент России обещал украинской стороне военный ответ на удар по мосту. А сегодня вице-премьер РФ Марат Хуснуллин сообщил, что сроки восстановления Крымского моста определены. Но какие именно, он не раскрыл: \"Все проектные решения приняты, определены сроки, ответственные, необходимые материалы. Полным ходом этим работаем и занимаемся\". В том, что Крымский мост будет восстановлен, сомнений нет. Очевидно, что этот процесс, как и работа этой важнейшей коммуникации невозможны без кардинального укрепления всей эшелонированной системы ПВО. Это невозможно сделать без ПВО азовской и черноморской акваторий, что зависит от укрепления ПВО Черноморского флота. И сугубо обороной эти задачи не разрешимы. Задача — нанести комплексное поражение противнику и лишить его ударного потенциала в целом. Речь не о исключительно ответных акциях время от времени, а о системной работе всей \"мощностью залпа\". Должны ответить те, кто отдает преступные приказы. Они обнаглели и смеют угрожать России, привыкнув, что за это ничего не будет. будет. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235015",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235015",
+      "published_at": "2026-11-28T14:03:01+00:00",
+      "text": "7 человек погибли, 97 пострадали в результате взрыва в школе в афганской провинции Кунар, сообщил телеканал TOLO news со ссылкой на местную полицию. По данным телеканала, источником взрыва было вещество, которое хранилось в доме неподалеку от учебного заведения и предназначалось для проведения горных работ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38681",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38681",
+      "published_at": "2026-11-28T14:02:02+00:00",
+      "text": "Чернобыль: карусель ликвидации Мёртвый четвёртый блок Чернобыльской атомной станции. Он висел над ним в вертолёте и был под ним. И в реакторном зале третьего, где всё пространство было усеяно кусками радиоактивного урана и графита. За защитным стеклом стояла вереница молодых солдат химзащиты. У входа в зал лежали обычный веник и совок. Солдат вбегал, смахивал смертельные крупицы в совок и нёс в контейнер, ставил веник на место – и возвращался в строй. И так каруселью. Они снимали бахилы, из которых лился пот, – и шли домой, унося свою дозу радиации. «Я был безрассудный, я не понимал всего этого», – вспоминает Александр Проханов. Но именно это безрассудство и есть его метод: не смотреть на смерть со стороны, а стоять среди солдат и идти туда, откуда другие бегут. Смотрите новый выпуск из рубрики «ПРОХАНОВ: ХОЖДЕНИЕ В ОГОНЬ». Уже через несколько часов. Эксклюзивно на @wargonzo в МАХ.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}

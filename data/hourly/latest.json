@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
-  "hour_id": "2026-11-28T13",
-  "generated_at_utc": "2026-11-28T14:05:10.608130+00:00",
-  "window_start_utc": "2026-11-28T13:00:00+00:00",
-  "window_end_utc": "2026-11-28T14:00:00+00:00",
+  "hour_id": "2026-11-28T15",
+  "generated_at_utc": "2026-11-28T16:08:11.346255+00:00",
+  "window_start_utc": "2026-11-28T15:00:00+00:00",
+  "window_end_utc": "2026-11-28T16:00:00+00:00",
   "sources": [
     {
       "handle": "DDGeopolitics",
       "name": "DD Geopolitics",
       "pages": 1,
-      "raw_count": 6
+      "raw_count": 3
     },
     {
       "handle": "intelslava",
       "name": "Intel Slava",
       "pages": 1,
-      "raw_count": 5
+      "raw_count": 1
     },
     {
       "handle": "bricsnews",
@@ -27,13 +27,13 @@
       "handle": "AussieCossack",
       "name": "Aussie Cossack",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "MFARussia",
       "name": "Russian Ministry of Foreign Affairs",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 0
     },
     {
       "handle": "mod_russia_en",
@@ -45,13 +45,13 @@
       "handle": "tass_agency",
       "name": "TASS",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "rian_ru",
       "name": "RIA Novosti",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     },
     {
       "handle": "rybar_in_english",
@@ -63,13 +63,13 @@
       "handle": "dva_majors",
       "name": "Two Majors",
       "pages": 1,
-      "raw_count": 0
+      "raw_count": 2
     },
     {
       "handle": "WarGonzo",
       "name": "WarGonzo",
       "pages": 1,
-      "raw_count": 1
+      "raw_count": 2
     },
     {
       "handle": "boris_rozhin",
@@ -99,248 +99,157 @@
       "handle": "donbassr",
       "name": "Donbass Decides (Донбасс решает)",
       "pages": 1,
-      "raw_count": 3
+      "raw_count": 2
     }
   ],
   "source_failures": [],
   "coverage_complete": true,
   "stats": {
-    "raw_posts": 29,
-    "relevant_posts": 12,
-    "editorial_pool_posts": 29,
-    "retained_without_keyword_match": 17,
+    "raw_posts": 20,
+    "relevant_posts": 9,
+    "editorial_pool_posts": 20,
+    "retained_without_keyword_match": 11,
     "excluded_by_candidate_cap": 0,
-    "deduplicated_posts": 29,
-    "candidate_posts": 29
+    "deduplicated_posts": 20,
+    "candidate_posts": 20
   },
   "posts": [
     {
-      "id": "donbassr/117604",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117604",
-      "published_at": "2026-11-28T13:52:01+00:00",
-      "text": "Частные дома повреждены в Червоногвардейском, Кировском и Советском районах Макеевки при налете украинских БПЛА, уточнила глава округа Юлия Иванова. При разборе завалов сотрудники МЧС России извлекли четверых погибших, сообщили ранее в ведомстве. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/408061",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/408061",
-      "published_at": "2026-11-28T13:51:13+00:00",
-      "text": "❗️ Работа по восстановлению Крымского моста идет полным ходом, все проектные материалы разработаны, заявил ТАСС Хуснуллин. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "crimea"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/235014",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/235014",
-      "published_at": "2026-11-28T13:47:01+00:00",
-      "text": "Деньги перевёл - 4 годы тюрьмы получил Житель Чечни Акуев Джахар Зелимхан, вдохновившись идеей всемирного халифата, решил оказать финансовую помощь “братьям участвующим в джихаде” и перевёл 36 тысяч рублей члену террористической организации “Катиба Таухид валь-Джихад” Мадумарову Фарходу. За совершение указанных противоправных действий Шейх-Мансуровским районным судом г. Грозного Чеченской Республики Акуев Д.З. осужден по ч. 5 ст. 33, ч. 2 ст. 208 УК РФ и приговорен к 4 годам 10 месяцам лишения свободы. @opersvodki",
+      "id": "wargonzo/38683",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38683",
+      "published_at": "2026-11-28T15:51:14+00:00",
+      "text": "Скончалась Тамара Захарченко, мать первого главы ДНР Ушла из жизни Тамара Фёдоровна Захарченко – мать первого Главы ДНР Александра Захарченко. О кончине стало известно сегодня. Совсем недавно, всего несколько дней назад, Тамара Фёдоровна была удостоена премии «Лицо Нации. МАМА» – и это было признанием той тихой, но огромной роли, которую она сыграла в жизни многих людей. Светлая память доброму и чуткому человеку. Выражаем искренние соболезнования родным и близким. @wargonzo",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199562",
+      "id": "DDGeopolitics/199573",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199562",
-      "published_at": "2026-11-28T13:44:02+00:00",
-      "text": "🇺🇦 ☢️ 🇷🇺 Former Ukrainian brigade commander floats a Chernobyl dirty bomb on Moscow Dmitry Kashchenko, former commander of Ukraine's 58th Separate Motorized Infantry Brigade, has suggested taking radioactive material from Chernobyl, attaching it to Fire Point FP-1 or FP-2 long-range drones, and dropping it on \"some Leningrad or some Moscow.\" The contamination, he explained, would be far worse and longer-lasting than from a nuclear explosion. Asked about Russia answering with a nuclear strike, he quoted what he believed Reagan once said: let his grandchildren die in nuclear bombings rather than live under communism. In fact, in his 1983 \"Evil Empire\" speech, Reagan quoted a young father who said he would \"rather see my little girls die now, still believing in God, than have them grow up under communism.\" No grandchildren, no nuclear bombings. Ukrainian commanders keep floating dirty bombs on Moscow, as if they're trying to get nuked. Meanwhile, even Trump's envoy Jared Kushner admits that \"so far Putin has shown restraint; he's agreed not to use nuclear weapons.\" 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199573",
+      "published_at": "2026-11-28T15:48:57+00:00",
+      "text": "🇺🇦 Ukrainian MPs propose allowing infants into parliament. Ukrainian MPs have reportedly proposed allowing children under the age of two to accompany their parents inside the Verkhovna Rada. The stated justification is to help MPs balance parliamentary duties with childcare responsibilities. However, the proposal has prompted speculation about the potential security implications, with critics suggesting that having infants inside parliament could complicate any military strike against the building. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "drone",
-        "moscow",
         "strike"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350610",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350610",
-      "published_at": "2026-11-28T13:40:23+00:00",
-      "text": "ИИ опасен для науки и ученых, предупредили ведущие математики. «Стремление компаний, занимающихся искусственным интеллектом, использовать решение математических задач в качестве теста производительности наносит ущерб науке», — заявила группа из 25 лауреатов…",
+      "id": "boris_rozhin/235028",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235028",
+      "published_at": "2026-11-28T15:45:05+00:00",
+      "text": "Подъехали более детальные обьяснения Смартфоны, уже подключенные к российским сетям, будут внесены в базу IMEI автоматически с 1 марта 2027 года, никаких дополнительных действий от владельцев телефонов не потребуется, рассказал в интервью РИА Новости глава комитета Госдумы по информационной политике Сергей Боярский. Российская база IMEI-номеров заработает с 1 марта 2027 года в рамках закона о новых мерах защиты россиян от телефонных и интернет-мошенников. Отдельный переходный период, как пояснил глава комитета, не потребуется. Он подчеркнул, что все телефоны до 1 марта следующего года независимо от места их покупки будут зарегистрированы автоматически.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rybar_in_english/36067",
+      "id": "tass_agency/408066",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408066",
+      "published_at": "2026-11-28T15:42:26+00:00",
+      "text": "Ощущаемое землетрясение магнитудой 6,2 произошло на Камчатке . Эпицентр располагался на суше, сообщили ТАСС в Камчатском филиале Геофизической службы РАН. Как передает корреспондент ТАСС, несмотря на позднее время суток и пургу, многие жители края покинули квартиры и вышли на улицу в целях безопасности.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98744",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98744",
+      "published_at": "2026-11-28T15:37:57+00:00",
+      "text": "More images of the J-35AE.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117608",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117608",
+      "published_at": "2026-11-28T15:36:01+00:00",
+      "text": "Уход из жизни мамы первого главы ДНР Александра Владимировича Захарченко – это огромная боль для всех, кто знал эту замечательную женщину, подчеркнул Иван Приходько. \"Тамара Федоровна навсегда останется в памяти как человек удивительной стойкости, мужества и безграничной любви. В эти трудные времена, когда наша земля переживает испытания, такие светлые люди, как Тамара Фёдоровна, служили примером несгибаемости духа\", – отметил мэр Горловки. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38682",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38682",
+      "published_at": "2026-11-28T15:35:13+00:00",
+      "text": "Миллиарды для Киева: с первой попытки не удалось. Как вылечить европейских лидеров от заукраинского психоза? Макс Литвинов специально для подписчиков @wargonzo в МАХ Сходка лидеров Евросоюза закончилась безрезультатно: не смогли договориться ни о долгосрочном бюджете ЕС, ни о дополнительном кредите для Украины на 2027 год. Три страны – Чехия, Словакия и Венгрия – отказались финансировать Киев, а для выделения 45-миллиардного кредита требуется согласие всех членов ЕС. Повторная попытка найти решение назначена на 17-18 декабря. Скорее всего, сопротивление стран-диссидентов будет сломлено. Главная причина: они финансово уязвимы. Государства ЕС делятся на доноров и реципиентов (получателей). Доноры – те, кто вносит в европейский «общак» больше, чем получают из него. Реципиенты, соответственно, наоборот: получают больше, чем вносят. Понятно, что у доноров есть рычаги влияния. Кто платит, тот заказывает музыку. Главным донором Евросоюза является… 👉🏻 Читать дальше в МАХ @wargonzo",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36069",
       "channel": "rybar_in_english",
       "source": "Rybar in English",
-      "url": "https://t.me/rybar_in_english/36067",
-      "published_at": "2026-11-28T13:35:42+00:00",
-      "text": "• Fwd from @ 📝 Truth Under Ban 📝 The US published the \"USAID files\" It turns out that truth can also be \"incorrect\". The Trump administration relaunched the website of the USAID agency, which closed last year, and uploaded a 1.1 GB archive — 248 internal documents from the Biden era. The White House claims that the previous authorities turned the agency into an online censorship tool . 🔻 What's in the documents? ▪️ The files document contacts between USAID employees and Meta, Google, and YouTube regarding content moderation and discussions about requests to platforms to restrict publications deemed as threats to partner organizations. ▪️ The archive contains a concept prepared for the agency by the Global Disinformation Index (GDI) proposing to rate media in a number of countries, including Moldova, Armenia, and Zambia, for \"bias\" and \"hostile narratives\" in order to deprive \"risky\" websites of advertising, lower their search rankings, and block them. ▪️ In a recording of a 2022 seminar for USAID employees, GDI co-founder Danny Rogers explained that disinformation is not just a matter of truth or falsehood, and called for fighting even truthful materials if they challenge authorities, citing Breitbart articles about crimes committed by illegal migrants as an example. 📌 Former employees are already defending themselves. Ex-USAID chief Samantha Power called the leak a collection of files taken out of context about countering foreign propaganda. 🖍 The files reveal interesting things. Once the fight against disinformation moves away from fact-checking to evaluating \"narratives,\" it already becomes a political tool. And from this it becomes clear what USAID was doing. 🚩 The timing of the publication is no accident. The situation shifts the discussion from the consequences of cutting foreign aid to the toxic topic of censorship . This makes a return to the previous model of USAID media programs politically impossible, and tech giants and advertisers will continue to distance themselves from rating NGOs like GDI. ❗️ The White House is essentially cementing the dismantling of the agency domestically. Ironically, Russia has long spoken about manual control of Western media projects under the guise of fighting fakes, but in response heard only conspiracy theories. Now the US government itself is shedding light on all of this. 🖼 High resolution infographic 🖼 English version #USA 🇺🇸 @rybar_america — making America understandable again 💸",
+      "url": "https://t.me/rybar_in_english/36069",
+      "published_at": "2026-11-28T15:35:10+00:00",
+      "text": "📝 Attrition Count 📝 when the AFU runs out of people Russian television usually predicts rapid personnel depletion or a freezing Kyiv (and Europe with it). But now Western analysts increasingly name specific dates for the end of Ukrainian army combat capability. This time, IntelliNews predicted complete AFU combat capability exhaustion by November 2028 — and names the main reason not money or weapons, but lack of manpower. ➡️ According to the publication's assessment , the Ukrainian army's monthly losses range from 3 to 9 thousand killed. But the front is not the only channel of attrition: desertion claims another 10–15 thousand people per month, more than combat losses. Official data confirms the scale of the problem: from January 2022 to October 2025, the so-called Ukraine's prosecutor's office registered over 311 thousand criminal cases related to desertion. ➡️ Replenishing such losses becomes increasingly difficult for the Kyiv regime. 20–25 million people remain on controlled territory, about half of them are of retirement age. The potential mobilization reserve ranges from one to five million men against ten million before the conflict began. Moreover, most estimates lean toward the lower end. ❗️ However, the Kyiv regime's disregard for its own population also depletes the mobilization resource faster than it can be replenished. And foreign mercenaries from Latin America no longer surprise anyone. But on the other hand — it makes no sense and is even harmful to assume that the AFU or so-called Ukraine is on the brink of collapse. The \"manpower intensity\" of the front line is falling even accounting for offensives, and so they will continue to trade the lives of residents in Kyiv-controlled territory for damage to Russia for a long time yet. #Russia #Ukraine ✉️ MAX 💸 Support us Original msg",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [],
+      "event_signals": [
+        "kyiv",
+        "mobilization"
+      ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/235013",
+      "id": "boris_rozhin/235027",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/235013",
-      "published_at": "2026-11-28T13:35:05+00:00",
-      "text": "В Киеве зафиксированы удары беспилотников по объектам критической инфраструктуры. Возможны перебои с электро- и водоснабжением, — Педалий Кличко",
+      "url": "https://t.me/boris_rozhin/235027",
+      "published_at": "2026-11-28T15:33:01+00:00",
+      "text": "В Киеве в течении дня продолжаются прилеты. Город частично обесточен. как и большая часть области.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "kyiv",
-        "strike"
+        "kyiv"
       ],
       "possible_duplicate_urls": []
     },
     {
-      "id": "donbassr/117603",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117603",
-      "published_at": "2026-11-28T13:28:01+00:00",
-      "text": "Расчеты FPV-перехватчиков группировки \"Центр\" уничтожили четыре ударных БПЛА \"Hornet\" и дрон \"Рубака\" на Днепропетровском направлении. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "strike"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "tass_agency/408060",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/408060",
-      "published_at": "2026-11-28T13:26:01+00:00",
-      "text": "✈️ Россия обсуждает возможность начала прямого авиасообщения с Малайзией, сообщил в интервью ТАСС глава Минтранса РФ Дмитрий Ядров. ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98738",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98738",
-      "published_at": "2026-11-28T13:24:57+00:00",
-      "text": "🇪🇺 Thousands of European farmers are protesting as the EU plans to cut subsidies for farmers while significantly increasing military spending. “We grow food, not wars!” — under this slogan, farmers from 23 countries are pushing back against Brussels.",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98737",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98737",
-      "published_at": "2026-11-28T13:24:08+00:00",
-      "text": "🇷🇺 🇺🇦 ⚡ Drone strikes on critical infrastructure facilities have been recorded in Kiev. Interruptions in electricity and water supply are possible, — Klitschko. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/DDGeopolitics/199561"
-      ]
-    },
-    {
-      "id": "intelslava/98735",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98735",
-      "published_at": "2026-11-28T13:22:21+00:00",
-      "text": "🇺🇸 ⚡️ — An Associated Press investigation has revealed that the U.S. Drug Enforcement Administration (DEA) effectively allowed at least 1.4 million fentanyl pills to reach the black market. Between August 2024 and April 2025, federal agents tracked drug shipments across six states without taking any action to intercept them. According to the agents, this tactic was used in order to “build an evidence base for a larger case against a major drug trafficking network”… The whereabouts of most of the pills remain unknown. The DEA continues to deny that it knowingly allowed the distribution of fentanyl, despite the fact that surveillance camera footage and wiretap materials in the agency’s possession contradict these claims. “They are actively trying to cover up what happened,” said New Mexico Governor Michelle Lujan Grisham. A criminal case has been opened over the incident. Authorities in the city of Albuquerque are also seeking $153 million in damages. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "boris_rozhin/235012",
-      "channel": "boris_rozhin",
-      "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/235012",
-      "published_at": "2026-11-28T13:21:52+00:00",
-      "text": "Немецкий оборонный концерн Rheinmetall передумал строить завод по выпуску 155-миллиметровых снарядов на Украине. Об этом на встрече с инвесторами заявил глава компании Армин Паппергер, утверждают УкроСМИ. Ещё в октябре 2024 года топ-менеджер заявлял, что концерн возводит в стране сразу четыре оружейных предприятия, одно из которых уже якобы заработало. В Москве тогда же предупредили, что подобные объекты на украинской территории станут законной целью для российских войск. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "intelslava/98731",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98731",
-      "published_at": "2026-11-28T13:21:33+00:00",
-      "text": "🇬🇧 🇦🇲 ⚡️ — The United Kingdom is helping Armenia implement a risk management system in the defence sector On 26 November, the British Embassy, together with Armenia’s Ministry of Defence and NATO, held an annual conference dedicated to risk management and defence sector reform. During the event, Armenia’s Ministry of Defence presented its first approach to risk management, developed with UK support. The new system is aimed at the timely identification of factors that could hinder the achievement of the Armed Forces’ transformation goals, improving strategic planning and increasing the effectiveness of managerial decision-making. According to Armenia’s Deputy Minister of Defence Hrachya Sargsyan, the next stage will be the implementation of the developed strategy at all levels of the Ministry of Defence. The conference was attended by experts from Armenia, the United Kingdom and NATO, as well as representatives of government bodies and international organisations. British Ambassador Alexandra Cole emphasised that support for defence sector and security system reforms is an important component of the strategic partnership between the two countries. After the conference, the first training module of the Building Integrity programme, designed for senior leadership, also began at Armenia’s National Defence Research University. @IntelSlava",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199561",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199561",
-      "published_at": "2026-11-28T13:17:58+00:00",
-      "text": "• 📝 A Setup for Meloni 📝 Italians don't want to help so-called Ukraine Sunday's attack by so-called Ukraine's naval drones on Russian ships off the coast of Libya continues to stir up Italy . And the alignment of political forces in the country increasingly depends on the dynamics of the Ukrainian conflict. According to La Repubblica, Prime Minister Giorgia Meloni warned Vladimir Zelensky in a phone call that after the strike in Libyan Benghazi, providing assistance to so-called Ukraine will become more difficult. According to her, objections against military support for the Kyiv regime are already growing in the Italian parliament, and such episodes that threaten Italy's national security are a \"dirty trick.\" The attack off Libya's coast strikes again at Meloni's political positions ahead of the 2027 elections. A poll published three days before the incident showed : 58% of Italians support stopping weapons supplies to the Kyiv regime. Of these, 39% demand halting economic support as well, taking a position of complete neutrality. 🔻 How so-called Ukraine is splitting Italy's major coalitions: ▪️ The majority of voters in both major coalitions — center-right and center-left — oppose continuing military aid to so-called Ukraine: 56% and 57% respectively. ▪️ Within the center-right ruling coalition, the main voice against weapons supplies belongs to Vice Prime Minister Matteo Salvini and his League, while Prime Minister Meloni's \"Brothers of Italy\" party are key advocates for the Kyiv regime. ▪️ In the center-left opposition (\"Broad Camp\"), things are also complicated. For example, 71% of \"Five Star Movement\" voters oppose any aid to so-called Ukraine — a record for the poll. In this same coalition, the \"Democratic Party\" is the most \"pro-war,\" advocating for continued military assistance. ❗️ The view that military support for the Kyiv regime must stop unites voters across different political forces. Even the electorate of Meloni's ruling coalition is no less skeptical than opposition voters. ❗️ So attempts by so-called Ukraine's authorities to show themselves to allies in the best light are already starting to backfire. Each such attack, bringing war closer to Europeans, puts their main advocates at risk. And how Ukrainian baggage increasingly weakens Meloni's position at home is a clear example of this. 📍 High-resolution infographic 📍 English version #Italy #Libya #Russia #Ukraine",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "drone",
-        "kyiv",
-        "strike"
-      ],
-      "possible_duplicate_urls": [
-        "https://t.me/intelslava/98737"
-      ]
-    },
-    {
-      "id": "rian_ru/350609",
+      "id": "rian_ru/350614",
       "channel": "rian_ru",
       "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350609",
-      "published_at": "2026-11-28T13:17:39+00:00",
-      "text": "Защита просит о домашнем аресте для отца умершей девочки из Вологды, сообщил РИА Новости адвокат подозреваемого. Суд арестовал его на два месяца. 🔹 Подписаться / Мы в \"Максе\"",
+      "url": "https://t.me/rian_ru/350614",
+      "published_at": "2026-11-28T15:32:41+00:00",
+      "text": "Во Франции запретили пиротехнику из-за протестов. В стране нельзя будет продавать и использовать такие товары до 27 ноября. Запрет не касается профессиональной пиротехники, но для нее потребуется разрешение. 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199560",
+      "id": "DDGeopolitics/199571",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199560",
-      "published_at": "2026-11-28T13:17:32+00:00",
-      "text": "🇺🇸 🇮🇱 NBC has pulled an ad criticising US military aid to Israel after pro-Israel groups complained about it The 30-second ad, titled \"Every Three Seconds,\" aired during NBC's Thanksgiving \"Saturday Night Live\" special on Wednesday. It shows an American girl spending a year mowing lawns, raking leaves and shovelling snow to save $400 for a bike. It then cuts to a girl in Gaza on crutches, missing a leg, standing in the rubble. \"Every three seconds, our government sends $400 of taxpayer money to Israel to do this,\" the narrator says. Pro-Israel organisations and the ADL's Jonathan Greenblatt attacked the network, calls for a boycott followed, and within two days NBC caved. A source told reporters that senior management \"was not aware\" of the ad before it ran and that NBC will review its approval process \"to ensure appropriate levels of review.\" 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199571",
+      "published_at": "2026-11-28T15:32:05+00:00",
+      "text": "🇺🇦 Geran strike in Dnepropetrovsk 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -349,76 +258,48 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "tass_agency/408059",
-      "channel": "tass_agency",
-      "source": "TASS",
-      "url": "https://t.me/tass_agency/408059",
-      "published_at": "2026-11-28T13:15:18+00:00",
-      "text": "⚖️ В Вологодской области арестовали отца умершей от истощения девочки, сообщает СУ СК по региону. Видео: Официальный канал СК России в \"Максе\"/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "DDGeopolitics/199559",
+      "id": "DDGeopolitics/199570",
       "channel": "DDGeopolitics",
       "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199559",
-      "published_at": "2026-11-28T13:14:39+00:00",
-      "text": "🇺🇦 🇺🇸 Lives in the USA with water, heating and electricity by the way... 🔴 @DDGeopolitics",
+      "url": "https://t.me/DDGeopolitics/199570",
+      "published_at": "2026-11-28T15:24:18+00:00",
+      "text": "✈️ A NATO reconnaissance aircraft spent nearly five hours in the area of the Kaliningrad region, a source in air traffic control services told TASS. 🔴 @DDGeopolitics",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "rian_ru/350608",
-      "channel": "rian_ru",
-      "source": "RIA Novosti",
-      "url": "https://t.me/rian_ru/350608",
-      "published_at": "2026-11-28T13:12:13+00:00",
-      "text": "Пираты захватили торговое судно в Аденском заливе, информирует центр морской безопасности. Экипаж укрылся в убежище. Нападение произошло в 222 км к северо-западу от города Босасо в Сомали. Ранее также сообщалось о захвате судна у берегов Йемена. 🔹 Подписаться / Мы в \"Максе\"",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "mod_russia_en/30831",
+      "id": "mod_russia_en/30834",
       "channel": "mod_russia_en",
       "source": "Russian Ministry of Defence (English)",
-      "url": "https://t.me/mod_russia_en/30831",
-      "published_at": "2026-11-28T13:11:34+00:00",
-      "text": "Fighters of 45th Brigade confidently follow the motto 'The strongest wins!' — Andrei Belousov 🤝 Russian Defence Minister Andrei Belousov presented the Order of Suvorov to the 45th Guards Separate Special Operations Brigade of the Airborne Troops during a working visit to the Moscow Military District. ▫️ The head of the Russian military department noted that awarding of the order is a well-deserved recognition of the Brigade's heroic path and confirmation of the high professionalism and courage of the formation's personnel , as well as acclaim of its weighty contribution to ensuring Russia's security and national interests. 'Today, servicemen of the brigade are successfully carrying out important tasks during the special military operation. They consistently demonstrate excellent training and strength of spirit. They confidently follow the motto 'The strongest wins!'. I am convinced that the 45th Brigade will continue to serve as a model of military valour, selflessness and courage,' Andrei Belousov noted. ▫️ At the end of the ceremony, the Russian Defence Minister presented state awards to distinguished servicemen for exemplary performance of military duty, professionalism and bravery. Over its more than 30-year history, servicemen of the brigade have carried out peacekeeping tasks in zones of inter-ethnic conflict in Transnistria, North Ossetia and Abkhazia, took part in eliminating illegal armed formations on the territory of the Chechen Republic, in the counter-terrorism operation in the North Caucasus, took part in the operation to compel Georgia to peace, ensured the safety of citizens on the territory of the Kyrgyz Republic, and carried out special tasks in the Syrian Arab Republic. From the first days of the special military operation, servicemen of the brigade have been operating on the most difficult and important directions. 🔹 Russian Defence Ministry",
+      "url": "https://t.me/mod_russia_en/30834",
+      "published_at": "2026-11-28T15:23:02+00:00",
+      "text": "Have you ever been in an operating theatre right on the front line ❓ ▶️ Forward medical group commander with the call sign 'Sibay' gave an inside tour of the facility where medics of the 341st Separate Medical Battalion save wounded soldiers in Dnepropetrovsk direction. 🩺 Inside, everything is within arm's reach – from portable ventilators to blood stocks, because when dealing with battle wounds, every second counts. 'Sibay' explained how his unit's work is organised . 🔹 Russian Defence Ministry",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "moscow"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "intelslava/98730",
-      "channel": "intelslava",
-      "source": "Intel Slava",
-      "url": "https://t.me/intelslava/98730",
-      "published_at": "2026-11-28T13:08:31+00:00",
-      "text": "🇱🇾 ❌ 🇺🇦 — Libya intends to seek compensation from Ukraine over the attack on the port of Benghazi, Foreign Minister Abdulhadi al-Hwaij said. Any compensation claim, in accordance with international law and the principles of legal liability, must cover both human and material losses. @IntelSlava",
+      "id": "dva_majors/102668",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102668",
+      "published_at": "2026-11-28T15:22:02+00:00",
+      "text": "🇨🇿 Чехия законопроект: работоспособных украинцев которые получают помощь обяжут официально работать, вести бизнес или находится на учете в службе занятости. Кроме того, для получения выплат будет необходимо находится в Чехии не меньше 16 дней в месяц - а за пребывание вне шенгенской зоны больше 30 дней предлагается отзывать временную защиту. ❗️ Министр внутренних дел Чехии Любомир Метнар пояснил, что изменения должны предотвратить злоупотребления. По его словам, госорганы сталкивались с так называемым \"социальным туризмом\", когда иностранцы претендовали на выплаты, фактически не проживая в стране. Два майора",
       "text_truncated": false,
       "related_urls": [],
-      "event_signals": [
-        "strike"
-      ],
+      "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199558",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199558",
-      "published_at": "2026-11-28T13:06:03+00:00",
-      "text": "🇺🇸 🇬🇧 Honestly, we deserve a better psyop than this... According to the Financial Times, US forces drove off \"around six\" drones over RAF Lakenheath in England on November 13. Not a single drone was recovered, so nobody knows what they carried, who sent them, or whether they were armed. Nothing was hit, and no one was hurt. But anonymous \"people familiar with the matter\" already know who did it: Iran, of course. At least put some effort in next time. 🔴 @DDGeopolitics",
+      "id": "boris_rozhin/235021",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235021",
+      "published_at": "2026-11-28T15:17:45+00:00",
+      "text": "Последствия прилета БПЛА в частный жилой дом в Червоногвардейском районе Макеевки сегодня ночью, в результате которого погибла семья из 4 человек, в том числе 2 детей. @WarInMyEyes",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -427,12 +308,38 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "AussieCossack/53607",
-      "channel": "AussieCossack",
-      "source": "Aussie Cossack",
-      "url": "https://t.me/AussieCossack/53607",
-      "published_at": "2026-11-28T13:05:40+00:00",
-      "text": "❗️ German police have, for reasons that are currently unknown, increased security at Wingcopter, a drone manufacturer based in Weiterstadt, according to the newspaper Bild. The publication recalled that Wingcopter, together with its Ukrainian partner, the company Shadow Flytech, had previously established a joint venture to produce reconnaissance drones for Kiev. @AussieCossack",
+      "id": "tass_agency/408065",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408065",
+      "published_at": "2026-11-28T15:11:01+00:00",
+      "text": "✈️ Самолет-разведчик НАТО почти пять часов провел в районе Калининградской области, сообщил ТАСС источник в авиадиспетчерских службах. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117607",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117607",
+      "published_at": "2026-11-28T15:10:25+00:00",
+      "text": "Очередные кадры ударов \"Геранями\" по железнодорожному подвижному составу на Украине. Поражены два локомотива районе Днепропетровска, по одному – в районе Кривого Рога, Богдановки и Першотравенска в Днепропетровской области. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102666",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102666",
+      "published_at": "2026-11-28T15:09:08+00:00",
+      "text": "Киев На первом видео - пожар на парковке от работы украинского ПВО: упала \"Герань\" На втором - прилет реактивного русского дрона. Два майора",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
@@ -442,70 +349,30 @@
       "possible_duplicate_urls": []
     },
     {
-      "id": "DDGeopolitics/199548",
-      "channel": "DDGeopolitics",
-      "source": "DD Geopolitics",
-      "url": "https://t.me/DDGeopolitics/199548",
-      "published_at": "2026-11-28T13:03:56+00:00",
-      "text": "🐾 Frontline cats 🔗 Source: Two Majors 🇷🇺 Subscribe | Feedback | X | TikTok",
+      "id": "rian_ru/350613",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350613",
+      "published_at": "2026-11-28T15:05:49+00:00",
+      "text": "Умер писатель Александр Каневский, брат актера Леонида Каневского. Он писал тексты для знаменитого в СССР дуэта Юрия Тимошенко и Ефима Березина (Тарапунька и Штепсель) и был автором сценариев известного \"Кабачка \"13 стульев\". 🔹 Подписаться / Мы в \"Максе\"",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [],
       "possible_duplicate_urls": []
     },
     {
-      "id": "boris_rozhin/235011",
+      "id": "boris_rozhin/235020",
       "channel": "boris_rozhin",
       "source": "Colonelcassad",
-      "url": "https://t.me/boris_rozhin/235011",
-      "published_at": "2026-11-28T13:03:01+00:00",
-      "text": "В России с марта 2027 года введут регистрацию всех смартфонов по IMEI Владельцы мобильных телефонов обяжут регистрировать устройства в единой базе. По словам властей, это поможет бороться с телефонным и интернет-мошенничеством . Система начнёт работать с 1 марта 2027 года. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "wargonzo/38680",
-      "channel": "WarGonzo",
-      "source": "WarGonzo",
-      "url": "https://t.me/wargonzo/38680",
-      "published_at": "2026-11-28T13:02:01+00:00",
-      "text": "«Юноша и смерть» — нацболы рядом с войной и на войне Сегодня наши друзья-лимоновцы празднуют день рождения газеты «Лимонка» – надо сказать, уникального СМИ, созданного в 1994 году писателем и политиком Эдуардом Лимоновым. В дальнейшем вокруг газеты образовалось целое молодежно-политическое движение, которое мы знаем как нацболы. В 2014 году они стали единственной молодёжной организацией, которая отправляла своих членов воевать за Россию на Донбасс. Конечно, и в 2022 году лимоновцы не остались в стороне . Фильм Ксении Афанасьевой «Юноша и смерть» о воюющих нацболах снимался в 2023-2024-х годах в Питере и Донецке. Предоставляем слово автору: «У меня была задача снять не репортажное, не журналисткое, не остросоциальное художественное кино. Просто про человека. Получилась история про Витю Зайцева. Сначала он относится к войне как к компьютерной игре, какой-то декорации для своей биографии. Но уже \"на земле\" герой постепенно взрослеет и его мальчишеские убеждения сменяются настоящими. У Вити был шанс повзрослеть. Но часть его товарищей остались навсегда мечтательными авантюристами, отдавшими жизнь стране. Про съемки: Когда Витя собрался на войну, я поехала «провожать» его в Донецк. Думала, что можно будет приехать в зону СВО на месяц, быстренько снять кино про войну и уехать. Естественно, за месяц я успела только почувствовать себя дурой. У Вити тоже не ладилось, он на какое-то время вернулся домой. Я решила остаться. Оказалось, что на «бункере» (ПВД лимоновцев в Донецке) происходит постоянное завихрение из людей, и \"прикрепиться\" за кем-то невозможно. Ротации, увалы, бз, волонтерские командировки происходили в хаотичном порядке. Я могла только наблюдать разговоры под пиво, бытовые дела и тяжелый рутинный волонтерский труд. Изредка снимала краткие поездки с гуманитаркой ближе к лбс. Поначалу даже это сильно волновало, но стало понятно, что в кадре сумятица и чехарда из лиц. Представления, что мне самой можно подписать контракт и топить за героями до передовой, у меня не было. (И слава Богу, я бы ментально не вывезла). Поэтому в статусе туристки-группиз я рвала их жизнь по кусочкам, где могла. Потом пришло решение проблемы самым очевидным путем: выдача гоупрошек пацанам. Ещё я записывала небольшие интервью с бойцами. Была надежда, что получится собрать все яркие куски как пазл. Но в монтаже без жесткой драматургии все моменты тускнели и превращались в пестрый мусор. Нанизывать это все на личную задушевную эссеистику вообще не хотелось. В итоге, подходящий движовый материал отдал только Витя.» Смотрим! 👉🏻 Смотреть на RUTUBE 👉🏻 Смотреть в ВК 👉🏻 Смотреть на ДЗЕН @wargonzo",
+      "url": "https://t.me/boris_rozhin/235020",
+      "published_at": "2026-11-28T15:03:01+00:00",
+      "text": "В Кременчуге Полтавской области БПЛА Герань нанесли удар по частному предприятию, задействованному в интересах ВСУ.",
       "text_truncated": false,
       "related_urls": [],
       "event_signals": [
-        "donetsk"
-      ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "MFARussia/33711",
-      "channel": "MFARussia",
-      "source": "Russian Ministry of Foreign Affairs",
-      "url": "https://t.me/MFARussia/33711",
-      "published_at": "2026-11-28T13:00:01+00:00",
-      "text": "#WeWereAllies 📅 On November 28, 1943, against the backdrop of the turning tide in #WW2 , the #TehranConference opened — the first Summit of the Leaders of the USSR, the United States and the UK — Joseph Stalin, Franklin Delano Roosevelt and Winston Churchill. During those four historic days, at the Soviet Embassy in Tehran, the Heads of Government of the Allied Powers, united by the common goal — to crush Nazi Germany — gathered to discuss the foundations of the future, post-war world order, as well as ways to coordinate efforts in order to achieve Victory as soon as possible. 💬 US President Franklin D. Roosevelt , at the opening of the Tehran Conference (November 28, 1943) : We have gathered here with one purpose — to win the war <...>. *** The rapid advance of Soviet forces in the summer campaign of 1943 finally convinced the Western leaders that the imminent collapse of the Third Reich was inevitable (the 'axis' powers had lost approximately 1/4 of all their troops and equipment), and underscored the need to coordinate military and political efforts with Moscow. The Red Army's landmark victories at Stalingrad and in the Battle of Kursk, as well as in the battles for the Caucasus and the liberation of Soviet Ukraine, created favourable conditions for our country's diplomatic and political triumphs as well. ❗️ The Reich and its 'axis' accomplices lost the strategic initiative on the Eastern Front and exhausted their offensive capabilities. In the summer of 1943, American and UK newspapers published enthusiastic reports on the heroic feats of Soviet soldiers , who were liberating their #Motherland and driving the Nazis back towards the state border. There was no longer any doubt anywhere in the world as to who was winning the war: it was the Soviet Union which, effectively alone, had inflicted colossal and irreparable losses on the Nazi war machine , forcing Hitler's troops, for the first time throughout the War, to stop the offensive and go over to deep defence. ☝️ The treacherous attack on our Motherland resulted in the Nazi military machine suffering the greatest defeats in Germany's entire history. The collapse of the Third Reich was inevitable; it was just a matter of time. *** The Leaders of the Allied Powers understood that, following Germany's defeat, the victorious nations would have to determine the foundations of the future post-war world order . In order to prevent wars and aggression in Europe, the negotiators proposed establishing an \"international organisation\" tasked with safeguarding peace . This was the first expression of the idea of creating an organisation that would serve as the precursor to the present-day #UnitedNations . The key agreement reached at the Tehran Conference was the decision on the timing of the opening of the Second Front — an operation by US and British forces in northern France. The Allied invasion of Europe was intended to significantly complicate the position of German troops on the Soviet-German front, where the Nazis had concentrated the bulk of their military might. It was agreed that the Red Army would launch an offensive simultaneously with the Allied landings in France, thereby preventing the redeployment of Germans from the Eastern to the Western Front. For its part, the Soviet leadership declared the USSR's readiness to enter the war against Japan following Nazis' defeat (this commitment was reaffirmed in 1945 at the Yalta Conference and further fulfilled by our country). ✍️ The Allies Leaders signed the Declaration of the Three Powers — a landmark document of the Tehran Conference which strengthened the unity of the anti-Hitler coalition and its determination to fight the common enemy through joint efforts: We came here with hope. We leave here, friends in fact, in spirit and in purpose. <...> No power on earth can prevent our destroying the German armies by land, their U-boats by sea, and their war plants from the air. Our attack will be relentless and increasing. #HistoryOfDiplomacy #Victory81",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [
-        "kursk",
-        "moscow",
-        "negotiation",
+        "drone",
         "strike"
       ],
-      "possible_duplicate_urls": []
-    },
-    {
-      "id": "donbassr/117602",
-      "channel": "donbassr",
-      "source": "Donbass Decides (Донбасс решает)",
-      "url": "https://t.me/donbassr/117602",
-      "published_at": "2026-11-28T13:00:01+00:00",
-      "text": "Скончалась мать первого Главы ДНР Александра Захарченко. \"Тамара Федоровна Захарченко ушла из жизни сегодня\", – сообщает ДАН со ссылкой на директора Школы № 4 – Кадетского корпуса имени А.В.Захарченко Оксану Целиковскую. Донбасс решает в MАX",
-      "text_truncated": false,
-      "related_urls": [],
-      "event_signals": [],
       "possible_duplicate_urls": []
     }
   ]
