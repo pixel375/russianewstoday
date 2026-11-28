@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    264
+  ],
+  "published_at_utc": "2026-11-28T16:22:51.455754+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-28T15",
+  "items": [
+    {
+      "item_id": "2026-11-28T15:1",
+      "title": "EU reportedly fails to reach agreement on additional Ukraine financing",
+      "summary": "A Russian commentary report says EU leaders failed to agree on a proposed €45 billion loan for Ukraine for 2027, citing opposition from Hungary, Slovakia and Czechia. Further discussions are reportedly expected on December 17–18.",
+      "post_url": "https://t.me/russianewstodayofficial/264",
+      "category": "other",
+      "hour_id": "2026-11-28T15",
+      "source_handles": [
+        "wargonzo"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T15:2",
+      "title": "Czechia reportedly proposes tighter eligibility rules for Ukrainian refugee assistance",
+      "summary": "Proposed legislation would require employable Ukrainian assistance recipients to work, operate a business or register with employment services. Czech Interior Minister Lubomír Metnar reportedly said the changes were intended to prevent abuse of the benefits system.",
+      "post_url": "https://t.me/russianewstodayofficial/264",
+      "category": "other",
+      "hour_id": "2026-11-28T15",
+      "source_handles": [
+        "dva_majors"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T15:3",
+      "title": "NATO reconnaissance flight reported near Kaliningrad",
+      "summary": "An air traffic control source cited by Russian state media said a NATO reconnaissance aircraft spent nearly five hours near Russia's Kaliningrad region. NATO has not independently confirmed the report in the available material.",
+      "post_url": "https://t.me/russianewstodayofficial/264",
+      "category": "other",
+      "hour_id": "2026-11-28T15",
+      "source_handles": [
+        "ddgeopolitics",
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
