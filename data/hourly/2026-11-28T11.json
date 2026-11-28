@@ -1,0 +1,583 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T11",
+  "generated_at_utc": "2026-11-28T12:09:15.817106+00:00",
+  "window_start_utc": "2026-11-28T11:00:00+00:00",
+  "window_end_utc": "2026-11-28T12:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 10
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 33,
+    "relevant_posts": 15,
+    "editorial_pool_posts": 33,
+    "retained_without_keyword_match": 18,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 33,
+    "candidate_posts": 33
+  },
+  "posts": [
+    {
+      "id": "intelslava/98726",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98726",
+      "published_at": "2026-11-28T11:59:31+00:00",
+      "text": "🇺🇦 ⚡️ — The Ukrainian Parliament has stated that the country needs another wave of mobilization. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102662",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102662",
+      "published_at": "2026-11-28T11:59:02+00:00",
+      "text": "Bloomberg: «Мелони злится на Зеленского за то, что он не предупредил её об ударе по Ливии» 🇮🇹 Мелони и 🐽 Зеленский провели «напряжённый» телефонный разговор из-за того, что Украина якобы не скоординировала действия с союзниками и не дала никакого предварительного предупреждения об ударах по российским кораблям у побережья Ливии. Теперь украинская атака якобы охладила когда-то тёплые отношения между Украиной и Италией. ✨ Да да да, так мы и поверили . Украина – это не государство, а инструмент разведывтельно-подрывных акций различных сил в 🇪🇺 Европе и 🇺🇸 США, который применяется исключительно по их команде, их разведданными и средствами диверсии и террора . Может конкретно Мелони и была не в курсе , но её дружки из НАТО и ЕС точно принимали непосредственное участие как в атаке в Ливии, так и в других ДТА против России. Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199540",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199540",
+      "published_at": "2026-11-28T11:58:27+00:00",
+      "text": "🇺🇦 Kremenchug has been under drone attack for a second day in a row. Smoke is rising over the city. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53606",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53606",
+      "published_at": "2026-11-28T11:56:57+00:00",
+      "text": "❗️ Albanese says his thoughts are with defeated Labor Premier Ben Carroll tonight. Albanese abandoned Ben Carroll and Victorian Labor this state election. Zero campaigning, zero association and zero support. Albo knows Labor is doomed. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199539",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199539",
+      "published_at": "2026-11-28T11:51:33+00:00",
+      "text": "🇺🇦 🇮🇱 The Kiev Regime used an Israeli alternative to Starlink in its attacks on the Crimean Bridge, the Wall Street Journal reports According to the WSJ's sources, some of the munitions used against the bridge carried a system from HiSKY, an Israeli satellite communications company. Some AFU units have turned to it as Starlink keeps capping speeds. Unlike Starlink, HiSKY also works over Russian territory. One source told the paper that Ukrainian drone operators have used it to hunt for Russian ballistic missile launchers. The WSJ says HiSKY is harder to operate than Starlink and needs dedicated specialists on each mission, so for now it's kept for the most important operations rather than daily use. HiSKY declined to comment. HiSKY doesn't own any satellites. It makes its own Smartellite terminals and runs its network on capacity rented from major satellite operators. That makes it slow, but it's enough for coordinates, control commands and telemetry, including for drones. The company was co-founded by Israeli CEO Shahar Kravitz. Its shareholders include: 🔸️ ST Engineering, Singapore's defence and engineering conglomerate, through its venture arm 🔸️ The Strategic Development Fund (SDF), owned by the UAE's state-controlled arms maker EDGE Group 🔸️ Reuben Brothers, the investment firm of British billionaires David and Simon Reuben 🔸️ US satellite operator Intelsat Ukraine is reportedly preparing more strikes to destroy what remains of the Crimean Bridge, The Telegraph reports. \"The president wants it demolished completely,\" one source said. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117598",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117598",
+      "published_at": "2026-11-28T11:48:01+00:00",
+      "text": "Украинский беспилотник выбрал своей целью жилой дом в Пролетарском районе Донецка. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235005",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235005",
+      "published_at": "2026-11-28T11:45:04+00:00",
+      "text": "Украина потеряла $2,85 млрд за три месяца из-за простоя морских портов C августа по октябрь этого года, по данным местной таможни, морские поставки из страны рухнули почти втрое — с $4,39 млрд до $1,54 млрд по сравнению с тем же периодом 2025 года. Судовладельцы прекратили рейсы в украинские морские гавани ещё в конце июля после ударов ВС РФ по припортовой инфраструктуре. Перенаправить грузы через Дунай и другие маршруты в полном объёме не вышло. В Минобороны РФ неоднократно подчёркивали, что эти атаки российских военных стали ответом на попытки Киева бить по НПЗ в РФ и мирным судам в Чёрном море, пишет «Спутник Ближнее зарубежье». 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199538",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199538",
+      "published_at": "2026-11-28T11:40:31+00:00",
+      "text": "🇮🇪 🇺🇦 The Irish Soy Boy seems to be really struggling for content. He’s moved on from Ukrainian propaganda to hate speech, complaining about Russians going on holiday. Given his past associations with the British right wing in the past, he’s actually got quite a bit of experience in that department. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53605",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53605",
+      "published_at": "2026-11-28T11:39:40+00:00",
+      "text": "❗️ Victorian state election update: One Nation took about 23.5% of first-preference votes on early counts, second only to the Coalition but Victoria’s lower house is decided seat by seat with full preferential voting, and in close contests the preferences of other parties’ voters have mostly been flowing to the Liberals and Nationals, not to One Nation. By 9:58pm, with 26.7% of the vote counted, the ABC results page showed One Nation with no lower house seats won and ahead in only two, Lara and Yan Yean. Victorian One Nation party leader Warren Pickering has also lost the seat of Pakenham to the Liberals. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36065",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36065",
+      "published_at": "2026-11-28T11:37:43+00:00",
+      "text": "Fwd from @ 📝 Trading Between Two Fires 📝 US tariffs put Asian countries before a difficult choice Global trade is increasingly fragmenting into separate directions. However, for Asian countries, attempting to follow this trend could result in serious economic losses. US authorities plan to introduce new tariffs on major trading partners, most of which are located in Asia. Washington accuses them of excess industrial capacity, but promises to reduce tariffs for those who strike a deal. 📌 However, American demands affect not only trade conditions, but also the economic relations of Asian states with China . US authorities are pushing for a reduction in dependence on Chinese components, equipment, and investments. Meanwhile, China remains the largest trading partner for countries in the region, and breaking established production ties will damage their own economies. As a result, governments face a difficult choice: give in to US demands or risk relations with China. Moreover, even concluding a deal with the Trump administration does not guarantee protection from new tariffs. Australia serves as an example—its existing free trade agreement with the US did not shield it from American tariffs. ❗️ Ultimately, new tariffs become for Asian countries not just a trade problem, but an instrument of American pressure aimed at revising their economic ties with China. However, the deep interdependence of regional economies severely limits the possibilities for such a shift, forcing governments to seek compromises. #ASEAN #China #USA 🏮 @rybar_pacific — your ticket to Pacific chaos 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235001",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235001",
+      "published_at": "2026-11-28T11:33:01+00:00",
+      "text": "Китайская робособака выдержала 1000°C Китайские инженеры из Сучжоуского НИИ при Харбинском политехническом университете и компании Sichuan Longjia Aerospace Materials Technology создали термозащитный костюм для четырёхногих роботов, который позволяет им работать в открытом пламени. На пожарной станции в Сучжоу 25 ноября прошли испытания. Робопес в костюме толщиной 5–6 мм и весом 4–5 кг непрерывно действовал в зоне огня 10 минут. Вёл разведку, искал очаги и условных пострадавших, передавал видео и координаты. После выхода из огня платформа сохранила полную подвижность. Защита сделана из многослойных композитов, применяемых в китайской космической отрасли. Разработчики утверждают, что технологии были адаптированы из системы теплозащиты ракеты-носителя «Чанчжэн-5» . Защитная оболочка отражает тепловое излучение, поглощает часть энергии и изолирует внутренние компоненты, удерживая температуру электроники ниже 80°C , аккумулятора — около 50°C , а приводов суставов — около 70°C . Для работы в густом дыму робот оснащён лазерной системой визуализации, связкой 5G и резервного канала, тепловизором и ИИ для автоматического обнаружения людей и очагов возгорания. Управление и передача изображений высокой четкости стабильно обеспечивается в зданиях высотой 30 этажей . Разработка предназначена прежде всего для пожарных и спасателей. Но та же технология открывает применение на химических и металлургических объектах, АЭС, при ликвидации техногенных катастроф, а также в военной разведке в зонах пожаров и применения зажигательного оружия. Таким образом, Китай переносит аэрокосмические теплозащитные решения на наземных роботов для работы в наиболее опасных условиях, снижая риск для личного состава и повышая эффективность спасательных и специальных операций. @china3army",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199537",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199537",
+      "published_at": "2026-11-28T11:32:14+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Zelensky demands the complete destruction of the Crimean Bridge — The Telegraph Zelensky has expressed a desire to completely destroy the Crimean Bridge, The Telegraph reports, citing sources within military circles. According to the publication, preparations for a large-scale operation began as early as the start of the summer. Ukrainian units studied the bridge’s defensive systems, including the positioning of air defense assets, radar stations, and electronic warfare complexes. The operation, which consisted of seven stages, involved 11 types of weaponry, including drones as well as Neptune and Flamingo missiles. The Telegraph claims that the strike resulted in the collapse of a central span of the bridge’s roadway. At the same time, the publication notes that rail traffic remains intact, and some freight transport has been rerouted via a land corridor passing through the Rostov, Zaporozhye, and Kherson regions. Even experts consulted by the newspaper acknowledge that the reported damage does not cause a complete halt to Russian military logistics. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/intelslava/98722"
+      ]
+    },
+    {
+      "id": "DDGeopolitics/199536",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199536",
+      "published_at": "2026-11-28T11:29:51+00:00",
+      "text": "🇺🇦 🇪🇺 European values on show on a dash camera. An extraordinary video showing Ukrainian TCC conscription officers chasing a man driving a fourth-generation Zhiguli. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350606",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350606",
+      "published_at": "2026-11-28T11:29:34+00:00",
+      "text": "Более 200 тысяч обращений от россиян уже поступило на прямую линию с Путиным, следует из данных \"Гигачата\". 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117597",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117597",
+      "published_at": "2026-11-28T11:27:01+00:00",
+      "text": "Системами ПВО и силами мобильных огневых групп над территорией ЛНР уничтожено порядка 80 воздушных целей за минувшие сутки, – сообщил глава республики Леонид Пасечник. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199535",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199535",
+      "published_at": "2026-11-28T11:20:33+00:00",
+      "text": "🇮🇹 🇺🇦 Meloni warns Zelensky that Ukrainian strikes on Russian ships in Libya could make it harder for Italy to continue providing aid to Ukraine. According to Italian newspaper La Repubblica, during a phone conversation with Zelensky, Prime Minister Giorgia Meloni expressed concern over the attacks on Russian vessels in Benghazi, saying they were effectively “setting a trap” for her. Meloni reportedly pointed out that opposition to further military and financial assistance for Ukraine is already growing within the Italian parliament. Bloomberg also reported that the strikes had caused significant irritation in Rome. Following their latest phone call, Zelensky acknowledged that the operation had been carried out without prior coordination with European partners and promised better communication in future. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30830",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30830",
+      "published_at": "2026-11-28T11:20:25+00:00",
+      "text": "No-fly weather for the AFU 💥 The Tsentr Group's FPV interceptor teams of the Pskov-based Guards Airborne formation destroyed four Hornet strike UAVs and a Rubaka drone in Dnepropetrovsk direction. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98725",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98725",
+      "published_at": "2026-11-28T11:19:38+00:00",
+      "text": "⚡ 🇺🇸 Former US President Joe Biden’s memoirs, Promise Me, America, saw extremely low sales figures in the first week following their release, the New York Post reported. The book went on sale on November 17, with only 21,000 copies sold over the first seven days. By comparison, in 2020, the memoirs of former President Barack Obama, A Promised Land, sold one million copies in their first week of release. \"Honestly, who cares about Joe Biden?\" the publication quoted a former Biden aide as saying. According to the newspaper, the former president received a $10 million advance for his memoirs. @MedmanNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199534",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199534",
+      "published_at": "2026-11-28T11:18:43+00:00",
+      "text": "🇺🇦 A major fire has broken out in Bila Tserkva, south of Kiev, following a reported strike. Local social media groups report that thick smoke has spread across the sky above the city. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98724",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98724",
+      "published_at": "2026-11-28T11:17:46+00:00",
+      "text": "🇨🇦 🇷🇺 🇵🇱 ⚡️ — Canada's Foreign Ministry (!) summoned the Russian ambassador in Ottawa over missile debris on Polish territory The ministry cited the risk of unintended escalation and expressed solidarity with NATO allies, emphasizing its commitment to protecting…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199533",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199533",
+      "published_at": "2026-11-28T11:17:18+00:00",
+      "text": "🇩🇪 A drone sighting brought operations at Cologne/Bonn Airport in Germany to a standstill for approximately 2.5 hours. According to broadcaster WDR, several flights were delayed and one was cancelled as a result of the disruption. The identity of the drone’s operator and the purpose of its presence in the area remain unknown. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98723",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98723",
+      "published_at": "2026-11-28T11:16:16+00:00",
+      "text": "🇩🇪 ⚡ Cologne Bonn Airport in Germany suspended flight operations for two and a half hours after an unidentified drone was detected, the DPA news agency reported, citing an airport spokesperson. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199532",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199532",
+      "published_at": "2026-11-28T11:15:44+00:00",
+      "text": "🇩🇪 Germany has tightened security around a facility producing UAVs for Ukraine. According to Bild, up to 15 police vehicles were deployed around the Wingcopter factory, while searchlights illuminated the surrounding area. Just days earlier, Germany allocated approximately €34 million (3.06 billion rubles) to establish additional production capacity for UAV manufacturing. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98722",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98722",
+      "published_at": "2026-11-28T11:15:36+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡ The Ukrainian armed forces used a UAV to attack a staff vehicle of the Vasilyevka Central District Hospital in the Zaporozhye Region, killing a nurse and a driver and injuring two other people, including the hospital’s chief physician, Nikolay Lysenko, the regional Health Ministry reported on its Telegram channel. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199537"
+      ]
+    },
+    {
+      "id": "boris_rozhin/235000",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235000",
+      "published_at": "2026-11-28T11:15:02+00:00",
+      "text": "В ЛНР задержали жителя Свердловского района, передававшего СБУ данные для нанесения удара по российским военным. Мужчина также передавал на Украину видео, имитирующее поддержку местными киевского режима, сообщили в УФСБ по региону. Видео: УФСБ России по ЛНР/ ТАСС",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117596",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117596",
+      "published_at": "2026-11-28T11:12:01+00:00",
+      "text": "С начала года уже более 115 санитарных медицинских автомобилей атаковано украинскими боевиками, что является значимым нарушением норм и принципов международного гуманитарного права , – заявил посол по особым поручениям МИД РФ Родион Мирошник. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199530",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199530",
+      "published_at": "2026-11-28T11:10:03+00:00",
+      "text": "🇺🇦 Residents of Yantarnaya Street in Dnepropetrovsk have blocked the road in protest against prolonged power outages, local media report. According to residents, half of the apartments in one residential building have been without electricity for six consecutive days . 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98720",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98720",
+      "published_at": "2026-11-28T11:09:53+00:00",
+      "text": "🇺🇦 🇷🇺 ⚡ In Bryansk region, 9 people were injured after a UAV attack on a Miratorg company bus. According to Governor Egor Kovalchuk, the attack occurred near the settlement of Klimovo. Nine people were injured, including six company employees and local residents; they were taken to hospital with shrapnel wounds. In addition, Kovalchuk said, a drone struck an enterprise in Starodub, where a 34-year-old man was wounded. In total, 506 drones were destroyed over Bryansk region in the past day. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36064",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36064",
+      "published_at": "2026-11-28T11:05:33+00:00",
+      "text": "📝 SPUTNIK AFRICA 📝 Ever wonder what you’re not being told? Sputnik Africa brings you unfiltered stories from the continent — and the world — that mainstream media won’t show. Subscribe to be aware of the latest insights: https://t.me/+k2iQAblS5no1MzUy @sputnik_africa — Africa’s story, untold. #add #Africa #Sputnik #Geopolitics #News #CounterInformation #Algorithms",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234999",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234999",
+      "published_at": "2026-11-28T11:03:01+00:00",
+      "text": "КСИР Ирана опубликовал видеозаписи взрывов еще двух нефтяных танкеров пытавшихся нарушить установленный Ираном режим прохода к востоку от Ормузского пролива. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350605",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350605",
+      "published_at": "2026-11-28T11:02:50+00:00",
+      "text": "Родители умышленно не кормили девочку, умершую от истощения в Вологде, заявили в пресс-службе судов. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78326",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78326",
+      "published_at": "2026-11-28T11:01:09+00:00",
+      "text": "Сегодня утром БпЛА ВС РФ ударили по объекту энергетики в Одесской области, из-за чего без света остались более 6000 потребителей. Всё утром разбирали завалы и ремонтировали. Ничего, к завершению ремонта ожидаются новые гостинцы. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "wargonzo/38678",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38678",
+      "published_at": "2026-11-28T11:01:02+00:00",
+      "text": "Италия не оценила украинский террор в Средиземном море Украинская операция в Ливии вызвала серьёзное раздражение в Риме. По данным Bloomberg, Джорджа Мелони провела напряжённый телефонный разговор с Владимиром Зеленским, выразив недовольство тем, что Киев не предупредил союзников о подготовке атак на российские суда и корабль у берегов Ливии. Итальянская сторона заявила, что операция нарушила суверенитет Ливии и создала угрозу распространения войны на Средиземное море. По сведениям источника Bloomberg, знакомого с содержанием разговора, произошедшее привело к охлаждению ранее тёплых отношений между Римом и Киевом. Зеленский впоследствии признал, что операция не была предварительно согласована с европейскими партнёрами, и пообещал наладить обмен информацией. Мелони, в свою очередь, подчеркнула, что Италия продолжит поддерживать Украину, однако не намерена мириться с действиями, которые ставят под угрозу безопасность страны и региона. 👉🏻 Присоединяйтесь к WarGonzo в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
