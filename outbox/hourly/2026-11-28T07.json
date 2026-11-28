@@ -1,0 +1,29 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-28T07",
+  "snapshot_generated_at_utc": "2026-11-28T08:09:29.044377+00:00",
+  "items": [
+    {
+      "title": "Emergency electricity outages reported across parts of Kyiv region",
+      "summary": "Ukrainian energy company DTEK reported emergency power outages affecting parts of the Bucha, Fastiv and Obukhiv districts. Separately, local authorities reportedly confirmed a fire at a garage complex in Bila Tserkva.",
+      "source_urls": [
+        "https://t.me/DDGeopolitics/199528",
+        "https://t.me/boris_rozhin/234980"
+      ]
+    },
+    {
+      "title": "Moscow rejects allegations of violating NATO airspace",
+      "summary": "Russia's ambassador to Canada, Oleg Stepanov, rejected allegations that Russia had violated the airspace of NATO member states. The denial represents Moscow's position and does not independently establish the circumstances of the reported incidents.",
+      "source_urls": [
+        "https://t.me/tass_agency/408036"
+      ]
+    },
+    {
+      "title": "Russian diplomat accuses Kyiv of escalating tensions around peace efforts",
+      "summary": "Russian Foreign Ministry ambassador-at-large Rodion Miroshnik alleged that Ukrainian authorities deliberately escalate tensions when diplomatic progress appears possible. His allegation was not independently substantiated in the report.",
+      "source_urls": [
+        "https://t.me/donbassr/117582"
+      ]
+    }
+  ]
+}
