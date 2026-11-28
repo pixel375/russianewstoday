@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    257
+  ],
+  "published_at_utc": "2026-11-28T08:25:18.353507+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-28T07",
+  "items": [
+    {
+      "item_id": "2026-11-28T07:1",
+      "title": "Emergency electricity outages reported across parts of Kyiv region",
+      "summary": "Ukrainian energy company DTEK reported emergency power outages affecting parts of the Bucha, Fastiv and Obukhiv districts. Separately, local authorities reportedly confirmed a fire at a garage complex in Bila Tserkva.",
+      "post_url": "https://t.me/russianewstodayofficial/257",
+      "category": "other",
+      "hour_id": "2026-11-28T07",
+      "source_handles": [
+        "boris_rozhin",
+        "ddgeopolitics"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T07:2",
+      "title": "Moscow rejects allegations of violating NATO airspace",
+      "summary": "Russia's ambassador to Canada, Oleg Stepanov, rejected allegations that Russia had violated the airspace of NATO member states. The denial represents Moscow's position and does not independently establish the circumstances of the reported incidents.",
+      "post_url": "https://t.me/russianewstodayofficial/257",
+      "category": "other",
+      "hour_id": "2026-11-28T07",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T07:3",
+      "title": "Russian diplomat accuses Kyiv of escalating tensions around peace efforts",
+      "summary": "Russian Foreign Ministry ambassador-at-large Rodion Miroshnik alleged that Ukrainian authorities deliberately escalate tensions when diplomatic progress appears possible. His allegation was not independently substantiated in the report.",
+      "post_url": "https://t.me/russianewstodayofficial/257",
+      "category": "other",
+      "hour_id": "2026-11-28T07",
+      "source_handles": [
+        "donbassr"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
