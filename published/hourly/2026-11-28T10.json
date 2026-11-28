@@ -1,0 +1,46 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    260
+  ],
+  "published_at_utc": "2026-11-28T11:28:51.765523+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-28T10",
+  "items": [
+    {
+      "item_id": "2026-11-28T10:1",
+      "title": "Libyan foreign minister reportedly seeks compensation from Ukraine",
+      "summary": "Libyan Foreign Minister Abd al-Hadi al-Hweij reportedly said Libya would demand compensation from Ukraine over the reported attack on Benghazi port, including compensation for affected military families and damage to port infrastructure.",
+      "post_url": "https://t.me/russianewstodayofficial/260",
+      "category": "other",
+      "hour_id": "2026-11-28T10",
+      "source_handles": [
+        "aussiecossack",
+        "voenkorkotenok"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T10:2",
+      "title": "Canada reportedly summons Russian ambassador over missile debris in Poland",
+      "summary": "Canada reportedly summoned Russia's ambassador following the discovery of missile debris in Poland. Its foreign ministry expressed solidarity with NATO allies, warned of unintended escalation and reaffirmed support for Ukraine.",
+      "post_url": "https://t.me/russianewstodayofficial/260",
+      "category": "other",
+      "hour_id": "2026-11-28T10",
+      "source_handles": [
+        "boris_rozhin"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T10:3",
+      "title": "European satellite manufacturing expansion reported amid push for independent communications",
+      "summary": "A Russian military commentary outlet reported that Aerospacelab opened a satellite manufacturing facility in Belgium supporting the EU's IRIS² secure communications programme. The development comes amid debate over Europe's reliance on external satellite communications providers.",
+      "post_url": "https://t.me/russianewstodayofficial/260",
+      "category": "other",
+      "hour_id": "2026-11-28T10",
+      "source_handles": [
+        "dva_majors"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
