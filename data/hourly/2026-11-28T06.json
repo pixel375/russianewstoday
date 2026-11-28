@@ -1,0 +1,456 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T06",
+  "generated_at_utc": "2026-11-28T07:02:56.386692+00:00",
+  "window_start_utc": "2026-11-28T06:00:00+00:00",
+  "window_end_utc": "2026-11-28T07:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 24,
+    "relevant_posts": 14,
+    "editorial_pool_posts": 24,
+    "retained_without_keyword_match": 10,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 24,
+    "candidate_posts": 24
+  },
+  "posts": [
+    {
+      "id": "intelslava/98710",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98710",
+      "published_at": "2026-11-28T06:54:22+00:00",
+      "text": "🇷🇺 🇰🇵 ⚡️ — Russia and North Korea reaffirm joint projects in energy, trade, and agriculture Russia and North Korea signed a protocol on trade, economic, and scientific-technical cooperation following the 13th meeting of the intergovernmental commission in Pyongyang. The areas of joint cooperation that were confirmed include energy, trade, agriculture, education, and healthcare. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350595",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350595",
+      "published_at": "2026-11-28T06:52:55+00:00",
+      "text": "Жулики обманывают россиян под видом игры в \"Тайного Санту\". \"Мошенники могут написать пользователю от имени знакомого или коллеги с сообщением вроде \"Смотри, кто-то поделился виш-листом!\" или \"Твой Тайный Санта прислал список желаний\". К сообщению прикреплена ссылка на фишинговую страницу\", - рассказал юрист. Там под предлогом проверки личности у жертвы выманивают личные данные и код из смс, или скачивается вредоносное ПО. Также работают и боты в мессенджерах, якобы помогающие организовать игру. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117581",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117581",
+      "published_at": "2026-11-28T06:47:01+00:00",
+      "text": "Девять мирных жителей ранены в результате атаки украинского беспилотника по служебному автобусу в Брянской области , – сообщили власти региона. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102653",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102653",
+      "published_at": "2026-11-28T06:46:27+00:00",
+      "text": "Николаевское направление Кадры боевой работы операторов дронов 4й военной базы \"Сафрон\" и \"Ряба\" Парни ежедневно уничтожают тяжелые беспилотники, а автомобили и пункты временного размещения украинских боевиков, не давая тем самым им вести подготовку возможной новой десантной операции в сторону наших позиций. Ранее попытку высадить вооруженные НТРК ВСУ провалили, а точнее, при активной помощи 4й военной базы, утопили Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234975",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234975",
+      "published_at": "2026-11-28T06:45:01+00:00",
+      "text": "В течение прошедшей ночи дежурными силами ПВО перехвачены и уничтожены 1 246 украинских беспилотных летательных аппаратов самолетного типа над территориями Брянской, Белгородской, Курской, Орловской, Смоленской, Воронежской, Калужской, Тульской, Ростовской, Волгоградской, Саратовской, Самарской областей, Краснодарского края, Московского региона, республик Крым и Башкортостан.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "kursk"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199527",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199527",
+      "published_at": "2026-11-28T06:42:15+00:00",
+      "text": "🇺🇸 People who still \"trust in Trump\" are beyond help 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234974",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234974",
+      "published_at": "2026-11-28T06:35:03+00:00",
+      "text": "Венгрия не готова поддержать предложение о выделении Украине дополнительных 100 млрд евро в рамках нового семилетнего бюджета ЕС из-за сложной ситуации с собственным бюджетом, — премьер-министр Петер Мадьяр Венгрия, Словакия и Чехия заблокировали утверждение нового кредита Украине на 45 млрд евро. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117580",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117580",
+      "published_at": "2026-11-28T06:32:01+00:00",
+      "text": "1 246 украинских беспилотников сбито над регионами России за прошедшую ночь – такие данные приводит Минобороны РФ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350594",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350594",
+      "published_at": "2026-11-28T06:28:58+00:00",
+      "text": "Девять человек пострадали из-за атаки дрона ВСУ по служебному автобусу компании \"Мираторг\" в Брянской области, сообщил губернатор Ковальчук. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102652",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102652",
+      "published_at": "2026-11-28T06:27:46+00:00",
+      "text": "Брянская область. Губернатор: В п. Климово украинский дрон-камикадзе атаковал служебный автобус компании «Мираторг» Пострадали девять человек, среди них шесть сотрудников компании и местные жители. Они были доставлены в больницу с осколочными ранениями. Всем назначено амбулаторное лечение. В Стародубе беспилотник нанес удар по предприятию. Ранен 34-летний мужчина, медики оказали ему необходимую помощь. ▪️ Всего за прошедшие сутки над территорией Брянской области подразделениями ПВО Министерства обороны РФ, мобильно-огневыми группами бригады «БАРС-Брянск», МОГ Брянского ЛО МВД России на транспорте, спецподразделениями Росгвардии по Брянской области уничтожено 506 вражеских БпЛА самолетного типа. Два майора",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98709",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98709",
+      "published_at": "2026-11-28T06:26:53+00:00",
+      "text": "🇵🇪 ⚡️ — A group of armed robbers stopped a car on a highway near the Peruvian capital, Lima, opened fire on it, and stole several bags of gold from the vehicle, according to the RPP publication. After taking the bags, the criminals fled in their own vehicles. The victims themselves told the police that they were transporting jewelry. The El Comercio publication suggests that the bags contained gold bars. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408035",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408035",
+      "published_at": "2026-11-28T06:26:51+00:00",
+      "text": "🚨 Дрон-камикадзе атаковал служебный автобус компании \"Мираторг\" в Брянской области, пострадали девять человек, сообщает Ковальчук. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234972",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234972",
+      "published_at": "2026-11-28T06:25:03+00:00",
+      "text": "Ночные прилеты Гераней в Кременчуге",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30822",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30822",
+      "published_at": "2026-11-28T06:24:34+00:00",
+      "text": "🧹 Rubikon Centre cleans up: the crews carried out a sweep at the enemy's positions. It's clean now ✨ 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199525",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199525",
+      "published_at": "2026-11-28T06:23:16+00:00",
+      "text": "❔ 🇬🇧 The military was unable to locate the drones that were spotted over the Lakenheath airbase in England on November 13, the FT reports, citing sources. According to the report, \"around six\" drones were observed over the base. They were \"neutralized\" by American anti-drone equipment, but the drones themselves could not be found. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408034",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408034",
+      "published_at": "2026-11-28T06:21:01+00:00",
+      "text": "Неизвестные беспилотники обнаружены над авиабазой США Лейкенхит в Великобритании. Военнослужащим было предписано спрятаться в укрытии, сообщил телеканал Sky News со ссылкой на заявление представителя ВВС Соединенных Штатов.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199524",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199524",
+      "published_at": "2026-11-28T06:19:59+00:00",
+      "text": "🇷🇺 ⚔️ 🇺🇦 Russia has announced overnight strikes on the \"Zarechye\" power substation in Belaya Tserkov, Kiev region. There are also reports of strikes on four railway locomotives in Sinelnikovo (Dnepropetrovsk region), Korosten (Zhitomir region), and Lyubotin (Kharkov region). The video shows the aftermath of the strike in Lyubotin 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234971",
+        "https://t.me/donbassr/117579"
+      ]
+    },
+    {
+      "id": "boris_rozhin/234971",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234971",
+      "published_at": "2026-11-28T06:15:06+00:00",
+      "text": "Сегодня ночью Вооруженными Силами Российской Федерации нанесены удары беспилотными летательными аппаратами по объектам энергетической, топливной и транспортной инфраструктуры, а также морским судам , задействованным в интересах ВСУ. В результате ударов поражены : - электроподстанция «Заречье» 110 кВ в городе Белая Церковь Киевской области, обеспечивающая работу предприятий ВПК Украины; - резервуар с горючим в н.п. Килия Одесской области, в котором хранилось топливо для ВСУ; - четыре железнодорожных локомотива в н.п. Синельниково Днепропетровской области, н.п. Коростень Житомирской области и н.п. Люботин Харьковской области, задействованные для перевозки вооружения и военной техники; - морское судно типа «сухогруз» в акватории Черного моря южнее Одессы, доставлявшее на Украину грузы военного назначения.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kharkiv",
+        "kyiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199524",
+        "https://t.me/donbassr/117579"
+      ]
+    },
+    {
+      "id": "dva_majors/102651",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102651",
+      "published_at": "2026-11-28T06:14:59+00:00",
+      "text": "▶ РЫБАРЬ ПОЯСНЯЕТ: НАМ СНЕСЛИ МОСТ, А МЫ ИМ — НЕТ. ДА КАК ТАК?! В новом выпуске «Рыбарь поясняет» разбираемся, почему уничтожение мостов требует гораздо больше усилий, чем кажется, что мешает российским ракетам гарантированно поражать такие объекты и почему даже массированные удары не всегда позволяют добиться нужного результата. Приятного просмотра! #пояснение #эфиры ✉ MAX 💸 Поддержать нас",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350593",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350593",
+      "published_at": "2026-11-28T06:14:40+00:00",
+      "text": "ПВО отразила одну из крупнейших ночных атак беспилотников в России, подсчитало РИА Новости. По данным Минобороны, были сбиты 1246 БПЛА. Самая массовая ночная атака была отражена 17 ноября - тогда сбили 1441 дрон. Также крупные атаки были в ночи на 16 ноября и на 29 октября (1336 и 1214 БПЛА). 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53598",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53598",
+      "published_at": "2026-11-28T06:14:39+00:00",
+      "text": "❗️ Two employees of Ukrainian military intelligence were arrested in Austria two weeks after their release. They are suspected of espionage, the ORF television and radio company reported. It is noted that the reason for the re-arrest may have been the analysis of the mobile phones and computers seized from them. Evidence of preparations for intelligence operations in the United Kingdom was found on the devices. The goal may have been to transport individuals accused of economic crimes to Ukraine. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117579",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117579",
+      "published_at": "2026-11-28T06:12:01+00:00",
+      "text": "ВС России нанесли удар по электроподстанции «Заречье» под Киевом: она, по данным Минобороны РФ, обеспечивала электроэнергией предприятия украинского ВПК. 💥 Кроме того, в Днепропетровской, Житомирской и Харьковской областях под удар российских сил попали четыре железнодорожных локомотива. 💥 В Одесской области поражен резервуар с горючим, в котором хранилось топливо для ВСУ. 💥 В Черном море южнее Одессы удар пришелся по сухогрузу, который доставлял на Украину грузы военного назначения. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "odesa",
+        "strike"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/DDGeopolitics/199524",
+        "https://t.me/boris_rozhin/234971"
+      ]
+    },
+    {
+      "id": "tass_agency/408033",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408033",
+      "published_at": "2026-11-28T06:03:01+00:00",
+      "text": "Володин рассказал о законах, вступающих в силу в декабре: ▪️ Начнут действовать новые правила оформления патентов и разрешений на работу для мигрантов. Заработает ресурс \"Цифровой профиль иностранного гражданина\"; ▪️ Минюст будет запрашивать сведения по операциям, счетам и вкладам иноагентов в электронной форме. Банки и госорганы должны направлять данные в течение 3 дней; ▪️ Банки и МФО будут обязаны предоставлять в бюро кредитных историй сведения о договорах потребительского займа для предупреждения мошенничества. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234970",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234970",
+      "published_at": "2026-11-28T06:03:01+00:00",
+      "text": "«Спасибо жене за то, что она ждет меня. За то, что воспитывает детей, пока мы защищаем Родину». Трогательный привет супруге шлёт командир орудия самоходной гаубицы «Мста-С» с позывным «Лексус» . Его расчет профессионально уничтожает живую силу, технику и укрепления врага. Сам наш герой награждён медалью «За отвагу» за ликвидацию гаубицы М-777. Главным преимуществом своего орудия он считает точность — расчет поражает цели с первого выстрела. Рассказываем о наших военнослужащих в 📲 MAX , 📱 ВКонтакте и в 📱 Дзен . Подписывайтесь!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
