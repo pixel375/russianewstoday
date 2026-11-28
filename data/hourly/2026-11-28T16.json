@@ -1,0 +1,545 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T16",
+  "generated_at_utc": "2026-11-28T18:01:23.556817+00:00",
+  "window_start_utc": "2026-11-28T16:00:00+00:00",
+  "window_end_utc": "2026-11-28T17:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 2,
+      "raw_count": 9
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 3
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 31,
+    "relevant_posts": 13,
+    "editorial_pool_posts": 31,
+    "retained_without_keyword_match": 18,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 31,
+    "candidate_posts": 31
+  },
+  "posts": [
+    {
+      "id": "tass_agency/408072",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408072",
+      "published_at": "2026-11-28T16:54:01+00:00",
+      "text": "Писториус заявил об опасности распространения украинского конфликта на Балтику. Министр обороны ФРГ после встречи с украинским коллегой Хмарой в Берлине указал на то, что в том числе Киев несет \"особую ответственность\" за то, чтобы этого не произошло.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199587",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199587",
+      "published_at": "2026-11-28T16:53:31+00:00",
+      "text": "🇧🇷 🇺🇦 Brazilian Muay Thai champion killed fighting alongside Ukrainian forces Gustavo Ferro, a 31-year-old Brazilian and three-time Muay Thai champion who travelled to Ukraine to fight alongside the Ukrainian Armed Forces, has reportedly been killed. According to reports citing his relatives, Ferro died on November 26 alongside the rest of his unit following a drone strike. He had arrived in Ukraine in August and was already wounded by shrapnel during a drone attack in September. Despite his earlier injuries, he subsequently returned to the front line. His family is now reportedly facing difficulties in securing the return of his remains to Brazil, with relatives expressing concerns about the Ukrainian military command’s willingness to facilitate the repatriation. Another foreign mercenary whose journey to Ukraine ended in death. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350618",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350618",
+      "published_at": "2026-11-28T16:50:21+00:00",
+      "text": "Три человека погибли при ударе ВСУ по Луганску. Еще трое, среди которых несовершеннолетние, ранены, сообщил Пасечник. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117611",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117611",
+      "published_at": "2026-11-28T16:50:06+00:00",
+      "text": "❗️ Три человека погибли, еще трое ранены, в том числе несовершеннолетние, при ударе ВСУ по Луганску, сообщил Леонид Пасечник. Вражеские БПЛА в разгар субботнего вечера ударили вблизи торгового центра, кафе и пункта выдачи заказов, подчеркнул глава ЛНР. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408071",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408071",
+      "published_at": "2026-11-28T16:49:23+00:00",
+      "text": "🚨 Три человека погибли, еще трое ранены, в их числе подростки, при ударе ВСУ по восточной части Луганска ЛНР, сообщает Пасечник.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408070",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408070",
+      "published_at": "2026-11-28T16:48:40+00:00",
+      "text": "В возрасте 93 лет умер писатель Александр Каневский , брат Леонида Каневского. Об этом сообщил 9-й канал израильского телевидения. Александр Каневский писал сценарии для легендарной телепередачи \"Кабачок \"13 стульев\", был автором текстов для дуэта Юрия Тимошенко и Ефима Березина (Тарапунька и Штепсель).",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235035",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235035",
+      "published_at": "2026-11-28T16:45:09+00:00",
+      "text": "БПЛА атакуют цели в Синельниково Днепропетровской области. Также сообщают о продолжающихся взрывах в Киеве",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98746",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98746",
+      "published_at": "2026-11-28T16:43:33+00:00",
+      "text": "🇷🇺 🇺🇦 ⚡️ — Secondary explosions and a fire at an ammunition depot in the village of Ivanо-Yarizivka, Dnipropetrovsk region, following a strike by a jet-powered Geran drone. @IntelSlava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78345",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78345",
+      "published_at": "2026-11-28T16:42:57+00:00",
+      "text": "Кременчуг Полтавской области — под ударами БпЛА. С утра город слышит взрывы с разной периодичностью. Среди приоритетных целей — объекты логистики, энергетики и транспорта и иногда — СБУ. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199586",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199586",
+      "published_at": "2026-11-28T16:40:36+00:00",
+      "text": "🇷🇺 Winter magic returns to Moscow’s Red Square! With the Kremlin as its backdrop, festive lights illuminating the square and snow adding to the atmosphere, the famous GUM Ice Rink has officially opened for the winter season. Olympic figure skating champion Tatiana Navka joined the celebrations, welcoming visitors and highlighting the unique experience of skating beneath the walls of the Kremlin. The new season will feature both morning and evening skating sessions, with free admission available on selected weekdays. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408069",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408069",
+      "published_at": "2026-11-28T16:39:01+00:00",
+      "text": "⚖️ Суд арестовал экс-замгубернатора ЯНАО Александра Емельянова , сообщили ТАСС правоохранители. Ранее появилась информация о задержании Емельянова по подозрению в превышении должностных полномочий. Подробности дела неизвестны. Емельянов был замгубернатора ЯНАО с сентября 2023 года. В августе 2026 года он покинул должность по собственному желанию. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78344",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78344",
+      "published_at": "2026-11-28T16:38:04+00:00",
+      "text": "The Wall Street Journal со ссылкой на собственные источники пишет, что ВСУ задействовали израильскую систему спутниковой связи HiSKY при атаках на Крымский мост. Такая система действительно существует, но в публичном поле информации о ней почти нет. Компания-производитель традиционно комментариев не дает. И хотя формально речь идет о частной фирме, экспорт любых оборонных технологий, в т.ч. закрытых систем связи, возможен только по согласованию с израильскими властями. Если информация подтвердится, списать произошедшее на то, что в офисе Нетаньяху об этом не знали, уже не получится, и в таком случае это очень серьезный враждебный шаг со стороны Тель-Авива. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "crimea",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30835",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30835",
+      "published_at": "2026-11-28T16:37:18+00:00",
+      "text": "Enemy positions ablaze 🔥 Drone operators of the Yuzhnaya Group of Forces wiped out enemy UAV control posts and a manpower shelter in Slavyansk-Kramatorsk agglomeration. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235034",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235034",
+      "published_at": "2026-11-28T16:33:01+00:00",
+      "text": "Вторичные детонации и пожар на складе боеприпасов в селе Ивано-Яризовка Днепропетровской области после прилета реактивной \"Герани\". 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad Местные сообщают, что в ходе вторичной детонации на объекте уже прозвучали не менее 100 взрывов.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199584",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199584",
+      "published_at": "2026-11-28T16:32:20+00:00",
+      "text": "🇺🇦 A fire and secondary detonation of ammunition began at a Ukrainian Armed Forces warehouse in the village of Ivano-Yaryzovka in the Dnepropetrovsk region after a strike by a Geran. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350617",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350617",
+      "published_at": "2026-11-28T16:30:15+00:00",
+      "text": "Новосибирские спасатели вытащили провалившуюся под лед собаку, сообщает МАСС. Сотрудники службы добрались до места на надувной лодке и достали дворнягу. Очевидец, сообщивший о происшествии, хотел забрать ее к себе, но едва оказавшись на берегу, собака убежала. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199583",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199583",
+      "published_at": "2026-11-28T16:30:04+00:00",
+      "text": "🇺🇦 Narcoführer orders restrictions on reporting the scale of damage to Ukraine’s energy infrastructure Under Decree No. 1151/2026, dated November 28, the Ukrainian government has been instructed to take immediate measures to restrict the publication of information concerning the extent of damage to critical infrastructure, estimated restoration deadlines and the construction of protective structures at energy facilities. The decision was reportedly adopted by Ukraine’s National Security and Defence Council (NSDC) on October 23, but was only brought into force by the Narcoführer on November 28. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408068",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408068",
+      "published_at": "2026-11-28T16:26:02+00:00",
+      "text": "🚨 Двое детей погибли при пожаре в частном доме на Ставрополье, сообщили в прокуратуре региона. Причины произошедшего устанавливаются. Фото: Канал прокуратуры Ставропольского края в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117610",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117610",
+      "published_at": "2026-11-28T16:26:01+00:00",
+      "text": "Трое мирных жителей погибли в результате украинских атак в Курской области в пятницу, сообщил Александр Хинштейн. \"Вчера вечером вражеский дрон ударил вблизи ж/д переезда в деревне Гирьи Беловского района. В результате атаки, к глубокой скорби, погиб 68-летний мужчина. Его тело удалось эвакуировать только сегодня\", – уточнил губернатор региона. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "kursk",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199582",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199582",
+      "published_at": "2026-11-28T16:20:24+00:00",
+      "text": "🇷🇺 In Moscow, a delivery robot politely thanked a man who had cleared the snow from its path, allowing it to continue on its journey. A little courtesy goes a long way, even in the world of robots. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19870",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19870",
+      "published_at": "2026-11-28T16:19:46+00:00",
+      "text": "JUST IN: 🇮🇱 Benjamin Netanyahu agrees to form a unity government with Gadi Eisenkot serving as prime minister first and himself as alternate prime minister. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199581",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199581",
+      "published_at": "2026-11-28T16:16:11+00:00",
+      "text": "🇺🇦 Dnepropetrovsk Oblast 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235030",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235030",
+      "published_at": "2026-11-28T16:15:08+00:00",
+      "text": "Последствия удара в Кременчуге 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199580",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199580",
+      "published_at": "2026-11-28T16:14:30+00:00",
+      "text": "🇺🇦 🇵🇱 Ukrainian caught smuggling nearly eight metres of python skin into Poland Polish customs officers at the Medyka–Shehyni border crossing intercepted a 59-year-old Ukrainian man attempting to smuggle two python skins, measuring 3.6 and 4.6 metres respectively, into Poland. The man had concealed one skin inside his luggage and the other underneath his jacket. However, customs officers detected the unusual cargo using a specialist scanner. Both skins were seized, and the man faces a potential fine of 1,000 Polish zlotys. He could also face up to five years in prison over the attempted smuggling. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350616",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350616",
+      "published_at": "2026-11-28T16:13:20+00:00",
+      "text": "Россияне при покупке смартфона за границей должны будут зарегистрировать его в базе IMEI-номеров. Она заработает с 1 марта 2027 года в рамках закона о новых мерах защиты от телефонных и интернет-мошенников, рассказал РИА Новости Сергей Боярский. IMEI —…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408067",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408067",
+      "published_at": "2026-11-28T16:08:50+00:00",
+      "text": "▶️ 74 человека задержаны после драки на футбольном матче \"Торпедо\" — \"СКА-Хабаровск\" в Москве. Проводится проверка, сообщили ТАСС в МВД. Среди зрителей началась потасовка, которая переросла в драку, предварительно, с участием более 20 человек. Видео: LiveResult. Ru/X ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "moscow"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199579",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199579",
+      "published_at": "2026-11-28T16:03:46+00:00",
+      "text": "🇺🇦 Kiev 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199578",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199578",
+      "published_at": "2026-11-28T16:03:20+00:00",
+      "text": "Join Danny Haiphong LIVE today Nov 28th 1pm eastern 7pm CET w/ Mark Sleboda! Military affairs and international relations expert Mark Sleboda joins from Moscow to discuss the massive escalations from Europe against Russia and why it has prompted Putin to make a nuclear warning to NATO. Estonia, Kaliningrad, UK mobilization, Polish jets scrambling, and drones firing on Russian assets are all flashing war which could;d go nuclear. Meanwhile Israel is unveiling Netanyahu's latest strike plan on Iran that if carried out, would put the entire world at risk. We talk all this and more via the link below: https://www.youtube.com/live/bYD9iTjij9M",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "mobilization",
+        "moscow",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/235029",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/235029",
+      "published_at": "2026-11-28T16:03:01+00:00",
+      "text": "Как хохол капкан на медведя устанавливал: часть 7 Продолжаем чинить карту информационным ресурсам противника и ставить российские флаги там, где, затуманенный нацизмом мозг, их видеть наотрез отказывается. Часть 1 , Часть 2 , Часть 3 , Часть 4 , часть 5 , часть 6 На очереди села Захаровка, Шабельное и Черное и несколько кадров уничтожения живой силы, техники и позиций ВСУ, после которых хохла в этих районах больше не видели. Бойцы группировки \"Север\" продолжают удерживать занятые рубежи и продвигаются в южном направлении, уничтожая группировку противника в Харьковской области. Враг будет разбит! Победа будет за нами!",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117609",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117609",
+      "published_at": "2026-11-28T16:03:01+00:00",
+      "text": "Операционная прямо на передовой: внутри все под рукой – от мобильных ИВЛ до запасов крови, ведь при ранениях счет идет на секунды. ▫️ Командир передовой медицинской группы с позывным \"Сибай\"показал изнутри комплекс, где врачи отдельного медбата спасают бойцов на Днепропетровском направлении. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350615",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350615",
+      "published_at": "2026-11-28T16:00:19+00:00",
+      "text": "Главные новости дня: 🔹 ПВО ночью отразила атаку беспилотников на Россию. 🔹 Россияне при покупке смартфона за границей должны будут зарегистрировать его в базе IMEI-номеров. Уже подключенные к сетям телефоны внесут в базу автоматически . 🔹 Рэпер Macan завершил прохождение срочной службы. 🔹 Жулики обманывают россиян под видом игры в \"Тайного Санту\". 🔹 Родители умышленно не кормили девочку, умершую от истощения в Вологде, заявили в пресс-службе судов. Их арестовали на два месяца. 🔹 Умер писатель Александр Каневский, брат актера Леонида Каневского. 🔹 Математики не до конца понимают решения сложнейших задач, сделанные ИИ, пишет Financial Times. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
