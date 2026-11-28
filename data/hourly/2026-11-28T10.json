@@ -1,0 +1,465 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T10",
+  "generated_at_utc": "2026-11-28T11:00:58.926748+00:00",
+  "window_start_utc": "2026-11-28T10:00:00+00:00",
+  "window_end_utc": "2026-11-28T11:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 5
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 4
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 26,
+    "relevant_posts": 14,
+    "editorial_pool_posts": 26,
+    "retained_without_keyword_match": 12,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 25,
+    "candidate_posts": 25
+  },
+  "posts": [
+    {
+      "id": "tass_agency/408054",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408054",
+      "published_at": "2026-11-28T10:58:50+00:00",
+      "text": "Родители умышленно лишали приемов пищи пятилетнюю девочку из Вологды, которая умерла от истощения. Об этом сообщили в пресс-службе судов Вологодской области со ссылкой на следствие. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350604",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350604",
+      "published_at": "2026-11-28T10:57:06+00:00",
+      "text": "Россияне при покупке смартфона за границей должны будут зарегистрировать его в базе IMEI-номеров. Она заработает с 1 марта 2027 года в рамках закона о новых мерах защиты от телефонных и интернет-мошенников, рассказал РИА Новости Сергей Боярский. IMEI —…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117593",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117593",
+      "published_at": "2026-11-28T10:53:14+00:00",
+      "text": "❗️ В Макеевке при ударе беспилотника по частному дому погибли четыре человека, включая двух детей. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234997",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234997",
+      "published_at": "2026-11-28T10:47:01+00:00",
+      "text": "19 ноября 2026 года в Киеве в результате удара баллистической ракеты ликвидирован полковник Момот Дмитрий Сергеевич. Проходил службу в генеральном штабе ВСУ. @ukrainian_guide",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "missile",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408053",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408053",
+      "published_at": "2026-11-28T10:45:53+00:00",
+      "text": "Европа израсходовала уже 18% от закачанных летом объемов газа, свидетельствуют подсчеты ТАСС на основе данных GIE. По состоянию на 26 ноября ПХГ Европы были заполнены на 66,6% против 76,9% годом ранее.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "dva_majors/102661",
+      "channel": "dva_majors",
+      "source": "Two Majors",
+      "url": "https://t.me/dva_majors/102661",
+      "published_at": "2026-11-28T10:45:11+00:00",
+      "text": "🇪🇺 🛰 Евросоюз начинает создание альтернативы Starlink 🇧🇪 В Бельгии (в Марсинеле, районе города Шарлеруа) открылся крупнейший в Европе завод компании Aerospacelab по производству космических спутников. Основной заказчик – европейская программа IRIS² (Infrastructure for Resilience, Interconnectivity and Security by Satellite), предусматривающая создание собственной защищённой спутниковой коммуникационной системы ЕС. Компания Aerospacelab, уже получила заказ на 264 из 348 спутников программы IRIS². Их производство начнётся к концу 2028 года, а поставка заказчику – к 2030 году. ✨ Попутно уже прорабатывается вопрос информационной подготовки решения об отказе Европы от Starlink . В ЕС обвинили SpaceX в намеренном замедлении скорости интернета для Украины, власти Британии заявили об утрате доверия к компании. ✨ ⭐️ Новая спутниковая связь станет основой для развития совместного управления войсками и создания единой армии ЕвроНАТО . Два майора Два майора в МАХ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30829",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30829",
+      "published_at": "2026-11-28T10:40:20+00:00",
+      "text": "🛠 From scratch-assembling to reprogramming trophies: the daily routine of technical maintenance unit of the Tsentr Group's anti-UAV battalion. ➡️ The servicemen supply teams in the special military operation zone with serviceable equipment. They run diagnostics and return damaged drones to service in the shortest possible time. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117592",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117592",
+      "published_at": "2026-11-28T10:37:01+00:00",
+      "text": "Шесть мирных жителей ЛНР ранены в результате атак ВСУ за минувшие сутки, – сообщили глава республики Леонид Пасечник. ▪️ В Лисичанске атакован автомобиль энергетиков, ранен водитель. ▪️ На участке дороги «Георгиевка – Ровеньки» вражеский БПЛА нанес удар по экскаватору, пострадал работник дорожной службы. ▪️ В Старобельском округе ВСУ атаковали служебный автомобиль супермаркета, ранены двое мужчин. Еще один удар противник нанес в Славяносербском округе по грузовому автомобилю, пострадал водитель. ▪️ В Луганске враг атаковал грузовой автомобиль, ранена проходившая рядом женщина. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "energy",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234996",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234996",
+      "published_at": "2026-11-28T10:35:03+00:00",
+      "text": "Telegram прислал пользователям iPhone с устаревшими версиями iOS предупреждение об угрозе безопасности и призвал обновить операционную систему для защиты данных. Основатель мессенджера Павел Дуров подтвердил массовый характер рассылки, опубликовав скриншот уведомления. «Пользователей iPhone взламывают в массовом масштабе. Если ваша iOS хотя бы немного устарела, все ваши данные под угрозой. Для взлома может быть достаточно просто открыть сайт. Мы отправляем это предупреждение всем нашим пользователям старых версий iOS», — написал Дуров. 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36060",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36060",
+      "published_at": "2026-11-28T10:34:36+00:00",
+      "text": "📝 Breaking on their own 📝 Ukrainians don't need electricity To cause a blackout in Dnipro or Kyiv , sometimes a simple voltage surge is enough. As the campaign to systematically destroy Ukrainian energy infrastructure and related facilities continues across so-called Ukraine, accidents increasingly occur on their own. As the cold approaches, the schedule of attacks on the so-called Ukraine's economy becomes more intense. 🔻 Where power is being cut off now: ▪️ In the capital, as well as parts of Bucha, Fastiv and Obukhiv districts , emergency power outages have been in effect since morning. According to preliminary data, this is related to impacts near the Bilotserkivsk CHP . ▪️ In Dnipro and Dnipropetrovsk Region , due to the inability to handle current loads, large-scale outages are also being observed. Yesterday evening, a group of residents from one of the city's streets held a protest because they constantly have their electricity cut off. In some cities, such as Pavlohrad , there may be no power for 8-10 hours a day. The situation is similar in Zaporizhia and Odesa , where some districts have had no power for over a week. Meanwhile, systematic fire strikes continue against storage facilities, rolling stock and other enemy targets serving the Ukrainian economy. Explosions were heard in Kharkiv , Zhytomyr , Kirovohrad , and Kyiv regions . Near Dnipro , another locomotive has been put out of action. This morning, Kremenchuk and Kryvyi Rih also took hits. At the same time, the overall intensity of strikes has decreased somewhat compared to previous days, which may be related to heavy snowfall in the border areas and temperatures dropping below freezing. ❗️ Precision and continuous strikes on power transmission lines and high-voltage substations in the central and eastern parts of so-called Ukraine prevent the enemy from conducting emergency power rerouting, which is why its transit to many regions is disrupted. This leads to prolonged outages. Strikes on power lines with \"Geraniums\" are bearing fruit, and this work should certainly continue. However, it should be remembered that the enemy is trying to \"cut off\" new regions and the border areas, so one's own forces and means for repelling attacks and eliminating the consequences of strikes on energy infrastructure must be increased. #digest #Dnipro #Kyiv #Russia #Ukraine ✉ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy",
+        "kharkiv",
+        "kyiv",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53604",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53604",
+      "published_at": "2026-11-28T10:27:26+00:00",
+      "text": "❗️ Libya will demand compensation from Ukraine for the consequences of the attack on the Benghazi port, according to the country's Foreign Minister, Abd al-Hadi al-Hwej. The compensation should include payments to the families of the two Libyan servicemen who died, as well as compensation for damage to the port's infrastructure. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/AussieCossack/53603"
+      ],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408052",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408052",
+      "published_at": "2026-11-28T10:27:08+00:00",
+      "text": "🚨 В Макеевке ДНР при ударе по частному дому погибли четыре человека, включая двух детей, сообщили ТАСС в оперативных службах.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234995",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234995",
+      "published_at": "2026-11-28T10:25:05+00:00",
+      "text": "МИД Канады вызвал российского посла из-за обломков ракет на территории Польши Ведомство выразило солидарность с союзниками по НАТО и предупредило о риске непреднамеренной эскалации , подчеркнув приверженность защите территории альянса и поддержке Украины.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "missile"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408051",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408051",
+      "published_at": "2026-11-28T10:20:50+00:00",
+      "text": "🚨 ВСУ ударили по служебному авто Васильевской больницы, погибли медицинская сестра и водитель, еще два человека ранены, сообщает Минздрав Запорожской области.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "intelslava/98719",
+      "channel": "intelslava",
+      "source": "Intel Slava",
+      "url": "https://t.me/intelslava/98719",
+      "published_at": "2026-11-28T10:18:39+00:00",
+      "text": "🇦🇫 ⚡️ — Seven people were killed and 97 were injured in an explosion at a school in the Kunar province of Afghanistan, according to TOLO News, citing local police. According to the television channel, the explosion was caused by a substance stored in a house near the school, which was intended for use in mining operations. @Intelslava",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117591",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117591",
+      "published_at": "2026-11-28T10:15:18+00:00",
+      "text": "В ЛНР ФСБ задержала жителя Свердловского района за передачу ВСУ сведений о российской армии. По данным ведомства, подозреваемый отправлял украинским пропагандистам видеоролики, которые снимал по заданию своих кураторов из вражеских спецслужб. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78325",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78325",
+      "published_at": "2026-11-28T10:14:22+00:00",
+      "text": "❗️ Ливия потребует от Украины компенсацию за последствия удара по порту Бенгази. Об этом заявляет глава МИД страны Абд аль-Хади аль-Хувейдж. Компенсация должна включать выплаты семьям погибших ливийских военнослужащих и возмещение ущерба портовой инфраструктуре. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350603",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350603",
+      "published_at": "2026-11-28T10:13:27+00:00",
+      "text": "Семь человек погибли, почти 100 пострадали из-за взрыва в школе в Афганистане, передает Shafaqna. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "DDGeopolitics/199529",
+      "channel": "DDGeopolitics",
+      "source": "DD Geopolitics",
+      "url": "https://t.me/DDGeopolitics/199529",
+      "published_at": "2026-11-28T10:13:24+00:00",
+      "text": "🇺🇦 Democratic mobilization process in Sumy. The woman filming the video claims that the employee of the recruitment center is drunk. 🔴 @DDGeopolitics",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "mobilization"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408050",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408050",
+      "published_at": "2026-11-28T10:08:53+00:00",
+      "text": "▶️ 7 человек погибли, 97 пострадали в результате взрыва в школе в Афганистане , сообщает TOLO News со ссылкой на местную полицию. По данным телеканала, взрыв произошел из-за вещества, которое хранилось в доме неподалеку от школы и предназначалось для горных работ. Видео: Eagle Eye/Х ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78324",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78324",
+      "published_at": "2026-11-28T10:03:52+00:00",
+      "text": "Частная ПВО на Украине заявляет о сбитых почти сотни ударных БПЛА. Сто предприятий получили полномочия, группы прикрывают объекты по договору с Минобороны, военные дают разведку и берут ответственность за огонь, а частные компании сбивают преданные цели. Закупай что хочешь — от дронов-перехватчиков до самолётов. Они не спорили, можно ли частникам защищать заводы. Они просто взяли и сделали — и встроили это в единую систему. А у нас? Мы говорим: объектовая защита — это не только государственная задача. Опыт организации обороны, железо, школа — всё есть. Но вместо внедрения мы бьемся о палки в колесах. Бюрократия, согласования и т.п На выходе имеем работающую систему у них, а у нас — разговоры о том, как это могло бы быть. Пока одни сбивают, другие объясняют, почему нельзя. Маркет | Чат-бот | Телеграм | MAX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "procurement",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234994",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234994",
+      "published_at": "2026-11-28T10:03:01+00:00",
+      "text": "Прокуратура Польши завершила расследование авиакатастрофы под Смоленском в 2010 году, в которой \"скопытился\" бывший президент Лех Качиньский, — Polsat. Причиной катастрофы стала техническая ошибка при посадке. Приборы показывали высоту примерно на 150 метров больше фактической, из-за чего самолёт начал снижение слишком поздно. Эх, такие нажористые версии, что самолет сбил лично Путин или самолет сбила елка посаженная лично Сталиным не прошли. 😃 💥 Подписаться на мой канал в MAX — https://max.ru/colonelcassad",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30827",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30827",
+      "published_at": "2026-11-28T10:01:34+00:00",
+      "text": "The Armed Forces of the Russian Federation continue the special military operation. ↗️ The units of the Sever Group of Forces improved the tactical situation. In Kharkov region, strikes were delivered at formations of three mechanised brigades, two assault regiments of the AFU, one territorial defence brigade, and one border detachment of the State Border Guard Service of Ukraine near Novoselovka, Khatneye, Zavadskoye, Podsredneye, Sosnovka, and Tsyrkuny (Kharkov region). 💥 In Sumy region, one mechanised brigade, one airmobile brigade of the AFU, and two territorial defence brigades have been neutralised close to Olshanka, Vakalovshchina, Vyazovoye, Velikaya Chernetchina, and Peschanoye (Sumy region). ▪️ The AFU losses amounted to up to 160 troops, three armoured fighting vehicles, 12 motor vehicles, and three electronic warfare stations. 📍 The Zapad Group of Forces improved the situation along the front line. Losses were inflicted on manpower and hardware of two mechanised brigades, one assault brigade of the AFU, and one territorial defence brigade near Peski-Radkovskiye (Kharkov region), Rubtsy, Starodubovka, and Raygorodok (Donetsk People's Republic). ▪️ The AFU losses amounted to over 210 troops, two armoured fighting vehicles, ten motor vehicles, one field artillery gun, and one MLRS vehicle. ⏩ The Yuzhnaya Group of Forces took more advantageous lines and positions. The Group's units hit formations of three mechanised brigades, one motorised infantry brigade, one mountain assault brigade, and one airmobile brigade of the AFU near Kramatorsk, Slavyansk, Druzhkovka, and Nikolayevka (Donetsk People's Republic). ▪️ The AFU losses amounted to up to 175 troops, one armoured fighting vehicle, 16 motor vehicles, and three artillery guns. 📍 The Tsentr Group's units continued to carry out active offensive operations. They inflicted losses on manpower and hardware of two mechanised brigades of the AFU, one marine brigade, three national guard brigades, and one special operations brigade close to Andreyevka, Novopavlovka, Starorayskoye, Kuritsyno (Donetsk People's Republic) and Raypole (Dnepropetrovsk region). ▪️ The AFU losses amounted to more than 340 troops, five armoured fighting vehicles, five motor vehicles, and one MLRS vehicle. 👉 See Part 2 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "donetsk",
+        "kharkiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30828",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30828",
+      "published_at": "2026-11-28T10:01:34+00:00",
+      "text": "🎖 🎖 by Russian Defence Ministry on progress of special military operation as of 28 November 2026 Part 2 ( 👉 see Part 1 ) ↗️ The Vostok Group of Forces continued to advance into the depths of the enemy's defence. Manpower and hardware of one mechanised brigade, one assault brigade, three air assault brigades of the AFU, and one marine brigade have been hit near Malinovka, Ivanovka, Pokrovskoye (Dnepropetrovsk region), Novotroitskoye, Schastlivoye, and Novoivanovka (Zaporozhye region). ▪️ The enemy lost up to 190 troops, three armoured fighting vehicles, and eight motor vehicles. 📍 The Dnepr Group's units improved the situation along the front line. Formations of one mechanised brigade and one mountain assault brigade of the AFU were hit near Grigorovskoye and Kirovo in Zaporozhye region. ▪️ Up to 25 troops, two armoured fighting vehicles, and ten motor vehicles were neutralised. ✈️ Operational-Tactical Aviation, attack drones, missile troops, and artillery of the Armed Forces of the Russian Federation have inflicted damage on power and fuel infrastructure facilities used for the interests of the Armed Forces of Ukraine, assembly, storage and launch sites of unmanned aerial vehicles, military airfields, as well as temporary deployment areas of Ukrainian armed groups and foreign mercenaries in 156 areas. ▫️ Air defence systems shot down five guided aerial bombs, one HIMARS-made MLRS projectile, and 1,601 fixed-wing unmanned aerial vehicles. 📊 In total, since the beginning of the special military operation, the enemy has lost : ▫️ 674 aircraft, ▫️ 284 helicopters, ▫️ 301,051 unmanned aerial vehicles, ▫️ 672 anti-aircraft missile systems, ▫️ 31,811 tanks and other armoured fighting vehicles, ▫️ 1,799 MLRS combat vehicles, ▫️ 36,997 field artillery guns and mortars, ▫️ 78,193 special military vehicles. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "missile",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117590",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117590",
+      "published_at": "2026-11-28T10:00:26+00:00",
+      "text": "Восемь гуманитарных пунктов на базе православных храмов должны стать местами, где люди смогут получить помощь в чрезвычайных ситуациях, – сообщил председатель правительства ДНР Андрей Чертков. « Берем проект «Народного фронта» в работу, предложим и нашему бизнесу подключиться к оснащению таких пунктов », – добавил он. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
