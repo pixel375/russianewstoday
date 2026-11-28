@@ -1,0 +1,236 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T00",
+  "generated_at_utc": "2026-11-28T01:03:28.864511+00:00",
+  "window_start_utc": "2026-11-28T00:00:00+00:00",
+  "window_end_utc": "2026-11-28T01:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 9,
+    "relevant_posts": 2,
+    "editorial_pool_posts": 9,
+    "retained_without_keyword_match": 7,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 9,
+    "candidate_posts": 9
+  },
+  "posts": [
+    {
+      "id": "tass_agency/408007",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408007",
+      "published_at": "2026-11-28T00:55:40+00:00",
+      "text": "📹 Всероссийский Дед Мороз из Великого Устюга назвал мир во всем мире своим главным желанием. Об этом он рассказал ТАСС. Видео: Ксения Плакунова/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "bricsnews/19866",
+      "channel": "bricsnews",
+      "source": "BRICS News",
+      "url": "https://t.me/bricsnews/19866",
+      "published_at": "2026-11-28T00:38:07+00:00",
+      "text": "JUST IN: 🇨🇴 Colombian peso on track for its worst month in more than four years. @BRICSNews",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408006",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408006",
+      "published_at": "2026-11-28T00:34:31+00:00",
+      "text": "ЕК предложила новую программу финансирования Киева на €45 млрд в 2027 году, еще €25 млрд она ожидает \"от партнеров\", заявила Урсула фон дер Ляйен. Этот проект будет рассмотрен странами ЕС на экстренном саммите 26-27 ноября.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234954",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234954",
+      "published_at": "2026-11-28T00:33:01+00:00",
+      "text": "\"Энергия декоммунизации\". Cезон \"Осень-Зима 2026-2027\". Выпуск 52 . Инфографика доступности* электроэнергии на территории Украины по областям на 27 ноября 2026. * Инфографика отражает картину плановых отключений электроэнергии. Аварийные отключения не учитываются. @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "energy"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408005",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408005",
+      "published_at": "2026-11-28T00:25:19+00:00",
+      "text": "Премьер Британии Бернэм глубоко убежден в необходимости возвращения в ЕС, пишет The Times со ссылкой на неназванного близкого к главе правительства высокопоставленного человека. Это его настоящая позиция, а не просто продуманный политический ход или тактический…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408004",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408004",
+      "published_at": "2026-11-28T00:17:01+00:00",
+      "text": "💲 Поддержка Украины обошлась Евросоюзу в ноябре в $15 млрд. Общий объем финансовой помощи, оказанной западными странами Киеву с февраля 2022 года, достиг $227,9 млрд. Об этом свидетельствуют подсчеты ТАСС на основе данных украинского Минфина. Финансовая помощь от других стран и международных институтов для Киева в ноябре составила менее $1 млрд.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408003",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408003",
+      "published_at": "2026-11-28T00:09:01+00:00",
+      "text": "С 1 декабря некоторые категории граждан смогут претендовать на льготный автокредит, рассказал ТАСС депутат Говырин (\"Единая Россия\"): ▪️ программа позволит приобрести новый автомобиль российского производства с софинансированием из бюджета; ▪️ скидка 20% доступна…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408002",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408002",
+      "published_at": "2026-11-28T00:03:33+00:00",
+      "text": "▶️ Киев реализует целенаправленную стратегию точечной эскалации каждый раз, как только намечается прогресс в урегулировании. Об этом заявил в интервью ТАСС Мирошник. Видео: ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234953",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234953",
+      "published_at": "2026-11-28T00:03:01+00:00",
+      "text": "⠀ 🔴 Свидетельства вернувшихся из плена о зверствах украинских неонацистов. Смотреть на Rutube Смотреть предыдущие свидетельства Наш Международный общественный трибунал по преступлениям украинских неонацистов (председатель — М. С. Григорьев ) из представителей гражданского общества 35 стран мира продолжает сбор свидетельств преступлений киевского режима. Российский военнослужащий с позывным \"Меломан\": 00:00 \"На яме нас избивали и допрашивали. Били руками и ногами. Надевали пакет на голову. Били плёткой, палками. 00:29 Травили собаками, пытали электричеством, срезали с кожи татуировки. 00:57 За нарушение наказывали всю камеру. Кто-то что-то громко или не так сказал — доставалось всем. Если заснул или лёг на кровать, наказывали тоже всех. Заставляли заниматься физическими упражнениями до изнеможения\". Проект реализуется при поддержке Леонида Слуцкого, Бориса Рожина, Армена Гаспаряна, Олега Матвейчева, Дмитрия Пучкова, Игоря Коротченко, Сергея Котькало, Егора Холмогорова, Игоря Скурлатова, Александра Малькевича, Михаила Онуфриенко . Прошу сделать репост и распространять данную информацию — важно, чтобы и у нас, и за рубежом знали правду. #МеждународныйОбщественныйТрибунал #Донбасс #СВО #ОПРФ #ПреступленияКиевскогоРежима #ПреступленияВСУ #ЦентрИсторииСВО #Безсрокадавности #ХранитьВечно Подписаться на канал в МАХ Подписаться на канал в ТГ Подписаться на канал в Rutube",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
