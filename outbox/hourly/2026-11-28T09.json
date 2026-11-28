@@ -1,0 +1,23 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-28T09",
+  "snapshot_generated_at_utc": "2026-11-28T10:02:13.446991+00:00",
+  "items": [
+    {
+      "title": "Russian-appointed authorities report deadly attack on hospital vehicle",
+      "summary": "The Russian-appointed health ministry in occupied Zaporizhzhia region said a nurse and driver were killed in an alleged Ukrainian drone attack on a Vasylivka hospital vehicle. Two others, including the hospital's chief physician, were reportedly injured. The allegation has not been independently verified.",
+      "source_urls": [
+        "https://t.me/rian_ru/350601",
+        "https://t.me/donbassr/117588",
+        "https://t.me/boris_rozhin/234990"
+      ]
+    },
+    {
+      "title": "Russian security service reports detention over alleged intelligence sharing",
+      "summary": "Russia's Federal Security Service said it detained a resident of occupied Luhansk region on suspicion of passing information about Russian military personnel to Ukraine's security service. The allegations have not been independently verified.",
+      "source_urls": [
+        "https://t.me/tass_agency/408047"
+      ]
+    }
+  ]
+}
