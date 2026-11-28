@@ -1,0 +1,30 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-28T14",
+  "snapshot_generated_at_utc": "2026-11-28T16:08:15.724432+00:00",
+  "items": [
+    {
+      "title": "Germany reportedly allocates €11.6 billion for Ukraine in 2027 budget",
+      "summary": "Deutschlandfunk reported that Germany's approved 2027 federal budget includes €11.6 billion in support for Ukraine. Total federal expenditure is expected to reach approximately €556 billion.",
+      "source_urls": [
+        "https://t.me/AussieCossack/53608"
+      ]
+    },
+    {
+      "title": "Russia claims strike on cargo ship in Black Sea",
+      "summary": "Russia's Defence Ministry said it struck a cargo vessel that it alleged was transporting military supplies to Ukraine. The vessel's cargo and the extent of damage have not been independently confirmed.",
+      "source_urls": [
+        "https://t.me/mod_russia_en/30833",
+        "https://t.me/tass_agency/408063"
+      ]
+    },
+    {
+      "title": "Ukraine reportedly seeks further destruction of Crimean Bridge",
+      "summary": "The Telegraph, citing military sources, reported that President Volodymyr Zelensky wants the bridge to be completely destroyed. The reported directive has not been independently confirmed.",
+      "source_urls": [
+        "https://t.me/voenkorKotenok/78342"
+      ]
+    }
+  ],
+  "late_recovery": true
+}
