@@ -1,0 +1,190 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T03",
+  "generated_at_utc": "2026-11-28T04:08:41.718682+00:00",
+  "window_start_utc": "2026-11-28T03:00:00+00:00",
+  "window_end_utc": "2026-11-28T04:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 0
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 6,
+    "relevant_posts": 1,
+    "editorial_pool_posts": 6,
+    "retained_without_keyword_match": 5,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 6,
+    "candidate_posts": 6
+  },
+  "posts": [
+    {
+      "id": "tass_agency/408017",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408017",
+      "published_at": "2026-11-28T03:25:07+00:00",
+      "text": "Переезд пенсионера в другой регион может изменить размер пенсии, сообщил ТАСС член ОП РФ Машаров. При смене места жительства в пределах РФ пенсионеры обязаны извещать Соцфонд, чтобы выплата и доставка пенсии осуществлялись по новому адресу, а также с учетом районного коэффициента и региональных льгот и доплат.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408016",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408016",
+      "published_at": "2026-11-28T03:19:01+00:00",
+      "text": "Международное рейтинговое агентство S&P понизило прогноз по кредитному рейтингу Франции со стабильного до негативного. Среди причин изменений выделяется рост госдолга, сдержанные перспективы экономического роста и слабый политический консенсус по вопросу преодоления бюджетного дефицита.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408015",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408015",
+      "published_at": "2026-11-28T03:12:01+00:00",
+      "text": "📹 Расчет \"Мста-С\" группировки войск \"Запад\" за год совершил более 300 боевых выездов, сообщили в МО РФ. Видео: Минобороны России/ТАСС ✔ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350589",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350589",
+      "published_at": "2026-11-28T03:09:39+00:00",
+      "text": "Бойцы «Южной» группировки за сутки уничтожили более 180 украинских военных в ДНР, сообщили в Минобороны. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408014",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408014",
+      "published_at": "2026-11-28T03:04:01+00:00",
+      "text": "Мошенники реализуют двухэтапные схемы с проверкой сведений о получении соцвыплат . Это следует из материалов МВД РФ, с которыми ознакомился ТАСС: ▪️ неизвестный звонит человеку, представляясь сотрудником соцслужбы, и сообщает ему о положенной выплате. Для этого аферисту якобы нужно проверить документы; ▪️ далее с жертвой связывается псевдосиловик, предлагающий установить на телефон приложение, через которое с жертвой поддерживается видеосвязь; ▪️ затем под различными предлогами человека убеждают в необходимости совершения финансовых операций и передачи денег третьим лицам.",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234965",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234965",
+      "published_at": "2026-11-28T03:03:01+00:00",
+      "text": "В Сенате США в проекте оборонного бюджета на 2027 год предложили запретить безальтернативные контракты свыше $100 млн по двум программам ПРО Golden Dome : Space Data Network (передача данных) и SB-AMTI (космическое отслеживание воздушных целей). На второй этап этих программ с участием нескольких подрядчиков закладывают $860,5 млн и $509,8 млн соответственно. Цель – снизить критическую зависимость космических сил США от одного поставщика в лице SpaceX (ранее получила по ним $6,45 млрд). При этом действующие контракты сохраняются, а общий бюджетный запрос на Golden Dome предлагается сократить с $17,5 млрд до $9,4 млрд. @poisk_mil",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
