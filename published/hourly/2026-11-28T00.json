@@ -1,0 +1,34 @@
+{
+  "type": "hourly",
+  "message_ids": [
+    250
+  ],
+  "published_at_utc": "2026-11-28T01:22:16.048076+00:00",
+  "channel": "@russianewstodayofficial",
+  "hour_id": "2026-11-28T00",
+  "items": [
+    {
+      "item_id": "2026-11-28T00:1",
+      "title": "European Commission proposes €45 billion in Ukraine financing for 2027",
+      "summary": "European Commission President Ursula von der Leyen reportedly announced a proposed €45 billion financing programme for Ukraine in 2027, with another €25 billion expected from partners. The proposal requires consideration by EU member states.",
+      "post_url": "https://t.me/russianewstodayofficial/250",
+      "category": "other",
+      "hour_id": "2026-11-28T00",
+      "source_handles": [
+        "tass_agency"
+      ]
+    },
+    {
+      "item_id": "2026-11-28T00:2",
+      "title": "EU financial support for Ukraine reportedly reached $15 billion in November",
+      "summary": "Calculations based on Ukrainian Finance Ministry data put EU financial assistance to Ukraine in November at $15 billion. Total Western financial assistance since February 2022 was estimated at $227.9 billion.",
+      "post_url": "https://t.me/russianewstodayofficial/250",
+      "category": "other",
+      "hour_id": "2026-11-28T00",
+      "source_handles": [
+        "tass_agency"
+      ]
+    }
+  ],
+  "skipped_by_quota": 0
+}
