@@ -1,0 +1,428 @@
+{
+  "schema_version": 2,
+  "hour_id": "2026-11-28T09",
+  "generated_at_utc": "2026-11-28T10:02:13.446991+00:00",
+  "window_start_utc": "2026-11-28T09:00:00+00:00",
+  "window_end_utc": "2026-11-28T10:00:00+00:00",
+  "sources": [
+    {
+      "handle": "DDGeopolitics",
+      "name": "DD Geopolitics",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "intelslava",
+      "name": "Intel Slava",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "bricsnews",
+      "name": "BRICS News",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "AussieCossack",
+      "name": "Aussie Cossack",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "MFARussia",
+      "name": "Russian Ministry of Foreign Affairs",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "mod_russia_en",
+      "name": "Russian Ministry of Defence (English)",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "tass_agency",
+      "name": "TASS",
+      "pages": 1,
+      "raw_count": 4
+    },
+    {
+      "handle": "rian_ru",
+      "name": "RIA Novosti",
+      "pages": 1,
+      "raw_count": 3
+    },
+    {
+      "handle": "rybar_in_english",
+      "name": "Rybar in English",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "dva_majors",
+      "name": "Two Majors",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "WarGonzo",
+      "name": "WarGonzo",
+      "pages": 1,
+      "raw_count": 1
+    },
+    {
+      "handle": "boris_rozhin",
+      "name": "Colonelcassad",
+      "pages": 1,
+      "raw_count": 6
+    },
+    {
+      "handle": "voenkorKotenok",
+      "name": "Voenkor Kotenok",
+      "pages": 1,
+      "raw_count": 2
+    },
+    {
+      "handle": "nab_ukraine",
+      "name": "National Anti-Corruption Bureau of Ukraine (NABU)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "sap_gov_ua",
+      "name": "Specialized Anti-Corruption Prosecutor's Office (SAPO)",
+      "pages": 1,
+      "raw_count": 0
+    },
+    {
+      "handle": "donbassr",
+      "name": "Donbass Decides (Донбасс решает)",
+      "pages": 1,
+      "raw_count": 2
+    }
+  ],
+  "source_failures": [],
+  "coverage_complete": true,
+  "stats": {
+    "raw_posts": 23,
+    "relevant_posts": 15,
+    "editorial_pool_posts": 23,
+    "retained_without_keyword_match": 8,
+    "excluded_by_candidate_cap": 0,
+    "deduplicated_posts": 22,
+    "candidate_posts": 22
+  },
+  "posts": [
+    {
+      "id": "AussieCossack/53602",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53602",
+      "published_at": "2026-11-28T09:59:38+00:00",
+      "text": "❗️ The Greek Archbishop of Australia Makarios is upset after he copped social media backlash in endorsing the losing Labor Party Premier of Victoria Ben Carroll. Archbishop Makarios complained about what he called \"interventions by third parties in the administrative affairs of the Church, including public campaigns, comments on social media\". @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "AussieCossack/53601",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53601",
+      "published_at": "2026-11-28T09:50:33+00:00",
+      "text": "❗️ \"F*ck you Dan!\" Flashback to this footage of Victorians celebrating Dan Andrew's demise. In the history of Victoria there has never been a more hated politician than Dan Andrews. Ben Carroll inherited a sinking ship. Victorians will never forgot what Labor and Dan Andrews did to them during CONVID. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408049",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408049",
+      "published_at": "2026-11-28T09:48:50+00:00",
+      "text": "Детей из семьи в Вологде, где от истощения умерла пятилетняя девочка, оформляют на санаторно-курортное лечение, сообщила Львова-Белова. По ее словам, семья была в поле зрения социальных служб. Сейчас выясняется, какая конкретно помощь была получена и насколько…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117589",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117589",
+      "published_at": "2026-11-28T09:46:06+00:00",
+      "text": "301 051 украинских беспилотника сбито российской ПВО с начала проведения спецоперации, – следует из данных, опубликованных Минобороны РФ. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234993",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234993",
+      "published_at": "2026-11-28T09:45:05+00:00",
+      "text": "Новые кадры судна, подвергшегося атаке вчера в Ормузском проливе @parstodayrussian",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234992",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234992",
+      "published_at": "2026-11-28T09:35:05+00:00",
+      "text": "Экстренные отключения света затронули часть Бучанского, Фастовского и Обуховского районов Киевской области, сообщает ДТЭК В Киеве также ввели экстренные отключения света, сообщили в холдинге \"ДТЭК\".",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rybar_in_english/36059",
+      "channel": "rybar_in_english",
+      "source": "Rybar in English",
+      "url": "https://t.me/rybar_in_english/36059",
+      "published_at": "2026-11-28T09:34:22+00:00",
+      "text": "📝 Abduction instead of extradition 📝 In Austria , two GUR employees were remanded in custody again — just two weeks after being released on bail of €3,000. The sharp reversal in the prosecution's position came after an examination of seized phones and computers. The devices contained traces of preparations for illegal operations not only in Austria itself, but also in Great Britain . The matter concerned the abduction of citizens whom British courts refuse to extradite on economic charges. ➡️ Both suspects were detained on October 5 on suspicion of espionage against the Austrian state. The arrests occurred against the backdrop of the flight of former Ukrainian Prosecutor General Ruslan Kravchenko . He claimed that military intelligence officers were tasked not merely with establishing his whereabouts, but also with carrying out \"unlawful violent actions\" against him. According to him, the orders came from the office of the president of so-called Ukraine. In those same days, police detained Mikhail Tkach , a journalist from Ukrainian Pravda, who was searching for the fugitive official. 📌 If the version about preparations for abductions is confirmed, explanations will be needed not only for the actions of those who carried them out, but also for who gave them their orders . Operations of this level are not prepared without a green light from above; they always involve specific customers, coordination, and political cover. #Austria #GreatBritain #EU #Ukraine ✉️ MAX 💸 Support us Original msg",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350602",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350602",
+      "published_at": "2026-11-28T09:33:03+00:00",
+      "text": "Уголовное дело об убийстве возбудили по факту смерти от истощения пятилетней девочки из многодетной семьи в Вологде. Эта семья состояла на профилактическом учете, всего в ней воспитывали 12 детей. Законные представители за ними должным образом не ухаживали…",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78323",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78323",
+      "published_at": "2026-11-28T09:29:04+00:00",
+      "text": "В Белой Церкви под Киевом — мощный пожар. Предварительно, попадание реактивной \"Герани\" по электроподстанции. На этом фоне ДТЭК сообщает об экстренных отключениях в трех районах Киевской области. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234991",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234991",
+      "published_at": "2026-11-28T09:25:05+00:00",
+      "text": "Очередные кадры работы \"Гераней\" по железнодорожной инфраструктуре - 00:01, 00:08 - два локомотива районе г. Днепропетровск - 00:12 - один локомотив в районе г. Кривой Рог - 00:23 - один локомотив в районе н.п. Богдановка - 00:36 - один локомотив в районе н.п. Першотравенск Днепропетровской области",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "donbassr/117588",
+      "channel": "donbassr",
+      "source": "Donbass Decides (Донбасс решает)",
+      "url": "https://t.me/donbassr/117588",
+      "published_at": "2026-11-28T09:22:59+00:00",
+      "text": "Медсестра и водитель погибли в результате атаки беспилотника ВСУ по служебному автомобилю Васильевской больницы в Запорожской области. Еще два человека ранены, среди них главврач больницы, – сказано в сообщении минздрава региона. Донбасс решает в MАX",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "voenkorKotenok/78322",
+      "channel": "voenkorKotenok",
+      "source": "Voenkor Kotenok",
+      "url": "https://t.me/voenkorKotenok/78322",
+      "published_at": "2026-11-28T09:22:29+00:00",
+      "text": "Друзья! Мой канал в МАХ заблокирован \"мудрым\" ботом на 72 часа из-за несвоевременной подачи заявки на метку А+ в Роскомнадзор. На самом деле, подвал аж раз пять, но отказывали в метке каждый раз, не указывая при этом конкретную причину отказа. А на обращения, как водится, не реагируют… Замкнутый круг. Россия-матушка… Подал в шестой раз. Народ волнуется, что случилось. По идее должны разблокировать завтра. 👇 👇 👇 Прошу поддержать канал в МАХ подпиской!!! А так, у нас всё как всегда — никаких врагов не надо, сами угробят своими руками доморощенные держиморды. Иной раз подобные действия воспринимаются как вредительство. В любом случае о нормальной коммуникации и помощи говорить не приходится. Непростые времена, везде война, и когда говорят о доступности и безопасности, стоит \"поджать булки\" и быть готовым ко всему. Подпишись в MAX @voenkorKotenok",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234990",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234990",
+      "published_at": "2026-11-28T09:20:01+00:00",
+      "text": "🚨 ВСУ ударили по служебному авто Васильевской больницы, погибли медицинская сестра и водитель, еще два человека ранены, сообщает Минздрав Запорожской области.",
+      "text_truncated": false,
+      "related_urls": [
+        "https://t.me/tass_agency/408048"
+      ],
+      "event_signals": [
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350601",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350601",
+      "published_at": "2026-11-28T09:16:27+00:00",
+      "text": "Медсестра и водитель погибли при ударе дрона ВСУ по служебному автомобилю Васильевской больницы в Запорожской области. Еще два человека получили ранения, среди них главврач больницы, сообщил минздрав региона. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "mod_russia_en/30826",
+      "channel": "mod_russia_en",
+      "source": "Russian Ministry of Defence (English)",
+      "url": "https://t.me/mod_russia_en/30826",
+      "published_at": "2026-11-28T09:15:29+00:00",
+      "text": "Burned on the approaches 💥 Strike UAV operators of the Vostok Group of Forces destroyed enemy reserves in Dnepropetrovsk region. 🔹 Russian Defence Ministry",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408047",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408047",
+      "published_at": "2026-11-28T09:13:02+00:00",
+      "text": "📹 В ЛНР задержали жителя Свердловского района, передававшего СБУ данные для нанесения удара по российским военным. Мужчина также передавал на Украину видео, имитирующее поддержку местными киевского режима, сообщили в УФСБ по региону. Видео: УФСБ России по ЛНР/ТАСС ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kyiv",
+        "strike"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234989",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234989",
+      "published_at": "2026-11-28T09:10:05+00:00",
+      "text": "28 ноября 2026 года. · 00:20 Брацлав Винницкой области — взрыв. Герань. · 00:25 Овруч Житомирской области — взрыв. Герань. · 01:00 Окрестности Маньковки Черкасская область — взрыв. Герань. · 01:20 Лозовая Харьковской области — взрыв. Герань. · 01:50 Харьковская область — взрывы. УМПК. · 01:55 Днепропетровская область — взрывы. УМПК. · 02:10 Запорожье — взрыв. Герань. · 02:38 Лебедевка Киевской области — взрыв. Герань. · 02:40 Харьковская область — взрывы. УМПК. · 03:15 Харьков — взрыв. Герань. · 03:30 Городня Черниговской области — взрыв. Герань. · 03:45 Харьковская область — взрывы. УМПК. · 04:15 Синельниковский район Днепропетровской области — взрыв. Герань. · 05:20 Херсонская область и Донбасс — взрывы. УМПК. · 05:40 Донбасс и Днепропетровская область — взрывы. УМПК. · 05:50–06:05 Запорожская область — взрывы. УМПК. · 06:17 Запорожье — взрыв. Герань. · 06:25 Запорожская область — взрывы. УМПК. На видео последствия удара Герани в Люботине Харьковской области. @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234987"
+      ]
+    },
+    {
+      "id": "AussieCossack/53600",
+      "channel": "AussieCossack",
+      "source": "Aussie Cossack",
+      "url": "https://t.me/AussieCossack/53600",
+      "published_at": "2026-11-28T09:07:29+00:00",
+      "text": "❗️ Julian Assange declares the blame for the Ukraine war and death of 1.5 million Ukrainians on the UK and Canada. @AussieCossack",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "tass_agency/408046",
+      "channel": "tass_agency",
+      "source": "TASS",
+      "url": "https://t.me/tass_agency/408046",
+      "published_at": "2026-11-28T09:06:33+00:00",
+      "text": "Главное из нового брифинга Минобороны России: ▪️ ВС РФ поразили за сутки места сборки, хранения и запуска беспилотников, военные аэродромы ВСУ; ▪️ Средства ПВО за сутки уничтожили 1 601 украинский БПЛА и снаряд HIMARS; ▪️ Потери ВСУ в результате действий российских группировок войск составили порядка 1 100 военных за сутки; ▪️ Российские средства ПВО сбили с начала СВО более 300 тыс. беспилотников ВСУ. ✔️ Подпишись на ТАСС в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "rian_ru/350600",
+      "channel": "rian_ru",
+      "source": "RIA Novosti",
+      "url": "https://t.me/rian_ru/350600",
+      "published_at": "2026-11-28T09:04:13+00:00",
+      "text": "ПВО сбила 1601 дронов ВСУ за сутки , заявило Минобороны. О потерях ВСУ – в нашей инфографике. 🔹 Подписаться / Мы в \"Максе\"",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    },
+    {
+      "id": "boris_rozhin/234987",
+      "channel": "boris_rozhin",
+      "source": "Colonelcassad",
+      "url": "https://t.me/boris_rozhin/234987",
+      "published_at": "2026-11-28T09:03:01+00:00",
+      "text": "Хроника ударов по территории Украины 27 ноября 2026 – 28 ноября 2026 года. Вчера днём и ночью ВКС и ракетные войска наносили удары по целям на Донбассе, в Сумской, Харьковской, Запорожской, Днепропетровской, Херсонской областях (весь спектр средств поражения), Винницкой, Житомирской, Ивано-Франковской, Киевской, Одесской, Черкасской, Полтавской, Ровенской, Черкасской, Черниговской и Черновицкой областях (Герани). 27 ноября 2026 года. · 08:43 Харьков — взрыв. Герань. · 09:00 Днепропетровск — взрыв. Герань. · 09:07 Сарата Одесской области — взрыв. Герань. · 09:25 Измаил Одесской области — взрыв. Герань. · 09:40 Шахтерское Днепропетровской области — взрыв. Герань. · 10:15 Донбасс и Харьковская область — взрывы. УМПК. · 10:20–10:30 Харьков — взрывы. Герани. · 10:30 Харьковская область — взрывы. УМПК. · 11:00–11:05 Чернигов — взрывы. Герани. · 11:20–11:25 Кременчуг Полтавской области — взрывы. Герани. · 11:25 Павлоград Днепропетровской области — взрыв. Герань. · 11:27 Чугуев Харьковской области — взрыв. Дань-Т. · 11:40 Чернигов и Днепропетровск — взрывы. Герани. · 11:40 Измаил Одесской области — взрывы. Герани. · 11:50 Беляевка Харьковской области — взрывы. Дань-Т. · 12:10 Нежин Черниговской области — взрыв. Герань. · 12:25 Лозовая Харьковской области — взрывы. Герани. · 12:30 Чигирин Черкасской области — взрыв. Дань-Т. · 12:40 Опошня Полтавской области — взрыв. Дань-Т. · 12:45 Донбасс — взрывы. УМПК. · 13:47 Умань Черкасской области — взрыв. Герань. · 14:10 Бурштын Ивано-Франковской области — взрыв. Герань. · 14:35 Малин Житомирской области — взрыв. Герань. · 15:45 Окрестности нп Липцы Харьковской области — взрывы. Торнадо-С. · 15:57 Малин Житомирской области и Лозовая Харьковской области — взрывы. Герани. · 16:05 Харьковская область — взрывы. УМПК. · 16:05 Окрестности Шахтерского Днепропетровской области — взрыв. Герань. · 16:20 Черновцы — взрыв. Герань. · 16:30 Днепропетровская область — взрывы. УМПК. · 16:40 Лозовая Харьковской области — взрыв. Герань. · 17:05 Донбасс — взрывы. УМПК. · 17:15 Верховина Ивано-Франковской области — взрыв. Герань. · 17:35 Люботин Харьковской области — взрыв. Герань. · 17:40 Сумская область — взрывы. УМПК. · 17:55 Запорожская область — взрывы. УМПК. · 18:05 Ровно — взрыв. Герань. · 18:10 Белая Церковь Киевской области — взрыв. Герань. · 18:35 Хотин Черновицкой области — взрыв. Герань. · 19:00 Коростень Житомирской области — взрыв. Герань. · 19:30 Липовец Винницкой области — взрыв. Герань. · 19:55 Белая Церковь Киевской области — взрыв. Герань. · 20:10 Малин Житомирской области — взрыв. Герань. · 20:30 Белая Церковь Киевской области — снова взрыв. Герани. · 21:10 Днепропетровск и Кременчуг Полтавской области — взрывы. Герани. · 21:35 Запорожская область — взрывы. УМПК. · 21:35 Липовец Винницкой области — взрыв. Герань. · 21:45 Донбасс — взрывы. УМПК. · 21:52 Житомир — взрыв. Герань. · 21:55 Сумская область — взрывы. УМПК. · 22:10 Кременчуг Полтавской области — взрыв. Герань. · 22:20 Днепропетровская область — взрывы. УМПК. · 22:45 Каменское Днепропетровской области — взрыв. Герань. · 22:53 Лозовая Харьковской области — взрыв. Герань. · 23:40 Днепропетровск — взрыв. Герань. · 23:40 Донбасс и Днепропетровская область — взрывы. УМПК. На фото последствия удара Герани в Коростене Житомирской области. На видео удар Герани в Ровно. @lost_armour",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "kharkiv",
+        "kyiv",
+        "missile",
+        "odesa",
+        "strike",
+        "zaporizhzhia"
+      ],
+      "possible_duplicate_urls": [
+        "https://t.me/boris_rozhin/234989"
+      ]
+    },
+    {
+      "id": "wargonzo/38677",
+      "channel": "WarGonzo",
+      "source": "WarGonzo",
+      "url": "https://t.me/wargonzo/38677",
+      "published_at": "2026-11-28T09:01:02+00:00",
+      "text": "Пульсар русской истории Продолжаем разговор с Александром Прохановым – мыслителем, литературным мастодонтом, патриархом военной журналистики. В новом выпуске он вспоминает Майдан за день до бойни, где у железной бочки грели руки будущие «азовцы»; великие советские стройки, где свирепая машина впервые касалась мха и цветов, вскрывая целину; Чернобыль, над мёртвым четвёртым блоком которого он висел в вертолёте. И размышляет о том, как ярость и созидание идут в русской истории рука об руку, сменяя друг друга, как вспышки пульсара. В четырнадцатом году он стоял на Майдане за день до бойни – протянул озябшие ладони к железной бочке, где горели дрова. Рядом грелись хохлы, которые его узнали и смотрели так, что казалось: ещё немного – и разорвут на клочья. Из той толпы вышли «азовцы»*, которых потом переколотили под Мариуполем, – но тогда они просто стояли у одной бочки с русским писателем, не зная, что находятся уже по разные стороны будущего ожесточённого противостояния. Из этой бочки, как из ящика Пандоры, вышла вся нынешняя украинская война: дроны над Краматорском и Славянском, четырнадцатый год и двадцать второй. И даже дальневосточные дивизии и морские котики, Восточный фронт и то, что ещё впереди. Когда-нибудь найдется бочка, куда всё это уйдёт – и утихнет на время, до следующей эманации. Потому что русская история – не прямая линия, а пульсар: вспыхивает, затухает и снова занимается. Смотрите новый выпуск из рубрики «ПРОХАНОВ: ХОЖДЕНИЕ В ОГОНЬ». Уже сегодня вечером. Эксклюзивно на @wargonzo в МАХ. *Батальон «Азов» признан террористическим и запрещён в РФ",
+      "text_truncated": false,
+      "related_urls": [],
+      "event_signals": [
+        "drone"
+      ],
+      "possible_duplicate_urls": []
+    }
+  ]
+}
