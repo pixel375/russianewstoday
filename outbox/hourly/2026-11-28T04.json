@@ -1,0 +1,38 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-28T04",
+  "snapshot_generated_at_utc": "2026-11-28T06:08:57.389570+00:00",
+  "late_recovery": true,
+  "items": [
+    {
+      "title": "Two suspected Ukrainian intelligence officers reportedly rearrested in Austria",
+      "summary": "Austrian public broadcaster ORF reported that two suspected Ukrainian military intelligence employees were rearrested on suspicion of espionage. Investigators reportedly found evidence on seized electronic devices suggesting preparations for intelligence operations in Britain.",
+      "source_urls": [
+        "https://t.me/DDGeopolitics/199523",
+        "https://t.me/tass_agency/408025"
+      ]
+    },
+    {
+      "title": "Polish deputy defence minister warns against severing relations with Russia",
+      "summary": "Polish Deputy Defence Minister Stanisław Wziątek warned in a radio interview that breaking diplomatic relations with Russia could increase the risk of war.",
+      "source_urls": [
+        "https://t.me/tass_agency/408024"
+      ]
+    },
+    {
+      "title": "Rostov governor reports interception of more than 50 drones",
+      "summary": "Rostov Governor Yuri Slyusar said Russian air defences destroyed more than 50 Ukrainian drones overnight. Information about possible injuries and damage was still being assessed.",
+      "source_urls": [
+        "https://t.me/donbassr/117574"
+      ]
+    },
+    {
+      "title": "Moscow mayor reports further overnight drone interceptions",
+      "summary": "Moscow Mayor Sergei Sobyanin said 123 drones were destroyed while approaching Moscow, providing an updated account of the overnight aerial attack. The figures have not been independently verified.",
+      "source_urls": [
+        "https://t.me/tass_agency/408019",
+        "https://t.me/rian_ru/350590"
+      ]
+    }
+  ]
+}
