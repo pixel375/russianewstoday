@@ -1,0 +1,28 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-28T08",
+  "snapshot_generated_at_utc": "2026-11-28T09:01:05.055160+00:00",
+  "items": [
+    {
+      "title": "Donetsk authorities announce utility information centre",
+      "summary": "Russian-installed regional leader Denis Pushilin announced plans for a centre providing daily updates on water, heating and electricity supplies, including scheduled outages.",
+      "source_urls": [
+        "https://t.me/donbassr/117587"
+      ]
+    },
+    {
+      "title": "Heating reportedly remains disrupted in Odesa",
+      "summary": "Local media reportedly said that as of November 27, heating had been restored to only slightly more than 400 of approximately 1,000 buildings connected to the city's combined heat and power plant. Efforts to restart electricity generation reportedly continue.",
+      "source_urls": [
+        "https://t.me/boris_rozhin/234985"
+      ]
+    },
+    {
+      "title": "Horlivka authorities report civilian injury following drone attacks",
+      "summary": "Russian-installed local official Ivan Prikhodko attributed a civilian injury and damage to public facilities and vehicles to Ukrainian drone attacks over the preceding day. The account has not been independently verified.",
+      "source_urls": [
+        "https://t.me/donbassr/117586"
+      ]
+    }
+  ]
+}
