@@ -1,0 +1,24 @@
+{
+  "type": "hourly",
+  "hour_id": "2026-11-28T05",
+  "snapshot_generated_at_utc": "2026-11-28T06:08:52.355135+00:00",
+  "items": [
+    {
+      "title": "Russia claims 1,246 Ukrainian drones intercepted overnight",
+      "summary": "Russia's Defence Ministry reported intercepting 1,246 Ukrainian drones overnight. Moscow Mayor Sergei Sobyanin separately reported a large-scale drone attack targeting the Moscow region. The figures have not been independently verified.",
+      "source_urls": [
+        "https://t.me/tass_agency/408032",
+        "https://t.me/donbassr/117578"
+      ]
+    },
+    {
+      "title": "Russia reports renewed strikes on Ukrainian infrastructure",
+      "summary": "Russia's Defence Ministry said it struck energy and fuel infrastructure that it claimed supported Ukrainian military operations. It also reported striking a cargo vessel allegedly carrying military supplies. The claims have not been independently verified.",
+      "source_urls": [
+        "https://t.me/tass_agency/408027",
+        "https://t.me/tass_agency/408031",
+        "https://t.me/tass_agency/408030"
+      ]
+    }
+  ]
+}
